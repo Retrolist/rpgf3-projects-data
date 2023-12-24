@@ -1,0 +1,45 @@
+{
+  "bio": "Crypto Enthusiast",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Nangkos88",
+  "websiteUrl": "https://nangkos88",
+  "applicant": {
+    "address": {
+      "address": "0x9C4e57db42c9d8C5Ef233c74FB37bABA630b88d3",
+      "resolvedName": {
+        "address": "0x9C4e57db42c9d8C5Ef233c74FB37bABA630b88d3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9C4e57db42c9d8C5Ef233c74FB37bABA630b88d3"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9C4e57db42c9d8C5Ef233c74FB37bABA630b88d3.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x2cafb37b2b8847e3d0a4e082a8b1125991abe8c50d504b45240d86dca12f8c51"
+  },
+  "impactDescription": "I am currently looking to contribute to a consistent, valuable network of OPs that can build a positive reputation within the Optimism community and the broader blockchain ecosystem, potentially leading to further collaboration and impact opportunities. It is important to note that the impact of contributions can vary widely, and the significance of each contribution depends on its scope and relevance to the project objectives. The collective efforts of contributors help drive the success and evolution of projects like Optimism.",
+  "contributionDescription": "My contributions to Optimism help improve its scalability, security, and usability, ultimately supporting the broader Ethereum ecosystem by providing a Layer 2 solution that can handle high volume transactions while maintaining Ethereum's security guarantees. I once minted NFTs with Optimism Network, minting NFTs is very cheap. NFTs I own, Thehaqq, sup optimisem, omnia, mfop, getthevirtual, oat, eboos, dob, bulid on base, etc The presence of Researchers like me can contribute by exploring and proposing new ideas to improve solutions, increase security, and consensus mechanisms in the Optimism ecosystem. And I was in position Testing too: Rigorous testing and quality assurance are essential. Contributors can help by testing smart contracts, network functionality, and security features.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x9C4e57db42c9d8C5Ef233c74FB37bABA630b88d3",
+      "description": "This is my transaction"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "E-721",
+      "number": "10",
+      "url": "https://optimistic.etherscan.io/address/0x9C4e57db42c9d8C5Ef233c74FB37bABA630b88d3"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x91c35217e956acc70ad43c9cd4ec1900c5ed4c74f1366a69398e4b1520682779",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

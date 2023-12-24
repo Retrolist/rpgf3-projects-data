@@ -1,0 +1,54 @@
+{
+  "bio": "I'm a front end developer and a technical analyst ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Xonom",
+  "websiteUrl": "https://LinkedIn.com/in/xonom",
+  "applicant": {
+    "address": {
+      "address": "0xd2CDE3A0e267b7f8CFf979ee9dC5Ae0A8304ec10",
+      "resolvedName": {
+        "address": "0xd2CDE3A0e267b7f8CFf979ee9dC5Ae0A8304ec10",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xd2CDE3A0e267b7f8CFf979ee9dC5Ae0A8304ec10"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x7206d07ba516b2a774a51927d080bb08a38acb37acfe021a5aae6b94959f0c9e"
+  },
+  "impactDescription": "I've been able to integrate the L2 into governance and proactive trading and will be able to do more if given access . Making it easy to view a trading platform with it aid of smooth layer and also a considerable spread and even integrating more of alt coins and major crypto currency ",
+  "contributionDescription": "I've been able to integrate the L2 into governance and proactive trading and will be able to do more if given access . Making it easy to view a trading platform with it aid of smooth layer and also a considerable spread and even integrating more of alt coins and major crypto currency ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://solitech.xyz",
+      "description": "All set"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Android ",
+      "number": "400",
+      "url": "https://solitech.xyz"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7d58bba966d8905f8c4898d739f558a868b3310187bea366b23991094f53ffc1",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

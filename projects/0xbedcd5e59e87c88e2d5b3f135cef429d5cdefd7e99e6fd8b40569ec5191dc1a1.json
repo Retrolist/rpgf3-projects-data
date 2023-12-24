@@ -1,0 +1,101 @@
+{
+  "bio": "Pure Mathematician working in EVM Data Engineering. Gnosis, CoWSwap & Mintbase",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "bh2smith",
+  "websiteUrl": "https://www.linkedin.com/in/bh2smith/",
+  "applicant": {
+    "address": {
+      "address": "0x8d99F8b2710e6A3B94d9bf465A98E5273069aCBd",
+      "resolvedName": {
+        "address": "0x8d99F8b2710e6A3B94d9bf465A98E5273069aCBd",
+        "name": "bh2smith.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8d99F8b2710e6A3B94d9bf465A98E5273069aCBd"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8d99F8b2710e6A3B94d9bf465A98E5273069aCBd.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8d99F8b2710e6A3B94d9bf465A98E5273069aCBd.jpeg",
+    "id": "OptimistProfile|0x5b1d8cfc915969cd77edadacb69093eb385d930f14188be7390bfc1d2e71f3da"
+  },
+  "impactDescription": "1. The client SDKs (in multiple languages) allow data scientists and engineers to seamlessly integrate blockchain datasets into their backend workflows. This serves for automation, accounting, monitoring, marketing and possibly other purposes. Furthermore, this tooling allows Dune users to organize, manage, test and version control their queries to ensure correctness of their data insights. \n\n2. The alerting system is easily accessible and reusable for anyone in the ecosystem. It can (and has) save protocols money by detecting malicious activity. \n\n3. The Dune Sync project brings offchain data into the dune query engine so that it can be joined together with it's onchain companion data.\n\n4. My spellbook contributions utilize the above tools and bring the story of a protocol to life.",
+  "contributionDescription": "Among all of my open source contributions, I believe my greatest community contributions are within and around the Data Engineering (mostly Dune Analytics) ecosystem. I have built multiple API clients (python, typescript & rust), an alerting system, an sync tool for uploading to community sources and several spells (mostly for CoW Protocol and indirectly dex.trades).\n\nSince Dune indexes Optimisim, all of these tools are readily available for free use to all EVM compatible networks!",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/duneanalytics/dune-client",
+      "description": "Official Python Client SDK for Dune Analytics API."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/bh2smith/ts-dune-client",
+      "description": "NodeJS/Typescript Client for Dune Analytics API."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/bh2smith/duners/",
+      "description": "Rust/Cargo Library for Dune Analytics API"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/cowprotocol/dune-alerts",
+      "description": "A general purpose tool for generating alerts from Dune query results"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/duneanalytics/spellbook",
+      "description": "Dune Analytics Spellbook builds enriched tables off of raw/decoded EVM data."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/cowprotocol/dune-sync",
+      "description": "Components for syncing off-chain data with Dune Community Sources"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Python SDK - Weekly Downloads",
+      "number": "712",
+      "url": "https://pypistats.org/packages/dune-client"
+    },
+    {
+      "description": "NPM SDK - Weekly Downloads",
+      "number": "212",
+      "url": "https://www.npmjs.com/package/@cowprotocol/ts-dune-client"
+    },
+    {
+      "description": "Dune Alerts - # Stars",
+      "number": "15",
+      "url": "https://github.com/cowprotocol/dune-alerts"
+    },
+    {
+      "description": "Dune Client - #Stars",
+      "number": "48",
+      "url": "https://github.com/duneanalytics/dune-client"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 2400,
+      "description": "I was recently/temporarily contracted out by Dune to giev the client a facelift"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 20000,
+      "description": "Some of these project were built for my employer over the course of ~3 months"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xbedcd5e59e87c88e2d5b3f135cef429d5cdefd7e99e6fd8b40569ec5191dc1a1",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 18,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

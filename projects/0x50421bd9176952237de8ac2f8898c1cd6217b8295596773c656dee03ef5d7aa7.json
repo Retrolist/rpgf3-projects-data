@@ -1,0 +1,96 @@
+{
+  "bio": "A rich toolset for the entire journey of Web3 contract development",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Remix Project",
+  "websiteUrl": "https://remix.ethereum.org",
+  "applicant": {
+    "address": {
+      "address": "0xa923A7CD364779c8b97522ca031804Ce639fA2Be",
+      "resolvedName": {
+        "address": "0xa923A7CD364779c8b97522ca031804Ce639fA2Be",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa923A7CD364779c8b97522ca031804Ce639fA2Be"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa923A7CD364779c8b97522ca031804Ce639fA2Be.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa923A7CD364779c8b97522ca031804Ce639fA2Be.png",
+    "id": "OptimistProfile|0x560521e559bc570d1a4fab1ec0c53eda67fa9711dd7e0b17cff365863b8b06a7"
+  },
+  "impactDescription": "Adding direct support for Optimism in Remix is an important signal to developers and end users on Optimism's vital role in the future of the Ethereum ecosystem.\n\nSimilarly, the Remix Rewards program is a way to help grow our user base into a larger and more genuine open source community of practice, and allows the future possibility of granting the holders of these non-transferable NFTs with proportional voting power to help the community decide on new features for the IDE and/or other issues governing the development of the Remix toolset.\n\nThe shared governance ethos of the Optimism network lends credibility to these goals of the Remix Rewards program and, we hope, vice versa.",
+  "contributionDescription": "In mid-2022, Remix Project built direct support for deployments to Optimism mainnet and testnets within the main Remix IDE feature set. \n\nRemix also built and continues to maintain and promote the Remix Rewards program, which mints non-transferable NFT badges on Optimism mainnet to contributors, beta testers, and UX research participants.\n\nAs part of the workshops Remix also provides at various Ethereum events and online, \"Remix Challenges\" are given to participants using ZKPs with NFT rewards for successful completion minted on Optimism mainnet.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum/remix-project/pull/2584",
+      "description": "PR that added support for deployments to Optimism mainnet and testnets in Remix"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/yann300/remix-reward",
+      "description": "Repo for Remix Rewards on Optimism mainnet"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/yann300/remix-rewards-ui",
+      "description": "Repo for Remix Rewards website and minting dApp"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x5d470270e889b61c08c51784cdc73442c4554011",
+      "description": "Remix Rewards contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://rewards.remix.ethereum.eth.limo/",
+      "description": "Website and minting dApp for Remix Rewards"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/yann300/remix-challenges",
+      "description": "Repo for Remix Challenges"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of OP Mainnet Deployments on Remix",
+      "number": "28060",
+      "url": "https://docs.google.com/document/d/1bLqD42iEzJGSjXg1XOAV3RRwofwvzrW30EL_FLaTyEo/edit?usp=sharing"
+    },
+    {
+      "description": "# of OP Goerli Deployments on Remix",
+      "number": "10015",
+      "url": "https://docs.google.com/document/d/1bLqD42iEzJGSjXg1XOAV3RRwofwvzrW30EL_FLaTyEo/edit?usp=sharing"
+    },
+    {
+      "description": "# of Remix Reward Contract Transactions",
+      "number": "240",
+      "url": "https://optimistic.etherscan.io/address/0x5d470270e889b61c08c51784cdc73442c4554011"
+    },
+    {
+      "description": "# of Remix Rewards Held",
+      "number": "199",
+      "url": "https://rewards.remix.ethereum.eth.limo"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 151676.14,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x50421bd9176952237de8ac2f8898c1cd6217b8295596773c656dee03ef5d7aa7",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 91,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

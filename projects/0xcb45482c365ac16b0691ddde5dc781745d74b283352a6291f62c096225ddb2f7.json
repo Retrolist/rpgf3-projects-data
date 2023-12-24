@@ -1,0 +1,55 @@
+{
+  "bio": "Pharmacist",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Alaa",
+  "websiteUrl": "https://tregypt.com",
+  "applicant": {
+    "address": {
+      "address": "0x3790cd6a40abB52E7f994A20b4214AC22BF4BD2E",
+      "resolvedName": {
+        "address": "0x3790cd6a40abB52E7f994A20b4214AC22BF4BD2E",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3790cd6a40abB52E7f994A20b4214AC22BF4BD2E"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3790cd6a40abB52E7f994A20b4214AC22BF4BD2E.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3790cd6a40abB52E7f994A20b4214AC22BF4BD2E.png",
+    "id": "OptimistProfile|0x09bae7dc7e89704167ebaf399d324e793f2d00df7287c4ea96343af3a3be894b"
+  },
+  "impactDescription": "I am an old supporter for this chain i used it as it is clean and smooth chain also it uses small fees of ether as fast as possible i think it is a perfect chain in the point of cheap fees I am an old supporter for this chain i used it as it is clean and smooth chain also it uses small fees of ether as fast as possible i think it is a perfect chain in the point of cheap fees",
+  "contributionDescription": "I am an old supporter for this chain i used it as it is clean and smooth chain also it uses small fees of ether as fast as possible i think it is a perfect chain in the point of cheap fees I am an old supporter for this chain i used it as it is clean and smooth chain also it uses small fees of ether as fast as possible i think it is a perfect chain in the point of cheap fees",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x433a6e6e4c7579338f3e2d325e370a9e1c37ea3098cf02165b32ad9a3f56f9cd",
+      "description": "Minting nft"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Claim ",
+      "number": "10",
+      "url": "https://optimistic.etherscan.io/tx/0xea7acd509af38e4ed9993a26a500231c2d840cdf638ce7b7510ac867973be041"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xcb45482c365ac16b0691ddde5dc781745d74b283352a6291f62c096225ddb2f7",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,59 @@
+{
+  "bio": "Pheasant Network is an optimistic bridge specialized for Layer 2.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Pheasant Network",
+  "websiteUrl": "https://pheasant.network/",
+  "applicant": {
+    "address": {
+      "address": "0x0CdeF21714e12A518B818C9a70c7AA39D4A69974",
+      "resolvedName": {
+        "address": "0x0CdeF21714e12A518B818C9a70c7AA39D4A69974",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0CdeF21714e12A518B818C9a70c7AA39D4A69974"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0CdeF21714e12A518B818C9a70c7AA39D4A69974.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0CdeF21714e12A518B818C9a70c7AA39D4A69974.png",
+    "id": "OptimistProfile|0x7076c59860244a4569389884d90e1b39d3141dd0f839a20615262bf584a5a2d5"
+  },
+  "impactDescription": "By using the optimistic bridge like Pheasant Network, to bridge assets from Ethereum and other Layer 2s to Optimism, users can significantly reduce their gas costs.\n\nIn order to get more assets flowing into DApps in the Optimism ecosystem, it is important to reduce gas costs for the bridge as much as possible. From that perspective, Pheasant Network has been the most efficient in bridging assets and users to Optimism since it began supporting Optimism in January 2023.",
+  "contributionDescription": "We envision an L2 Gate. The bridge will be the entry point to Layer 2, as users will always need to go through some sort of bridge to transfer their assets to Layer 2. Pheasant Network is unique in that it is significantly cheaper and faster than other bridges because it handles transactions optimistically.\n\nWe already support networks that leverage the Op Stack, such as Base. In the future, when Op Stack networks explode, we believe that not only native Op Stack bridges, but also optimistic bridges will be indispensable. This is because optimistic bridges are currently the cheapest and fastest of all bridge types. We will continue to contribute to the Optimism ecosystem by actively bridging the Op Stack ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x558F7547A472a6897126e20440453e57AC320794",
+      "description": "This contract oversees bridges, assets and bonds and verifies transactions."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Pheasant-Network/contracts",
+      "description": "This repository is a monorepo and contains Pheasant Network's contract code."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total txs",
+      "number": "130000",
+      "url": "https://docs.google.com/spreadsheets/d/1e5WmHv7rKRrNKVukoV26PQxF4XoC0FS-Sj6S30b9U-c/edit?usp=sharing"
+    },
+    {
+      "description": "Total amount (ETH)",
+      "number": "7247",
+      "url": "https://docs.google.com/spreadsheets/d/1e5WmHv7rKRrNKVukoV26PQxF4XoC0FS-Sj6S30b9U-c/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd9893c11e947871faa9df334f436c53c8fba6930766c39fc3b05d24afccf301d",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 18,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

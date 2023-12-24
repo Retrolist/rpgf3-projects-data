@@ -1,0 +1,107 @@
+{
+  "bio": "Since 2018, Dappnode has been key for decentralization in Ethereum.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Dappnode",
+  "websiteUrl": "https://dappnode.com/ ",
+  "applicant": {
+    "address": {
+      "address": "0xB22981bA3FE1De2325935c91a3B717168fB86714",
+      "resolvedName": {
+        "address": "0xB22981bA3FE1De2325935c91a3B717168fB86714",
+        "name": "chuygarcia.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xB22981bA3FE1De2325935c91a3B717168fB86714"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB22981bA3FE1De2325935c91a3B717168fB86714.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB22981bA3FE1De2325935c91a3B717168fB86714.png",
+    "id": "OptimistProfile|0x521f6bf8e166d1f5e90013ed6fe2b7baf27e6363ea789742cf6de4d587fd5e95"
+  },
+  "impactDescription": "Running an Optimism Node -deploying the OP Stack- is now as easy as a couple of clicks. The UX of node-running has improved massively, and developers can deploy their own endpoints to avoid rate-limits and query as much as they need. The decentralization potential - the total number of people that can run a node - has expanded to the entire Dappnode user base and all OP users can use Dappnode to have their own, uncensorable, access to the network.",
+  "contributionDescription": "Our first contribution to Optimism was almost 3 years ago in December 2020 when we included the Testnet Verifier and Fraud Prover in our DAppStore for all Dappnode users to help with the early testing of the initial Optimism testnets on Kovan.\nIn its history Dappnode has built bridges between average users and projects that seek decentralization in its development by making running nodes accessible. Supporting Ethereum from early years to PoS migration, optimistic rollups are no stranger to the values that have helped the Ethereum ecosystem, and Dappnode has recently added Optimism to its Rollups menu, a dashboard that lets you easily run a node. We have been present as a tool that pushes decentralization for Optimism as its evolution keeps moving forward and we intend to keep doing so.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/dappnode/DAppNodePackage-op-geth",
+      "description": "Geth client that acts as the Execution Engine responsible for executing blocks"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/dappnode/DAppNodePackage-op-erigon",
+      "description": "Erigon client that acts as the Execution Engine responsible for executing blocks"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/dappnode/DAppNodePackage-op-node",
+      "description": "Client linking Optimism\u2019s execution clients to Ethereum's execution layer"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/dappnode/DAppNodePackage-op-l2geth",
+      "description": "Client for archive nodes (predating Bedrock upgrade)."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dappnode.github.io/explorer/#/repo/0x433772b03c003b7e2b66b4590025ddf54ac33653/0.1.0",
+      "description": "This package contains the verifier and prover used to detect fraud on Kovan"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.dappnode.io/docs/user/rollups/optimism",
+      "description": "Documentation for setting up an Optimism node with Dappnode"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/final-dappnode-future-proofing-ui-ux-of-op-nodes/6189/33",
+      "description": "Demo of the Optimism integration in the Dappnode Rollups menu"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Min mainnet validators running Dappnode",
+      "number": "3402",
+      "url": "https://ethseer.io/mainnet/entity/dappnode"
+    },
+    {
+      "description": "Optimism Integration Announcement Views",
+      "number": "2300",
+      "url": "https://x.com/DAppNode/status/1714593963452076326?s=20"
+    },
+    {
+      "description": "Optimism Integration Announcement Views",
+      "number": "4000",
+      "url": "https://x.com/fable_eth/status/1710985344101896689"
+    },
+    {
+      "description": "Optimism Integration Announcement Views",
+      "number": "3100",
+      "url": "https://x.com/DAppNode/status/1709124834825744756?s=20"
+    },
+    {
+      "description": "Announcement in Discord community",
+      "number": "6500",
+      "url": "https://discord.com/channels/747647430450741309/770583149184155680/1158672870998822942"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50000,
+      "description": "Optimism Missions - Granted to develop the Optimism Rollup menu."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 88,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack tooling"
+}

@@ -1,0 +1,138 @@
+{
+  "bio": "Empowering latin women through web 3 with Optimism",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Women Biz - Optimism Impact ",
+  "websiteUrl": "https://en.hiwomenbiz.com/",
+  "applicant": {
+    "address": {
+      "address": "0xE5df6a208EE99F3D7516d3f6f97416e7b402aeaF",
+      "resolvedName": {
+        "address": "0xE5df6a208EE99F3D7516d3f6f97416e7b402aeaF",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE5df6a208EE99F3D7516d3f6f97416e7b402aeaF"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5df6a208EE99F3D7516d3f6f97416e7b402aeaF.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE5df6a208EE99F3D7516d3f6f97416e7b402aeaF.png",
+    "id": "OptimistProfile|0x8d95a2200de738b1c6e33bf4cec330d5c4238b70bc4147af454b007195c4546c"
+  },
+  "impactDescription": "* We planned and executed over 50 events centered around web3, the Optimism ecosystem, and blockchain.\n* We successfully onboarded our ambassadors into the Optimism forum.\n* The Women Biz Ambassadors proudly possess their own NFT collection hosted on Zora within the Optimism network.\n* Our core team engages in minting NFTs on Zora and conducts demonstrations showcasing the Optimism NFT collection.\n* We had the privilege of being interviewed by Phoenx on X Space, where we discussed the RetroPGF2, providing a global platform to convey our mission.\n* We onboarded on the #Web3RevolutionTour across 9 cities in Peru, with a mission to promote widespread participation in web3 while emphasizing the decentralization of these emerging technologies.\n* We onboarded in the Optimism Governance.",
+  "contributionDescription": "Women Biz has been promoting web3, the Optimism ecosystem, and blockchain in Latin America. We've organized over 50 IRL events, providing education and collaboration opportunities. Our ambassadors joined the Optimism network due to their successful onboarding efforts. Our NFT collection on Zora within Optimism, along with minting and showcasing Optimism's NFTs, fuels growth. Our participation in the #Web3RevolutionTour across 9 Peruvian cities underscores their commitment to web3 education and decentralization. Our involvement in Optimism Governance represents diverse voices shaping decentralized tech adoption and evolution.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://zora.co/collect/oeth:0xd08ee5899552b9f8ba613f7d405d85f1e6e186e5/1/activity",
+      "description": "NFT Collection in the Optimism Network"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xE5df6a208EE99F3D7516d3f6f97416e7b402aeaF",
+      "description": "Delegate votes from our ambassador to Badgeholders"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/womenbiz?tab=projects",
+      "description": "Women Biz: The web3 revolution tour with Optimism "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.co/bBfUifi3nV",
+      "description": "Women Biz - Gitcoin Round participation "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/HiWomenbiz/status/1684331031778693120?s=20",
+      "description": "Women Biz - Web3 revolution tour main post"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://zora.co/collect/oeth:0x99552d780177c399dbeed02ab924dcfc168141ed/2",
+      "description": "OptimismFriends02 "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/piuranA_InBlock/status/1675232647734349827?s=20",
+      "description": "Our ambassador got a NFT"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/peru21noticias/status/1669898144795045888?s=20",
+      "description": "We appear in a peruvian newsletter when we received Retro PGF2. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/Giveth/status/1695813946744226286?s=20",
+      "description": "We were interviewed by Giveth to talk about Retro PGF2 "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://zora.co/collect/oeth:0x81331faf43dcdd0467f8a6cc8316c7bdee59d77e/1?referrer=0xbeEc557124dCe408aE124e6F00BfC4fA5e50703D",
+      "description": "https://x.com/HiWomenbiz/status/1714128171262415231?s=20"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://x.com/piuranA_InBlock/status/1712674223292825628?s=20",
+      "description": "NFT in Optimism Demo  "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Delegate votes in the Governance",
+      "number": "460",
+      "url": "https://optimistic.etherscan.io/tx/0x209e531fa164528d6ecaacb98295dbba9443079f9f0d234a563fb8d089e452f2"
+    },
+    {
+      "description": "NFT WB ambassadors collection on Zora",
+      "number": "12",
+      "url": "https://zora.co/collect/oeth:0xd08ee5899552b9f8ba613f7d405d85f1e6e186e5/1/activity"
+    },
+    {
+      "description": "Women Biz blogs in Mirror.xyz",
+      "number": "15",
+      "url": "https://mirror.xyz/womenbiz.eth"
+    },
+    {
+      "description": "Post read on the OP Foro",
+      "number": "391",
+      "url": "https://gov.optimism.io/u/womenbizcore/summary"
+    },
+    {
+      "description": "Number of post on the OP Foro",
+      "number": "22",
+      "url": "https://gov.optimism.io/u/womenbizcore/summary"
+    },
+    {
+      "description": "Our ambassadors delegated votes ",
+      "number": "12",
+      "url": "https://optimistic.etherscan.io/address/0xE5df6a208EE99F3D7516d3f6f97416e7b402aeaF"
+    },
+    {
+      "description": "Web3Day: Optimism and Public Goods",
+      "number": "1",
+      "url": "https://mirror.xyz/womenbiz.eth/hemozXfX4r-Eq7iaQwSHLfqs3G9d_chVq_5s2pMzFDE"
+    },
+    {
+      "description": "Women Biz received 21k OP from Optimism",
+      "number": "1",
+      "url": "https://mirror.xyz/womenbiz.eth/EqHwRiUgiy7ZdmMQDZjvFM9MV5ovMbHCuxUzm_r1Nek"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 2106776,
+      "description": "We received as a part of our job done since 2022. "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xef34b4a18cd1c2f3960adfadf663f6909755fa628856a9348f1ac8c47d631ae0",
+  "prelimResult": "Remove",
+  "reportReason": "They claim to make contributions, but there's no real impact and their talks are not checkable (always pictures with the OP logo, nothing else)"
+}

@@ -1,0 +1,53 @@
+{
+  "bio": "smoker - shitposter",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "ompong",
+  "websiteUrl": "https://guild.xyz/abis",
+  "applicant": {
+    "address": {
+      "address": "0xc513fb4b979f1CeFC43682CA7aB4A19CEe1caCC2",
+      "resolvedName": {
+        "address": "0xc513fb4b979f1CeFC43682CA7aB4A19CEe1caCC2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xc513fb4b979f1CeFC43682CA7aB4A19CEe1caCC2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc513fb4b979f1CeFC43682CA7aB4A19CEe1caCC2.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc513fb4b979f1CeFC43682CA7aB4A19CEe1caCC2.jpeg",
+    "id": "OptimistProfile|0x3faa7a389c6e2416bd9fbe6aad30e349a5ff50533d7915f4abc6162b19aca4d3"
+  },
+  "impactDescription": "Inviting communities on Twitter, Telegram, Discord and Reddit to vote on the government of optimism. With this, the community will hold OP tokens in the long term because they will feel more valuable by owning OP tokens, because with this they can find out the direction of optimistic projects in the future.",
+  "contributionDescription": "Carry out marketing on various social media such as Twitter, Telegram, Discord and Reddit. To introduce platforms or dapps that are being built and worked on by developers from optimism. With this small thing I can do to introduce optimism to the community ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://discord.gg/EvSZURMZtT",
+      "description": "Discord"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#\ud83d\udca6|og",
+      "number": "1",
+      "url": "https://discord.gg/EvSZURMZtT"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "from airdrop that I got on various Blockchains "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x575ad31b760ed82684b6f835e77a0df182e98a83a3795869129a8ef08a9fb9a4",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,48 @@
+{
+  "bio": "Koinlokal! Sumber terpercaya informasi cryptocurrency, web3",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Koinlokal",
+  "websiteUrl": "https://koinlokal.com",
+  "applicant": {
+    "address": {
+      "address": "0xE1FfB51E40390B702501110127C7FAA0278B899a",
+      "resolvedName": {
+        "address": "0xE1FfB51E40390B702501110127C7FAA0278B899a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE1FfB51E40390B702501110127C7FAA0278B899a"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE1FfB51E40390B702501110127C7FAA0278B899a.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE1FfB51E40390B702501110127C7FAA0278B899a.png",
+    "id": "OptimistProfile|0xf59ac71771c89811550d091dc455e34946f3eed1f49264a8b8ab23784ede6309"
+  },
+  "impactDescription": "saya tidak tau pasti apakah saya berkontribusi atau dtidak dalam  Optimism Collective, tapi saya mengikuti optimism dalam beberapa bulan terahir serta mengikuti beberapa quest di galxe untuk memberikan sedikit dampak bagi  Optimism Collective, saya hanya menginginkan akan bisa bekerja dan berinteraksi dengan Optimism ",
+  "contributionDescription": "I want to contribute to web3 development, that's the least I can do, I want to develop my skills with RetroPGF Optimism giving me the opportunity to continue to help with development and security. I hope I can contribute to this project and continue to contribute to other web3 projects. Thank You",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://galxe.com",
+      "description": "i joined optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "contribute",
+      "number": "420",
+      "url": "https://galxe.com"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xc8c3247015eac3e725344098d4fb05e9ec1ef6d0534f1763c4ac01be70fbfebf",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

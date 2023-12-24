@@ -1,0 +1,503 @@
+{
+  "bio": "\ud83d\udd34 Optimism Enthusiastic DEFI Player!!",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Rainie",
+  "websiteUrl": "https://ifyoubuy.herokuapp.com/",
+  "applicant": {
+    "address": {
+      "address": "0x98289029B0d4bB73Ead9Eb1A3300eD724Fcf6779",
+      "resolvedName": {
+        "address": "0x98289029B0d4bB73Ead9Eb1A3300eD724Fcf6779",
+        "name": "2134711.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x98289029B0d4bB73Ead9Eb1A3300eD724Fcf6779"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x642cc9983c1da9d9d9cdf0789011337245bd0a4c7e390948b1cd7c5660215f01"
+  },
+  "impactDescription": "In the context of the rapid development of Layer 2 solutions (Arbitrum, ZkSync, etc.), I consistently strive to create instructional articles, introduce Optimism projects, and highlight the values they bring to users, to attract more users to Optimism Ecosystem.\n- Additionally, I emphasize the potential for users to receive valuable rewards when participating in these projects through incentive programs they received from Governance Fund.\n- I've also provided Alpha information that can entice users to contribute their funds to the ecosystem with the expectation of receiving retroactive rewards from upcoming projects.",
+  "contributionDescription": "In the effort to enhance recognition of the Optimism ecosystem, my focus has been on education. I've crafted tutorials, articles, and infographic aimed at simplifying Optimistic Ethereum technology, thereby improving accessibility for developers. Additionally, I've actively participated in community discussions and contributed to documentation, all with the goal of empowering a broader audience to utilize Optimism effectively.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/OptimismRainie",
+      "description": "Twitter Page for publishing articles"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "ArticleViews:Exactly Protocol Incentive",
+      "number": "18000",
+      "url": "https://twitter.com/OptimismRainie/status/1643856025987203072"
+    },
+    {
+      "description": "Article Views: Pika Protocol Incentives",
+      "number": "2541",
+      "url": "https://twitter.com/OptimismRainie/status/1660534192109928450"
+    },
+    {
+      "description": "Article Views: Optimism #3 Airdrop",
+      "number": "1296",
+      "url": "https://twitter.com/OptimismRainie/status/1704030025522311351"
+    },
+    {
+      "description": "Article Views: $TIA airdrop for OP users",
+      "number": "1242",
+      "url": "https://twitter.com/OptimismRainie/status/1707216104610029631"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [
+    {
+      "_id": "655c753e00a58cde3af8ee8b",
+      "listName": "The tiny start-up",
+      "listDescription": "This list includes individual or organizational accounts with small-scale, niche, or startup activities within the 6 months before the start of RetroPGF3. The accounts have been carefully reviewed to ensure that they have the necessary impact for badge holders to consider and allocate.",
+      "impactEvaluationInput": "",
+      "impactEvaluationDescription": "Created by defimaximism.town using RetroList with \"Educational, Research and Content Rubric\" rubric.",
+      "impactEvaluationLink": "",
+      "impactEvaluationType": "rubric",
+      "listContent": [
+        {
+          "RPGF3_Application_UID": "0x23efd9fc3979482023d3e3d2df6c47e269db752d4109d1f3a9df7623296a1d29",
+          "OPAmount": 183322,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 1,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee8d"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 1,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee8e"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 2,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee8f"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 0,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee90"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 1,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee91"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee92"
+            }
+          },
+          "_id": "655c753e00a58cde3af8ee8c"
+        },
+        {
+          "RPGF3_Application_UID": "0xbc6583686167c19f766494799349f0a3786ae41aca6d124ebc85460f4b8a26cc",
+          "OPAmount": 366645,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 2,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee94"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 2,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee95"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 2,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee96"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 1,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee97"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 3,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee98"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee99"
+            }
+          },
+          "_id": "655c753e00a58cde3af8ee93"
+        },
+        {
+          "RPGF3_Application_UID": "0x245c250124a279a66d179665e7f4b5dee16ba65357bc7e0f1926626396484f07",
+          "OPAmount": 293316,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 1,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee9b"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 1,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee9c"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 3,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee9d"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 1,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee9e"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 2,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8ee9f"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eea0"
+            }
+          },
+          "_id": "655c753e00a58cde3af8ee9a"
+        },
+        {
+          "RPGF3_Application_UID": "0xf136f5a299e27269045ab60239a6c3897826e7019fb2c534344ad448a16cef8a",
+          "OPAmount": 623297,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 3,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eea2"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 4,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eea3"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 4,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eea4"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 2,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eea5"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 4,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eea6"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eea7"
+            }
+          },
+          "_id": "655c753e00a58cde3af8eea1"
+        },
+        {
+          "RPGF3_Application_UID": "0xb5d1b7e987aaa73f07b7afa4a12880a6a55b46c21fb78f723137431a1872c7c2",
+          "OPAmount": 623297,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 3,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eea9"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 5,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eeaa"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 4,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eeab"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 2,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eeac"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 3,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eead"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eeae"
+            }
+          },
+          "_id": "655c753e00a58cde3af8eea8"
+        },
+        {
+          "RPGF3_Application_UID": "0x4c583402fb44f7b5c40a523b6adcdef402a347eccaec42e0d1e8bb567192150f",
+          "OPAmount": 256651,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 1,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eeb0"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 1,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eeb1"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 1,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eeb2"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 1,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eeb3"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 3,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eeb4"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eeb5"
+            }
+          },
+          "_id": "655c753e00a58cde3af8eeaf"
+        },
+        {
+          "RPGF3_Application_UID": "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
+          "OPAmount": 586632,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 3,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eeb7"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 5,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eeb8"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 3,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eeb9"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 1,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eeba"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 4,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eebb"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eebc"
+            }
+          },
+          "_id": "655c753e00a58cde3af8eeb6"
+        },
+        {
+          "RPGF3_Application_UID": "0x0044f3f713acfa58a80899a841e6f417f27c3f151d6302815944c89834a0db97",
+          "OPAmount": 256651,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 2,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eebe"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 1,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eebf"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 1,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eec0"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 1,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eec1"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 2,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eec2"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eec3"
+            }
+          },
+          "_id": "655c753e00a58cde3af8eebd"
+        },
+        {
+          "RPGF3_Application_UID": "0x830b1298ed3f8504a0b04b1a7371257b9a98c165e73d6cb557d82fcb7d5f25cc",
+          "OPAmount": 476639,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 3,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eec5"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 4,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eec6"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 2,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eec7"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 1,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eec8"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 3,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eec9"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "655c753e00a58cde3af8eeca"
+            }
+          },
+          "_id": "655c753e00a58cde3af8eec4"
+        }
+      ],
+      "walletAddress": "0x98289029B0d4bB73Ead9Eb1A3300eD724Fcf6779",
+      "domainName": "defimaximism.town",
+      "twitter": "defimaximism",
+      "discord": "avanlache",
+      "isBadgeholder": false,
+      "attestationUid": "0x8a477f3dcbbf2454b2b1804b23d481733a38de7587b0b90dab2b8a88122b5808",
+      "approvalAttestationUid": null,
+      "forkedFrom": null,
+      "rubricId": "65565674e5695aaff05cd4a0",
+      "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION",
+        "DEVELOPER_ECOSYSTEM"
+      ],
+      "projectIds": [
+        "0x23efd9fc3979482023d3e3d2df6c47e269db752d4109d1f3a9df7623296a1d29",
+        "0xbc6583686167c19f766494799349f0a3786ae41aca6d124ebc85460f4b8a26cc",
+        "0x245c250124a279a66d179665e7f4b5dee16ba65357bc7e0f1926626396484f07",
+        "0xf136f5a299e27269045ab60239a6c3897826e7019fb2c534344ad448a16cef8a",
+        "0xb5d1b7e987aaa73f07b7afa4a12880a6a55b46c21fb78f723137431a1872c7c2",
+        "0x4c583402fb44f7b5c40a523b6adcdef402a347eccaec42e0d1e8bb567192150f",
+        "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
+        "0x0044f3f713acfa58a80899a841e6f417f27c3f151d6302815944c89834a0db97",
+        "0x830b1298ed3f8504a0b04b1a7371257b9a98c165e73d6cb557d82fcb7d5f25cc"
+      ],
+      "histories": [],
+      "createdAt": "2023-11-21T09:15:42.021Z",
+      "updatedAt": "2023-11-21T09:15:42.021Z",
+      "__v": 0,
+      "approval": [
+        {
+          "_id": "6562daf0ebaee6411365e4fa",
+          "domainName": "defimaximism.town",
+          "__v": 0,
+          "createdAt": "2023-11-26T05:43:12.731Z",
+          "status": "qualified",
+          "updatedAt": "2023-11-26T05:43:12.731Z"
+        }
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0x23efd9fc3979482023d3e3d2df6c47e269db752d4109d1f3a9df7623296a1d29",
+          "bio": "UNWA is an onchain music community in Vietnam.",
+          "displayName": "UNWA",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x763d7679dEaAA655ba4A940B3a1E4E308076B3CB.png"
+        },
+        {
+          "id": "0xbc6583686167c19f766494799349f0a3786ae41aca6d124ebc85460f4b8a26cc",
+          "bio": "I'm leading the Optimism Prime project and building DeFi tools for the community",
+          "displayName": "c2ba",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x49a5492FDFe5AcC966dD5f41310dfDfe8dAA349C.jpeg"
+        },
+        {
+          "id": "0x245c250124a279a66d179665e7f4b5dee16ba65357bc7e0f1926626396484f07",
+          "bio": "From macro to crypto, I write about stuff that I like.",
+          "displayName": "dudedodut",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD2F5DBC276BC3d9D2E07F5dF4A599E2c5a158B47.jpeg"
+        },
+        {
+          "id": "0xf136f5a299e27269045ab60239a6c3897826e7019fb2c534344ad448a16cef8a",
+          "bio": "Web3 Community in Colombia",
+          "displayName": "Ethereum Colombia",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD164AF956E0f34Be07a86752fe43AE788F647531.png"
+        },
+        {
+          "id": "0xb5d1b7e987aaa73f07b7afa4a12880a6a55b46c21fb78f723137431a1872c7c2",
+          "bio": "\ud83d\udd34\u2728Optimistic Vision Vibes\ud83d\udd34\u2728",
+          "displayName": "DRAMA",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEfbC53e0AFdc9f649Bc1Ab692461df57E70A560f.png"
+        },
+        {
+          "id": "0x4c583402fb44f7b5c40a523b6adcdef402a347eccaec42e0d1e8bb567192150f",
+          "bio": "Web3 education and culture for over 75 million Pidgin speakers in Africa/beyond",
+          "displayName": "Pidgin Parlour",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAE64b79C5bC01e234DD3FFB7EAAa36E92b4dD23B.png"
+        },
+        {
+          "id": "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
+          "bio": "\ud83d\udd34 Optimism Enthusiastic DEFI Player!!",
+          "displayName": "Rainie",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x0044f3f713acfa58a80899a841e6f417f27c3f151d6302815944c89834a0db97",
+          "bio": "Environmental scientists, blockchain & space enthusiast",
+          "displayName": "Paul Burg",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x50418699cB44BfDa9c9afc9B7a0b0d244d8927D2.png"
+        },
+        {
+          "id": "0x830b1298ed3f8504a0b04b1a7371257b9a98c165e73d6cb557d82fcb7d5f25cc",
+          "bio": "Join the movement towards a more sustainable and equitable future in #Medell\u00edn\ud83c\udf31",
+          "displayName": "ReFi Medell\u00edn",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x302E2A0D4291ac14Aa1160504cA45A0A1F2E7a5c.png"
+        }
+      ],
+      "status": "qualified"
+    }
+  ],
+  "id": "Project|0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 7,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

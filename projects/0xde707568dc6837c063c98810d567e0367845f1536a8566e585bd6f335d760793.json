@@ -1,0 +1,80 @@
+{
+  "bio": "XomNFT is an NFT researching & community brand. We make NFT-focus public goods.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "XomNFT",
+  "websiteUrl": "https://dareplay.io/news/vi/bai-viet/",
+  "applicant": {
+    "address": {
+      "address": "0x1a1051c39652C0FF81A819DA4283871c3f076a3A",
+      "resolvedName": {
+        "address": "0x1a1051c39652C0FF81A819DA4283871c3f076a3A",
+        "name": "xomnft.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x1a1051c39652C0FF81A819DA4283871c3f076a3A"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1a1051c39652C0FF81A819DA4283871c3f076a3A.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1a1051c39652C0FF81A819DA4283871c3f076a3A.png",
+    "id": "OptimistProfile|0x6b7a56d9bee132aaec42b7326c6f1a43c78efbd5cc920d06de32e8923f8d4fef"
+  },
+  "impactDescription": "Our dashboards and content targeted fully to end-users, keeping them posted about the new OP Stack Layer 2 chains, potential retroactive programs, NFT minting campaigns, etc. We gave a helping hand in educating users about, boosting brand awareness of, and acquiring users to join Base, Zora Network, Mantle Network, PGN, opBNB, DeBank (the chains & projects built on & programs run on the chains). \n\nOur over 50 dashboards and content reached nearly 2,000 crypto users in the local Vietnam market and 2,000 crypto users in the global market, hitting in total 20,000 views on social networks. Our dashboards (Base\u2019s Onchain Summer visualization and Mantle Network) were applauded by Jesse Pollak (Base), trending on Dune site, and used in a number of deep-dive posts by Crypto Twitter researchers. \n",
+  "contributionDescription": "We have provided +50 educational content focusing on OP Stack chain ecosystems (things on Base, Zora Network, Mantle Network, PGN, opBNB, DeBank) including Dune dashboards and analyzing articles & posts in Vietnamese, to our XomNFT community of 1,700 followers on X, 1,000 followers on Facebook, and 1,000 members in Telegram. \n\nWe are the creator of Base\u2019s Onchain Summer Visualization Dune dashboard, the most complete dashboard to track Onchain Summer campaign run by Base in August, and of the first Dune dashboard tracking Mantle Network, helping users understand about the newest OP Stack chain in town back in the time. With our +50 content published on XomNFT channels, crypto users in Vietnam always get well-informed about the newest projects, programs, and campaigns on OP Stack chains \n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1s4HlhK6LArHwa5fotfRkO5ZhYj_R52_p8UioZ122uMQ/edit#gid=0",
+      "description": "4 Dune Dashboards"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1s4HlhK6LArHwa5fotfRkO5ZhYj_R52_p8UioZ122uMQ/edit#gid=0",
+      "description": "48 analyzing & news content on OP Stack Layer 2 chains"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Social views (X & Telegram)",
+      "number": "20454",
+      "url": "https://docs.google.com/spreadsheets/d/1s4HlhK6LArHwa5fotfRkO5ZhYj_R52_p8UioZ122uMQ/edit#gid=0"
+    },
+    {
+      "description": "Dune Star ",
+      "number": "217",
+      "url": "https://docs.google.com/spreadsheets/d/1s4HlhK6LArHwa5fotfRkO5ZhYj_R52_p8UioZ122uMQ/edit#gid=0"
+    },
+    {
+      "description": "X Followers (Vietnam market)",
+      "number": "1607",
+      "url": "https://twitter.com/xomnft_"
+    },
+    {
+      "description": "X Followers (Global market)",
+      "number": "1672",
+      "url": "https://twitter.com/dareplaymetafi"
+    },
+    {
+      "description": "Community members (Vietnam market)",
+      "number": "1032",
+      "url": "https://t.me/xomnftchat"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2000,
+      "description": "our own fund, used for paying salary"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xde707568dc6837c063c98810d567e0367845f1536a8566e585bd6f335d760793",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 28,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

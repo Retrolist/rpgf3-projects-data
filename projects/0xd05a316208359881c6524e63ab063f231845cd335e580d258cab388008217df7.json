@@ -1,0 +1,67 @@
+{
+  "bio": "MemeParty is a project empowering NFT holders with meme creation tools. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "memeparty",
+  "websiteUrl": " https://memeparty.io",
+  "applicant": {
+    "address": {
+      "address": "0x23C11723b86f7276B4E2cD752e7EAa64a67E4356",
+      "resolvedName": {
+        "address": "0x23C11723b86f7276B4E2cD752e7EAa64a67E4356",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x23C11723b86f7276B4E2cD752e7EAa64a67E4356"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x23C11723b86f7276B4E2cD752e7EAa64a67E4356.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x23C11723b86f7276B4E2cD752e7EAa64a67E4356.png",
+    "id": "OptimistProfile|0x60831f20f04200c0d872f98729d30f903fab7f0b618116c54388d6475a337003"
+  },
+  "impactDescription": "Our vibrant community and dynamic tools will bring thousands of meme images to optimism. With the collective creativity and cleverness of our community members, we continuously contribute and share a wealth of captivating and shareable images. This collaborative environment helps to expand optimism's visibility and recognition. ",
+  "contributionDescription": "MemeParty is a dedicated NFT meme creation tool, serving NFT holders. \nOur beta version has been operational for over six months, and our community users have crafted thousands of images using MemeParty, showcased on platforms like Twitter and other social media. \nWith a diverse library of several hundred components, we strive to empower NFT holders to showcase and proudly display their NFTs.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://memeparty.io/app",
+      "description": "Meme Creation Interface&Asset Library"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://memeparty.io/",
+      "description": "memeparty website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/dogeclub-dogc",
+      "description": "our issued NFT"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/mutantdoge-dogc",
+      "description": "our issued NFT"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "meme images",
+      "number": "20000",
+      "url": "https://twitter.com/memepartyio"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 80000,
+      "description": "creator earnings"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd05a316208359881c6524e63ab063f231845cd335e580d258cab388008217df7",
+  "prelimResult": "Remove",
+  "reportReason": "Promises of future impact (\"tools will bring thousands of meme images to optimism.\"), not clear if deployed on Optimism at all"
+}

@@ -1,0 +1,53 @@
+{
+  "bio": "been in crypto since 2015.. NFT\u2019s since 2019. OG status ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Adamantium06",
+  "websiteUrl": "https://www.facebook.com/adam.mead1?mibextid=9R9pXO",
+  "applicant": {
+    "address": {
+      "address": "0x4cD9295e72cb1617fD746c9F974fbCa1cc17506a",
+      "resolvedName": {
+        "address": "0x4cD9295e72cb1617fD746c9F974fbCa1cc17506a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x4cD9295e72cb1617fD746c9F974fbCa1cc17506a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4cD9295e72cb1617fD746c9F974fbCa1cc17506a.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4cD9295e72cb1617fD746c9F974fbCa1cc17506a.png",
+    "id": "OptimistProfile|0x8d68f672d75a7274eb8df871ba40125ce105f2a460ff98b22d234e961c953e9e"
+  },
+  "impactDescription": "Like I said in the previous description, I\u2019m brand new to OP but this is nothing new for me. I\u2019ve been helping to onboard users two sites that I find interesting and useful for years and I have no plans on stopping.\nVery interested in OP and I\u2019m excited to see what comes from this!",
+  "contributionDescription": "I\u2019m brand new to OP but I\u2019m digging In. I\u2019ve helped three friends make accounts already and plan on spreading the word in a few groups I\u2019m in on fbook and X. \nThis is nothing new for me. I\u2019ve been a helper for asking as I can remember especially in the crypto scene. \nI\u2019ve helped onboard tons of people onto a bunch of sites. \nIt\u2019s literally what I do and it makes me feel good seeing people flourish from alittle help from their friends! ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.facebook.com/adam.mead1?mibextid=9R9pXO",
+      "description": "Firm believer! "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "420",
+      "number": "420",
+      "url": "https://twitter.com/adamantium06"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0.1,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x90f028c683690bf4424143ef63748f787917505f3a500d20fcc7f4b0e6930b77",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

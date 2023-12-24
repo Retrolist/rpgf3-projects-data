@@ -1,0 +1,45 @@
+{
+  "bio": "A Kernel Student ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Niharika Rajput",
+  "websiteUrl": "https://twitter.com/niharikaweb3",
+  "applicant": {
+    "address": {
+      "address": "0xaFF7a6BF3205A031dAeb9Dd5B0C7f8F1f6dfBcd1",
+      "resolvedName": {
+        "address": "0xaFF7a6BF3205A031dAeb9Dd5B0C7f8F1f6dfBcd1",
+        "name": "shardex.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xaFF7a6BF3205A031dAeb9Dd5B0C7f8F1f6dfBcd1"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xaFF7a6BF3205A031dAeb9Dd5B0C7f8F1f6dfBcd1.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xab3fbc8e68cf1a5bbe5f692c001e7a61e5f9ad71744f8a78f5786b56271b2173"
+  },
+  "impactDescription": "This two-house design is intended to help the Collective make good decisions and avoid common pitfalls in token-based governance systems. Tokenholders represent one constituency out of many, and are not always the right unilateral owners for decisions that don\u2019t involve the economics of the system. Creating two distinct branches of governance with different membership criteria allows the Collective to match constituents\u2019 incentives with different types of decisions. It also helps the Collective avoid concentration of power, enact safeguards via checks and balances, and evaluate decisions from broader perspectives.",
+  "contributionDescription": "This two-house design is intended to help the Collective make good decisions and avoid common pitfalls in token-based governance systems. Tokenholders represent one constituency out of many, and are not always the right unilateral owners for decisions that don\u2019t involve the economics of the system. Creating two distinct branches of governance with different membership criteria allows the Collective to match constituents\u2019 incentives with different types of decisions. It also helps the Collective avoid concentration of power, enact safeguards via checks and balances, and evaluate decisions from broader perspectives.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/",
+      "description": "Description"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Downloads",
+      "number": "25",
+      "url": "https://optimistic.etherscan.io/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x1225f6db3e163c8501c8b1fca36fe7e4abb995f755f0cb365af3b6346bd708a7",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

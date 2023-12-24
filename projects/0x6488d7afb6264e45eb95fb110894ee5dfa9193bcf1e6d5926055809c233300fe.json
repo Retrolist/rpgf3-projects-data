@@ -1,0 +1,52 @@
+{
+  "bio": "Trader and DeFi Influencer",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Zahk",
+  "websiteUrl": "https://twitter.com/ZahkAV",
+  "applicant": {
+    "address": {
+      "address": "0xC744785D6cCAa01805a6995136Eb24f84a088Dcb",
+      "resolvedName": {
+        "address": "0xC744785D6cCAa01805a6995136Eb24f84a088Dcb",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xC744785D6cCAa01805a6995136Eb24f84a088Dcb"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xC744785D6cCAa01805a6995136Eb24f84a088Dcb.png",
+    "id": "OptimistProfile|0x2370f2867738e0866dbbae9dbebfab031f672e2c51434ff43a3b90732714e2f6"
+  },
+  "impactDescription": "I've taught others how to approach governance in DeFi when they previously had zero experience. I've convinced others to be a participant rather than a spectator, and taking ownership of their experience with blockchain, particularly with Optimism as it is one of the blockchains with the most potential. ",
+  "contributionDescription": "I've taught thousands of people how to be successful in DeFi. In doing so, i've talked about Optimism as the place to find: opportunity, availability, scalability, and community. I enjoy teaching people that DeFi is approachable to all and Optimism continues to be a favorite that I talk about in each of my communities whether on Twitter or Alpha Ventures/ZZZMoneyClub.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ZahkAV",
+      "description": "My social profiles"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of Audience Members",
+      "number": "10000",
+      "url": "https://twitter.com/ZahkAV"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 500,
+      "description": "Through airdrops in participating in the blockchain"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6488d7afb6264e45eb95fb110894ee5dfa9193bcf1e6d5926055809c233300fe",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

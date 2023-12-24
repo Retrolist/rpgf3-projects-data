@@ -1,0 +1,88 @@
+{
+  "bio": "A platform that aggregates financial data on the leading blockchains and dApps.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Token Terminal",
+  "websiteUrl": "https://tokenterminal.com/",
+  "applicant": {
+    "address": {
+      "address": "0xeB67e286faf667A047e435EC90107122b0bC2C01",
+      "resolvedName": {
+        "address": "0xeB67e286faf667A047e435EC90107122b0bC2C01",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xeB67e286faf667A047e435EC90107122b0bC2C01"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeB67e286faf667A047e435EC90107122b0bC2C01.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xeB67e286faf667A047e435EC90107122b0bC2C01.png",
+    "id": "OptimistProfile|0x1fdabfcfb9735a6cf493b155caa9d675c322eb66b57e299403e610f62e167c8d"
+  },
+  "impactDescription": "We showcase Optimism\u2019s financial and alternative KPIs in a comprehensive set of dashboards that allow the protocol\u2019s stakeholders to follow its development and benchmark its performance to competitors. \n\nIn addition to Token Terminal\u2019s Crypto Twitter presence, we\u2019re also the first crypto data provider to be available on the Bloomberg Terminal. Through this channel, we are able to share OP related data to a unique crowd of institutional investors.",
+  "contributionDescription": "1. Project-specific dashboard. Dashboard that highlights OP Mainnet\u2019s key KPIs (fees, revenue, token incentives, earnings, active users, core developers, etc.).\n\n2. Superchain explorer. Dashboard that highlights the top 1,000 gas-consuming contracts on both OP Mainnet and Base (including labels and 20+ key metrics).\n\n3. L2 economics research. Educational article with a walkthrough of L2 economics. \n\n4. Blockchain economics research. Educational article with a walkthrough of blockchain economics, with a highlight of OP L2.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://tokenterminal.com/terminal/projects/optimism",
+      "description": "1. Project-specific dashboard"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tokenterminal.com/terminal/contracts/trending",
+      "description": "2. Superchain explorer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tokenterminal.com/weekly-fundamentals/blockchain-economics#proof-of-stake-layer-2",
+      "description": "3. L2 economics research"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tokenterminal.com/weekly-fundamentals/blockchains-l2-68#momentum",
+      "description": "4. Blockchain economics research"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Monthly website visitors",
+      "number": "218",
+      "url": "https://tokenterminal.com/terminal"
+    },
+    {
+      "description": "Newsletter subscribers",
+      "number": "40",
+      "url": "https://tokenterminal.com/resources"
+    },
+    {
+      "description": "X (Twitter) followers",
+      "number": "101",
+      "url": "https://twitter.com/tokenterminal"
+    },
+    {
+      "description": "Superchain projects listed",
+      "number": "127",
+      "url": "https://tokenterminal.com/terminal/contracts/trending"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 25.955,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xbe5c87794ca0822b4c390218f3d40f9ed33679285313a429b9027aa17760f6fe",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 46,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

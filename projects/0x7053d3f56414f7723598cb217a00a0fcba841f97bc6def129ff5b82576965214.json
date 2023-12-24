@@ -1,0 +1,92 @@
+{
+  "bio": "ReveloIntel is your source of reliable, consistent, and unbiased crypto research",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Revelo Intel",
+  "websiteUrl": "https://revelointel.com",
+  "applicant": {
+    "address": {
+      "address": "0x96AA7E4BA857087cf3b529012eDfe5a96F0412D6",
+      "resolvedName": {
+        "address": "0x96AA7E4BA857087cf3b529012eDfe5a96F0412D6",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x96AA7E4BA857087cf3b529012eDfe5a96F0412D6"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x96AA7E4BA857087cf3b529012eDfe5a96F0412D6.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x89cf5ec5c636841cf3d7fe4b069037899d02584e40d041a1adada2dbf4ea0fe0"
+  },
+  "impactDescription": "Through the development and distribution of our content on the projects and podcasts mentioned above, we are pleased to have been able to expose Optimism related projects to:\n-5,000 platform users of ReveloIntel.\n-11,000 newsletter subscribers.\n-13,000 twitter followers - Main Account\n-18,500 twitter followers - Founder Account\n-3,300 youtube subscribers. ",
+  "contributionDescription": "We believe information fragmentation is as big of an issue as liquidity fragmentation when seeking mass adoption of Defi. To combat this, we have provided educational/investment tools for users surrounding Optimism projects.\nWe have provided Project Breakdowns on several projects within the ecosystem including Velodrome, Beethoven, Synthetix, and Lyra to serve ecosystem users.\nAdditionally, we have provided additional exposure to Optimism related podcasts featuring hosts such as Subli- via our Notes product which provides summarizations of AMAs to allow users to digest more content in an efficient manner.  \nAn overview of our Breakdowns https://revelointel.com/breakdowns/. \nAn overview of our Notes product https://revelointel.com/notes/",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://revelointel.com/project-breakdown/velodrome/",
+      "description": "Velodrome Breakdown - 2000 reads"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://revelointel.com/project-breakdown/lyra/",
+      "description": "Lyra Breakdown - 1857 reads"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://revelointel.com/project-breakdown/synthetix/",
+      "description": "Synthetix Breakdown - 1946 reads"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://revelointel.com/project-breakdown/beethoven-x/",
+      "description": "BeethovenX Breakdown - 958 reads"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1RT_PtZozVb4yR-LQqB7EgDellZKORYWGjnRFn51yu2o/edit#gid=609847263",
+      "description": "Optimism Notes "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "YouTube Subscribers",
+      "number": "3298",
+      "url": "https://www.youtube.com/@ReveloIntel"
+    },
+    {
+      "description": "Twitter Following - Main Account",
+      "number": "13000",
+      "url": "https://twitter.com/ReveloIntel"
+    },
+    {
+      "description": "Twitter Following - Founder",
+      "number": "18500",
+      "url": "https://twitter.com/nickdrakon"
+    },
+    {
+      "description": "News Letter Subscribers",
+      "number": "11000",
+      "url": "https://revelointel.substack.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "No Revenue has been generated for these works, as we did them pro bono"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7053d3f56414f7723598cb217a00a0fcba841f97bc6def129ff5b82576965214",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 27,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

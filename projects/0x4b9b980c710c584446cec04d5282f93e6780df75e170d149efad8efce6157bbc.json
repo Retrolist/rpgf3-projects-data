@@ -1,0 +1,55 @@
+{
+  "bio": "- I'm developer: PHP, JS",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "dtai93",
+  "websiteUrl": "https://nextme.one/dtai93.eth",
+  "applicant": {
+    "address": {
+      "address": "0x8F37fDD3037b29195975d9e2f7bbB36cA51887dC",
+      "resolvedName": {
+        "address": "0x8F37fDD3037b29195975d9e2f7bbB36cA51887dC",
+        "name": "dtai93.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8F37fDD3037b29195975d9e2f7bbB36cA51887dC"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8F37fDD3037b29195975d9e2f7bbB36cA51887dC.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8F37fDD3037b29195975d9e2f7bbB36cA51887dC.png",
+    "id": "OptimistProfile|0xe3808ce393e288a21d686b074589ffe490efc10976b92a4ac9e8743c64ed1e4f"
+  },
+  "impactDescription": "Experience many projects on the optimism ecosystem. From there, evaluate potential projects for long-term use. and I am impressed with optimism that it is very fast and gas fees are very cheap compared to all other blockchains. i hope this will be maintained and never have a very high gas situation like ethereum",
+  "contributionDescription": "I have shared articles about optimism similar to: https://twitter.com/dtai93/status/1714815739704873139\nand telegram channels\n\nI have participated in interactive tasks to experience projects on the optimism network ecosystem with platforms such as galxe, questn, layer3...\n\nI participated in votes on snapshots, delegates...",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://galxe.com/optimism",
+      "description": "Joined galxe quest"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.questn.com/",
+      "description": "Joined questn quest"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer3.xyz/category/optimism",
+      "description": "Joined layer3 quest"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "transaction on optimism chain",
+      "number": "420",
+      "url": "https://optimistic.etherscan.io/address/0x8F37fDD3037b29195975d9e2f7bbB36cA51887dC"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4b9b980c710c584446cec04d5282f93e6780df75e170d149efad8efce6157bbc",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

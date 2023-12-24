@@ -1,0 +1,57 @@
+{
+  "bio": "i'm contestant of bored town art x Optimism art",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "roky ipung",
+  "websiteUrl": "https://www.twitter.com/sayatuyul1",
+  "applicant": {
+    "address": {
+      "address": "0x9635bcC0E4845126FDB133DE103d1F84DA3f9ece",
+      "resolvedName": {
+        "address": "0x9635bcC0E4845126FDB133DE103d1F84DA3f9ece",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9635bcC0E4845126FDB133DE103d1F84DA3f9ece"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9635bcC0E4845126FDB133DE103d1F84DA3f9ece.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9635bcC0E4845126FDB133DE103d1F84DA3f9ece.png",
+    "id": "OptimistProfile|0x30eb74fcf4dbfe3e1af76363a1c8e4a4711c13192db077a065b628a0e55123ad"
+  },
+  "impactDescription": "i'm contestant of Bored Town X Optimism Art Contest,for this contest I joined in enlivening this project and invite many people to joined this contest and introduce the what is OP chain,RetroPGf, and more experience of OP chain like this chain is smooth,faster,cheaper and famous",
+  "contributionDescription": "i'm contestant of Bored Town X Optimism Art Contest and im the top 50 on Bored Town X Optimism Art Contest, I put a lot of energy and thought into this project, anf i wish to receive RetroPGF for my art or my effort, im claiming a lot nft use this chain ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.questn.com/quest/798723593795051952",
+      "description": "proof of claiming the reward"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xededeab5aa268a3115da426de9262f017621393f1a268f7d8cb1e3096ba0bb76",
+      "description": "proof transaction"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "winner of the top 50",
+      "number": "32",
+      "url": "https://docs.google.com/spreadsheets/d/1WYeXGtF0Ymy18iGM2_f6Q3jjMBh57-seM6LedAA3-ds/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0010d963e9a203fb51547f48766e2d044a81a20dae147364bbba86488d9477d5",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

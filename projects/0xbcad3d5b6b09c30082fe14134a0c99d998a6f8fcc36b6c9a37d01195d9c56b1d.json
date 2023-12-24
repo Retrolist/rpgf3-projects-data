@@ -1,0 +1,52 @@
+{
+  "bio": "trader",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "uding",
+  "websiteUrl": "https://x.com/UUding016?t=bd5TxfSeNRWMvpQgeKPDEw&s=09",
+  "applicant": {
+    "address": {
+      "address": "0xB332F3359B7D884f03590eD9bf2227c445900557",
+      "resolvedName": {
+        "address": "0xB332F3359B7D884f03590eD9bf2227c445900557",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xB332F3359B7D884f03590eD9bf2227c445900557"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x0a8901b096c76298e70a6261fb3bceb967cf42a1b4a6dd3d88d1064ecab309b5"
+  },
+  "impactDescription": "\nThis project is really great, the features are interesting and there are some things that make me really like it, namely: 1. the transaction is fast 2. Elegant and easy to use 3. the user can understand the menu perfectly 4. There are no defects in the design 5. the product runs according to what the user expects always success and hopefully it can be a promising project when mainnet arrives.",
+  "contributionDescription": "from the user interface, I think it is very easy to understand and the use of colours is also interesting. \nbut there are some things that are disturbing such as the placement of elements that are not in place and the use of very bad fonts, therefore it seems that it would be more interesting if it was improved by using fonts that fit the theme and the use of elements that fit the place",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://x.com/UUding016?t=N8cPqFVa_4nO5rBS-xOzTg&s=09",
+      "description": "trader"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "tx",
+      "number": "400",
+      "url": "https://x.com/UUding016?t=klB6qVm8HmERagKeMFk8dA&s=09"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 20,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xbcad3d5b6b09c30082fe14134a0c99d998a6f8fcc36b6c9a37d01195d9c56b1d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

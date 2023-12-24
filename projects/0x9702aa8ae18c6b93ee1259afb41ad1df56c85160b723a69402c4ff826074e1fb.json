@@ -1,0 +1,47 @@
+{
+  "bio": "\ud83c\udf2c\ud83c\udf2c",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Lamia",
+  "websiteUrl": "https://x.com/LMBOMNs",
+  "applicant": {
+    "address": {
+      "address": "0xB879E8D9bF8a446D731d491b9d640A74A0CD41D5",
+      "resolvedName": {
+        "address": "0xB879E8D9bF8a446D731d491b9d640A74A0CD41D5",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xB879E8D9bF8a446D731d491b9d640A74A0CD41D5"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB879E8D9bF8a446D731d491b9d640A74A0CD41D5.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x877fbd90d46e9adf5714acbd023efa51ad51c4924224322458722a534bc9d872"
+  },
+  "impactDescription": "I would like to contribute as an artist and writer. I'm willing to come up with good ideas for art, and I love writing. I can write useful articles on any topic. I am honestly rooting for Optimism, this has been the best chain i have came across  so far.",
+  "contributionDescription": "I would like to contribute as an artist and writer. I'm willing to come up with good ideas for art, and I love writing. I can write useful articles on any topic. I am honestly rooting for Optimism, this has been the best chain i have came across  so far.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Lamia1s",
+      "description": "Great"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Linea bulid",
+      "number": "1",
+      "url": "https://goerli.lineascan.build//address/0xB879E8D9bF8a446D731d491b9d640A74A0CD41D5"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x9702aa8ae18c6b93ee1259afb41ad1df56c85160b723a69402c4ff826074e1fb",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

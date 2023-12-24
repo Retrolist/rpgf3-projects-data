@@ -1,0 +1,142 @@
+{
+  "bio": "Crypto Enthusiastic and Long-Term Crypto Investor",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "brkttlv",
+  "websiteUrl": "https://zeugmarket.com/",
+  "applicant": {
+    "address": {
+      "address": "0x3562A4Df9Fb30d7B1cb1447C24eaA9B540EdFCD7",
+      "resolvedName": {
+        "address": "0x3562A4Df9Fb30d7B1cb1447C24eaA9B540EdFCD7",
+        "name": "tatlav.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3562A4Df9Fb30d7B1cb1447C24eaA9B540EdFCD7"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3562A4Df9Fb30d7B1cb1447C24eaA9B540EdFCD7.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3001916d8b623ecc37a684c5e473cc988dcbb544314473e770dc7a280b6bd5ef"
+  },
+  "impactDescription": "I explained the advantages of using Opstack in the written projects such as Simplicity, Scalability, Security, Flexibility and User Experience. I think that people who have experienced the projects will have more confidence in the projects if they know that these projects were developed using Opstack.",
+  "contributionDescription": "I prepared a series of articles explaining Optimism's development of Opstack and the formation of the superchain, and then introducing the projects developed with Opstack and examining the advantages of using Opstack.\nMy purpose in writing these articles is to explain how the Opstack technology developed by Optimism is adopted and used. Also, helping the adoption of projects developed with Opstack was among my plans.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/lEAm0Gxv5dFAQtiQs3SSSt-XtpQmec66Prc0igITMZA",
+      "description": "Optimism: From Layer 2 to Superchain"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/Jeu2KBYGl_i5t9FRh7AZSXdTFDb61AeYUeNgEkXJdSA",
+      "description": "Optimism: The Super Chain with Superior Benefits"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/lLE6ZsLzZvrwNZgjtQuu1NM3HcKQUBxwIAUWGgF8UZg",
+      "description": "Base: A Secure, Low-Cost, Developer-Friendly Ethereum L2 Powered by Op Stack"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/6vJ0OQLll05GooITcbQUGVcPxnmy7C3fZClRQK1dvME",
+      "description": "OpBNB: A High-Performance Optimistic Layer 2 Solution for BNB Smart Chain"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/aBxnccsiDZijtMzLhferNy4DuvExjQ-dUO7ejkIxg-Y",
+      "description": "Public Good Networks: A Community-Led L2 for Funding Public Good"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/0bkvwXM7ePgVNUdZXrl0BJhN0QUrc1kUhqoVQA2n86g",
+      "description": "Zora Network: A Fast, Cost-Efficient, and Scalable Layer 2 for Media Onchain"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/dt8cqE-_jDTsXfqAfWrA-4U3Dgy923UfiLQopaRhb2Y",
+      "description": "Kinto: A Safe and User-Friendly Ethereum L2 Powered by Op Stack"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/fxEHFBBrqMCNT5KnGS7BZeLDh65h3sZk3dktzSty4Kw",
+      "description": "Manta Pacific: A Safe and User-Friendly Ethereum L2 Powered by Op Stack"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/KVF9XBNqQva8WdpEVq34LNN5YqgQK9KCWNBANmpOIvg",
+      "description": "Worldcoin: A Next-Generation Infrastructure for Deploying and Scaling Web3 dApps"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/1NaJ1PBM_Obc9nxTyquB4wsszurmZdrs6ZwAen4KgIs",
+      "description": "Celestia: A Scalable and Cost-Effective Environment for Building dApps"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/GWE_wAyL_MuhJ58_vTMCAC636bX45UG8wJT7L5sN-gw",
+      "description": "Debank: Unlocking the Power of Optimism Rollup for DeFi Experience"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/6f2obaWB6tfnbroWyBcAi2BbRnfI4gvxrIqlxQ2EoYg",
+      "description": "A Revolutionary Optimism Rollup: Magi"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/0Vj6IzTmRdcwV__GpoM37mlKFIvPfIfKQoNHO9-oXzI",
+      "description": "Rollux: Leveraging Optimism Stack for Enhanced Scalability and Security"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/IV9P9q1suiSEKTq9NN3yKEDzlEooOY8jF-6b4_dkVp8",
+      "description": "Mode Network: Power of Optimism Stack for Enhanced Blockchain Solution"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/-Jp-BxDQGqRrq30XNN4NxxmNJjjA0BlesY2V7van5PE",
+      "description": "Lyra: Empowering DeFi Innovation with Optimism Stack Integration"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/_7Lqhckxc_2Ze_orzyx2Q_BdCe7WkGdAlYDHBgLTMx8",
+      "description": "Unidex : Unleashing the Power of Optimism Stack for Enhanced Trading Experience"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/splvJAK03JDaRpY4KHFxhyWVo7U4zsZglxpGWhJss18",
+      "description": "Lattice:  Power of Optimism Stack for Enhanced Privacy and Scalability"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/K0B1HrmQ9Iu1Tk2DQFqEUT7p4ZRRIUK3YAGMakoe8Qs",
+      "description": "Opclave: Power of Optimism Stack for Secure and Efficient Computing"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/tatlav.eth/3_qNmgmE9UJptJ-TrxBRvcE6Swv4chuQvUSd83bKPZQ",
+      "description": "Aevo: Trade Perps, Options and Strategies. "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Free mint avaliable for articles",
+      "number": "100",
+      "url": "https://mirror.xyz/tatlav.eth"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3af50931c392a84d57684f07bf774c18ecabe143ac479fa55a9e676f098b2427",
+  "prelimResult": "Remove",
+  "reportReason": "['start posting on sep 24']"
+}

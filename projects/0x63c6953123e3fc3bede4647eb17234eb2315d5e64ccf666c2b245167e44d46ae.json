@@ -1,0 +1,54 @@
+{
+  "bio": "hello all, always be happy",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "marquez",
+  "websiteUrl": "https://twitter.com/acitman",
+  "applicant": {
+    "address": {
+      "address": "0x723626CBB2D266b198dcc3C6928094DBC963C5B5",
+      "resolvedName": {
+        "address": "0x723626CBB2D266b198dcc3C6928094DBC963C5B5",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x723626CBB2D266b198dcc3C6928094DBC963C5B5"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x54e6f6520f12ba59afc6ae75e41a8bed0ecad36aa516a03b17f14e12c3bd155d"
+  },
+  "impactDescription": "saya telah lama bertani di optimism, saya melakukan banyak perdagangan dan terlibar di DAO voting, saya senang karena selain hobi saya memang menyukai ekosistem optimism, selain itu saya menyukai koleksi nft juga seperti optimism quest dan koleksi dari bored town, dan kedepan saya akan terus bermain di optimism",
+  "contributionDescription": "saya telah lama bertani di optimism, saya melakukan banyak perdagangan dan terlibar di DAO voting, saya senang karena selain hobi saya memang menyukai ekosistem optimism, selain itu saya menyukai koleksi nft juga seperti optimism quest dan koleksi dari bored town, dan kedepan saya akan terus bermain di optimism",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x723626CBB2D266b198dcc3C6928094DBC963C5B5",
+      "description": "ini alamat saya"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "my addres",
+      "number": "100",
+      "url": "https://optimistic.etherscan.io/address/0x723626CBB2D266b198dcc3C6928094DBC963C5B5"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 20,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x63c6953123e3fc3bede4647eb17234eb2315d5e64ccf666c2b245167e44d46ae",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

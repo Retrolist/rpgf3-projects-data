@@ -1,0 +1,78 @@
+{
+  "bio": "Music lover, crypto believer. In God we trust.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Finn",
+  "websiteUrl": "https://twitter.com/finn1ous",
+  "applicant": {
+    "address": {
+      "address": "0x2758B8b35d2Df81f764A909EFC3B6ACA547D7147",
+      "resolvedName": {
+        "address": "0x2758B8b35d2Df81f764A909EFC3B6ACA547D7147",
+        "name": "finnonchain.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2758B8b35d2Df81f764A909EFC3B6ACA547D7147"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2758B8b35d2Df81f764A909EFC3B6ACA547D7147.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2758B8b35d2Df81f764A909EFC3B6ACA547D7147.jpeg",
+    "id": "OptimistProfile|0x50fcbb4dd3c438e01b1cd90334359d708d29c72972c3bde565ba96afe0630930"
+  },
+  "impactDescription": "With the efforts and research we have put in, my team and I have built a large web3 music community in Vietnam. We were able to raise nearly 30 ETH, which may not be a large amount, but it is a great achievement for us considering the web3 music market is still in its early stages and not many people are aware of it or know much about it.",
+  "contributionDescription": "I have been following and learning about Optimism (OP) since the early days. I have been involved in building a community for people who share the same passion and belief in Optimism in Vietnam.\n\nWe have been building and supporting the adoption of OP and its applications, such as in music. I am one of the co-founders of the Camel Venture fund, a familiar name within the music community on Sound.xyz.\n\nOn a personal level, I have also been involved in supporting and answering questions from members within and outside the community to help them better understand the platform's workings.\n\nIn the near future, I plan to continue developing additional support for artists in Vietnam so that they can develop and release music products on the Optimism blockchain platform and Sound.xyz.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/charts/top/curators/all/total-volume",
+      "description": "Our team are standing at top 1 of all time curators chart of Sound.xyz"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x2758B8b35d2Df81f764A909EFC3B6ACA547D7147",
+      "description": "Personal music collect wallet"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "ETH",
+      "number": "2",
+      "url": "https://www.sound.xyz/user/finnonchain.eth"
+    },
+    {
+      "description": "Followers",
+      "number": "1100",
+      "url": "https://ibb.co/RB3GVZj"
+    },
+    {
+      "description": "Community subcribers",
+      "number": "5000",
+      "url": "https://ibb.co/4YvdjHV"
+    },
+    {
+      "description": "Music collected ",
+      "number": "1000",
+      "url": "https://www.sound.xyz/user/finnonchain.eth"
+    },
+    {
+      "description": "Artists backed ",
+      "number": "95",
+      "url": "https://www.sound.xyz/user/finnonchain.eth/activity"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": "We have also incurred operational costs and promoted Optimism to VN community."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x801b6edf293467a883cf1fe81fd174eab4a47a038df2d329e590b207be55f6c9",
+  "prelimResult": "Remove",
+  "reportReason": "Impact not clear"
+}

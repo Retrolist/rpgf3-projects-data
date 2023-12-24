@@ -1,0 +1,55 @@
+{
+  "bio": "Hard work , keep building ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Tran Phong Lam ",
+  "websiteUrl": "https://twitter.com/TranPhongLam_",
+  "applicant": {
+    "address": {
+      "address": "0xa808F2533deF9263Bbc0F1881196A7716De2155B",
+      "resolvedName": {
+        "address": "0xa808F2533deF9263Bbc0F1881196A7716De2155B",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa808F2533deF9263Bbc0F1881196A7716De2155B"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa808F2533deF9263Bbc0F1881196A7716De2155B.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa808F2533deF9263Bbc0F1881196A7716De2155B.png",
+    "id": "OptimistProfile|0x99ac8bcea454a62cfbd72a6974500fc8f8e4688bb3cf108d8d1b49250a340400"
+  },
+  "impactDescription": "The Optimism Collective will dispel the myth that public goods cannot be profitable. The Collective will consistently provide massive retroactive incentives for public goods which benefit Optimism, Ethereum, and the Collective as a whole. These public goods act as a propellant for the growth of the Collective economy. Growth which yields profit for the Collective and profit which funds more investment in public goods, all together producing a virtuous cycle of impact driven expansion.",
+  "contributionDescription": "The Optimism Collective will dispel the myth that public goods cannot be profitable. The Collective will consistently provide massive retroactive incentives for public goods which benefit Optimism, Ethereum, and the Collective as a whole. These public goods act as a propellant for the growth of the Collective economy. Growth which yields profit for the Collective and profit which funds more investment in public goods, all together producing a virtuous cycle of impact driven expansion.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/TranPhongLam_",
+      "description": "X"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "x",
+      "number": "1",
+      "url": "https://twitter.com/TranPhongLam_"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xee00bf57733a7d9c77e19233d923c46984dd3575640c95294fd918ee507ad945",
+  "prelimResult": "Remove",
+  "reportReason": "Everything in this application is spam"
+}

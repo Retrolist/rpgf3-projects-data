@@ -1,0 +1,143 @@
+{
+  "bio": "Fullstack engineer and data analyst. Maxi on Web3 and Public Goods.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Ivan Molto",
+  "websiteUrl": "https://www.ivanmolto.com",
+  "applicant": {
+    "address": {
+      "address": "0x7904667C340601AaB73939372C016dC5102732A2",
+      "resolvedName": {
+        "address": "0x7904667C340601AaB73939372C016dC5102732A2",
+        "name": "ivanmolto.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x7904667C340601AaB73939372C016dC5102732A2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7904667C340601AaB73939372C016dC5102732A2.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7904667C340601AaB73939372C016dC5102732A2.png",
+    "id": "OptimistProfile|0x8eb27aee15ce7ff9045bf05045c0ea9b1b3b91ed42deb513b7cd32f287508298"
+  },
+  "impactDescription": "The Dune dashboards that I created about Gitcoin Passport, EAS, SushiSwap, and Iron Bank in Optimism helped analysts, developers and other stakeholders in the Collective to identify areas for product growth and track the performance.\n\nOn the other hand, Influenpeer enabled the creation of video NFTs up to 10 GB with video playback optimised for all the bandwidths with Livepeer on top of onchain rewards. Creators and their audience in the OP stack were able to build a rich creator economy in the Superchain. Influenpeer also welcomed other developers to build a similar experience and extend it with other features and plugins.\n\nGenNFT Forge empowered consumers and the university student community to create and sell easily generative NFTs driving demand to onchain rewards in the Superchain.\n",
+  "contributionDescription": "As an enthusiastic supporter of the OP Stack and the Optimism Collective my contributions over the past months have been the following: \n(1) Created a Dune dashboard on Gitcoin Passport and the Ethereum Attestation Service (EAS) in Optimism. \n(2) Created a Dune dashboard about the contribution of SushiSwap to the growth of the Optimism user base.\n(3) Created a Dune dashboard on Iron Bank Liquidity Mining in Optimism.\n(4) Developed Influenpeer which is a platform to create video NFTs up to 10 GB  and enable the generation of onchain rewards in the Superchain.\n(5) Developed GenNFT Forge to create generative AI NFTs and enable the generation of onchain rewards in the Superchain.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/ivanmolto/gitcoin-passport-eas-optimism",
+      "description": "Dune Analytics dashboard on Gitcoin Passport & EAS Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/ivanmolto/optimistic-sushi",
+      "description": "Dune Analytics dashboard on SushiSwap and the growth of the Optimism user base"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/ivanmolto/optimism-iron-bank-liquidity-mining",
+      "description": "Dune Analytics on Optimism Iron Bank Liquidity Mining"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.influenpeer.com",
+      "description": "Influenpeer is a video NFT creation platform built in the Superchain"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ivanmolto/influenpeer",
+      "description": "Influenpeer makes easy creators build video NFTs up to 10GB in the Superchain"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.gennfts.xyz",
+      "description": "GenNFT Forge - Build your next NFT idea and earn rewards in the Superchain"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/SummerEncoders/genai-protocol-rewards",
+      "description": "GenNFT Forge - Build your NFT using gen AI and earn rewards in the Superchain"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Dune stars Gitcoin Passport & EAS OP",
+      "number": "18",
+      "url": "https://dune.com/ivanmolto/gitcoin-passport-eas-optimism"
+    },
+    {
+      "description": "Kevin Owocki Twitter post Likes",
+      "number": "52",
+      "url": "https://twitter.com/owocki/status/1701216240700735630"
+    },
+    {
+      "description": "Kevin Owocki Twitter post Views ",
+      "number": "3941",
+      "url": "https://twitter.com/owocki/status/1701216240700735630"
+    },
+    {
+      "description": "Ivan Molto Twitter post Likes",
+      "number": "14",
+      "url": "https://twitter.com/ivanmolto/status/1701138876595585268"
+    },
+    {
+      "description": "Ivan Molto Twitter post Views",
+      "number": "1047",
+      "url": "https://twitter.com/ivanmolto/status/1701138876595585268"
+    },
+    {
+      "description": "Dune stars Optimistic Sushi",
+      "number": "2",
+      "url": "https://dune.com/ivanmolto/optimistic-sushi"
+    },
+    {
+      "description": "Optimism Iron Bank Liquidity Mining",
+      "number": "4",
+      "url": "https://dune.com/ivanmolto/optimism-iron-bank-liquidity-mining"
+    },
+    {
+      "description": "@optimismFND Twitter Influenpeer Views",
+      "number": "1192",
+      "url": "https://twitter.com/optimismFND/status/1694429782455320586"
+    },
+    {
+      "description": "ETHGlobal - Influenpeer Links",
+      "number": "2",
+      "url": "https://ethglobal.com/showcase/influenpeer-dc9s5"
+    },
+    {
+      "description": "Influenpeer Backlinks",
+      "number": "7",
+      "url": "https://www.influenpeer.com"
+    },
+    {
+      "description": "GenNFT Forge BackLinks",
+      "number": "2",
+      "url": "https://www.gennfts.xyz"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "Super Pool Prize at ETH Global SUPERHACK"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 131,
+      "description": "Gitcoin Citizens Round 2 (in progress in the moment of the rpgf application)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf9cbdc7fa9d0e03f65030f716d9a53a98bee7d06861d236484b88ce586988fb6",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 19,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

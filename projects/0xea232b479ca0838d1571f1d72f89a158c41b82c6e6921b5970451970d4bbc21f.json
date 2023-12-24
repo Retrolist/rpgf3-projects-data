@@ -1,0 +1,72 @@
+{
+  "bio": "An ambassador with influence and goal to onboard new user to Optimism Blockchain",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "diaryofdero",
+  "websiteUrl": "https://mirror.xyz/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544",
+  "applicant": {
+    "address": {
+      "address": "0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544",
+      "resolvedName": {
+        "address": "0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544.png",
+    "id": "OptimistProfile|0xb81d38e121cb89dce6ce454417529007636476b748b1ac85d48b58a5acba30b3"
+  },
+  "impactDescription": "Enlightening, guiding and bringing the unreached to Optimism using the power of content and imaged description to preach Web3 and the power of decentralization to the undeveloped communities. Education and Learning, Advocacy,Networking bringing  developers, entrepreneurs, investors to the Optimism ecosystem.",
+  "contributionDescription": "As a content writter and ambassador on web3, I have had the opportunity to collaborate with cross-functional teams on cutting-edge projects, helping to bridge the gap between traditional applications and the Optimism decentralized web. I have presented a detailed analysis of the optimism Blockchain to communities, and onboarded them to be part of the Blockchain ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544/P7OIotB0UgZhjJeLaY4F9fddYDxDe-1iKDK0mrJGb3c",
+      "description": "An on-chain guide on the core purpose of Optimism, its defined goal and vision"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544/DgeGRXE2P36x29V7p_0rA5j-gZegWFbGlZ6NKKhpBOc",
+      "description": "A detailed explanation of how the optimism Blockchain works"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544/tqO5DL3WQzAEQ-3niMeGo8c6p-5oAHezOrnaLqrIeUY",
+      "description": "Difference Optimism and other ETH layer 2 scaling solutions."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Readers",
+      "number": "780",
+      "url": "https://mirror.xyz/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544/P7OIotB0UgZhjJeLaY4F9fddYDxDe-1iKDK0mrJGb3c"
+    },
+    {
+      "description": "Readers",
+      "number": "803",
+      "url": "https://mirror.xyz/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544/DgeGRXE2P36x29V7p_0rA5j-gZegWFbGlZ6NKKhpBOc"
+    },
+    {
+      "description": "Readers",
+      "number": "812",
+      "url": "https://mirror.xyz/0x1c6402aCcAA38386Ce7ebC6DfA82Ed2dEaFC7544/tqO5DL3WQzAEQ-3niMeGo8c6p-5oAHezOrnaLqrIeUY"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I have never gotten any form of funding before"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xea232b479ca0838d1571f1d72f89a158c41b82c6e6921b5970451970d4bbc21f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

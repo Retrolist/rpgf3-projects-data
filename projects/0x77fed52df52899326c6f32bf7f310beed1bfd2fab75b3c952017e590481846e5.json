@@ -1,0 +1,121 @@
+{
+  "bio": "Bankless Academy hosts a web3 onboarding journey, starting on Optimism.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Bankless Academy",
+  "websiteUrl": "https://banklessacademy.com",
+  "applicant": {
+    "address": {
+      "address": "0xe1887fF140BfA9D3b45D0B2077b7471124acD242",
+      "resolvedName": {
+        "address": "0xe1887fF140BfA9D3b45D0B2077b7471124acD242",
+        "name": "banklessacademy.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xe1887fF140BfA9D3b45D0B2077b7471124acD242"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe1887fF140BfA9D3b45D0B2077b7471124acD242.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe1887fF140BfA9D3b45D0B2077b7471124acD242.jpeg",
+    "id": "OptimistProfile|0x74511518f44cdad0736bc266c48f0bff7c08aea9a7698b994ec7da87ee231a46"
+  },
+  "impactDescription": "Increasing participation in Optimism Collective governance:\n\n- 240+ Explorers delegated in Optimism governance, through Optimism Governance lesson & delegation walkthrough\n\nImproving Optimism end user experience & adoption:\n\n- engaging format\n- free-to-use\n- teaching important basics required to navigate Optimism\n- building web3 identity by distributing 11,100+ badges to Explorers (protected by Gitcoin Passport) for lesson completions\n- 2370+ Explorers verified on Optimism, through \u2018Layer 2s\u2019 lesson and \u2018How to Fund a Wallet on Layer 2\u2019 walkthrough\n- 150+ Velodrome Explorers swapped on Optimism, through \u2018Decentralized Exchanges\u2019 lesson and \u2018How to Swap on a DEX\u2019 walkthrough\n- minted 145x Explorer\u2019s Handbook (walkthroughs) NFTs on Optimism\n- minted 19x lesson collectible NFTs on Optimism",
+  "contributionDescription": "L2 blockchains are promising technology with inherent risks. It\u2019s clear users need a basic web3 training program to guide & protect their first steps.\n\nBankless Academy provides a free learning journey following Bankless & Ethereum values. We are onboarding users to Optimism, to enjoy optimized transactions in an ecosystem valuing community ownership, public goods & self-sovereignty.\n\n- Teaching essential web3 skills: wallet creation/security, dApp use, infrastructure theory, etc\n- Hosting an Optimism onboarding journey: funding your wallet, using DEXs, governing/delegating on Optimism\n- Building open-source education infrastructure: lessons w/ quests & NFT badges, sybil-resistance w/ Gitcoin Passport, multilingual content, community corrections, and hosting collectible content on Optimism",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.banklessacademy.com/lessons",
+      "description": "Lesson/quest selection"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/gitcoin/status/1633547547192213506",
+      "description": "Gitcoin Passport"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.banklessacademy.com/lessons/optimism-governance",
+      "description": "Multilingual content"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total badges distributed",
+      "number": "11172",
+      "url": "https://dune.com/didierkrux/bankless-academy-badges"
+    },
+    {
+      "description": "Total users completed delegation quest",
+      "number": "240",
+      "url": "https://dune.com/embeds/3058258/5090281"
+    },
+    {
+      "description": "Total users completed bridging quest",
+      "number": "2370",
+      "url": "https://dune.com/embeds/2005477/3318205"
+    },
+    {
+      "description": "Total users completed DEX swap quest",
+      "number": "150",
+      "url": "https://dune.com/embeds/2631527/4369806"
+    },
+    {
+      "description": "Total collectible articles minted on OP",
+      "number": "145",
+      "url": "https://dune.com/embeds/3061829/5097496"
+    },
+    {
+      "description": "Total lesson collectibles minted on OP",
+      "number": "19",
+      "url": "https://opensea.io/collection/bankless-academy-layer-2-blockchains"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 33000,
+      "description": "\"Layer 2 Blockchains\" lesson | cycle-6"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 34000,
+      "description": "\"Optimism Governance\" lesson | Alliance season-4 intent-4"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 58066,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 3140,
+      "description": "Lesson Collectibles + Handbooks sales"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 20000,
+      "description": "\u201cDEX Aggregators\u201d lesson with 1inch"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 21000,
+      "description": "Gitcoin Grants + GivETH + Clr.fund donations"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x77fed52df52899326c6f32bf7f310beed1bfd2fab75b3c952017e590481846e5",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 45,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

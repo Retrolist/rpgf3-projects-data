@@ -1,0 +1,52 @@
+{
+  "bio": "Web3 Dev | Content Writer | Mod/Collab",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Roland",
+  "websiteUrl": "https://medium.com/@rolandonwa",
+  "applicant": {
+    "address": {
+      "address": "0x850ae347325Bb4391c85e3bB993032c879Bebf9C",
+      "resolvedName": {
+        "address": "0x850ae347325Bb4391c85e3bB993032c879Bebf9C",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x850ae347325Bb4391c85e3bB993032c879Bebf9C"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x850ae347325Bb4391c85e3bB993032c879Bebf9C.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x90ffc430c8ef23d27dc3ef46b51e79f9357a94c11d93d23e63479c9e0ab82125"
+  },
+  "impactDescription": "My contributions to the Optimism Collective have had a positive impact on the community in a number of ways.\n\nMy articles and tutorials have helped to educate users and developers about Optimism. I have written clear and concise explanations of Optimism's technology, use cases, and advantages.",
+  "contributionDescription": "Help users learn about Optimism and its benefits. I can write clear and concise articles, blog posts, and tutorials that explain Optimism's technology, use cases, and advantages. I can also answer users' questions about Optimism in a comprehensive and informative way.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@rolandonwa/optimism-a-layer-2-scaling-solution-for-ethereum-d180f2398a7c",
+      "description": "This blog series is for anyone who is interested in learning more about Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": "350",
+      "url": "https://medium.com/@rolandonwa/optimism-a-layer-2-scaling-solution-for-ethereum-d180f2398a7c"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xbd5dee99853537d1edefe0e93eb4be1022bf5e9a41553330813481aaaaa5ef17",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

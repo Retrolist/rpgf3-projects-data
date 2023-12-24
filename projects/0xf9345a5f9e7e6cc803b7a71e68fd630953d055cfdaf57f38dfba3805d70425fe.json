@@ -1,0 +1,52 @@
+{
+  "bio": "Owner of an animal shelter.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Kevin Lin",
+  "websiteUrl": "https://twitter.com/PolaArt3",
+  "applicant": {
+    "address": {
+      "address": "0x368B9D607072165Fb207dFE4af46687BA4cF2b0d",
+      "resolvedName": {
+        "address": "0x368B9D607072165Fb207dFE4af46687BA4cF2b0d",
+        "name": "kevinlyin.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x368B9D607072165Fb207dFE4af46687BA4cF2b0d"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x368B9D607072165Fb207dFE4af46687BA4cF2b0d.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x368B9D607072165Fb207dFE4af46687BA4cF2b0d.png",
+    "id": "OptimistProfile|0x6501f0e0ff2e4aa0a023d2d10213bfb23c92a7ff1dd74376a82c8095ae6d8c41"
+  },
+  "impactDescription": "* As a popular Influencer (YouTube, TikTok and Telegram platforms), I actively promote my favorite network to the masses. In addition, I create educational activities to educate the community and increase their knowledge of cybersecurity.\n\n* Donation support for projects built on Optimism.",
+  "contributionDescription": "* As a popular Influencer (YouTube, TikTok and Telegram platforms), I actively promote my favorite network to the masses. In addition, I create educational activities to educate the community and increase their knowledge of cybersecurity.\n\n* Donation support for projects built on Optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/PolaArt3",
+      "description": "Over 30 videos and 60 publications about Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Over 30 videos and 60 publications",
+      "number": "90",
+      "url": "https://twitter.com/PolaArt3"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Supporting ecosystem projects on Optimism with donations"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf9345a5f9e7e6cc803b7a71e68fd630953d055cfdaf57f38dfba3805d70425fe",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

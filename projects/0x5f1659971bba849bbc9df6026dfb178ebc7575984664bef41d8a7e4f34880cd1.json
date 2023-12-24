@@ -1,0 +1,95 @@
+{
+  "bio": "Chinese influencer",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "coinman",
+  "websiteUrl": "https://mp.weixin.qq.com/s/RMWpdzaI7ZFjwAeBJwhIYw",
+  "applicant": {
+    "address": {
+      "address": "0x7626fbA64DEB1683a364c32F30370215f05C1F09",
+      "resolvedName": {
+        "address": "0x7626fbA64DEB1683a364c32F30370215f05C1F09",
+        "name": "960908.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x7626fbA64DEB1683a364c32F30370215f05C1F09"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7626fbA64DEB1683a364c32F30370215f05C1F09.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7626fbA64DEB1683a364c32F30370215f05C1F09.png",
+    "id": "OptimistProfile|0x361187d8f12285e20e02083c8f94099d5fb1e6d6044b5f0ff4e199d78b3e0e74"
+  },
+  "impactDescription": "I actively joined OP governance and I deposited funds to yield on OP network. So I know the advantages of OP network and I'd like to share them with my readers. I also encouraged my 27k followers and let them to participate in OP governance and collective as well as oddessy.\nhttps://vote.optimism.io/delegate/960908.eth",
+  "contributionDescription": "1.I introduced Op to my 27K Chinese followers and encouraged them to join OP ecosystem.\nThousands of readers know OP through my articles. I also promoted OP in 2022 to compared with other L2s.\nhttps://mp.weixin.qq.com/s/3CJC-7jEObhevA36Kag7Cw\nhttps://mp.weixin.qq.com/s/fBMA80ySVNpWRmhBO3w-lw\nhttps://mp.weixin.qq.com/s/RMWpdzaI7ZFjwAeBJwhIYw\n2. In the future, I will post OP development and its news on my WeChat platform and let more Chinese developers and lovers know Optimism network.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://mp.weixin.qq.com/s/z6qV1J3FarjrXS_aus-NPg",
+      "description": "The Optimist Newsletter #18 share and promote"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mp.weixin.qq.com/s/XCHH66rQ6sO8ScmkeUSkXg",
+      "description": "RetroPGF round 3 promotion "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mp.weixin.qq.com/s/DogvtS0o2bLQmSKqveQwxg",
+      "description": "optimism promotion"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mp.weixin.qq.com/s/fBMA80ySVNpWRmhBO3w-lw",
+      "description": "articles"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mp.weixin.qq.com/s/5AOgGmCp2iy4HUyTgv06mQ",
+      "description": "articles"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mp.weixin.qq.com/s/TcnxEpkeOAhBgnvo9kDDjQ",
+      "description": "articles"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mp.weixin.qq.com/s/BBVC3UfzrxI4O49pCFUB7w",
+      "description": "articles"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "articles",
+      "number": "1",
+      "url": "https://mp.weixin.qq.com/s/3CJC-7jEObhevA36Kag7Cw"
+    },
+    {
+      "description": "articles",
+      "number": "2",
+      "url": "https://mp.weixin.qq.com/s/RMWpdzaI7ZFjwAeBJwhIYw"
+    },
+    {
+      "description": "articles",
+      "number": "3",
+      "url": "https://mp.weixin.qq.com/s/fBMA80ySVNpWRmhBO3w-lw"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": "I will keep promoting OP and share its technology and development."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5f1659971bba849bbc9df6026dfb178ebc7575984664bef41d8a7e4f34880cd1",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 5,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

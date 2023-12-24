@@ -1,0 +1,58 @@
+{
+  "bio": "I am an early Optimism investor who wants to spread the word crypto.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Julian432hz",
+  "websiteUrl": "https://debank.com/profile/0x2e78a0d97479ccb3238a4cd5f373654ba09fef2e",
+  "applicant": {
+    "address": {
+      "address": "0x2E78A0D97479cCb3238a4Cd5f373654bA09FEf2e",
+      "resolvedName": {
+        "address": "0x2E78A0D97479cCb3238a4Cd5f373654bA09FEf2e",
+        "name": "for-the-might-of-crypto.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2E78A0D97479cCb3238a4Cd5f373654bA09FEf2e"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2E78A0D97479cCb3238a4Cd5f373654bA09FEf2e.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2E78A0D97479cCb3238a4Cd5f373654bA09FEf2e.png",
+    "id": "OptimistProfile|0xeaa503605aa2496e8302419d88b9606615dd1dcd7bdb72b58519927b5d7aa1fa"
+  },
+  "impactDescription": "I am a crypto investor who shares valuable information with the vision of capitalizing on my community and raising awareness of the risks in crypto and just as there are many risks, there are many opportunities. I want to share my experience, about governance, investment options, airdrop eligibility criteria and crypto security.",
+  "contributionDescription": "I am a crypto investor who shares valuable information with the vision of capitalizing on my community and raising awareness of the risks in crypto and just as there are many risks, there are many opportunities. I want to share my experience, about governance, investment options, airdrop eligibility criteria and crypto security.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/matrix_s_root",
+      "description": "Twitter profile"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://debank.com/profile/0x2e78a0d97479ccb3238a4cd5f373654ba09fef2e",
+      "description": "Debank profile"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "100",
+      "number": "100",
+      "url": "https://twitter.com/matrix_s_root"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x74e67614842fa181a8028461a5e0f48b1c94261264264e8437ff0a8a648a4714",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

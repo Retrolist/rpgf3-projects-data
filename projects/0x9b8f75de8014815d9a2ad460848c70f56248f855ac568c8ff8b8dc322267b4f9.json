@@ -1,0 +1,107 @@
+{
+  "bio": "We're a web3 software development studio.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "WakeUp Labs",
+  "websiteUrl": "https://www.wakeuplabs.io/",
+  "applicant": {
+    "address": {
+      "address": "0x9dFa9dfD15d2b2fa9717b4fc545c2bB35a29215c",
+      "resolvedName": {
+        "address": "0x9dFa9dfD15d2b2fa9717b4fc545c2bB35a29215c",
+        "name": "wakeuplabs.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x9dFa9dfD15d2b2fa9717b4fc545c2bB35a29215c"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9dFa9dfD15d2b2fa9717b4fc545c2bB35a29215c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9dFa9dfD15d2b2fa9717b4fc545c2bB35a29215c.png",
+    "id": "OptimistProfile|0x38470057fa25ccf0a7468b715e7a647ad13e4a2385e185560b082657d8ed446e"
+  },
+  "impactDescription": "Our contributions have played a pivotal role in bridging the knowledge gap, enabling a broader spectrum of developers to engage with blockchain technologies without the need for extensive prior knowledge. By simplifying blockchain interaction, we have accelerated the rate of adoption and innovation on the Optimism network. \n\nOur educational initiatives, in partnership with local communities for developer workshops, have further fostered a robust developer community, expanding the pool of skilled individuals capable of contributing to the Optimism ecosystem. We generated a meeting point with developers interested in developing on Optimism, with a focus on Latin America, creating high-quality Spanish content.  ",
+  "contributionDescription": "We identified a great barrier hindering the integration of blockchain technology in regular projects: the complexity and steep learning curve associated with blockchain interaction.\nHence, we created a platform simplifying blockchain interaction for developers. It provides user-friendly REST APIs for various blockchain functionalities: creating and managing NFTs, decentralized file storage, creating ERC20 tokens, etc., making it easier and faster for devs to integrate apps on the OP Mainnet\n\nOur impact:\nAdoption: Our platform has significantly reduced the barrier to entry\n\nEducation: Through our series of workshops, we've educated developers, helping them deploy their first smart contract\n\nEngagement: Our engagement with local and global communities has fostered a collaborative environment",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://platform.wakeuplabs.io/",
+      "description": "WakeUp's Platform"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/wakeuplabs/Optimism-Workshop-Clase1",
+      "description": "OP Workshop Class 1"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/wakeuplabs/Optimism-Workshop-Clase2",
+      "description": "OP Workshop Class 2"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/wakeuplabs/workshop-seed-mendoza",
+      "description": "OP Workshop IRL"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Contracts Deployed on OP Mainnet",
+      "number": "6",
+      "url": "https://optimistic.etherscan.io/txs?a=0xc3f46cc1e942c32b661726aeb0d32e26bd23d5c0"
+    },
+    {
+      "description": "Transactions made on OP Mainnet",
+      "number": "124",
+      "url": "https://optimistic.etherscan.io/txs?a=0xc3f46cc1e942c32b661726aeb0d32e26bd23d5c0"
+    },
+    {
+      "description": "Contracts Deployed on OP Testnet",
+      "number": "37",
+      "url": "https://goerli-optimism.etherscan.io/txs?a=0xa1673f6ec41ce19814b412bc633d59e4119ecd17&p=1"
+    },
+    {
+      "description": "Transactions made on OP Testnet",
+      "number": "69",
+      "url": "https://goerli-optimism.etherscan.io/txs?a=0xa1673f6ec41ce19814b412bc633d59e4119ecd17&p=1"
+    },
+    {
+      "description": "OP Workshop Series Certificates",
+      "number": "110",
+      "url": "https://opensea.io/collection/certificados-optimism-workshop-series-1"
+    },
+    {
+      "description": "AVG Attendees per Session OP Workshop",
+      "number": "106",
+      "url": "https://www.youtube.com/watch?v=_5QUATFmRWU&list=PL5LoUunXvIgINaVr9iAVF95riQJ--JWa-&ab_channel=L2enespa%C3%B1ol"
+    },
+    {
+      "description": "IRL OP Workshop Attendees",
+      "number": "20",
+      "url": "https://twitter.com/wakeuplabs/status/1672702129637662722?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 11328.63,
+      "description": ""
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 30000,
+      "description": "RFG1 S4 Cycle 13, \"API search past events on OP Network\", OP locked."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9b8f75de8014815d9a2ad460848c70f56248f855ac568c8ff8b8dc322267b4f9",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 27,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

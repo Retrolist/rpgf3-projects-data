@@ -1,0 +1,45 @@
+{
+  "bio": "Crypto Enthusiast  with experience in Crypto Space Enthusiast | 2017 - Present",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Sulaimon Azeez ",
+  "websiteUrl": "Https://twitter.com/lekan2022",
+  "applicant": {
+    "address": {
+      "address": "0x10Fedd3a2eCC9ABbDE294C1d13e1f71EB71F3aad",
+      "resolvedName": {
+        "address": "0x10Fedd3a2eCC9ABbDE294C1d13e1f71EB71F3aad",
+        "name": "azippy.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x10Fedd3a2eCC9ABbDE294C1d13e1f71EB71F3aad"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x10Fedd3a2eCC9ABbDE294C1d13e1f71EB71F3aad.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x10Fedd3a2eCC9ABbDE294C1d13e1f71EB71F3aad.png",
+    "id": "OptimistProfile|0x8cd0921c718b009e4840e3dd8da18a020933e1105deee838837d8ec823e1adc6"
+  },
+  "impactDescription": "As an Optimism ecosystem user, I go beyond personal benefits. I promote growth by onboarding users, giving feedback, and creating awareness. This strengthens the network effect and attracts developers. I also educate and advocate for Layer 2 solutions, making them accessible. Using these solutions, like DeFi and NFTs, supports the ecosystem's economic health.",
+  "contributionDescription": "As an Optimism ecosystem user, I go beyond personal benefits. I promote growth by onboarding users, giving feedback, and creating awareness. This strengthens the network effect and attracts developers. I also educate and advocate for Layer 2 solutions, making them accessible. Using these solutions, like DeFi and NFTs, supports the ecosystem's economic health.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "Https://twitter.com/lekan2022",
+      "description": "I share educational event with my community members on my WhatsApp/twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Educational and Advocacy ",
+      "number": "20",
+      "url": "Https://twitter.com/lekan2022"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xcbc2393ccac0b6b880d588cf670842bbfe83e000256a14bc9f3305e4b6c87cc9",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

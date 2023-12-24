@@ -1,0 +1,52 @@
+{
+  "bio": "I am a loyal user of Optimism Collective. ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "mumu",
+  "websiteUrl": "https://opensea.io/assets/optimism/0xe20cf4cffb6b5bd1353543dc273299c314a4b4e8/20910/",
+  "applicant": {
+    "address": {
+      "address": "0x9A4fD7EFD60C37B7D7e61de3F9E642Ed584DF4bF",
+      "resolvedName": {
+        "address": "0x9A4fD7EFD60C37B7D7e61de3F9E642Ed584DF4bF",
+        "name": "aiyuan.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x9A4fD7EFD60C37B7D7e61de3F9E642Ed584DF4bF"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9A4fD7EFD60C37B7D7e61de3F9E642Ed584DF4bF.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xa34112ac3c4cdb777f03942e178f4247b1b6be628f3aaa9854f23fb673a11bd0"
+  },
+  "impactDescription": "I am a loyal old user of Optimism. I received three rounds of airdrops from Optimism. I firmly hold it and actively participate in community governance. I often pay attention to the development of the Optimistic Project, experience the main network project and the Optimistic Super Chain, and I also participate in donations.",
+  "contributionDescription": "I am a loyal old user of Optimism. I received three rounds of airdrops from Optimism. I firmly hold it and actively participate in community governance. I often pay attention to the development of the Optimistic Project, experience the main network project and the Optimistic Super Chain, and I also participate in donations.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/assets/optimism/0xe20cf4cffb6b5bd1353543dc273299c314a4b4e8/20910/",
+      "description": "participate in donations"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Donation quantity",
+      "number": "1",
+      "url": "https://opensea.io/assets/optimism/0xe20cf4cffb6b5bd1353543dc273299c314a4b4e8/20910/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 200,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x86a339548052d6c79c10adef93f72272b33610130a7f7deb37a7756e41b16ee8",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,81 @@
+{
+  "bio": "A curated group of builders creating open source tools and educational content.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "\ud83c\udff0 BuidlGuidl",
+  "websiteUrl": "https://BuidlGuidl.com",
+  "applicant": {
+    "address": {
+      "address": "0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85",
+      "resolvedName": {
+        "address": "0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85",
+        "name": "op.buidlguidl.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85.png",
+    "id": "OptimistProfile|0xa92afd270dd049666a119888ad83f63c66ece9e0d7639eedf6773ec506e85144"
+  },
+  "impactDescription": "BuidlGuidl focuses on developer growth and mentoring. We build tools and educational content to teach the next wave of builders how/what they can build on Ethereum and Optimism. \n\nWe have SpeedRunEthereum.com and Scaffold-ETH-2 as our main offerings but we are also creating lots of handy tools like abi.ninja!\n\nWe are constantly trying new things and building prototypes on the cutting edge.",
+  "contributionDescription": "We built and actively maintain \ud83c\udfd7 Scaffold-ETH-2 which allows for rapid prototyping and full scale dApp development on Ethereum.  We also provide a free curriculum at \ud83c\udfc3\u200d\u2640\ufe0f SpeedRunEthereum.com. A hands on, guided series of challenges to learn how to code and deploy smart contracts all while receiving the assistance of our community. We are also giving small grants to up-and-coming high-impact developers. A yolo to \ud83c\udff0 BuidlGuidl is a yolo to Ethereum and Optimism builders!!!\n\nWe are also building a tool to help with the next round of retropgf voting and project discovery. We weren't picked to be the main tool but we have built a great app and we think it will be a community favorite! ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/scaffold-eth/scaffold-eth-2.git",
+      "description": "Scaffold-ETH-2"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://speedrunethereum.com",
+      "description": "SpeedRunEthereum.com"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://BuidlGuidl.com",
+      "description": "BuidlGuidl.com lists all our cohort streams and small grants programs. "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Builders Completing SpeedRunEthereum",
+      "number": "923",
+      "url": "https://speedrunethereum.com"
+    },
+    {
+      "description": "Builds/Prototypes",
+      "number": "890",
+      "url": "https://app.buidlguidl.com"
+    },
+    {
+      "description": "ETH streamed to ecosystem builders",
+      "number": "578.83",
+      "url": "https://buidlguidl.com"
+    },
+    {
+      "description": "ETH streamed to cohorts",
+      "number": "61.11",
+      "url": "https://buidlguidl.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 221154.75,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x8e8fab198e1f1e986b4d0c24992f1a57d42722a835c8afd80c5150184727b433",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 88,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

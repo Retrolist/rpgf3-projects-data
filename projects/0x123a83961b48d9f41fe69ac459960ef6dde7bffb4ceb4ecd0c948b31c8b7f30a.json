@@ -1,0 +1,66 @@
+{
+  "bio": "I am a full time crypto researcher, passionate about its technology and dynamic",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Ploy",
+  "websiteUrl": "https://medium.com/@giggle.eiei",
+  "applicant": {
+    "address": {
+      "address": "0x7c2B924fF6aBC40F1A30dD3308288AF7d488daB4",
+      "resolvedName": {
+        "address": "0x7c2B924fF6aBC40F1A30dD3308288AF7d488daB4",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x7c2B924fF6aBC40F1A30dD3308288AF7d488daB4"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7c2B924fF6aBC40F1A30dD3308288AF7d488daB4.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x890a3349327f9c32a57f1e0f8ba9683aa4f9dfdd0bf2b028b6be709490a857b0"
+  },
+  "impactDescription": "I write and share knowledge about current and upcoming trends in crypto, DeFi, and other technologies in general and in-depth. Right now because Ethereum Layer 2 is one of the most important trend now and in the future, so very often I will write about Optimism and its OP stack, Superchain and why it's one of the most promising tech to build Layer 2s for the scalability future of Ethereum",
+  "contributionDescription": "I work full time in crypto. That's why I have quite good and deep understanding about the trends and technology. In addition to researching and writing for my job, I also share my viewpoint and insight about crypto and technology in my Twitter and Medium. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://medium.com/@giggle.eiei/current-defi-situation-and-the-upcoming-trends-5020710f47e4",
+      "description": "This one I analyzed DeFi market focusing on DEXs and Lending market. "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://medium.com/@giggle.eiei/connext-the-ultimate-interoperability-protocol-for-multi-chain-world-a5cd14aa56b5",
+      "description": "This one I wrote about Connext- one of the cross-chain technology"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://medium.com/@giggle.eiei/hashflow-why-i-think-its-one-of-the-best-decentralized-exchange-db0039b213e6",
+      "description": "This one I wrote about Hashflow - a cross-chain DEX"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://medium.com/@giggle.eiei/axelar-network-why-i-think-it-is-one-of-the-most-exciting-solution-for-communication-across-fe297c8cb5fa",
+      "description": "This one is about Axelar - a cross-chain bridge"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Kuljira29557299/status/1532965349746180097",
+      "description": "Thread about Connext and its technology"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Likes",
+      "number": "4",
+      "url": "https://twitter.com/Kuljira29557299/status/1532965349746180097"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x123a83961b48d9f41fe69ac459960ef6dde7bffb4ceb4ecd0c948b31c8b7f30a",
+  "prelimResult": "Remove",
+  "reportReason": "Not sure this relates to Optimism"
+}

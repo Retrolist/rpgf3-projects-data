@@ -1,0 +1,71 @@
+{
+  "bio": "An L2 for Autonomous Agents and DePIN projects",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Stamp Network",
+  "websiteUrl": "https://stamp.network/",
+  "applicant": {
+    "address": {
+      "address": "0x9FC3B33884e1D056a8CA979833d686abD267f9f8",
+      "resolvedName": {
+        "address": "0x9FC3B33884e1D056a8CA979833d686abD267f9f8",
+        "name": "0xpetra.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x9FC3B33884e1D056a8CA979833d686abD267f9f8"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9FC3B33884e1D056a8CA979833d686abD267f9f8.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9FC3B33884e1D056a8CA979833d686abD267f9f8.png",
+    "id": "OptimistProfile|0xa548621dbd48ebcf89da68fa1974c5677f96acb27425ca7fc61dbc871ece74d8"
+  },
+  "impactDescription": "This initiative is still very much in alpha. Until now, the focus has been creating an ecosystem of partners to support the chain and researching tooling. This led to the start of two ongoing initiatives:\n- RoboId: DID-based identifiers for digital entities. \n- Access Control: OCAPs (Object Capabilities) for advanced permissions with seamless integration with SIWE (Sign in With Ethereum).\n\nStamp is becoming the go-to solution for DePIN (Decentralized Physical Infrastructure Network) projects. Other blockchains are working on the DePIN vertical, such as Peaq on Polkadot, Helium on Solana, and IoTeX as its own L1. \n\nAccepted into Amsterdam Startup Booster to track bikes (https://senseable.mit.edu/bike-trafficking/) through a DePIN project we are working on called TraceMy. ",
+  "contributionDescription": "\nStamp \u2299 is an OP Stack chain focused on serving digital entities such as AI agents, IoT devices, and robots. \n\nStarting from the heuristic that the future of work will be digital. These entities need to coordinate among themselves and with humans. We are developing the tooling and ecosystem for builders to create new protocols and dapps on top of Stamp.\n\nStamp aims to be a member of the Superchain. Following Optimism's model, we will use the sequencer's revenue to fund OSS to support digital entities and human prosperity.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://stamp.network",
+      "description": "Landing Page"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.stamp.network",
+      "description": "Docs"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/stampnetwork",
+      "description": "Stamp's Github"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://explorerl2-bender-testnet-lfrqkj1nm4.t.conduit.xyz",
+      "description": "Testnet block scanner"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.0u0.ai/",
+      "description": "0u0.ai - AI experiment for governance"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/stampnetwork/tracemy",
+      "description": "TraceMy - DePIN experiment"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Testnet deployed",
+      "number": "1",
+      "url": "https://bender-testnet-lfrqkj1nm4.testnets.superbridge.app/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xf6770d6fe0ddd76f37ab681a05b1923457c45a060922a3f93d7193a1f958770a",
+  "prelimResult": "Remove",
+  "reportReason": "This seems to not be a live product"
+}

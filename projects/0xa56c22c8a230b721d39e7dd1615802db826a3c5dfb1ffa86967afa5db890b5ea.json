@@ -1,0 +1,112 @@
+{
+  "bio": "Scry is the ONLY self-hostable oracle infra. With crosschain data, VRFs and more",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "PR0",
+  "websiteUrl": "http://scry.finance/",
+  "applicant": {
+    "address": {
+      "address": "0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5",
+      "resolvedName": {
+        "address": "0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5",
+        "name": "pay.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5.png",
+    "id": "OptimistProfile|0x486d3a44354da0c6b71f5d88acd575d8e5257d83f4b86c35b99e9aa882c1849d"
+  },
+  "impactDescription": "Scrys tools have directly enabled new, unique use cases such as Veryfi, which is a dapp that lets users verify their assets on any other chain, such as NFTs, ERC20s on other networks, allowing Optimism to attract projects on any network to it without needing their users to move assets or relaunch, allowing for easy bootstrapping and compatibility for any project that wants to use OP for new uses without full redeployment.\n\nBy enabling anyone to run their own oracle, Scry has democratized the oracle space, with full control over their data and allows for easy bootstrapping of data onto OP Stack chains (we were the first oracle deployed on Base). Developers can now access any data they need without relying on 3p providers, ensuring data integrity and reducing potential points of failure.",
+  "contributionDescription": "Scry has directly enabled new use cases like being able to allow a mint for an NFT held on ETH or Base to unlock access on OP, or for games, or to allow protocols to distribute fees on other protocols to token holders on OP or even access assets on other networks such as Base to allow for easy compatibility in an increasing diverse space, especially with OP Stack.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0000000000071821e8033345a7be174647be0706",
+      "description": "Optimism Reference Morpheus Oracle"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ScryProtocol/",
+      "description": "All the Scry protocol tools and contracts"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://veryfi.xyz/",
+      "description": "Veryfi, which allows any asset on any network to be verified on Optimism "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://morpheus.scry.finance/",
+      "description": "The community operated and independant nodes, currently 3 other independants"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.scry.finance/docs/morpheus/build-your-own-oracle",
+      "description": "Simple to use docs for oracle deployment by ANYONE"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/ScryProtocol/Contracts/blob/main/contracts/Metamorph.sol",
+      "description": "Contract that allows developers to choose which oracles to source data from"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/ScryProtocol/Contracts/blob/main/contracts/Nostradamus.sol",
+      "description": "Morpheus contracts for decentralized, self hostable oracles with NO intermediary"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Fully Independant Oracles",
+      "number": "3",
+      "url": "https://morpheus.scry.finance/"
+    },
+    {
+      "description": "Enabled Unique Innovative Projects",
+      "number": "1",
+      "url": "https://docs.veryfi.xyz/"
+    },
+    {
+      "description": "Crosschain Data Lookup Capability",
+      "number": "10",
+      "url": "https://optimistic.etherscan.io/tx/0x50b6088dfae7b4d16e902514f21723b4c8c845663fd64a4af3a2ab68763787c2#eventlog"
+    },
+    {
+      "description": "Push based oracle with feeds",
+      "number": "68",
+      "url": "https://optimism.dapp.scry.finance/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 200000,
+      "description": "Mission grant. However 0 is liquid for 1y for expanding team, marketing, audits."
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 5000,
+      "description": "Small grant while we were early which was liquid to fund development"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 150000,
+      "description": "Self funded expenses. No VCs, no other grants. Personally been self funding."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa56c22c8a230b721d39e7dd1615802db826a3c5dfb1ffa86967afa5db890b5ea",
+  "prelimResult": "Keep",
+  "reportReason": "Claims to be the \"ONLY self-hostable oracle infra\", which is a lie (see here one built 4yrs ago https://github.com/pedroduartecosta/blockchain-oracle)",
+  "includedInBallots": 28,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

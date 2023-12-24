@@ -1,0 +1,53 @@
+{
+  "bio": "Freelancer, crypto holder, developer",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Constantin",
+  "websiteUrl": "https://x.com/0xb0b9/",
+  "applicant": {
+    "address": {
+      "address": "0xf96040c42b7FdaD04402eD39579b7763A7159a49",
+      "resolvedName": {
+        "address": "0xf96040c42b7FdaD04402eD39579b7763A7159a49",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xf96040c42b7FdaD04402eD39579b7763A7159a49"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf96040c42b7FdaD04402eD39579b7763A7159a49.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf96040c42b7FdaD04402eD39579b7763A7159a49.jpeg",
+    "id": "OptimistProfile|0x9a71c589fce299b54df536e69afe40127c7890a533146926a72b6d5096a8d8c5"
+  },
+  "impactDescription": "My impact on the Optimism network in the cryptocurrency field has been profound. Im dedicated contributions have played a pivotal role in advancing the scalability and usability of blockchain technology. My work has inspired and benefited both the crypto community and the broader digital landscape, leaving a lasting mark on the evolution of blockchain solutions and their real-world applications.",
+  "contributionDescription": "My contributions to the Optimism network in the cryptocurrency space are noteworthy. I have been actively involved in the development and improvement of Optimistic Rollups, a key scaling solution for blockchain networks. Through my work, i helped enhance the speed and scalability of decentralized applications, making them more efficient and accessible to users. Mu efforts have played a vital role in advancing the adoption and functionality of blockchain technology.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/shibalon/live-server-web-extension",
+      "description": "Live server web extension "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Commits",
+      "number": "73",
+      "url": "https://github.com/shibalon/live-server-web-extension"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x72d146d38542ae60d14050ac76b553693cbafa47afd8add319b40cb71e4a12f6",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

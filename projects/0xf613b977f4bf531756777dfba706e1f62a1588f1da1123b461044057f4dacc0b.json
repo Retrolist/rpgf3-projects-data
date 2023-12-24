@@ -1,0 +1,52 @@
+{
+  "bio": "good",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Ruslan",
+  "websiteUrl": "https://drp-service.com.ua/",
+  "applicant": {
+    "address": {
+      "address": "0xB06428aF321598ea54Cb34E14C9df3D3b09FE625",
+      "resolvedName": {
+        "address": "0xB06428aF321598ea54Cb34E14C9df3D3b09FE625",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xB06428aF321598ea54Cb34E14C9df3D3b09FE625"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB06428aF321598ea54Cb34E14C9df3D3b09FE625.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x48ffcf366897f94fbca580977a769e27594979246e495aeea513a97f2564ccd0"
+  },
+  "impactDescription": "The closer the peak of the pandemic associated with the spread of coronavirus infection is, the more clearly another peak is felt - the peak of inventing and spreading speculation and rumors regarding the operation of ventilation and air conditioning systems and the harm from them.\n\nIn the current situation, it is necessary to dot all the i\u2019s and honestly answer the most popular questions about the operation of ventilation and air conditioning systems during epidemics and pandemics. Moreover, it is not that difficult. The main thing is to be guided by basic knowledge from the field of hard currency and ordinary human logic.",
+  "contributionDescription": "The closer the peak of the pandemic associated with the spread of coronavirus infection is, the more clearly another peak is felt - the peak of inventing and spreading speculation and rumors regarding the operation of ventilation and air conditioning systems and the harm from them.\n\nIn the current situation, it is necessary to dot all the i\u2019s and honestly answer the most popular questions about the operation of ventilation and air conditioning systems during epidemics and pandemics. Moreover, it is not that difficult. The main thing is to be guided by basic knowledge from the field of hard currency and ordinary human logic.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://drp-service.com.ua/",
+      "description": "700"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "2",
+      "number": "788",
+      "url": "https://drp-service.com.ua/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 600,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf613b977f4bf531756777dfba706e1f62a1588f1da1123b461044057f4dacc0b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

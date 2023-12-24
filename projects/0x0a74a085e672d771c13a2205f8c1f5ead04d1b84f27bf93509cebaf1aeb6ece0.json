@@ -1,0 +1,52 @@
+{
+  "bio": "pro trader",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "nambit",
+  "websiteUrl": "https://twitter.com/nambitdefi",
+  "applicant": {
+    "address": {
+      "address": "0xE927554Cddbf6145FE7D77afC31d7EAEdEC60162",
+      "resolvedName": {
+        "address": "0xE927554Cddbf6145FE7D77afC31d7EAEdEC60162",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE927554Cddbf6145FE7D77afC31d7EAEdEC60162"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE927554Cddbf6145FE7D77afC31d7EAEdEC60162.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE927554Cddbf6145FE7D77afC31d7EAEdEC60162.png",
+    "id": "OptimistProfile|0x998da07232ac28ade5852f6e63a099b410ce42a9b0e5ee60588c2f39c93bd3af"
+  },
+  "impactDescription": "I am the founder of the holdstation community and our company is extremely fond of the optimist network. In 2022, I allowed all members of the company to register and participate in optimist campaigns. In addition, we support posting on the website, X, Facebook to call for and create benefits for us",
+  "contributionDescription": "I am the founder of the holdstation community and our company is extremely fond of the optimist network. In 2022, I allowed all members of the company to register and participate in optimist campaigns. In addition, we support posting on the website, X, Facebook to call for and create benefits for us",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.holdstation.news/optimism-cong-bo-airdrop-dot-2-tiem-nang-airdrop-tuong-lai/",
+      "description": "website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "website",
+      "number": "430",
+      "url": "https://www.holdstation.news/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 20000,
+      "description": "stake OP"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0a74a085e672d771c13a2205f8c1f5ead04d1b84f27bf93509cebaf1aeb6ece0",
+  "prelimResult": "Remove",
+  "reportReason": "spam"
+}

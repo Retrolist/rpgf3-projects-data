@@ -1,0 +1,53 @@
+{
+  "bio": "A scaling solution, developed as part of fully onchain game, Downstream.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Client Side Proofs",
+  "websiteUrl": "https://mirror.xyz/5p0rt5beard.eth/TG6jFqfYg3vHiX4yBbBuYVHiV2DX7umYmUbOKiRQzFs",
+  "applicant": {
+    "address": {
+      "address": "0x20Cd91b4Ca4bC98a9df47E5CC5432dCc35a2FEDa",
+      "resolvedName": {
+        "address": "0x20Cd91b4Ca4bC98a9df47E5CC5432dCc35a2FEDa",
+        "name": "5p0rt5beard.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x20Cd91b4Ca4bC98a9df47E5CC5432dCc35a2FEDa"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x20Cd91b4Ca4bC98a9df47E5CC5432dCc35a2FEDa.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x20Cd91b4Ca4bC98a9df47E5CC5432dCc35a2FEDa.png",
+    "id": "OptimistProfile|0xf3436399cd081ef89e953d916aa1782c4d0646ed963ec9609f7e5de620673bf2"
+  },
+  "impactDescription": "The kind of games that are viable for writing entirely on chain is constrained by technical limitations and transaction costs. By increasing the complexity of game logic that can be run per transaction, we are opening up the design space available to fully onchain games.\n\nFully onchain games are a growing branch of decentralised applications and a potentially massive use case for the Optimism echo system. Furthermore, as Autonomous Worlds they are a test bed for the technical and governance structures required for a future of ownerless, composable applications.\n\nPlaymint's work on Client Side Proofs was released as a public good and shared with other teams in the space. Since the time of its release the idea of running proofs on clients has been considered a practical possibility.",
+  "contributionDescription": "We have developed a way of practically using ZK Proof technology to execute game logic in client code that is verifiable on-chain. The technique uses Circom SNARK circuits with players' transaction call data used as signal inputs. \n\nThis minimises EVM execution and storage during mutliplayer game sessions and allows players to cheaply claim onchain rewards with proof of the session results generated in their game client.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/5p0rt5beard.eth/TG6jFqfYg3vHiX4yBbBuYVHiV2DX7umYmUbOKiRQzFs",
+      "description": "Write up of Client Side Proofs, their impact and implementation."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/playmint/exp-snark-combat",
+      "description": "Open Source repository implementing an example application of Client Side Proofs"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Git Hub Stars",
+      "number": "15",
+      "url": "https://github.com/playmint/exp-snark-combat/stargazers"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x33135d1d7ea18427c5096af97f5d5bcac392b8bbe871a9a0a9dd62ce651212df",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 12,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

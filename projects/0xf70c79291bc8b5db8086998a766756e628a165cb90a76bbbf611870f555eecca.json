@@ -1,0 +1,52 @@
+{
+  "bio": "crypto enthusiast",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Leo Pascoli",
+  "websiteUrl": "https://twitter.com/CryptoPasc",
+  "applicant": {
+    "address": {
+      "address": "0xB279B279fc88d53390eC63B8c9c29c642d568491",
+      "resolvedName": {
+        "address": "0xB279B279fc88d53390eC63B8c9c29c642d568491",
+        "name": "rastha.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xB279B279fc88d53390eC63B8c9c29c642d568491"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB279B279fc88d53390eC63B8c9c29c642d568491.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3f69f499d8f4ba20d8f7c1df0acb89bcf51e998648c85ea966aee7a5a720abd5"
+  },
+  "impactDescription": "Ive made a lot of refferals to my IRL friends, and they liked to use the chain, they are using some protocols like Synthetix, Polynominal and Thales. Ive not made a lot of contributions but great things are made by a lot of small things brought together",
+  "contributionDescription": "Im a very enthusiast about optimism chain, ive made a lot of refferals and im using some protocols about 2 years and pretend to use for more years. The chain is very cheap and fast, so for me, this is very important because the ethereum mainnet is so expensive and this makes limit to people use it",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xB279B279fc88d53390eC63B8c9c29c642d568491",
+      "description": "Rastha"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "contract",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0xB279B279fc88d53390eC63B8c9c29c642d568491"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf70c79291bc8b5db8086998a766756e628a165cb90a76bbbf611870f555eecca",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

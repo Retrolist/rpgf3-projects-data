@@ -1,0 +1,48 @@
+{
+  "bio": "Venom is an IR for Vyper, Fang compiles Venom IR to assembly and bytecode.",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Venom & Fang",
+  "websiteUrl": "https://github.com/charles-cooper/venom-design",
+  "applicant": {
+    "address": {
+      "address": "0x71df067D1d2dF5291278b7C660Fd37d9b6272b4C",
+      "resolvedName": {
+        "address": "0x71df067D1d2dF5291278b7C660Fd37d9b6272b4C",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x71df067D1d2dF5291278b7C660Fd37d9b6272b4C"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x9541c3d5bf56da65581a5087190b6ebbdf2cda709a048aa778b9a44590fc58dc"
+  },
+  "impactDescription": "By making it easier to map IR to source code and bytecode, Venom increases the auditability and security of the OP Stack.\n\nThe optimization allowed by Venom and the Fang compiler improve the efficiency of the OP stack by reducing gas usage and contract size, allowing developers to write more complex contracts",
+  "contributionDescription": "As the intermediate language for Vyper, Venom greatly facilitates optimizations resulting in drastically reduced bytecode size and gas usage. Fang can be used to compile Venom IR directly to assembly or EVM bytecode.\n\nVenom offers a reduction in 20 to 30% of the size of the bytecode produced and in equivalent gas savings (up to 3 gas per byte saved, depending on usage patterns).\n\nVenom gives lower-level access to developers and auditors, facilitating the analysis and security auditing of smart contracts.\n\nWhile implemented for Vyper, Venom is language agnostic and can work as an IR for other high level smart contract programming languages.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/harkal/vyper/pull/1",
+      "description": "Current work on new IR for Vyper"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Bytecode size reduction",
+      "number": "2030",
+      "url": "https://github.com/harkal/vyper/pull/1"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xdb7760ac3918bd6aaba6aaf7a84900c313ff3f05093cd87e49738a73b95ad28f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 19,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

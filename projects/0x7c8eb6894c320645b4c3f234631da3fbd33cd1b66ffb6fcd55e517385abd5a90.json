@@ -1,0 +1,62 @@
+{
+  "bio": "Borderless is tech not-for-profit tech arm of Crypto Smart raising devs for free",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "B<>rder/ess",
+  "websiteUrl": "https://borderless.cryptosmartnow.io/",
+  "applicant": {
+    "address": {
+      "address": "0x9DCbA70B2dfe5807e2A847E065EBb666791F8b8A",
+      "resolvedName": {
+        "address": "0x9DCbA70B2dfe5807e2A847E065EBb666791F8b8A",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9DCbA70B2dfe5807e2A847E065EBb666791F8b8A"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x7e6631c85a7f78a4739bba8859d6885bc589bb15ecc6e76a9dc0eda21dfebbb9"
+  },
+  "impactDescription": "IMPACT\n\nOur training has some immediate impact for the Optimism ecosystem.\n\nFor example, the 20 people who complete their training will be able to start contributing to the Optimism ecosystem right away by building new applications and protocols, or by auditing existing code.\n\nHere are some specific ways that our students contribute to the Optimism ecosystem:\n\n1. Build new applications and protocols on Optimism\n\n2. Audit existing smart contracts on Optimism for security vulnerabilities.\nWe also teach Cyber Security at B<>rder/ess so this would help web3 devs learn faster on securing vulnerabilities.\n\n3. Educate others about Solidity and Optimism through blog posts, tutorials, and workshops.\n\nKeep up with our progress report here: https://twitter.com/BorderlessDev",
+  "contributionDescription": "Our last Cipher session Onboarded 20 more University Students to learn Solidity, a programming language used to develop smart contracts, and is essential for the growth and adoption of the Optimism ecosystem.\n\nBy training these 20 people to learn Solidity for free, B<>rder/ess tech hub is providing a valuable resource to the community and helping to build a stronger foundation for the future of Optimism.\n\nHere are some specific ways that B<>rder/ess developers programme benefits the Optimism ecosystem:\n\nIncrease the number of developers building on Optimism:\n\nThe more developers who know Solidity, the more applications and protocols can be built on Optimism.\n\nImprove the quality of smart contracts on Optimism:\n\nCreating a diverse community with devs in different parts of the world, Africa",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/cryptosmartnow/status/1707740083451723815?s=20",
+      "description": "Our Progress Report on Solidity Students"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BorderlessDev/status/1716403450114707701?s=20",
+      "description": "Eth Nigeria Meet Up at B<>rder/ess hub"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/cryptosmartcommunity",
+      "description": "Class Community"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "No.of Devs in training OCT 2023 session",
+      "number": "20",
+      "url": "https://x.com/BorderlessDev/status/1716403450114707701?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2569,
+      "description": "Gitcoin Grants 2022 - 2023"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7c8eb6894c320645b4c3f234631da3fbd33cd1b66ffb6fcd55e517385abd5a90",
+  "prelimResult": "Remove",
+  "reportReason": "Their impact claim is not verifiable in any way, would be great if someone could confirm that this is true. They're usually sponsored by other Blockchains"
+}

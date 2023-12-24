@@ -1,0 +1,52 @@
+{
+  "bio": "hello world",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "hary zulfa supriyanto",
+  "websiteUrl": "https://riasgremory08.github.io",
+  "applicant": {
+    "address": {
+      "address": "0xd284114F4c684CBf7c6c13f31Ee395ed376505eC",
+      "resolvedName": {
+        "address": "0xd284114F4c684CBf7c6c13f31Ee395ed376505eC",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xd284114F4c684CBf7c6c13f31Ee395ed376505eC"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd284114F4c684CBf7c6c13f31Ee395ed376505eC.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xc7eb77d07f6008b212871886cf6dc84d84eab80cb6c62200ba45cec8a3802fc6"
+  },
+  "impactDescription": "I am interested in receiving RetroPGF contributions that focus on fostering optimism, building resilience, and promoting a positive mindset. These topics are vital for individuals and communities, especially during challenging times, as they empower people to overcome adversity and find hope in the face of difficulties. I believe that sharing insights and strategies related to optimism and resilience can inspire others to navigate life's ups and downs with a more positive outlook, ultimately leading to improved mental and emotional well-being.",
+  "contributionDescription": "by using optimism chain ecosysystem and participate ini delegate votes and governance. I am interested in receiving RetroPGF contributions that focus on fostering optimism, building resilience, and promoting a positive mindset. These topics are vital for individuals and communities, especially during challenging times, as they empower people to overcome adversity and find hope in the face of difficulties. I believe that sharing insights and strategies related to optimism and resilience can inspire others to navigate life's ups and downs with a more positive outlook, ultimately leading to improved mental and emotional well-being.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xd284114F4c684CBf7c6c13f31Ee395ed376505eC",
+      "description": "0"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0xd284114F4c684CBf7c6c13f31Ee395ed376505eC"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2ae09a1d405daff5b5635866ec7cc5bae5ec9b6ae9883bc9a3a8786008c2715d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

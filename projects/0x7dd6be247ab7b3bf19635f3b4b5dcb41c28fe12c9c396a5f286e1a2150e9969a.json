@@ -1,0 +1,52 @@
+{
+  "bio": "I'm a red dragon that likes taking photos",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "DracheTech11",
+  "websiteUrl": "https://linktr.ee/drachetech11",
+  "applicant": {
+    "address": {
+      "address": "0x4c7e3daA6771f1085A726b3C07a0BBAb607Fe625",
+      "resolvedName": {
+        "address": "0x4c7e3daA6771f1085A726b3C07a0BBAb607Fe625",
+        "name": "drachetech11.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x4c7e3daA6771f1085A726b3C07a0BBAb607Fe625"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4c7e3daA6771f1085A726b3C07a0BBAb607Fe625.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xd5b664d87ddbc475152d99cbcda142aee703f4bff6ae1fb18743fc8ad456cfd4"
+  },
+  "impactDescription": "I've attracted more people to use Mirror and in turn the OPTIMISM network. \nBy getting people to appreciate the possibility of blogging on the blockchain is a big win for the ecosystem. It is a web3app that is perfect for people that like to write and share their musings with the opportunity of purchasing them as an NFT. ",
+  "contributionDescription": "I have written numerous interviews about NFT artists to spread the word about their work. \nThe interviews go into detail about the artist and their work in their respective medium.\nIt explains the stories of how the artist developed their style, what were their influences usw. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/drachetech11.eth",
+      "description": "NFT Artist Interviews"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Subscribers",
+      "number": "8",
+      "url": "https://mirror.xyz/dashboard/subscribers"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 681,
+      "description": "Airdrop"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7dd6be247ab7b3bf19635f3b4b5dcb41c28fe12c9c396a5f286e1a2150e9969a",
+  "prelimResult": "Remove",
+  "reportReason": "Their impact metrics do not take you to a specific Mirror page and therefore you can't assess the application."
+}

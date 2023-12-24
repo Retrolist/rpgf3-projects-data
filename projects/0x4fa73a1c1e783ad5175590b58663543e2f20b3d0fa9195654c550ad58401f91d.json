@@ -1,0 +1,45 @@
+{
+  "bio": "Op superchain",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "johnnytayler679",
+  "websiteUrl": "https://twitter.com/Bradrmorse",
+  "applicant": {
+    "address": {
+      "address": "0x1bef07018d9868f53075F800F91719bCa7c92F47",
+      "resolvedName": {
+        "address": "0x1bef07018d9868f53075F800F91719bCa7c92F47",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x1bef07018d9868f53075F800F91719bCa7c92F47"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x8a3ab8d4c2e290844f92cbf1d7bfcd16745ae787e893ca6b2532753b5fde0187"
+  },
+  "impactDescription": "Use for more Op to grow in my community and let them know why OP Mainnet is a low-cost and lightning-fast Ethereum L2 blockchain powered by Optimism. so that OP Mainnet is a fast, stable, and scalable L2 blockchain built by Ethereum developers, for Ethereum developers. Built as a minimal extension to existing Ethereum software, OP Mainnet's EVM-equivalent architecture scales your Ethereum apps without surprises. If it works on Ethereum, it works on OP Mainnet at a fraction of the cost.",
+  "contributionDescription": "Im strongly a holder to support Op and I have a big community to help people and my fame to know more about Optimism and help Optimism grow big in my country and let them know OP Mainnet is a low-cost and lightning-fast Ethereum L2 blockchain powered by Optimism.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Bradrmorse",
+      "description": "https://twitter.com/Bradrmorse"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "https://twitter.com/Bradrmorse",
+      "number": "211",
+      "url": "https://twitter.com/Bradrmorse"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4fa73a1c1e783ad5175590b58663543e2f20b3d0fa9195654c550ad58401f91d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

@@ -1,0 +1,103 @@
+{
+  "bio": "Turkey's first and biggest university blockchain society!",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "ITU Blockchain",
+  "websiteUrl": "https://itublockchain.com",
+  "applicant": {
+    "address": {
+      "address": "0xBEC643BD5b7F5e9190617CA4187ef0455950C51C",
+      "resolvedName": {
+        "address": "0xBEC643BD5b7F5e9190617CA4187ef0455950C51C",
+        "name": "itublockchain.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xBEC643BD5b7F5e9190617CA4187ef0455950C51C"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBEC643BD5b7F5e9190617CA4187ef0455950C51C.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xBEC643BD5b7F5e9190617CA4187ef0455950C51C.png",
+    "id": "OptimistProfile|0xa77adeb290c0ef32c729364e81476f3c164986350592bb53cbda7b774164ed4b"
+  },
+  "impactDescription": "The ITU Blockchain delegation team plays a crucial role in evaluating Optimism proposals. Following thorough assessments, team members engage in discussions, reaching a consensus through votes and creating content including Twitter floods and forum reports covering the rationales shared with the wider Optimism community. These actions not only significantly impact Optimism's governance but also keep the Turkish community well-informed about ongoing governance matters. ITU Blockchain, being Turkey's biggest blockchain community with a substantial Twitter following, was impactful towards the use of this platform to enhance Optimism governance. Their involvement in Optimism governance has garnered substantial interest, leading many to support both the community and the delegation team.",
+  "contributionDescription": "In terms of contribution, it is safe to say that ITU Blockchain is both effective for and affected by Optimism Collective\u2019s objectives and achievements. Aligned with Optimism\u2019s core values related to building a common impactful good and a sustainable future for Ethereum, our participation in the Optimism ecosystem is mainly shaped around Optimism governance. We have been and are now engaging on governance proposals with remarkably active participation, unique reports posted on the governance forum for each proposal, and Twitter threads that serve the key decisions made in the proposal to our delegators.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xBcB0e9D11Dd172035645680b3D6350eFB8B8f33f",
+      "description": "Polynote (Scaling Ethereum 2023) Project Contract"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/itublockchain/",
+      "description": "All hackathon project details and codes can be found in here"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0x4b1a0e704f5bec55600801d93b1bed88d12caa7f",
+      "description": "OneOPIdentity (Scaling Ethereum 2023) Project Contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1ubuXmFBGbPJml5xAq0XBUgVkY-UlqqzqpGVsvgWZHKg/edit?usp=sharing",
+      "description": "ITU Blockchain Governance Contributions Links"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Followers",
+      "number": "20800",
+      "url": "https://twitter.com/itublockchain"
+    },
+    {
+      "description": "Posts in English",
+      "number": "58",
+      "url": "https://twitter.com/itublockchainen"
+    },
+    {
+      "description": "Delegated OP",
+      "number": "33500",
+      "url": "https://vote.optimism.io/delegate/itublockchain.eth"
+    },
+    {
+      "description": "Posts created",
+      "number": "35",
+      "url": "https://gov.optimism.io/u/itublockchain/summary"
+    },
+    {
+      "description": "Received likes",
+      "number": "96",
+      "url": "https://gov.optimism.io/u/itublockchain/summary"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 26447.32,
+      "description": "RetroPGF 2"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 11214.38,
+      "description": "Optimism Airdrop 3"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": "Optimism Retro Delegate Rewards 4"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 56,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Optimism Governance Contributions"
+}

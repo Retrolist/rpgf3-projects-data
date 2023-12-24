@@ -1,0 +1,48 @@
+{
+  "bio": "yes",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "quraizt",
+  "websiteUrl": "https://optimism.io",
+  "applicant": {
+    "address": {
+      "address": "0x5112CE9a36423a0ee624BA54c7442AfA4e6635DD",
+      "resolvedName": {
+        "address": "0x5112CE9a36423a0ee624BA54c7442AfA4e6635DD",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5112CE9a36423a0ee624BA54c7442AfA4e6635DD"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5112CE9a36423a0ee624BA54c7442AfA4e6635DD.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5112CE9a36423a0ee624BA54c7442AfA4e6635DD.png",
+    "id": "OptimistProfile|0x019e71b6ab8c5b3602fe65b30593d0e2525c6aaaa5fc9a78bdb6df4c5813d422"
+  },
+  "impactDescription": "RetroPGF is a core part of Optimism\u2019s vision. If done right, it will form the backbone for a new type of economy. As with any complex system, though, this new process can\u2019t be centrally planned or designed all at once. The only way to build it well is to build it together. This journey will require care, open-mindedness, patience, and, of course, optimism!",
+  "contributionDescription": "We need more regenerative financing in the world that is utilizing blockchain technology to measure & display our accomplishments onchain. In the traditional world it is very difficult to show your impact if you have contributed towards something because there is no on chain ledger to create transparency.\n\nI have been studying :open_book: the Optimism network since early 2021 as a result of my blockchain development education.\n\nI\u2019m thankful for the teachings that brought me to the Gitcoin & Optimism ecosystem. We are proud to be contributing towards this important initiative of sustainability.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://ethdaily.io/tag/optimism/",
+      "description": "A collection of over 100 OP news  blog posts "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Download ",
+      "number": "33250",
+      "url": "https://downloads"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x28bef149d91250612388f64e3c0a8e84627e68c3aed78336df679063d561b183",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

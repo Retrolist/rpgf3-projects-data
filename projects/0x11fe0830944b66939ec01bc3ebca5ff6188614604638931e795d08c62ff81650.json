@@ -1,0 +1,48 @@
+{
+  "bio": "likes to listen to music",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Giapstorm",
+  "websiteUrl": "https://twitter.com/giapstorm2204",
+  "applicant": {
+    "address": {
+      "address": "0x596055Ac0F28c61285A628Fd5E1Db6b592663699",
+      "resolvedName": {
+        "address": "0x596055Ac0F28c61285A628Fd5E1Db6b592663699",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x596055Ac0F28c61285A628Fd5E1Db6b592663699"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x596055Ac0F28c61285A628Fd5E1Db6b592663699.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xe4dc4f39de640fd2bca072e537a42dc92fafed6605ef5d8db25a9e3c5e20e5e6"
+  },
+  "impactDescription": "I have minted music on sound a lot. I am very satisfied with the product. In the future, I also hope that your side will have more superior products. Helps artists and fans reach each other more easily. There are products that are not satisfactory because the product has not been invested much",
+  "contributionDescription": "I have minted music on sound a lot. I am very satisfied with the product. In the future, I also hope that your side will have more superior products. Helps artists and fans reach each other more easily. There are products that are not satisfactory because the product has not been invested much",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/giapstorm2204",
+      "description": "there is satisfaction"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "56",
+      "number": "421",
+      "url": "https://twitter.com/giapstorm2204"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x11fe0830944b66939ec01bc3ebca5ff6188614604638931e795d08c62ff81650",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

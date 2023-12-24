@@ -1,0 +1,132 @@
+{
+  "bio": "Analyst & DeFi Researcher  ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "LearNer.OP",
+  "websiteUrl": "https://twitter.com/NerLear",
+  "applicant": {
+    "address": {
+      "address": "0x14B76966DD9b45fd20E42f6E60384733184C2712",
+      "resolvedName": {
+        "address": "0x14B76966DD9b45fd20E42f6E60384733184C2712",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x14B76966DD9b45fd20E42f6E60384733184C2712"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x14B76966DD9b45fd20E42f6E60384733184C2712.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x14B76966DD9b45fd20E42f6E60384733184C2712.png",
+    "id": "OptimistProfile|0x2455e84eacd281b7a5e56a40989bcef7eb9898cf7f5548300d06f4fc8b313c28"
+  },
+  "impactDescription": "I've created numerous pieces of content to foster awareness both online and offline regarding the blockchain ecosystem, with a primary focus on Ethereum, Layer 2, and the Optimism Ecosystem. Through these educational materials, my goal is to demystify complex concepts and inspire a deeper understanding of decentralized technologies, encouraging a wider adoption and fostering a community of informed enthusiasts ready to explore the myriad possibilities within this innovative landscape.\n",
+  "contributionDescription": "I have made many contributions regarding optimism and Dapps in the OP Ecosystem on Twitter, such as posts comparing Arbitrum and Optimism, as well as Velodrome Shilling on YouTube Live. Additionally, I have created a Twitter thread concerning OP Catalyst, which includes discussions on BASE Adoption, OP Stack Advantage, and Account Abstraction.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NerLear/status/1636573784089194496?s=20",
+      "description": "Optimism vs Arbitrum (Twitter Theard)."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NerLear/status/1687147880564600832?s=20",
+      "description": "Candide Wallet (OP Account Abstraction Thread)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NerLear/status/1688864016939331584?s=20",
+      "description": "Why Optimism has a higher growth potential in the next bull run."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NerLear/status/1684823488622886912?s=20",
+      "description": "Why OP Stacks is the most advantage stack ?"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NerLear/status/1691065554063519744?s=20",
+      "description": "Velodrome V.1 & V.2 Price Correlation."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/NerLear/status/1709537764398780481?s=20",
+      "description": "Teach Students at Kasetsart University (Thailand, Bangkok City)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=yd6PQbe-OzQ&t=7863s",
+      "description": "(1:43:46) Velodrome V.2 the leading DEX on Optimism Ecosystem."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=Z99YJLSCV4E&t=1885s",
+      "description": "Why Layer 2 is the most important in recently."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=ypKKdHgi9js&t=3698s",
+      "description": "On-chain Detective and Layer 2 Activity On-chain."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Reach",
+      "number": "20200",
+      "url": "https://x.com/NerLear/status/1636573784089194496?s=20"
+    },
+    {
+      "description": "Reach",
+      "number": "3430",
+      "url": "https://x.com/NerLear/status/1687147880564600832?s=20"
+    },
+    {
+      "description": "Reach",
+      "number": "11500",
+      "url": "https://x.com/NerLear/status/1688864016939331584?s=20"
+    },
+    {
+      "description": "Reach ",
+      "number": "3521",
+      "url": "https://x.com/NerLear/status/1684823488622886912?s=20"
+    },
+    {
+      "description": "Reach",
+      "number": "4486",
+      "url": "https://x.com/NerLear/status/1691065554063519744?s=20"
+    },
+    {
+      "description": "Reach ",
+      "number": "6385",
+      "url": "https://x.com/NerLear/status/1709537764398780481?s=20"
+    },
+    {
+      "description": "Views",
+      "number": "1200",
+      "url": "https://www.youtube.com/watch?v=yd6PQbe-OzQ&t=7863s"
+    },
+    {
+      "description": "Views",
+      "number": "1200",
+      "url": "https://www.youtube.com/watch?v=Z99YJLSCV4E&t=1885s"
+    },
+    {
+      "description": "Views",
+      "number": "1900",
+      "url": "https://www.youtube.com/watch?v=ypKKdHgi9js&t=3698s"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0f48b0766e830b716f0fd124e713473016e560fb202f0911144d81f3bf6d0d6a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

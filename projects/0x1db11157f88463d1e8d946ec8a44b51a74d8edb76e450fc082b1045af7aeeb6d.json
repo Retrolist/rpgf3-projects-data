@@ -1,0 +1,69 @@
+{
+  "bio": "Who got the grants? A comprehensive database of 300+ OP Grantees & 90M OP",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Optimism Grant Analytics: Grant3",
+  "websiteUrl": "https://optimism.grant3.co/",
+  "applicant": {
+    "address": {
+      "address": "0x72C58877ef744b86F6ef416a3bE26Ec19d587708",
+      "resolvedName": {
+        "address": "0x72C58877ef744b86F6ef416a3bE26Ec19d587708",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x72C58877ef744b86F6ef416a3bE26Ec19d587708"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72C58877ef744b86F6ef416a3bE26Ec19d587708.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x72C58877ef744b86F6ef416a3bE26Ec19d587708.png",
+    "id": "OptimistProfile|0xf24fed227b4ea089f2bd6a6a36e742a1ddb85abe7bf826ea023865e3a5c0d6a9"
+  },
+  "impactDescription": "Optimism ecosystem and grant analytics helps connect users with Optimism data more effectively and efficiently. The project impacts OP community by structuring grantee data that is scattered across different platforms- forum, Charmverse, Tally and more.\n\nThe current community user journey to discover grantee details is to manually search through forums and read through data. The grantee list makes it very efficient and effective to search through hundreds of grantees. Along with the dashboard that gives you a complete picture of the grants programs.\n\nThe contributions database makes it easy for community members and hopeful contributors to discover contribution ideas more easily. Totally eliminating the need for visiting the GitHub interface, the advanced filters make it more impactful.",
+  "contributionDescription": "1) OP Contributions Dashboard: (100+ resources)\nDirect impact for Contribution Idea #12, Ecosystem Project Idea: Ecosystem Contributions Dashboard OP Collective currently lists the contribution ideas on Github repository, which is not an efficient user journey. The dashboard makes the user journey for discovering contribution ideas a breeze. \n\n2) Grants Dashboard: \nA comprehensive database of 290+ projects that have received grants from Optimism. Easy access to beautiful statistical charts about OP Grants\n\n3) Grantee list: (290+ resources)\nGrantee data is scattered across the forum, the Grant3 list gives all the grantee data in one place so that the community members do not have to scan through forum manually \n\n4) Analytics database: Aggregation of Dune and other analytical resources. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimism.grant3.co/",
+      "description": "OP Grant Analysis Dashboard: Birds eye view of OP grant data"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimism.grant3.co/rfg",
+      "description": "Ecosystem Contributions Dashboard: Work on Ecosystem Contributions github  #12"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimism.grant3.co/grantees",
+      "description": "Grantee Database: A database with complete information about all grantees."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimism.grant3.co/analytics",
+      "description": "Aggregation of all data sources about Optimism chain and ecosystem"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "OP Grantee Projects Analyzed",
+      "number": "411",
+      "url": "https://optimism.grant3.co/"
+    },
+    {
+      "description": "Total OP grants recorded",
+      "number": "88000000",
+      "url": "https://optimism.grant3.co/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x1db11157f88463d1e8d946ec8a44b51a74d8edb76e450fc082b1045af7aeeb6d",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 26,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Optimism Governance Contributions"
+}

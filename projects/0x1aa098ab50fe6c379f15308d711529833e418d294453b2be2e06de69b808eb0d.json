@@ -1,0 +1,52 @@
+{
+  "bio": "I'm a college student. I have a deep interest income the crypto space.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "TeeTee",
+  "websiteUrl": "https://twitter.com/Festusnwa22?t=vzr84deZrQgWADLtmNvRHQ&s=09",
+  "applicant": {
+    "address": {
+      "address": "0x6daeA083425d7074FcEE3491ad26235f84A47C1C",
+      "resolvedName": {
+        "address": "0x6daeA083425d7074FcEE3491ad26235f84A47C1C",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6daeA083425d7074FcEE3491ad26235f84A47C1C"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6daeA083425d7074FcEE3491ad26235f84A47C1C.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x505f7a79039093c832540859cc2d30b747666b9f490cf3445a46a3573bc75954"
+  },
+  "impactDescription": "The impact of my contribution in the optimism collective has help optimism grow both as a Blockchain as well as a token. \n\nI frequently engage on social media posts involving optimism in order to promote the project. \n\nHaving one of the lowest fees in the crypto space, I encourage friends and partners to trade your coin as well as hold. \n\nI look forward to a bright future with optimism and I really hope to work with you someday. ",
+  "contributionDescription": "I use the optimism chain frequently, I have voted in optimism snapshots. I have also delegated tokens a number of times.\n\n I follow optimism on Twitter, engage on posts relating to optimism. I frequently like, retweet, quote and share your posts frequently on social media platforms. \n\nI really hope to see your project grow further and further. \n\nHaving one of the lowest fees in the crypto space, I encourage friends and partners to trade your coin as well as hold. I have been following optimism since pre-launch and haven't for a single moment doubted the project. \n\n\nIf eventually I launch my token someday, it would definitely be on the optimism chain. \n\nAs an aspiring project starter, it's my dream to work with you someday. \n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Festusnwa22?t=vzr84deZrQgWADLtmNvRHQ&s=09",
+      "description": "Twitter "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Twitter",
+      "number": "500",
+      "url": "https://twitter.com/Festusnwa22?t=vzr84deZrQgWADLtmNvRHQ&s=09"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x1aa098ab50fe6c379f15308d711529833e418d294453b2be2e06de69b808eb0d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

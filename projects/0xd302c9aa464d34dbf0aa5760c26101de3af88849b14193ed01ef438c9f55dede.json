@@ -1,0 +1,65 @@
+{
+  "bio": "Layer2News is an analytics and research website about scaling and modular.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Layer2News",
+  "websiteUrl": "https://layer2.news/",
+  "applicant": {
+    "address": {
+      "address": "0xdef45E63561DdED007fB7a406F3E5490CBB48eA6",
+      "resolvedName": {
+        "address": "0xdef45E63561DdED007fB7a406F3E5490CBB48eA6",
+        "name": "defifan.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xdef45E63561DdED007fB7a406F3E5490CBB48eA6"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdef45E63561DdED007fB7a406F3E5490CBB48eA6.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xdef45E63561DdED007fB7a406F3E5490CBB48eA6.png",
+    "id": "OptimistProfile|0xfe3204e8b180faba8188e09e7359a6fb6f3d9f04bd7d82cb88d889c1395340b5"
+  },
+  "impactDescription": "For new users, they may have clicked on the wrong link and downloaded a fake MetaMask wallet, and they may not know how to bridge assets to Optimism.\n\nUntil Layer2News was launched, we saw a large number of KOLs discussing Layer2News, which included the largest number of projects in the most concise presentation and provided shortcuts for new users to get started. Our initial intention is simple, users can know what the project is doing, whether the project should be involved or not, so that users can avoid being scammed, and so that users can find excellent projects with as few mouse clicks as possible.\n\nAt the beginning of Layer2News' launch, 2k-3k users browsed the site every day, and until today, there are 100+ users using Layer2News every day as well.",
+  "contributionDescription": "As of today, Layer2News includes 500+ projects in Optimism ecosystem, which is almost the largest Optimism ecosystem library and is updated weekly, users can learn about the project categories, tokens, funding and other information at Layer2News.\n\nThe Layer2News team takes a deeper look at each project and divides them as follows: Wallet, Bridge, DEX, DeFi, NFT Trade, NFT, Game, Social, Infra. We try to educate users that DEX can be subdivided into: AMM DEX, CFMM DEX, vAMM DEX, DMM DEX, CLMM DEX, and so on.\n\nBecause of our in-depth knowledge of each program, we rate the programs from information such as the program team, community buzz, program outlook, and program operations to avoid scams.\n\nLayer2News also lists OP Stack and Layer2 chains based on OP Stack separately.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://layer2.news/op-mainnet",
+      "description": "Optimism eco-portal listed by Layer2News"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer2.news/op-stack",
+      "description": "OP Stack eco-portal listed by Layer2News"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer2.news/base",
+      "description": "Layer2News lists layer2 chain (Base Chain) eco-portal built on OP Stack."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Unique Visits (average daily rate)",
+      "number": "300",
+      "url": "https://goo.su/WCXQwB"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1,
+      "description": "We have not received any grants and funding at this time."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd302c9aa464d34dbf0aa5760c26101de3af88849b14193ed01ef438c9f55dede",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 12,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

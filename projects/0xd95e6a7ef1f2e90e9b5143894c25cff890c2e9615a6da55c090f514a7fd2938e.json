@@ -1,0 +1,87 @@
+{
+  "bio": "RoOptimism is the go to educational and onboarding resource for Romanians.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "RoOptimism",
+  "websiteUrl": "https://twitter.com/rooptimism",
+  "applicant": {
+    "address": {
+      "address": "0xb62E762Af637b49Eb4870BCe8fE21bffF189e495",
+      "resolvedName": {
+        "address": "0xb62E762Af637b49Eb4870BCe8fE21bffF189e495",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xb62E762Af637b49Eb4870BCe8fE21bffF189e495"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb62E762Af637b49Eb4870BCe8fE21bffF189e495.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb62E762Af637b49Eb4870BCe8fE21bffF189e495.png",
+    "id": "OptimistProfile|0xd1ee044e6e1b698ffac28cc3eb25f6e22e72ba921c5cb59299202e23773332f5"
+  },
+  "impactDescription": "The Impact of RoOptimism on the Optimism Collective has been significant taking into account that the account is new and Optimism hasn't penetrated the romanian speaking community until the moment.\n\nI've onboarded 5-10 high impact contributors to Optimism(one full time Gitcoin contributor, 2 ex Gitcoin contributors-grant reviewers, 1 romanian influencer with an audience of over 10k and 2 romanians that are active in web3-one works with Thrive coin and the other is launching a fashion label)\n\nWe've reached over 100 romanians that are active in web3. \n\nWe hope to launch a decicated NFT for romanians that are Optimistic\n",
+  "contributionDescription": "Since Optimism launched I've onboarded a lot of people to Optimism, but didn't ever think about officially onboarding people and supporting Optimism and getting RetroPGF funds for it.\n\nMy efforts to onboard people started in 2021 via a small project called Mafia Creativa - a creative outreach and collective based on:\n-free education and onboarding into web3\n-leveraging creativity for the common good\n\nWe hosted numerous calls, twitter spaces and virtual events for crypto curious romanians. Back them public goods in web3 were synonimous with Gitcoin and Optimism so most of our calls were focused around that.\n\nIn early 2023 I created RoOptimism a twitter account that's 100% focused on onboarding and educating romanians around Optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/rooptimism",
+      "description": "This is the twitter account, I published 83 posts and got over 11k impressions."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ibb.co/SQsnfvG ",
+      "description": "Twitter stats"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ibb.co/nkPhcrN",
+      "description": "Twitter stats2"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ibb.co/nkPhcrN",
+      "description": "Twitter stats3"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of overall impressions ",
+      "number": "5700",
+      "url": "https://ibb.co/7Rw51xw"
+    },
+    {
+      "description": "Number of followers",
+      "number": "45",
+      "url": "https://analytics.twitter.com/user/rooptimism/home"
+    },
+    {
+      "description": "Number of likes",
+      "number": "200",
+      "url": "https://ibb.co/LPNs1h9"
+    },
+    {
+      "description": "Number of high quality contributors ",
+      "number": "5",
+      "url": "https://twitter.com/zer8_future ; https://twitter.com/AnnAnna9627; https://twitter.com/VStelescu; https://twitter.com/krikov0; "
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "We have not received any funding from Optimism"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd95e6a7ef1f2e90e9b5143894c25cff890c2e9615a6da55c090f514a7fd2938e",
+  "prelimResult": "Keep",
+  "reportReason": "out of scope",
+  "includedInBallots": 35,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

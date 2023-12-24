@@ -1,0 +1,163 @@
+{
+  "bio": "The libp2p Project.",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "libp2p",
+  "websiteUrl": "https://libp2p.io",
+  "applicant": {
+    "address": {
+      "address": "0xc5eC328828cd381D4dECDe27ededE45264933Edf",
+      "resolvedName": {
+        "address": "0xc5eC328828cd381D4dECDe27ededE45264933Edf",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xc5eC328828cd381D4dECDe27ededE45264933Edf"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc5eC328828cd381D4dECDe27ededE45264933Edf.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc5eC328828cd381D4dECDe27ededE45264933Edf.png",
+    "id": "OptimistProfile|0xd94ad221574f97aab8727e5b58d7faf83d2dd2d76fb02bff05c4227da726bb0e"
+  },
+  "impactDescription": "The libp2p project has developed an maintained a common networking layer used by many of the core implementations of blockchains and tools that are used throughout the Optimism ecosystem. The protocols built into the libp2p project such as the Kademlia DHT and Gossipsub are core functions in the Ethereum and OP mainnet blockchains.\n\nThe libp2p maintainers have identified and mitigated 8 critical security bugs since 2019 and coordinated the private deployment of the fixes with members of the Optimism ecosystem. The maintainers continually optimized and fixed bugs with a steady cadence of libp2p releases in multiple implementations. The project has also maintained interop and performance testing to further identify and fix bugs across implementations, including go-libp2p used in OP mainnet.",
+  "contributionDescription": "- Development and maintenance of the libp2p specifications and concrete implemnetations in Go, Rust, and JavaScript.\n- Worked with projects in the Optimism ecosystem (e.g. Ethereum Beacon Chain implementations) to drive libp2p adoption and to keep implementations and downstream products updated with security fixes.\n- Managed an inclusive community of multiple implementations of libp2p across multiple companies.\n- Maintained a responsible security issue handling process that solved 8 CVE\u2019s since 2019.\n- Maintained documentation, published example code, wrote informative blog posts, and gave conferences and workshops to grow the contributor and user base.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://github.com/search?q=repo%3Aethereum-optimism%2Foptimism%20libp2p&type=code",
+      "description": "OP Mainnet uses go-libp2p."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethereum.org/en/developers/docs/nodes-and-clients/#consensus-clients",
+      "description": "Beacon Chain uses: go-libp2p, rust-libp2p, js-libp2p, jvm-libp2p, nim-libp2p"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/search?q=org%3AMetaMask%20libp2p&type=code",
+      "description": "MetaMask uses js-libp2p."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/search?q=org%3Abase-org%20libp2p&type=code",
+      "description": "Coinbase\u2019s Pessimism real-time threat detection tool uses go-libp2p."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/search?q=org%3Amantlenetworkio%20libp2p&type=code",
+      "description": "Mantle token governance platform uses go-libp2p."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/search?q=org%3AManta-Network%20libp2p&type=code",
+      "description": "Manta Network used rust-libp2p as a parachain and now as a zk apps solution"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/search?q=repo%3Aa16z%2Fmagi%20libp2p&type=code",
+      "description": "Andreessen-Horowitz\u2019s Magi roll-up client uses rust-libp2p."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/search?q=repo%3Aethereumjs%2Fethereumjs-monorepo%20libp2p&type=code",
+      "description": "Celo blockchain uses EthereumJS that uses js-libp2p."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/search?q=repo%3AUniDex-Finance%2Fethermint%20libp2p&type=code",
+      "description": "Unidex Finance uses EtherMint which uses go-libp2p."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/SYS-Labs/rollux/blob/71072da1366b0ffec727482c534ae2da2ec38a16/op-e2e/tracer.go#L6",
+      "description": "Rollux has end-to-end tests that use go-libp2p."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/search?q=repo%3AOffchainLabs%2Fnitro%20libp2p&type=code",
+      "description": "Off Chain Labs\u2019 Nitro tool uses go-libp2p."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/libp2p/specs",
+      "description": "libp2p Specifications"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/libp2p/go-libp2p",
+      "description": "go-libp2p Implementation"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/libp2p/rust-libp2p",
+      "description": "rust-libp2p Implementation"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/libp2p/js-libp2p",
+      "description": "js-libp2p Implementation"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/libp2p/test-plans/tree/master/transport-interop",
+      "description": "libp2p Transport Interop Testing"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/libp2p/test-plans/tree/master/perf",
+      "description": "libp2p Test Plans"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/libp2p/test-plans/tree/master/hole-punch-interop",
+      "description": "libp2p Hole Punching Interop Testing"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=libp2p",
+      "description": "libp2p CVE List"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://libp2p.io/",
+      "description": "libp2p Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.libp2p.io/",
+      "description": "libp2p Blog"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://connectivity.libp2p.io/",
+      "description": "libp2p Connectivity Infosite"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Beacon Chain Estimated Active Peers",
+      "number": "5500",
+      "url": "https://beaconscan.com/statistics"
+    },
+    {
+      "description": "OP Mainnet Active Peers (no metrics)",
+      "number": "0",
+      "url": "https://dune.com/optimismfnd/Optimism"
+    },
+    {
+      "description": "IPFS p2p nodes participating in the DHT",
+      "number": "250000",
+      "url": "https://probelab.io/ipfskpi/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x3b53ead12d8da8d0d1d5150494eb92b0ffb23d76090af9d4dd5341d576d97295",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 86,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack development & research"
+}

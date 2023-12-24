@@ -1,0 +1,106 @@
+{
+  "bio": "A community for Ethereum smart contract security education",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Secureum",
+  "websiteUrl": "https://twitter.com/TheSecureum",
+  "applicant": {
+    "address": {
+      "address": "0x7e026a0C061382B0F5935a90BC7324ab0a5A3aCc",
+      "resolvedName": {
+        "address": "0x7e026a0C061382B0F5935a90BC7324ab0a5A3aCc",
+        "name": "rajeev.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x7e026a0C061382B0F5935a90BC7324ab0a5A3aCc"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7e026a0C061382B0F5935a90BC7324ab0a5A3aCc.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x4d8a6bc57e7b6c2736d7adba1d9dd8d7c4e28c8691ad58f40cc06704984c06da"
+  },
+  "impactDescription": "Thousands of aspiring auditors have participated in free RACEs held every month since Jan'22 (avg ~200/RACE in 2023). Top-32 leaderboards were published & NFTs awarded for reputation. This continues to build Ethereum security community & talent in a permissionless & inclusive manner.\n\nRACEs designed by external researchers (2023: Joran+Goncalo @ ConsenSys Diligence, Nurit @ Certora,  Jon @ Veridise, Hickupp, Josselin @ ToB, Pashov, Hari @ Spearbit, Noah @ Spearbit and Tincho @ Red Guild) bring different perspectives & help enhance the social layer of Ethereum security by encouraging interactions.\n\nRACEs help participants get better at security, assess themselves and achieve greater success at audits, become security-minded developers or get hired by leading Ethereum security projects.",
+  "contributionDescription": "Secureum Bootcamp Epoch Infinity (Jan'22 onwards) has a 3-phase \u2014 LEARN-RACE-CARE \u2014 process. Participants LEARN for free from prior Secureum content and external resources. RACEs are open-and-free smart contract security quizzes, created by Secureum Mentors who are leading external security researchers, meant to educate & evaluate aspiring smart contract security auditors & developers as they LEARN basics of Ethereum, Solidity, smart contract security vulnerabilities & exploits. CAREs are smart contract security workshops with collaborating partners. This RetroPGF application is for Secureum Bootcamp Epoch Infinity RACE contributions towards increasing the quality and quantity of Ethereum/Optimism security talent.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/secureum/RACE",
+      "description": "Secureum RACEs (smart contract security quizzes)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://secureum.substack.com/ ",
+      "description": "Secureum articles on Ethereum, Solidity, smart contract security and audits"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/SecureumVideos",
+      "description": "Secureum videos on Ethereum, Solidity, smart contract security and audits"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "RACE-22 participants",
+      "number": "175",
+      "url": "https://twitter.com/TheSecureum/status/1716107276287623196"
+    },
+    {
+      "description": "RACE-21 participants",
+      "number": "208",
+      "url": "https://twitter.com/TheSecureum/status/1705505965934526948"
+    },
+    {
+      "description": "RACE-20 participants",
+      "number": "202",
+      "url": "https://twitter.com/TheSecureum/status/1689485691892432897"
+    },
+    {
+      "description": "RACE-19 participants",
+      "number": "213",
+      "url": "https://twitter.com/TheSecureum/status/1677569492963176448"
+    },
+    {
+      "description": "RACE-18 participants",
+      "number": "215",
+      "url": "https://twitter.com/TheSecureum/status/1663473177979420674"
+    },
+    {
+      "description": "RACE-17 participants",
+      "number": "230",
+      "url": "https://twitter.com/TheSecureum/status/1653278119497986048"
+    },
+    {
+      "description": "RACE-16 participants",
+      "number": "205",
+      "url": "https://twitter.com/TheSecureum/status/1643636512733396992"
+    },
+    {
+      "description": "RACE-15 participants",
+      "number": "180",
+      "url": "https://twitter.com/TheSecureum/status/1630164347585708032"
+    },
+    {
+      "description": "RACE-14 participants",
+      "number": "172",
+      "url": "https://twitter.com/TheSecureum/status/1621017566729863168"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 14000,
+      "description": "Ethereum Foundation ESP Grant (total grant amount is 42k; 14k has been received)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x06b26b0ba3df69696ea47a30cd1f8114824ff994556f5331c8eefc96bac8cf9e",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 36,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

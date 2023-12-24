@@ -1,0 +1,74 @@
+{
+  "bio": "MetaGovernoor and Public Goods Builder",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "jengajojo",
+  "websiteUrl": "https://twitter.com/jengajojo",
+  "applicant": {
+    "address": {
+      "address": "0xf31DF2dcD4083ee57f0d33d386656cfBD1E859a1",
+      "resolvedName": {
+        "address": "0xf31DF2dcD4083ee57f0d33d386656cfBD1E859a1",
+        "name": "jengajojo.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xf31DF2dcD4083ee57f0d33d386656cfBD1E859a1"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf31DF2dcD4083ee57f0d33d386656cfBD1E859a1.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf31DF2dcD4083ee57f0d33d386656cfBD1E859a1.png",
+    "id": "OptimistProfile|0xb212126f17219db3cef3eec60939747c566b72cd6187e8179e24f0d383ed3589"
+  },
+  "impactDescription": "For the first time, due to good and effective governance, BanklessDAO was able to come together and deliver a global educational campaign and onboarding events for optimism DAO. \n\nThis resulted in over 100 content pieces, over 250 new users onboarded, several members of BanklessDAO getting involved in OptimismDAO for the first time!",
+  "contributionDescription": "As an active governor in the ecosystem, I have been adding comments to posts in the Optimism forums as well as internally stewarding governance at BanklessDAO to help the agenda of education and community building in the ecosystem as a whole.\n\nDAOStewards is the meta-governance group from BanklessDAO which I have been stewarding since last year. Due to this initiative many people from BanklessDAO heard about optimism and started to contribute in various ways including being active in the forum, contributing to the ambassador program and submitting translations on the optimism server. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://forum.bankless.community/t/accruing-value-via-rpgf3/7382",
+      "description": "Facilitated OP onboarding meetups and workshops in 15 different countries"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://forum.bankless.community/t/daostewards-s9-proposal/8333",
+      "description": "Facilitated coordination to create educational content for OptimismDAO"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/u/jengajojo/summary",
+      "description": "Increased my engagement at optimism DAO"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://forum.bankless.community/t/optimism-rpfg2-distribution/5837",
+      "description": "Helped solve KYC issues for the DAO when there is no legal entity"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of new governance participants",
+      "number": "10",
+      "url": "https://gov.optimism.io/u/icedcool, https://gov.optimism.io/u/cryptoreumd, https://gov.optimism.io/u/nfthinker, https://gov.optimism.io/u/aboveaveragejoe, https://gov.optimism.io/u/discodancin, https://gov.optimism.io/u/ilk"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 500,
+      "description": "BANK tokens from BanklessDAO for participating in governance at other DAOS"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 1300,
+      "description": "BanklessDAO internal distribution "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x93b4613d520919af49bc7ee02b22edd195f19970a61279d000b8404cb09fbd9d",
+  "prelimResult": "Remove",
+  "reportReason": "There are so many bankless projects, would be great to check that this work is only claimed in this application. Can't actually find any references to the events/workshops/Onboarding that is claimed in the app"
+}

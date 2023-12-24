@@ -1,0 +1,54 @@
+{
+  "bio": "Batch create onchain EAS attestations using the power of CSV and copy/paste.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Attest Fest",
+  "websiteUrl": "https://attest-fest.party/",
+  "applicant": {
+    "address": {
+      "address": "0xDAb4775a4408D88B4C0bf6afc657985e2F1313f3",
+      "resolvedName": {
+        "address": "0xDAb4775a4408D88B4C0bf6afc657985e2F1313f3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xDAb4775a4408D88B4C0bf6afc657985e2F1313f3"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDAb4775a4408D88B4C0bf6afc657985e2F1313f3.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xDAb4775a4408D88B4C0bf6afc657985e2F1313f3.png",
+    "id": "OptimistProfile|0x196faa0d8daf8a95945f4fb4e9dab62f87fa6f1cfc3a3f0b57f84e64de9533e0"
+  },
+  "impactDescription": "Attest Fest simplifies the creation of attestations for individuals and projects alike. Attest Fest allows any one to create attestations that contribute to the shared reputation space of the OP collective. Attestations are a valuable tool for determining Citizen Eligibility. ",
+  "contributionDescription": "Attest Fest has launched an app that allows for batch creation of EAS onchain attestations on Optimism.  The app allows pasting hundreds of attestation items in CSV form. \n- Rows are validated against the attestation schema, errors are displayed to the user.\n- App supports both Safe multisig wallets and regular ETH wallets. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://attest-fest.party/",
+      "description": "Batch create OP attestations using Safe wallet and CSV."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Unique visitors (30d)",
+      "number": "600",
+      "url": "https://github.com/kristoferlund/attest-fest/assets/9698363/2d284074-0002-4048-a71c-f0274dfc67dc"
+    },
+    {
+      "description": "Attestations created (30d)",
+      "number": "100",
+      "url": "https://github.com/kristoferlund/attest-fest/assets/9698363/f521eb48-ecc5-41c6-a2d4-e14e9dac1364"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xb050be8189ff0dee56ad57c86088d3240e2d3192d9f426053400833599465720",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 33,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

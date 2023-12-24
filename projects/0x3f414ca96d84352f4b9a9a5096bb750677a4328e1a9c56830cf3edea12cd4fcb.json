@@ -1,0 +1,73 @@
+{
+  "bio": "First NFT Agency is a startup founded in 2020 in Kyiv, Ukraine. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "First NFT Agency",
+  "websiteUrl": "https://www.1nft.agency/",
+  "applicant": {
+    "address": {
+      "address": "0xfBeB914c3C9B7a193C92De130A18716097478332",
+      "resolvedName": {
+        "address": "0xfBeB914c3C9B7a193C92De130A18716097478332",
+        "name": "1nftagency.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xfBeB914c3C9B7a193C92De130A18716097478332"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfBeB914c3C9B7a193C92De130A18716097478332.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xfBeB914c3C9B7a193C92De130A18716097478332.png",
+    "id": "OptimistProfile|0x0e2e2edd34bcae65fab0b44fe5f096df96925762323e60c8f5dc690873fd048a"
+  },
+  "impactDescription": "It's impressive to see such positive results from FNA's recent events. The data clearly supports the notion that direct user interaction is a highly effective means of introducing OP technology. In the last two events, hosted and co-hosted by FNA, over 1,000 individuals were educated about OP, and more than 400 users engaged with NFTs on the OP. This demonstrates the significant impact and potential of direct user engagement in promoting and familiarizing individuals with OP technology.",
+  "contributionDescription": "1. On May 20, 2023, we were among the organizers who held the first Kyiv ETH Day this year. In our presentation and pitch, we definitely pointed out the potential of the OP stack and explained why it would be a \u201csuper chain.\u201d The main confirmation of our statements was the mint  NFTs to everyone who was interested, the result was 264 users joined the OP\nhttps://opensea.io/collection/kyiv-eth-day\n2. September 20 (20 is a lucky number for us lol) is recognized worldwide as International NFT Day. FNA acted as the organizer of the event. At the beginning of the speech, the CEO of FNA expressed the prospects of the OP as L2, why the OP claims to be called a super chain, and the main event of the event was the mint of NFTs issued on the OP\nhttps://opensea.io/collection/international-nft-day-kyiv",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xca0d9b3a7aff51553a3070bbddce0bd9d48c0435",
+      "description": "On May 20th, the first-ever Kyiv ETH Day was take place at UNIT CITY"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xfb9fe9ae0c02e64f89e89abdaf9a2fe4501efb4b",
+      "description": "International NFT Day"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xd1659f9a734972e6d5a94d2b86fa1ebb0f342c74",
+      "description": "We at FNA recently been focused on music onchain."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x3ca3565d8597aa13e048e07a3574e0d8bdf64dee",
+      "description": "WEB3 - music onchain."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x82da5d18e9455cfd6b00ac307beab3db67da0265",
+      "description": "WEB3 - music onchain."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x02cf971a9bd7b57e134631a3f997b859e39d59c2",
+      "description": "WEB3 - music onchain."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Kyiv ETH",
+      "number": "700",
+      "url": "https://youtu.be/AfXm61GiPWI?si=pA7cThAbfabMcxSj"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x3f414ca96d84352f4b9a9a5096bb750677a4328e1a9c56830cf3edea12cd4fcb",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 23,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Conferences, Events & Hackathons"
+}

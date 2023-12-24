@@ -1,0 +1,52 @@
+{
+  "bio": "Explore staking and DeFi on the fastest-growing content platform",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Stakingbits",
+  "websiteUrl": "https://stakingbits.medium.com",
+  "applicant": {
+    "address": {
+      "address": "0xFA233cC0dccf4892E688Ff4118866244196565E8",
+      "resolvedName": {
+        "address": "0xFA233cC0dccf4892E688Ff4118866244196565E8",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xFA233cC0dccf4892E688Ff4118866244196565E8"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFA233cC0dccf4892E688Ff4118866244196565E8.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xf4142acf54b8d3a9971adfa7cb7db1ce8b3a1566730557b1b27fbedd799a998b"
+  },
+  "impactDescription": " Facilitating adaptability for future advancements is crucial in our rapidly evolving world. By fostering a culture of continuous learning and innovation, individuals and organizations can prepare themselves for upcoming challenges and opportunities. Embracing change, staying updated with the latest technologies, and honing versatile skills are essential steps toward ensuring adaptability. Encouraging a growth mindset, promoting collaboration, and investing in research and development can further enhance adaptability, allowing us to navigate the complexities of the future successfully. ",
+  "contributionDescription": "I made a meaningful contribution to optimism by initiating a comprehensive discussion on Medium, delving into its significance within the crypto space and its future implications. Exploring its purpose and potential, I aimed to foster a deeper understanding among readers, thereby promoting a positive outlook on the evolving landscape of cryptocurrencies.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/stakingbits/optimism-bedrock-upgrade-explained-e5f0c86b8f16",
+      "description": "Optimism Bedrock Upgrade Explained"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Bedrock Upgrade",
+      "number": "3",
+      "url": "https://medium.com/stakingbits/optimism-bedrock-upgrade-explained-e5f0c86b8f16"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 1022,
+      "description": "Excited to share about OP! Crypto enthusiasts learning hub."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4094408bdbabd426c5fd79388299ff02c76bd8aed9e1735f8da170196ebccb6b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

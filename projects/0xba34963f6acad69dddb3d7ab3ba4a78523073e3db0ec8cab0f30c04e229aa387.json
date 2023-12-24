@@ -1,0 +1,52 @@
+{
+  "bio": "I'm a crypto trader",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Ni\u00f1o John Aguilar",
+  "websiteUrl": "https://www.facebook.com/profile.php?id=100079001142785",
+  "applicant": {
+    "address": {
+      "address": "0x99Bf0f9c2f431Cde923219dC39ff7ceA8B6B82d7",
+      "resolvedName": {
+        "address": "0x99Bf0f9c2f431Cde923219dC39ff7ceA8B6B82d7",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x99Bf0f9c2f431Cde923219dC39ff7ceA8B6B82d7"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x99Bf0f9c2f431Cde923219dC39ff7ceA8B6B82d7.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x99Bf0f9c2f431Cde923219dC39ff7ceA8B6B82d7.png",
+    "id": "OptimistProfile|0xc9acf2d07a09410832e4748603f222adc239bca73e7b086595f670e9ec05482d"
+  },
+  "impactDescription": "The Optimism Collective believes that building public goods should be rewarded.\n\nThis key ingredient to the Optimistic vision (opens new window)is more than just altruism \u2013 it\u2019s core to our success. Optimism\u2019s codebase itself is an open-source project, and builds on the shoulders of countless OSS giants which came before it.\n\nThis means public goods funding is a critical growth strategy. For Optimism, well-funded public goods means better developer tooling, widespread user education, safer infrastructure, and industry-leading research. It means Optimism can last and thrive.",
+  "contributionDescription": "When a user transacts on OP Mainnet, the profits generated from network sequencing are used to fund public goods through RetroPGF. Better public goods means more development, which creates more revenue that can be directed to public goods.\n\nThis round will focus on funding contributions that have supported the development and adoption of Optimism.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xcc394d00206311c435765be7a59d43d113abbe1a28bf3889244a375f78716702",
+      "description": "1"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "320",
+      "url": "https://www.facebook.com/profile.php?id=100079001142785"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xba34963f6acad69dddb3d7ab3ba4a78523073e3db0ec8cab0f30c04e229aa387",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

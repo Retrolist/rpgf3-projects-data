@@ -1,0 +1,92 @@
+{
+  "bio": "Synapse DAO maintains the Synapse Bridge and other onboarding tooling",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Synapse DAO",
+  "websiteUrl": "https://www.synapseprotocol.com/",
+  "applicant": {
+    "address": {
+      "address": "0x60d0edb6e40cd6BF0b1DFc90C58bA0D3Ed0C9A2d",
+      "resolvedName": {
+        "address": "0x60d0edb6e40cd6BF0b1DFc90C58bA0D3Ed0C9A2d",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x60d0edb6e40cd6BF0b1DFc90C58bA0D3Ed0C9A2d"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x60d0edb6e40cd6BF0b1DFc90C58bA0D3Ed0C9A2d.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x60d0edb6e40cd6BF0b1DFc90C58bA0D3Ed0C9A2d.png",
+    "id": "OptimistProfile|0xb70f67f7f903d2fa33d55986782b5060b9696f5f0a980c07dd1a7d3c7700b849"
+  },
+  "impactDescription": "The Synapse DAO has brought billions of dollars, hundreds of thousands of users and developers into the ecosystem across many products. Combined with integrations with key ecosystem protocols, synapse helps Optimism become the hub of all layer 2 activity through: \n\n- Bringing over $1.2B into the ecosystem \n- Settling over 1M transactions \n- Introducing 420k new users to Optimism \n- Integrations with ecosystem protocols to increase liquidity and volume \n- Educational and Marketing activities to help users navigate onboarding and discovering applications on Optimism \n",
+  "contributionDescription": "The Synapse DAO has contributed to bridge and onboarding tooling to make it easier to bring assets and users into the ecosystem in the following key ways:\n\n- Maintaining one of the leading on and off ramps for the ecosystem \n- Support and integrations for new OP Stack chains like Base\n- Fast Deposit bridging from any chain into the Optimism ecosystem\n- Research and implementation of new bridging paradigms \u2013 launching Concentrated Liquidity\n- Integrations with key ecosystem projects like Olympus, Layer2DAO etc. to increase liquidity. \n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xAf41a65F786339e7911F4acDAD6BD49426F2Dc6b",
+      "description": "Synapse Bridge Contract"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/synapsecns/synapse-contracts",
+      "description": "Synapse Core Contracts"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/SynapseProtocol/status/1687270177308557312",
+      "description": "Base Chain Integration"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/SynapseProtocol/status/1654249185066065922",
+      "description": "Launch of Cross-chain Concentrated Liquidity"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/SynapseProtocol/status/1578171581657849856",
+      "description": "Quests with Galxe to bring new users to Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/SynapseProtocol/status/1699107041652969822",
+      "description": "Integration of CCTP on Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Volume",
+      "number": "1250000000",
+      "url": "https://explorer.synapseprotocol.com/chain/10"
+    },
+    {
+      "description": "Transactions",
+      "number": "1030000",
+      "url": "https://explorer.synapseprotocol.com/chain/10"
+    },
+    {
+      "description": "Wallets",
+      "number": "420000",
+      "url": "https://explorer.synapseprotocol.com/chain/10"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 1000000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xddc9a054991a682b95fd92825602c1b0dafde853408d08328f9cca77e6fd0caf",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 33,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

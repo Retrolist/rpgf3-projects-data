@@ -1,0 +1,45 @@
+{
+  "bio": "Photographer. Collector.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Shwandangle",
+  "websiteUrl": "https://twitter.com/Shwandangle",
+  "applicant": {
+    "address": {
+      "address": "0xf9C11707D1f5Fe2B7F4c82b2772543f2c4ef165A",
+      "resolvedName": {
+        "address": "0xf9C11707D1f5Fe2B7F4c82b2772543f2c4ef165A",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xf9C11707D1f5Fe2B7F4c82b2772543f2c4ef165A"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf9C11707D1f5Fe2B7F4c82b2772543f2c4ef165A.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb7450826626aee2cfe888b2d24a549153e93d9789c3033775d33869bf8e8b089"
+  },
+  "impactDescription": "Early support of the Optimism chain, sharing it with my friends and other members of the crypto currency community, when there was demand and activity in the space, however now I am just building and focusing on quality of life. I am certain there will become more time to start sharing with friends and the community but for now it is just time for creation.",
+  "contributionDescription": "To start my photography career, whilst moving abroad to travel Colombia and South American countries whilst creating a community amongst other Crypto and NFT participants. I can help to share this art with potential Optimism users and expand the user base whilst also furthering my photography and blockchain skills.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xf9C11707D1f5Fe2B7F4c82b2772543f2c4ef165A",
+      "description": "1 characters"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "N/A",
+      "number": "42069",
+      "url": "https://twitter.com/Shwandangle"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xe15e6abfbcabfca6427923ec3a06cc08eaaccd9d4c7a4703c27074e76e4a1407",
+  "prelimResult": "Remove",
+  "reportReason": "It shows no real impact. No evidence of contributions to Optimism."
+}

@@ -1,0 +1,45 @@
+{
+  "bio": "Keen to participate in governance",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Archer",
+  "websiteUrl": "https://twitter.com/Dustin_haha",
+  "applicant": {
+    "address": {
+      "address": "0x2Ea5E9E452F85f55Be47504153f25740A5f3D78A",
+      "resolvedName": {
+        "address": "0x2Ea5E9E452F85f55Be47504153f25740A5f3D78A",
+        "name": "archer36159.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2Ea5E9E452F85f55Be47504153f25740A5f3D78A"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ea5E9E452F85f55Be47504153f25740A5f3D78A.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xba6eeaa9144f28d8037871cce53547b4e00a158885f809dd99f74f5ed2bc4921"
+  },
+  "impactDescription": "Let more people know the blockchain, understand the operation of Optimism, and actively participate in community governance. Promote the blockchain so that more people can use it. If they have any difficulties in using it, we will help them solve the problem.",
+  "contributionDescription": "Let more people know the blockchain, understand the operation of Optimism, and actively participate in community governance. Promote the blockchain so that more people can use it. If they have any difficulties in using it, we will help them solve the problem.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Dustin_haha/status/1703898219036729451",
+      "description": "twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Votes",
+      "number": "95",
+      "url": "https://vote.optimism.io/delegate/archer36159.eth"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x03a28a0edff1fa90f03f65a75b3864f5023cccfd9853325c8175af887ddf805a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

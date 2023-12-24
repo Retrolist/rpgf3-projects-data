@@ -1,0 +1,75 @@
+{
+  "bio": "Funding database - historical data, profiles of the investors and startups.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Crypto Fundraising",
+  "websiteUrl": "https://crypto-fundraising.info",
+  "applicant": {
+    "address": {
+      "address": "0xF80a109643E78Bf60A34110530d2a5fe0b414996",
+      "resolvedName": {
+        "address": "0xF80a109643E78Bf60A34110530d2a5fe0b414996",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xF80a109643E78Bf60A34110530d2a5fe0b414996"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF80a109643E78Bf60A34110530d2a5fe0b414996.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF80a109643E78Bf60A34110530d2a5fe0b414996.png",
+    "id": "OptimistProfile|0xb3883a352097813e48dcc466c3284c69b98f84d28d617f21bd95096568e91c5b"
+  },
+  "impactDescription": "We have more then 200k views on our website monthly, telegram channel with 21k subscribers, twitter with 12,5k followers. This channel keeps users interested in the Optimism ecosystem instantly informed about promising new projects backed by renowned investors.\n",
+  "contributionDescription": "We track all projects from Optimism ecosystem that got investments from Pre-seed to Series C rounds. We categorize these projects and provide users with the ability to filter the data, enabling them to conduct their own research. We operate a Telegram channel that provides instant updates on new funding rounds for projects within the Optimism ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://crypto-fundraising.info",
+      "description": "Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Crypto_Dealflow",
+      "description": "Twitter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/crypto_fundraising",
+      "description": "Telegram"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "impressions/month",
+      "number": "200000",
+      "url": "https://crypto-fundraising.info"
+    },
+    {
+      "description": "impressions/month",
+      "number": "100000",
+      "url": "https://twitter.com/Crypto_Dealflow"
+    },
+    {
+      "description": "impressions/month",
+      "number": "300000",
+      "url": "https://t.me/crypto_fundraising"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5c6601dfaab3603567d35888988d2588444d2f4d009ee16f1ba5ce1ad8036c9c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 14,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

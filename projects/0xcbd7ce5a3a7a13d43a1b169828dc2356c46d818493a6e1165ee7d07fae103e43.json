@@ -1,0 +1,48 @@
+{
+  "bio": "Rollup codes is an interactive reference specification for the rollup ecosystem.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Rollup.codes",
+  "websiteUrl": "https://www.rollup.codes/",
+  "applicant": {
+    "address": {
+      "address": "0x7d3F21bcb6C547737812A3213Ea105192f9e151f",
+      "resolvedName": {
+        "address": "0x7d3F21bcb6C547737812A3213Ea105192f9e151f",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x7d3F21bcb6C547737812A3213Ea105192f9e151f"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7d3F21bcb6C547737812A3213Ea105192f9e151f.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7d3F21bcb6C547737812A3213Ea105192f9e151f.jpeg",
+    "id": "OptimistProfile|0x5d84c87f799526d1434e01b0c4e811c1c3d9cce0ecb676ecc3f15e83af99468b"
+  },
+  "impactDescription": "EVM implementations in rollups are not the same. There is no single EVM standard and each rollup has its specifics and intricacies, such as custom precompiles, opcodes etc.\n\nFor rollup developers, this info is usually hard to find and they have to dive deep into the rollups codebase, as documentation is more often than not - unsatisfactory. Rollup.codes is a comprehensive website showcasing each rollup's most important developers' information. Our goal is for it to become the go-to place for rollup developers.\n\nRollup.codes helps developers leveraging the OP stack understand the differences between the OP stack and the Ethereum EVM, as well as between the OP stack and other rollups.\n\nSince launch, we've had 1100 unique users over the past 2.5 months.",
+  "contributionDescription": "Rollup.codes serves as an open-source developer tool, providing devs with clarity on the differences between various rollups and their stacks. The website gives information on gas costs, custom precompiles, native precompiles support, system contracts, properties of the native L1 \u21d4 L2 messaging protocol provided by the given rollup.\n\nCurrently, rollup.codes supports Optimism, Arbitrum, Polygon zkEVM and zkSync.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.rollup.codes/",
+      "description": "Interactive Reference Specification for the rollups ecosystem."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of unique users",
+      "number": "1100",
+      "url": "https://docs.google.com/spreadsheets/d/1PaAivbuX7tzK5ITifZFd7GU2aeABCZ-ZrZqxkS4HA0E/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xcbd7ce5a3a7a13d43a1b169828dc2356c46d818493a6e1165ee7d07fae103e43",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 58,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

@@ -1,0 +1,64 @@
+{
+  "bio": "I'm a software engineer with a focus on Data Engineer and Analytics.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "OpTracker",
+  "websiteUrl": "https://optracker.org/",
+  "applicant": {
+    "address": {
+      "address": "0x5820b2D47397888adb34158B60164f661739FbB0",
+      "resolvedName": {
+        "address": "0x5820b2D47397888adb34158B60164f661739FbB0",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5820b2D47397888adb34158B60164f661739FbB0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5820b2D47397888adb34158B60164f661739FbB0.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5820b2D47397888adb34158B60164f661739FbB0.png",
+    "id": "OptimistProfile|0xdc893ec5d0c444d721cccca5c1a5defd491982ff584c37990a219d62a9bb680b"
+  },
+  "impactDescription": "OpTracker allows users to track large OP token transfers in real-time. The site aims to label known OP wallets. All the data is easily accessible through an open API. Users are integrating our price API into their Google Sheets. The site has just recently launched, but I can see the user metrics growing daily.",
+  "contributionDescription": "OpTracker is dedicated to providing comprehensive on-chain analytics for Optimism tokens. The site started as a personal project, and I've decided to make it public. It currently tracks all large OP token transactions in real-time, provides a daily history of large OP wallets and historical price history. The website also offers an open API for accessing all the data.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optracker.org/large-transfers",
+      "description": "Large OP Tokens transfer."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optracker.org/top-wallets",
+      "description": "Top 1000 OP wallets."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optracker.org/api",
+      "description": "API for OP prices and large token transfer."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Open API data",
+      "number": "6",
+      "url": "https://optracker.org/api"
+    },
+    {
+      "description": "Daily users",
+      "number": "100",
+      "url": "https://analytics.google.com/analytics"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x553232d3bf4aedc322c984eb06f1e88447007f48f0fc2377eac10b213ce069f8",
+  "prelimResult": "Keep",
+  "reportReason": "['domain Creation Date: 2023-10-14T00:46:06Z']",
+  "includedInBallots": 8,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

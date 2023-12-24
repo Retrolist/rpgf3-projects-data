@@ -1,0 +1,61 @@
+{
+  "bio": "Software engineer at Gitcoin buidling Allo",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "jaxcoder",
+  "websiteUrl": "https://jaxcoder.xyz",
+  "applicant": {
+    "address": {
+      "address": "0xA4ca1b15fE81F57cb2d3f686c7B13309906cd37B",
+      "resolvedName": {
+        "address": "0xA4ca1b15fE81F57cb2d3f686c7B13309906cd37B",
+        "name": "jaxcodes.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xA4ca1b15fE81F57cb2d3f686c7B13309906cd37B"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA4ca1b15fE81F57cb2d3f686c7B13309906cd37B.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA4ca1b15fE81F57cb2d3f686c7B13309906cd37B.jpeg",
+    "id": "OptimistProfile|0x8cabfa9f8a7a55fe21732bf56161a56fad4103405318f24c1302bdda6d4f54e8"
+  },
+  "impactDescription": "My contributions have primarily centered around elevating the developer experience, constructing new tooling, and fostering a supportive community, which collectively propel the broader adoption and evolution of Optimism. The tools and support provided have not only simplified the development process but also catalyzed the transition of new developers into competent contributors within the ecosystem. The financial support for deployments and ENS purchases has been instrumental in alleviating initial cost hurdles faced by emerging developers, thereby encouraging a more robust participation and experimentation on the Optimism network.\n",
+  "contributionDescription": "I spearheaded the launch of Mars-shot Bots alongside @nowonder, raising nearly $200K for public goods, showcasing a novel way of combining technological innovation with social impact. The Dinosours NFT collection, was deployed with a pledge of 10% of all proceeds going towards Buidl Guidl, thus fostering a synergy between creativity and community support. By providing funds for deployments and sponsoring ENS purchases, I've reduced entry barriers for new web3 developers keen on learning and building within the Optimism ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/codenamejason",
+      "description": "Profile"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x417e54a81c65ba9dc5b52bf97cc1b6b613e050d0",
+      "description": "Dinosours NFT Collection"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Mars-shot Twitter",
+      "number": "55",
+      "url": "https://twitter.com/marsshotbots?lang=en"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 40000,
+      "description": "Airdrops - was one of the one who got all qualifications met"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3716035639769fdac0890b121d166c119f99c80ce4aa2c3d6809768bacc056d3",
+  "prelimResult": "Keep",
+  "reportReason": "Double claim of impact (e.g. Gitcoin & BuidlGuidl), not sure about if this applciation should be excluded",
+  "includedInBallots": 9,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

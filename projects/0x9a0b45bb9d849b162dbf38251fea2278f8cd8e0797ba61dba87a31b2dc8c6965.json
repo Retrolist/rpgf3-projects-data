@@ -1,0 +1,56 @@
+{
+  "bio": "Web3 Automation Infrastructure",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Ditto Network",
+  "websiteUrl": "https://dittonetwork.io/",
+  "applicant": {
+    "address": {
+      "address": "0xCCE878Defd667F2B85A86F586452E5BFC68CF7b9",
+      "resolvedName": {
+        "address": "0xCCE878Defd667F2B85A86F586452E5BFC68CF7b9",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xCCE878Defd667F2B85A86F586452E5BFC68CF7b9"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCCE878Defd667F2B85A86F586452E5BFC68CF7b9.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xCCE878Defd667F2B85A86F586452E5BFC68CF7b9.png",
+    "id": "OptimistProfile|0xcfc2c4180c68a2134a93b544a7fa33d97c2f878b895d4110efac789308b7cf53"
+  },
+  "impactDescription": "Ditto Network's collaboration with Optimism can encompass the provision of a comprehensive automation infrastructure. Supporting developers with a suite of tools and resources to seamlessly integrate Ditto's automation capabilities into their projects, unlocking a new level of efficiency and functionality. ",
+  "contributionDescription": "How Ditto Network can help Optimism to introduce new automation experience:\n1) Use Ditto Intuitive platform to Automate any combination of transactions and interactions with decentralized applications on Optimism.\u2028\u2028\n2) Choose any time based or event based trigger to define when actions need to be executed.\u2028\u2028\n3) Ditto provides for scheduled transactions our own decentralized network of task keepers with the highest levels of security and reliability.\n\nWhy Optimism Ecosystem will benefit?\nRemoving barriers to entry and expand possible use cases and experience\n\n\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://dittonetwork.io/",
+      "description": "website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "number of wallets interacted",
+      "number": "1000",
+      "url": "https://app.dittonetwork.io/"
+    },
+    {
+      "description": "transaction volume $m",
+      "number": "5",
+      "url": "https://app.dittonetwork.io/"
+    },
+    {
+      "description": "TVL $m",
+      "number": "1",
+      "url": "https://app.dittonetwork.io/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x9a0b45bb9d849b162dbf38251fea2278f8cd8e0797ba61dba87a31b2dc8c6965",
+  "prelimResult": "Remove",
+  "reportReason": "Can help not sure what their impact on Optimism is or if they're even on an OP chain"
+}

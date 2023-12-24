@@ -1,0 +1,55 @@
+{
+  "bio": "I have 3 years of experience in the financial market.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Huywetrix22",
+  "websiteUrl": "https://mail.google.com/mail/u/0/#inbox",
+  "applicant": {
+    "address": {
+      "address": "0x7A623a81ed52EFc54Da26C5583DC95FeAE790DDA",
+      "resolvedName": {
+        "address": "0x7A623a81ed52EFc54Da26C5583DC95FeAE790DDA",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x7A623a81ed52EFc54Da26C5583DC95FeAE790DDA"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7A623a81ed52EFc54Da26C5583DC95FeAE790DDA.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7A623a81ed52EFc54Da26C5583DC95FeAE790DDA.png",
+    "id": "OptimistProfile|0x6003d776be5451fe24e997f2b37f43423a35dc01bc369f6854692ad019117294"
+  },
+  "impactDescription": "i have big community                                                                                                                                                                                                                                                                                       ",
+  "contributionDescription": "im admin from telegram group have 5000 real member, and we can be work together if we have a chance                                                                                                                                                                          ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/huywetrix22/BRC-20",
+      "description": "just trying to beter in other day"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "none",
+      "number": "420",
+      "url": "https://github.com/huywetrix22/BRC-20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 3000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x80e21339fe9678d2dde0452834e3e1164afb1b863ef9dbfc013b39ee4efce686",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

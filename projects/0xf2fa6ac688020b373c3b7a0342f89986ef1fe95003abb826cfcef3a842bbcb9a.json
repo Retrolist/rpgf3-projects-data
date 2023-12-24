@@ -1,0 +1,59 @@
+{
+  "bio": "Social messaging app for onchain friends with native Farcaster integration",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Frens",
+  "websiteUrl": "https://frens.lol",
+  "applicant": {
+    "address": {
+      "address": "0x78A42a84bFE3E173C3A9246b3F5F1c5Aa8BBaE72",
+      "resolvedName": {
+        "address": "0x78A42a84bFE3E173C3A9246b3F5F1c5Aa8BBaE72",
+        "name": "jpren.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x78A42a84bFE3E173C3A9246b3F5F1c5Aa8BBaE72"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x78A42a84bFE3E173C3A9246b3F5F1c5Aa8BBaE72.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x78A42a84bFE3E173C3A9246b3F5F1c5Aa8BBaE72.png",
+    "id": "OptimistProfile|0x7fc52d1e9827a9cede862836edea81d1c0a9b2f5f5583439915976b09a443755"
+  },
+  "impactDescription": "Frens pushes the boundaries of crypto-enabled consumer user experiences:\n- When a user shares a link to Farcaster, they see an interactive embed they can like and reshare \u2014 without leaving the chat\n- When a user shares a link to Eventcaster, they can RSVP to the event without leaving the chat\n- View NFT activity of group members within chat (supports Eth Mainnet and Zora network)\n- Discover and join NFT-gated groups\n- Token-gated location sharing at conferences and events\n\nIn the past 12 months:\n- The Farcaster community used Frens to coordinate FarCon in Boston (Farcaster unconference), community meetups at Eth Denver, NFT NYC, and EthCC\n- Orange DAO used Frens to coordinate 2 strategic IRL retreats\n- Founders in the a16z CSS 23 cohort used Frens to create founder-NFT-gated group chats",
+  "contributionDescription": "Frens is a social messaging app for onchain friends (iOS/Android). We\u2019ve built a private messaging app that natively supports token-gating, crypto transactions, Farcaster (auth, identity, content), and Zora network NFTs.\n\nHow onchain communities use Frens:\n- The Farcaster community used Frens to organize grassroots meetups and conferences (e.g. Farcon, ETH Denver, NFT.NYC, EthCC)\n- The Purple DAO community used Frens to discuss proposals\n- The Orange DAO community used Frens to coordinate DAO retreats and meet ups at conferences (e.g. ETH Denver, EthCC)\n- Farcaster sub-communities have formed on Frens like the FC chess club, Eventcasters, and fundraising advice\n- A16z CSS 23 founders use Frens to communicate privately in founders-only groups",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://frens.lol",
+      "description": "Frens is currently gated to Farcaster users. DC @jpren.eth for immediate access"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://warpcast.com/tldr/0x885cb606",
+      "description": "Frens sparked many impromptu gatherings at FarCon (just ask attendees!)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.farcaster.xyz/apps#ecosystem",
+      "description": "Frens is featured on Farcaster's ecosystem page"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Onboarded users (private beta)",
+      "number": "305",
+      "url": "https://docs.google.com/spreadsheets/d/1PQDxqIGGsFErY-qBNpZJOUg6zIoRvleXzkRYWt5YwCI/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xf2fa6ac688020b373c3b7a0342f89986ef1fe95003abb826cfcef3a842bbcb9a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 22,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

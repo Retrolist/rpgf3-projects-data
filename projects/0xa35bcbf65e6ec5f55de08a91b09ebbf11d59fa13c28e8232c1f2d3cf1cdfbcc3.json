@@ -1,0 +1,84 @@
+{
+  "bio": "Co-founder of the FOAM protocol, have been involved with Ethereum since 2015. ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "FOAM",
+  "websiteUrl": "https://foam.space/",
+  "applicant": {
+    "address": {
+      "address": "0x2195bEaed7b0783f2c13c75FC439396583C1A37D",
+      "resolvedName": {
+        "address": "0x2195bEaed7b0783f2c13c75FC439396583C1A37D",
+        "name": "foamspace.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2195bEaed7b0783f2c13c75FC439396583C1A37D"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2195bEaed7b0783f2c13c75FC439396583C1A37D.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2195bEaed7b0783f2c13c75FC439396583C1A37D.png",
+    "id": "OptimistProfile|0xeee5697a6f384bc42b30398c1f7e1609313d9faa71e88dbb28495e74edc9f329"
+  },
+  "impactDescription": "FOAM\u2019s contributions to the Optimism Collective are new, foundational, and complex. Proof of Location will take time for these novel investments into Optimism to materialize. With that said, there are areas where impacts can be seen.\n\nFOAM adds another fork of the OP-Stack, with OP Labs developers and core contributors receiving developer feedback from FOAM developers throughout the process.Social impact has been demonstrated in terms of views and emerging ideas and conversations on social media about location-based attestations and applications of Proof of Location. After 40k Twitter users viewed our Mirror announcements about building the FOAM Proof of Location MVP on Optimism, conversation on Twitter and Farcaster about location attestations on Optimism has been buzzing \n",
+  "contributionDescription": "The FOAM team has contributed technically to the Optimism Collective by using the OP-Stack to fork and spin up a local OP-Devnet, 5 Proof of Location contracts have been deployed for testing. We also created a custom plug-in for Hardhat that allows developers to write and test OP-Stack rollups contracts and L1 and L2 interactions. The FOAM team has also provided developer feedback to OP Labs. Proof of Location is a new unlocked primitive for novel applications bringing mindshare, awareness and new ideas to OP.\n\nFOAM represents the first DePIN (Decentralized Physical Infrastructure Network) network to build on Optimism bringing fault-tolerant location data onchain to the Superchain. This has a signaling effect on the rest of the web3 ecosystem, that Optimism can be a hub for DePIN networks.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/f-o-a-m/",
+      "description": "Project Github page "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://slack.com/",
+      "description": "Developer feedback in the FOAM x OP Labs Channel"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://messari.io/report/the-depin-sector-map",
+      "description": "FOAM is the first OP DePin project "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/foamspace/status/1704958591688405368?s=20",
+      "description": "FOAM Building on Optimism Announcement"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/foamspace/status/1712259053961757088?s=20",
+      "description": "FOAM Proof of Location MVP on Optimism Announcement: "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.notion.so/FOAM-Knowledge-Base-55c490fc1615498b869e180070d905c8?pvs=4",
+      "description": "FOAM Knowledge Base for new Proof of Location Superchain primitive "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": "27000",
+      "url": "https://x.com/foamspace/status/1704958591688405368?s=20"
+    },
+    {
+      "description": "Views",
+      "number": "11000",
+      "url": "https://x.com/foamspace/status/1712259053961757088?s=20"
+    },
+    {
+      "description": "Location Attestation Conversation Views ",
+      "number": "5000",
+      "url": "https://x.com/binji_x/status/1712894753149202766?s=20"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xa35bcbf65e6ec5f55de08a91b09ebbf11d59fa13c28e8232c1f2d3cf1cdfbcc3",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 31,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

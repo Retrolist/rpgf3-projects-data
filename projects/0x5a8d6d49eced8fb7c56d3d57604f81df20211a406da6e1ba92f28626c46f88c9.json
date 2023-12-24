@@ -1,0 +1,50 @@
+{
+  "bio": " Automation tools that keep check your Health factor on Lending Protocol ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "0xairdropfarmer",
+  "websiteUrl": "https://liquidless.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xDAf7BBe20724d2dD7717E0E09a06B572C3A112DE",
+      "resolvedName": {
+        "address": "0xDAf7BBe20724d2dD7717E0E09a06B572C3A112DE",
+        "name": "0xairdropfarmer.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xDAf7BBe20724d2dD7717E0E09a06B572C3A112DE"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDAf7BBe20724d2dD7717E0E09a06B572C3A112DE.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xDAf7BBe20724d2dD7717E0E09a06B572C3A112DE.jpeg",
+    "id": "OptimistProfile|0x9701e5a07461d7d94c9a9c7722c919bcf05911111e1b2dad1d5df32300444976"
+  },
+  "impactDescription": "Liquildless has emerged as a pioneering solution on Optimism and Base by addressing a critical performance gap. Notably, Aave, a prominent lending protocol, lacked any notification service on these platforms.\n\n In stark contrast, Liquildless has stepped in to provide a vital service that empowers users with real-time notifications. While our project is in its early stages, we've already set the groundwork to fill this essential void, ensuring Aave users and the broader DeFi community can access crucial notifications to safeguard their assets effectively.",
+  "contributionDescription": "Liquildless has solved a pressing DeFi issue by providing real-time health factor notifications, safeguarding users on Optimism from liquidation in Aave, Compound, and Radiant. Our tool serves all Optimism users, enhancing safety and asset protection without making future promises.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/liquidless_bot",
+      "description": "telegram bot"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Add heath factor notification on OP Aave",
+      "number": "1",
+      "url": "https://t.me/liquidless_bot"
+    },
+    {
+      "description": "Add heath factor notification Base Aave",
+      "number": "1",
+      "url": "https://t.me/liquidless_bot"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x5a8d6d49eced8fb7c56d3d57604f81df20211a406da6e1ba92f28626c46f88c9",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

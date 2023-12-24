@@ -1,0 +1,55 @@
+{
+  "bio": "A crypto investor, Quality analyst and a chocolate drink :D ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Bearbrand",
+  "websiteUrl": "https://x.com/Crypt0_Fi?t=V-UzP7g0M4ztUOvsQRi2yA&s=09",
+  "applicant": {
+    "address": {
+      "address": "0x02368fC51D9B7A5A15B7f4477a65F0f707C049E0",
+      "resolvedName": {
+        "address": "0x02368fC51D9B7A5A15B7f4477a65F0f707C049E0",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x02368fC51D9B7A5A15B7f4477a65F0f707C049E0"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x02368fC51D9B7A5A15B7f4477a65F0f707C049E0.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x02368fC51D9B7A5A15B7f4477a65F0f707C049E0.png",
+    "id": "OptimistProfile|0x88206f571e60ce3299d92859eeb509e7620a91cdec8a7b6a5b14d7763c2cfd5d"
+  },
+  "impactDescription": "Because pf this transactions which are all made on the optimism network, i was able to contribute to the networks stability and networks upgrades . Nonetheless i was just an individual contributor that used the network for my own sake nothing else. But I think i was able to contribute to the greater good of our network.",
+  "contributionDescription": "I have contributed to the transactions made to the network used the network to create some transactions such as swap of crypto, buying of NFT and tried to explore optimism network. while on the other half i have tried to use bridge of other network to bridge eth to the network.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://explorer.optimism.io/address/0x02368fC51D9B7A5A15B7f4477a65F0f707C049E0",
+      "description": "Some of the transactions made on the network"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "OP stack",
+      "number": "310",
+      "url": "https://explorer.optimism.io/address/0x02368fC51D9B7A5A15B7f4477a65F0f707C049E0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I havent receive any fund yet. "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xdd8d59e7330210627f9326fa812846ddaac06d88c28f04cc547ad9eb414163fa",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

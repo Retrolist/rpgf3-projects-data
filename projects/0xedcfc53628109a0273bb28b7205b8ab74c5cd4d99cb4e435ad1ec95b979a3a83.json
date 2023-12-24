@@ -1,0 +1,66 @@
+{
+  "bio": "Public Nouns funds experiments in the public goods space.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Public Nouns",
+  "websiteUrl": "https://publicnouns.wtf/",
+  "applicant": {
+    "address": {
+      "address": "0x56D579a23C2D37D1E42923858Ce33856dF0Ae5dB",
+      "resolvedName": {
+        "address": "0x56D579a23C2D37D1E42923858Ce33856dF0Ae5dB",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x56D579a23C2D37D1E42923858Ce33856dF0Ae5dB"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56D579a23C2D37D1E42923858Ce33856dF0Ae5dB.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x56D579a23C2D37D1E42923858Ce33856dF0Ae5dB.png",
+    "id": "OptimistProfile|0x6962e1beeb9590f721172d3a9270380969bdcd2a45d17959d76a6a488ef02b3f"
+  },
+  "impactDescription": "Public Nouns expanded awareness of both Optimism and Public Goods via leveraging the very popular Nouns DAO mechanism and helped linked OP to PG forever.   \n\nAlong with some other Public Goods aligned entities in the space, Optimism was brought in as a founding Public Nouns organization!  Optimism Public Nouns have one of three amazing OPossum heads.  \n\nThe OPossum headed Public Nouns are a representation of this!\n",
+  "contributionDescription": "Public Nouns is funding experiments in the Public Goods space and creating value.  Optimism was included from the start to be an important part of this mission.\n\nPublic Nouns (https://publicnouns.wtf/) exists to promote, fund, and proliferate aligned projects that focus on serving our public.\n\nPublic Nouns launched at the end of Sep 2022, and has raised over 200 ETH in donations via auctions of Public Nouns.\n\nAlong with some other Public Goods aligned entities in the space, Optimism was brought in as a founding Public Nouns organization!  Optimism Public Nouns have one of three amazing OPossum heads.\n\nIf you are interested in Public Goods and you are also an Optimism fan, the Public Nouns community is for you!  Maybe it\u2019ll even have a OPossum head!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://publicnouns.wtf/",
+      "description": "Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.publicnouns.wtf/",
+      "description": "Docs"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "ETH Raised to fund Public Goods",
+      "number": "200",
+      "url": "https://publicnouns.wtf/vote"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "All ETH raised is being given out to fund experiments in the public goods space"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 959,
+      "description": "https://giveth.io/project/public-nouns-operations"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xedcfc53628109a0273bb28b7205b8ab74c5cd4d99cb4e435ad1ec95b979a3a83",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 38,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,55 @@
+{
+  "bio": "Studying about all cryptocurrencies",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "0xParlore",
+  "websiteUrl": "https://platform.arkhamintelligence.com/javhihi",
+  "applicant": {
+    "address": {
+      "address": "0x3E83AeCaa0d05861264Bb0600179D8FACCe4C27b",
+      "resolvedName": {
+        "address": "0x3E83AeCaa0d05861264Bb0600179D8FACCe4C27b",
+        "name": "javhihi.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3E83AeCaa0d05861264Bb0600179D8FACCe4C27b"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3E83AeCaa0d05861264Bb0600179D8FACCe4C27b.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3E83AeCaa0d05861264Bb0600179D8FACCe4C27b.png",
+    "id": "OptimistProfile|0x71ea4dbe99b4d2198b4a4a0304ff9f2cac764d4c852db6635ebc00d4b6a2f5cc"
+  },
+  "impactDescription": "Delegate and vote on Optimism,explore defi,NFT market,games platform on Optimism chain,vote on platform snapshotsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "contributionDescription": "Delegate and vote on Optimism,explore defi,NFT market,games platform on Optimism chain,vote on platform snapshotsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://debank.com/nfts/op/0xb83a46447900f0637baab08ffa8ed03447e10bf0/overview",
+      "description": "https://debank.com/nfts/op/0xb83a46447900f0637baab08ffa8ed03447e10bf0/overview"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "10",
+      "number": "10",
+      "url": "https://debank.com/profile/0x3e83aecaa0d05861264bb0600179d8facce4c27b/nft?chain=op"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xdea9f607faf57dacdfed0c563b4e1ef4182cc67fd4d47492228d7890c845e386",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

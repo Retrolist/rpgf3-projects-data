@@ -1,0 +1,45 @@
+{
+  "bio": "Do the best ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Evyangelia ",
+  "websiteUrl": "https://twitter.com/valiantsaintess",
+  "applicant": {
+    "address": {
+      "address": "0x88831E4Ca22ad8dB1944fefEbAb0dD4697F19A70",
+      "resolvedName": {
+        "address": "0x88831E4Ca22ad8dB1944fefEbAb0dD4697F19A70",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x88831E4Ca22ad8dB1944fefEbAb0dD4697F19A70"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x88831E4Ca22ad8dB1944fefEbAb0dD4697F19A70.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x88831E4Ca22ad8dB1944fefEbAb0dD4697F19A70.png",
+    "id": "OptimistProfile|0x00ea4245ab54ab4040d865b05135002195f25a44fddedc5c31df832dcc89f996"
+  },
+  "impactDescription": "Honestly, I'm new here, I want to learn a lot here until I become experienced in this matter, of course it's not just that, in my city where I live, there are many people who don't know about this, of course I I want to introduce everyone to my closest friends and people in my place ",
+  "contributionDescription": "Honestly, I'm new here, I want to learn a lot here until I become experienced in this matter, of course it's not just that, in my city where I live, there are many people who don't know about this, of course I I want to introduce everyone to my closest friends and people in my place ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/valiantsaintess",
+      "description": "Twitter "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "LinkedIn ",
+      "number": "420",
+      "url": "https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x0610cb2015e2f582733e5d7fb6a126ecf637d13b691a25502331fe39cf271e2c",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,52 @@
+{
+  "bio": "\u6211\u662f\u4e00\u4f4d\u6570\u5b57\u6e38\u6c11\uff0c2020\u5e74\u5f00\u59cb\u63a5\u89e6\u533a\u5757\u94fe\uff0c\u6df1\u5ea6\u9879\u76ee\u4f53\u9a8c\u8005\u548c\u4f20\u64ad\u8005",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "coreleo",
+  "websiteUrl": "https://twitter.com/JoneLee393645",
+  "applicant": {
+    "address": {
+      "address": "0x376bE65e21fd6F1599e6E04BD4C0c421A3Ab3921",
+      "resolvedName": {
+        "address": "0x376bE65e21fd6F1599e6E04BD4C0c421A3Ab3921",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x376bE65e21fd6F1599e6E04BD4C0c421A3Ab3921"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x0115b74dd6c2f7986f27dd14d7aa389fb351ded2355ed4e34f17e952f6dd6a02"
+  },
+  "impactDescription": "I was one of the first airdrop holders, and I had already experienced L2 deposits and withdrawals before the airdrop. At that time, the speed and fees for withdrawals were very high. After my first batch of airdrops arrived, I often participated in community voting and paid attention to the long-term development of the project. At the same time, after experiencing the dapp, I would share it with other netizens, such as bungee, fx, etc.",
+  "contributionDescription": "I was one of the first airdrop holders, and I had already experienced L2 deposits and withdrawals before the airdrop. At that time, the speed and fees for withdrawals were very high. After my first batch of airdrops arrived, I often participated in community voting and paid attention to the long-term development of the project. At the same time, after experiencing the dapp, I would share it with other netizens, such as bungee, fx, etc.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/JoneLee393645",
+      "description": "0x376bE65e21fd6F1599e6E04BD4C0c421A3Ab3921"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/tx/0xb7883bd14c97c05e8ef698ed16bb524c79c26700dc73c4af51239469975c8aa3"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 3000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9866b1a65b3f1a619582a0c905453d8d7ba96231dba78ae2699d654af7dcc11b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

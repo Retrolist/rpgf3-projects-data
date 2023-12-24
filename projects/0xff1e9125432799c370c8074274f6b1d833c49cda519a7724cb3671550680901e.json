@@ -1,0 +1,115 @@
+{
+  "bio": "The local-first, opensource asset tracking and management tool for crypto/tradfi",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "rotki",
+  "websiteUrl": "https://rotki.com/",
+  "applicant": {
+    "address": {
+      "address": "0x9531C059098e3d194fF87FebB587aB07B30B1306",
+      "resolvedName": {
+        "address": "0x9531C059098e3d194fF87FebB587aB07B30B1306",
+        "name": "rotki.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x9531C059098e3d194fF87FebB587aB07B30B1306"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9531C059098e3d194fF87FebB587aB07B30B1306.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9531C059098e3d194fF87FebB587aB07B30B1306.png",
+    "id": "OptimistProfile|0x9dbd5391949559484cb683148be1e94f3d881f234f5b5abb4a7e38b8d32eeb65"
+  },
+  "impactDescription": "rotki has left an indelible mark on optimism. By running locally on users machines, it ensures their financial data remains private and secure. By being opensource it provides transparency.\n\nIts unwavering support for optimism began early; it was the first EVM chain integrated after mainnet, boasting broad protocol support. Its decoding system won praise from users, offering more user-friendly transaction visibility than etherscan.\n\nIts PnL reporting aids optimism users in accounting for their activities, helping them make sense of their financials.\n\nIts opensource nature has spurred collaboration within the community. It has given rise to projects like Buchfink and Decodify, which have further enriched the ecosystem by providing plaintext accounting and decoding solutions respectively.",
+  "contributionDescription": "Rotki has made significant contributions to Optimism. From early days, rotki recognized the potential of Optimism as an L2 and was the first EVM chain to be integrated\n\nIt supports many Optimism protocols and superchain capabilities making it a versatile and indispensable tool for those navigating the ecosystem\n\nIts innovative decoding system for transactions has greatly enhanced user experience. Optimism users have praised it as a more user-friendly alternative to Etherscan\n\nIt also offers PnL reports, allowing Optimism users to do accounting in a privacy preserving way\n\nIts contributions encompass opensource code, tracking, protocols support, user-friendly decoding system and PnL accounting. These have solidified rotki's role as a vital platform within the Optimistic Ethereum community",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/rotki/rotki",
+      "description": "Our main repository, where all our opensource work resides"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://rotki.com/",
+      "description": "Our website"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/coinyon/buchfink",
+      "description": "A plain text accounting tool, made by someone else based on our opensource code"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/prettyirrelevant/decodify",
+      "description": "A chrome addon to decode etherscan/optimismscan transactions based on our code"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Github stars",
+      "number": "2327",
+      "url": "https://github.com/rotki/rotki/stargazers"
+    },
+    {
+      "description": "Number of code contributors",
+      "number": "115",
+      "url": "https://github.com/rotki/rotki/graphs/contributors"
+    },
+    {
+      "description": "Number of downloads",
+      "number": "141607",
+      "url": "https://tooomm.github.io/github-release-stats/?username=rotki&repository=rotki"
+    },
+    {
+      "description": "Approximate number of active daily users",
+      "number": "7000",
+      "url": "https://gist.github.com/LefterisJP/bca36ca91fffe0cf0b9dacdfb9b9b312"
+    },
+    {
+      "description": "Community size",
+      "number": "17000",
+      "url": "https://gist.github.com/LefterisJP/5733466b87ad1b4c379e8c65f0b60615"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1,
+      "description": "Unlike many other projects rotki is bootstrapped and has 0 VC funding."
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 145200,
+      "description": "We participated in retropgf 2 and the Optimism community awarded us"
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 22005,
+      "description": "We participated in retropgf 1 and the Optimism community awarded us"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 190770,
+      "description": "Optimism grant. Can find in forum. Form won't let me link"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 817,
+      "description": "Gitcoin round 18. not sure if should count related to optimism"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xff1e9125432799c370c8074274f6b1d833c49cda519a7724cb3671550680901e",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 94,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Portfolio Tracker"
+}

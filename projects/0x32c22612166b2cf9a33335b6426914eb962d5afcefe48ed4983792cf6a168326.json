@@ -1,0 +1,109 @@
+{
+  "bio": "I am an onchain software engineer. I build open tools for creators on OP.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Sweetman",
+  "websiteUrl": "https://github.com/sweetmantech/",
+  "applicant": {
+    "address": {
+      "address": "0xcfBf34d385EA2d5Eb947063b67eA226dcDA3DC38",
+      "resolvedName": {
+        "address": "0xcfBf34d385EA2d5Eb947063b67eA226dcDA3DC38",
+        "name": "sweetman.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xcfBf34d385EA2d5Eb947063b67eA226dcDA3DC38"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcfBf34d385EA2d5Eb947063b67eA226dcDA3DC38.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xcfBf34d385EA2d5Eb947063b67eA226dcDA3DC38.png",
+    "id": "OptimistProfile|0x307f3c339d916445a113086e4fb2c5a0890224288b1ccd610775eac46890efd1"
+  },
+  "impactDescription": "Tangible:\n\n$311k+ creator revenue tracked on Leaderboard.\n15k+ Creators tracked on Leaderboard.\n175+ NFTs minted on OP for games.\n50+ contracts on OP mainnets.\nBiggest single, collective, OP drop in Argentina.\nEducated 1.15k via YouTube on OP development.\n\nIntangible:\n\nEvents in Buenos Aires with Blockhouse & Musica W3.\nDaily Twitter sessions aiding musicians on OP.\nOpen-source MIT-Licensed code released.\nFacilitated musician entry to blockchain.\n\n\nBeneficiaries:\n\nOptimists:\nHelped Sol Siete, Nena1992, Warroking with OP.\n\nProjects:\nOnchain Magic: Mobile publishing.\nOnchain Albums: Smart wallets.\nRelief: OP video game for Heno.'s album.\n\nCompanies:\nBoosted Defient with blockchain.\nWorked with Decent for NFT purchases.\nAided Zora in onchain media publishing.",
+  "contributionDescription": "Software Engineer: Onchain Solutions for Creators\n\nProblem: Creators face hurdles integrating with blockchain, especially in mobile-first and economically challenging regions.\n\nSolutions:\nOnchain Magic (https://onchainmagic.xyz): Simplified onchain media publishing, with gas fees covered. Vital for creators in Latin America.\nOnchain Albums: Streamlined smart wallet creation for musicians.\nZora Rewards Leaderboard: Transparent revenue data for Zora Protocol creators.\nRelief: A game using Zora's onchain assets, enhancing Heno's album experience.\nAdditionally, developed infrastructure for Decent.xyz, Defient.co, Mesa & more on OP.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x8Ae36b1459678f234C9d9C2fe383246909982EEf",
+      "description": "Party Minter for Collectible Drops for Onchain Magic"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/SweetmanTech/Heno-Relief-Game",
+      "description": "Code for Relief Game - Heno.'s Album Drop."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://play.mynameisheno.com/",
+      "description": "Relief Game - Heno.'s Album Drop."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/SweetmanTech/",
+      "description": "My personal Github with open source contributions for builders on OP."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/SweetmanTech/zora-reward-leaderboard",
+      "description": "Code for Zora Rewards Leaderboard"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://leaderboard.onchainmagic.xyz/",
+      "description": "Zora Rewards Leaderboard: Transparent revenue data for Zora Protocol creators."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.onchainmagic.xyz/",
+      "description": "Onchain Magic: Simplified onchain media publishing, with gas fees covered."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.onchainalbum.xyz/",
+      "description": "Onchain Albums: Streamlined smart wallet creation for musicians"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/SweetmanTech/ERC6551-Create-UI",
+      "description": "Code for Onchain Albums"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@onchainexperiments",
+      "description": "Onchain Experiments - Educational YouTube Channel for Developers"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "USD revenue tracked on Leaderboard ",
+      "number": "311000",
+      "url": "https://leaderboard.onchainmagic.xyz/"
+    },
+    {
+      "description": "Unique Creator wallets tracked on OP.",
+      "number": "15538",
+      "url": "https://leaderboard.onchainmagic.xyz/"
+    },
+    {
+      "description": "Subscribers on Developer YouTube.",
+      "number": "1150",
+      "url": "https://www.youtube.com/@onchainexperiments"
+    },
+    {
+      "description": "Creator Payouts from Onchain Magic.",
+      "number": "119",
+      "url": "https://leaderboard.onchainmagic.xyz/magic"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x32c22612166b2cf9a33335b6426914eb962d5afcefe48ed4983792cf6a168326",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 25,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

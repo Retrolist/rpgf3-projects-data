@@ -1,0 +1,71 @@
+{
+  "bio": "The decentralized trust infrastructure of web 3 - on-chain reputation & feedback",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "UTU",
+  "websiteUrl": "https://utu.io",
+  "applicant": {
+    "address": {
+      "address": "0x3EcfF2CDB27b7aC271F1DeC715A9a2E200988b6f",
+      "resolvedName": {
+        "address": "0x3EcfF2CDB27b7aC271F1DeC715A9a2E200988b6f",
+        "name": "jasoneisen.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3EcfF2CDB27b7aC271F1DeC715A9a2E200988b6f"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3EcfF2CDB27b7aC271F1DeC715A9a2E200988b6f.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3EcfF2CDB27b7aC271F1DeC715A9a2E200988b6f.png",
+    "id": "OptimistProfile|0x6c2b15e09e4e57a1fc62f22fb35f12af790f56531423c4400fab6afb5f1bf38a"
+  },
+  "impactDescription": "UTU lets OP D-apps natively integrate UTU's API/SDK as an on-chain feedback & reputation mechanism, staking UTT (our reputation token) & collecting $UTU rewards, both on OP. UTU helps their users connect, send, swap, stake, and borrow with confidence. UTU brings its own ecosystem of partners (65+), devs (30+) and projects (7+) building on/with UTU, to OP.\n\nOP Users can review and endorse any web domain or blockchain address on OP and see on-chain endorsements and feedback about the same from their social networks. OP users have access to feedback & UTT Endorsements left by UTU users on other chains. Users can and earn UTT and UTU Coin on OP for their contributions to good outcomes for others, based on their endorsements. UTU brings users (1k mainnet, 10k testnet) and community ~20k.",
+  "contributionDescription": "UTU Protocol has deployed on Optimism to allow Optimism users to review and endorse any arbitrary web domain or blockchain address with a portion of their reputation (UTT) and see on-chain endorsements and feedback (video, text, stars, badges) about the same from their personal social networks. When UTT-staked endorsements help others find services they like (and also endorse with their UTT), the original endorsers earns reputation and $UTU rewards.\n\nUTU on Optimism also lets D-apps built on Optimism integrate UTU's on-chain feedback and reputation mechanism natively in their product on Optimism, staking UTT (our reputation token) and collecting $UTU rewards on OP for staked endorsements that help others get good outcomes.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xb2e9dB661F992d2F3013e4AFcE01C72d52f58A37",
+      "description": "This is the link to the UTU Protocol Proxy Contract on Optimism."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://gitlab.com/ututrust/utu-trust-token-solidity",
+      "description": "UTU Trust Token (UTT) "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://utu.io/blog/utu-protocol-deployed-on-optimism/",
+      "description": "Blog Post - UTU Deployment on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.utu.io/",
+      "description": "UTU Protocol Documentation for working with our API/SDK"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "UTU on Optimism Metrics Dashboard",
+      "number": "1",
+      "url": "https://ututrust.notion.site/Maybe-UTU-is-all-just-optimists-021270861b014741acbab5f60e040f83?pvs=4"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2812e1e3fcb5b5ec3e3223a4dceff58e0e92bb89aeab8a9de6311de322de6175",
+  "prelimResult": "Keep",
+  "reportReason": "Looks like this project is actually livign on Polygon",
+  "includedInBallots": 5,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

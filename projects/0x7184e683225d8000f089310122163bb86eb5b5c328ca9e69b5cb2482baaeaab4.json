@@ -1,0 +1,53 @@
+{
+  "bio": "KOLs from the Chinese community",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "yiyi",
+  "websiteUrl": "https://twitter.com/Yiyixmb",
+  "applicant": {
+    "address": {
+      "address": "0x43f708c3f68B5fE2Fe5cf38844b56613c71fc544",
+      "resolvedName": {
+        "address": "0x43f708c3f68B5fE2Fe5cf38844b56613c71fc544",
+        "name": "pio.me.eth.id"
+      }
+    },
+    "id": "Delegate|Delegate|0x43f708c3f68B5fE2Fe5cf38844b56613c71fc544"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x43f708c3f68B5fE2Fe5cf38844b56613c71fc544.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x6ab55bbe29d41d4341fb5448b173f328dd2f01bcba9e78b3092cac50d127708a"
+  },
+  "impactDescription": "I can share OP with X in my community, and I will drive my fans to participate in the OP ecology and build it together. This is what I have always wanted to do, and now I just have this opportunity to participate, so I want to seize it and contribute to the future of OP together!",
+  "contributionDescription": "I can share OP with X in my community, and I will drive my fans to participate in the OP ecology and build it together. This is what I have always wanted to do, and now I just have this opportunity to participate, so I want to seize it and contribute to the future of OP together!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Yiyixmb",
+      "description": "cool"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "18000",
+      "number": "18000",
+      "url": "https://x.com/Yiyixmb/status/1695727090287652932?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7184e683225d8000f089310122163bb86eb5b5c328ca9e69b5cb2482baaeaab4",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,55 @@
+{
+  "bio": "a crypto educator for Thai people on Twitter with active followers of 35,000",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "mahachai",
+  "websiteUrl": "https://twitter.com/EthereumThaila1",
+  "applicant": {
+    "address": {
+      "address": "0x5E014aa0649102E07c074f498845F01BCD520317",
+      "resolvedName": {
+        "address": "0x5E014aa0649102E07c074f498845F01BCD520317",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5E014aa0649102E07c074f498845F01BCD520317"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xe003557df050e2bf37a6301033b709f782fd40c71c9c1466eb713e7d8e170b34"
+  },
+  "impactDescription": "promote the value investing in crypto to thai community. The commitment is to continue educating thai people about the tech stack of Optimism both in terms of infrastructure that gear toward decentralized sequencers with value accrual to OP stakers as well as the valuable ecosystems that connect dapps together and could make use of the full potential of OVM/EVM.",
+  "contributionDescription": "I've been active on Crypto Twitter for 2 years. The content advocates to value investing in defi which I apply my financial degree to educate people to invest in defi in valued manner not degen. There are lots of thankful members who survived the crash of LUNA and its UST along with valueless defi projects as well as ghostchains like ADA. My stance is about making people aware of the true value of the protocols not only in defi but also the infrastructure of the chain and its rollups. Among thankful messages people wrote to me about helping them out of the crypto crisis in 2022, there are also those who got impact severely and felt sorry that they didn't follow my content early. This is the reason I will\ncontinue to raise awareness in a harsh manner to ensure no victim to crypto scammers.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/EthereumThaila1",
+      "description": "My twitter account that keep educating ppl about value investing in crypto"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "followers",
+      "number": "35000",
+      "url": "https://twitter.com/EthereumThaila1"
+    },
+    {
+      "description": "active students",
+      "number": "841",
+      "url": "https://www.patreon.com/mahachai_defi"
+    },
+    {
+      "description": "Stader Collab ETH validator onboards",
+      "number": "100",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfDgx1iNqGB7tBTSkeKhM_GOlvSDEdWX0Eqhrz5O1BRGoXEoQ/viewform"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x3918c2845928adb96ea50799339220efde2aaa8d7f75a677f3f22ec783fa7cc8",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

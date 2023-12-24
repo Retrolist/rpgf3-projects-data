@@ -1,0 +1,64 @@
+{
+  "bio": "15 yo software engineer and open source contributor",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Gajesh Naik",
+  "websiteUrl": "https://2007.io",
+  "applicant": {
+    "address": {
+      "address": "0xe2f6659e0209C3f79132AbDEB95abEBa0f1f672F",
+      "resolvedName": {
+        "address": "0xe2f6659e0209C3f79132AbDEB95abEBa0f1f672F",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xe2f6659e0209C3f79132AbDEB95abEBa0f1f672F"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe2f6659e0209C3f79132AbDEB95abEBa0f1f672F.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x36861a259fca5e67bac517bff2d74a586d1a53531efff90fece9459db9532328"
+  },
+  "impactDescription": "By open-sourcing cross-chain protocols, I\u2019ve enabled collective innovation and experimentation. OmniLido and similar projects spotlight Optimism\u2019s versatility, spurring its adoption within the Collective. Such initiatives set high benchmarks, driving developers to reach new heights. Overall, I\u2019ve not only added technological prowess but invigorated the Collective's spirit and growth.",
+  "contributionDescription": "My primary contribution to Optimism lies in developing cross-chain protocols, bolstering interoperability. OmniLido allows users to deposit into Lido from Optimism, bridging ETH to Ethereum via LayerZero. OmniMint & OmniBuy further this cross-chain mission. All codes are open-sourced on GitHub, ensuring transparency and fostering community-driven innovation. By leveraging Optimism's low gas fees and robust Layer 2 attributes, these projects accentuate its versatility and appeal in the blockchain sphere.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Gajesh2007/contributions/blob/main/README.md#layerzero--stargate",
+      "description": "All my contributions to Open Source"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Gajesh2007/OmniLido",
+      "description": "OmniLido - Deposit ETH in Lido from Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Tweet Views",
+      "number": "4850",
+      "url": "https://x.com/gajeshnaik/status/1658456395241455616?s=20"
+    },
+    {
+      "description": "Tweet Views",
+      "number": "25100",
+      "url": "https://x.com/gajeshnaik/status/1643332853290393601?s=20"
+    },
+    {
+      "description": "Tweet Views",
+      "number": "23900",
+      "url": "https://x.com/gajeshnaik/status/1642586439354400768?s=20"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xf721b86e2b7f7195848185852de34ec8bb98f326701ea7d1b773d6110a6db5fa",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 14,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

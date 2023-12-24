@@ -1,0 +1,71 @@
+{
+  "bio": "I make YouTube videos explaining Ethereum, L2s, and the World Computer vision. ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "jordanmmck",
+  "websiteUrl": "https://www.jordanmmck.com/",
+  "applicant": {
+    "address": {
+      "address": "0x29FF795B015652EdFB9883bB83B3E9bE3c207e62",
+      "resolvedName": {
+        "address": "0x29FF795B015652EdFB9883bB83B3E9bE3c207e62",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x29FF795B015652EdFB9883bB83B3E9bE3c207e62"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29FF795B015652EdFB9883bB83B3E9bE3c207e62.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x29FF795B015652EdFB9883bB83B3E9bE3c207e62.jpeg",
+    "id": "OptimistProfile|0x5367efc6e94ae5b3353adcc5ed15acd3a0465685014b004b6aa19c11d182dc32"
+  },
+  "impactDescription": "It's hard for me to measure the impact of my videos, but I think that I've helped many builders and enthusiasts understand the technology in this space better. I've done a few videos on ZK and Optimistic roll-ups, and I've received a lot of positive feedback on them. I've also tried to paint the picture for grand vision of the World Computer (Ethereum + L2s) concept, and I hope that has inspired some people. I have many more videos on the way along these lines!",
+  "contributionDescription": "I try in my videos to explain important concepts relating to Ethereum and L2s in a visual way. I aim to make the diagrams intricate, visually appealing, and technically accurate. The technology in this space is complex and moving quickly. Most resources are text-only. I find it really helpful to have high quality visuals to refer to.\n\nThe people that I hope to help and inspire with my videos are the founders and creators of tomorrow. If we can inspire builders to build great things in this space, the rest will follow. I don't make videos for a broad/casual audience, I make content for those who want to go deep!\n\nI've had many people and orgs reach out and say that my videos have helped them. I hope to help many more!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@jordanmmck",
+      "description": "YouTube Channel"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views (Ethereum Scaling: ZK Roll-Ups)",
+      "number": "3100",
+      "url": "https://youtu.be/3C0g-60bAWc?si=5j7IddYH_PtkPn-S"
+    },
+    {
+      "description": "Views (Ethereum Explained: The EVM)",
+      "number": "18000",
+      "url": "https://youtu.be/kCswGz9naZg?si=BKLBXMvRFbUoTuKJ"
+    },
+    {
+      "description": "View (Ethereum Scaling: Modular Vision)",
+      "number": "1800",
+      "url": "https://youtu.be/cPorRAyA9qg?si=-_2ikRY_vGblkoSD"
+    },
+    {
+      "description": "Views (Ethereum: Smart Contracts)",
+      "number": "1300",
+      "url": "https://youtu.be/PLgawr4pbqE?si=FHNd988uTjcJFEy_"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 5566.61,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xba2e0392ddef461fea23821d7098b917bab9532d2d2cb297d0449d3a446c9bf7",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 33,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

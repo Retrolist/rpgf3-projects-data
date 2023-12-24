@@ -1,0 +1,53 @@
+{
+  "bio": "DEV Solidity PHP Javascript HTML, Dev frontend + GitHub Star, Cryptotrader \ud83d\udcc8 ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Edwin Pitters",
+  "websiteUrl": "https://x.com/Edwin0x0",
+  "applicant": {
+    "address": {
+      "address": "0xBd1691E270485D152eb2F9f75B7c8ff4595eeC2F",
+      "resolvedName": {
+        "address": "0xBd1691E270485D152eb2F9f75B7c8ff4595eeC2F",
+        "name": "edwinosky.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xBd1691E270485D152eb2F9f75B7c8ff4595eeC2F"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBd1691E270485D152eb2F9f75B7c8ff4595eeC2F.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xBd1691E270485D152eb2F9f75B7c8ff4595eeC2F.png",
+    "id": "OptimistProfile|0x347a42fb8809139f156e23917cbb1e12fc08ab7df144aabf3cef299d0a66827e"
+  },
+  "impactDescription": "I participate in hackathons, contests and governance votes, I use services built on Optimism on a daily basis and I promote their adoption among my friends. I would like to contribute with a higher commitment, I have a lot of free time every day so I can dedicate myself fully to collaborating with the adoption of Optimims in my city",
+  "contributionDescription": "Since the first months of Optimism I have tested and given feedback to many projects in the ecosystem to identify errors and have better usability, I have educated other users on how to use Optimism and the advantages it offers in terms of lower fees and faster transactions.\nI have participated in hackathons and contests.\nI am a user of dApps and services built in Optimism, so I promote their adoption among my friends and the communities to which I belong.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Edwin0x0",
+      "description": "Social"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "views",
+      "number": "1000",
+      "url": "https://twitter.com/Edwin0x0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb504b536065ffdf5dd5fc23ec8dcef10779a36926ab798e656aad9da9d8f82be",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

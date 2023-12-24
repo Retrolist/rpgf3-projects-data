@@ -1,0 +1,95 @@
+{
+  "bio": "Content Creator building TGID",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Chef Tony",
+  "websiteUrl": "https://twitter.com/NFTonyP",
+  "applicant": {
+    "address": {
+      "address": "0x92bf7D200b62ea43CFE26BDAbc1779E2dC076D67",
+      "resolvedName": {
+        "address": "0x92bf7D200b62ea43CFE26BDAbc1779E2dC076D67",
+        "name": "fooddood.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x92bf7D200b62ea43CFE26BDAbc1779E2dC076D67"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x92bf7D200b62ea43CFE26BDAbc1779E2dC076D67.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x7534bebe171c979d2f02f8d3fb0d8aeccb5c16318cc38b2bd2914d63b98412ea"
+  },
+  "impactDescription": "My spaces have helped bring more awareness to the Optimism Collective. I'm native to the on-chain art collecting crowd that consists of a fairly diverse mix of talents. I've gotten to give good airtime sharing what OC is out to achieve and how devs and other can get involved building on Optimism. Onboarding vis a vis meeting people where they are on social media taking them further down the funnel towards building or participating in DAO governance. ",
+  "contributionDescription": "I am seeking RetroPGF funding for hosting twitter spaces informing the public about OP stack, and the latests and greatest with the Optimism collective. My content is aimed at less developer heavy crowds, trying to make the wonders of L2s and superchains more accessible to non-devs. I host a twitter spaces every Monday called Ink Tank. Education is key to driving more users to join, and I hope the OP folks agree!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/TGIDoodles/status/1706475932158959703?s=20",
+      "description": "Ink Tank #9"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/TGIDoodles/status/1703758367770976428?s=20 ",
+      "description": "Ink Tank #8"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/TGIDoodles/status/1700893303753834629?s=20",
+      "description": "Ink Tank #7"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/TGIDoodles/status/1698773108297998428?s=20 ",
+      "description": "Ink Tank #6"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/TGIDoodles/status/1696326997092286602?s=20",
+      "description": "Ink Tank #5"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/TGIDoodles/status/1693406102417756241?s=20",
+      "description": "Ink Tank #4"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/TGIDoodles/status/1691084801652948992?s=20",
+      "description": "Ink Tank #3"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/TGIDoodles/status/1688373964626960384?s=20",
+      "description": "Ink Tank #2"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/TGIDoodles/status/1685796990863441920?s=20",
+      "description": "Ink Tank #1"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of listeners",
+      "number": "1000",
+      "url": "https://superspaces.ai/profile/TGIDoodles"
+    },
+    {
+      "description": "# of followers",
+      "number": "5700",
+      "url": "https://twitter.com/NFTonyP"
+    },
+    {
+      "description": "# of followers",
+      "number": "2050",
+      "url": "https://twitter.com/TGIDoodles"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x42946c9ef50bfc17b3ba0d0bc0e8f1bddab262a6593b0e49c9fe2d23c79919eb",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

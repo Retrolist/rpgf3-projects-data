@@ -1,0 +1,54 @@
+{
+  "bio": "Cryptocurrency trader",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "DZCRYPTO95",
+  "websiteUrl": "https://twitter.com/DZCRYPTO95",
+  "applicant": {
+    "address": {
+      "address": "0x9255b911fCF164f48c7B3e04dC091bf9e046F6BB",
+      "resolvedName": {
+        "address": "0x9255b911fCF164f48c7B3e04dC091bf9e046F6BB",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9255b911fCF164f48c7B3e04dC091bf9e046F6BB"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9255b911fCF164f48c7B3e04dC091bf9e046F6BB.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9255b911fCF164f48c7B3e04dC091bf9e046F6BB.png",
+    "id": "OptimistProfile|0x5879bf0dd3141c21f8002eb1dd70f09e65eec973b288f0532bb2db27ba3b98e0"
+  },
+  "impactDescription": "I have contributed to publishing research in new and good projects. Thank you for your contribution of time and money.I wish you wonderful professional lives, and thank you. I am a beginner, so do not make fun of me for saying this.I want some special coins",
+  "contributionDescription": "I have contributed to publishing research in new and good projects. Thank you for your contribution of time and money.I wish you wonderful professional lives, and thank you. I am a beginner, so do not make fun of me for saying this.I want some special coins",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/DZCRYPTO95",
+      "description": "DZ"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "DZ",
+      "number": "1000",
+      "url": "https://twitter.com/DZCRYPTO95"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "Thank you all"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xfa90a9545a99e3df0d6512ed6ad55a90f674ed81786c9f3c21cebccbdca48b8f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

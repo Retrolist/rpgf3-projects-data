@@ -1,0 +1,140 @@
+{
+  "bio": "Layer3 makes learning and exploring crypto fun, engaging, and rewarding.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Layer3",
+  "websiteUrl": "https://layer3.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xE084ce2385eb56C42b65dA5d5B1205c3d4aD5d58",
+      "resolvedName": {
+        "address": "0xE084ce2385eb56C42b65dA5d5B1205c3d4aD5d58",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE084ce2385eb56C42b65dA5d5B1205c3d4aD5d58"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xdedca608f75628fa41fb6917bddb168e22e6223165c288465d956c6ff286eb1a"
+  },
+  "impactDescription": "First, Layer3 brought users to Optimism through our native bridge, accounting for 89,000 bridging transactions to Optimism.\n\nThen, we provided open and immersive education verified by on-chain actions. Layer3 Quests are responsible for diving 285,000 users to make 5.9 million on-chain transactions across over 40 unique dapps on Optimism.\n\nFinally, we contributed to the OP superchain thesis by catalyzing 65,000 users to complete 364,000 transactions on Base. We celebrated the Zora OP Stack launch while encouraging artists to create their own collection, learn about music NFT and collect a Zorb in the process \u2013 driving 144,800 users to transact on Zora. ",
+  "contributionDescription": "Crypto has an education, user engagement, and retention problem. Layer3 is addressing this with immersive, informative Quests and Journeys anchored by on-chain actions.\n\nWe've onboarded a substantial user base to Optimism, Base, and Zora, educating them on key concepts such as security basics, switching networks, and revoking smart contract approvals, spanning DeFi, NFTs, and other emerging sectors.\n\nLayer3 ensures smooth cross-chain transfers with our native Bridge.\n\nWe champion Web3 democracy by educating users on direct voting or delegating OP tokens. Layer3 has 5,600 delegations and 179,000 OP voting power.\n\nIn total, we've empowered over 284,000 users to complete more than 5.9 million on-chain transactions on Optimism, all at no cost to the user.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://layer3.xyz/search?chainIds=10&hideExpired=false",
+      "description": "Selection of Optimism Quests on Layer3"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer3.xyz/category/base",
+      "description": "Selection of Base Quests on Layer3"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.spindl.xyz/p/follow-the-users",
+      "description": "Article by Spindl referencing our impact on Base"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer3.xyz/bridge",
+      "description": "Layer3 bridge "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer3.xyz/quests/an-introduction-to-zora",
+      "description": "Zora Quest #1"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer3.xyz/quests/zora-x-uniswap",
+      "description": "Zora Quest #2"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer3.xyz/quests/a-beginners-guide-to-music-nfts",
+      "description": " Zora Quest #3"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of users acquired (Optimism)",
+      "number": "284000",
+      "url": "https://docs.google.com/spreadsheets/d/1aGQNuTbOHXqzK1JnZUZSII8YIGBfOCJ2zo7RJIF1Sq8/edit?usp=sharing"
+    },
+    {
+      "description": "# of transactions driven (Optimism)",
+      "number": "5900000",
+      "url": "https://docs.google.com/spreadsheets/d/1aGQNuTbOHXqzK1JnZUZSII8YIGBfOCJ2zo7RJIF1Sq8/edit?usp=sharing"
+    },
+    {
+      "description": "# of bridging transactions",
+      "number": "89000",
+      "url": "https://docs.google.com/spreadsheets/d/1aGQNuTbOHXqzK1JnZUZSII8YIGBfOCJ2zo7RJIF1Sq8/edit?usp=sharing"
+    },
+    {
+      "description": "# of users acquired (Base)",
+      "number": "65000",
+      "url": "https://docs.google.com/spreadsheets/d/1aGQNuTbOHXqzK1JnZUZSII8YIGBfOCJ2zo7RJIF1Sq8/edit?usp=sharing"
+    },
+    {
+      "description": "# of transactions driven (Base)",
+      "number": "364000",
+      "url": "https://docs.google.com/spreadsheets/d/1aGQNuTbOHXqzK1JnZUZSII8YIGBfOCJ2zo7RJIF1Sq8/edit?usp=sharing"
+    },
+    {
+      "description": "# of users acquired (Zora)",
+      "number": "144800",
+      "url": "https://docs.google.com/spreadsheets/d/1aGQNuTbOHXqzK1JnZUZSII8YIGBfOCJ2zo7RJIF1Sq8/edit?usp=sharing"
+    },
+    {
+      "description": "# of delegations",
+      "number": "5600",
+      "url": "https://www.tally.xyz/profile/0x7b0befc5b043148cd7bd5cfeeef7bc63d28edec0?governanceId=eip155:10:0xcDF27F107725988f2261Ce2256bDfCdE8B382B10"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 5000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa1b12a1d4c48cbadb8b289144ef65fa5570ccd6e62e076c91f8009f5175fa0ba",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 51,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

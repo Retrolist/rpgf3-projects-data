@@ -1,0 +1,95 @@
+{
+  "bio": "Public goods centric. Active on DAO-endeavors, onboarding and decentralization",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "bosco.eth",
+  "websiteUrl": "https://web3.bio/bosco.eth",
+  "applicant": {
+    "address": {
+      "address": "0x30C7F4F7504D6366916f669cd8E731ED4dF6C702",
+      "resolvedName": {
+        "address": "0x30C7F4F7504D6366916f669cd8E731ED4dF6C702",
+        "name": "bosco.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x30C7F4F7504D6366916f669cd8E731ED4dF6C702"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x30C7F4F7504D6366916f669cd8E731ED4dF6C702.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x30C7F4F7504D6366916f669cd8E731ED4dF6C702.jpeg",
+    "id": "OptimistProfile|0xd841184403061ed440ca9b62d0f2e9442ae8a2d82768b3ea82c07dab287f9aa0"
+  },
+  "impactDescription": "bosco.eth tested technologies aligned with the optimistic vision while ensuring no-single point of failure for onboarding plans. While being at its infancy, bosco.eth is not reinventing the wheel but testing tools to becoming a decentralized onboarding public goods-oriented flywheel that bridges real world communities from a broad spectrum locally and globally using primarily Optimism and chains at the OpStack such as PGN, Zora and Base. All this while continuing active on governance, promoting and/or providing feedback at mayor public goods protocols such as PoH, ENS, diva, OPTIMISM (+OpStack), SISMO, D_D, etc. bosco.eth aids individuals and communities to explore trusted coordination tools with good UX. We expect smart contract wallets and social recovery will catalyze these endeavors.",
+  "contributionDescription": "Onboarding, Governance, fostering Cross-DAO Communication, funding Public Goods and testing mechanisms, augmenting signal to noise ratio online and onchain around public goods.\nOnboarding: Helped people mainly from underprivileged regions of Argentina to onboard to Ethereum ecosystem, Proof of Humanity and migrate from custodial services to non-custodial layer 1 (Ethereum) and layer 2 (Optimism and OpStack). Presented incentives alignment, use of blockchain and impact on Public Goods to the community at \u201cCongreso Nacional 1\u00b0 Edici\u00f3n \u2013 Gesti\u00f3n del Agua en Ciudades Sostenibles  \u201cExperiencia de Uso Eficiente del Agua en Distintos Lavados Cotidianos\u201d Villa Dolores, C\u00f3rdoba, Argentina, Oral Presenter (2022).\nNominated Proof of Humanity to RPGF1. \n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://regenscore.io/share/0x30C7F4F7504D6366916f669cd8E731ED4dF6C702",
+      "description": "Indicator | bosco.eth bias (1210 of 1420 points) towards Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1rphUkII5-49VmRVKaQBxsOYRNsO56ifGSSLctQyduWg/edit#gid=2130851094",
+      "description": "Nomination#44 | 1st Nomination of Proof of Humanity to RPGF1 10/11/2021 10:56:22"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.proofofhumanity.id/profile/0x30C7F4F7504D6366916f669cd8E731ED4dF6C702",
+      "description": "PoH Profile from where a tree of people bosco.eth aid onboarding can be derived"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/file/d/1WMoN4JLmvNngmVVj1upqiwbF0iTcquZ3/view?usp=share_link",
+      "description": "Web2 Curriculum Vitae - Conference#16 Oral Presenter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "OpStack | Months of usage PGN",
+      "number": "3",
+      "url": "https://explorer.publicgoods.network/address/0x30C7F4F7504D6366916f669cd8E731ED4dF6C702"
+    },
+    {
+      "description": "OpStack | Months of usage BASE",
+      "number": "3",
+      "url": "https://basescan.org/address/0x30C7F4F7504D6366916f669cd8E731ED4dF6C702"
+    },
+    {
+      "description": "Optimism | Months of usage Optimism",
+      "number": "22",
+      "url": "https://optimistic.etherscan.io/address/0x30C7F4F7504D6366916f669cd8E731ED4dF6C702"
+    },
+    {
+      "description": "Regen Score | Onchain Attestation",
+      "number": "1420",
+      "url": "https://optimism.easscan.org/attestation/view/0x5b6a1e2df40fb4acb699a379bbb310c5593e7db771bd885ee07e679747e90768"
+    },
+    {
+      "description": "Gitcoin Passport | Human Score",
+      "number": "63.05",
+      "url": "https://optimism.easscan.org/attestation/view/0x9d3511537fab3a2de7e7b5641e2b6a99b38f1ebc20dd21ce5376bec0d0083425"
+    },
+    {
+      "description": "Tools Selected for Onboarding Efforts",
+      "number": "11",
+      "url": "https://drive.google.com/file/d/19NNP4cfnqA19ZFZUh6FhfJrW4fSY5jGF/view?usp=share_link"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "No funds have been received. Only responsibility airdrops like diva, ens, op"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4ffeea46e1e53b31809ad3fd0b14d837ed3780602fccee46659a0bf93a9e5ca0",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

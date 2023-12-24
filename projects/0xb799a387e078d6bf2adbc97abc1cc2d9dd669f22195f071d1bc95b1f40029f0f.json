@@ -1,0 +1,48 @@
+{
+  "bio": "AAA",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "ABUNABIL",
+  "websiteUrl": "https://abunabil.com/",
+  "applicant": {
+    "address": {
+      "address": "0xe9D83837877bDF126Ae99a329F612adb4D70d982",
+      "resolvedName": {
+        "address": "0xe9D83837877bDF126Ae99a329F612adb4D70d982",
+        "name": "spacz.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xe9D83837877bDF126Ae99a329F612adb4D70d982"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe9D83837877bDF126Ae99a329F612adb4D70d982.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x763f0f5053393cc82a53cf4e50215de82de353b3e255b91f1c0c9371f9c44995"
+  },
+  "impactDescription": "I love this project and I desperately need it to build my future project\nI love this project and I desperately need it to build my future project\nI love this project and I desperately need it to build my future project\nI love this project and I desperately need it to build my future project",
+  "contributionDescription": "I love this project and I desperately need it to build my future project \nI love this project and I desperately need it to build my future project\nI love this project and I desperately need it to build my future project\nI love this project and I desperately need it to build my future project",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/LEARNFROMZERO",
+      "description": "I love this project and I desperately need it to build my future project"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#1",
+      "number": "20",
+      "url": "https://t.me/LEARNFROMZERO"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xb799a387e078d6bf2adbc97abc1cc2d9dd669f22195f071d1bc95b1f40029f0f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

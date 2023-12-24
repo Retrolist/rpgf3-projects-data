@@ -1,0 +1,55 @@
+{
+  "bio": "Web 3 Survivor",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "TenacityX",
+  "websiteUrl": "https://twitter.com/tenacitytrades",
+  "applicant": {
+    "address": {
+      "address": "0xe7029426125f7386ed05A0f98E8fDa0C72F683D2",
+      "resolvedName": {
+        "address": "0xe7029426125f7386ed05A0f98E8fDa0C72F683D2",
+        "name": "tenacityx.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xe7029426125f7386ed05A0f98E8fDa0C72F683D2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x5ee9444f7e0f3e0a6cd75f5fc304a9e378a10a485e916691badfce32144d3bc2"
+  },
+  "impactDescription": "Community Engagement: Organized and hosted monthly webinars aimed at educating the community about the benefits and advancements of Optimism. These sessions attracted over 10,000 cumulative attendees and boosted our community engagement metrics by 25%.\n\nStrategic Collaborations: Established partnerships with four burgeoning DeFi projects, ensuring their smooth migration and integration onto the Optimism platform. This not only expanded our ecosystem but also fortified trust among project developers considering Optimism.\n\nFeedback Loop Creation: Developed a feedback portal in collaboration with the user experience team, facilitating direct communication between users and developers. This initiative has since resulted in the implementation of 20+ user-suggested improvements.",
+  "contributionDescription": "In my journey with Optimism, I've strived to wear many hats, each with the singular goal of fostering growth, security, and transparency for our platform and its dedicated community. I\u2019m deeply passionate about our shared mission and am excited to continue contributing to a more scalable and user-friendly decentralized future.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/tenacitytrades",
+      "description": "X"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Followers",
+      "number": "228",
+      "url": "https://twitter.com/tenacitytrades"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 100000000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7a0fbf9af8fdcec08d78adf20a0b9e797cd54489299b6d7b3485b372914364a9",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

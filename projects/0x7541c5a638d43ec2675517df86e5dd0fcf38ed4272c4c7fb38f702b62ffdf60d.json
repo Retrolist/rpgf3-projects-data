@@ -1,0 +1,48 @@
+{
+  "bio": "Airdrop Hunter",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Dimzy",
+  "websiteUrl": "https://twitter.com/Diimzyyy",
+  "applicant": {
+    "address": {
+      "address": "0x1859Cf10262c6528F4C53fF96a10D3a524741a38",
+      "resolvedName": {
+        "address": "0x1859Cf10262c6528F4C53fF96a10D3a524741a38",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x1859Cf10262c6528F4C53fF96a10D3a524741a38"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xfb66391382894aa2eb89ae6c4890f17f3407df9ccb5d6a80517cd3f926dd7c34"
+  },
+  "impactDescription": "\"It\u2019s had a huge impact. The potential for RetroPGF makes it easier to focus on providing maximal value without worrying as much about monetization. It\u2019s also been a great motivation. Working on public goods for years with no reward can be demotivating.\u201d",
+  "contributionDescription": "The Optimism Collective is excited to announce the third round of RetroPGF. This fall, 30 million OP will be distributed to builders, creators, and educators who have provided positive impact to the Optimism Collective. If you want to get started building, head to our Ecosystem Contributions board to find a project.\n\nOptimism is building an economy that empowers community members to be recognized and rewarded for their contributions to the Collective. These regular rounds of RetroPGF are key to growing Optimism\u2019s economy, and eventually, to scaling the principle of \u201cimpact = profit\u201d to the world.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x519edbe6113aa804cca196b4834d0ec249232ce4a1a7705d19effb1d66108530",
+      "description": "Done"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "downloads",
+      "number": "0",
+      "url": "https://optimistic.etherscan.io/tx/0x519edbe6113aa804cca196b4834d0ec249232ce4a1a7705d19effb1d66108530"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7541c5a638d43ec2675517df86e5dd0fcf38ed4272c4c7fb38f702b62ffdf60d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

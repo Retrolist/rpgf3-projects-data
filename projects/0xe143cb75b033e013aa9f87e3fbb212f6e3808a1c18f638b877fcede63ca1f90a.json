@@ -1,0 +1,66 @@
+{
+  "bio": "RadicalxChange Foundation is a nonprofit seeking to improve basic institutions.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "RadicalxChange Foundation",
+  "websiteUrl": "https://radicalxchange.org",
+  "applicant": {
+    "address": {
+      "address": "0x3945D766185E2264900C84faC10958B3619C2bD4",
+      "resolvedName": {
+        "address": "0x3945D766185E2264900C84faC10958B3619C2bD4",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3945D766185E2264900C84faC10958B3619C2bD4"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3945D766185E2264900C84faC10958B3619C2bD4.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3945D766185E2264900C84faC10958B3619C2bD4.png",
+    "id": "OptimistProfile|0x156f61263ff4af8d82e065c69996f6b0b9aedb65787b0c0f5ff0977fa7e6e5ea"
+  },
+  "impactDescription": "The PCOArt system we're building will bring new attention to Optimism. Our pathbreaking work in quadratic funding, soul bound tokens, and more has left positive impacts on the general culture of Optimism Collective. We expect our work to continue to enrich this ecosystem and are proud to support it!",
+  "contributionDescription": "RadicalxChange Foundation works to sketch the shape of tomorrow's institutions. We work not only with technologists, but also with academics, governments, and civil society to inspire concrete, yet big-thinking experiments that help unlock possibilities for a fairer society. Our wok has been instrumental in not only inspiring, but also proving out the viability of using techniques like quadratic funding and quadratic voting in real situations of governance. Today we are doing fundamental research in currency systems, data regulation / exchange systems, AI governance and more. We are helping to lead a multi-institution initiative focused on rethinking institutions of property, from land to IP. We are collaborating with major artists and to bring partial common ownership to the art world!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.radicalxchange.org/media/",
+      "description": "Writings and media"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://pco-art-docs.vercel.app/",
+      "description": "Draft docs for PCOArt system"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/RadicalxChange",
+      "description": "Github with various tools such as lightweight QV and RxC Voice"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of Downloads",
+      "number": "74885",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 70988.29,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 58,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Governance Research"
+}

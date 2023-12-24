@@ -1,0 +1,58 @@
+{
+  "bio": "product-designer, svg-slinger, superchain-celebratoooor",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Joe",
+  "websiteUrl": "https://zora.co/collect/zora:0x370a73cb8ece8059bd0719e8acf4347e2456f395",
+  "applicant": {
+    "address": {
+      "address": "0xCC692D6E11268B40A1E3C58e3D86Fc4CAAb9b77a",
+      "resolvedName": {
+        "address": "0xCC692D6E11268B40A1E3C58e3D86Fc4CAAb9b77a",
+        "name": "jringenberg.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xCC692D6E11268B40A1E3C58e3D86Fc4CAAb9b77a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCC692D6E11268B40A1E3C58e3D86Fc4CAAb9b77a.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xCC692D6E11268B40A1E3C58e3D86Fc4CAAb9b77a.png",
+    "id": "OptimistProfile|0x3a871e5a8ed0664a659489db4146a464b39ad42394a534fb94dab1681b2f29bc"
+  },
+  "impactDescription": "These NFTs expand the Sunny-verse with optimistic characters who:\n1. Celebrate the launch of new op-stack chains\n2. Give people an delightful way to mint their first Zora-chain and Base-chain NFT\n3. Spread the OP brand and meme of Sunny, the unofficial (I believe!) optimism mascot\n4. As onchain SVGs, this animated art can be code-inspected, copied and riffed on\n\nMost importantly, the art and the description text present the work and the chains they're  deployed on as territory for wholesome enthusiasm, onchain creativity, and a positive message to builders and minters: You got this! You can do it! Go get it! Stay optimistic!",
+  "contributionDescription": "I created an onchain-animated-svg NFT celebrating the launch of Zora chain using OP's Sunny character as a base for a Zora-themed character, celebrating and reiterating the Superchain connection. This hyped the Zora-chain launch, and as soon as minting on Base was supported, I created a similar Base-themed character. I call them Superfriends.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://zora.co/collect/zora:0x370a73cb8ece8059bd0719e8acf4347e2456f395",
+      "description": "optimism-radiating zora-chain NFT celebrating Zora's new chain"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://zora.co/collect/base:0xada829a279efa1ca7652e874ab92d1de0a552ee6",
+      "description": "optimism-radiating base-chain NFT celebrating Base chain"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of zora-chain mints",
+      "number": "1042",
+      "url": "https://zora.co/collect/zora:0x370a73cb8ece8059bd0719e8acf4347e2456f395/activity"
+    },
+    {
+      "description": "# of base-chain mints",
+      "number": "64",
+      "url": "https://zora.co/collect/base:0xada829a279efa1ca7652e874ab92d1de0a552ee6/activity"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xaceac4d8244b5790ecf3592db3ec0810516d42b27180ed144d49d3aefc6d7f37",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 10,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

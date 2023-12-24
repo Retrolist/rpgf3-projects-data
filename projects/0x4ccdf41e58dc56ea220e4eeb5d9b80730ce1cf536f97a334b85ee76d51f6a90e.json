@@ -1,0 +1,48 @@
+{
+  "bio": "hey!",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "tieuphungpro",
+  "websiteUrl": "https://twitter.com/cuongPham1997",
+  "applicant": {
+    "address": {
+      "address": "0xAEfB948f84224B70E6a935d96B684FA20fCa0ECf",
+      "resolvedName": {
+        "address": "0xAEfB948f84224B70E6a935d96B684FA20fCa0ECf",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xAEfB948f84224B70E6a935d96B684FA20fCa0ECf"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAEfB948f84224B70E6a935d96B684FA20fCa0ECf.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3630b3b9026532c67c3f3dfa9051e1eae546e7ef94efe592651fa1a97fb80866"
+  },
+  "impactDescription": "Goddess Venus (Venus) is the god of love and beauty in Roman mythology. Friday is named after this god. However, the ancient German and Norse god of love and beauty was named Frigg, so the German language calls Friday \"Frije - dagaz\". Later, in English, Friday was changed to \"Friday\" as it is today.",
+  "contributionDescription": "Goddess Venus (Venus) is the god of love and beauty in Roman mythology. Friday is named after this god. However, the ancient German and Norse god of love and beauty was named Frigg, so the German language calls Friday \"Frije - dagaz\". Later, in English, Friday was changed to \"Friday\" as it is today.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xaefb948f84224b70e6a935d96b684fa20fca0ecf",
+      "description": "twt"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "hey",
+      "number": "1545",
+      "url": "https://optimistic.etherscan.io/address/0xaefb948f84224b70e6a935d96b684fa20fca0ecf"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4ccdf41e58dc56ea220e4eeb5d9b80730ce1cf536f97a334b85ee76d51f6a90e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

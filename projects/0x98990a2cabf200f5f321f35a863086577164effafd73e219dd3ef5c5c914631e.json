@@ -1,0 +1,81 @@
+{
+  "bio": "I promote purpose-driven ventures and emerging technologies",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "criptomommy",
+  "websiteUrl": "https://app.charmverse.io/criptomommy/criptomommy-briguit-reinaldo-686753341747457",
+  "applicant": {
+    "address": {
+      "address": "0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4",
+      "resolvedName": {
+        "address": "0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4",
+        "name": "criptomommy.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4.png",
+    "id": "OptimistProfile|0x22df69c492b93729937e1e605fb57ff5a33baeb73ba925ef055e3a307478b6d7"
+  },
+  "impactDescription": "I promote the creation of more ventures using optimism applications and create public goods that benefit the optimism ecosystem. I have participated in Twitter spaces and educational optimism events to continue learning, Then I share that knowledge in the different talks I give.\nOrganizations created in charmverse:5\nWorkshops online: 3\nWorkshops IRL: 7\nInterviews about optimism in youtube: 1",
+  "contributionDescription": "I give talks at different universities and communities talking about optimism, public goods, web3 from scratch, and using optimism apps like charmverse, unlockprotocol, zora, and mirror.xyz for the projects I lead. I am organizing a hackathon and using optimism apps so that more people join the optimism ecosystem and learn about it.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=FBpncfW8b2s",
+      "description": "Interview about Optimism and public goods"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/live/HIwrM6XEZa0",
+      "description": "Workshop on public goods for NGOs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=9hEVT-8W-Uc",
+      "description": "Professional opportunities with optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "attendees at the Workshop",
+      "number": "12",
+      "url": "https://www.youtube.com/live/HIwrM6XEZa0"
+    },
+    {
+      "description": "Attendees",
+      "number": "14",
+      "url": "https://www.youtube.com/watch?v=9hEVT-8W-Uc"
+    },
+    {
+      "description": "Delegate votes",
+      "number": "496",
+      "url": "https://optimistic.etherscan.io/tx/0x209e531fa164528d6ecaacb98295dbba9443079f9f0d234a563fb8d089e452f2"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 490,
+      "description": "Help Women Biz"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 121,
+      "description": "Airdrop for delegate votes"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 24,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

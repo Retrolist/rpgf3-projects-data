@@ -1,0 +1,55 @@
+{
+  "bio": "Crypto  investor",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Crypto charity",
+  "websiteUrl": "https://twitter.com/LoiseZena",
+  "applicant": {
+    "address": {
+      "address": "0x82583e4c19DAa36CbF8Ee0772Ced4fE45984be96",
+      "resolvedName": {
+        "address": "0x82583e4c19DAa36CbF8Ee0772Ced4fE45984be96",
+        "name": "cysop.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x82583e4c19DAa36CbF8Ee0772Ced4fE45984be96"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x82583e4c19DAa36CbF8Ee0772Ced4fE45984be96.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x04b6b80542ca6eafb2f7a18df516b1cb1a9e953a86c1caae9f3bde7ae838fc72"
+  },
+  "impactDescription": "Promoting awareness, responsible practices, and the potential for positive societal impacts can help foster optimism and encourage the development of a more sustainable and beneficial crypto ecosystem.Promoting awareness, responsible practices, and the potential for positive societal impacts can help foster optimism and encourage the development of a more sustainable and beneficial crypto ecosystem.",
+  "contributionDescription": "Promoting awareness, responsible practices, and the potential for positive societal impacts can help foster optimism and encourage the development of a more sustainable and beneficial crypto ecosystem.\nPromoting awareness, responsible practices, and the potential for positive societal impacts can help foster optimism and encourage the development of a more sustainable and beneficial crypto ecosystem.\nPromoting awareness, responsible practices, and the potential for positive societal impacts can help foster optimism and encourage the development of a more sustainable and beneficial crypto ecosystem.\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Losngkie",
+      "description": "Crypto"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "https://github.com/Losngkie",
+      "number": "100",
+      "url": "https://github.com/Losngkie"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x1d5917af2b7594e37dbf50093dec5b7826ad3f5e4bdf488fdc6834a000790ba6",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

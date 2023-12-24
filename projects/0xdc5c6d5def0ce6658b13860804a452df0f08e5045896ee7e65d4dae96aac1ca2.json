@@ -1,0 +1,62 @@
+{
+  "bio": "Next-gen gamified NFTFi & SocialFi platform and Digital Assets Marketplace.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "eesee.io",
+  "websiteUrl": "https://eesee.io/",
+  "applicant": {
+    "address": {
+      "address": "0x4F4a595bdc00ACF85eFb90b1f2171d475F1a63B7",
+      "resolvedName": {
+        "address": "0x4F4a595bdc00ACF85eFb90b1f2171d475F1a63B7",
+        "name": "vovaxx.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x4F4a595bdc00ACF85eFb90b1f2171d475F1a63B7"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4F4a595bdc00ACF85eFb90b1f2171d475F1a63B7.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4F4a595bdc00ACF85eFb90b1f2171d475F1a63B7.png",
+    "id": "OptimistProfile|0x5b4ced7127f29e48fc04917374c8d281f7c082bd46cc1c9064ecbf64d4c3cd6e"
+  },
+  "impactDescription": "Describe the impact your contibutions had on the Optimism collective:\nBy bringing eesee to Optimism we will bring more liquidity to the NFT market, increasing it's volume and capitalization. \nBecause of the low fees on Optimism, we will be able to efficiently utilize Account Abstraction to make frictionless experience for our web2 target demographic, increasing overall adoption of the Optimism ecosystem.",
+  "contributionDescription": "We would like to bring eesee.io - a next-gen gamified NFTFi, SocialFi and Digital Assets Marketplace to Optimism.\neesee is a platform that accelerates NFT sales, provides additional liquidity and trading volume to the digital assets market, enhances artists, lowers cost-barrier to enter the Web3 market and helps to speed up the process of Mass Adoption using the unique protocol.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://eesee.io/",
+      "description": "Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docsend.com/view/x98juydbh44ns8q9",
+      "description": "Pitchdeck"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docsend.com/view/kr57r9e77y6h4sc2",
+      "description": "We want to bring liquidity, additional trading volume and users to Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of new users",
+      "number": "65000",
+      "url": "https://docs.google.com/document/d/1dnmt7VAKNsv8BqGTRmmaXPaIyDvso_YZ47nZ-J_lxVM/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1100000,
+      "description": "Raised Seed round of $1.1M and finished the development, ready to launch"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xdc5c6d5def0ce6658b13860804a452df0f08e5045896ee7e65d4dae96aac1ca2",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

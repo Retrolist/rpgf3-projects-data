@@ -1,0 +1,55 @@
+{
+  "bio": "gm all my frens",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "PapaChoi",
+  "websiteUrl": "https://twitter.com/CrytoMoony",
+  "applicant": {
+    "address": {
+      "address": "0x157Ea7465237654286Ba3FdfAeFD145cafc8859E",
+      "resolvedName": {
+        "address": "0x157Ea7465237654286Ba3FdfAeFD145cafc8859E",
+        "name": "papachoi.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x157Ea7465237654286Ba3FdfAeFD145cafc8859E"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x157Ea7465237654286Ba3FdfAeFD145cafc8859E.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x157Ea7465237654286Ba3FdfAeFD145cafc8859E.png",
+    "id": "OptimistProfile|0xe08106a30aec4e65b3add5bac137285bd046cbb81efeac4b215a548c74e28773"
+  },
+  "impactDescription": "When I shared my thoughts on Optimism Collective, I consistently approached it with honesty and genuineness. Just as I often relay the positive aspects of life to my friends, I brought that same enthusiasm to the contents. By focusing on the 'good stuff' that I'm passionate about, I aimed to uplift and inspire others.",
+  "contributionDescription": "My contribution has been to be an honest user who tells my friends how I feel about the experience when I use any applications on Optimism. I wrote the contents and texts in either Thai or English. Moreover, I really love the NFT communities on OP: Bored Town, Apetimism, Optichads, etc so that I am a strong holder. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/CrytoMoony/status/1677734353747730432?s=20",
+      "description": "I join @subli event for showing my strategy for earning more $OP on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/CrytoMoony/status/1683068184218468353?s=20",
+      "description": "I did create a content on Giveth to share what I learned on this cool platform"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/CrytoMoony/status/1703957405250531477?s=20",
+      "description": "This is how I spread my appreciation and love about Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Impressions",
+      "number": "1448",
+      "url": "https://twitter.com/CrytoMoony/status/1683068184218468353/analytics"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x62ee3d8a19aa3da0308e73cc27179f3c9c55437506ac0817b574916340f2229c",
+  "prelimResult": "Remove",
+  "reportReason": "member of the Ambassadors (see duplicate application rule)"
+}

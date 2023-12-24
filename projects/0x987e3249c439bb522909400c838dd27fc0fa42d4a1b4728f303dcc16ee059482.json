@@ -1,0 +1,64 @@
+{
+  "bio": "Node Guardians is an RPG-platform for skilled devs to test their coding skills.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Node Guardians",
+  "websiteUrl": "https://nodeguardians.io/",
+  "applicant": {
+    "address": {
+      "address": "0x6ef87E0Aaadb2c3d07fD98a098Af5FaD0aD45811",
+      "resolvedName": {
+        "address": "0x6ef87E0Aaadb2c3d07fD98a098Af5FaD0aD45811",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6ef87E0Aaadb2c3d07fD98a098Af5FaD0aD45811"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6ef87E0Aaadb2c3d07fD98a098Af5FaD0aD45811.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6ef87E0Aaadb2c3d07fD98a098Af5FaD0aD45811.png",
+    "id": "OptimistProfile|0x7056b88c5e7c23c46423f1591ef40efee74ac13af61d28f9ad31bd7d136ef4d7"
+  },
+  "impactDescription": "1. Developers' Growth: The devs delved into innovative problem-solving, exploring new avenues and methodologies, necessary for uncovering unexplored possibilities within the Optimism ecosystem.\n \n2. Community Cohesion: Engaged 90+ developers, note that each user on Node Guardians has to connect his Github account to solve quests and this is how the metrics are tracked.\n\n3. Visibility Boost: 35k views and 100+ likes on Twitter, strengthening Optimism Collective's stance in the space.\n\n4. Technology Showcase: The fraud proof challenge highlighted the real-world applicability and efficiency of Optimism's tech.\n\n5. Valuable Feedback: Post-quest, participants had a better understanding of OP's fraud proofs and expressed interest to delve deeper into Optimism.\n\n6. Video - Awareness - no shilling",
+  "contributionDescription": "Following Bedrock, Optimism has been working on Next-Gen Fault Proofs and Cannon. We wanted to be part of it by contributing to the Optimism community and help the masses shed some light on Optimism\u2019s advancements in these areas.\n\nWe\u2019ve provided developers an original way to learn about what interactive fraud proofs are, and why Cannon is fraud proof compatible. This resource encompasses challenges, bisection protocol, one step proof verification, and MIPS EVM.\n\nWe've also partnered with the leading French crypto media to produce a video  explaining the Superchain concept targeting end users. Our intent is to clear frequent misconceptions (that we noticed on socials) and facilitate a comprehensive understanding.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://nodeguardians.io/dev-hub/quests/interactive-fraud-proofs",
+      "description": "A programming quest about Cannon & fraud proofs."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Interactions",
+      "number": "92",
+      "url": "https://statistics.nodeguardians.com/d/f37312dc-f0a1-4b21-bfc6-b2156efaa286/users-optimism?orgId=1"
+    },
+    {
+      "description": "Engagement",
+      "number": "36600",
+      "url": "https://twitter.com/nodeguardians/status/1696586775651668292?s=46"
+    },
+    {
+      "description": "Feedback",
+      "number": "15",
+      "url": "https://docs.google.com/forms/d/1AxCzHi9IQHy61CCiWMR_HOfY_IDdxXhsoiuzQWqGOmA/edit#responses"
+    },
+    {
+      "description": "Video views",
+      "number": "2800",
+      "url": "https://youtu.be/HQWWjidsobs?si=Vfxb70NS4c985ZQT"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x987e3249c439bb522909400c838dd27fc0fa42d4a1b4728f303dcc16ee059482",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 40,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

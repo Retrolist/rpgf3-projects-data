@@ -1,0 +1,85 @@
+{
+  "bio": "Helping Web3 startups with grants and fundraising support",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Web3Native",
+  "websiteUrl": "https://www.web3native.co/",
+  "applicant": {
+    "address": {
+      "address": "0x353cd262B60F821f602DC72e8E938cBC26A2B116",
+      "resolvedName": {
+        "address": "0x353cd262B60F821f602DC72e8E938cBC26A2B116",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x353cd262B60F821f602DC72e8E938cBC26A2B116"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x353cd262B60F821f602DC72e8E938cBC26A2B116.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x353cd262B60F821f602DC72e8E938cBC26A2B116.png",
+    "id": "OptimistProfile|0xf1ee2d2325fb7f8c56e56d098b4d06c5a11b1bc08cb423a40513f8876ebd0477"
+  },
+  "impactDescription": "We help projects with our knowledge and expertise in the grants field, free of cost. To this extent, monthly more than 11750 users on the site find grant programs that could benefit their project.\n\nA few of the startups that we have advised have also gained grants from OP. For example Robo labs was one of the projects we referred to apply for OP grants.\n\nThe voluntary nature of the project and no fee involved means we can only dedicate limited resources to our efforts. Hence we never properly documented the number of projects that have secured grants directly or indirectly through help from Web3 Native.\n\nOur accelerator and VC lists provide projects with additional options to get support when grants might not be the best route to get funding.",
+  "contributionDescription": "Web3Native is a public good project that manages one of the largest Web3 Grants databases. With the grants database, web3 startups can identify the possible funding routes for their projects in a single platform.  The web3Native team thus helps Web3 founders \n\n1) go-to grants database. Find out grants by several categories, blockchains, tags and apply to the most promising ones. \n\n2) Accelerator database: Similar to grants, our team also gathered data on Web3 support programs like accelerators and incubators. \n\n3) Advisory: Help projects identify the perfect grants. We don't charge any fees for our services. Its public good.\n\n4) VC List: 174+ crypto-focused VCs to apply for funding. This also lists portfolio startups, network founders so that applicants can identify warm contact methods.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.web3native.co/grants",
+      "description": "Grants database: Record of more than 90 grant programs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.web3native.co/web3-accelerators",
+      "description": "Accelerators database: A record of more than 26 Web3 focused accelerators"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.web3native.co/web3-vc",
+      "description": "VC List: 174+ Web3 vcs "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.web3native.co/vcs/chapter-one",
+      "description": "Investor network map:for each investor,find portfolio founders to get warm intro"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Google analytics: Monthly Grant visitors",
+      "number": "11750",
+      "url": "https://drive.google.com/file/d/12fBVn5YoY5Kb-lsIOcG1rFxiQDHGhAJb/view?usp=sharing"
+    },
+    {
+      "description": "Google Analytics: Monthly Founder users",
+      "number": "2000",
+      "url": "https://drive.google.com/file/d/1OJ7UFVn-JZoXpzuwwiBAU5XLqeHLCZ1T/view?usp=sharing"
+    },
+    {
+      "description": "Google Ranking for Grant search terms",
+      "number": "1",
+      "url": "https://drive.google.com/file/d/1pwNedGjdj7SCJ__iSCWacfwscxbsZctf/view?usp=sharing"
+    },
+    {
+      "description": "Web3 Grant Programs Data",
+      "number": "90",
+      "url": "https://www.web3native.co/grants"
+    },
+    {
+      "description": "Web3 VC database & Research",
+      "number": "180",
+      "url": "https://www.web3native.co/web3-vc"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x503998acaeee3cdae0023e7d3327c017145b2fd638f1b83084975eceb4ff8cbc",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 14,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Governance Tooling"
+}

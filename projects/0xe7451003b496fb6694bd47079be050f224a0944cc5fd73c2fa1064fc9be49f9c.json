@@ -1,0 +1,86 @@
+{
+  "bio": "Serial OP Stack forker",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Paco Bytes",
+  "websiteUrl": "https://therealbytes.com",
+  "applicant": {
+    "address": {
+      "address": "0x9687c70DcFE21C6198703C813cDAEC9d3458e068",
+      "resolvedName": {
+        "address": "0x9687c70DcFE21C6198703C813cDAEC9d3458e068",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9687c70DcFE21C6198703C813cDAEC9d3458e068"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9687c70DcFE21C6198703C813cDAEC9d3458e068.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9687c70DcFE21C6198703C813cDAEC9d3458e068.png",
+    "id": "OptimistProfile|0x770738717d6348f1817f49d3d99e3ee49a1c21b14d278fd456600b3d1f2e7b9c"
+  },
+  "impactDescription": "OP Stack\n- My projects showcase the modularity of the OP Stack and prove the technical feasibility of multiple types of modifications of it.\n- The Cannon prover for Concrete is a particularly good example of an instance where a VM-based rollup proof (OP Stack) is superior to a program-based one (e.g., most zkEVMs).\n- I lowered the barrier of entry for developers to to build custom rollups using the OP Stack by building some of the necessary tooling (e.g., Concrete) and setting a foundation for other forks to build on.\n\nDeveloper Ecosystem\n- I accumulated over 100k views on Twitter related to OP Stack forks.\n- My work convinced other developers to build on the OP Stack.\n- Two of my projects (ticking-optimism and ticking-conway) are featured in the OP Stack documentation.",
+  "contributionDescription": "Over the last year, I have built multiple forks of the OP Stack in an effort to push the boundaries of what is possible on-chain; some of them have been featured in the OP Stack documentation. The scope of my forks includes the rollup driver (op-node) and execution engine (op-geth). Some of these projects are:\n- Ticking-Optimism: A fork of op-node that adds a system transaction calling a predefined address every block.\n- Concrete: A framework for building application-specific rollups on the OP Stack.\n- Shadow Rollup: An indexer rollup that tracks the gas consumption of every smart contract in another rollup by re-deriving it from L1 with a custom execution engine.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/therealbytes/status/1623030030660927488",
+      "description": "Twitter thread presenting ticking-optimism and ticking-conway"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/therealbytes/status/1658552995926163457",
+      "description": "Twitter thread presenting Concrete"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/therealbytes/status/1668301322481704960",
+      "description": "Twitter thread presenting Mudtendo"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethglobal.com/showcase/shadow-rollup-k712d",
+      "description": "ETHGlobal project page about Shadow Rollup"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Praise of ticking-optimism",
+      "number": "14",
+      "url": "https://twitter.com/therealbytes/status/1623030030660927488/quotes"
+    },
+    {
+      "description": "Feature in the OP Stack docs",
+      "number": "1",
+      "url": "https://stack.optimism.io/docs/build/featured/#ticking-optimism"
+    },
+    {
+      "description": "Twitter views",
+      "number": "105000",
+      "url": "https://docs.google.com/spreadsheets/d/1drhLtWFZuUU3dT5TxKMNoDNylAZ3dFNJ2W1PeZd9148/edit?usp=sharing"
+    },
+    {
+      "description": "Developer migrating to the OP Stack",
+      "number": "1",
+      "url": "https://twitter.com/de2epblue/status/1688402143903166465"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 35000,
+      "description": "Grants council grant for work on Concrete form July to November 2023"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe7451003b496fb6694bd47079be050f224a0944cc5fd73c2fa1064fc9be49f9c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 49,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack tooling"
+}

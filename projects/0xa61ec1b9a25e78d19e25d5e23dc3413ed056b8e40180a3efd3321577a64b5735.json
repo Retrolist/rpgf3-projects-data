@@ -1,0 +1,243 @@
+{
+  "bio": "I am held hostage by binji, forcing me to sign up. HELP ME",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "PhiMarHal",
+  "websiteUrl": "https://zombo.com",
+  "applicant": {
+    "address": {
+      "address": "0x07Bb4fCc27053BFB33CFA1b4A0B56a11e06e7e11",
+      "resolvedName": {
+        "address": "0x07Bb4fCc27053BFB33CFA1b4A0B56a11e06e7e11",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x07Bb4fCc27053BFB33CFA1b4A0B56a11e06e7e11"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x07Bb4fCc27053BFB33CFA1b4A0B56a11e06e7e11.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x07Bb4fCc27053BFB33CFA1b4A0B56a11e06e7e11.png",
+    "id": "OptimistProfile|0x2444fdfc1bd6a12fe2a98f2f72d859ef97abd9d627962d4b002427fb4e6e601b"
+  },
+  "impactDescription": "Optimistically, I would consider myself part of the collective. As in a common whole. It's not you vs me, it's us. Therefore my individuality does not matter. It then follows our contributions are part of a similar whole. We are one, and in this unity we are proud to have contributed to the Optimism Collective. Thank we, us. Great job.\n\nhttps://www.bing.com/images/create/a-picture-similar-of-that-meme-of-a-famous-preside/65341e930a3c425e97c9f4e557e66171?id=DGDugarHRuhelY6kAmnmWA%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP&mode=overlay",
+  "contributionDescription": "Let me be clear: I've done absolutely nothing worth a retroactive reward. \n\nZilch, nada, zero.\n\nWhy am I here? The story begins with a strange man called binji.\n\nI was minding my own onchain business, trying to use Defisaver for flashloan arbitrage. Ask about that topic in their Discord, they love it. \n\nSuddenly, a black smoke screen filled the room. I could not see anymore. But I could smell the distinctive scent of phoenix ashes mixed baby tears. This could mean only one thing: after all these years, binji caught up with me.\n\n\"Sign up for PGF3!\" he said. \"or else...\"\n\n\"Or else what?\" I asked.\n\nBut he was gone just as fast as he appeared. Still, despite his departure a sense of impending doom lingered. One does not defy the Optimism Collective. I had to comply with his demands.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x3eb8df4c5d6f95ee86d8d24e5cd7273a46607509#code",
+      "description": "A NFT collection where the data is randomly pulled from other NFT collections"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000006#code00000000000006",
+      "description": "This is the WETH contract. It's not mine but you've got to admit it's a nice one"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zombo.com/",
+      "description": "Including Zombo here just in case you missed it in my profile. Great to relax"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x745c1adc984facbfb867b03b70a0a2987ce111f7#code",
+      "description": "Bulkminter. Unverified state will forever testify of my struggles w/ Etherscan"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/binji_x",
+      "description": "This is binji's Twitter. He's responsible for everything. Tread carefully"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/token/0xba5e05cb26b78eda3a2f8e3b3814726305dcac83",
+      "description": "Basepaint contract. Not mine. They're awesome. Hope they get PGF3"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.bing.com/images/",
+      "description": "Bing Create lets you make images with DALL-E 3. Pretty fun to use"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.bing.com/images/",
+      "description": "I don't think there's any check in those input fields."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.bing.com/images/",
+      "description": "At this point, I'm wondering if there's a limit to the number we can submit?"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.bing.com/images/",
+      "description": "At 80 characters, it's more cumbersome than tweets, but perhaps a poem would do."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://myllmpoem.com",
+      "description": "In fields of green, where hope is sown, A phoenix rises, feathers blown. "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://myllmpoem.com",
+      "description": "From ashes, it takes flight, A symbol of optimism, shining bright."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://myllmpoem.com",
+      "description": "Its plumage, red as the sun, A color bold, a spirit won."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://myllmpoem.com",
+      "description": "For optimism is not just a thought, But a heart that's been through the fought."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://myllmpoem.com",
+      "description": "It's the belief in a brighter day, A future where fears fade away."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://myllmpoem.com",
+      "description": "It's the courage to face each test, And rise again, like the phoenix' best."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://myllmpoem.com",
+      "description": "With wings of red, it soars on high, A beacon of light, touching the sky."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://myllmpoem.com",
+      "description": "It casts a shadow, a shade so bright, Bringing warmth, dispelling the night."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://myllmpoem.com",
+      "description": "Optimism, a virtue we hold dear, A beauty that banishes all fear."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://myllmpoem.com",
+      "description": "It's the fire that burns deep inside, A flame that flickers, never dies."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://myllmpoem.com",
+      "description": "For in the face of every strife, Optimism offers us a life."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://myllmpoem.com",
+      "description": "A life where hope and love reside, A world where we all can thrive."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://myllmpoem.com",
+      "description": "So let us embrace this virtue, And let it guide us, as we endeavor."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://myllmpoem.com",
+      "description": "For with optimism, we'll find our strength,"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://myllmpoem.com",
+      "description": "And rise again, like the phoenix at length."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://partingwords",
+      "description": "Parting words: Tron Legacy was a great movie."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/PhiMarHal",
+      "description": "DM me your address and I'll send you a NFT."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://my_hourly_rate",
+      "description": "I will accept no more and no less than 0.42 OP for this work of art."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://on_second_thought",
+      "description": "But 0 and 42 are also options."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://man,will_i_feel_stupid",
+      "description": "...if this doesn't go through! I guess I could take a screenshot for myself."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://is_there_a_limit_to_what_we_can_type_in_the_URL_field,_provided_we_start_it_all_with_https?it_seems_like_this_might_be_an_even_better_way_to_talk_it_out.Perhaps_I_should_tell_you_about_how_it_all_started.So_way_back_in_the_day...",
+      "description": ";-)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80",
+      "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80\ud83d\ude80"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://idea",
+      "description": "Perhaps the Optimism collective could hire me for sanity checks."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://then_again",
+      "description": "In all fairness, I'm not quite sane myself."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://5c7dad6d9d9a69326cca16f5106641b46cc1e1eef2951d4a4c1bf77077d8c6d0",
+      "description": "I sent 1 OP to 0xb0b0. If you're the first to read this, you can claim it."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://the_end",
+      "description": "All in all, Optimism is a great project and I hope you got a kick out of this."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://until_next_time",
+      "description": "\ud83c\udf08"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Protein pancakes I ate this week",
+      "number": "16",
+      "url": "https://it_might_have_been_15_or_18"
+    },
+    {
+      "description": "Times I felt good about Optimism",
+      "number": "420",
+      "url": "https://420"
+    },
+    {
+      "description": "Thoughts and prayers for alt L1s",
+      "number": "4.069460496408431e+55",
+      "url": "https://they_need_all_the_help_they_can_get"
+    },
+    {
+      "description": "My opinion on elephants",
+      "number": "1",
+      "url": "https://elephants_are_majestic_creatures"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xa61ec1b9a25e78d19e25d5e23dc3413ed056b8e40180a3efd3321577a64b5735",
+  "prelimResult": "Remove",
+  "reportReason": "A funny application, but definitely should not be in this round"
+}

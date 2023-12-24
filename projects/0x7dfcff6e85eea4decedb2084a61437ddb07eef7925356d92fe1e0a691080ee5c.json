@@ -1,0 +1,52 @@
+{
+  "bio": "kntl",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "cakrawiguna",
+  "websiteUrl": "https://twitter.com/Cakraawiguna",
+  "applicant": {
+    "address": {
+      "address": "0x7BA115cda337cCFFd25f0774d8B1bf6838F40AAA",
+      "resolvedName": {
+        "address": "0x7BA115cda337cCFFd25f0774d8B1bf6838F40AAA",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x7BA115cda337cCFFd25f0774d8B1bf6838F40AAA"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7BA115cda337cCFFd25f0774d8B1bf6838F40AAA.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xf6b029f5dc12bed461dd485ac04ecb921ba50d799e9f670b29a217ba6ffe8160"
+  },
+  "impactDescription": "the name of the project, we appreciate this project to be a useful project for everyone and we hope that in the future the project will bring a very big change for the community.\nwe are here and be at the forefront, and be the first to try to be here",
+  "contributionDescription": "Our hope is to become a project that is resistant to fudder and supports the project, so that it will be successful in the future.\nyou are a very kind person, in giving gifts to everyone. so we are happy to be here. Don't forget our hope is that you are always enthusiastic, you will be successful if you continue to be enthusiastic.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Cakraawiguna",
+      "description": "ah kumsi we"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "cakrawiguna",
+      "number": "477",
+      "url": "https://twitter.com/Cakraawiguna"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": "isd"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7dfcff6e85eea4decedb2084a61437ddb07eef7925356d92fe1e0a691080ee5c",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,67 @@
+{
+  "bio": "I am a crypto enthusiasm, I'm a trader, investor, technical adviser, NFTHunter. ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "CryptoJunior",
+  "websiteUrl": "https://x.com/Airdrop70473032?t=XG7HHQA6m-yvwEDAXPaJdg&s=09",
+  "applicant": {
+    "address": {
+      "address": "0x100BA3780BCD64e8968E3a786eF1ECa7673099E6",
+      "resolvedName": {
+        "address": "0x100BA3780BCD64e8968E3a786eF1ECa7673099E6",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x100BA3780BCD64e8968E3a786eF1ECa7673099E6"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x100BA3780BCD64e8968E3a786eF1ECa7673099E6.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xec41dfc5013709f40375d648437eed6421af576121fa8525651c176e619bc602"
+  },
+  "impactDescription": "I have made lots of transactions on optimism both on mainnet and testnet, like deploying contracts, minting NFT, trading and lot more, and I also shared some information to my community both on Twitter and other social to make transactions on optimism too, which benefits the chain and those interacting with it too. ",
+  "contributionDescription": "I've interacted with the optimism both test net and mainnet, like trading, minting NFT deploying contracts and so on, and I also participated in bridging Ethereum on hop protocol which I also introduced to my community members and I deployed contract on optimism goerli testnet using thirdweb, and I also introduced it to many people using optimism today and testifying they are enjoying it especially the less gas fees. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xfa5d3e989e32288834f318d98ef2613e0c770ebe4e47cddec62587b8a4e3f87b",
+      "description": "Transaction on mainnet"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/tx/0x93af934bfbd0453036d10c2944ede4b75f8084b160a8715e0c21e9d96ea47ef9",
+      "description": "Deployed contract on optimism goerli"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Airdrop70473032/status/1689640341178368007?t=xM0RYps0uZ1-2OzHSaj7eg&s=19",
+      "description": "Social  link about sharing information with community"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Part of my Transaction",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/tx/0xfa5d3e989e32288834f318d98ef2613e0c770ebe4e47cddec62587b8a4e3f87b"
+    },
+    {
+      "description": "Part of my Transaction",
+      "number": "2",
+      "url": "https://optimistic.etherscan.io/tx/0xf5e73cea36ffefc998f91477386e7359691c03a6c5cf0a48fd33532d05208ca0"
+    },
+    {
+      "description": "Part of my transaction",
+      "number": "3",
+      "url": "https://optimistic.etherscan.io/tx/0xbed1b1f9f28b9ac47a3c0cf51471766ec84ebc8954b66adbced254ec6ca31d4e"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xae34529020b7f5981a0f3f7e1490cb76c3a5c30db58bad6d66e67c3251c11be2",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

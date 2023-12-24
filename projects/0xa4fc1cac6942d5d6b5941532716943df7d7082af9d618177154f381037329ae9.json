@@ -1,0 +1,52 @@
+{
+  "bio": "We are Sunny and Rachel Sides, co-founders of SunRay Energy Initiatives, LLC.  ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "artistryx.eth",
+  "websiteUrl": "https://www.artistryx.org",
+  "applicant": {
+    "address": {
+      "address": "0xeC220Edb5B28C091981a113462dc801adFC58095",
+      "resolvedName": {
+        "address": "0xeC220Edb5B28C091981a113462dc801adFC58095",
+        "name": "artistryx.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xeC220Edb5B28C091981a113462dc801adFC58095"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeC220Edb5B28C091981a113462dc801adFC58095.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xeC220Edb5B28C091981a113462dc801adFC58095.jpeg",
+    "id": "OptimistProfile|0x8d3b5d3975fea1703ebd78af4bb0682a895fb7dd96521411f53b48c16afe44b0"
+  },
+  "impactDescription": "We continue to on board new users in the crypto shpere in general, optimism in particular. Everyday we network with other energy-concious individuals and ascertain who would be a solid addition to our team. we have diverse backgrounds in art, performance, construction, design, and of course energy and the econimics inexorably woven throughout. \nOur strength is the ability to blend all these various factors into a cohesive, operable undertaking that is of direct, tangible, and long term benefit ti everyone involved.",
+  "contributionDescription": "We have been stanche supporters of optimism since day one. As ongoing liquidity providers across web3 & defi, we help secure the networks we believe in. EVM is a guiding light and we have helped raise awareness for the importance of resource management and the associated pros and cons as well as the environmental impact discrepancies for example between PoW and PoS blockchains. Our interest in zero-knowledge proofs keeps us regularly trading op tokens on various exchanges using multiple wallets, and we also help spread the word of the inevitable crypto-dominance and optimism, we feel, is poised to be amongst the revered leadership council in a new financial world order.\nOur ongoing commitment to blending artistic design elements with real world practical applications. Clean energy!",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://www.artistrtx.org",
+      "description": "our fledgling website, still lots to do"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "number of transactions in web3 wallet",
+      "number": "420",
+      "url": "https://www.artistryx.org"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 100,
+      "description": "just from trades and LP incentives, so far we are 100% self funded"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa4fc1cac6942d5d6b5941532716943df7d7082af9d618177154f381037329ae9",
+  "prelimResult": "Remove",
+  "reportReason": "Contribution link is broken, impact metrics are their user transactions which are out of scope"
+}

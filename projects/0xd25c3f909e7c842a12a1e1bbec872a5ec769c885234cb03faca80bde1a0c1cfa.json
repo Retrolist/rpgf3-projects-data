@@ -1,0 +1,45 @@
+{
+  "bio": "Gluer's Co-Working Space \ud83d\ude0e\ud83e\udd2a\ud83d\ude1c",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "CoinRuay",
+  "websiteUrl": "https://www.facebook.com/CoinRuay",
+  "applicant": {
+    "address": {
+      "address": "0x054Becf10c79aFa4e60F75B187837bE9Fb83867D",
+      "resolvedName": {
+        "address": "0x054Becf10c79aFa4e60F75B187837bE9Fb83867D",
+        "name": "coinruay.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x054Becf10c79aFa4e60F75B187837bE9Fb83867D"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x054Becf10c79aFa4e60F75B187837bE9Fb83867D.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x054Becf10c79aFa4e60F75B187837bE9Fb83867D.jpeg",
+    "id": "OptimistProfile|0x20bddd3466fecbdb2990be25179ae3138fab3e74529dc357e142abf505293eb4"
+  },
+  "impactDescription": "Tangible benefits:\n\n- Increased Optimism usage in Thailand: The number of Optimism users in Thailand has increased significantly in the past year\n\n- A more global and diverse Optimism community: The Optimism community is now more global and diverse than ever before\n\nIntangible benefits:\n\n- Increased awareness of Optimism in Thailand: CoinRuay has helped to raise awareness of Optimism in Thailand through its educational and promotional efforts. This has led to a more informed and engaged Thai Optimism community.\n\nTypes of Optimists from CoinRuay's contributions:\n\n- Users: CoinRuay's educational efforts have helped users in Thailand to learn about Optimism and its benefits. This has made it easier for users to get started with Optimism and to take advantage of its features.",
+  "contributionDescription": "Creating content about Optimism in Thai language.\n\n- CoinRuay believes that it is important to have high-quality content about Optimism available in Thai language. They plan to create a variety of content, such as blog posts, articles, and videos, about Optimism in Thai.\n\nCollaborating with other Optimism ambassadors.\n\n- CoinRuay believes that collaboration is essential for the growth of the Optimism community. They plan to continue to collaborate with other Optimism ambassadors around the world to grow the Optimism community in Thailand.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.facebook.com/story.php?story_fbid=pfbid02XqSebyACfBmAiwHfuR2Pv66UjNPcv2NABRq4Mh9cfjSiUrNv7TvD8GwbNtNUWFN5l&id=100028559902371",
+      "description": "Content about Optimism in Thai language."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Content Performance",
+      "number": "1",
+      "url": "https://docs.google.com/spreadsheets/d/1_UDH_bXp_gg-oVSRmyodgio9NY2D3w_VRfuI8mBd8es/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd25c3f909e7c842a12a1e1bbec872a5ec769c885234cb03faca80bde1a0c1cfa",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

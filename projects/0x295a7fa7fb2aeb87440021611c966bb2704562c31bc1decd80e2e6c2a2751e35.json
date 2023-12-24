@@ -1,0 +1,50 @@
+{
+  "bio": "A bio accepting crypto tips on web3",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Moji",
+  "websiteUrl": "https://moji.la/",
+  "applicant": {
+    "address": {
+      "address": "0x4bf1789264657B6fea3b9BFFb9Cd1257b3C80935",
+      "resolvedName": {
+        "address": "0x4bf1789264657B6fea3b9BFFb9Cd1257b3C80935",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x4bf1789264657B6fea3b9BFFb9Cd1257b3C80935"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4bf1789264657B6fea3b9BFFb9Cd1257b3C80935.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4bf1789264657B6fea3b9BFFb9Cd1257b3C80935.png",
+    "id": "OptimistProfile|0xefe3dacfa1cc1f89e9a7d689b4bda36e6bf5c3ea1c8cb4b868b40acbabff360f"
+  },
+  "impactDescription": "The positive impact Moji brings to Optimism is primarily reflected in two aspects:\n- Firstly, in intangible influence - as more and more people establish and share their personal profiles on Moji, this will enhance Optimism's brand visibility and attract a growing user base.\n- Secondly, with tangible impact - by driving higher transaction activity on the Optimism chain, Moji will generate more revenue for creators.",
+  "contributionDescription": "Moji is an interesting and elegant personal profile built on Optimism that allows receiving food-themed cryptocurrency tips.\n Through Moji, anyone can gain more support and funding from fans and followers by showcasing themselves and their work better.\nThrough the optimized personal profile Moji provides, anyone can more seamlessly gain fan support and drive broader Optimism adoption. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://moji.la",
+      "description": "website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "unique users of moji.la",
+      "number": "1500",
+      "url": "https://moji.la/moji"
+    },
+    {
+      "description": "transactions ",
+      "number": "2000",
+      "url": "https://moji.la/moji"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x295a7fa7fb2aeb87440021611c966bb2704562c31bc1decd80e2e6c2a2751e35",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

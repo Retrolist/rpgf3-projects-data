@@ -1,0 +1,48 @@
+{
+  "bio": "Airdrop",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "airdropstreet",
+  "websiteUrl": "https://t.me/AirdropStreetTR",
+  "applicant": {
+    "address": {
+      "address": "0x2eEaD1E4a1964dc9204A2eE1C08096DA951Fa8FC",
+      "resolvedName": {
+        "address": "0x2eEaD1E4a1964dc9204A2eE1C08096DA951Fa8FC",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2eEaD1E4a1964dc9204A2eE1C08096DA951Fa8FC"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2eEaD1E4a1964dc9204A2eE1C08096DA951Fa8FC.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x01f6ba64fd586c26d8ebc63f4fa84770e2dcb9b2eff2c81a07a137b3dec80c65"
+  },
+  "impactDescription": "I influence using the ecosystem. I contribute more by paying a fee. I ensure the development of the token by op trading. I participate in events in the optimism network and create a community by interacting with those who use the network. The network I use frequently because it is a cheap feeler.",
+  "contributionDescription": "I influence using the ecosystem. I contribute more by paying a fee. I ensure the development of the token by op trading. I participate in events in the optimism network and create a community by interacting with those who use the network. The network I use frequently because it is a cheap feeler.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/AirdropStreetTR",
+      "description": "Airdrop"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Telegram",
+      "number": "424",
+      "url": "https://t.me/AirdropStreetTR"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x59d0b3b1f477cd2ff1d68944e052e1178357a7d2f5f60a2a54bc3a627ed9d089",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,52 @@
+{
+  "bio": "I work privately but I can contribute well to the Retropgf Optimism project",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Nafsu",
+  "websiteUrl": "https://optimism.mirror.xyz/wiHMKqsbAQnK51Se3MraSnvf0blwRzS9jguojEmKKVc",
+  "applicant": {
+    "address": {
+      "address": "0x156DEC0C2C1F714c70Ad55258E92c681Dd68119E",
+      "resolvedName": {
+        "address": "0x156DEC0C2C1F714c70Ad55258E92c681Dd68119E",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x156DEC0C2C1F714c70Ad55258E92c681Dd68119E"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x156DEC0C2C1F714c70Ad55258E92c681Dd68119E.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x156DEC0C2C1F714c70Ad55258E92c681Dd68119E.jpeg",
+    "id": "OptimistProfile|0xfa17eddfa0e972ff2d52948256e6fa679ad4834307e7286b9300181ae38bb121"
+  },
+  "impactDescription": "Realizing the optimistic vision of the \u201cLaw of Chains\u201d collective governance system to become a Superchain. so that security, speed, ease of transactions can be fulfilled and help a decentralized financial system without any interference from an entity that wants to dominate the world",
+  "contributionDescription": "I contribute because I believe the optimism project is a very extraordinary project and is an L2 project with advanced technology and is widely used by other blockchain developers such as Base, Zora, Worldcoin and others. So that Optimism's proposed \u201cLaw of Chains\u201d collective governance system is realized for the Superchain vision.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x156DEC0C2C1F714c70Ad55258E92c681Dd68119E",
+      "description": "This is my Contract Address"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "ERC-721",
+      "number": "106852021",
+      "url": "https://optimistic.etherscan.io/tx/0x8008363ffe3e2b6a964cc022b3afa850edd8055c14d3b108bb5eac1222cb0c1a"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": "I want to change my fate by participating in the Optimism development project"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x483ec462489e638488fac06b9567fda180f73f04f29afcbe720ee184b63a1e16",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

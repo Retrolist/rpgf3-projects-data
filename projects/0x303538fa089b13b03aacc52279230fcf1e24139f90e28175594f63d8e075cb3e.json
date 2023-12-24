@@ -1,0 +1,70 @@
+{
+  "bio": "We are the largest learning ecosystem in Eastern Europe. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Crypton",
+  "websiteUrl": "https://crypton.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xc22Fa161047135dD0A0bAd933e85c20020B69023",
+      "resolvedName": {
+        "address": "0xc22Fa161047135dD0A0bAd933e85c20020B69023",
+        "name": "rossinante.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xc22Fa161047135dD0A0bAd933e85c20020B69023"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x809e74f232ac880c4e238628670b6eb439a2191647f6083577c7c91db2fcb645"
+  },
+  "impactDescription": "We have a strong media presence. Here are links to videos and posts where we've talked about the Optimism ecosystem. We popularized your ecosystem among our audience, agitated users to do quests, use bridges, explore the ecosystem. In total, you've brought several thousand active users to you. And we have already made instructions on how to work with your ecosystem in our WEB resources",
+  "contributionDescription": "We have a strong media presence. Here are links to videos and posts where we've talked about the Optimism ecosystem. We popularized your ecosystem among our audience, agitated users to do quests, use bridges, explore the ecosystem. In total, you've brought several thousand active users to you. And we have already made instructions on how to work with your ecosystem in our WEB resources",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/UuT4tcXEcGw?si=thHi0fVEmElWC0E8",
+      "description": "YouTube video "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/KT0WuZDgyzQ?si=93O_V1sEsWlVRDs8",
+      "description": "Another than from many other"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/crypton_off/7308",
+      "description": "One of the many our post in telegram "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/crypton_off/10582",
+      "description": "Another one"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tools.crypton.xyz/en/T2/bridges",
+      "description": "This is an aggregator of everything what u need in crypto  "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/crypton_research_2bot",
+      "description": "This is a service to aggregate news on literally all the top projects in crypto"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "12000 views",
+      "number": "1200",
+      "url": "https://www.youtube.com/watch?v=UuT4tcXEcGw"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x303538fa089b13b03aacc52279230fcf1e24139f90e28175594f63d8e075cb3e",
+  "prelimResult": "Remove",
+  "reportReason": "Not sure if in scope"
+}

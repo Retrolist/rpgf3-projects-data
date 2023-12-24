@@ -1,0 +1,75 @@
+{
+  "bio": "Web3 user security network",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "GoPlus Security",
+  "websiteUrl": "https://gopluslabs.io",
+  "applicant": {
+    "address": {
+      "address": "0x5a293687b286bBd175513C627d7f871A2f701A87",
+      "resolvedName": {
+        "address": "0x5a293687b286bBd175513C627d7f871A2f701A87",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5a293687b286bBd175513C627d7f871A2f701A87"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5a293687b286bBd175513C627d7f871A2f701A87.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5a293687b286bBd175513C627d7f871A2f701A87.png",
+    "id": "OptimistProfile|0x2c7baefa2d8a0dcc75997dffbee8a4df8a155751ced4c078ac16dccfeb5f8249"
+  },
+  "impactDescription": "Daily Token Detection Count for Each Access Point. \nThe top 4 in this realm have had the highest usage of GoPlus Security\u2019s API services in consecutive order:\n1. [DEXTools](https://www.dextools.io/app/en/pairs): a cryptocurrency-related platform and toolset that is multi-chain, Optimism included.\n2. [DEX Screener](https://dexscreener.com/): a powerful price analysis platform that is multi-chain, Optimism included.\n3. [OKX](https://www.okx.com/): an innovative cryptocurrency exchange and wallet that is multi-chain, Optimism included.\n4. [Bitget Wallet](https://web3.bitget.com/en) (Formerly known as BitKeep): a world-class multi-chain crypto wallet, Optimism included. \n\n",
+  "contributionDescription": "The following resource categories and their respective links are great examples of GoPlus Security\u2019s Contributions.\nCase Studies:\nThe following key case studies showcase how specific projects and companies tied to the Optimism ecosystem have benefited from the GoPlus Security API services:\n\n1. [TokenPocket](https://goplussecurity.medium.com/tokenpocket-a-secure-and-simple-multi-chain-wallet-cebc5591f1d5) use case.\n2. [ApeSpace](https://goplussecurity.medium.com/apespace-the-ultimate-crypto-analytics-platform-for-all-traders-fe4d08c66fda) use case.\n3. [DexCheck](https://goplussecurity.medium.com/dexcheck-the-next-generation-data-analytics-platform-for-defi-and-nft-8ee29ec2d6b0) use case. \n\nArticles & Publications:\nhttps://goplussecurity.medium.com/",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/GoPlusSecurity",
+      "description": "GoPlus Security provides open source material. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://goplussecurity.medium.com/apespace-the-ultimate-crypto-analytics-platform-for-all-traders-fe4d08c66fda",
+      "description": "Optimism ecosystem have benefited from the GoPlus Security API services"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goplussecurity.medium.com/dexcheck-the-next-generation-data-analytics-platform-for-defi-and-nft-8ee29ec2d6b0",
+      "description": "Optimism ecosystem have benefited from the GoPlus Security API services"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1 day detections",
+      "number": "89400",
+      "url": "https://gopluslabs.io/token-security/10"
+    },
+    {
+      "description": "1 day requests",
+      "number": "78400",
+      "url": "https://gopluslabs.io/token-security/10"
+    },
+    {
+      "description": "1 day new coins added",
+      "number": "301",
+      "url": "https://gopluslabs.io/token-security/10"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "This is our first time applying for the RetroPGF. "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd34b4f953913284fa62737fcec2439fd6b192149023f6dbd6f3a91f5b716d295",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 18,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

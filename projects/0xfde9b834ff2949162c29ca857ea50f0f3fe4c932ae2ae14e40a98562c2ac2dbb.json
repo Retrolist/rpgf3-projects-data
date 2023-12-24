@@ -1,0 +1,48 @@
+{
+  "bio": "Early adopter",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "zoldyx",
+  "websiteUrl": "Https://twitter.com/zullachan",
+  "applicant": {
+    "address": {
+      "address": "0xe0B536a468496F9E9590f62e3b97f4A085b30283",
+      "resolvedName": {
+        "address": "0xe0B536a468496F9E9590f62e3b97f4A085b30283",
+        "name": "zoldyx.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xe0B536a468496F9E9590f62e3b97f4A085b30283"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe0B536a468496F9E9590f62e3b97f4A085b30283.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe0B536a468496F9E9590f62e3b97f4A085b30283.jpeg",
+    "id": "OptimistProfile|0x752d6114ca9274ea8e85acceacb04b1df82882e4f987c6c2bd43e3f90f8809f7"
+  },
+  "impactDescription": "Fantastic project with great potential. I am enthusiastic to participate in this and also support it. Literally, this giveaway means everything for me, for us, the community!! Let's make it guys, together WAGMI !!! But I'm an active user of Op protocols. Why is my wallet not on the list pls?",
+  "contributionDescription": "Fantastic project with great potential. I am enthusiastic to participate in this and also support it. Literally, this giveaway means everything for me, for us, the community!! Let's make it guys, together WAGMI !!! But I'm an active user of Op protocols. Why is my wallet not on the list pls?",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/anotherplnt/optimism",
+      "description": "Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Op",
+      "number": "420",
+      "url": "https://github.com/anotherplnt/optimism"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xfde9b834ff2949162c29ca857ea50f0f3fe4c932ae2ae14e40a98562c2ac2dbb",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

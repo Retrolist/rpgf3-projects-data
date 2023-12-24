@@ -1,0 +1,48 @@
+{
+  "bio": "80+ web3 engineers helping main protocols and networks since 2016.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Protofire Blockchain Learning Path",
+  "websiteUrl": "https://protofire.io/",
+  "applicant": {
+    "address": {
+      "address": "0x5fC34D03cFdf145Db5f3c5B5558e39a4164AAa30",
+      "resolvedName": {
+        "address": "0x5fC34D03cFdf145Db5f3c5B5558e39a4164AAa30",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5fC34D03cFdf145Db5f3c5B5558e39a4164AAa30"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5fC34D03cFdf145Db5f3c5B5558e39a4164AAa30.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5fC34D03cFdf145Db5f3c5B5558e39a4164AAa30.png",
+    "id": "OptimistProfile|0x45b6e0e02e796d8280215c5c95852a4b80b4d1024cc719ab11ea6bccac6754ee"
+  },
+  "impactDescription": "This is a community open initiative that have already supported at least 2,500 developers around the world to learn web3 and start contributing to the ecosystem. We believe that by being promoted by Optimism RPGF it could have an even larger impact, gauging the attention of more developers, reviewers and contributors.",
+  "contributionDescription": "Protofire has developed a Blockchain Learning Path, an opinionated learning path for getting into speed with Blockchain (specially Ethereum). This is a community open initiative that have already supported at least 2,500 developers around the world to learn web3 and start contributing to the ecosystem. https://github.com/protofire/blockchain-learning-path",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/protofire/blockchain-learning-path",
+      "description": "An opinionated learning path for getting into speed with Blockchain."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Stars on Github",
+      "number": "2465",
+      "url": "https://github.com/protofire/blockchain-learning-path/stargazers"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xcc7d599bd163798695c68910ae40ea5da4f548b2c141525f461fab0d9c1f62dd",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 34,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

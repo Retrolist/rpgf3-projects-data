@@ -1,0 +1,68 @@
+{
+  "bio": "Curvegrid's MultiBaas blockchain middleware powers many of the leading DApps.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "MultiBaas blockchain middleware",
+  "websiteUrl": "https://curvegrid.com",
+  "applicant": {
+    "address": {
+      "address": "0xfa49187F19edeEb7df7868Db82F2D723440B6C6E",
+      "resolvedName": {
+        "address": "0xfa49187F19edeEb7df7868Db82F2D723440B6C6E",
+        "name": "multibaas.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xfa49187F19edeEb7df7868Db82F2D723440B6C6E"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfa49187F19edeEb7df7868Db82F2D723440B6C6E.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x0e4717c26efa8929c789ba3723c27a8c0e5fa29a19bfe6fe4a6da91ece353e79"
+  },
+  "impactDescription": "Curvegrid\u2019s MultiBaas blockchain middleware helps companies and developers build on Optimism and Base up to 10x faster than doing so from scratch. After adding support for Optimism into our MultiBaas blockchain middleware, we have continued to promote it within our user base as a credible platform to build DApps on or migrate them to. We have also helped bring at least one major DApp onto Base by adding support to MultiBaas. In addition, we have re-verified a Hardhat gas issue broadly affecting the Base Goerli Testnet (https://github.com/NomicFoundation/hardhat/issues/4190#issuecomment-1763641843) and provided notes to both the Optimism and Base teams on our experiences with it.",
+  "contributionDescription": "We spent substantial time and effort building Optimism support into MultiBaas ahead of ETHGlobal Tokyo in April 2023, although the Optimism team was unfortunately unable to attend/sponsor at the last minute. We continue to promote Optimism amongst our customer base, and have extended support to Base in early October 2023 (now complete), with one major DApp now planning to build on Base. Our effort for both Optimism and Base includes working around differences from Ethereum, selecting and contracting with appropriate node providers, maintaining production infrastructure, and consulting with our customers about building on Optimism and Base.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://curvegrid.com",
+      "description": "Curvegrid homepage"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "N/A - no public data to share",
+      "number": "0",
+      "url": "https://curvegrid.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 33000,
+      "description": "https://app.charmverse.io/op-grants/page-7416874939270843"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 25000,
+      "description": "https://app.charmverse.io/op-grants/page-4678452668524904"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "No revenue received for building Base or Optimism support into MultiBaas"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x90dec3f7f6a32d24f8f6efbeaf449851331630abb0df56eeb39a6499a5572331",
+  "prelimResult": "Keep",
+  "reportReason": "Not identifiable what their impact is",
+  "includedInBallots": 21,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

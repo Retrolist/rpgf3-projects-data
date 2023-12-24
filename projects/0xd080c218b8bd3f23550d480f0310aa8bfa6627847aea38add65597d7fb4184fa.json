@@ -1,0 +1,48 @@
+{
+  "bio": "Fan of op",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "SparkBapq",
+  "websiteUrl": "https://www.x.com/0xbala",
+  "applicant": {
+    "address": {
+      "address": "0x57b6c42113ac1F17108debbD59734C7Bae6a4F43",
+      "resolvedName": {
+        "address": "0x57b6c42113ac1F17108debbD59734C7Bae6a4F43",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x57b6c42113ac1F17108debbD59734C7Bae6a4F43"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x57b6c42113ac1F17108debbD59734C7Bae6a4F43.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xa7755b193ec6874401d31d211e0ca61ff1d060d648d439d156f83c0c7d26006c"
+  },
+  "impactDescription": "OP is the native governance token of Optimism, a Layer-2 network built to address Ethereum's scalability challenges. Optimism utilises a technology called optimistic rollups to bundle transactions and reduce fees on the Ethereum network.\nBe hold op and stake , vote \nAlways stay touch in op\nBest evm in eth and its fast and smooth\nBeat One \nI want whale in op sure ill did it one day",
+  "contributionDescription": "OP is the native governance token of Optimism, a Layer-2 network built to address Ethereum's scalability challenges. Optimism utilises a technology called optimistic rollups to bundle transactions and reduce fees on the Ethereum network.\nBe hold op and stake , vote \nAlways stay touch in op\nBest evm in eth and its fast and smooth\nBeat One \nI want whale in op sure ill did it one day",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xbala/status/1704202645630767438?t=YavOrRSjhHBZTltP6e8a-w&s=19",
+      "description": "x.com"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "No",
+      "number": "0",
+      "url": "https://x.com/0xBala"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd080c218b8bd3f23550d480f0310aa8bfa6627847aea38add65597d7fb4184fa",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

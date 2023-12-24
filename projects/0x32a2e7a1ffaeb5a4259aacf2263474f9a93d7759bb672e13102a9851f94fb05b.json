@@ -1,0 +1,54 @@
+{
+  "bio": "On-chain analytics platform",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Parsec Finance",
+  "websiteUrl": "http://parsec.finance/",
+  "applicant": {
+    "address": {
+      "address": "0x9161A575356b607EA471a6189e3cE31B5FC914ca",
+      "resolvedName": {
+        "address": "0x9161A575356b607EA471a6189e3cE31B5FC914ca",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9161A575356b607EA471a6189e3cE31B5FC914ca"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9161A575356b607EA471a6189e3cE31B5FC914ca.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9161A575356b607EA471a6189e3cE31B5FC914ca.png",
+    "id": "OptimistProfile|0xc1faa785aabefdaed5e4575d2bcb753979c6666467e535a3116511c166defaf1"
+  },
+  "impactDescription": "By offering Optimism data in our platform not only have we exposed our existing userbase to Optimism and widened the funnel for adoption, we have also provided tools for Optimism users to better understand and navigate the on-chain environment. \n\nWithout contextualised and visualised chain data, it can be hard to monitor the success of a given application or chain. Protocols and users alike have used Parsec to construct graphs/tables to monitor adoption/usage metrics and to derive key insights such as the most traded pair on Velodrome Finance.",
+  "contributionDescription": "Parsec Finance is an on-chain analytics platform. We index Optimism (and now Base) data for users of our platform to explore and navigate the on-chain environment. \n\nOur integration has not solely involved a chain-level integration and support for arbitrary contract analysis but we went one step further: integrating and building custom functionality for native DeFi Apps on Optimism like Velodrome Finance. \n\nNot only has our integration assisted on chain users in navigating Optimism, our data and dashboards have helped DAOs like Lido to monitor and gauge L2 adoption through flows analysis (linked below in Contribution links).",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://parsec.fi/layout/wilburforce/EN1kcmwE",
+      "description": "Dashboard used to help Lido to monitor and gauge Optimism adoption."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://parsec.fi/protocol/velodrome-v2",
+      "description": "Custom dashboard for Velodrome Finance, native Optimism DEX."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Data Dashboard",
+      "number": "1",
+      "url": "https://parsec.fi/layout/wilburforce/EN1kcmwE"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x32a2e7a1ffaeb5a4259aacf2263474f9a93d7759bb672e13102a9851f94fb05b",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 25,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

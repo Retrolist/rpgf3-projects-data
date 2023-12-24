@@ -1,0 +1,53 @@
+{
+  "bio": "\ud83c\udf1f Whether you\u2019re a beginner looking to embark on your yoga journey ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "City.Ram",
+  "websiteUrl": "https://5pointzyoga.com/",
+  "applicant": {
+    "address": {
+      "address": "0x198431029DC6c4d7e83762ebba526045dcD8E60F",
+      "resolvedName": {
+        "address": "0x198431029DC6c4d7e83762ebba526045dcD8E60F",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x198431029DC6c4d7e83762ebba526045dcD8E60F"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x198431029DC6c4d7e83762ebba526045dcD8E60F.jpeg",
+    "id": "OptimistProfile|0x6ce444bdddefb7f12800fcae89fc3eedbedee6d236c02b849aeccaa16cb3df03"
+  },
+  "impactDescription": "\tEducate Others: Share your knowledge by creating tutorials, blog posts, or videos about Web 3 topics. Educating others helps expand the community and fosters collaboration.\n\t1.\tMentorship: If you\u2019re experienced in Web 3, consider mentoring newcomers. Guiding others in their journey can have a significant impact on the ecosystem\u2019s growth.\n\t2.\tContribute to Research: Support research initiatives that explore the potential and challenges of Web 3 technologies. Collaborate with academic institutions or research organizations in this space.\n\t3.\tAdvocate for Decentralization: Promote the benefits of decentralization and Web 3 to a wider audience. Advocate for policies and regulations that support innovation in this field.",
+  "contributionDescription": "Remember that Web 3 is a rapidly evolving space, so staying adaptable and continuously learning is crucial. By actively contributing to expanded collaboration, you can play a vital role in shaping the future of decentralized technologies and their impact on various industries.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://5pointzyoga.com/",
+      "description": "Website "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Basic ",
+      "number": "1",
+      "url": "https://5pointzyoga.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb093fe850d13f6214ace11b5920ac0d88e1faf2811650725d697b3e36b4fb490",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

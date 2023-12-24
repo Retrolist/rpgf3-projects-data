@@ -1,0 +1,89 @@
+{
+  "bio": "Candide builds open Account Abstraction software",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Candide",
+  "websiteUrl": "https://github.com/candidelabs",
+  "applicant": {
+    "address": {
+      "address": "0x56a1740878966Bc82a1d9C047E46B02533857626",
+      "resolvedName": {
+        "address": "0x56a1740878966Bc82a1d9C047E46B02533857626",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x56a1740878966Bc82a1d9C047E46B02533857626"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56a1740878966Bc82a1d9C047E46B02533857626.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x56a1740878966Bc82a1d9C047E46B02533857626.png",
+    "id": "OptimistProfile|0x747b29592b7a2ebe95e7bd61bc521c5880015bd98d1af5f1ad4ea67011e0b8db"
+  },
+  "impactDescription": "Candide raised the bar for wallet UX and safety without compromising on self-custody. Candide Wallet codebase has been leveraged by several teams including versawallet.io mobile client, bananawallet.xyz base accounts and openfort.xyz account recovery module. Voltaire, a vital infrastructure, is being used by major RPC providers LlamaNodes, BlockPi, and BlockNative to offer AA as a Service and is provided as a free endpoint instance on testnets. The AbstractionKit SDK finds utility among a growing number of independent developers and notable companies like picnicinvestimentos.com and getjoin.io",
+  "contributionDescription": "Native to Optimism from day 1 and one of the first teams to release a smart wallet with Account Abstraction. Offers on-chain recovery contacts, paying gas in stablecoin, and one click dapps. Built the Candide core contracts as 4337 compliant based on Safe and wrote the Social Recovery Module. Deployed the first verifying paymaster contract with an open source backend. Launched Voltaire, a fast python Bundler client written in Python. Progress on mempool decentralization and censorship resistance. Built AbstractionKit, the TS library to easily build smart wallets.\n\nEnd-to-end open source, and 100% built for the global public good. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/candidelabs/",
+      "description": "Candide org's README includes a list of important repos of the stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.candide.dev/",
+      "description": "Developer documentations for building smart wallets"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.candidewallet.com/",
+      "description": "Candide Wallet Mobile App"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Forks",
+      "number": "35",
+      "url": "https://github.com/candidelabs"
+    },
+    {
+      "description": "AbstractionKit Weekly Downloads",
+      "number": "100",
+      "url": "https://www.npmjs.com/package/abstractionkit"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 39000,
+      "description": "RetroPGF2 nominated for our positive Impact on Optimsim w/ Account Abstraction"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 75000,
+      "description": "Ethereum Foundation grant received for Voltaire, python Bundler client for 4337"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 190000,
+      "description": "Funded Candide Wallet on OP, the golden standard for L2 smart wallets. ($89k)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "zero vc investments. Candide is independent, and funded 100% by its supporters"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x973dd17bfead72018dfe2cc33042db418c82f518229b3ca32a0798ef13d393f5",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 43,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

@@ -1,0 +1,52 @@
+{
+  "bio": "Ducky City is a metaverse, socialfi project built on multi-chain",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Ducky City",
+  "websiteUrl": "https://ducky.city/",
+  "applicant": {
+    "address": {
+      "address": "0x9bF7A4c1D9C115749934232e4746f5C115e7c047",
+      "resolvedName": {
+        "address": "0x9bF7A4c1D9C115749934232e4746f5C115e7c047",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9bF7A4c1D9C115749934232e4746f5C115e7c047"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9bF7A4c1D9C115749934232e4746f5C115e7c047.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9bF7A4c1D9C115749934232e4746f5C115e7c047.png",
+    "id": "OptimistProfile|0xb8743242b269d46f1c6ecf1fe09bbc5d1c15b6699f1daa32fcf4ff2c76fb32c5"
+  },
+  "impactDescription": "We are in the process of development, and currently, we have implemented support for connecting and logging in to our metaverse system using the OP network.\n\nHere's a brief introduction to our business model:\n\nPremium: The packages in the metaverse include various types such as Verification, VIP 1, VIP 2, etc. Users need to pay to upgrade to premium. \nSkins:\nThere will be special and limited skins and users will have to pay to own them.\nCelebrity space: Celebrities can create private spaces to meet with fans, and users must have a \"KEY\" to enter the space. \nOnline office: Users need to pay to use the online office.\n\nWe will use the OP network to carry out all transactions in our business model.",
+  "contributionDescription": "We are in the process of development, and currently, we have implemented support for connecting and logging in to our metaverse system using the OP network.\n\nHere's a brief introduction to our business model:\n\nPremium: The packages in the metaverse include various types such as Verification, VIP 1, VIP 2, etc. Users need to pay to upgrade to premium. \nSkins:\nThere will be special and limited skins and users will have to pay to own them.\nCelebrity space: Celebrities can create private spaces to meet with fans, and users must have a \"KEY\" to enter the space. \nOnline office: Users need to pay to use the online office.\n\nWe will use the OP network to carry out all transactions in our business model.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://ducky.city/",
+      "description": "Connect Ducky City with OP network"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Metaverse",
+      "number": "1",
+      "url": "https://ducky.city/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500000,
+      "description": "We will try to develop to contribute to building a strong Optimist ecosystem"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xc67c6f5fa8c400c7bc308a221d04bcf69db2d4c481d0692112386fb1624fcb8a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

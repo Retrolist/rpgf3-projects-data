@@ -1,0 +1,114 @@
+{
+  "bio": "One DEX to rule all chains. Trade and earn with best pricing, cross-chain swaps.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "WOOFi",
+  "websiteUrl": "https://fi.woo.org/",
+  "applicant": {
+    "address": {
+      "address": "0x7cBFd4f0De51124B498f72DEBC35421C66F2bB0d",
+      "resolvedName": {
+        "address": "0x7cBFd4f0De51124B498f72DEBC35421C66F2bB0d",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x7cBFd4f0De51124B498f72DEBC35421C66F2bB0d"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7cBFd4f0De51124B498f72DEBC35421C66F2bB0d.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7cBFd4f0De51124B498f72DEBC35421C66F2bB0d.png",
+    "id": "OptimistProfile|0xdee13aa040e834136b309345c01e7ae024d034a0dd640eb144bf877880b5f50a"
+  },
+  "impactDescription": "Optimism Specific\n\n$400M+ trading volume (~10% of daily Optimism DEX volume)\nResponsible for $64M of assets cross-chain swapped (442,551 tx)\nLeading single-sided yield on OP \nSupported withdrawals and deposits on our centralized exchange WOO X \nRanked #7 of all Optimism dapps by MAU\nRebated $12,500 to aggregators\nLed a quest which brought 30k+ onchain\nRan a campaign with Cyberconnect rewarding 10,000 Optimism users\nWOOFi Pro built on OP Stack\nRanked #7 by MAU on Optimism \n \nBase Specific\n\nAchieved $14M+ trading volume\nRanked #9 Base dapps by MAU\nFacilitated $1M of assets cross-chain swapped in and out of Base\nBecame the first project to use an embedded Layer3 quest to bring users into Base\nOne of the earliest adopters of Base testnet (March 16th) and Mainnet (August 15th)",
+  "contributionDescription": "WOOFi has driven a consistent stream of new users into Optimism, now responsible for $64M of assets crosschain swapped into the ecosystem. In doing so, we have flooded Optimism with more unique active wallets and allowed native protocols to reach new audiences.\n\nWOOFi has provided leading single-sided yield for the OP token. We enabled users to lend their OP tokens to a professional market maker and earn hassle-free yield without impermanent loss making it a more enticing asset to own.\n\nWOOFi has generated $400M+ trading volume with as little as 6 supported assets and $1M in TVL. This unmatched capital efficiency has made WOOFi a revered liquidity source in Optimism\u2019s DEX landscape, empowering traders with best pricing and accounting for 10% of the entire network's daily DEX volume.  \n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://fi.woo.org/",
+      "description": "WOOFi landing page"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://learn.woo.org/v/woofi-dev-docs/references/readme#optimism-deployment",
+      "description": "WOOFi smart contracts on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://learn.woo.org/v/woofi-dev-docs/references/readme#base-deployment",
+      "description": "WOOFi smart contracts on Base"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://defillama.com/protocol/woofi",
+      "description": "DeFi Llama"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Optimism volume",
+      "number": "420000000",
+      "url": "https://fi.woo.org/swap/dashboard"
+    },
+    {
+      "description": "Base volume",
+      "number": "14300000",
+      "url": "https://fi.woo.org/swap/dashboard"
+    },
+    {
+      "description": "Optimism MAU Rank",
+      "number": "7",
+      "url": "https://dappradar.com/rankings/protocol/optimism?range=30d"
+    },
+    {
+      "description": "Base MAU Rank",
+      "number": "9",
+      "url": "https://dappradar.com/rankings/protocol/base?range=30d"
+    },
+    {
+      "description": "WOOFi x Cyberconnect campaign",
+      "number": "10000",
+      "url": "https://twitter.com/_WOOFi/status/1695057264518852754"
+    },
+    {
+      "description": "Optimism crosschain swap address 1",
+      "number": "4228",
+      "url": "https://optimistic.etherscan.io/address/0x655e2fe03fe19327239b5294a556965192386a7b"
+    },
+    {
+      "description": "Optimism crosschain swap address 2",
+      "number": "425783",
+      "url": "https://optimistic.etherscan.io/address/0xbeae1b06949d033da628ba3e5af267c3e740494b"
+    },
+    {
+      "description": "Optimism crosschain swap address 3",
+      "number": "12540",
+      "url": "https://optimistic.etherscan.io/address/0xe47fec1c72850d867a1655c4c5902de7728ca205"
+    },
+    {
+      "description": "Base crosschain swap address 1",
+      "number": "5079",
+      "url": "https://basescan.org/address/0xe47fec1c72850d867a1655c4c5902de7728ca205"
+    },
+    {
+      "description": "Base crosschain swap address 2",
+      "number": "9172",
+      "url": "https://basescan.org/address/0xf314fa27066bdde92e6122059b103e8899d0a096"
+    },
+    {
+      "description": "WOOFi wonderland",
+      "number": "30000",
+      "url": "https://twitter.com/_WOO_X/status/1605126895959515137"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd2e8491c9c5e761a1b3899ecb329d0bf37b9fcff152cda962508108d1bd8ec47",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 28,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

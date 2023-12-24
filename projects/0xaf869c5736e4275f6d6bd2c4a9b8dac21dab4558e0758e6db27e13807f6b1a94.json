@@ -1,0 +1,124 @@
+{
+  "bio": "Immunefi is a web3 focused bug bounty platform.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Immunefi",
+  "websiteUrl": "https://immunefi.com/",
+  "applicant": {
+    "address": {
+      "address": "0x6c79837a6f08e1DF4a2971795f67A1849c122a05",
+      "resolvedName": {
+        "address": "0x6c79837a6f08e1DF4a2971795f67A1849c122a05",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6c79837a6f08e1DF4a2971795f67A1849c122a05"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x984f9ef7ab4ceb4b6f17dd20f9ec85cb5e27ca8041bd425b368aee4652f45946"
+  },
+  "impactDescription": "Immunefi is already working with ~15 Optimism projects ranging from OP Labs itself to major defi protocols deployed on OP such as Synthetix or Velodrome Finance. Immunefi assisted the OP Labs team in identifying and remediating a $2M critical bug bounty within the OP stack. Please refer to the link below and the following impact metrics for additional information. ",
+  "contributionDescription": "We currently have ~15 Optimism projects that are running an Immunefi bug bounty program. Some notable projects that we have already worked with include Velodrome, Optimism, Synthetix, Extra Finance, etc. Immunefi has also partnered up with Spearbit to provide bug bounty programs across the Optimism ecosystem for mission-critical applications and platforms.\n\nImmunefi is engaged and constantly working with the Optimism foundation and OP labs team to ensure that we\u2019re aligning ourselves with the community\u2019s needs, expectations, and challenges. Immunefi is fully committed to being a core services provider for the OP ecosystem and we intend to keep our incentives aligned with the community so that we can help continue scaling the OP ecosystem in a safe and secure manner.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/immunefi/optimism-infinite-money-duplication-bugfix-review-daa6597146a0",
+      "description": "Optimism Infinite Money Duplication Bugfix Review"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://immunefi.com/bounty/thresholdnetwork/",
+      "description": "Threshold Network Bug Bounty Program on Immunefi"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://immunefi.com/bounty/hyperlane/",
+      "description": "Hyperlane Bug Bounty Program on Immunefi"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://immunefi.com/bounty/optimism/",
+      "description": "Optimism Bug Bounty Program on Immunefi"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://immunefi.com/bounty/velodromefinance/",
+      "description": "Velodrome Finance Bug Bounty Program on Immunefi"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/final-spearbit-immunefi-bug-bounty-program-for-large-protocols-building-on-optimism/6187",
+      "description": "Spearbit Bug Bounty Partnership"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.charmverse.io/op-grants/proposals?id=7e0b0d59-285e-4d59-a871-fe17a684b589",
+      "description": "Immunefi Bug Bounty Program for Protocols building on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://immunefi.com/explore/?filter=ecosystem%3DOptimism",
+      "description": "Optimism projects w/ Immunefi Bug Bounty Program"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of submitted bug reports",
+      "number": "612",
+      "url": "https://docs.google.com/document/d/1ChDZx1v4mFIKLgYVE2PW-_1FHhMT1xijlcsazCmGoHA/edit"
+    },
+    {
+      "description": "# of paid bug reports",
+      "number": "69",
+      "url": "https://docs.google.com/document/d/1ChDZx1v4mFIKLgYVE2PW-_1FHhMT1xijlcsazCmGoHA/edit"
+    },
+    {
+      "description": "# of paid critical bug reports",
+      "number": "21",
+      "url": "https://docs.google.com/document/d/1ChDZx1v4mFIKLgYVE2PW-_1FHhMT1xijlcsazCmGoHA/edit"
+    },
+    {
+      "description": "Total $ amount of payouts",
+      "number": "4400000",
+      "url": "https://docs.google.com/document/d/1ChDZx1v4mFIKLgYVE2PW-_1FHhMT1xijlcsazCmGoHA/edit"
+    },
+    {
+      "description": "$ of TVL protected across 21 criticals",
+      "number": "700000000",
+      "url": "https://docs.google.com/document/d/1ChDZx1v4mFIKLgYVE2PW-_1FHhMT1xijlcsazCmGoHA/edit"
+    },
+    {
+      "description": "$ of TVL secured",
+      "number": "1000000000",
+      "url": "https://docs.google.com/document/d/1ChDZx1v4mFIKLgYVE2PW-_1FHhMT1xijlcsazCmGoHA/edit"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100000,
+      "description": "Immunefi and Spearbit Bug Bounty Program for Velodrome"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 210000,
+      "description": "Immunefi Bug Bounty Program for Protocols building on Optimism"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xaf869c5736e4275f6d6bd2c4a9b8dac21dab4558e0758e6db27e13807f6b1a94",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 53,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

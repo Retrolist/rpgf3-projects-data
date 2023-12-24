@@ -1,0 +1,48 @@
+{
+  "bio": "a normal man a  use projekt",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "lu2",
+  "websiteUrl": "https://twitter.com/lu2_lubo",
+  "applicant": {
+    "address": {
+      "address": "0x9Bfc25E552250ac2C00431D71C5f840B74e798fa",
+      "resolvedName": {
+        "address": "0x9Bfc25E552250ac2C00431D71C5f840B74e798fa",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9Bfc25E552250ac2C00431D71C5f840B74e798fa"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9Bfc25E552250ac2C00431D71C5f840B74e798fa.png",
+    "id": "OptimistProfile|0x53056abfaf2cc4b3986b930ae49e08ab681d257dfc32def6ae2691a46281eb8d"
+  },
+  "impactDescription": "a good project. a follow twitter a nice objective report optimism. good stake  a governance wallet a brown send token. small fees and fees come back OP token. its beautiful a great projekt and new quest . airdrop is good a very nice wallet  a down airdrop :)",
+  "contributionDescription": "a good project. a follow twitter a nice objective report optimism. good stake  a governance wallet a brown send token. small fees and fees come back OP token. its beautiful a great projekt and new quest . airdrop is good a very nice wallet  a down airdrop :)",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/lu2_lubo",
+      "description": "@lu2_lubo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "1",
+      "url": "https://twitter.com/lu2_lubo"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xc2cbd2c9781a76f0bc8b6a34c50adaaf7af8aef13faf0692a53c12411ce2132f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

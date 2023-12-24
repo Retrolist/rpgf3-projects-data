@@ -1,0 +1,102 @@
+{
+  "bio": "Uniting crypto through seamless crosschain transactions.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Decent.xyz",
+  "websiteUrl": "https://www.decent.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xBAfb15bF152365bd344639b6eDe5Dec09d5Ba64E",
+      "resolvedName": {
+        "address": "0xBAfb15bF152365bd344639b6eDe5Dec09d5Ba64E",
+        "name": "willcollier.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xBAfb15bF152365bd344639b6eDe5Dec09d5Ba64E"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBAfb15bF152365bd344639b6eDe5Dec09d5Ba64E.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xBAfb15bF152365bd344639b6eDe5Dec09d5Ba64E.png",
+    "id": "OptimistProfile|0x71a97d23ca522710c3d0b1dcc19babc087c436c47b98c6c869fa8b7104baefdd"
+  },
+  "impactDescription": "Decent has the most active NFT contract ever on Optimism (as seen here: https://www.growthepie.xyz/blockspace/category-comparison). Thousands of creators, including members of the Optimism Collective, have deployed NFTs through us while over 1 million unique wallets have collected/ minted NFTs through Decent as well. We have made it simple and easy to do so, and are heavily responsible for providing activity in the Optimism NFT ecosystem. We also helped grow the Optimism brand by doing commemorative NFT releases with Optimism, Worldcoin, Conduit, and others that did over 20 million mints combined. ",
+  "contributionDescription": "In October 2022, Decent became one of the first NFT creator platforms to deploy NFTs to Optimism. Our DCNT721a NFT contract is the most used contract on Optimism. In the last year we've had over 22M NFTs minted on OP like drops with partners including Optimism, World Coin, Conduit, Base, and more. We didn't have any fee collection on for almost all of these mints. \n\nWe also built a product called The Box that enables 1-click transactions from any token on any chain - meaning that users can make transactions on Optimism (or other L2s) without needing native tokens on Optimism and we do all the bridging and swapping in the background at the Point of Sale (or Point of Transaction). This has already brought a few thousand transactions to Optimism and been integrated to enable payment for NFTs",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xcBA5609AB435969dEF6Ab164c4C0A4165E805783",
+      "description": "NFT launch with Conduit.xyz (16,794,448 mints)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x6a886C76693Ed6f4319a289e3FE2e670b803a2Da",
+      "description": "NFT commemorating the World Coin launch on Optimism (2,977,621 mints)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xd89dBBd35C24E07C7727BF1eF36cd1F02aEA158E",
+      "description": "NFT with Optimism for RetroPGF3 (1,757,444 mints)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.basednfts.co/",
+      "description": "Marketplace using The Box as checkout for Base NFTs (Onchain Summer)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://origins.eternal-garden.xyz/",
+      "description": "Mint site for TK Optimism NFT drop with The Box (7,000 mints)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://lnrz.xyz/",
+      "description": "NFT drop during Onchain Summer using The Box (3,112 mints)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/decentxyz/status/1711106152132415943",
+      "description": "Tweet from Charlie (co-founder of Decent) with stats from growthepie.xyz"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of NFT Mints for Conduit.xyz NFT",
+      "number": "17611885",
+      "url": "https://hq.decent.xyz/10/Editions/0xcBA5609AB435969dEF6Ab164c4C0A4165E805783"
+    },
+    {
+      "description": "Number of mints for OP x Worldcoin",
+      "number": "2977621",
+      "url": "https://optimistic.etherscan.io/address/0x6a886C76693Ed6f4319a289e3FE2e670b803a2Da"
+    },
+    {
+      "description": "2nd most tx's on an OP NFT contract ever",
+      "number": "388151",
+      "url": "https://www.growthepie.xyz/blockspace/category-comparison"
+    },
+    {
+      "description": "Most active OP NFT contract ever",
+      "number": "155364",
+      "url": "https://www.growthepie.xyz/blockspace/category-comparison"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 30000,
+      "description": "Had fees on one NFT release"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x8a7f7c5ab681ab20b64530c7b28f268f63caa9154fca76ba128e20ea5503c16a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 36,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,63 @@
+{
+  "bio": "Downstream is an MMO implemented as a fully onchain, Autonomous World.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Downstream",
+  "websiteUrl": "https://playmint.com/downstream",
+  "applicant": {
+    "address": {
+      "address": "0x5cd05578760FAA29d7a00C1840c05a5B0C16f196",
+      "resolvedName": {
+        "address": "0x5cd05578760FAA29d7a00C1840c05a5B0C16f196",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5cd05578760FAA29d7a00C1840c05a5B0C16f196"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x20Cd91b4Ca4bC98a9df47E5CC5432dCc35a2FEDa.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x20Cd91b4Ca4bC98a9df47E5CC5432dCc35a2FEDa.png",
+    "id": "OptimistProfile|0x6946be1f62b066fa0168f75548854289bfd3cf1dcb441d25b837ebbbb2040b94"
+  },
+  "impactDescription": "Playmint is a leading developer in the growing Autonomous World builder community. We actively engage other builders in the tools and techniques we have developed.\n\nWe speak at hackathons, Ethereum conferences and Autonomous Worlds events about the technical and design challenges we have overcome.\n\nMore than a dozen onchain builders took part in a week-long technical test that demonstrated they could permissionlessy extend downstream.",
+  "contributionDescription": "Downstream is a game, with logic and state all controlled by smart contracts. The game design focusses on emergent gameplay where players are guided to write and deploy their own game extensions to the chain. \n\nCurrently deployed to a fork of OP Stack that is settling on goerelli, all code is open source, including smart contracts, backend service and the browser game client.\n\nThe game as a whole represents a significant contribution as a working example of an Autonomous World but there are also many specific, open source,  onchain game primitives implemented including:\n\n  - Session Key signing. \n  - Multiplayer Optimistic Updates. \n  - Automatic Indexing. \n  - Automatic plugin loading.   \n  - Player deployment tools. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/playmint/ds",
+      "description": "The main Downstream repository"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/playmint/cog",
+      "description": "COG engine - solidity framework and services. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://playmint.com/downstream",
+      "description": "Introduction to Downstream"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://playmint.caldera.dev/",
+      "description": "App specific OP Stack deployment"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "X post views",
+      "number": "13800",
+      "url": "https://twitter.com/damor_eth"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xccb0d19eb7ee3c139cd786b773867971d3a1637f06900a9d6d15f09b0b9d8153",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 16,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

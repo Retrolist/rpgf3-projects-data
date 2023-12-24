@@ -1,0 +1,53 @@
+{
+  "bio": "I'm a goal-oriented guy who loves to learn a lot of new things. ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "IGOR",
+  "websiteUrl": "https://twitter.com/Igorek1488_",
+  "applicant": {
+    "address": {
+      "address": "0x67Bf7CA0ab030930238Ed52d7AAc327d54B94985",
+      "resolvedName": {
+        "address": "0x67Bf7CA0ab030930238Ed52d7AAc327d54B94985",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x67Bf7CA0ab030930238Ed52d7AAc327d54B94985"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xa03b52240a258a5dd82e38675c17951339198c0c3b7ccb0be615326963d041dc"
+  },
+  "impactDescription": "participation in voting, which I think everyone should have. Testing bridges in the network optimism clearly has a positive impact on the Optimism Collective. With my help, two new people appeared in the optimism community, which increases the number of users.",
+  "contributionDescription": "I am a holder of optimism tokens. I constantly participate in voting because I want to help in choosing the best path for optimism. Since I\u2019m interested in the future of the project, I follow the news and updates. I tell my friends about optimism and how important this project is for the Ethereum network. In the past I participated in quests. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Igorek1488_",
+      "description": "On my Twitter I follow the project and retweet"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "My wallet in OP network ",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0x67Bf7CA0ab030930238Ed52d7AAc327d54B94985"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 182,
+      "description": "reward for holding and participation in voting"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9af820852623eb48f56e8c03e9168afb18e2e723b065013353a494bbd4386c8b",
+  "prelimResult": "Remove",
+  "reportReason": "spam"
+}

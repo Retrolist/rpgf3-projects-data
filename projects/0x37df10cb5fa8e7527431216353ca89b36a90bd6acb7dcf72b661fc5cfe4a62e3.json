@@ -1,0 +1,52 @@
+{
+  "bio": "GOD\ud83d\udc51+MUM\u2764\ufe0f",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Oluwatosin",
+  "websiteUrl": "https://oluwatosin",
+  "applicant": {
+    "address": {
+      "address": "0x6A6225DE96cC9d42d675055600d09DC1545F061e",
+      "resolvedName": {
+        "address": "0x6A6225DE96cC9d42d675055600d09DC1545F061e",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6A6225DE96cC9d42d675055600d09DC1545F061e"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x233a5090caf9048d28242e0d8cb6a363b6d86e06e7616aca31081ee16aa33ab6"
+  },
+  "impactDescription": "On chain Transactions This is a great project, Let's moon it together guys, Hopefully this project will certainly Excel. and I hope am eligible because I really love optimism Blockchain and it's a great and perfect project I love the logo too I hope the project moon ",
+  "contributionDescription": "On chain Transactions This is a great project, Let's moon it together guys, Hopefully this project will certainly Excel. and I hope am eligible because I really love optimism Blockchain and it's a great and perfect project I love the logo too I hope the project moon ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xce144ff38feeca713ba0c2cb2ba1ec60fa1aae8bd1f169dece401d9449de3f01",
+      "description": "On chain Transactions"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "On chain Transactions",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/tx/0xce144ff38feeca713ba0c2cb2ba1ec60fa1aae8bd1f169dece401d9449de3f01"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x37df10cb5fa8e7527431216353ca89b36a90bd6acb7dcf72b661fc5cfe4a62e3",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

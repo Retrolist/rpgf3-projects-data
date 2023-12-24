@@ -1,0 +1,80 @@
+{
+  "bio": "Defi Research & Analysis",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "AsymmetricDefi",
+  "websiteUrl": "https://asymmetricdefi.substack.com/",
+  "applicant": {
+    "address": {
+      "address": "0x3c8fc549798C48Cd4EdC1786bef85D3a50f15C10",
+      "resolvedName": {
+        "address": "0x3c8fc549798C48Cd4EdC1786bef85D3a50f15C10",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3c8fc549798C48Cd4EdC1786bef85D3a50f15C10"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xba1c81a8bf8d10c8a6ce1a87451df56fa56d504fe39ac3025522fb73fe89c04d"
+  },
+  "impactDescription": "These reports were shared with the Uniswap Governance Forum users, these include delegates, investors and community members.\nThe 7000+ viewers of these reports across Substack and the Forum were both exposed to and informed about the state of Uniswap on Optimism and compare it both historically and versus the other chains.\nThese reports received good feedback from delegates https://gov.uniswap.org/t/uniswap-monthly-financial-report-analysis-feb-23/20682 and investors like Matthew Wong from Ribbit Capital https://twitter.com/mlcwong?lang=en. ",
+  "contributionDescription": "As part of a grant from the Uniswap Foundation, I analyzed the financial performance of Uniswap across its deployments including Optimism.\nThe analysis was performed monthly during Q4 22 and Q1 23.\nThe Metrics analyzed on Optimism were: Uniswap volumes, fees, liquidity, return on Liquidity, Uniswap market share on Optimism... The analysis included historical levels of these metrics as well.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://asymmetricdefi.substack.com/p/asd-5-uniswap-financial-reporting",
+      "description": "Analysis of Uniswap on Optimism during November 22"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://asymmetricdefi.substack.com/p/uniswap-monthly-financial-report",
+      "description": "Analysis of Uniswap on Optimism during January 23"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://asymmetricdefi.substack.com/p/uniswap-monthly-financial-report-6ab",
+      "description": "Analysis of Uniswap on Optimism during December 22"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://asymmetricdefi.substack.com/p/uniswap-monthly-financial-report-92c",
+      "description": "Analysis of Uniswap on Optimism during February 23"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://asymmetricdefi.substack.com/p/uniswap-monthly-financial-report-a9a",
+      "description": "Analysis of Uniswap on Optimism during March 23"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total views on Uniswap Governance Forum",
+      "number": "2000",
+      "url": "https://gov.uniswap.org/t/uniswap-monthly-financial-report-analysis-feb-23/20682"
+    },
+    {
+      "description": "Total Views on Substack",
+      "number": "5000",
+      "url": "https://asymmetricdefi.substack.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Uniswap Grant"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x87424ebc9410810cf1dd21256369dc96b289302a008f6205aa051219c648766b",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 9,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

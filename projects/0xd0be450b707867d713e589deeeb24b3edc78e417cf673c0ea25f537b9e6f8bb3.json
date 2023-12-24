@@ -1,0 +1,80 @@
+{
+  "bio": "The largest web3 dev community w/ education and opportunities for 100k+ students",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "LearnWeb3",
+  "websiteUrl": "https://learnweb3.io/",
+  "applicant": {
+    "address": {
+      "address": "0x0D1f2Bd5351a65a78Ac0BeF3C8fAEf643C046508",
+      "resolvedName": {
+        "address": "0x0D1f2Bd5351a65a78Ac0BeF3C8fAEf643C046508",
+        "name": "haardik.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x0D1f2Bd5351a65a78Ac0BeF3C8fAEf643C046508"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0D1f2Bd5351a65a78Ac0BeF3C8fAEf643C046508.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0D1f2Bd5351a65a78Ac0BeF3C8fAEf643C046508.png",
+    "id": "OptimistProfile|0x6fb7718dd6e71af9402e09480ca315bc884ac101abbadb7b2449c61a605c72b3"
+  },
+  "impactDescription": "Students from LearnWeb3 have participated and win various prizes at various hackathons over the time we've been around, a lot have found jobs in the space and work in Web3 in engineering roles, and many have also built their own projects and are continuing to do so thanks to the resources and support offered within the community.",
+  "contributionDescription": "LearnWeb3 has built public good education for Ethereum ever since we started - with over 100 long-form lessons, 4 courses, degrees, and several hundred short form pieces of content we have one of the largest structured curriculum for new developers to get started with building on Ethereum and Layer 2's like Optimism - all regularly kept up to date and offered for free with no strings attached.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://learnweb3.io",
+      "description": "All content is available on the platform"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of Students",
+      "number": "110000",
+      "url": "https://learnweb3.io/"
+    },
+    {
+      "description": "# of onchain graduation badges",
+      "number": "360000",
+      "url": "https://rarible.com/collection/polygon/0x60f028c82f9f3bf71e0c13fe9e8e7f916b345c00/activity"
+    },
+    {
+      "description": "# of total badges (including non-minted)",
+      "number": "600000",
+      "url": "https://learnweb3.io/"
+    },
+    {
+      "description": "# of lessons",
+      "number": "110",
+      "url": "https://learnweb3.io/"
+    },
+    {
+      "description": "# of minis",
+      "number": "120",
+      "url": "https://learnweb3.io/"
+    },
+    {
+      "description": "# of courses related to Ethereum",
+      "number": "4",
+      "url": "https://learnweb3.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000000,
+      "description": "We raised a pre-seed VC round ~1 year ago when we started"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd0be450b707867d713e589deeeb24b3edc78e417cf673c0ea25f537b9e6f8bb3",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 44,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

@@ -1,0 +1,139 @@
+{
+  "bio": "Endaoment is a 501(c)(3) nonprofit community foundation built entirely onchain.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Endaoment",
+  "websiteUrl": "https://endaoment.org/",
+  "applicant": {
+    "address": {
+      "address": "0x9d9d5A6cdbdCd1D7D4261861A30Db1A806154662",
+      "resolvedName": {
+        "address": "0x9d9d5A6cdbdCd1D7D4261861A30Db1A806154662",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9d9d5A6cdbdCd1D7D4261861A30Db1A806154662"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9d9d5A6cdbdCd1D7D4261861A30Db1A806154662.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9d9d5A6cdbdCd1D7D4261861A30Db1A806154662.png",
+    "id": "OptimistProfile|0x13586c2fb719c45b112af5da48c347c24d2e705c4e76fd528d452d56346b98bc"
+  },
+  "impactDescription": "We have enabled the Optimism Collective and all its current and future participants to access 1.8m+ donation endpoints to directly fund a cause and generate impact amongst existing, reputable nonprofit organizations, regardless of their understanding or adoption of the Superchain. The deployment of this infrastructure builds upon $59m of onchain impact by removing on and off-ramping barriers for nonprofits to accept any asset digital or otherwise. We've deployed 7000+ contract addresses on Base and OP respectively, representing every verified nonprofit in our database on both chains. We have seen 455 donations from 379 unique wallets to 91 organisations. Donations enable quadratic matching from the Universal Impact Pool with each new recipient earning funding from this activity.",
+  "contributionDescription": "We have deployed Endaoment on Base and Optimism this year, enabling a new audience of donors to access affordable onchain giving through account abstraction. With these deployments, everyone transacting on Optimism or Base can now utilize fully composable verified endpoints for 1.8m+ nonprofits in 150+ countries. To kickstart adoption, we deployed contract addresses for 7000+ verified organizations on both networks. Endaoment also supported other new OP stack chains, having contributed to governance and ideation around Gitcoin\u2019s PGN. Since launch in 2020, Endaoment.org has delivered $58M+ impact for social good, making philanthropy as native to blockchain as DEXs and DAOs. We are excited to be early supporters of the Optimistic Vision and the Superchain. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://endaoment.mirror.xyz/a1iLtyemZ01qSvcPamTp1_LjAkjAuu0tDi1_WHX9U_o",
+      "description": "Endaoment launches on Optimism"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x10fD9348136dCea154F752fe0B6dB45Fc298A589",
+      "description": ">7000 non profit orgs deployed on OP Mainnet able to accept L2 donations"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0B6C48C85D7e5f00Be42787aE6Cd3e1ae71be911",
+      "description": "Single Token Portfolio (STP)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x5D216BB28852f98CeAA29180670397ab01774EA6",
+      "description": "Registry"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x3d7bba3AEE1CFADC730F42Ca716172F94BBBa488",
+      "description": ">7000 non profit orgs deployed on Base Superchain able to accept L2 donations"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x713023b628cC1a7eB5b9DEC2b58127909A7c9760",
+      "description": "Registry "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x713023b628cC1a7eB5b9DEC2b58127909A7c9760",
+      "description": "Single Token Portfolio ETH"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/endaoment/endaoment-contracts-v2",
+      "description": "Smart contract infrastructure enabling onchain philanthropy"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.endaoment.org/explore",
+      "description": "1 million+ orgs in 150+ countries ready for permissionless donations on Base"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://endaoment.mirror.xyz/UvHuwzQEqQCdpltTAV-Bi2E28K6QfIO7Dm7Ikq89K3M",
+      "description": "More information: Endaoment deploys on Base OP Superchain "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.endaoment.org/universal",
+      "description": "Quadratic matching funding mechanism for universal impact"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.endaoment.org/",
+      "description": "Endaoment Docs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://endaoment.mirror.xyz/xDGlC4CKs9VtyroEDkrlFm9PGyYDeHT_uKPdN06U23c",
+      "description": "Endaoment For Everyone launched in October - fiat, stock, crypto + social login"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Nonprofit contracts deployed on Base",
+      "number": "7027",
+      "url": "https://basescan.org/txsInternal?a=0x3d7bba3AEE1CFADC730F42Ca716172F94BBBa488"
+    },
+    {
+      "description": "Nonprofit contracts deployed on Optimism",
+      "number": "7027",
+      "url": "https://optimistic.etherscan.io/txsInternal?a=0x10fD9348136dCea154F752fe0B6dB45Fc298A589"
+    },
+    {
+      "description": "Total impact through Endaoment ($)",
+      "number": "58948567.36",
+      "url": "https://app.endaoment.org/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 6670000,
+      "description": "https://endaoment.mirror.xyz/fvBa8zolDF-fzwbJtg2qTfF9iD9_7azo4krdZPMd3WU"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2500000,
+      "description": "https://tinyurl.com/mwhtrt5c"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 935000,
+      "description": "Total Operational Revenue "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf0e9da0f8ecaa1caaf7fbcfbb2c51dbdfcfc9be1becc3fc5d584b56779ba6b5e",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 49,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

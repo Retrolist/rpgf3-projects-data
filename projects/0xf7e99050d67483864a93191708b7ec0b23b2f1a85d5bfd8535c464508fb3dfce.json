@@ -1,0 +1,58 @@
+{
+  "bio": "Discover & verify yields across Ethereum, Optimism, Base, and other L2s",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Vaults.fyi",
+  "websiteUrl": "https://www.vaults.fyi/",
+  "applicant": {
+    "address": {
+      "address": "0xbb6CDB42C917De3b1FdDE316481B1241ED46b3a3",
+      "resolvedName": {
+        "address": "0xbb6CDB42C917De3b1FdDE316481B1241ED46b3a3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xbb6CDB42C917De3b1FdDE316481B1241ED46b3a3"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbb6CDB42C917De3b1FdDE316481B1241ED46b3a3.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xbb6CDB42C917De3b1FdDE316481B1241ED46b3a3.png",
+    "id": "OptimistProfile|0x213e34453f8357c97f6aa2a482eb4c760c929e63c46ecdd220ce9af64e772a91"
+  },
+  "impactDescription": "Vaults simplifies on-chain yield discovery in the Optimism ecosystem by independently sourcing and calculating yields from DeFi projects. \n\nWe prioritize user safety through only showing tenured vaults, empowering Optimism users to make informed capital allocation decisions. \n\nOur mission is to enhance DeFi yield accessibility.",
+  "contributionDescription": "Vaults.fyi is the most reliable source for in-depth yield analysis on Optimism. \n\nWe track 23 yields on Optimism and Base, with custom links you can use to focus on only those L2s: op.vaults.fyi and base.vaults.fyi. \n\nAcross Ethereum and the broader L2 ecosystem, we track 100+ yields. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://op.vaults.fyi/",
+      "description": "Definitive source for finding yields on OP Mainnet "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://base.vaults.fyi/",
+      "description": "Definitive source for finding yields on Base"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Vaults on OP",
+      "number": "14",
+      "url": "https://op.vaults.fyi/"
+    },
+    {
+      "description": "Vaults on Base",
+      "number": "9",
+      "url": "https://base.vaults.fyi/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xf7e99050d67483864a93191708b7ec0b23b2f1a85d5bfd8535c464508fb3dfce",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 20,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,55 @@
+{
+  "bio": "Bae",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Makan",
+  "websiteUrl": "https://twitter.com/danilouchvin",
+  "applicant": {
+    "address": {
+      "address": "0x389aD3700E5bCcab1f90fbc0B60F6Ee7558952b9",
+      "resolvedName": {
+        "address": "0x389aD3700E5bCcab1f90fbc0B60F6Ee7558952b9",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x389aD3700E5bCcab1f90fbc0B60F6Ee7558952b9"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x389aD3700E5bCcab1f90fbc0B60F6Ee7558952b9.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x389aD3700E5bCcab1f90fbc0B60F6Ee7558952b9.png",
+    "id": "OptimistProfile|0x16c24b75d129e19169715e75810a5b86bbcf696f07d00afe1596889fb42d5b2f"
+  },
+  "impactDescription": "Awesome project i have tried all the features. I feel very comfortable and confident that this project can reach the expected point together.\n\nAwesome project i have tried all the features. I feel very comfortable and confident that this project can reach the expected point together.\n\n",
+  "contributionDescription": "Awesome project i have tried all the features. I feel very comfortable and confident that this project can reach the expected point together. Awesome project i have tried all the features. I feel very comfortable and confident that this project can reach the expected point together.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xf0a1ea87841ef88c99f50ddccc34871cdd0692e6d5fe8d96153361987b8e252a",
+      "description": "OAT"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#up",
+      "number": "420",
+      "url": "https://twitter.com/danilouchvin"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4f68f12e8eaaa4faa2614dd85dedd70520c815732fb7aa6311e2f57e18cd5c58",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

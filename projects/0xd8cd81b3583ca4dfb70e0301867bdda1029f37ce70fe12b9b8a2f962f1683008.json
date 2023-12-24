@@ -1,0 +1,53 @@
+{
+  "bio": "Moderator, Ambassador, Cryptoinvestor, Crypto channel administrator in Telegram",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Kriptinna",
+  "websiteUrl": "https://t.me/CRIPTObaronessa",
+  "applicant": {
+    "address": {
+      "address": "0xdE70c04F00A9401003398aEEcaD2c0b30816a130",
+      "resolvedName": {
+        "address": "0xdE70c04F00A9401003398aEEcaD2c0b30816a130",
+        "name": "desdk.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xdE70c04F00A9401003398aEEcaD2c0b30816a130"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdE70c04F00A9401003398aEEcaD2c0b30816a130.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xbb7a1a7810bca2116838ae67a9202538d22bf1d8b910472d293dd83bbde6d728"
+  },
+  "impactDescription": "Potential project participants with whom I shared knowledge about Optimism showed great passion for the project itself. Their confidence in the team has increased. Most have replenished their crypto portfolio with OP tokens. Many took part in the voting of the project and in various activities",
+  "contributionDescription": "- Attracting a new community to the Optimism project\n- constant interaction with the Optimism chain\n- constant participation in Optimism voting, in order to ensure the best performance of the project\n- Community support and assistance with the Optimism project",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://t.me/CRIPTObaronessa",
+      "description": "Telegram Crypto channel"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#optimism #testnet",
+      "number": "400",
+      "url": "https://t.me/CRIPTObaronessa "
+    },
+    {
+      "description": "#transaction",
+      "number": "500",
+      "url": "https://optimistic.etherscan.io/address/0xdE70c04F00A9401003398aEEcaD2c0b30816a130"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd8cd81b3583ca4dfb70e0301867bdda1029f37ce70fe12b9b8a2f962f1683008",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

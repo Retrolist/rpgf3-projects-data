@@ -1,0 +1,53 @@
+{
+  "bio": "crypto investor and blockchain user since 2017",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Gajanand Saini",
+  "websiteUrl": "https://twitter.com/Gajanan02830213",
+  "applicant": {
+    "address": {
+      "address": "0x3dbaa423956599188d686D7D156CB28A9e0a81D1",
+      "resolvedName": {
+        "address": "0x3dbaa423956599188d686D7D156CB28A9e0a81D1",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3dbaa423956599188d686D7D156CB28A9e0a81D1"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3dbaa423956599188d686D7D156CB28A9e0a81D1.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3dbaa423956599188d686D7D156CB28A9e0a81D1.png",
+    "id": "OptimistProfile|0xc12b96d3a5aa0069ac56db948c6d84758918250ebd8d084147a3dddfa99269f0"
+  },
+  "impactDescription": "This project is really great, the features are interesting and there are some things that make me really like it, namely: 1. the transaction is fast 2. Elegant and easy to use 3. the user can understand the menu perfectly 4. There are no defects in the design 5. the product runs according to what the user expects always success and hopefully it can be a promising project when mainnet arrives.\n",
+  "contributionDescription": "This project is really great, the features are interesting and there are some things that make me really like it, namely: 1. the transaction is fast 2. Elegant and easy to use 3. the user can understand the menu perfectly 4. There are no defects in the design 5. the product runs according to what the user expects always success and hopefully it can be a promising project when mainnet arrives.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://vote.optimism.io/",
+      "description": "stake and vote optimism governence"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "invest",
+      "number": "5",
+      "url": "https://vote.optimism.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe1fbfa9141f2c53d44c1c08ad862c5dbd4406801defed44107c448e7ffeddd08",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

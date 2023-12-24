@@ -1,0 +1,45 @@
+{
+  "bio": "I like crypto, mmo, airdrop ...",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "vmhmmo2020",
+  "websiteUrl": "https://twitter.com/vmhmmo2020",
+  "applicant": {
+    "address": {
+      "address": "0x0755A2c4C1808Ca14CC2928d0D727b16a1C467Bd",
+      "resolvedName": {
+        "address": "0x0755A2c4C1808Ca14CC2928d0D727b16a1C467Bd",
+        "name": "vmhmmo.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x0755A2c4C1808Ca14CC2928d0D727b16a1C467Bd"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0755A2c4C1808Ca14CC2928d0D727b16a1C467Bd.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb1b3e2d4de130eaafa5f0a6e4569167d61081d802dde70ae3cf8e9ebb9f12855"
+  },
+  "impactDescription": "I'm also participating and learning, looking forward to experiencing and learning more. I made an op order on Binance to my personal wallet through the OP network, but the return to my wallet was USD, I find it a bit strange. op used on the ETH network when withdrawing from the exchange to the wallet, the OP network is the ETH network, why withdrawing the OP network from the binance exchange to the wallet turns into USD, thank you very much.",
+  "contributionDescription": "I'm also participating and learning, looking forward to experiencing and learning more. I made an op order on Binance to my personal wallet through the OP network, but the return to my wallet was USD, I find it a bit strange. op used on the ETH network when withdrawing from the exchange to the wallet, the OP network is the ETH network, why withdrawing the OP network from the binance exchange to the wallet turns into USD, thank you very much.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0755A2c4C1808Ca14CC2928d0D727b16a1C467Bd",
+      "description": "I am experiencing and learning"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0x0755A2c4C1808Ca14CC2928d0D727b16a1C467Bd"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xa1aa059e3b751071dec0ef0f27443a95522897c1143c04d61c822bf98cad7a6e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

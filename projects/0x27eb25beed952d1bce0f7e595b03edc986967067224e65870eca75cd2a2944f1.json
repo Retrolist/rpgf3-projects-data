@@ -1,0 +1,60 @@
+{
+  "bio": "musician",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "glbkst",
+  "websiteUrl": "https://twitter.com/glbkst",
+  "applicant": {
+    "address": {
+      "address": "0x46642e15d77BbE0bDfcfbf348C38b06153D16049",
+      "resolvedName": {
+        "address": "0x46642e15d77BbE0bDfcfbf348C38b06153D16049",
+        "name": "glbkst.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x46642e15d77BbE0bDfcfbf348C38b06153D16049"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x46642e15d77BbE0bDfcfbf348C38b06153D16049.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x14a90e7e831fd0ef28cf5b48630988476ea780c75889b1240d2e977fd11aecb8"
+  },
+  "impactDescription": "As said idk if there is any impact. Measurable that is. But after the open-up and Optimism support i also deployed music NFTs with sound.xyz and manifold.xyz.\nSo why apply here?  I'm one of the users and creators of the Optimism blockchain. Many Dapps often lack users.  Many wallets tbh have still poor Optimism support.\nI would want more users to apply, because they are in the end what the Optimism blockchain exists for.  And if there is a symbolic grant or not, isn't even the point.\nIt's nice that Optimism helped to save gas fees otherwise there wouldn't be any reason to use it, i think this is obvious.",
+  "contributionDescription": "\"open to all Optimism artists, creators\".  So well i guess my contribution might be more on a symbolic level, but in the beginning of 2023 when i thought a lot about which L2 to use i went for Optimism because at that time there was mainly the choice between Arbitrum, Optimism and the sort-of L2 Polygon PoS. Arbitrum seemed very DeFi focused, Optimism had at least a NFT marketplace even though with obviously little real use.\nAnd there is this NFT tool platform decent.xyz which supported Optimism. At that time more or less the only platform. It felt a bit lonely at that time with Optimism music NFTs, not many others existed.  Mint success was negligible, but well still fun.\nBecause it ofc is also somehow exciting to be an early user of something.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://hq.decent.xyz/10/Editions/0x6fEa73faD130d32dAa71ce0296A9225484bf5854",
+      "description": "my 1st Optimism music NFT i think, well only airdrops to myself"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://hq.decent.xyz/10/Editions/0x26D8931C2507a6f06469a996D75d23D30460AE83",
+      "description": "2nd , this was free,  2 collectors"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://hq.decent.xyz/10/Crescendo/0xBe2Ac1157FFB5C5307Af3AB7Fb86A6Ae1546D1b6",
+      "description": "another 1 collector"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://hq.decent.xyz/10/Editions/0x8dd4aD480076c97449e272eB2235999c2D8a1de8",
+      "description": "one of the last on decent.xyz, only airdrop to myself"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "no not ryl many but overall positive",
+      "number": "0",
+      "url": "https://twitter.com/search?q=optimism%20(from%3Aglbkst)&src=typed_query"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x27eb25beed952d1bce0f7e595b03edc986967067224e65870eca75cd2a2944f1",
+  "prelimResult": "Remove",
+  "reportReason": "User interactions as described in the application are out of scope"
+}

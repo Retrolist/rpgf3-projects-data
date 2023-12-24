@@ -1,0 +1,50 @@
+{
+  "bio": "Ankr provides Optimism with developer tooling and Free RPC Endpoints",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Ankr",
+  "websiteUrl": "http://ankr.com",
+  "applicant": {
+    "address": {
+      "address": "0x5eEeB9F8a2050533BBEd20F87d445Dcf309a5eA7",
+      "resolvedName": {
+        "address": "0x5eEeB9F8a2050533BBEd20F87d445Dcf309a5eA7",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5eEeB9F8a2050533BBEd20F87d445Dcf309a5eA7"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3eb75e9355c0982ec0e8eb7a4c223fa679391658f940ce5b52d8ec28afab43cb"
+  },
+  "impactDescription": "Ankr has had an extremely positive impact in the OP developer community, powering numerous dApps and enabling developers access for up to 1million RPC requests per day for free, per user. Ankr also has Websocket access for premium user signup, with no limits.",
+  "contributionDescription": "Ankr has supported Optimism for the past 2 years for public goods using RPC endpoints. We have supported an average of 2.5-3bil requests per 30 days. Developers have access to 1million RPC requests, per user daily. Websocket access is also available on our premium tiers.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.ankr.com/rpc/optimism",
+      "description": "Ankr - Optimisms Free RPC endpoint"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of RPC request per 30 days",
+      "number": "2500000000",
+      "url": "https://www.ankr.com/rpc/optimism"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4fa62d7e6f1c9e324e6faeb6589d100573bd57b709df68edbe00204200670e1a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 23,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

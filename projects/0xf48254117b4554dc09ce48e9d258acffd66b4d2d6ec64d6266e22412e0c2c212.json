@@ -1,0 +1,47 @@
+{
+  "bio": "airdrop global",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "zupray",
+  "websiteUrl": "https://debank.com/profile/0x0000006c21964af0d420af8992851a30fa13c68b",
+  "applicant": {
+    "address": {
+      "address": "0x0000006c21964AF0d420af8992851A30fA13c68b",
+      "resolvedName": {
+        "address": "0x0000006c21964AF0d420af8992851A30fA13c68b",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0000006c21964AF0d420af8992851A30fA13c68b"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0000006c21964AF0d420af8992851A30fA13c68b.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0000006c21964AF0d420af8992851A30fA13c68b.png",
+    "id": "OptimistProfile|0x9a70c4fb1b1e399fae472fdb31b95361c5a4856495e70ebb2b5b54bad13e73df"
+  },
+  "impactDescription": "awesome project i have tried all the features. I hope this project can be even better when mainnet arrives. need to improve like UI/UX or other menu. I believe in the dev and team behind all of this! warm greetings from me. \nit can be used as it should, there are no problems or errors, everything works as it should. maybe there are some suggestions and inputs that can be taken such as: to make the design simpler and provide tips on tools there so that new users can understand the features better.",
+  "contributionDescription": "impressed and good I like the features offered by the team, as a user I feel very comfortable and confident that this project can reach the expected point together!\nI'm so happy to have tried and used your app/dapps what a great experience to be one of the people to try this! we hope what happens here will be a success on mainnet and all the hard working team i really appreciate your efforts.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://debank.com/profile/0x0000006c21964af0d420af8992851a30fa13c68b",
+      "description": "my wallet"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "my wallet",
+      "number": "1",
+      "url": "https://debank.com/profile/0x0000006c21964af0d420af8992851a30fa13c68b"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xf48254117b4554dc09ce48e9d258acffd66b4d2d6ec64d6266e22412e0c2c212",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,80 @@
+{
+  "bio": "~ Crypto Enthusiast ~  ~ Take All Opportunities ~",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Fortran",
+  "websiteUrl": "https://link3.to/fortran",
+  "applicant": {
+    "address": {
+      "address": "0x11Db6D0fe96667D6Ff46fEbB1226a7538D33B592",
+      "resolvedName": {
+        "address": "0x11Db6D0fe96667D6Ff46fEbB1226a7538D33B592",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x11Db6D0fe96667D6Ff46fEbB1226a7538D33B592"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x11Db6D0fe96667D6Ff46fEbB1226a7538D33B592.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x11Db6D0fe96667D6Ff46fEbB1226a7538D33B592.jpeg",
+    "id": "OptimistProfile|0x3fa3a76ddbe81222e060f4d4a2d2748b6deb0143067f970911b39bd271753297"
+  },
+  "impactDescription": "I succeeded in inviting users to use the optimism network, providing guide information to help new users find out about the optimism network. I also provide reviews or testing results to the developer so that the developer knows what errors are in the app. Increased the efficiency, security, resilience and awareness of the OP, provided impact to governance participants of the Optimism Collective, helped bring new governance participants into the Collective, provided impact to application developers in the Optimism Collective.",
+  "contributionDescription": "I work to encourage users to use the optimistic network by sharing on social media. as well as using various products that use the optimism network such as collab.land, owlto, hop, uniswap. And I also carried out several tests on several products on the optimism network, to provide reviews and problems if an error occurs in an app and send it to developer. I work that increased the efficiency, security, resilience and awareness of the OP, Work that provided impact to governance participants of the Optimism Collective, or helped bring new governance participants into the Collective, Work that provided impact to application developers in the Optimism Collective, or helped bring new developers into the Collective",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xbcc01d67916c60c40ed1d2f98ae554414b29f82ee45d37cc2b0e893ce5043f56",
+      "description": "Collab Land"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x24c22537947a7b440fc47a19cba4fef92323aa2b4afffb61eecfcedd2267dba6",
+      "description": "Owlto"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://getblock.medium.com/what-is-optimism-op-optimism-network-guide-e10fc390aa42",
+      "description": "Guide"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xb2812b8ec80f2fae56609bfebd31af333015738d8dbccb7e336c27ab1b1bd3c6",
+      "description": "Delegate"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x7bab13bb47aa9753ed6a9446ceece706317e8866f000aab43d61aa0178ba4fae",
+      "description": "Collab.Land"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Address",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0x11Db6D0fe96667D6Ff46fEbB1226a7538D33B592"
+    },
+    {
+      "description": "Liquidity Pool",
+      "number": "434075",
+      "url": "https://app.uniswap.org/pools/434075"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1665,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5aa174f2a5757035ec98768410969c5ab9182f42cedd27fe2444483a80a78f7b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

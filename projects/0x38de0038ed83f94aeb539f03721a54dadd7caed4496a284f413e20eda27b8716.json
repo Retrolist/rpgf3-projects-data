@@ -1,0 +1,105 @@
+{
+  "bio": "We are a web3 messaging protocol built as a public good. ",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "dm3 protocol.",
+  "websiteUrl": "https://dm3.network/",
+  "applicant": {
+    "address": {
+      "address": "0x1d921dff757610FbDB0073479e12c0a07d382677",
+      "resolvedName": {
+        "address": "0x1d921dff757610FbDB0073479e12c0a07d382677",
+        "name": "vegayp.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x1d921dff757610FbDB0073479e12c0a07d382677"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1d921dff757610FbDB0073479e12c0a07d382677.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1d921dff757610FbDB0073479e12c0a07d382677.jpeg",
+    "id": "OptimistProfile|0x25a404570666bf868647424850cb77569e1f9325508630e1bd810b712a2a6021"
+  },
+  "impactDescription": "1. Development of the Optimism Resolver for ENS: All users using ENS will now be able to store, read and write their text records in Optimism.\n2. Prepare OP Resolver contracts for an audit: it will allow us to guarantee security to anyone who implements it. It\u2019s key for the OP Collective users who wish to store, read or write data on L2s from Mainnet using our Resolver.\n3. Support the integration and implementation of the Resolver for other Optimism based networks like Base and Mantle: with the bedrock update, we provided support and built alongside the ENS team the adaption of the Optimism Resolver to other networks like Base and Mantle, closing the gap in between ecosystems.  \n5. We provide all the documentation needed for anyone on the OP collective to make use of our smart contracts.\n",
+  "contributionDescription": "1. Finalise and prepare Optimism Resolver contracts for an audit.\n2. Support the integration and implementation of the Resolver for other Optimism based networks like Base and Mantle. \n3. Support the integration of the Optimism Resolver in other projects such as Unruggable Domains.\n4. Creation of documentation for anyone to implement the Optimism Resolver.\n5. Built the first ever Live chat fully web3 based, used in EthPrague and in incoming events. \n6. POC of dm3 dApp to allow Safe\u2019s accounts to exchange messages and receive notifications. \n7. Create the legal infrastructure for dm3 to expand as a Public Good in Germany. \n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0x128024860A95A9Da90c38A5a0C9288BA0F0dC8e8",
+      "description": "L2 Resolver in testnet "
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/corpus-io/ENS-Bedrock-Resolver",
+      "description": "Optimism ENS Resolver"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli.etherscan.io/address/0x8C838DE92b0f663aDAa70a711b3580eC86077485",
+      "description": " L2PublicResolverVerifier"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views and interest for OP Resolver. ",
+      "number": "222",
+      "url": "https://www.youtube.com/watch?v=BYfZGx67-S8&t=491s&ab_channel=%5BEthCC%5DLivestream3"
+    },
+    {
+      "description": "Views and interest about dm3.",
+      "number": "1",
+      "url": "https://www.youtube.com/watch?v=xyPIQWIdF3U&ab_channel=Cardstack"
+    },
+    {
+      "description": "Comments to find consensus.",
+      "number": "22",
+      "url": "https://discuss.ens.domains/t/dm3-decentralized-messaging-for-web3/14090/23"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50000,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 10004,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 7998,
+      "description": "Gitcoin"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 60000,
+      "description": "ENS Grant "
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2997,
+      "description": "ENS Small grants "
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 30000,
+      "description": "Gnosis Builders Grant"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x38de0038ed83f94aeb539f03721a54dadd7caed4496a284f413e20eda27b8716",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 23,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

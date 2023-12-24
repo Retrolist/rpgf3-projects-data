@@ -1,0 +1,117 @@
+{
+  "bio": "We are a leading educational academy about crypto and DeFi ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Defy Foundation",
+  "websiteUrl": "https://defy.foundation/home-en",
+  "applicant": {
+    "address": {
+      "address": "0x07176cf362C7594e945015069d9C2010FE8DEb8e",
+      "resolvedName": {
+        "address": "0x07176cf362C7594e945015069d9C2010FE8DEb8e",
+        "name": "0xbr1.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x07176cf362C7594e945015069d9C2010FE8DEb8e"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xe1bbdd13e3e559aa86cbe4cc3f73967b6ac029b67b59eeeed6ba660a0c6d0091"
+  },
+  "impactDescription": "Our contributions have significantly supported free education in topics of highly interest for the Optimism Collective, since we help people understand how Optimism and optimistic rollups work and why their are valuable and important for achieving scalability on Ethereum.\nIn addittion we focused on key and targeted groups of audience like:\n\n- Low income sectors\n- Young students and women\n- University students",
+  "contributionDescription": "We're dedicated to spreading knowledge about the crypto ecosystem and decentralized finance, aiming to make this tech accessible to all. Thanks to Defy Education and supportive protocols and companies, we're expanding free education in Latin America. Our contributions from the Defy Foundation include:\n\n- Scholarships for \"Intro a Crypto\", teaching Ethereum basics.\n- Partnerships with \u201cMujeres en Crypto\u201d for 100% scholarships and with Proof Of Integrity in their programs \"aPRENDOcripto\" and \"criptoIMPULSO\"\n- Free high quality content on Ethereum scalability and layer 2 solutions.\n- Participation in \"LaBitconf 2022\" and Ethereum Uruguay discussing Ethereum scalability.\n- Lectures at universities such as ITBA and Di Tella on Ethereum's scalability solutions.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.defyeducation.com/fondo-de-becas",
+      "description": "Scholarships fund"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/AnaTech_eth/status/1522396556921552896?s=20",
+      "description": "Scholarships for women"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/MelodyCelestine/status/1504884528585838598?s=20",
+      "description": "Scholarships for women II"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.proofofintegrity.org/",
+      "description": "Proof of Integrity Partnership"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/proof_integrity/status/1715116592177041896?s=20",
+      "description": "Proof of Integrity Partnership - Criptoimpulso"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/brunotorossi/status/1592869693685370882?s=20",
+      "description": "LaBitconf 2022 -  Talk about Ethereum scalability "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/EthereumUruguay/status/1591180126922113024?s=20",
+      "description": "Ethereum Uruguay 2022 - Talk about Ethereum scalability "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/PabloSabbatella/status/1522215806435614720?s=20",
+      "description": "University Lessons - ITBA"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Scholarships given ",
+      "number": "915",
+      "url": "https://drive.google.com/drive/u/0/folders/1m5DIZ4Q0E186c7gDCOQ0TBuJoRuYose9"
+    },
+    {
+      "description": "Avg % of scholarship students ",
+      "number": "40",
+      "url": "https://drive.google.com/drive/u/0/folders/1m5DIZ4Q0E186c7gDCOQ0TBuJoRuYose9"
+    },
+    {
+      "description": "Avg % of women",
+      "number": "35",
+      "url": "https://drive.google.com/drive/u/0/folders/1m5DIZ4Q0E186c7gDCOQ0TBuJoRuYose9"
+    },
+    {
+      "description": "Content created",
+      "number": "30",
+      "url": "https://drive.google.com/drive/u/0/folders/1m5DIZ4Q0E186c7gDCOQ0TBuJoRuYose9"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 12000,
+      "description": "Starkware, Belo, Ripio, Open Zeppelin"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2100,
+      "description": "Gitcoin Beta Round"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 7600,
+      "description": "CLR Fund"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xfaf5013bca13903a26b1f034486dfbff33161c877a71492d0b9094c087395de1",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 32,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

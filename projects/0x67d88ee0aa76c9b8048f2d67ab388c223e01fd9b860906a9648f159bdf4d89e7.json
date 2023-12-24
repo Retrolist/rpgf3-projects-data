@@ -1,0 +1,92 @@
+{
+  "bio": "We make tools and networks for the future of work.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Coordinape",
+  "websiteUrl": "https://www.coordinape.com",
+  "applicant": {
+    "address": {
+      "address": "0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0",
+      "resolvedName": {
+        "address": "0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0",
+        "name": "coordineoape.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0.png",
+    "id": "OptimistProfile|0xf482972f95a1147e9ad8e0adfccfcd6f25cdf18c90fa027edd434cfcc2b155bc"
+  },
+  "impactDescription": "Building CoSoul on Optimism has made a significant impact, positioning Optimism to lead on-chain applications for the future of work.  By building on Optimism, Coordinape has helped the OP Collective provide new value to tens of thousands of users in just 4 months. CoSouls have proved out the need for reputation to live on chain, and created a primary locus for new web3 adopters to create their web3 CV on OP.  CoSouls help Optimists engage regularly with digital identity, resulting in 46,000 transactions in four months. As we've seen over the last several years, the organism of collective agency and collaboration works differently in web3, and Coordinape has helped these activities form roots on OP.  38,400 contributors have used Coordinape, in over 3600 DAOs, since 2021.",
+  "contributionDescription": "Coordinape has supported DAOs and digital communities since 2021.  This summer, we launched CoSoul, our first SoulBound token and reputation primitive contract, on the Optimism network. CoSouls store metrics to make the value added by contributors using Coordinape visible, as they attest to each other's collaborations in DAOs, projects and companies. CoSoul's launch exceeded our expectation. 26,000 contributors to web3 have minted the SBTs since June. This has resulted in 46,000+ transactions, as CoSouls are synched each month with data from Coordinape, adding more clarity to the reputation map on OP.  CoSoul's have already introduced Optimism to new web3 users, and some notable web2 companies (iFood and The Many) are using Coordinape and CoSouls to kick-start Web3's impact on their orgs.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/coordinape/coordinape",
+      "description": "Coordinape repo.  Always be shipping on OP."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x47c2a56176335fb2b1ded8e7b5acb136d307dc2d",
+      "description": "CoSoul, our auto-synching rep NFT. 46,000+ transactions since launch. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/coordinape/status/1674090364926406656",
+      "description": "CoSoul launch thread, learn more about CoSoul here."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Unique Wallets with a CoSoul on OP",
+      "number": "25675",
+      "url": "https://opensea.io/collection/cosoul"
+    },
+    {
+      "description": "CoSoul Transactions on OP",
+      "number": "46523",
+      "url": "https://optimistic.etherscan.io/txs?a=0x47c2a56176335fb2b1ded8e7b5acb136d307dc2d"
+    },
+    {
+      "description": "Total Coordinape users since 2021",
+      "number": "38488",
+      "url": "https://coordinape.notion.site/Coordinape-Historical-Stats-54179d0783844dc99f87c8bdf9f6361d"
+    },
+    {
+      "description": "Total Orgs in Coordinape since 2021",
+      "number": "3642",
+      "url": "https://coordinape.notion.site/Coordinape-Historical-Stats-54179d0783844dc99f87c8bdf9f6361d"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 50000,
+      "description": "Grant to help us build CoSoul on OP"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 8000,
+      "description": "Donations to our Coordinape wallet, since 2021."
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 715,
+      "description": "CoSoul revenue (we implemented a mint fee recently to help upkeep costs)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x67d88ee0aa76c9b8048f2d67ab388c223e01fd9b860906a9648f159bdf4d89e7",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 53,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Governance Tooling"
+}

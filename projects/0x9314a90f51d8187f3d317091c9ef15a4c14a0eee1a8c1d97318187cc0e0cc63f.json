@@ -1,0 +1,86 @@
+{
+  "bio": "A peer-learning environment dedicated to building a better web, together. ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Kernel",
+  "websiteUrl": "https://www.kernel.community/en/",
+  "applicant": {
+    "address": {
+      "address": "0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98",
+      "resolvedName": {
+        "address": "0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98.png",
+    "id": "OptimistProfile|0xf5b0c37d3935626b859fa7f798a33db556aa2fc94bedaa763c8aed6ccc2e52a3"
+  },
+  "impactDescription": "Kernel's impact on Optimism is found through the fellows who interact with Optimism, the projects they build, and the impact Kernel has on their learning journey. \n\nStories of people who participated in Kernel which have directly impacted Optimism ecosystem include: \n\n- Veronica Coutts (KB1), Zain Bacchus (KB4), Tess Rinearson (KB4), and Harper Garvey (KB5) each participated in Kernel & are Optimism core contributors\n- Projects built on Optimism who participated in Kernel include $OAK (Darrell Jones, Rebecca Mqamelo), Atlantis World (Rev Miller & CJ), Coinshift (Tarun Gupta), Umbra (Ben DiFrancesco, Matt Soloman), jokedao (David Phelps) + 10 more \n\nThese people and projects have equally impacted Kernel and our ability to continue running wonderful blocks, continuing with KB8 this January.",
+  "contributionDescription": "Kernel is building critical crypto infrastructure \u2014 an open source peer-learning environment built to increase trust between participants on trust-minimized foundations.\n\nStarting with Genesis Block in May 2020, KERNEL has run seven blocks, learning with more than 1,800 KERNEL fellows who have built 200+ crypto projects. \n\nEach block has been ~300 people in size, 8 weeks long, and oriented around Kernel Fellows having a transformative learning experience.\n\n- The 1,800 Kernel Fellows, some who first made contact with crypto via Kernel, represent an incredible & diverse set of people \n- 200+ projects have been built by Kernel Fellows (including at least 18 apps deployed on Optimism) \n\nEducation is a 'root' public good, and Kernel is seeding space to foster education in crypto and beyond. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.kernel.community/en/",
+      "description": "Kernel's website, including our open source syllabus."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.kernel.community/en/build/regeneration/phoenix#living-resilience",
+      "description": "Ether's Phoenix, and Optimism's links to it are a part of the Kernel Syllabus. "
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/kernel-community/honour",
+      "description": "Honour is a weird credit system, deploying on Optimism soon."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/kernel-community/kernel-v2",
+      "description": "Kernel v2, our online peer-learning environment. "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of Kernel Fellows",
+      "number": "1800",
+      "url": "https://www.kernel.community/en/#meet-the-kernel-fellows"
+    },
+    {
+      "description": "# of Kernel Projects",
+      "number": "200",
+      "url": "https://www.kernel.community/en/#projects--teams"
+    },
+    {
+      "description": "# of Weddings Fostered ",
+      "number": "1",
+      "url": "https://www.kernel.community/en/learn/module-metta/relating-kernel"
+    },
+    {
+      "description": "# of Dinners Organized",
+      "number": "52",
+      "url": "https://docs.google.com/spreadsheets/d/1q6jX5QvZu3tVW7r3iOyrtm1M_hPspEFotNbe0r0fVZg/edit#gid=0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 132035.12,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 67,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

@@ -1,0 +1,64 @@
+{
+  "bio": "A DeFi enthusiast obsessed with layer 2 and Ethereum development ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Collins ",
+  "websiteUrl": "https://x.com/CollinsX100?t=pFhq1XCOJ5EoR29hetorgw&s=09",
+  "applicant": {
+    "address": {
+      "address": "0xC643aE4336736989dbBF0D20B3641B2A32e77Bb1",
+      "resolvedName": {
+        "address": "0xC643aE4336736989dbBF0D20B3641B2A32e77Bb1",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xC643aE4336736989dbBF0D20B3641B2A32e77Bb1"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC643aE4336736989dbBF0D20B3641B2A32e77Bb1.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb9bedc5a338e542d0c6298adcf615715554c181a88b72f85bb67990e9ea29fcf"
+  },
+  "impactDescription": "In my content, I've informed my audience about the Op Collective and its essential role in the Optimism ecosystem. This collective actively promotes innovation and development on Optimism, collaborating with projects and initiatives that align with Optimism's goals. Their work not only benefits Optimism but also has the potential to impact the broader blockchain community.",
+  "contributionDescription": "I've played a significant role in educating the blockchain community through informative threads about the OP Stack narrative. These threads focus on Optimistic Rollups, a key element of the OP Stack, and its implications for the broader Optimism ecosystem.\n\nThe OP Stack is a critical advancement in Ethereum scalability, and my threads have made it easier for both newcomers and experienced enthusiasts to understand its significance. I've provided insights into the potential benefits and challenges of these innovations, aiming to bridge the knowledge gap.\n\nIn summary, my goal has been to inform and prepare readers for the evolving landscape of blockchain technology, fostering anticipation and confidence in the Optimism ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/CollinsX100/status/1697323676801044546?t=R4cl380d_iFkPog5HgPieQ&s=19",
+      "description": "A thread on Op stack "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Twitter Impressions ",
+      "number": "419",
+      "url": "https://twitter.com/CollinsX100/status/1697323676801044546?s=19"
+    },
+    {
+      "description": "Engagement ",
+      "number": "39",
+      "url": "https://twitter.com/CollinsX100/status/1697323676801044546?s=19"
+    },
+    {
+      "description": "Detailed expand ",
+      "number": "24",
+      "url": "https://twitter.com/CollinsX100/status/1697323676801044546?s=19"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100,
+      "description": " "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb5de46d5d5a820977a5bbf1d7ce3540fc91f43c39e4cc2f9da634430bdd9a957",
+  "prelimResult": "Remove",
+  "reportReason": "['.']"
+}

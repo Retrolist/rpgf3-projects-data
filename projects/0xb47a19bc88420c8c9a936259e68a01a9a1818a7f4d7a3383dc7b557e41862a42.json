@@ -1,0 +1,52 @@
+{
+  "bio": "Simple Mind",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "tien168",
+  "websiteUrl": "https://x.com/otienmeta",
+  "applicant": {
+    "address": {
+      "address": "0x3313f2982Ed70BaDAa96Ef4A27E68E8fB7549cE3",
+      "resolvedName": {
+        "address": "0x3313f2982Ed70BaDAa96Ef4A27E68E8fB7549cE3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3313f2982Ed70BaDAa96Ef4A27E68E8fB7549cE3"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3313f2982Ed70BaDAa96Ef4A27E68E8fB7549cE3.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xf4a3a7674c2ef0479d887f4fef471ba12dd9c9471e5ccad8b1ba8891d59d7a65"
+  },
+  "impactDescription": "maybe just minor\nfor sure just bought nft nft that i can efford to bought for my long investment...................................................................................................................................................thx be4",
+  "contributionDescription": "as worth as my work, no issues\nactually idk what to described again.. as i wrote before.. i know this sign up in tele group.. so i got nothing to lose either......................................................................................thx be4",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xc8bb5ef6f172adce78a0adc478e04e1c2db7e915f8be18cc4c59492ae52acc05",
+      "description": "retropgf3"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "ERC721",
+      "number": "525775",
+      "url": "https://optimistic.etherscan.io/token/0xd89dbbd35c24e07c7727bf1ef36cd1f02aea158e?a=525775"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb47a19bc88420c8c9a936259e68a01a9a1818a7f4d7a3383dc7b557e41862a42",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,92 @@
+{
+  "bio": "I am a Content Writer/ Community Builder/Contributor/Researcher",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Pheyyii",
+  "websiteUrl": "https://mirror.xyz/0xfeA573eF9d5eD5b470311582C99c103C38C0320f",
+  "applicant": {
+    "address": {
+      "address": "0xfeA573eF9d5eD5b470311582C99c103C38C0320f",
+      "resolvedName": {
+        "address": "0xfeA573eF9d5eD5b470311582C99c103C38C0320f",
+        "name": "pheyyex.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xfeA573eF9d5eD5b470311582C99c103C38C0320f"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfeA573eF9d5eD5b470311582C99c103C38C0320f.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xfeA573eF9d5eD5b470311582C99c103C38C0320f.png",
+    "id": "OptimistProfile|0xab14df9ea238243b069b1d9e6241c9c694e2c5cdd1e13c0b3cf8377b85b83ba0"
+  },
+  "impactDescription": "I have also hosted Twitter Spaces which helped projects understand how they can contribute to and benefit from the Optimism ecosystem.\n\nI have educated lot of people in my region pay much attention to the chain and use majority of Dexes built on the chain.With these activities, users get to contribute and benefit from the ecosystem.\n\nI have taught and 2 of my Telegram members in my community Optimism are active members to the Ambassador Program in the last 7-8 months. 1 of which have successfully obtained the role of ambassador in training. \n",
+  "contributionDescription": "I create educational content about Optimism and ecosystem provide information about new activities and results of previous ones.\n\nThough My main focus is on Twitter(X) communities & Telegram posts. I am  Influencer creating a huge impact: Education/Reviews/AMAs/ Collaborations.\n\nThough my former account on Twitter  @pheyiyex was suspend i still continued share much more content on the New account @custommade_ng .\n\nLastly, I held a couple of Twitter Spaces as an Optimism ambassador-in-training with projects building and are willing to build on OP to discuss their project and the importance of RetroPGF.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://docs.google.com/document/d/1cAV-LOfJ288RVXPzqbNZ3WAcWkGv8VIHBH-E1GSId8I/edit?usp=sharing",
+      "description": "AMA Session with a review of current projects and a speech by OP ambassodr"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://t.me/OptimismAlphaHub",
+      "description": "OptimismAlphaHub is an education channel where we teach about OP ecosystem"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": " https://twitter.com/custommade_ng/status/1712749730634035677?t=WNCtp_DIuoDB_wqPPbyemA&s=19",
+      "description": "Very educative thread on OP superchian and what it means "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/custommade_ng/status/1715283060323709177?t=Jihu0Z6XrfK-LP2P1edv7w&s=19",
+      "description": "Important Terms you New to know about Optimism Ecosystem"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/0xfeA573eF9d5eD5b470311582C99c103C38C0320f/W6rFgx-31ac9HB6BHhKznvPz5Bp1dGI71BACMCJl_mM",
+      "description": "Empowering Women through Tech And Web3 featuring WomenBiz"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total No. of Article Mints",
+      "number": "7",
+      "url": "https://docs.google.com/document/d/1qPm5IsLUk5rOzWzMM1C8vZ1iScnUgGNIjaRfcbXAQfY/edit?usp=sharing"
+    },
+    {
+      "description": "Total Number of Mirror Subscribers",
+      "number": "78",
+      "url": "https://docs.google.com/document/d/1qPm5IsLUk5rOzWzMM1C8vZ1iScnUgGNIjaRfcbXAQfY/edit?usp=sharing"
+    },
+    {
+      "description": "Total Twitter impressions",
+      "number": "8315",
+      "url": "https://docs.google.com/document/d/1qPm5IsLUk5rOzWzMM1C8vZ1iScnUgGNIjaRfcbXAQfY/edit?usp=sharing"
+    },
+    {
+      "description": "Total Twitter followers",
+      "number": "9876",
+      "url": "https://docs.google.com/document/d/1qPm5IsLUk5rOzWzMM1C8vZ1iScnUgGNIjaRfcbXAQfY/edit?usp=sharing"
+    },
+    {
+      "description": "No. of Telegram Community members",
+      "number": "178",
+      "url": "https://t.me/OptimismAlphaHub"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "I have not received any grant funding before"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x193cef19d1dd1dc21d8c5eb8308f502120aa2dff8d0ef84d1032261c315040f5",
+  "prelimResult": "Remove",
+  "reportReason": "Seems to be an Ambassador"
+}

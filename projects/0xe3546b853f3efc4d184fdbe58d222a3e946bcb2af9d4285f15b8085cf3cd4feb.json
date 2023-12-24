@@ -1,0 +1,48 @@
+{
+  "bio": "environmental engineer",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Vku",
+  "websiteUrl": "https://zemberek.eth.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0x153509e78Fd04144d482E27716aE14c52d7932B0",
+      "resolvedName": {
+        "address": "0x153509e78Fd04144d482E27716aE14c52d7932B0",
+        "name": "zemberek.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x153509e78Fd04144d482E27716aE14c52d7932B0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x153509e78Fd04144d482E27716aE14c52d7932B0.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x153509e78Fd04144d482E27716aE14c52d7932B0.jpeg",
+    "id": "OptimistProfile|0x0bc4861dc65ef97c98a9b4cacfdeee914659ac46aabd88d5e7793242704987cb"
+  },
+  "impactDescription": "For me, op chain is an extraordinary technology and it has created an environment where individuals will feel more at home and this will attract people more.For me, op chain is an extraordinary technology and it has created an environment where individuals will feel more at home and this will attract people more.",
+  "contributionDescription": "For me, op chain is an extraordinary technology and it has created an environment where individuals will feel more at home and this will attract people more.For me, op chain is an extraordinary technology and it has created an environment where individuals will feel more at home and this will attract people more.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/zemberek82",
+      "description": "for me"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "download",
+      "number": "400",
+      "url": "https://github.com/zemberek82"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xe3546b853f3efc4d184fdbe58d222a3e946bcb2af9d4285f15b8085cf3cd4feb",
+  "prelimResult": "Remove",
+  "reportReason": "irrelevant answers, the links don't have any real impact"
+}

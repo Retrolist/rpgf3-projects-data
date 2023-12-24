@@ -1,0 +1,75 @@
+{
+  "bio": "Your wallets are about to disapear!",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Wallet Abstraction",
+  "websiteUrl": "https://github.com/qd-qd/wallet-abstraction",
+  "applicant": {
+    "address": {
+      "address": "0xFf3aC23EA2c27bF6994CA90f6185b60D516C1A9a",
+      "resolvedName": {
+        "address": "0xFf3aC23EA2c27bF6994CA90f6185b60D516C1A9a",
+        "name": "niard.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xFf3aC23EA2c27bF6994CA90f6185b60D516C1A9a"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFf3aC23EA2c27bF6994CA90f6185b60D516C1A9a.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFf3aC23EA2c27bF6994CA90f6185b60D516C1A9a.png",
+    "id": "OptimistProfile|0x5d8dfbfbb4280e827227d065075bfa4a5e82386a844bd09e992a1a5d028d7905"
+  },
+  "impactDescription": "Showing the Optimism community that it is possible to generate passkey credentials, set up their smart accounts, and even mint an NFT\u2014all with a single click! The wallet remains completely invisible to the user. This is a quite recent innovation so the impact is limited. However we showcased in front of a large crowd. We then received a lot of questions on 4337 related groups (4337 mafia), we are now helping different team to leverage this.\n\nDoing this project we also discovered two critical vulnerabilities in passkey implementations that were used. We did a responsible disclosure free of charges, we thus have protected users from potential loss.",
+  "contributionDescription": "Wallet Abstraction offers seamless, one-click user onboarding using only a smartphone or a laptop, thanks to the advanced features of account abstraction with passkeys. Users can generate passkey credentials, set up their smart accounts, and even mint an NFT\u2014all with a single click! The wallet remains completely invisible to the user.\n\nWe deploed on Optimism demonstrating that optimism can support this innovative (Yet very secure) wallet mechanism. By bringing this first example of complete application that includes 4337 wallet + Webauthn (Passkeys) + Seamless UX. We demonstrate that optimism can verify secp256r1 signatures for a cheap amount of gas. Which ultimately demonstrates that every recent hardware can use built in secure enclave as smart wallet.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/qd-qd/wallet-abstraction",
+      "description": "Github repo"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0xeec23d5e9b75e12984228c8e2c9ae578744368e2",
+      "description": "WebAuthn on Optimism ! "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0xd5534f16ebd32dcfc6282d1e66a32d1d0abfe569",
+      "description": "Wallet Factory"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0xda470171feb4fd852433a7a7f67e3a3918a7a154",
+      "description": "Paymaster"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0xa848a42175f941ff7ebf8daab6b70cad60be2062",
+      "description": "NFT polaroid"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Git clone",
+      "number": "40",
+      "url": "https://github.com/qd-qd/wallet-abstraction/graphs/traffic"
+    },
+    {
+      "description": "IRL & stream demo ETH global NY",
+      "number": "3500",
+      "url": "https://www.youtube.com/watch?v=UDQlDF4TWYM&t=1211s"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x89b53a59649679cb236eebf535a54d7e1cec185f6910384f3043a76a5a47d489",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 34,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Wallets"
+}

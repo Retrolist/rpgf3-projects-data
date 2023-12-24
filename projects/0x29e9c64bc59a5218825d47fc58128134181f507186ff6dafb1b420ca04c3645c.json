@@ -1,0 +1,45 @@
+{
+  "bio": "I am a crypto amateur using blockchain since 2017 and trying every projects",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Paul0zon",
+  "websiteUrl": "https://twitter.com/EnterpriseRug",
+  "applicant": {
+    "address": {
+      "address": "0x2FFd669e12d0497e8457641AC27b386bD2A3C4e4",
+      "resolvedName": {
+        "address": "0x2FFd669e12d0497e8457641AC27b386bD2A3C4e4",
+        "name": "paul0zon.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2FFd669e12d0497e8457641AC27b386bD2A3C4e4"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2FFd669e12d0497e8457641AC27b386bD2A3C4e4.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x17c233c5fe160d2cf08564042be9858b8a9aeda4890057c48dd452221e3405b6"
+  },
+  "impactDescription": "I make some content on a private discord about optimism dapp and how to use it to help people about how to develop and use optimisme and his substack as base. I'm currently developping my own token for this DAO that i will deploy soon on optimism to decentralize a bit this discord server",
+  "contributionDescription": "i used many protocols on Optimism since i discovered it and i'm using it regularly, i also made some Grants on Gitcoin to some optimism projects. Head up to all the optimism integrations such as base, opBNB and zora, pretty like this new tech with the cheapest fees available on L2",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0xb77185fa5a0d683371d6ebbc4d2fdfaf7651724a",
+      "description": "VenturaDAO token (VTR ticker)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "DAO discord members",
+      "number": "50",
+      "url": "https://discord.gg/kSCDcvd3Yk"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x29e9c64bc59a5218825d47fc58128134181f507186ff6dafb1b420ca04c3645c",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

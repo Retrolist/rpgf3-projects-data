@@ -1,0 +1,151 @@
+{
+  "bio": "The central trading and liquidity marketplace on Optimism.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Velodrome",
+  "websiteUrl": "https://velodrome.finance/",
+  "applicant": {
+    "address": {
+      "address": "0xc6E5084b11eE98da7bDBc4F9cabf5E17bb209652",
+      "resolvedName": {
+        "address": "0xc6E5084b11eE98da7bDBc4F9cabf5E17bb209652",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xc6E5084b11eE98da7bDBc4F9cabf5E17bb209652"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc6E5084b11eE98da7bDBc4F9cabf5E17bb209652.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc6E5084b11eE98da7bDBc4F9cabf5E17bb209652.png",
+    "id": "OptimistProfile|0xdee90ac522967fcea42f6a1c60a0a66e6447da709cdd8e87103990abead2d1ff"
+  },
+  "impactDescription": "Velodrome has led the growth of Optimism, enhanced the OP Stack, and expanded its network of builders. Velodrome transformed user experience on Optimism by enabling $124M in liquidity for 90+ pairs, highest of any L2 DEX, distributing $80M in rewards for LPs and veVELO voters. It has onboarded over 65 partners by reducing friction for protocols seeking to get community exposure, capital-efficient liquidity, and key resources on Optimism. It led work with OP team and 3P apps like Infura, Etherscan, and Tenderly to ensure proper servicing of the OP Stack. Velodrome contributed to the creation of Optimism's RFG program, addressing critical developer needs (e.g., RPC costs, audits). It has also enhanced its core codebase, including \"Sugar\" for onchain data to ensure OP Stack's resilience. ",
+  "contributionDescription": "Scaling Layer 2 Ethereum is a critical challenge, and Optimism faces fierce competition. Velodrome is an ecosystem public good with zero VC investment that exists solely to fuel Optimism\u2019s growth while returning 100% of protocol revenue (over $28M to date) to the ecosystem. Velodrome serves as Optimism\u2019s primary liquidity hub and onboarding engine, having recruited over 65 projects to OP, it has improved governance accountability through detailed reporting and leadership in governance, and it has enhanced the OP Stack and developer experience by developing core liquidity infrastructure while helping critical third-party infrastructure apps properly integrate Optimism.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/velodrome-finance/",
+      "description": "Velodrome Github Repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/0xkhmer/velodrome",
+      "description": "Dune dashboard showing 65 onboarded protocols and 28.7M in rewards"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/queries/3125356/5214942",
+      "description": "Dune showing a 40x+ value multiplier for OP spent on Velodrome"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/ready-gf-phase-1-proposal-velodrome-finance/3736",
+      "description": "Our OP grant application that set the bar for applications going forward"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/kelvinfichter/status/1590949723376340993?s=20",
+      "description": "Public complements from OpLabs Team of our application "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/velodrome-grant-performance-update/5998",
+      "description": "Grant accountability update that raised the bar for grants going forward"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/velodrome-grant-performance-update/5998/5",
+      "description": "Complements from Optimism staff showing the impact of this analysis"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/velodrome-finance/sugar",
+      "description": "Open source software to improve decentralization"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/velodrome-finance/oracle",
+      "description": "Open source software we built to price Optimism tokens"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/velodrome-finance/api",
+      "description": "Open source software to fetch tokens and liquidity pool pairs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.charmverse.io/op-grants/page-8605404489342339",
+      "description": "RFG program we contributed to to solve problems for builders"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Protocols Onboarded",
+      "number": "65",
+      "url": "https://dune.com/0xkhmer/velodrome"
+    },
+    {
+      "description": "Rewards Distributed to Ecosystem ($)",
+      "number": "80000000",
+      "url": "https://dune.com/0xkhmer/velodrome"
+    },
+    {
+      "description": "OP Grant Spend Stimulus Multipler",
+      "number": "38.8",
+      "url": "https://dune.com/queries/3125356/5214943"
+    },
+    {
+      "description": "Unique DEX Pools on VELO vs Other DEXs",
+      "number": "90",
+      "url": "https://dune.com/queries/3095529/5164274"
+    },
+    {
+      "description": "Daily Users VELO + Onboarded Protocols",
+      "number": "15000",
+      "url": "https://dune.com/queries/3125381/5215002"
+    },
+    {
+      "description": "Contracts Deployed by VELO Projects ",
+      "number": "500000",
+      "url": "https://dune.com/queries/3125420/5215079"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 360000,
+      "description": "Passed through as incentives to support ecosystem onboarding"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 150000,
+      "description": "Passed through as incentives to support intent \u201cSpread the Optimistic Vision\u201d,"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 4000000,
+      "description": "Passed through as incentives to support ecosystem growth"
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 3000000,
+      "description": "Passed through as incentives to support ecosystem growth"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x93977731af37cb1a984d86979b1c4e3dc421a6328fee9a15ff2c110cf0ba7ae2",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 45,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

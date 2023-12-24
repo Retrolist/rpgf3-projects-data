@@ -1,0 +1,54 @@
+{
+  "bio": "A little Elf",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Soyduende",
+  "websiteUrl": "https://forocoches.com",
+  "applicant": {
+    "address": {
+      "address": "0x5ab75f5e8b00E54671EaB7F1A4F483FB52FC2D4E",
+      "resolvedName": {
+        "address": "0x5ab75f5e8b00E54671EaB7F1A4F483FB52FC2D4E",
+        "name": "soyduende.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x5ab75f5e8b00E54671EaB7F1A4F483FB52FC2D4E"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5ab75f5e8b00E54671EaB7F1A4F483FB52FC2D4E.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5ab75f5e8b00E54671EaB7F1A4F483FB52FC2D4E.jpeg",
+    "id": "OptimistProfile|0x18956d83d6c96e975320ac4b0fb8fc3042521c8ffa596154fdb44875797d9aa6"
+  },
+  "impactDescription": "I have only contributed through delegation of votes. I am very interested in DAOs and the entire OP ecosystem, which is why I am always attentive to all new news regarding OP and its development. I think that everything it is building has enormous potential. Including its SDK to be able to build.",
+  "contributionDescription": "I have only contributed through delegation of votes. I am very interested in DAOs and the entire OP ecosystem, which is why I am always attentive to all new news regarding OP and its development. I think that everything it is building has enormous potential. Including its SDK to be able to build.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://forocoches.com",
+      "description": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "/",
+      "number": "420",
+      "url": "https://forocoches.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x170f0050060e0233bee25c373ebc3e170a39690ac46268e434ae452d793857c9",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

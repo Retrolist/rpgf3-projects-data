@@ -1,0 +1,52 @@
+{
+  "bio": "  Sum Pictures integrates blockchain technology into the production process.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "White Rabbit",
+  "websiteUrl": "https://www.sum.pictures/",
+  "applicant": {
+    "address": {
+      "address": "0xB0abAEfc47e5b244638BFE474Fb15FC33e6A1d6A",
+      "resolvedName": {
+        "address": "0xB0abAEfc47e5b244638BFE474Fb15FC33e6A1d6A",
+        "name": "sumpictures.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xB0abAEfc47e5b244638BFE474Fb15FC33e6A1d6A"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB0abAEfc47e5b244638BFE474Fb15FC33e6A1d6A.png",
+    "id": "OptimistProfile|0xde4d8da2a9a2e841b4630f447a9f5de7e3113fefaff101d0b79c09e83aafce24"
+  },
+  "impactDescription": "\n\nWe stand at a crossroads in the history of entertainment with unprecedented potential to propel the industry into new horizons.\n\nAt SUM PICTURES, we're committed to navigating this exciting landscape, driving innovation and pushing boundaries.\n\n\nIn the present landscape,\n\na mere handful of algorithm-driven executives\n\nhold the power to grant projects the green light.\n\nSum Pictures\n\ngives that power to creators and their audiences,\n\nallowing them to decide which movies get made and how.\n",
+  "contributionDescription": "\n\nSum Pictures is a Production Company\u2026 built on the Optimism network.\n\nWe are dedicated to crafting tailored solutions for today's content creators. Our driving force is the seamless integration of blockchain technology into the production process, empowering content creators and elevating the storytelling quality.\n\nWe believe in audience involvement in the filmmaking journey. Through interactive production dynamics, we invite our community to co-create films, ensuring impactful cinematic experiences.\n\nOur ecosystem combines innovative financing, audience insights, pre-screening mechanisms, and strategic distribution. This convergence fuels collaboration between content creators and audiences, ushering in a new entertainment era marked by the potential of blockchain integration.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.sum.pictures/",
+      "description": "Sum Pictures  gives the decision making power to creators and their audiences."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Members",
+      "number": "888",
+      "url": "https://www.sum.pictures/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": "Provided to establish and grow the platform."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb8bf90d384d4b252d7261962ba275ec5baf24c53633f4db5540d4573a9bf35c8",
+  "prelimResult": "Remove",
+  "reportReason": "Not possible to verify their claim that they're building on Optimism, no films are public, private sale to join as member"
+}

@@ -1,0 +1,100 @@
+{
+  "bio": "Rhino.fi is the ultimate layer 2 bridge and DeFi aggregator",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "rhino.fi",
+  "websiteUrl": "https://www.rhino.fi/",
+  "applicant": {
+    "address": {
+      "address": "0xC451b0191351ce308FdFd779D73814c910FC5eCB",
+      "resolvedName": {
+        "address": "0xC451b0191351ce308FdFd779D73814c910FC5eCB",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xC451b0191351ce308FdFd779D73814c910FC5eCB"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC451b0191351ce308FdFd779D73814c910FC5eCB.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xC451b0191351ce308FdFd779D73814c910FC5eCB.png",
+    "id": "OptimistProfile|0xabbdcdca835dfea2f5a4b4dd8bcbea302073c988b16279cc3d4b32379d53041d"
+  },
+  "impactDescription": "Rhino has worked with OP Stack core teams and Caldera to launch the rhino super-fast bridge on Day-1 of their mainnet launches so that early adopter users have a frictionless way of on-boarding to new OP Stack chains. Examples include bring the first third part bridge to deploy on opBNB, Base and Manta, The rhino bridge has also been deployed on Optimism mainet, and several upcoming OP Stack chain testnets . The rhino bridge connects these L2s with a total of 12 L2s & chains meaning users can easily on board to OP Stack chains without touching Ethereum Layer 1. This is important to ecosystem growth as it allows projects to on-board communities in a frictionless and cost-efficient manner. ",
+  "contributionDescription": "rhino has launched a super-fast, cheap and frictionless bridge that links OP Stack chains & projects and allows the easy on/off boarding of users & funds. Rhino's goal is to enable every  DeFi user (small and large) to be able to explore new DeFi frontiers. Across 12 supported chains, the rhino bridge has processed nearly 1 million transactions, with over 348,000 unique users. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0bca65bf4b4c8803d2f0b49353ed57caaf3d66dc",
+      "description": "Rhino Optimism bridge contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x2f59e9086ec8130e21bd052065a9e6b2497bb102",
+      "description": "Rhino Base bridge contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://opbnbscan.com/address/0x2b4553122d960ca98075028d68735cc6b15deeb5",
+      "description": "Rhino opBNB bridge contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://manta-pacific.calderaexplorer.xyz/address/0x2B4553122D960CA98075028d68735cC6b15DeEB5",
+      "description": "Rhino Manta bridge contract"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Rhino bridge unique users",
+      "number": "348202",
+      "url": "https://app.rhino.fi/stats"
+    },
+    {
+      "description": "Optimism Rhino Bridge Txs",
+      "number": "34658",
+      "url": "https://optimistic.etherscan.io/address/0x0bca65bf4b4c8803d2f0b49353ed57caaf3d66dc"
+    },
+    {
+      "description": "Base Rhino Bridge Txs",
+      "number": "16216",
+      "url": "https://basescan.org/address/0x2f59e9086ec8130e21bd052065a9e6b2497bb102"
+    },
+    {
+      "description": "Manta Rhino Bridge Txs",
+      "number": "11074",
+      "url": "https://manta-pacific.calderaexplorer.xyz/address/0x2B4553122D960CA98075028d68735cC6b15DeEB5"
+    },
+    {
+      "description": "opBNB Rhino Bridge TXs",
+      "number": "7292",
+      "url": "https://opbnbscan.com/address/0x2b4553122d960ca98075028d68735cc6b15deeb5"
+    },
+    {
+      "description": "Ethereum Rhino Bridge TXs 1",
+      "number": "42053",
+      "url": "https://etherscan.io/address/0xaf8ae6955d07776ab690e565ba6fbc79b8de3a5d"
+    },
+    {
+      "description": "Ethereum Rhino Bridge TXs 2",
+      "number": "47260",
+      "url": "https://etherscan.io/address/0x5d22045daceab03b158031ecb7d9d06fad24609b"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "rhino charges a small fee on each rhino bridge transaction for external LPs"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd6da51fe10242debbb67dd488f20c69c00d2bcbae43cb22ccfb90f0e255ad580",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 33,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

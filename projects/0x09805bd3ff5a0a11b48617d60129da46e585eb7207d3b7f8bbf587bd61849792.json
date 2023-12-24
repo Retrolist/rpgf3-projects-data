@@ -1,0 +1,54 @@
+{
+  "bio": "Liquidity and trading hub for Base",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Equalizer",
+  "websiteUrl": "https://base.equalizer.exchange/",
+  "applicant": {
+    "address": {
+      "address": "0x74293A57d7f6B9F6C5580CE50aaE3f10A0a09C56",
+      "resolvedName": {
+        "address": "0x74293A57d7f6B9F6C5580CE50aaE3f10A0a09C56",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x74293A57d7f6B9F6C5580CE50aaE3f10A0a09C56"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x74293A57d7f6B9F6C5580CE50aaE3f10A0a09C56.png",
+    "id": "OptimistProfile|0x171eeaf4979ca404ca6454ee5d01d59e37a628a86e6f9d43ae04596d559a5bcd"
+  },
+  "impactDescription": "We have begun onboarding new users to the base chain and are actively nurturing relationships with various projects, all the while educating the user base about the systems available for on-chain use. Our efforts have met with considerable success in aiding new on-chain users in comprehending the DEFI ecosystem and providing liquidity to network users.",
+  "contributionDescription": "We've successfully launched our foundational governed liquidity layer and are committed to elevating it further with continuous enhancements and expansions. Our deployment offers a seamless liquidity flow that rewards both liquidity providers and veSCALE token holders. In addition to our cutting-edge technology, we're dedicated to providing an educational series that empowers users in navigating our product and the broader DeFi landscape.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/token/0x54016a4848a38f257B6E96331F7404073Fd9c32C",
+      "description": "Contract address"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.equalizer.exchange/scale-base/",
+      "description": "Docs"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "DefiLlama",
+      "number": "8",
+      "url": "https://defillama.com/chain/Base"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x09805bd3ff5a0a11b48617d60129da46e585eb7207d3b7f8bbf587bd61849792",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 30,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

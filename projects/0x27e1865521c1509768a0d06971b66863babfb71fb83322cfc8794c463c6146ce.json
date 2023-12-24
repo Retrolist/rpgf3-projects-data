@@ -1,0 +1,55 @@
+{
+  "bio": "I am Rohan, Crypto currency trader and alpha/beta tester.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Rohan",
+  "websiteUrl": "https://linktr.ee/Rohan9110",
+  "applicant": {
+    "address": {
+      "address": "0x109B1f6cE3CAF4079163ea0de392b818ed9144a2",
+      "resolvedName": {
+        "address": "0x109B1f6cE3CAF4079163ea0de392b818ed9144a2",
+        "name": "thunder.robots.farm"
+      }
+    },
+    "id": "Delegate|Delegate|0x109B1f6cE3CAF4079163ea0de392b818ed9144a2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x109B1f6cE3CAF4079163ea0de392b818ed9144a2.png",
+    "id": "OptimistProfile|0xd1f1b240e7f43fd4284e73e6d6016187d0051944584fe06c711a0b8ae23eb0c6"
+  },
+  "impactDescription": "I want to receive RetroPGF so that I can get new equipment for node running so that I can give better feedback for new project that are under development. This RetroGPF will help me a lot and also give me motivation to fulfill my goal . I want to become one of the best Project tester in the world.",
+  "contributionDescription": "I want to receive RetroPGF so that I can get new equipment for node running so that I can give better feedback for new project that are under development. This RetroGPF will help me a lot and also give me motivation to fulfill my goal . I want to become one of the best Project tester in the world.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://linktr.ee/Rohan9110",
+      "description": "I have participated in various testnet."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "26 test done",
+      "number": "26",
+      "url": "https://linktr.ee/Rohan9110"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x27e1865521c1509768a0d06971b66863babfb71fb83322cfc8794c463c6146ce",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

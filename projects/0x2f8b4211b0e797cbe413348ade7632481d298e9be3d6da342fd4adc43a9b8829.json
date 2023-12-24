@@ -1,0 +1,54 @@
+{
+  "bio": "Stay optimistic ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Wizberry ",
+  "websiteUrl": "https://linktr.ee/wizberry203",
+  "applicant": {
+    "address": {
+      "address": "0xb4df3154b7Aa88ece7C91679DfdD35C6491719D6",
+      "resolvedName": {
+        "address": "0xb4df3154b7Aa88ece7C91679DfdD35C6491719D6",
+        "name": "wizberry303.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xb4df3154b7Aa88ece7C91679DfdD35C6491719D6"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb4df3154b7Aa88ece7C91679DfdD35C6491719D6.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb4df3154b7Aa88ece7C91679DfdD35C6491719D6.png",
+    "id": "OptimistProfile|0xe593780d8e1a0ad018dd06999ab4f26447ccf7bce45f2f93faad6391b094dd59"
+  },
+  "impactDescription": "I have participated in optimism campaigns, super chain, mint.fun and my gitcoin passport is Onchain in optimism network. I also follow your Twitter handle and listen to optimism podcast on Wednesdays and I really appreciate this opportunity.\nThank you optimism \ud83d\udd34\u2764\ufe0f",
+  "contributionDescription": "I have participated in optimism campaigns, super chain, mint.fun and my gitcoin passport is Onchain in optimism network. I also follow your Twitter handle and listen to optimism podcast on Wednesdays and I really appreciate this opportunity.\nThank you optimism \ud83d\udd34\u2764\ufe0f",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x4677259e0184228ae4fc1b635d7198e93770508b4a0b829d75bb4df06422b8ae",
+      "description": "Gitcoin Onchain "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Polynomial ",
+      "number": "7",
+      "url": "https://t.co/n5M5VF5rgf"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "Coinbase wallet "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2f8b4211b0e797cbe413348ade7632481d298e9be3d6da342fd4adc43a9b8829",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

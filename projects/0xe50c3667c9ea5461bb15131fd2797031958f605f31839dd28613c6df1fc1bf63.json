@@ -1,0 +1,55 @@
+{
+  "bio": "the more united we are, the stronger we are",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "katut",
+  "websiteUrl": "https://twitter.com/JulioPe27734345",
+  "applicant": {
+    "address": {
+      "address": "0x17fE5F37E24bD76272DA9364e4B2b7D186a562f7",
+      "resolvedName": {
+        "address": "0x17fE5F37E24bD76272DA9364e4B2b7D186a562f7",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x17fE5F37E24bD76272DA9364e4B2b7D186a562f7"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x17fE5F37E24bD76272DA9364e4B2b7D186a562f7.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x38072c25e1dc752c266b716a9b4517698bd8c9899139738b8bbe62346982c0c1"
+  },
+  "impactDescription": "I can contribute to a more collaborative and positive environment. Through generating ideas and constructive discussions, I can contribute to the development of solutions to complex challenges such as climate change, poverty and global health. I can assist with education and skills development in a variety of areas, which can lead to an increase in confidence",
+  "contributionDescription": "I am available to help with whatever is needed. I'm in the crypto world 100%\nparticipo em varias comunidades portuguesas, brazileiras e americanas. posso ajudar na parte de marqting, divulga\u00e7ao e sempre que encontre algum bug passo para a equipa. tou disposto aprender e a evoluir ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/juliokatut",
+      "description": "contribute "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "collaborative ",
+      "number": "100",
+      "url": "https://twitter.com/JulioPe27734345"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 5,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe50c3667c9ea5461bb15131fd2797031958f605f31839dd28613c6df1fc1bf63",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

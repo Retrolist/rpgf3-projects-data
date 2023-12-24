@@ -1,0 +1,58 @@
+{
+  "bio": "As a result of my help and guidiance new users are able to onboard easily.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "TTScofield",
+  "websiteUrl": "https://x.com/TTScofield_",
+  "applicant": {
+    "address": {
+      "address": "0xF64Ecd64c551D494221A088b2E03bD122B7EA28E",
+      "resolvedName": {
+        "address": "0xF64Ecd64c551D494221A088b2E03bD122B7EA28E",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xF64Ecd64c551D494221A088b2E03bD122B7EA28E"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x2d9af7702cea9e5a8bb2f3a0d4a71e106ed40d1831fca014c3a8c29a09e339e0"
+  },
+  "impactDescription": "As a result of my help and guidiance new users are able to onboard easily into the optimism ecosystem daily. I am always happy to help my community and answer  questions related to the optimism ecosystem daily. \nhttps://optimistic.etherscan.io/address/0xF64Ecd64c551D494221A088b2E03bD122B7EA28E",
+  "contributionDescription": "As a result of my help and guidiance new users are able to onboard easily into the optimism ecosystem daily. I am always happy to help my community and answer  questions related to the optimism ecosystem daily. As a result of my help and guidiance new users are able to onboard easily into the optimism ecosystem daily. I am always happy to help my community and answer  questions related to the optimism ecosystem daily.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xF64Ecd64c551D494221A088b2E03bD122B7EA28E",
+      "description": "https://optimistic.etherscan.io/"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xF64Ecd64c551D494221A088b2E03bD122B7EA28E",
+      "description": "0xF64Ecd64c551D494221A088b2E03bD122B7EA28E"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "https://optimistic.etherscan.io/address/",
+      "number": "10",
+      "url": "https://optimistic.etherscan.io/address/0xF64Ecd64c551D494221A088b2E03bD122B7EA28E"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x00279c5fc732e0a66f2088dbe4f24e4f9ebd455cf4906ea8106a1c5c86c43bb7",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

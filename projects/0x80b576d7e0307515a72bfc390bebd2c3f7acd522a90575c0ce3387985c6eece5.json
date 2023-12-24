@@ -1,0 +1,65 @@
+{
+  "bio": "Accelerating R&D of interactive private communication mechanisms",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Private Retrieval Fund",
+  "websiteUrl": "https://github.com/protocol/research-grants/blob/master/RFPs/rfp-014-private-retrieval-of-data.md",
+  "applicant": {
+    "address": {
+      "address": "0xbd43CDeDaaF8CFCFeC0C6597edF748FE402F6F00",
+      "resolvedName": {
+        "address": "0xbd43CDeDaaF8CFCFeC0C6597edF748FE402F6F00",
+        "name": "willscott.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xbd43CDeDaaF8CFCFeC0C6597edF748FE402F6F00"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbd43CDeDaaF8CFCFeC0C6597edF748FE402F6F00.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xbd43CDeDaaF8CFCFeC0C6597edF748FE402F6F00.jpeg",
+    "id": "OptimistProfile|0xdca9e26ae0d75eac63571d5c66914a16f5a50ac8ddc8749625b812ce4b614a2e"
+  },
+  "impactDescription": "Accelerated the availability of more private communication options. Supporting the transition of research to practice allows for more things like https://spiraldb.xyz/balances/  - Impact both through direct distribution of capital, and through regular talks (e.g https://speak.protocol.berlin/protocol-berg/talk/Y7HNG9/, ethCC, HCPP, etc) to bridge research results to the web3 community.",
+  "contributionDescription": "In the last year, we completed a first iteration of a public goods funding structure targeting the advancement of private data transfer. \n* Set up an advisory committee and program structure\n* Disbursed 750k to research groups working on private information retrieval and homomorphic encryption.\n\nThis fund both advances a clear, narrow, mission and serves as a test case for the public goods funding discussion at protocol labs and more broadly around the funding the commons community.\n\nNote on the existing grants / funding: 100% of the initial startup funding has been treated as funds for grant-making. The entity has run so far with 0% overhead, and has not provided compensation to the advisory committee or program officers.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/protocol/research-grants/blob/master/RFPs/rfp-014-private-retrieval-of-data.md",
+      "description": "RFP for grant applications"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://arcological.xyz/#private-retrieval-pool",
+      "description": "Legal structure coordinating logistics"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/willscott",
+      "description": "Personal github profile"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Amount funded",
+      "number": "750000",
+      "url": "https://research.protocol.ai/blog/2023/private-retrieval-grant-2023-roundup/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1500000,
+      "description": "Protocol Labs startup grant"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x80b576d7e0307515a72bfc390bebd2c3f7acd522a90575c0ce3387985c6eece5",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 7,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

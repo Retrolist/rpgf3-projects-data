@@ -1,0 +1,73 @@
+{
+  "bio": "I am a blockchain engineer who specializes in in smart contract development",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "monaditar",
+  "websiteUrl": "https://github.com/Ratimon",
+  "applicant": {
+    "address": {
+      "address": "0x1213252504D3939623FC345cbbAf1Bdf42E6393F",
+      "resolvedName": {
+        "address": "0x1213252504D3939623FC345cbbAf1Bdf42E6393F",
+        "name": "rati.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x1213252504D3939623FC345cbbAf1Bdf42E6393F"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xabec69e26effd924fffe7362aac0fdb605195a0e21694f44e6b03bd8e9c209ae"
+  },
+  "impactDescription": "Referring to Optimism monorepo \u2018s issue ( https://github.com/ethereum-optimism/optimism/issues/4980):\n\nThe smart contracts for Optimism\u2019s \u00a0Bedrock \u00a0includes a set of test suites \u00a0written with\u00a0Echidna\u00a0for property testing. These contracts also have a set of test suites with Forge  for invariant tests.\n\nIn order to improving security and standardize tooling of OP stack, OP Labs is looking for contributors to help converting the Echidna tests into to Forge invariant tests.\n\nI has completed this task by opening and getting them merged the following 6 PRs:",
+  "contributionDescription": "1) Refactoring Optimism Codebase for Security & Standardization\n\nOP Stack has technical debt as tests suites are split between two different frameworks. To solve this, I have refactored the code and standardized into single framework\\ and make sure that we\u2019re covering every possible case  and that we\u2019re not missing anything, improving security.\n\nI has done this by opening and getting them merged the following 6 PRs:",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/optimism/pull/5795",
+      "description": "1) Refactoring Optimism Codebase for Security & Standardization"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/optimism/pull/5822",
+      "description": "1) Refactoring Optimism Codebase for Security & Standardization"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/optimism/pull/5836",
+      "description": "1) Refactoring Optimism Codebase for Security & Standardization"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/optimism/pull/5851",
+      "description": "1) Refactoring Optimism Codebase for Security & Standardization"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/optimism/pull/5852",
+      "description": "1) Refactoring Optimism Codebase for Security & Standardization"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/optimism/pull/5985",
+      "description": "1) Refactoring Optimism Codebase for Security & Standardization"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of PR closed",
+      "number": "6",
+      "url": "https://github.com/ethereum-optimism/optimism/issues/4980"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x97bc27f4ab99c45096bbea630f68b1205ef736c609d1225167f1d1aa7ebc35c3",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 13,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack development & research"
+}

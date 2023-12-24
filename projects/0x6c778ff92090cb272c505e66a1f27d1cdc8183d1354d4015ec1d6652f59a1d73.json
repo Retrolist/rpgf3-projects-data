@@ -1,0 +1,55 @@
+{
+  "bio": "Wiki GRAY",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "GRAY",
+  "websiteUrl": "https://vi.m.wikipedia.org/wiki/Gray_(ca_s%C4%A9)",
+  "applicant": {
+    "address": {
+      "address": "0x3207446dD7fDefa5Dd9F66e89F0F49070afc5731",
+      "resolvedName": {
+        "address": "0x3207446dD7fDefa5Dd9F66e89F0F49070afc5731",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3207446dD7fDefa5Dd9F66e89F0F49070afc5731"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3207446dD7fDefa5Dd9F66e89F0F49070afc5731.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3207446dD7fDefa5Dd9F66e89F0F49070afc5731.jpeg",
+    "id": "OptimistProfile|0x7d03f0d71c163e4ef2fb15d1f2f9b1ffae962eabf894efe11f7d8763dd151d67"
+  },
+  "impactDescription": "I have experienced it all in the optimism ecosystem and look forward to experiencing optimism more. Thanks.\nThank you ecosystem for giving me a wonderful experience and bringing me to Optimism, which I really like.\nAnd then I want to say that if the world develops more and more in the future, hopefully the optimism ecosystem will develop more and more good luck Optimism",
+  "contributionDescription": "I have experienced it all in the optimism ecosystem and look forward to experiencing optimism more. Thanks.\nThank you ecosystem for giving me a wonderful experience and bringing me to Optimism, which I really like.\nAnd then I want to say that if the world develops more and more in the future, hopefully the optimism ecosystem will develop more and more good luck Optimism",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://vi.m.wikipedia.org/wiki/Gray_(ca_s%C4%A9)",
+      "description": "1"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "No",
+      "number": "13",
+      "url": "https://vi.m.wikipedia.org/wiki/Gray_(ca_s%C4%A9)"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 13700,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6c778ff92090cb272c505e66a1f27d1cdc8183d1354d4015ec1d6652f59a1d73",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

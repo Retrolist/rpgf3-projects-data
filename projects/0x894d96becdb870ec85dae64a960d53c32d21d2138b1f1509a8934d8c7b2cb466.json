@@ -1,0 +1,45 @@
+{
+  "bio": "Build On Optimism",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Darmo Scatter",
+  "websiteUrl": "https://twitter.com/RejekiMenjemput",
+  "applicant": {
+    "address": {
+      "address": "0x431bad1ba1EE3debEc06c31672b6d03Da801248f",
+      "resolvedName": {
+        "address": "0x431bad1ba1EE3debEc06c31672b6d03Da801248f",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x431bad1ba1EE3debEc06c31672b6d03Da801248f"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x431bad1ba1EE3debEc06c31672b6d03Da801248f.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x19a3d357ccb449739810c4fc9343a2785d47b4bbcd434de8fd0dc870e0a4d2d8"
+  },
+  "impactDescription": "Optimism is very fast for transactions.\nso I will provide a little lesson for friends and family\nSo let's build this network together for proper planning and governance\nOptimism is very fast for transactions.\nso I will provide a little lesson for friends and family\nSo let's build this network together for proper planning and governance",
+  "contributionDescription": "Optimism is very fast for transactions.\nso I will provide a little lesson for friends and family\nSo let's build this network together for proper planning and governance\nOptimism is very fast for transactions.\nso I will provide a little lesson for friends and family\nSo let's build this network together for proper planning and governance\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/RejekiMenjemput",
+      "description": "good project"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "ok",
+      "number": "12",
+      "url": "https://twitter.com/RejekiMenjemput"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x894d96becdb870ec85dae64a960d53c32d21d2138b1f1509a8934d8c7b2cb466",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

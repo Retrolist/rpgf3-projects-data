@@ -1,0 +1,63 @@
+{
+  "bio": "Member @420time8 Catmander of @wildcatalliance . Web",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Mariocodes21 ",
+  "websiteUrl": "https://X.com/@420time8/Mariocodes21",
+  "applicant": {
+    "address": {
+      "address": "0x317A8C15eF921Ea907b4Daf831ED05E72BE4248a",
+      "resolvedName": {
+        "address": "0x317A8C15eF921Ea907b4Daf831ED05E72BE4248a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x317A8C15eF921Ea907b4Daf831ED05E72BE4248a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x317A8C15eF921Ea907b4Daf831ED05E72BE4248a.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x317A8C15eF921Ea907b4Daf831ED05E72BE4248a.png",
+    "id": "OptimistProfile|0x318fd447482b7ef30bbd5b7d6403f17b8b51d40bd8e2faee699dd68ab716c8cf"
+  },
+  "impactDescription": "I have completed all quests on coinbase for RPGF2 . Set up my avatar op nft that I have also updated .  Made numerous transactions over the op network.  Delegate op eth  own nfts on the op network & Used end user dapps I.e bridge swap ect . I have posted my journey on X.com/@420time8 . I have shared my experience in twitter spaces & had onboarded 2 followers during RPGF2 . Helping them design there own avatar.  ",
+  "contributionDescription": "I have made numerous transactions on the op network.  Set up a avatar during round 2 Finnished all quests on coinbase  updated my avatar. Used the bridge , swap , collected several nfts . Delegate eth . Posted content about the op network @420time8 & helped in the governance of the op network by staking for over 7 day period ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0xaacb189dbfb4c53ca144a0dfc0860fff7dd2b8e3?a=935",
+      "description": "Optimistic goes superchain nft "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x2335022c740d17c2837f9c884bfe4ffdbf0a95d5?a=282473441868993212683103256407285751835030463626",
+      "description": "OP collective avatar "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#mariocodes21",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/token/0x7e44600c4a3b7698d72e3f7f5eebee371ea7b9f3?a=3474"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 10,
+      "description": "Reward for completing coinbase  quests "
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "N/A"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3887b1d28330e08e79257b0d48753ade5a45b8c7ed25600c037f88c704b74084",
+  "prelimResult": "Remove",
+  "reportReason": "out of scope"
+}

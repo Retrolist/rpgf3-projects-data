@@ -1,0 +1,58 @@
+{
+  "bio": "Free tax calculator software for DAO contributors",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Taxman: The Web3 Income Tax Helper ",
+  "websiteUrl": "https://taxman.banklesscard.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0x74fa01a5D0ef8039f1E14F4d4C8f90e8602e07B4",
+      "resolvedName": {
+        "address": "0x74fa01a5D0ef8039f1E14F4d4C8f90e8602e07B4",
+        "name": "monkeydlinks.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x74fa01a5D0ef8039f1E14F4d4C8f90e8602e07B4"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x74fa01a5D0ef8039f1E14F4d4C8f90e8602e07B4.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x74fa01a5D0ef8039f1E14F4d4C8f90e8602e07B4.png",
+    "id": "OptimistProfile|0x83bf7386fed4040fd63a9aca9a9668f2a5ac1cb187c150ca6f715b1e2e9e5dd3"
+  },
+  "impactDescription": "Taxman helped many DAO contributors (especially at BanklessDAO) calculate their tax liability while they earned, reducing stress during tax season.  This reduced stress smooths out the contribution process, encouraging contributors to keep contributing year after year.  \n\nMany contributors at BanklessDAO who used Taxman are working on education and awareness projects for the Optimism Collective.  Taxman supports these contributors so they can do their best work for the collective.",
+  "contributionDescription": "Fast, free, and built for web3 contributors, Taxman is a quick and easy tool to calculate DAO income taxes.\n\nTaxman was built in BanklessDAO, a landing place for new web3 contributors.  One of the biggest surprises facing new contributors is the tax liability they take on when accepting tokens for their work. The 2021 tax season was especially bad, as token prices fell by 80-90%, leaving contributors with a hefty, surprise tax bill and reduced ability to pay.  Many contributors walked away from the space entirely.\n\nTo solve this, Taxman allows anyone to calculate their DAO income taxes in their own fiat currency in 10 minutes.  DAO contributors can set aside taxes as they earn, avoiding a surprise tax bill, giving them piece of mind to continue contributing to they web3 projects they love.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Bankless-Card/bcard-taxman-wireframe",
+      "description": "Github repo of the website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://taxman.banklesscard.xyz/",
+      "description": "Live Taxman website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Unique users helped",
+      "number": "95",
+      "url": "https://analytics.google.com/analytics/web/#/p370991330/reports/intelligenthome"
+    },
+    {
+      "description": "DAO communities helped",
+      "number": "7",
+      "url": "https://taxman.banklesscard.xyz/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x0e5974f587724bffd2ef6415c468f96a65a2749ab920a3c7ef14567fd6480a11",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 18,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Portfolio Tracker"
+}

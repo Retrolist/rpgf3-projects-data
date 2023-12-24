@@ -1,0 +1,46 @@
+{
+  "bio": "crypto user",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "mixed",
+  "websiteUrl": "https://www.twitter.com/ahmurat09",
+  "applicant": {
+    "address": {
+      "address": "0xb0Aa6DF0B24a7b4EA679FD031cE753526d3Bdb23",
+      "resolvedName": {
+        "address": "0xb0Aa6DF0B24a7b4EA679FD031cE753526d3Bdb23",
+        "name": "maxego.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xb0Aa6DF0B24a7b4EA679FD031cE753526d3Bdb23"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb0Aa6DF0B24a7b4EA679FD031cE753526d3Bdb23.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb0Aa6DF0B24a7b4EA679FD031cE753526d3Bdb23.jpeg",
+    "id": "OptimistProfile|0x6df0c5c6ae9a5df5bb2e7ed7ed315f41cecad70f4bd8da8122e36ea97279f749"
+  },
+  "impactDescription": "I have tested many things with the transactions I made on the optimisim network. I also gave feedback. This allowed me to grow as a user. I also provided a good return to the ecosystem. I continue to follow for any new developments that may come. Optimism is the network I care most about right now.",
+  "contributionDescription": "I am a crypto user. More than half of all my transactions were made on the optimisim network. The reason for this is, firstly, that the optimisim network is very cheap and its market cap is diverse. Also very reliable. While testing the zksync and base network recently, I performed all bridging using the optimisim network. Also, for the layerzero potential airdrop, I made most of my transactions on the optimisim network. Check my wallet address and see how many transactions I have. Most of my NFTs are in the optimism network",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0xb0Aa6DF0B24a7b4EA679FD031cE753526d3Bdb23",
+      "description": "optimisim scan"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "optimisim scan",
+      "number": "300",
+      "url": "https://optimistic.etherscan.io/address/0xb0Aa6DF0B24a7b4EA679FD031cE753526d3Bdb23"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x167d023612b641d521c59160dcb99271d891a7b781f0d7b2148129fd7c32ac7d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

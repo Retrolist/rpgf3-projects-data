@@ -1,0 +1,52 @@
+{
+  "bio": "Cool",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "galxe",
+  "websiteUrl": "https://twitter.com/zxy666eth",
+  "applicant": {
+    "address": {
+      "address": "0x53Fa36F336d8909274e339B539D178Ed11Ae52E0",
+      "resolvedName": {
+        "address": "0x53Fa36F336d8909274e339B539D178Ed11Ae52E0",
+        "name": "mazymdar.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x53Fa36F336d8909274e339B539D178Ed11Ae52E0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x53Fa36F336d8909274e339B539D178Ed11Ae52E0.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x53Fa36F336d8909274e339B539D178Ed11Ae52E0.png",
+    "id": "OptimistProfile|0x78ef9c67982084cc771bf64b875fb91b9cc39f76de2e348854fe3eba49d94544"
+  },
+  "impactDescription": "make fun ! so cool~I have done work which has increased the number of active users in the Optimism ecosystem.If so, you could be eligible for some of the  30,000,000 OP being allocated in RetroPGF 3!Sign up now  (deadline to do so is October 23rd).Any contributions which support end-user adoption could qualify, including onboarding new users to Optimism, Optimism-focused content creation, Layer 2 education, and more.",
+  "contributionDescription": "so cool~I have done work which has increased the number of active users in the Optimism ecosystem.If so, you could be eligible for some of the  30,000,000 OP being allocated in RetroPGF 3!Sign up now  (deadline to do so is October 23rd).Any contributions which support end-user adoption could qualify, including onboarding new users to Optimism, Optimism-focused content creation, Layer 2 education, and more.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/zxy666eth",
+      "description": "cool"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "jpg",
+      "number": "420",
+      "url": "https://twitter.com/zxy666eth"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x32f23f393c664acdfa5f35c0f9f263992357fd2cae298bc9d4f2b351ee1ad8c8",
+  "prelimResult": "Remove",
+  "reportReason": "spam"
+}

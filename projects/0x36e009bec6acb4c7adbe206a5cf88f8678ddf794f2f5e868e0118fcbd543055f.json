@@ -1,0 +1,71 @@
+{
+  "bio": "DefiLab: Open-source tools for DeFi risk & reward analysis. Founded in 2020",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Defi-lab.xyz",
+  "websiteUrl": "https://defi-lab.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0x9fe6764778db6AD5c5ED86242485d1a868a8c52A",
+      "resolvedName": {
+        "address": "0x9fe6764778db6AD5c5ED86242485d1a868a8c52A",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9fe6764778db6AD5c5ED86242485d1a868a8c52A"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9fe6764778db6AD5c5ED86242485d1a868a8c52A.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9fe6764778db6AD5c5ED86242485d1a868a8c52A.jpeg",
+    "id": "OptimistProfile|0x2c3d6ef115deed3af33822d98ea3d4bc506bafafe55b3803feab43621b15a2f6"
+  },
+  "impactDescription": "Our project empowers DeFi users on Optimism by providing insightful risk-reward analyses for liquidity provision across multiple protocols, including Uniswap and Perpetual Protocol. By offering this support, we aim to unlock new capital streams, thereby contributing to the accelerated growth and activity on the Optimism network.",
+  "contributionDescription": "We are actively contributing to the Optimism ecosystem by developing open-source tools designed to help DeFi users make informed decisions about liquidity provision. Our tools are free to use and focus on quantifying both the risks and rewards associated with various DeFi protocols. Specifically, we have created two key tools tailored for Optimism:\n\nUniswap V3 Strategy Simulator and Backtester for Optimism\nPerpetual Protocol Strategy Simulator and Backtester for Optimism",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/DefiLab-xyz",
+      "description": "Open source code for our project"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Monthly active users",
+      "number": "5000",
+      "url": "https://defi-lab.xyz/"
+    },
+    {
+      "description": "Github stars",
+      "number": "89",
+      "url": "https://github.com/DefiLab-xyz"
+    },
+    {
+      "description": "Github forks",
+      "number": "38",
+      "url": "https://github.com/DefiLab-xyz"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 30000,
+      "description": "Uniswap Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 50000,
+      "description": "Gitcoin contribution"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x36e009bec6acb4c7adbe206a5cf88f8678ddf794f2f5e868e0118fcbd543055f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 18,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

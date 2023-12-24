@@ -1,0 +1,46 @@
+{
+  "bio": "Keep Moving Forward",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "0xfari",
+  "websiteUrl": "https://twitter.com/fariverse",
+  "applicant": {
+    "address": {
+      "address": "0xA5B5E889BAcB66162Cd08734b271D6Cd467Bde5C",
+      "resolvedName": {
+        "address": "0xA5B5E889BAcB66162Cd08734b271D6Cd467Bde5C",
+        "name": "0xfari.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xA5B5E889BAcB66162Cd08734b271D6Cd467Bde5C"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA5B5E889BAcB66162Cd08734b271D6Cd467Bde5C.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA5B5E889BAcB66162Cd08734b271D6Cd467Bde5C.png",
+    "id": "OptimistProfile|0xa198ac3c6e61969f0cfb7cc1ebbdacd5035c039c11e96d1e4dc892a1016e7cdb"
+  },
+  "impactDescription": "As airdrop hunter. I was make a chance for Optimism Chain TVL growth significally because my contribution i join for a long time since 2020 until now i am still active user in Optimism Chain and make Optimism Ecosystems change to have a bright future",
+  "contributionDescription": "I have make a many transaction on Optimism Chain and make contribution for growth in Optimism Ecosystem. I an airdrop hunter and make a various retroactive for any chain and primarily in Optimism Mainnet. I have done delegate OP and join for voting in governance activity. Wish me luck!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xA5B5E889BAcB66162Cd08734b271D6Cd467Bde5C",
+      "description": "This is my wallet address as active user in Optimism Mainnet"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Wallet Address",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0xA5B5E889BAcB66162Cd08734b271D6Cd467Bde5C"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x0bf0ba0fd6b01e29f62617f1c9e2b7c4e318e96676a12ba723d01a05592f193d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

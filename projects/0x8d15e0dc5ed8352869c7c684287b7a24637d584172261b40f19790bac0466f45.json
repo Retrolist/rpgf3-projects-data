@@ -1,0 +1,90 @@
+{
+  "bio": "Building open source Ethereum indexing software and services",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Index Supply",
+  "websiteUrl": "https://indexsupply.com",
+  "applicant": {
+    "address": {
+      "address": "0x50e398dD1C648283Eda71D3aB3Ea43Bf4b97aFD6",
+      "resolvedName": {
+        "address": "0x50e398dD1C648283Eda71D3aB3Ea43Bf4b97aFD6",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x50e398dD1C648283Eda71D3aB3Ea43Bf4b97aFD6"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x388732b1a1dc9526bed4fb327664a25e44c2b7b08abccc16d4f58408da1d36a9"
+  },
+  "impactDescription": "E2PG has enabled several projects (popular NFT websites, erc4337 wallet, MUD games) to index data across many OP L2 chains.\n\nRLPS was one of the first hosted node providers for the bedrock release. Since then we've made it dead simple to boot up an E2PG indexer and have it be connected to Optimism and Base to start indexing data across those chains. To my knowledge, E2PG + RLPS is the quickest way to get data from multiple L2 chains into a Postgres database. I don't believe any of the hosted API providers are as easy to setup or are as fast as RLPS to index historical data.",
+  "contributionDescription": "2 things: E2PG and RLPS (hosted nodes optimized for indexers)\n\nE2PG is an open source Ethereum to Postgres indexer. It connects to an Ethereum source, parses blocks, transactions, and logs and maps data onto PG tables. A single E2PG can index events across many L2s into a single Postgres database. E2PG connects to Ethereum by 1 of 3 ways: JSON RPC API, full node file system (fast), or using RLPS (slower than full node but faster than JSON RPC).\n\nRLPS is an HTTP API that delivers compressed RLP data for: blocks, transactions, and logs designed specifically for indexers. Index Supply hosted RLPS runs on many chains including the following OP L2s: 10, 420, 8453, and 84531. Index Supply operates a full nodes (op-geth, op-node) for each hosted RLPS API.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/indexsupply/x",
+      "description": "Main E2PG/RLPS Repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://10.rlps.indexsupply.net",
+      "description": "Optimism RLPS API"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://420.rlps.indexsupply.net",
+      "description": "Optimism Goerli RLPS API"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://8453.rlps.indexsupply.net",
+      "description": "Base RLPS API"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://84531.rlps.indexsupply.net",
+      "description": "Base Goerli API"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/indexsupply/status/1689406311501369345",
+      "description": "Hosted RLPS Twitter Announcement"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/orgs/indexsupply/discussions/123",
+      "description": "RLPS Announcement Post"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/orgs/indexsupply/discussions/122",
+      "description": "E2PG Announcement Post"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Hosted RLPS Usage Req/Day",
+      "number": "300000",
+      "url": "https://github.com/orgs/indexsupply/discussions/123#discussioncomment-7348419"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 600000,
+      "description": "Grant from 0xPARC"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x8d15e0dc5ed8352869c7c684287b7a24637d584172261b40f19790bac0466f45",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 24,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

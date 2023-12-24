@@ -1,0 +1,47 @@
+{
+  "bio": "Harness the power of blockchain to create an equitable future for all.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "terrarekt",
+  "websiteUrl": "https://twitter.com/terrarekt",
+  "applicant": {
+    "address": {
+      "address": "0xb55Dc6944711218c9bEFb93D6Fc9C0bE91ecB6bE",
+      "resolvedName": {
+        "address": "0xb55Dc6944711218c9bEFb93D6Fc9C0bE91ecB6bE",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xb55Dc6944711218c9bEFb93D6Fc9C0bE91ecB6bE"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb55Dc6944711218c9bEFb93D6Fc9C0bE91ecB6bE.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb55Dc6944711218c9bEFb93D6Fc9C0bE91ecB6bE.png",
+    "id": "OptimistProfile|0x8f06a71aef154567b8e0b876d8a5727dcbf7e170409cdb0b06e9021c36b45d50"
+  },
+  "impactDescription": "Goals and Objectives:\n1. Simplify Onboarding.\n2. Increase User Adoption.\n3. Community Engagement.\n4. Educational Resources.\n\nChallenges Faced:\nIntegrating Optimism's Layer 2 solution with Perpetual Protocol presented technical challenges that required extensive collaboration with developers. Educating users about Layer 2 technology and the advantages of using Optimism required a concerted effort through clear and accessible resources.\n\nScaling Impact: Our success will serve as a model for fostering user adoption and onboarding across other blockchain projects, ultimately contributing to the growth of the entire blockchain ecosystem.\n\n",
+  "contributionDescription": "The Optimism Collective's commitment to transparency and collaboration stood out. As my involvement deepened I transitioned from passive to active participation, collaborating on real-world blockchain solutions. Through the collective, I learned that blockchain's true power lies in its communities.\n\nWith RetroPGF, I could add or create a better cohort with talents in onboarding and educating new or seasoned users to better understand and leverage on-chain application.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://zealy.io/c/perpvangelist/questboard",
+      "description": "Community Education & Activities through Quest"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Quest Board",
+      "number": "1",
+      "url": "https://zealy.io/c/perpvangelist/questboard"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x5bfa9a92d984c98b552054f478710dcbe7ea3c162003a8ddf37eec8c5c41c287",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

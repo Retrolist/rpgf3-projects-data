@@ -1,0 +1,48 @@
+{
+  "bio": "Im a Developer and Crypto Enthusiast",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "dragdrasel",
+  "websiteUrl": "https://blokripto.my.id/",
+  "applicant": {
+    "address": {
+      "address": "0x3A18da831eBd8860e81130D25342DB3481eE06c1",
+      "resolvedName": {
+        "address": "0x3A18da831eBd8860e81130D25342DB3481eE06c1",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3A18da831eBd8860e81130D25342DB3481eE06c1"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3A18da831eBd8860e81130D25342DB3481eE06c1.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3A18da831eBd8860e81130D25342DB3481eE06c1.jpeg",
+    "id": "OptimistProfile|0x25cc8a5aa50c1db344d6f8a019b09289040c2739575e6e4fc372ffd4301fc5a6"
+  },
+  "impactDescription": "building a large community so that users feel comfortable using the Optimism network in terms of security for user finances and maintaining scalability.\n\nThe Optimism Network is here to overcome the scalability problems that have been plaguing the Ethereum network. As is known, Ethereum has now become the main smart contract network in the crypto arena. However, Ethereum's increasing popularity means that the scalability of transactions on the network is becoming increasingly stagnant.",
+  "contributionDescription": "building a large community so that users feel comfortable using the Optimism network in terms of security for user finances and maintaining scalability.\n\nThe Optimism Network is here to overcome the scalability problems that have been plaguing the Ethereum network. As is known, Ethereum has now become the main smart contract network in the crypto arena. However, Ethereum's increasing popularity means that the scalability of transactions on the network is becoming increasingly stagnant.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://blokripto.my.id/",
+      "description": "Web News Portal"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "scalability",
+      "number": "32",
+      "url": "https://blokripto.my.id/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7e9208707ba1ce1a676932b2d1df05d018dd771d7c1092fb66812435c3c2120a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

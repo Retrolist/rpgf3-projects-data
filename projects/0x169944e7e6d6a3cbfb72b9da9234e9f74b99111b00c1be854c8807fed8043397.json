@@ -1,0 +1,54 @@
+{
+  "bio": "Smol: simple, elegant and functional blockchain dapps for common crypto tasks.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "draper",
+  "websiteUrl": "https://smold.app",
+  "applicant": {
+    "address": {
+      "address": "0xB7A31346433430D92846f0181C55Fc506B9b22d8",
+      "resolvedName": {
+        "address": "0xB7A31346433430D92846f0181C55Fc506B9b22d8",
+        "name": "drap3r.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xB7A31346433430D92846f0181C55Fc506B9b22d8"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB7A31346433430D92846f0181C55Fc506B9b22d8.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x82a188563c3ce8b7a3e3471f821331c587b4a676367d5fcaf1354a73aaeb23c0"
+  },
+  "impactDescription": "We currently have 7 live dapps, 6 of which are currently live on Optimism - designed to help OP users do common crypto tasks in an easier, more seamless way. \n\nDisperse app - to disperse erc20 tokens \n\nerc20 migrator - simple migrator for erc20 tokens\n\nnft migrator - same as erc20 but for nfts \n\ntokenlistooor - automated and uptodate token list fork of uniswap tokenlist \n\ngib.to - create a simple donation page in seconds \n\ndump.service - swap multiple erc20 to one (currently only working on chains supporting cowswap since it uses it for sandwich and front run protection) \n\nMultisafe - gives people a simple way to have one Safe address on different chains. \n\n",
+  "contributionDescription": "Smol has seven live dapps that help users perform common crypto tasks in a more safe, seamless and simple fashion. Our latest launch, MultiSafe let\u2019s users deploy a Safe with the same address on most chains including Optimism.\n\nThis grant would help retroactively fund our team for the six dapps now live on Optimism while also bringing dump.services to Optimism and developing new apps for the OP ecosystem. \n\nRecent Smol highlights include MultiSafe being featured in Blockworks and our token dumping dapp (Dump.services) surpasing $4.2M in volume within the first 4 months.\n\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/smoldapp",
+      "description": "Smol github"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://smold.app",
+      "description": "Smol site"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "TVL",
+      "number": "4200000",
+      "url": "https://dump.services/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x169944e7e6d6a3cbfb72b9da9234e9f74b99111b00c1be854c8807fed8043397",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 43,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

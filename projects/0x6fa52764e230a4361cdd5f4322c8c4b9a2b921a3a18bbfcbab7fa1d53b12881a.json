@@ -1,0 +1,48 @@
+{
+  "bio": "nothing last forever",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "IPONG",
+  "websiteUrl": "https://twitter.com/filuthfifauzan",
+  "applicant": {
+    "address": {
+      "address": "0xAc6F320DEf427c6F60f8f4caa91C2Eda223d00fB",
+      "resolvedName": {
+        "address": "0xAc6F320DEf427c6F60f8f4caa91C2Eda223d00fB",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xAc6F320DEf427c6F60f8f4caa91C2Eda223d00fB"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAc6F320DEf427c6F60f8f4caa91C2Eda223d00fB.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x95dde681b56b8b0bc66fd738251d93dc11124100f511695d8f48440813b2018f"
+  },
+  "impactDescription": "The point is to make a profit, knowledge without cooperation is a big rock and it's useless, so are the benefits of taking part in this event, apart from making a profit, we also get a lot of knowledge so we know what's right or wrong.\n\none of which is with a large airdrop reward so that it can attract people's interest in taking part in this event",
+  "contributionDescription": "I will contribute to getting RetroPGF rewards, I will do it by spending my time with swaps, adding liquidity, etc.\n\nApart from that, I will invite my team to join/participate in this event so that they know the gaps they are facing together. through my contribution to this event I will make changes to this project so that it will make it a new, good project, and will be useful in the future",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/filuthfi21/Cinekom",
+      "description": "input code"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "download",
+      "number": "2112",
+      "url": "https://www.google.com/search"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x6fa52764e230a4361cdd5f4322c8c4b9a2b921a3a18bbfcbab7fa1d53b12881a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

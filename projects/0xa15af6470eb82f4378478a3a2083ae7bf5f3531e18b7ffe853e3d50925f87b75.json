@@ -1,0 +1,52 @@
+{
+  "bio": "I am a photographer and minimalist",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Farzad",
+  "websiteUrl": "https://foundation.app/@F_zhiani",
+  "applicant": {
+    "address": {
+      "address": "0xAd33D7e203441180E5CF5b98B8DE1c00e9Cd07a8",
+      "resolvedName": {
+        "address": "0xAd33D7e203441180E5CF5b98B8DE1c00e9Cd07a8",
+        "name": "arram.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xAd33D7e203441180E5CF5b98B8DE1c00e9Cd07a8"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAd33D7e203441180E5CF5b98B8DE1c00e9Cd07a8.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xAd33D7e203441180E5CF5b98B8DE1c00e9Cd07a8.jpeg",
+    "id": "OptimistProfile|0x1e0e78d4b292be8f2e8ee9e3ab8c446b67989dd164cac5406f2ea7d2d87e56cb"
+  },
+  "impactDescription": "I've had the privilege of visually documenting their important work over the past year. While the tech itself is groundbreaking, through my lens I've sought to capture the powerful human impact as well.\n\nSome of my photos from their community events and workshops have really helped spread awareness of the Collective's role in furthering blockchain accessibility. Sharing images of their educational sessions has inspired more people from diverse backgrounds to get involved.",
+  "contributionDescription": "As a photographer focused on documenting technological progress, I'm thrilled to share images that help tell Optimism's story. Through my lens, I strive to capture the collaborative spirit and groundbreaking work happening here.\n\nSome of my favorite shots show programmers deep in thoughtful discussion, refining ideas that could revolutionize how we build for the future. Whiteboards fill with diagrams as concepts become code, step by step, line by line. I also love capturing the \"aha!\" moments \u2013 when pushing past tough problems leads to breakthroughs. Those victorious smiles say so much about the dedication in overcoming challenges.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://foundation.app/collection/minimalist",
+      "description": "optimism and minimalist world"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of collects od my work",
+      "number": "32",
+      "url": "https://opensea.io/collection/minimal-bnw"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 999,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa15af6470eb82f4378478a3a2083ae7bf5f3531e18b7ffe853e3d50925f87b75",
+  "prelimResult": "Remove",
+  "reportReason": "Opensea impact metrics link is broken which is core to their impact claim(s)"
+}

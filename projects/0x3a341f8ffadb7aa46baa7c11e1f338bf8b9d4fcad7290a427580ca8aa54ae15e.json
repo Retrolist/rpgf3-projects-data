@@ -1,0 +1,55 @@
+{
+  "bio": "Hunt",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "stevennendy",
+  "websiteUrl": "https://dawuancrew.wordpress.com",
+  "applicant": {
+    "address": {
+      "address": "0x4e3be30D17F2373Cd9b42694C1675D0a14b1c08f",
+      "resolvedName": {
+        "address": "0x4e3be30D17F2373Cd9b42694C1675D0a14b1c08f",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x4e3be30D17F2373Cd9b42694C1675D0a14b1c08f"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4e3be30D17F2373Cd9b42694C1675D0a14b1c08f.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4e3be30D17F2373Cd9b42694C1675D0a14b1c08f.jpeg",
+    "id": "OptimistProfile|0x184d348ce6d70bdd7df8332703e7b2674d4fa8d64d8ba9f0f569bc1fe97e574a"
+  },
+  "impactDescription": "adding my collection in art, games, mining, and genesis nft and coin token collections, providing added value to this network storage, network fees are not too expensive and various kinds of collections can be accommodated. I thank you for this network of optimism",
+  "contributionDescription": "I claim the genesis of NFT from the digital wallet that I use, and maybe this NFT has more benefits in the optimism network, network allocation which in my opinion provides good transaction speed and security, and in the future in the gaming world there will be many developments to take the first step in crypto games",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xb83a72eaac10a313749e3872554230f6d18143ca7a681c27319b27ad10e68df8",
+      "description": "OAT"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Galxy OAT",
+      "number": "514904",
+      "url": "https://optimistic.etherscan.io/tx/0xc752338be045604f4c781852589d8dca212e235baa4d4878f599202838f7a1a6"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": "Exchange Binance"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3a341f8ffadb7aa46baa7c11e1f338bf8b9d4fcad7290a427580ca8aa54ae15e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

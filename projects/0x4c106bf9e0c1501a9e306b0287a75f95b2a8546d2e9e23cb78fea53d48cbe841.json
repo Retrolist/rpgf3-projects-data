@@ -1,0 +1,68 @@
+{
+  "bio": "Crew is building business accounts for Farcaster",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Crew",
+  "websiteUrl": "https://www.hifromcrew.com/",
+  "applicant": {
+    "address": {
+      "address": "0x2271fe6D76ab94352eF826d97445048Bd8C4d45F",
+      "resolvedName": {
+        "address": "0x2271fe6D76ab94352eF826d97445048Bd8C4d45F",
+        "name": "weird3.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2271fe6D76ab94352eF826d97445048Bd8C4d45F"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2271fe6D76ab94352eF826d97445048Bd8C4d45F.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2271fe6D76ab94352eF826d97445048Bd8C4d45F.png",
+    "id": "OptimistProfile|0x987d4b077fd35d246024c0af3de2bac1bb9cd8f8e9986e7e8d926c90190ac4db"
+  },
+  "impactDescription": "Doing the research and design work to build a better business interface for Farcaster brings us one step closer to making B2B all happen onchain. \n\nOrganizing meetups and hosting podcasts about Farcaster helped to strengthen the community in the early days. ",
+  "contributionDescription": "I'm building a platform to help businesses use Farcaster. In service of this I've interviewed over 50 companies on farcaster to learn what would help them use it more. During that time I worked on a UI prototype that I iterated on after each call to take in their feedback.\n\nI also hosted a podcast interviewing builders on Farcaster. Finally I hosted a meetup for Farcaster builders in SF and over 30 people attended.  ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.eventcaster.xyz/users/mcbain?tab=events",
+      "description": "List of events I held for the farcaster community. Both online and IRL"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.hifromcrew.com/posts/Introducingcrew",
+      "description": "The description of what I'm building for farcaster"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.uizard.io/p/5d0ad508",
+      "description": "The UI prototype I've  used to show companies using farcaster"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Companies Interviewed ",
+      "number": "50",
+      "url": "https://www.hifromcrew.com/posts/whycrew"
+    },
+    {
+      "description": "Listeners",
+      "number": "20",
+      "url": "https://www.eventcaster.xyz/users/mcbain?tab=events"
+    },
+    {
+      "description": "Meetup attendees",
+      "number": "35",
+      "url": "https://www.eventcaster.xyz/events/d5de871f-675a-4610-8f7f-5570945bf30b"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4c106bf9e0c1501a9e306b0287a75f95b2a8546d2e9e23cb78fea53d48cbe841",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 12,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,45 @@
+{
+  "bio": "Financial Market Analyst",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "success",
+  "websiteUrl": "https://www.linkedin.com/in/simon-alagbe/",
+  "applicant": {
+    "address": {
+      "address": "0x425d8A3F3DC894d2EC4785A048178f421711e91B",
+      "resolvedName": {
+        "address": "0x425d8A3F3DC894d2EC4785A048178f421711e91B",
+        "name": "alagbe003.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x425d8A3F3DC894d2EC4785A048178f421711e91B"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x425d8A3F3DC894d2EC4785A048178f421711e91B.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x492892de06d8f297ae810563d37c3ca6a43f8459574be63de9fa4666fd5073e3"
+  },
+  "impactDescription": "I've been actively disseminating knowledge about optimism within my close-knit circle of family and friends. Additionally, I consistently engage with the latest developments and updates related to optimism. It's essential for me to stay informed and involved so that I can contribute to making well-informed decisions that benefit the overall progress of the project.",
+  "contributionDescription": "Within my personal network, I've been actively promoting optimism, sharing insights, and encouraging a positive outlook. This involves discussing the importance of optimism and its potential impact on our lives and society at large. I strive to foster an environment where optimism thrives, encouraging those around me to embrace it as well.\n\nFurthermore, I make it a point to stay abreast of the ongoing developments associated with optimism. Whether it's through research, news, or community updates, I ensure that I'm well-versed in the latest trends and information. This knowledge empowers me to make informed choices and provide valuable insights to my family and friends.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/alagbe003",
+      "description": "optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "downloads",
+      "number": "5",
+      "url": "https://optimistic.etherscan.io/address/0x425d8a3f3dc894d2ec4785a048178f421711e91b"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xa5860afa0d020feb2fdc3cfb9b21a99d6dbcfad6d76d0c6616ea7f0b0028f363",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

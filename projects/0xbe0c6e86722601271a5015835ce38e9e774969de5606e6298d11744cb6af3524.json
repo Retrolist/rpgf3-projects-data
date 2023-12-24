@@ -1,0 +1,53 @@
+{
+  "bio": "Educational.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Ephraim",
+  "websiteUrl": "https://medium.com/@ekojaweephraim/retroactive-public-goods-funding-retro-pgf-3-e3396f2eeec2",
+  "applicant": {
+    "address": {
+      "address": "0x6FC27bd5101eB608E75fa3Aa304577E1D5aedA91",
+      "resolvedName": {
+        "address": "0x6FC27bd5101eB608E75fa3Aa304577E1D5aedA91",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6FC27bd5101eB608E75fa3Aa304577E1D5aedA91"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x9b1c0cc4f16ca2a4fd28040229fd1d8807badf98de00cf79fd8ed2c4bf20b2c6"
+  },
+  "impactDescription": "My contributions within the context of retroactive public goods funding in Optimism have a multifaceted impact. They not only provide you with recognition and financial support but also contribute to the growth, sustainability, and vibrancy of the Optimism ecosystem. My work inspires others and helps build a strong, collaborative community focused on achieving shared goals.",
+  "contributionDescription": "Financial Support: Many contributors seek retroactive funding primarily for financial support. This can include reimbursement for expenses incurred during your work, compensation for your time and effort, or even a source of income to sustain your continued contributions.\n\nValidation and Recognition: Some contributors value the validation and recognition that retroactive funding provides. It's a way to acknowledge the importance and impact of your work within the community, which can be a significant motivator.\n\nResources for Future Projects: Retroactive funding can provide you with the resources necessary to pursue future projects or initiatives. This can include funding for research, development, or other activities that contribute to the growth and improvement of the Optimism ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://medium.com/@ekojaweephraim/retroactive-public-goods-funding-retro-pgf-3-e3396f2eeec2",
+      "description": "Educational"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Thread",
+      "number": "2",
+      "url": "https://medium.com/@ekojaweephraim/retroactive-public-goods-funding-retro-pgf-3-e3396f2eeec2"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 20000,
+      "description": "Educational"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xbe0c6e86722601271a5015835ce38e9e774969de5606e6298d11744cb6af3524",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

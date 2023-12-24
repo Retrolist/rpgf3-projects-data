@@ -1,0 +1,52 @@
+{
+  "bio": "Currently seeking oppurtunities",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Aryaman sahu",
+  "websiteUrl": "https://www.optimism.io",
+  "applicant": {
+    "address": {
+      "address": "0x82A0E4555D1c6d812Dfb3438E5997b1e9552616E",
+      "resolvedName": {
+        "address": "0x82A0E4555D1c6d812Dfb3438E5997b1e9552616E",
+        "name": "vitalikbutrin.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x82A0E4555D1c6d812Dfb3438E5997b1e9552616E"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x82A0E4555D1c6d812Dfb3438E5997b1e9552616E.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x984312e095f516fe5b44f35d1599db34c4f581f37412b9dde0d0399d1e1e7b5b"
+  },
+  "impactDescription": "                                                                                                                                                                                                                                                                 ",
+  "contributionDescription": "                                                                                                                                                                                                                                                                     ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimism.io",
+      "description": "task"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Task",
+      "number": "1",
+      "url": "https://optimism.io"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5eb99b677c9ce0994c587c3a4893daf73dd4edfb44e0b9fffa88edf7c737a4d3",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

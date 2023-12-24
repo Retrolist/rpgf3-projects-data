@@ -1,0 +1,74 @@
+{
+  "bio": "The GM bus, Sending out free handmade GM shirts to regens and builders",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Sinjun",
+  "websiteUrl": "https://twitter.com/SinjunART",
+  "applicant": {
+    "address": {
+      "address": "0x6F3924E9158c74D344BF578a251Bcc2ef41F8F50",
+      "resolvedName": {
+        "address": "0x6F3924E9158c74D344BF578a251Bcc2ef41F8F50",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6F3924E9158c74D344BF578a251Bcc2ef41F8F50"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6F3924E9158c74D344BF578a251Bcc2ef41F8F50.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6F3924E9158c74D344BF578a251Bcc2ef41F8F50.png",
+    "id": "OptimistProfile|0x93aa8b1429170336cf8c8817f051abaf3ad8f19b80e5b46deec1eb5b9b77e697"
+  },
+  "impactDescription": "Raised and distributed 22 ETH for public goods grants providing funds for people who want to move from a traditional job into full time web3 work\n\nFunds supported new web3 workers, developers, engineers\n\nGreen pilling the public via the gm bus\n\nWe inspired 100's of people to use Ethereum and learn more abut the regenerative power of decentralization\n",
+  "contributionDescription": "\ud83d\ude90 gm bus\n\nEducating, informing, and evolving the crypto narrative by visiting various cities, communities, and events IRL around the world\n\nHosted meetups with students discussing the regenerative powers of DAO\u2019s & the Ethereum ecosystem\n \n7 events. Interfaced with 100\u2019s of IRL community members\n\nDistributed 100\u2019s of books and posters about the crypto revolution\n\nEpisode of the Green Pill podcast recorded inside the gm bus\n\nDAOpunks\n\nRaised and distributed 22 ETH for public goods grants providing funds for those moving from traditional jobs into web3\n\nJob board - Curating jobs to help people journey into Crypto, Web3, and DAOs\n\nPublic Threads\n\nSent out free handmade high quality GM shirts to builders this Spring. Shipped free worldwide! \n\n\ud83d\udc9a Reward the regens \n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://paragraph.xyz/@gmbus/better-than-we-imagined-at-mcon2-and-beyond",
+      "description": "GM Bus"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.daopunks.io/",
+      "description": "DAOpunks "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/HiroKennelly/status/1682849137367334913",
+      "description": "Public Threads - Sending out free beautiful gm merch"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Jobs Board",
+      "number": "5000",
+      "url": "https://daopunks.pallet.com/jobs"
+    },
+    {
+      "description": "Humans connected, IRL events",
+      "number": "15000",
+      "url": "https://paragraph.xyz/@gmbus/better-than-we-imagined-at-mcon2-and-beyond"
+    },
+    {
+      "description": "ETH raised for public goods",
+      "number": "22",
+      "url": "https://www.daopunks.io/"
+    },
+    {
+      "description": "GM shirts sent - Spring '23",
+      "number": "27",
+      "url": "https://twitter.com/deeparocks/status/1670603437292265473"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x438d7604e5a7bb444dad92f17a6ee8a0c48dfc7c2182cfc72a1a0ae18055cf2c",
+  "prelimResult": "Keep",
+  "reportReason": "Not sure about this one",
+  "includedInBallots": 12,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

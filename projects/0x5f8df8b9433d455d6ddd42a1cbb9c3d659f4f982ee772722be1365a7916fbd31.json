@@ -1,0 +1,126 @@
+{
+  "bio": "Explore, analyze and copy on-chain traders from the top of the perpetual DEX",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Copin.io",
+  "websiteUrl": "https://copin.io",
+  "applicant": {
+    "address": {
+      "address": "0x1A561e43f264952D7b4F25Fb4967122c87618Beb",
+      "resolvedName": {
+        "address": "0x1A561e43f264952D7b4F25Fb4967122c87618Beb",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x1A561e43f264952D7b4F25Fb4967122c87618Beb"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1A561e43f264952D7b4F25Fb4967122c87618Beb.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1A561e43f264952D7b4F25Fb4967122c87618Beb.png",
+    "id": "OptimistProfile|0x9e1158dfd0748a6f1ee11fdcdb2b4d38bd7ed9f5d05bc0c7a37b2f599ff5e236"
+  },
+  "impactDescription": "1. More than 155k Kwenta Trader Profiles were automatically generated on Copin.\n2. Copin launched its private beta with copy trading data from traders on Kwenta and GMX, resulting in the following statistics:\n- Total Volume: $3,773,837\n- Total Orders: 12,047\n- Total Copiers: 379\n\n3. Enhancements were made to the user experience of Kwenta traders, and the OP community enthusiastically embraced the new concept, with a significant amount of feedback received. Copin received mentions on X and shout-outs in The Optimist Newsletter.",
+  "contributionDescription": "Copin enhances the Optimism ecosystem with a robust tool for analyzing on-chain perpetual traders, offering insights into their behavior and transaction history on Kwenta, a perpetual DEX within the Synthetix protocol.\n\nIt introduces a pioneering narrative, 'Decentralized Copy Trading,' featuring Trader Explorer and Copy Trading for different perp DEX protocols. Notably:\n\n- A user-friendly filter uncovers top Kwenta traders based on specific criteria or timeframes.\n- 'Top Opening Positions' provides statistics on significant volume opening positions.\n- Kwenta Trader Profile empowers users to review their trading history with comprehensive analysis.\n- Additional features, including Kwenta Trader Position Detail and Kwenta Trader Backtest, enhance the trading experience.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.copin.io/?ranking_filters",
+      "description": "Showcase: Dapp Link (private beta version)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.copin.io/KWENTA/top-openings",
+      "description": "Showcase: Top perpetual traders opening position on Kwenta"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.copin.io/KWENTA/trader/0xd0c3F5A2f8a728649A1322a79F0ff0e1Cab37091?ref=KGBLJH&time=D60",
+      "description": "Showcase: Perpetual trader detailed profile on Kwenta"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.copin.io/KWENTA/position?id=6520288ed8fb813a701040bc&next_hours=4&ref=KGBLJH",
+      "description": "Showcase: Position insight details of traders on Kwenta"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.copin.io/stats",
+      "description": "Copin's statistics after 2 months of launching the private beta version"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/copin-protocol",
+      "description": "Github "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://copin.substack.com/p/copin-analyzer-building-the-leading",
+      "description": "Blog"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimismbysublidefi.substack.com/p/the-optimist-newsletter-18#%C2%A7trading-tips-copy-trading",
+      "description": "Article on The Optimist Newsletter about Coin"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.copin.io/another/what-do-people-say",
+      "description": "What do people say about Copin?"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Onchain_Trader/status/1704695080198812051",
+      "description": "Analytical post on twitter from On-chain Trader about a trader on Kwenta"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Copin_io/status/1715960705957138879",
+      "description": "Button \"trade on Kwenta\" on Copin's trader profile page"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total copiers",
+      "number": "379",
+      "url": "https://app.copin.io/stats"
+    },
+    {
+      "description": "Total volume",
+      "number": "3773837",
+      "url": "https://app.copin.io/stats"
+    },
+    {
+      "description": "Total orders",
+      "number": "12047",
+      "url": "https://app.copin.io/stats"
+    },
+    {
+      "description": "Kwenta Trader Profiles",
+      "number": "155737",
+      "url": "https://dune.com/queries/1290341/2212140"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "No VC funding at all"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 3800,
+      "description": "2,000 SNX retroactive grant from Synthetix "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5f8df8b9433d455d6ddd42a1cbb9c3d659f4f982ee772722be1365a7916fbd31",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 25,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

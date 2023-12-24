@@ -1,0 +1,60 @@
+{
+  "bio": " Industry professionals empowering individuals through financial literacy.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Fortunately Fomo",
+  "websiteUrl": "https://www.discord.gg/fortunatelyfomo",
+  "applicant": {
+    "address": {
+      "address": "0xF140980D873DA7E49821fC94F5e4D007b861B68f",
+      "resolvedName": {
+        "address": "0xF140980D873DA7E49821fC94F5e4D007b861B68f",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xF140980D873DA7E49821fC94F5e4D007b861B68f"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF140980D873DA7E49821fC94F5e4D007b861B68f.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF140980D873DA7E49821fC94F5e4D007b861B68f.png",
+    "id": "OptimistProfile|0x1da771ac331ecafb1958e63fa6b249c6228eca29aa37b605c4f01406651e74df"
+  },
+  "impactDescription": "Expanding the community's blockchain literacy through hands-on application has enlightened and empowered individuals. By emphasizing safety protocols, constant innovation, and tangible benefits, we created a secure and resilient community.  Optimism and its super chain affiliated partners have been instrumental in fostering  enthusiasm for the transformative potential of the blockchain, and improving  quality of life, self confidence, monetary limitations, and sense of friendship and belonging that is unparalleled in our modern day social structures. \n\n",
+  "contributionDescription": "Continuing to expand my community, centered around hands on application of blockchain literacy. By providing safe and guided exposure to the digital landscape, and that of the Optimism chain we are enlightening and empowering the community on the practicalities, necessary safety protocols, constant innovation, and tangible benefits of blockchain. \nOur community's growth and success are rooted in the belief that blockchain technology should be accessible to everyone, regardless of their technical background or experience. By providing a supportive environment for individuals to learn, share, and collaborate, we have created a thriving ecosystem of blockchain enthusiasts, entrepreneurs, and innovators. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://thirdweb.com/optimism/0x951Fd413606044c20dE7C0C2D25C1AA261d3D200",
+      "description": "0x951Fd413606044c20dE7C0C2D25C1AA261d3D200"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://thirdweb.com/optimism/0x56c8Ec442A4F58b2d0689330028289019b268728",
+      "description": "0xF11174BefD2b9F345613AEbA334662B9cB8d633E"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://thirdweb.com/optimism/0x56c8Ec442A4F58b2d0689330028289019b268728",
+      "description": "0x56c8Ec442A4F58b2d0689330028289019b268728"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Educational Task Board",
+      "number": "1",
+      "url": "https://miro.com/app/board/uXjVNZVzmsE=/?share_link_id=275941122453"
+    },
+    {
+      "description": "FFOMO Builders Dao Alchemy Dashboard",
+      "number": "1",
+      "url": "https://dashboard.alchemy.com/apps/0fbmjfy70ui9vmgo"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4f5c8aa5a4a5f67be7890b45fc7a038c0dbfa79edb2f0b18312f08c0c03e00d1",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

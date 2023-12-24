@@ -1,0 +1,124 @@
+{
+  "bio": "Web3 experienced man looking for more experience every day. ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "alpha-centauri.eth",
+  "websiteUrl": "https://twitter.com/DmitryPogorelo4",
+  "applicant": {
+    "address": {
+      "address": "0x541CeeDEd157F6590BeFa1b6A34ab87bEda66AA7",
+      "resolvedName": {
+        "address": "0x541CeeDEd157F6590BeFa1b6A34ab87bEda66AA7",
+        "name": "alpha-centauri.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x541CeeDEd157F6590BeFa1b6A34ab87bEda66AA7"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x541CeeDEd157F6590BeFa1b6A34ab87bEda66AA7.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x64f558e7c98c0f707724450b314971d9683ee5285f5c730836d89f763452fe7f"
+  },
+  "impactDescription": "Gitcoin grants participant, governance vote delegation to third parties, providing liquidity in different protocols, Optimism quests participant, bringing new users to Optimism ecosystem, some activity in OP discord (contributor role), activity with comment, like and repost in twitter (X).",
+  "contributionDescription": "Greetings! I've started my journey in crypto around 600 days ago but my activity in Optimism started a little bit later. During all my crypto life I participated in many Optimism activities and programs like Optimism quests, Rabbit hole quests, Hop bridge, staking (small amounts) with delegation to third parties, Phi quests, Layerswap, Layer3 quests (36th LVL for the moment), gitcoin grants, OP AttestationStation, Gitcoin Passport onchain Optimism, Mean Finance, Velodrome, Uniswap, Metronome, AAVE and many others.\nI'm a discord member of OP with contributor role. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xa8db909a5b235ad341744f103acea99d95f5fa4156815e6e95105f34e6105ef6",
+      "description": "OP Delegation"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xa36f42cec05f1d421fa4120e73bb4d45b6790e79f28bf35860d816ded03512cc",
+      "description": "OP AttestationStation"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x83ad8905343d44e721435131bffc861cac0b9d2d9db6e465ac6925cb14abeee7",
+      "description": "Via Protocol OP"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x348e168ca78d3dc71ed20b4f51aa11b846c838accd5f5ae65b287eeec432b44c",
+      "description": "APPATEST"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x4336809d9913d494dd6d4457c7956d27649154f3c2ddc24ab5715de31bc5fdde",
+      "description": "OP token Delegation"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xc2f693a38c2a2d3007c5eb3074315e6e28da678598b66b7f49fe53748d090142",
+      "description": "Claim OP reward"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xa8db909a5b235ad341744f103acea99d95f5fa4156815e6e95105f34e6105ef6",
+      "description": "OP token delegation"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xfc903f515fdb931c579d341f351fc3a7affb5c0ff6a5ad41d8cbc1bd746c39b8",
+      "description": "Optimism Grants NFT"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xe08d0e571d1725a5d5c2305c46e5d80df983559708654e6b9463141b4901477e",
+      "description": "RETRO PGF 3"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xd93f14bc3e335e43106c91a12259130b3b7d55d8d182834f99810e83975f9cd5",
+      "description": "Optimism Collective Collection"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x84aaac7d8d9b9f92ddb8c4ff2d4b860f2925c6550aecf45902b6f96b2c17ff9e",
+      "description": "Grants VOTE"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x946996f9e95480c214830949f5b3a00868ff1bcd1319870d151796ba7d3657da",
+      "description": "AAVE supply"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x6ab7d7f7f9e88b6023651d145416f5ca34e2f53c516070d6f976e3c4c292172a",
+      "description": "Attest"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x575da4a3b07eb6215860f8c380aa445bad1597e533219b0f857a0ee924d06ffc",
+      "description": "Verify and Attest"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Etherscan",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0x541CeeDEd157F6590BeFa1b6A34ab87bEda66AA7"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 3.745,
+      "description": "177 days ago"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1.079,
+      "description": "200 days ago"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5f2eb45d4abb19be0f0275b8aeae3c80482c63f7c2490dd80bb6f5fc5a7fd2a6",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,126 @@
+{
+  "bio": "Your #1 source of news about Layer-2 solutions for nearly two years.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "L2 Planet",
+  "websiteUrl": "https://layer2planet.substack.com/",
+  "applicant": {
+    "address": {
+      "address": "0x2D9d84F4D8a4254ea23Fe18825193Cbd1b21b749",
+      "resolvedName": {
+        "address": "0x2D9d84F4D8a4254ea23Fe18825193Cbd1b21b749",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2D9d84F4D8a4254ea23Fe18825193Cbd1b21b749"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2D9d84F4D8a4254ea23Fe18825193Cbd1b21b749.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2D9d84F4D8a4254ea23Fe18825193Cbd1b21b749.png",
+    "id": "OptimistProfile|0x839a16b8060a6ab761f05dcfc4c786e954a3a5fcb3a8a311fc595a8dc30025e8"
+  },
+  "impactDescription": "As a delegate, L2 Planet voted for 50+ proposals with a voting power of 2.5-3k $OP. We explained the reasons for our voting choices and regularly posted them on our social media. Also, explained to the readers why attending Optimism Collective is so important.",
+  "contributionDescription": "Our newsletter issues regularly mention Optimism and OP Stack-related news and developments. We explained the complicated terms and dynamics to our subscribers and helped them understand OP Stack's vision. Spreading the Optimism and OP Stack word on Twitter, Substack and other social media.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://layer2planet.substack.com/i/124154558/optimism-stack-zkp",
+      "description": "Mentioned OP Stack ZKP contest winners and explained the O1 Labs's design."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer2planet.substack.com/i/115594749/optimism-bedrock-on-the-way",
+      "description": "We explained the What is the Bedrock and its features and action plan"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer2planet.substack.com/i/106566257/optimism-ecosystem",
+      "description": "Mentioned Bedrock, RPGF2 and the latest developments on Optimism"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://layer2planet.substack.com/i/94833369/optimism-ecosystem",
+      "description": "Mentioned Bedrock, Airdrop2, RPGF2 and the latest developments on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer2planet.substack.com/i/94833369/coinbase-base-based-on-op-stack",
+      "description": "OP Stack based Base Network has introduced"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://layer2planet.substack.com/i/85535423/optimism-ecosystem",
+      "description": "RPGF2 has explained and the latest developments on Optimism mentioned"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://layer2planet.substack.com/i/79591765/op-stack",
+      "description": "OP Stack, OP Craft and modular design of OP Stack explained"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer2planet.substack.com/p/l2-planet-issue-17",
+      "description": "An important transfer on multi-sig wallet mentioned and explained"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer2planet.substack.com/p/l2-planet-issue-14",
+      "description": "Wintermute event explained"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer2planet.substack.com/p/l2-planet-issue-13",
+      "description": "Bedrock and Airdrop1 explained"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer2planet.substack.com/p/l2-planet-issue-8",
+      "description": "Critical bug on OVM 2.0 explained"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer2planet.substack.com/p/l2-planet-say-3",
+      "description": "EVM equivalence explained"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer2planet.substack.com/p/l2-planet-say-1",
+      "description": "OVM 2.0 design explained"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total Traffic",
+      "number": "50000",
+      "url": "https://drive.google.com/file/d/1vAphox3Wry4Pdn892oQNpFffDvN8V_Ju/view?usp=sharing"
+    },
+    {
+      "description": "Subscriber Country Count",
+      "number": "60",
+      "url": "https://drive.google.com/file/d/1X0oxW4Qq47eY6Uwk2R7q9pfvJ_wlg_wF/view?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 6800,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 35000,
+      "description": "Gitcoin Grants"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4abf6854e35bbc14e85ec879c4545b98934e75a6d4a28bfc7b8b088240f64435",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 15,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

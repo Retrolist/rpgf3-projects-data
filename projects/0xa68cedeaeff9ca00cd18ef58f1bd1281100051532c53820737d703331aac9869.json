@@ -1,0 +1,108 @@
+{
+  "bio": "Baseswap is a decentralized exchange (DEX) on Base with several products.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Baseswap",
+  "websiteUrl": "https://baseswap.fi/",
+  "applicant": {
+    "address": {
+      "address": "0x2BA3c3e9D61C776b415ECCd753133dEF6737770A",
+      "resolvedName": {
+        "address": "0x2BA3c3e9D61C776b415ECCd753133dEF6737770A",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2BA3c3e9D61C776b415ECCd753133dEF6737770A"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2BA3c3e9D61C776b415ECCd753133dEF6737770A.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xa237c8f88a349ad826598f868e07c56f1879f52da937b7d564a8f1ef5b9bf9ae"
+  },
+  "impactDescription": "With Base joining optimism as Core Developers to the OP stack, it has powered developers and users to see the vision of layer 2 chains being modular, superchain type rollups. We've focused on creating tools for developers and users such as token lockers/creating a secondary swap for higher risk tokens/perpetual trading and many more. Now with Optimism supporting Base with the shared governance and revenue-sharing feedback is proof of this.",
+  "contributionDescription": "Baseswap utilizes Optimism's tech through Base network and aims to have a user-friendly decentralized exchange, parallel to that of the CEX experience by generating more volume and transactions than anyone else on Base chain. Focusing on perpetual trading, liquidity solutions, and innovative features. These features are all powered by Base utilizing Optimisms' tech and has impressed many developers and users with the capabilities of it so far.\n\nWith fast, cheap, safe transactions; Optimism has proven their technology compared to several other layer 2s that create a seamless experience for our users.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x78a087d713be963bf307b18f2ff8122ef9a63ae9",
+      "description": "BSWAP token"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0xd5046b976188eb40f6de40fb527f89c05b323385",
+      "description": "BSX token"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0xe4750593d1fc8e74b31549212899a72162f315fa",
+      "description": "xBSX token"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x6fc0f134a1f20976377b259687b1c15a5d422b47",
+      "description": "Masterchef"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0xfda619b6d20975be80a10332cd39b9a4b0faa8bb",
+      "description": "Factory"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x327df1e6de05895d2ab08513aadd9313fe505d86",
+      "description": "Router"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x2B0A43DCcBD7d42c18F6A83F86D1a19fA58d541A",
+      "description": "Masterchef for V2 farms"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x38015d05f4fec8afe15d7cc0386a126574e8077b",
+      "description": "BaseX V3 Factory (Concentrated Liquidity)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x1B8eea9315bE495187D873DA7773a874545D9D48 ",
+      "description": "BaseX V3 SWAPRTOUER"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0xDe151D5c92BfAA288Db4B67c21CD55d5826bCc93",
+      "description": "BASEX V3 NONFUNGIBLEPOSITIONMANAGER"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Current TVL",
+      "number": "12000000",
+      "url": "https://defillama.com/protocol/baseswap"
+    },
+    {
+      "description": "# 1 Dex with Fees & Volume",
+      "number": "1",
+      "url": "https://defillama.com/chain/Base"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa68cedeaeff9ca00cd18ef58f1bd1281100051532c53820737d703331aac9869",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 36,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

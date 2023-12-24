@@ -1,0 +1,57 @@
+{
+  "bio": "Technology and decentralized finance enthusiast",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Adriano",
+  "websiteUrl": "https://www.youtube.com/channel/UCqgPJv9HKmN7luRPLim4UCg",
+  "applicant": {
+    "address": {
+      "address": "0xf9AF17d897707aafE856b76a582cC1a25933F87F",
+      "resolvedName": {
+        "address": "0xf9AF17d897707aafE856b76a582cC1a25933F87F",
+        "name": "brazilcrypto.robots.farm"
+      }
+    },
+    "id": "Delegate|Delegate|0xf9AF17d897707aafE856b76a582cC1a25933F87F"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf9AF17d897707aafE856b76a582cC1a25933F87F.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x5b25879b8fd01001ee307ea2daac9fc723f3daaa8ee7f950c540bfd18da8ad05"
+  },
+  "impactDescription": "People who viewed the tutorial videos or had contact with the written material had a brief user experience and felt more encouraged to participate without fear of losing their funds, due to not knowing the tools and were afraid of carrying out interactions that would they could be wasting their time",
+  "contributionDescription": "Creation of content in videos on YouTube, where I have more than 450 subscribers, and I respond to all comments. Sharing posts on Twitter and creating a blog with content related to interactions with different protocols, with tutorial material on usability",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/channel/UCqgPJv9HKmN7luRPLim4UCg",
+      "description": "youtube channel"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/cryptobrazil5",
+      "description": "Twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "subscribers to the channel",
+      "number": "460",
+      "url": "https://www.youtube.com/channel/UCqgPJv9HKmN7luRPLim4UCg"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Investment in material for editing videos, and time spent on contributions"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf7e9a83b4d33466813b6c5d1e3cfe95f5f6476b0d8ec0b5cd012c774053aba84",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

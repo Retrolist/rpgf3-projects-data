@@ -1,0 +1,136 @@
+{
+  "bio": "French Crypto YouTuber, sharing content on L2 and DeFi education",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "CryptoMage",
+  "websiteUrl": "https://www.youtube.com/c/cryptomage",
+  "applicant": {
+    "address": {
+      "address": "0x1609f039A96ce10756f5C6D403a80400DC081a02",
+      "resolvedName": {
+        "address": "0x1609f039A96ce10756f5C6D403a80400DC081a02",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x1609f039A96ce10756f5C6D403a80400DC081a02"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1609f039A96ce10756f5C6D403a80400DC081a02.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1609f039A96ce10756f5C6D403a80400DC081a02.png",
+    "id": "OptimistProfile|0x61fe8ec2838e46d3b3f65848f1fc7e9a77cf242431c3a3f379e1198212104f8a"
+  },
+  "impactDescription": "1) I assisted over 12,500 users in beginning their blockchain journey through my YouTube channel.\n\n2) I increased awareness of the Optimism Collective by creating various videos on Base, Zora, and Optimism. In the past year, my videos collectively received more than 612,000 views.\n\n3) I actively thwarted common scams by creating and sharing 9 security and disinformation awareness videos.\n\n4) I provided support to over 2,000 users by responding to questions, offering tips, and sharing discoveries on my Discord server.\n\n5) I created an event for my community in the form of a freemint NFT collection with a reveal. 648 unique addresses interacted with the contract over 5091 transactions on Zora's blockchain.",
+  "contributionDescription": "1) Creating over 500 videos covering a wide range of cryptocurrency topics and educational content for my YouTube channel, which boasts 12,500 subscribers.\n\n2) Foestering a thriving community of more than 2,000 French-speaking crypto enthusiasts on my Discord server.\n\n3) Providing valuable insights and real-life examples of various scam attacks and false information to help safeguard users.\n\n4) Created an original NFT Freemint with a reveal which attracted 648 unique addresses to Zora, a blockchain building with the OP Stack.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=JZ6LdfMQDh0",
+      "description": "Explaining how to avoid 4 of the most common crypto scams"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=k5Y6xXEAnD8",
+      "description": "Showcasing useful tools for Crypto Users"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=flSbMvj-4ac",
+      "description": "How to revoke a malicious token approval"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=cJMhf6H8kGc",
+      "description": "Explaining how secure BIP39 seeds work"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=agF---gtgVc",
+      "description": "Review of the top 10 L2"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=k7d4E7zRQNY",
+      "description": "Explaining the danger behind memecoins / shitcoins"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=wy6j5s9BdbU",
+      "description": "Showcasing how high APR farm works, and why it's risky"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=BR-aVeKnOU8",
+      "description": "How to use Dune Analytics to explore various data sets"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=8nsenuWhHKk",
+      "description": "Guide on how to bridge to Optimism and other L2"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=ZUS0-3nmjGU",
+      "description": "Explaining how a Sandwich Attack works, how to protect yourself from it"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.com/invite/stSDedPEB3",
+      "description": "Creator of a 2000+ users crypto Discord where users help each other"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://explorer.zora.energy/address/0x727cfd696300cd6f212709903cffe644a75a1da4",
+      "description": "CryptoMage Time Travel Contract on Zora"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views over 1 year",
+      "number": "612000",
+      "url": "https://socialblade.com/youtube/c/cryptomage"
+    },
+    {
+      "description": "Youtube subscribers",
+      "number": "12500",
+      "url": "https://www.youtube.com/c/cryptomage"
+    },
+    {
+      "description": "Discord users",
+      "number": "2.145",
+      "url": "https://discord.com/invite/stSDedPEB3"
+    },
+    {
+      "description": "Security / disinformation awareness VDO",
+      "number": "9",
+      "url": "https://pastebin.com/dtD23NSG"
+    },
+    {
+      "description": "Unique addresses on event",
+      "number": "648",
+      "url": "https://explorer.zora.energy/address/0x727cfd696300cd6f212709903cffe644a75a1da4"
+    },
+    {
+      "description": "Transactions on contract",
+      "number": "5091",
+      "url": "https://explorer.zora.energy/address/0x727cfd696300cd6f212709903cffe644a75a1da4"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 2641.44,
+      "description": "Received through YouTube advertising over a period of 2,5 years."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xaa1fcb942f1a3d9a7d8c2513fa3e65aaffea63ae2d5fd1fc6c7b6955800858df",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 31,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

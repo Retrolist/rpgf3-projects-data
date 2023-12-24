@@ -1,0 +1,61 @@
+{
+  "bio": "An enthusiast passionate about the mass adoption of blockchain",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "nuuneoi",
+  "websiteUrl": "https://nuuneoi.com",
+  "applicant": {
+    "address": {
+      "address": "0x2117085E7e4eE35825A9C71bbE46AAd8c01789f3",
+      "resolvedName": {
+        "address": "0x2117085E7e4eE35825A9C71bbE46AAd8c01789f3",
+        "name": "nuuneoi.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2117085E7e4eE35825A9C71bbE46AAd8c01789f3"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2117085E7e4eE35825A9C71bbE46AAd8c01789f3.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x1b492282cb05a32ac35306a0db3a669bc200be760001997d55cf588a5ff66419"
+  },
+  "impactDescription": "Much like my contributions to Optimism, my primary focus is on education for both end-users and developers.\n\nI consistently educate individuals about the inner workings of the Optimism Collective, emphasizing the philosophy that Impact equals Profit. Occasionally, I translate proposals into Thai and provide detailed insights to my followers, encouraging them to use their voice and vote on these proposals.",
+  "contributionDescription": "My contributions can be broadly categorized into two areas: supporting developers and assisting end-users.\n\nFor the developer, being one myself, I've aided an uncountable amount of projects by sharing my expertise on how to develop and establish businesses on Optimism, as well as on other blockchains within the Superchain ecosystem.\n\nFor end-users, I've facilitated the onboarding of thousands and continuously provided education, especially regarding technical aspects. This includes guiding users on how to avoid exploits and advising on measures to take in the event of a hack.\n\nFor the record, I was a person who spotted an early exploit in Quixotic's NFT Marketplace, aiding in damage control and preserving the Optimism ecosystem's integrity. Ref: http://bit.ly/3S80dTq",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/nuuneoi",
+      "description": "My personal Twitter account."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptoslate.com/optimism-nft-marketplace-quixotic-suffers-exploit-following-contract-update/",
+      "description": "News about Quixotic exploit event and how we detected it."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Twitter Follower",
+      "number": "21900",
+      "url": "https://twitter.com/nuuneoi"
+    },
+    {
+      "description": "Facebook Follower",
+      "number": "55000",
+      "url": "https://facebook.com/nuuneoi"
+    },
+    {
+      "description": "# of posts made educated on Optimism",
+      "number": "200",
+      "url": "https://twitter.com/nuuneoi, https://facebook.com/nuuneoi"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7f02a8bbd6da623b7df2eec269f539230a251a8417202a5e1ebc5ebf98444486",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

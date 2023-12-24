@@ -1,0 +1,81 @@
+{
+  "bio": "Flipside is a leading data provider & growth partner for blockchain ecosystems",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Flipside Crypto",
+  "websiteUrl": "https://flipsidecrypto.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0x62a43123FE71f9764f26554b3F5017627996816a",
+      "resolvedName": {
+        "address": "0x62a43123FE71f9764f26554b3F5017627996816a",
+        "name": "flipsidecrypto.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x62a43123FE71f9764f26554b3F5017627996816a"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x62a43123FE71f9764f26554b3F5017627996816a.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x62a43123FE71f9764f26554b3F5017627996816a.png",
+    "id": "OptimistProfile|0x366165ef8cf2f99e64c24d5cbe1cc31566c734ba308332f0334d31e83cb42b90"
+  },
+  "impactDescription": "Our contributions have made critical data & infrastructure available to the Optimism & broader blockchain ecosystem for free. Enabling teams to make better decisions and for the Collective to provide the broader community with key network tooling. \n\nAdditionally, our applications & business intelligence have delivered deep insights and raised awareness of important developments within the Optimism ecosystem. These initiatives have helped attract new users and drive usage of the network. \n\nOverall, our contributions have delivered essential tooling, raised awareness of the OP stack, and helped drive adoption & user growth. \n\nWe are thrilled to continue supporting the Optimism Collective and broader community. ",
+  "contributionDescription": "Flipside has remained a devoted contributor to the Optimism ecosystem and OP Stack. \n\nOur contributions span data, applications, and insights. \n\n*Data*\n\nWe have curated and maintained data for both Optimism and Base.\n\n>Core Optimism & Base data tables (blocks, transactions, event logs, and traces)\n    -All entirely backfilled\n    -Ingesting OP data every 15-20 minutes\n>Curated and dimensional models for various protocols\n> Includes access to API, SDK, and CSV downloads. \n\n*Applications*\n\n>The Optimist Score (science.flipsidecrypto.xyz/optimist) aiding with Optimism's goal of on-chain attestation for the masses.\n    -Code is entirely open-sourced\n    -51,000+ attestations, 41,000+ users all time\n\n> Insights & BI\n   - Community-led analytics on critical Optimism ecosystem developments.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://flipsidecrypto.xyz/?d_project=optimism",
+      "description": "Optimism Dashboards on Flipside"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/FlipsideCrypto/user_metrics/tree/main/apps/optimism/optimistic_score_prototype",
+      "description": "The Opitmist Score by Flipside"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total Queries Executed",
+      "number": "1272553",
+      "url": "https://flipsidecrypto.xyz/"
+    },
+    {
+      "description": "Total Dashboard Views",
+      "number": "269701",
+      "url": "https://flipsidecrypto.xyz/"
+    },
+    {
+      "description": "Total Dashboard Viewers",
+      "number": "68926",
+      "url": "https://flipsidecrypto.xyz/"
+    },
+    {
+      "description": "Total Attestations",
+      "number": "51787",
+      "url": "https://science.flipsidecrypto.xyz/optimist"
+    },
+    {
+      "description": "Total Attestation Users",
+      "number": "41095",
+      "url": "https://science.flipsidecrypto.xyz/optimist"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 40079.68,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5c7db781f9c4ea6eadf270bb2e1e64cc888b4c57d7df92649bf039d5f6910d0a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 48,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

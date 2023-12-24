@@ -1,0 +1,240 @@
+{
+  "bio": "Covalent is the leading multichain indexer with 200+ blockchains indexed.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Covalent",
+  "websiteUrl": "https://www.covalenthq.com/",
+  "applicant": {
+    "address": {
+      "address": "0x58ba29F7b72B896c5F8faE603DaB7891106b1701",
+      "resolvedName": {
+        "address": "0x58ba29F7b72B896c5F8faE603DaB7891106b1701",
+        "name": "cryptso.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x58ba29F7b72B896c5F8faE603DaB7891106b1701"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x58ba29F7b72B896c5F8faE603DaB7891106b1701.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x58ba29F7b72B896c5F8faE603DaB7891106b1701.png",
+    "id": "OptimistProfile|0x05d9e8890c8ab3ae87ad4e10388aafc814a363a907febf1e429433fc7074bdf1"
+  },
+  "impactDescription": "Covalent's onchain data infrastructure has empowered over 559 monthly developers/applications actively building on the Superchain using our Unified API, resulting in 5,291,511 monthly API Calls.\n\nCovalent's tooling has been adopted by many applications within the Optimism ecosystem, including Aave, Bware Labs, Chainlink, Coin98, Curve, Gnosis Safe, Infura, Koinly, KyberSwap, LI.FI, Matcha, NodeReal, QuickNode, Rabby, Raleon, Rainbow, Rotki, Skytale, Tally, Tokensoft, tofuNFT, Utopia Labs, XDEFI, Zapper, and more, enabling them to provide better services to their users.\n\nWith our unified approach to fetch data from OP Mainnet, Base, Zora, PGN, and Mode, developers who build on one OP Chain supported by Covalent can also easily expand to other OP Chains, reaching millions of potential users.",
+  "contributionDescription": "Covalent has provided seamless access to realtime data for developers, analysts, and applications on the OP Stack. Since November 2021, Covalent has served as a key data infrastructure provider for Optimism, indexing OP Mainnet, OP Sepolia, OP Goerli, four OP Chains (Base, Zora, Public Goods Network, Mode), and six OP Stack Forks (opBNB, Mantle, Metis, Boba, Kinto, Loot Chain).\n\nOur Unified API provides transparency and visibility into assets across all supported OP Stack chains, while Increment serves as a BI Tool, enabling visualization of data and the extraction of valuable insights.\n\nThis allows developers and analysts to save time and resources and lets them focus on building applications and conducting analyses without worrying about the complexities of onchain data infrastructure.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/docs/api/",
+      "description": "Pull realtime data for OP Stack chains through Covalent's Unified API"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/platform/increment/#/",
+      "description": "Visualize onchian data on OP Stack chains through Covalent's Increment tool"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/platform/faucet/",
+      "description": "Get free OP Goerli and Base Goerli ETH for gas through Covalent's testnet faucet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/docs/networks/optimism/",
+      "description": "Access data for OP Mainnet (OP Chain) with Covalent's Unified API and Increment"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/docs/networks/base/",
+      "description": "Access data for Base (OP Chain) with Covalent's Unified API and Increment"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/docs/networks/zora/",
+      "description": "Access data for Zora (OP Chain) with Covalent's Unified API and Increment"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/docs/networks/public-goods-network/",
+      "description": "Access data for PGN (OP Chain) with Covalent's Unified API and Increment"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/docs/networks/mode-testnet/",
+      "description": "Access data for Mode (OP Chain) with Covalent's Unified API and Increment"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/docs/networks/opbnb/",
+      "description": "Access data for opBNB (OP Stack Fork) with Covalent's Unified API and Increment"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/docs/networks/mantle/",
+      "description": "Access data for Mantle (OP Stack Fork) with Covalent's Unified API and Increment"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/docs/networks/metis/",
+      "description": "Access data for Metis (OP Stack Fork) with Covalent's Unified API and Increment"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/docs/networks/boba-ethereum/",
+      "description": "Access data for Boba (OP Stack Fork) with Covalent's Unified API and Increment"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/docs/networks/kinto-testnet/",
+      "description": "Access data for Kinto (OP Stack Fork) with Covalent's Unified API and Increment"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/docs/networks/loot-chain/",
+      "description": "Access data for Loot (OP Stack Fork) with Covalent's Unified API and Increment"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/blog/ethglobal-s-superhack-5k-in-prizes-and-32-unique-submissions/",
+      "description": "Supported the Superhack hackathon with $5000 in prizes, resulting in 32 projects"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/optimismFND/status/1707830928825868519",
+      "description": "Megathread on the teams utilizing the OP Stack and joining the Superchain"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/blog/op/",
+      "description": "In-depth research report on the OP Stack and the onchain data behind OP Chains"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/t6xmgT40am8?si=qW85z_pNELBIFvYM",
+      "description": "Podcast explaining the Optimism Collective, OP Stack, and Superchain"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Covalent_HQ/status/1641487148913418241",
+      "description": "Thread on the onchain metrics and ecosystem developments behind Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/blog/arbitrum-and-optimism/",
+      "description": "In-depth research report on Optimism, covering a range of onchain metrics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/cZbKm1G4LIo?si=bE-Rq0J_9v6gcfCA",
+      "description": "Podcast explaining the Optimism ecosystem and its growth outlook"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/BuildOnBase/status/1628759589243035648",
+      "description": "Early launch partner for Base (we\u2019ve done this with Zora, PGN, and Mode too)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/davidtsocy/status/1701784836346617929",
+      "description": "Spoke at the Base x ATX DAO Meetup at Permissionless II"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/optimismFND/status/1667305591675691008",
+      "description": "Hosted a Prompt Master data competition for the Optimism ecosystem"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.covalenthq.com/data-alchemist/",
+      "description": "Ran a Data Alchemist Boot Camp open to the Optimism ecosystem"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/covalenthq/",
+      "description": "Covalent\u2019s GitHub repository"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Monthly active Superchain devs/apps",
+      "number": "559",
+      "url": "https://docs.google.com/spreadsheets/d/1kp97EGYaUUdyI_PyVaIeGaIbweVj-36ulqvcI_jA08k/edit#gid=2109951634"
+    },
+    {
+      "description": "Monthly Superchain API Calls",
+      "number": "5291511",
+      "url": "https://docs.google.com/spreadsheets/d/1kp97EGYaUUdyI_PyVaIeGaIbweVj-36ulqvcI_jA08k/edit#gid=2050757002"
+    },
+    {
+      "description": " Superhack hackathon unique submissions",
+      "number": "32",
+      "url": "https://www.covalenthq.com/blog/ethglobal-s-superhack-5k-in-prizes-and-32-unique-submissions/"
+    },
+    {
+      "description": "Optimism Data Prompt Master submissions",
+      "number": "20",
+      "url": "https://docs.google.com/spreadsheets/d/19ThLnjmWE-lEPmKu4DSjRZrzZIIlka2czVEbmng8qOk/edit#gid=168728065"
+    },
+    {
+      "description": "Data Alchemist Boot Camp graduates",
+      "number": "153",
+      "url": "https://docs.google.com/spreadsheets/d/116v4I5yR7M1DksuWgwPrhe9rlOUin1Jl9z_rECsH_ow/edit?usp=sharing"
+    },
+    {
+      "description": "Covalent OP Goerli Faucet drips",
+      "number": "365",
+      "url": "https://goerli-optimism.etherscan.io/txs?a=0x8fd7b6da245d25c45ec8d3822e507536141234e1&p=7"
+    },
+    {
+      "description": "Covalent Base Faucet drips",
+      "number": "7917",
+      "url": "https://goerli.basescan.org/txs?a=0x8fd7b6da245d25c45ec8d3822e507536141234e1&p=0"
+    },
+    {
+      "description": "OP Mainnet transactions indexed",
+      "number": "168895799",
+      "url": "https://optimistic.etherscan.io/"
+    },
+    {
+      "description": "Base transactions indexed",
+      "number": "59160603",
+      "url": "https://basescan.org/"
+    },
+    {
+      "description": "Zora transactions indexed",
+      "number": "12095097",
+      "url": "https://explorer.zora.energy/"
+    },
+    {
+      "description": "PGN transactions indexed",
+      "number": "4405838",
+      "url": "https://explorer.publicgoods.network/"
+    },
+    {
+      "description": "Mode transactions indexed",
+      "number": "5650577",
+      "url": "https://sepolia.explorer.mode.network/"
+    },
+    {
+      "description": "OP Stack research report impressions",
+      "number": "43200",
+      "url": "https://twitter.com/Covalent_HQ/status/1707449987414819075"
+    },
+    {
+      "description": "Optimism research report impressions",
+      "number": "138900",
+      "url": "https://twitter.com/Covalent_HQ/status/1641487148913418241"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x90a0df94274a3baadba6bad013350182cf13c31242fc318e25ff8e2ca84ae2a9",
+  "prelimResult": "Keep",
+  "reportReason": "not a public good",
+  "includedInBallots": 39,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

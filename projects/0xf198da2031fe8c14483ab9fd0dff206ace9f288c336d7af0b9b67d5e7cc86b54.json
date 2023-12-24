@@ -1,0 +1,46 @@
+{
+  "bio": "hello",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "adit",
+  "websiteUrl": "https://twitter.com/k1rteam_",
+  "applicant": {
+    "address": {
+      "address": "0xeCf848F122fC67Db08f1aafA97720D795A8EDFbc",
+      "resolvedName": {
+        "address": "0xeCf848F122fC67Db08f1aafA97720D795A8EDFbc",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xeCf848F122fC67Db08f1aafA97720D795A8EDFbc"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCf848F122fC67Db08f1aafA97720D795A8EDFbc.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xcf19f64b3d40893c3599174c8fc2317b4f181f5562107041f8eba856204fbf87"
+  },
+  "impactDescription": "I have contributed to the development of the Optimism Kovan testnet, which has played a vital role in testing and debugging the Optimism protocol. I have also contributed to the development of the Optimism documentation, which has helped to make the project more accessible to new users and developers.",
+  "contributionDescription": "I contributed to the development of the Optimism Kovan testnet, which played a vital role in testing and debugging the Optimism protocol. I specifically worked on developing a new testnet faucet that is more reliable and efficient than the previous faucet. This new faucet has made it easier for developers to test their applications on Optimism Kovan.\nI contributed to the development of the Optimism documentation, which has helped to make the project more accessible to new users and developers. I specifically worked on rewriting the documentation for the Optimism Bridge, which is the main entry point for users to interact with Optimism. This new documentation is more clear and concise, and it includes more examples and tutorials.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://github.com/adit4568",
+      "description": "github account"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "ssd",
+      "number": "11",
+      "url": "https://facebook.com"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xf198da2031fe8c14483ab9fd0dff206ace9f288c336d7af0b9b67d5e7cc86b54",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

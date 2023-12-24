@@ -1,0 +1,54 @@
+{
+  "bio": "C# Programmer who want to do the best job as he can!",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Vietus",
+  "websiteUrl": "https://www.wssolutions.net",
+  "applicant": {
+    "address": {
+      "address": "0x273E43621d7442C1CF0Fb4dF2AfCc05eD76327B8",
+      "resolvedName": {
+        "address": "0x273E43621d7442C1CF0Fb4dF2AfCc05eD76327B8",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x273E43621d7442C1CF0Fb4dF2AfCc05eD76327B8"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x273E43621d7442C1CF0Fb4dF2AfCc05eD76327B8.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x273E43621d7442C1CF0Fb4dF2AfCc05eD76327B8.png",
+    "id": "OptimistProfile|0x90b0551d1ae2b2592ef37e24fcd0006a9f1bff0f7d89fdae84e6216733cee62b"
+  },
+  "impactDescription": "I think that impact is very big in my professional job. As I am working for a corporate I can't share details but the impact will be really big soon! I think next year we will have a release if everything goes well! In our work we do hardly utilizes all the features of the OptimizmAPI.",
+  "contributionDescription": "In my job ( I can't reveal the name of one of the big companies) I do work with Optimism API to make a nice APP! It will be a breaking thing regarding the adoption! I do also share links and bridge info in our group chat on Telegram. Also privately I am currently working on a solution (startup) regarding private finances that will use OP chain for Web3 login. Maybe in a future I will add more features with this chain.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.epam.com",
+      "description": "Permanent Job"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Predicted number of people using website",
+      "number": "1000000",
+      "url": "https://www.cant-share-the-url.yet"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 50000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xda198a8a71671711a0a40d53ef8f45e9fd90313c38713403381936c825094a16",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,45 @@
+{
+  "bio": "2221",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "ds",
+  "websiteUrl": "https://app.optimism.io/profile/rpgf-application/basic-info",
+  "applicant": {
+    "address": {
+      "address": "0x56DAD2d8e7F4764668C0e8684b06B9D25df806A0",
+      "resolvedName": {
+        "address": "0x56DAD2d8e7F4764668C0e8684b06B9D25df806A0",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x56DAD2d8e7F4764668C0e8684b06B9D25df806A0"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x915dafc2d9ab0aeb338d9872fc0c3008585121a518d088745928dd44635e1bfa"
+  },
+  "impactDescription": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "contributionDescription": "111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement",
+      "description": "1"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "11",
+      "number": "1",
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x72423c306b5cb9871bac620d129488f20424abd7e0788f7132281d9b60883b2e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,48 @@
+{
+  "bio": "Trader #Solana Holdler NFT king ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Manojboi",
+  "websiteUrl": "https://www.catotechlab.com",
+  "applicant": {
+    "address": {
+      "address": "0x6deBF7Bc0EEdd7c51A9334d7f1E01c84678e3Ae7",
+      "resolvedName": {
+        "address": "0x6deBF7Bc0EEdd7c51A9334d7f1E01c84678e3Ae7",
+        "name": "catotech.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x6deBF7Bc0EEdd7c51A9334d7f1E01c84678e3Ae7"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xbd8caefcfd84560978b2ec5522dd8bc8ad33ed81e5e996c447ee6c0dc55ab28d"
+  },
+  "impactDescription": "By providing guidance and support to users, I can help them to better understand and utilize the features of Optimism, which can ultimately lead to increased engagement and adoption of the platform. Additionally, by addressing user issues and concerns in a timely and effective manner, I can help to build trust and confidence in the platform, which can contribute to a more positive overall perception of Optimism within the collective.",
+  "contributionDescription": "Delegates for op for the further infrastructure, Support for team and there events, my contribution to Optimism is to help users navigate the platform and make the most of their experience and i will share my experience with them  While my contributions may not have a direct impact on the collective as a whole, they can help to improve the experience of individual users and contribute to a more positive overall experience on the platform.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.catotechlab.com/op",
+      "description": "op discription"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Downloads",
+      "number": "1",
+      "url": "https://www.catotechlab.com/op"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xe308f8338ff498fc7b4ae77454d547582f99ff721d8c82130d0ad92c2fdafffb",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

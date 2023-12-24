@@ -1,0 +1,48 @@
+{
+  "bio": "sasuke",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "nhatpd",
+  "websiteUrl": "https://twitter.com/NhatPd10122406",
+  "applicant": {
+    "address": {
+      "address": "0x1643386F4d541dF457EDe54e249A6af8b0c92068",
+      "resolvedName": {
+        "address": "0x1643386F4d541dF457EDe54e249A6af8b0c92068",
+        "name": "nhatp.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x1643386F4d541dF457EDe54e249A6af8b0c92068"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1643386F4d541dF457EDe54e249A6af8b0c92068.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1643386F4d541dF457EDe54e249A6af8b0c92068.png",
+    "id": "OptimistProfile|0xeb99a5b6cae0cc9a5b792911b26c4a05cfd61d4260d860404dff33905eb3ce5a"
+  },
+  "impactDescription": "Optimism is a layer 2 ecosystem, alongside many other layer 2 ecosystems. I chose to use Optimism, it brought me many positive experiences, not only in terms of core technology, but also in transmission speed and network fees, overall I found it quite good.",
+  "contributionDescription": "Optimism is a layer 2 ecosystem, alongside many other layer 2 ecosystems. I chose to use Optimism, it brought me many positive experiences, not only in terms of core technology, but also in transmission speed and network fees, overall I found it quite good.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x1e61c68cd9383519a0def9d490202dee4f7e48905e40790c0128aa81d950b72b",
+      "description": "None"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": " Contract",
+      "number": "102",
+      "url": "https://optimistic.etherscan.io/tx/0x1e61c68cd9383519a0def9d490202dee4f7e48905e40790c0128aa81d950b72b"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x8686e78a36a691fd01e80820188361d64cd75490af049a08f491d363e6a3e0aa",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

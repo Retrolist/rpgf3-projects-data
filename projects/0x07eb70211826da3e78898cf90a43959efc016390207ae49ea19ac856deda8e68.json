@@ -1,0 +1,70 @@
+{
+  "bio": "We are a DeFi risk analyst nonprofit specializing in stablecoins, RWAs and LSTs.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Llama Risk",
+  "websiteUrl": "https://cryptorisks.substack.com/",
+  "applicant": {
+    "address": {
+      "address": "0x34d6Dbd097f6b739C59D7467779549Aea60e1F84",
+      "resolvedName": {
+        "address": "0x34d6Dbd097f6b739C59D7467779549Aea60e1F84",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x34d6Dbd097f6b739C59D7467779549Aea60e1F84"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x34d6Dbd097f6b739C59D7467779549Aea60e1F84.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xa277fb5b3f67b8f85927bb8197a5811f92111291c416d5a91057da487332a1b9"
+  },
+  "impactDescription": "Llama Risk actively evaluates DeFi asset risks, especially stablecoins and liquid staking derivatives, within the Optimism ecosystem. We've assessed the system architectures for these assets, allowing users a simple way to understand protocols/tokens design.\n\nOur proactive insights have led to timely warnings for teams about design flaws and potential risks, ensuring the ecosystem remains robust and safe for DeFi users. Through collaborations with Curve DAO and Prisma Finance, we've demonstrated our commitment by assessing the risks of assets like stETH and rETH on Optimism.\n\nBy consistently sharing in-depth data and risk assessments, Llama Risk strengthens the Optimism community, guiding users and teams toward informed decisions.\n",
+  "contributionDescription": "Llama Risk assesses asset risks in DeFi, notably stablecoins, RWAs, and liquid staking derivatives. Our main aim is to keep Optimism and Ethereum users informed of these risks.\n\nOur contributions to the Optimism ecosystem have been marked by vital collaborations. Partnering with Curve DAO, we assessed the risks of their gauges on Optimism. Similarly, our collaboration with Prisma Finance enabled us to highlight risks for LSD assets such as stETH, rETH, and various other LSDs on Optimism.\n\nThrough our efforts in sharing on-chain asset data and associated risks, Llama Risk actively empowers the Optimism community, aiding users in making informed choices.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://cryptorisks.substack.com/",
+      "description": "Our Substack is where we make our research freely available to the public"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "impressions",
+      "number": "21900",
+      "url": "https://x.com/LlamaRisk/status/1684762471163408384?s=20"
+    },
+    {
+      "description": "impressions",
+      "number": "15400",
+      "url": "https://x.com/LlamaRisk/status/1678221796787765249?s=20"
+    },
+    {
+      "description": "likes",
+      "number": "53",
+      "url": "https://x.com/LlamaRisk/status/1667027094449328130?s=20"
+    },
+    {
+      "description": "subscribers",
+      "number": "3000",
+      "url": "https://substack.com/@cryptorisks"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x07eb70211826da3e78898cf90a43959efc016390207ae49ea19ac856deda8e68",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 26,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

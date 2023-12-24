@@ -1,0 +1,73 @@
+{
+  "bio": "Entrepreneur",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Satonaku",
+  "websiteUrl": "https://Vic369.eth",
+  "applicant": {
+    "address": {
+      "address": "0x1810bb2Face5711D20F0C5DA104415B96adad122",
+      "resolvedName": {
+        "address": "0x1810bb2Face5711D20F0C5DA104415B96adad122",
+        "name": "vic369.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x1810bb2Face5711D20F0C5DA104415B96adad122"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1810bb2Face5711D20F0C5DA104415B96adad122.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1810bb2Face5711D20F0C5DA104415B96adad122.png",
+    "id": "OptimistProfile|0xdf392c51c4402323fb844b45c95345e98596ea610ff43c44a4a4662f814b3092"
+  },
+  "impactDescription": "Data, Information, Knowledge, Education, Improvements. \n\nI Use optimism weekly if its not daily, i like to educate others and learning more and more about Crypto in general but more important about the Optimism blockchain and upgrades, RetroPGF and so on.",
+  "contributionDescription": "I have a total of 357 Transaction on Optimism network, i have delegated many times and own 100's of NFTs on optimism. I also check optimism website plenty of times so check when im eligible for the NFT PFP.  0x1810bb2Face5711D20F0C5DA104415B96adad122 this is my wallet and this wallet was also eligible for the #1 ditribution of OP tokens, with that distribution i was able to explore much more of the Optimism ecosystem and explored alot, my wallet is almost 1000 days old, i've spend on main-net like 1.6ETH which a big part was bridging to optimism in the bullrun of 2021. I really like the Optimism network and highly recommend everyone to build on it. and centainly think that it has a high potential of being one of the best Layer 2's around there.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x1810bb2Face5711D20F0C5DA104415B96adad122",
+      "description": "My OP Dashboard"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Profile OP",
+      "number": "1",
+      "url": "https://debank.com/profile/0x1810bb2face5711d20f0c5da104415b96adad122?chain=op"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 2000,
+      "description": ""
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 600,
+      "description": "i have voted multiple times on snapshot and tally"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1,
+      "description": "I am a liquidity provider and also holding many currencies on OP"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1,
+      "description": "0x1810bb2Face5711D20F0C5DA104415B96adad122"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x89082b653552e5d516e5c8e596e6722d39f5e2b4e6442c92a440f1017ee0427e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

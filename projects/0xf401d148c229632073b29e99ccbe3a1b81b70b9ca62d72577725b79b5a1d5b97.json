@@ -1,0 +1,46 @@
+{
+  "bio": "Jelaskan dampak kontribusi Anda terhadap Optimism Collective",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "NGY",
+  "websiteUrl": "https://dscvr.one/u/Mangueyen",
+  "applicant": {
+    "address": {
+      "address": "0x18CCC8750cEb411e778bD34c8E7A183BAC465AE6",
+      "resolvedName": {
+        "address": "0x18CCC8750cEb411e778bD34c8E7A183BAC465AE6",
+        "name": "noyjacker.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x18CCC8750cEb411e778bD34c8E7A183BAC465AE6"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x18CCC8750cEb411e778bD34c8E7A183BAC465AE6.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x7837430c5971d26e7fb012bb47043730b92ad23405543cac587956f67044051b"
+  },
+  "impactDescription": "I often make transactions on the OP network and know how many tokens\nhttps://optimistic.etherscan.io/address/0x18ccc8750ceb411e778bd34c8e7a183bac465ae6\nbridge from L1 to L2 with OP or with another OP network\nI want to share any information on the OP network with relatives or people who don't know much about the crypto world.  with the social media platform that I have.  like giving the year below the op will have a feature to create NFTs with interesting characters.",
+  "contributionDescription": "building from social media to make it easier for other people to know about the op network\nI want to share any information on IP networks with relatives or people who don't know much about the crypto world.  with the social media platform that I have",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a?a=0x18ccc8750ceb411e778bd34c8e7a183bac465ae6",
+      "description": "https://www.collab.land/"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "https://www.collab.land/",
+      "number": "18",
+      "url": "https://www.collab.land/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xf401d148c229632073b29e99ccbe3a1b81b70b9ca62d72577725b79b5a1d5b97",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,90 @@
+{
+  "bio": "Open edition mint celebrating onchain media.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Onchain Media Enthusiast",
+  "websiteUrl": "https://www.onvessel.world/onchain-media-enthusiast",
+  "applicant": {
+    "address": {
+      "address": "0xFF0c6EC0130575e51e9B7173F1E095f188e3d524",
+      "resolvedName": {
+        "address": "0xFF0c6EC0130575e51e9B7173F1E095f188e3d524",
+        "name": "onvessel.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xFF0c6EC0130575e51e9B7173F1E095f188e3d524"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFF0c6EC0130575e51e9B7173F1E095f188e3d524.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFF0c6EC0130575e51e9B7173F1E095f188e3d524.png",
+    "id": "OptimistProfile|0xe22df5e161e1ed3b9abefac8f686a93d9063ab15b88e1e418f106ed05a17b230"
+  },
+  "impactDescription": "Our Onchain Media Enthusiast mint experience launched on Thursday Sept 28. It was deployed on Base and is free to collect forever. Minting allowed collectors to co-sign the Onchain Media Enthusiast manifesto. We surfaced collectors/co-signers to the native mint page. \n\nThe collectible garnered over 300 mints in the first 24 hours, and there have been 689+ since launch. To date, the Onchain Media Enthusiast mint has activated 571+ holders on the OP stack.  We purposefully built a delightful and seamless mint experience using Decent's The Box, and deployed to Base L2 in order to make the mint accessible to as many collectors as possible. \n\nIn addition to the native mint site build, we also created dynamic marketing assets to support distribution. ",
+  "contributionDescription": "We created a free to collect 721 and onchain media manifesto, deployed to Base. Onchain media is a growing design and build space. The Onchain Media Enthusiast manifesto allows builders, creators, and collectors to showcase their support of the onchain media community.  ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.onvessel.world/onchain-media-enthusiast",
+      "description": "Consumer-facing mint experience. "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x08dab083ce8d760198eeb21e20421f575ca0b653",
+      "description": "Contract address."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/onvessel_world/status/1707801497423974790?s=20",
+      "description": "Marketing assets in support of distribution. "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of mints",
+      "number": "689",
+      "url": "https://basescan.org/token/0x08dab083ce8d760198eeb21e20421f575ca0b653#balances"
+    },
+    {
+      "description": "Number of holders",
+      "number": "571",
+      "url": "https://basescan.org/token/0x08dab083ce8d760198eeb21e20421f575ca0b653#balances"
+    },
+    {
+      "description": "Impressions",
+      "number": "2561",
+      "url": "https://x.com/onvessel_world/status/1707801497423974790?s=20"
+    },
+    {
+      "description": "Impressions",
+      "number": "1290",
+      "url": "https://x.com/onvessel_world/status/1707444603337449729?s=20"
+    },
+    {
+      "description": "Impressions",
+      "number": "1644",
+      "url": "https://x.com/onvessel_world/status/1707399827187769419?s=20"
+    },
+    {
+      "description": "Impressions",
+      "number": "1724",
+      "url": "https://x.com/onvessel_world/status/1707049632000356426?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 512.63,
+      "description": "Protocol rewards on Zora"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x168c3f157522e723c835ba79d4014f8b2a13637b668d43b4b922bc27231ad1ba",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 7,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

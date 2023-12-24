@@ -1,0 +1,61 @@
+{
+  "bio": "Life is simple if you do it easily",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "netkupu",
+  "websiteUrl": "https://www.netkupu.com/",
+  "applicant": {
+    "address": {
+      "address": "0x953A1531acDE08DDE9644b81850E45FE85555f39",
+      "resolvedName": {
+        "address": "0x953A1531acDE08DDE9644b81850E45FE85555f39",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x953A1531acDE08DDE9644b81850E45FE85555f39"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x953A1531acDE08DDE9644b81850E45FE85555f39.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x6d5764a13ebf96f2b0344fbadb2c206074cf925673ceda2b8f67caa0a1ed1858"
+  },
+  "impactDescription": "Optimism always has solutions that offer scalability, speed, and lower transaction costs, all of which are critical to the continued growth of the DeFi ecosystem. For this reason, I fully contribute by actively transacting on the Optimism network to advance DeFi projects that support Optimism itself.",
+  "contributionDescription": "Contribution can be shown through my activity in Optimism, Of course I want to remain active in this network with many visible benefits. By being active on Web3 especially on the Optimism network This is one of the real contributions I have made and supports many projects that are currently developing ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xdc05d85069dc4aba65954008ff99f2d73ff12618",
+      "description": "Contract"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#contract",
+      "number": "420",
+      "url": "https://optimistic.etherscan.io/address/0xdc05d85069dc4aba65954008ff99f2d73ff12618"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 1000,
+      "description": ""
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7e3794855d304cfb1f6257bcd035a9df031e4b87f102b3890de3b5947c2f1046",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

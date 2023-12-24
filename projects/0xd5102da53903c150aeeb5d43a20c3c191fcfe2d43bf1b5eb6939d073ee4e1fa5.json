@@ -1,0 +1,60 @@
+{
+  "bio": "Ezkl lets you compile AI/ML models to zero-knowledge proofs",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "EZKL",
+  "websiteUrl": "https://ezkl.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0x535baE5D2b5C41D186a9A9983904BCFab4732836",
+      "resolvedName": {
+        "address": "0x535baE5D2b5C41D186a9A9983904BCFab4732836",
+        "name": "jasonmorton.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x535baE5D2b5C41D186a9A9983904BCFab4732836"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x959c2f97898d992693492a350f3364489ce6db1e1225b6f3001dc7da81399ceb"
+  },
+  "impactDescription": "We've helped teach developers about ZK and build AI/ML models with verifiers that work on Optimism. Whether it is defi, on-chain games, identity, or something else, writing a few lines of Python and seeing the proof run and verify gives an aha experience that helps people get excited about what is possible on Optimism and on-chain in general.",
+  "contributionDescription": "Ezkl is an open-source engine for doing inference for deep learning models and other computational graphs in a zk-snark (ZKML). It can be used from a Jupyter notebook, Python, Javascript, or the command line. It has brought a wave of new developers from Python, AI/ML, and data science because it lets them run the models they build with, effectively on-chain. And it all verifies on Optimism. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/zkonduit/ezkl",
+      "description": "The core, open-source ezkl compiler"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.ezkl.xyz/",
+      "description": "Blog describing what we do and some of the innovations from the past year"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Github Stars",
+      "number": "608",
+      "url": "https://github.com/zkonduit/ezkl"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 14000,
+      "description": "Gitcoin"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd5102da53903c150aeeb5d43a20c3c191fcfe2d43bf1b5eb6939d073ee4e1fa5",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 35,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

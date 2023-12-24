@@ -1,0 +1,58 @@
+{
+  "bio": "To Teach about blockchain and creating use cases in Africa",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "Web3 Tycoon",
+  "websiteUrl": "https://www.youtube.com/channel/UCi6TOiIK2rIiwHyNEf7M40g",
+  "applicant": {
+    "address": {
+      "address": "0xF5198cED7dF683a0c089208Fe9e109245081abb9",
+      "resolvedName": {
+        "address": "0xF5198cED7dF683a0c089208Fe9e109245081abb9",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xF5198cED7dF683a0c089208Fe9e109245081abb9"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF5198cED7dF683a0c089208Fe9e109245081abb9.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x77240aa736ace67607bc249db857792947bce8c2acb113e0a6d8814d8d1c12fb"
+  },
+  "impactDescription": "this is my first time and seeing protocols like worldcoin, how they making an impact as a software developer i want to be a big part of this and protocol by education, and solving problems in east Africa and the whole Africa.\nSo i have taught and continue to  teach many people In Kenya.\nI want to reach outerparts in EastAfrica and Later in The Whole Africa.\nMany are Farmers so am building a protocol that is helping alot of Farmers to avoid being scammed by leaders and bring financial freedom\n# OPTIMISMISFREEDOM",
+  "contributionDescription": "I have youtube channel, that i will use to teach East Africa and the whole of Africa about Optimism. and am thrilled to build on optimism . not only that but also i want to create protocols in my country that will help humanity in general. for example many of my kenyans are farmers but there is alot of corruption in the industry am hoping to receive a grant to help Farmers in Africa and Kenya specifically",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/channel/UCi6TOiIK2rIiwHyNEf7M40g",
+      "description": "The youtube channel, has been uploading about optimism, and will be teaching ."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/bennymunyiri/Mkulima-chain",
+      "description": "want to connect farmers in Kenya to sell coffee in transparent and trustorthy"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "views",
+      "number": "150",
+      "url": "https://www.youtube.com/channel/UCi6TOiIK2rIiwHyNEf7M40g"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x38bf741e0f879b92ba97c3236f05811909459009255aec5f32a3acb9e11e940a",
+  "prelimResult": "Remove",
+  "reportReason": "Not sure this is in scope"
+}

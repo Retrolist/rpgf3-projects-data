@@ -1,0 +1,54 @@
+{
+  "bio": "Bulding",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Shin",
+  "websiteUrl": "https://twitter.com/xstar106",
+  "applicant": {
+    "address": {
+      "address": "0x42eaBe5E25Cc092eaE837961BE75BD5dfe182969",
+      "resolvedName": {
+        "address": "0x42eaBe5E25Cc092eaE837961BE75BD5dfe182969",
+        "name": "indiashark.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x42eaBe5E25Cc092eaE837961BE75BD5dfe182969"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x36da0c3dbde886d6594f3f4da22374e655c428e793ff091c34e6ad82e5ea37d3"
+  },
+  "impactDescription": "Introduce the community to the projects: Sound.xyz, Mercle.xyz... \nAll of those members have regularly used the above services and they also contribute back and introduce other members.\nThat's all about the contributions me wish to receive RetroPGF.      \n The proof has been verified on-chain",
+  "contributionDescription": "Introduce the community to the projects: Sound.xyz, Mercle.xyz... \nAll of those members have regularly used the above services and they also contribute back and introduce other members.\nThat's all about the contributions me wish to receive RetroPGF.      \n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x42eabe5e25cc092eae837961be75bd5dfe182969#tokentxnsErc721",
+      "description": "Y"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Mint",
+      "number": "5",
+      "url": "https://optimistic.etherscan.io/tx/0xd4cc27c1b72739b75ad3b349dd8a6010dac76b8c3acabac390a098328f18d00f"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0e97273867b0a737309be2028f3cab6a14d5a616883645ac7e50e798baf1f8d3",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

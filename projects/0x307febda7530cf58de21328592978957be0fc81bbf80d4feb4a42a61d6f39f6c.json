@@ -1,0 +1,170 @@
+{
+  "bio": "A Ready-Player-One-like 3D open world platform for gamifying token utilities",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Another World",
+  "websiteUrl": "https://anotherworld.gg",
+  "applicant": {
+    "address": {
+      "address": "0x6cfbF06E8b6612B39333eA7c230208D1d178278d",
+      "resolvedName": {
+        "address": "0x6cfbF06E8b6612B39333eA7c230208D1d178278d",
+        "name": "jackie.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x6cfbF06E8b6612B39333eA7c230208D1d178278d"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6cfbF06E8b6612B39333eA7c230208D1d178278d.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6cfbF06E8b6612B39333eA7c230208D1d178278d.png",
+    "id": "OptimistProfile|0xa90e2bc533494d04aa9fd396f9f721deadf06a90ccafd43db1d81abfeb21b89a"
+  },
+  "impactDescription": "1. We are actively alpha-testing an OP + OP-stack powered digital world with web users and gamers on Epic Games Store and HyperPlay.\n\n2. Another World is bringing Bored Ape Yacht Club members and ApeCoin DAO communities into the Superchain ecosystem through a series of game-related activities and received top votes from the ApeCoinDAO community to fund further experiments.\n\n3. We showcased the shortest path from the official website to entering a 3D world using a web browser. Players can experience the gameplay first before using their wallets.\n\n4. Our open-source code samples (such as Unreal Engine in-game airdrop mechanism and paying on L1 for L2 NFT mints) can bring more game devs into the Superchain ecosystem and reduce the friction of L2 tokens.",
+  "contributionDescription": "1. Another World won OP's hackathon prizes and we keep building it into a game-like digital world where players are 3D avatars to continue their web3/NFT adventures. NFTs are game items usable in players' inventory. Tokens can unlock access and gameplay. \n\n2. Another World is an OP+OP-stack game. NFTs can be acquired as in-game airdrops via Optimism. We built our OP-stack for treasure-hunt battles where players win or lose on-chain items. We also supply in-game $OP airdrops for players who retrieve certain game items.\n\n3. Another World showcases a simplified UX for both web3 and web2 players to enter a 3D world. Web3 players opt-in by typing in ENS at the entry menu while web2 users are free to play using an URL. \n\n4. Our progress and game sample codes are open-source on GitHub.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://anotherworld.gg/",
+      "description": "Main site with a \"web-based preview\" to enter Another World"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/AnotherWorldDAO/Game-Release/releases",
+      "description": "We constantly iterate and release new experiments for building a digital world."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/AnotherWorldDAO/ue5-treasurehunt",
+      "description": "We open sourced an Unreal Engine sample project with built-in token airdrops."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/another-world-growth-experiments-cycle-11/5538",
+      "description": "Another World is a Growth Experiments Cycle 11 grantee"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/jackieleeeth/anotherworld",
+      "description": "Another World's Dune page"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/JackieLeeETH/status/1707983380879642850?s=20",
+      "description": "A recorded gameplay footage during a treasure hunting battle"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethglobal.com/showcase/another-world-4oy5f",
+      "description": "Another World was born as an OP prize winner in ETH Global SF Hackathon 2022"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/xDErhHv4PC0?si=KaDFHlN1mmHAgFrX",
+      "description": "NFT game item airdrop (via OP mainnet) raw footage"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/anotherworlddao/status/1690593914758295552?s=20",
+      "description": "Player receives $OP when picking up a game item"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/AnotherWorldDAO/Game-Contracts",
+      "description": "We open source all gameplay-related smart contracts"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://explorerl2-anotherworld-t6iniul41y.t.conduit.xyz/",
+      "description": "Our internal chain for treasure hunting battles using OP-stack via Conduit"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0b69157f85fb767676428f0d32866ee2b53ffcc6",
+      "description": "Game Prize contract that drips $OP to players who acquired certain game item"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/AnotherWorldDAO/L2MintWithAPE",
+      "description": "Pay $APE (or ERC20) on L1 to mint NFTs on L2 OP via cross-layer msg"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Fastest way to play (in sec.) ",
+      "number": "30",
+      "url": "https://anotherworld.gg/pstm"
+    },
+    {
+      "description": "1st in-game token gating mechanism",
+      "number": "1",
+      "url": "https://x.com/JackieLeeETH/status/1604363250446979073?s=20"
+    },
+    {
+      "description": "ApeCoin DAO Digital Goods (1st in votes)",
+      "number": "202",
+      "url": "https://prop.house/thank-ape/digital-goods:-create-culture-for-apecoin"
+    },
+    {
+      "description": "ApeCoin DAO Developers (2nd in votes)",
+      "number": "356",
+      "url": "https://prop.house/thank-ape/apecoin-developers:-build-the-future-of-apecoin"
+    },
+    {
+      "description": "ApeCoin DAO Futurist (1st in votes)",
+      "number": "529",
+      "url": "https://prop.house/thank-ape/apecoin-futurists:-ape-in-to-the-future"
+    },
+    {
+      "description": "1st OP game with MadeByApes license",
+      "number": "1",
+      "url": "https://madeby.yuga.com/apes/product/0xdcfecf3a2f67469c2075dc9a4779ee955bfc57f1fd4971e4bfbc6cac00d0607f"
+    },
+    {
+      "description": "1st OP game listed on Epic Games Store",
+      "number": "1",
+      "url": "https://store.epicgames.com/en-US/p/another-world-b86b7e"
+    },
+    {
+      "description": "1st OP game published on HyperPlay",
+      "number": "1",
+      "url": "https://store.hyperplay.xyz/game/anotherworld"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 20000,
+      "description": "Growth Experiments Cycle 11"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 3000,
+      "description": "Metaverse Hackathon: Build NFT / Gaming Projects with Optimism"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "ETH Global SF Hackathon Top prizes from Optimism, ApeCoinDAO, and ENS"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "ApeCoinDAO ThankApe grants"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x307febda7530cf58de21328592978957be0fc81bbf80d4feb4a42a61d6f39f6c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 19,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

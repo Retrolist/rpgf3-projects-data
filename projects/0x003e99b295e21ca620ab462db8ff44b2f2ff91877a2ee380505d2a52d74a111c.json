@@ -1,0 +1,52 @@
+{
+  "bio": "Fan of Crypto since 2 years ago. I know that crypto will dominate in the future",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Uhtred",
+  "websiteUrl": "https://twitter.com/MRMCTAN15",
+  "applicant": {
+    "address": {
+      "address": "0xfd555256bE7f02Ce04509fa5dEC7C66164C33C66",
+      "resolvedName": {
+        "address": "0xfd555256bE7f02Ce04509fa5dEC7C66164C33C66",
+        "name": "mrmctan.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xfd555256bE7f02Ce04509fa5dEC7C66164C33C66"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfd555256bE7f02Ce04509fa5dEC7C66164C33C66.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x4fb77442f2cd4bfd6582b594cab5a1c311cca79dee5c22deb973e996f209f6e5"
+  },
+  "impactDescription": "The ecosystem is small but they have some great projects on there.\nI am  confident their tech stack and the attention Base will bring is going to bring a lot of projects over. I am optimistic we'll see a few. Cheers Optimistic people and to the developers!",
+  "contributionDescription": "I am here to support by means of delegation and participating in community activities. I will also buy a lot of Optimism in the future and will participate in voting governance. For me, Optimism is a fast, stable, and scalable L2 solution built on Ethereum. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x916350f5c47daa663e92239ea97f656e1b2aa2d12079a8c0f9be8c819742d854",
+      "description": "0x15fa08599eb017f89c1712d0fe76138899fdb9db"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/tx/0x916350f5c47daa663e92239ea97f656e1b2aa2d12079a8c0f9be8c819742d854"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x003e99b295e21ca620ab462db8ff44b2f2ff91877a2ee380505d2a52d74a111c",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

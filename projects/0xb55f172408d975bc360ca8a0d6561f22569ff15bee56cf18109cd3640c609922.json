@@ -1,0 +1,83 @@
+{
+  "bio": "Dev + Creative Artist (Toronto, Canada)",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "ghostlinkz",
+  "websiteUrl": "https://outcasters.xyz",
+  "applicant": {
+    "address": {
+      "address": "0x05FF7cC8B490B38898744037f951F3247673C2ed",
+      "resolvedName": {
+        "address": "0x05FF7cC8B490B38898744037f951F3247673C2ed",
+        "name": "ghostlinkz.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x05FF7cC8B490B38898744037f951F3247673C2ed"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x05FF7cC8B490B38898744037f951F3247673C2ed.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x7a93958e6ed7cbcb21054fc90521c9830295a717faefae725dc382bfc01824d2"
+  },
+  "impactDescription": "- Facilitated the onboarding of new users into the Optimism and Ethereum ecosystem.\n- Provided education to users regarding the social protocols and networks developed on Optimism.\n- Attracted and introduced new NFT collectors to the Optimism ecosystem.",
+  "contributionDescription": "Launched Outcasters, a weekly newsletter for the Farcaster social protocol which is built on top of Optimism. Outcasters is a weekly newsletter curating visual snapshots of Farcaster culture. Readers can experience a collection of captivating images that serve as gateways to intriguing discussions inside a vibrant social network, enabling them to embark on deeper explorations. \n\nOutcasters launched on July 16, 2023 and has deliver a weekly newsletter for 14 weeks in a row. The newsletter has gained over 200 subscribers, 63% newsletter open rate, and over 3000 pageviews. \n\nStarting with Snapshot 008, Outcasters is now also guest curated by different members of the Farcaster community. https://outcasters.xyz/snapshot-008",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://outcasters.xyz",
+      "description": "Official website for the newsletter"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ildi-x/outcasters",
+      "description": "Official website for TWLY (this week last year) segment "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://warpcast.com/ghostlinkz.eth",
+      "description": "My personal Farcaster profile "
+    },
+    {
+      "type": "OTHER",
+      "url": "http://farcasterinsights.com/",
+      "description": "Farcaster Insights Dashboard (created by ghostlinkz)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total Snapshots Released (issues)",
+      "number": "14",
+      "url": "https://paragraph.xyz"
+    },
+    {
+      "description": "Subscribers",
+      "number": "200",
+      "url": "https://paragraph.xyz"
+    },
+    {
+      "description": "Pageviews",
+      "number": "3000",
+      "url": "https://paragraph.xyz"
+    },
+    {
+      "description": "Open rate",
+      "number": "63",
+      "url": "https://paragraph.xyz"
+    },
+    {
+      "description": "NFTs minted ",
+      "number": "50",
+      "url": "https://paragraph.xyz"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xb55f172408d975bc360ca8a0d6561f22569ff15bee56cf18109cd3640c609922",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 11,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

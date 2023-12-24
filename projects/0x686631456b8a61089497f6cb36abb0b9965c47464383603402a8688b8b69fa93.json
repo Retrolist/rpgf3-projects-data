@@ -1,0 +1,131 @@
+{
+  "bio": "Upload Imagination, Earn Ethereum.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "ZORA",
+  "websiteUrl": "https://zora.co",
+  "applicant": {
+    "address": {
+      "address": "0x8700B87C2A053BDE8Cdc84d5078B4AE47c127FeB",
+      "resolvedName": {
+        "address": "0x8700B87C2A053BDE8Cdc84d5078B4AE47c127FeB",
+        "name": "tyson.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8700B87C2A053BDE8Cdc84d5078B4AE47c127FeB"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8700B87C2A053BDE8Cdc84d5078B4AE47c127FeB.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8700B87C2A053BDE8Cdc84d5078B4AE47c127FeB.png",
+    "id": "OptimistProfile|0x84c7b63380838aa318f0d39e7b96dcdde4f7e823745a6815376c30ba6994cc51"
+  },
+  "impactDescription": "Given the strength of Zora's brand and community, a lot of the value we provide is qualitative. That said, we have some notable metrics below:\n\n1. Zora Network has grown to 2.5M transactions per month\n2. Over 385,000 addresses bridged\n3. Averaging 8% of Share of Total L2 Fee Revenue Across OP Stack Chains\n4. Hosted the ETHGlobal Superhack \n\n+++",
+  "contributionDescription": "1. Launched a landmark OP Stack Rollup for Ethereum creators\n2. Supported tools like Opensea, Rainbow, and Mint Fun on Zora Network.\n3. Built native support for OP Mainnet, Base, PGN, and integrated with Nouns Builder platform.\n4. Onboarded developers and new apps like Titles to the OP Stack.\n5. Introduced new users to Ethereum and artists from non-EVM ecosystems like Tezos.\n6. Collaborated on commemorative mints like Optimistic Zorb (58k mints) and Base Day One (154k mints).\n7. Championed Conduit, facilitating others to launch on OP.\n8. Organized an OP Stack MEV competition, offering ETH prizes.\n9. Exclusively supported the OP Stack, not other L2s.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://zora.co",
+      "description": "The best place to mint on Ethereum."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nouns.build",
+      "description": "The best place to create a Nouns DAO on Ethereum."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://titles.xyz/",
+      "description": "AI-powered creative tools for remixing and publishing cryptomedia."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/HughMungusFinch/status/1712471817376641341",
+      "description": "Bringing new users to Ethereum"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/ugodigi.eth/hfjuAvs-SE4ZUzcClNb7qLV1wXPaRQS6VMiPcx1t-uY",
+      "description": "Onboarding Tezos users to OP Stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zora.co/collect/oeth:0x544c2bd4a3ce5015036eb95ce3ba9626d25ad8c8/1",
+      "description": "Optimistic Zorb"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zora.co/collect/base:0x7d5861cfe1c74aaa0999b7e2651bf2ebd2a62d89",
+      "description": "Base Day One Zorb"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://first.lol",
+      "description": "OP Stack MEV Competition, in partnership with Flashbots"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Share of L2 Fee Revenue Across OP Stack",
+      "number": "8",
+      "url": "https://dune.com/oplabspbc/op-stack-chains-l1-activity?undefined="
+    },
+    {
+      "description": "Active Addresses",
+      "number": "460000",
+      "url": "https://explorer.zora.energy/stats"
+    },
+    {
+      "description": "Transactions per Month",
+      "number": "2500000",
+      "url": "https://dune.com/oplabspbc/op-stack-chains-l1-activity?undefined="
+    },
+    {
+      "description": "Hackathon costs (in dollars)",
+      "number": "1000000",
+      "url": "https://ethglobal.com/events/superhack"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x686631456b8a61089497f6cb36abb0b9965c47464383603402a8688b8b69fa93",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 60,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

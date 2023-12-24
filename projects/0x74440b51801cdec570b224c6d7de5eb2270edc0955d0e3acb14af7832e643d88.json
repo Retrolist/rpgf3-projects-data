@@ -1,0 +1,45 @@
+{
+  "bio": "Interact with a DApp to rate it. Address usage ensures genuine ratings.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Eternal Reviews",
+  "websiteUrl": "https://ethernal-reviews.netlify.app/#/",
+  "applicant": {
+    "address": {
+      "address": "0xf6d4067BbC68b0d1675FB3F87BAC928a20E86ad9",
+      "resolvedName": {
+        "address": "0xf6d4067BbC68b0d1675FB3F87BAC928a20E86ad9",
+        "name": "hedvika.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xf6d4067BbC68b0d1675FB3F87BAC928a20E86ad9"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x1359cc21b90c95f20ebdb4e2b38adabf7ce9fdf33f31354b0e764a18cf439d23"
+  },
+  "impactDescription": "DApps Rating Platform: Only users who have interacted with a specific DApp can rate it. Users must log in with an ETH address. Users can evaluate a project only if there is activity associated with their address and the relevant contract addresses. This system ensures that only genuine users can rate DApps, contributing to a more secure Optimism ecosystem, which aligns with broader adoption.",
+  "contributionDescription": "DApps Rating Platform: Only users who have interacted with a specific DApp can rate it. Users must log in with an ETH address. Users can evaluate a project only if there is activity associated with their address and the relevant contract addresses. This system ensures that only genuine users can rate DApps, contributing to a more secure Optimism ecosystem, which aligns with broader adoption.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://ethglobal.com/showcase/ethernal-reviews-9kwmk",
+      "description": "ETH Global project page"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Assessable projects deployed on Optimism",
+      "number": "20",
+      "url": "https://ethglobal.com/showcase/ethernal-reviews-9kwmk"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x74440b51801cdec570b224c6d7de5eb2270edc0955d0e3acb14af7832e643d88",
+  "prelimResult": "Remove",
+  "reportReason": "Not sure from their application if this has any impact"
+}

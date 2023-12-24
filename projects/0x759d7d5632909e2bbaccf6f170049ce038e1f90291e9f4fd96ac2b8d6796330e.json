@@ -1,0 +1,54 @@
+{
+  "bio": "web3 moderator, collab manager, defi , nft mogul",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "tellar",
+  "websiteUrl": "https:www.facebook.com",
+  "applicant": {
+    "address": {
+      "address": "0x00DF98F3bf4124e17E7A7a49994AA6b9762FAb58",
+      "resolvedName": {
+        "address": "0x00DF98F3bf4124e17E7A7a49994AA6b9762FAb58",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x00DF98F3bf4124e17E7A7a49994AA6b9762FAb58"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x92291ef5e52b19394ed9cb83a3da9e20d461e8cedb086663e78b750487b2a34c"
+  },
+  "impactDescription": "\n\n\nSocial contagion research suggests that individual decision making is shaped by collective, social processes. We extend the entrepreneurial optimism literature by arguing that collective optimism\u2014the shared, positive expectations about future outcomes\u2014is salient to key entrepreneurial outcomes. We test our position by examining how fluctuations in U.S. collective entrepreneurial optimism influence venture creation and growth using 1993\u20132010 NFIB entrepreneurial optimism data. Results indicate that collective entrepreneurial optimism exhibits a curvilinear relationship with venture creation and growth, which is moderated by environmental dynamism. We validate the NFIB measure by constructing an alternative measure of collective entrepreneurial optimism using media reports.",
+  "contributionDescription": "Social contagion research suggests that individual decision making is shaped by collective, social processes. We extend the entrepreneurial optimism literature by arguing that collective optimism\u2014the shared, positive expectations about future outcomes\u2014is salient to key entrepreneurial outcomes. We test our position by examining how fluctuations in U.S. collective entrepreneurial optimism influence venture creation and growth using 1993\u20132010 NFIB entrepreneurial optimism data. Results indicate that collective entrepreneurial optimism exhibits a curvilinear relationship with venture creation and growth, which is moderated by environmental dynamism. We validate the NFIB measure by constructing an alternative measure of collective entrepreneurial optimism using media reports.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/LefterisJP/status/1706713742753366233",
+      "description": "threads"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "tweets",
+      "number": "3",
+      "url": "https://twitter.com/LefterisJP/status/1706713742753366233"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 23000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x759d7d5632909e2bbaccf6f170049ce038e1f90291e9f4fd96ac2b8d6796330e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

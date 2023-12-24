@@ -1,0 +1,53 @@
+{
+  "bio": "CYPTO ENTHUSIAST",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "SpanishG",
+  "websiteUrl": "https://spanishg.io",
+  "applicant": {
+    "address": {
+      "address": "0x4ddA9E1A1Cf3a97974c31c9a7FB2Be6486332D25",
+      "resolvedName": {
+        "address": "0x4ddA9E1A1Cf3a97974c31c9a7FB2Be6486332D25",
+        "name": "spanishg.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x4ddA9E1A1Cf3a97974c31c9a7FB2Be6486332D25"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xaee51b1c9af6b029929927c80b1623b011b390e5f7d56fb5d4d950490aa9fb87"
+  },
+  "impactDescription": "The overall growth of the ecosystem and referrals, bringing in more users to the Optimism Ecosystem and the Crypto space in general. I wish to increase my contributions and investments in this wonderful ecosystem. Just cant wait for the next bull cycle to have me and my friends and fans benefit and moon.",
+  "contributionDescription": "I have contributed to the Velodrome Ecosystem and the Optimism Governance protocol. Voting and having lots of transactions on here.\nI hope to explore more and help grow this wonderful Ecosystem that is redefining the crypto space with awesome transaction fees and easy to use protocol.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://spanishg.io",
+      "description": "I'm Me"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "20",
+      "number": "20",
+      "url": "https://spanishg.io"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2542b47819ba92a144e460102644fc8238e8a83c5f4971d45920a14b99fa612f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

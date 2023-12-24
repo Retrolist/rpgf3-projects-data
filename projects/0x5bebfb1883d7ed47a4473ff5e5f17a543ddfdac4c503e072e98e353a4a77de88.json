@@ -1,0 +1,60 @@
+{
+  "bio": "Try hard",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Wadiden",
+  "websiteUrl": "https://twitter.com/Wadiden1/",
+  "applicant": {
+    "address": {
+      "address": "0x30107086642022C97c60C552611849472e4edcD3",
+      "resolvedName": {
+        "address": "0x30107086642022C97c60C552611849472e4edcD3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x30107086642022C97c60C552611849472e4edcD3"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xffdcf1c77f5b9c1a5d322a52b26fd1287488e797151f9ebe605399cda2dae238"
+  },
+  "impactDescription": "Good Teamwork make dreams come true. I think this project will be of great interest to many people. Keep growing & I really support this. \nFantastic project with great potential. The team's dedication and ingenuity with excellent fan support will make this the envy of the crypto world. \n",
+  "contributionDescription": "Wish can make my family happy, hopefully successful and successful for the project, all of your projects\nCan successful in the future,, \nLet's begin the process, and make money togetherness we will be stronger and stronger than anyone else. \nTeamwork make dreams come true. I think this project will be of great interest to many people. Keep growing & I really support this. \n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x9739f7fa03808ed5627f6cacf0017f375513f4f09ec8770b6bede664ef04d4b9",
+      "description": "Tx hash"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x9739f7fa03808ed5627f6cacf0017f375513f4f09ec8770b6bede664ef04d4b9",
+      "description": "Tx"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Io",
+      "number": "12",
+      "url": "https://optimistic.etherscan.io/tx/0x9739f7fa03808ed5627f6cacf0017f375513f4f09ec8770b6bede664ef04d4b9"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5bebfb1883d7ed47a4473ff5e5f17a543ddfdac4c503e072e98e353a4a77de88",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

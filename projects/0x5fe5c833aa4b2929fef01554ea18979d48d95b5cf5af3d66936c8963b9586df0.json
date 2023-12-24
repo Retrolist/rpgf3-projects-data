@@ -1,0 +1,89 @@
+{
+  "bio": "A dune dashboard tracking onchain governance behavior at the Op Collective",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "satorrr",
+  "websiteUrl": "https://dune.com/usc-blockchain-club/optimism-delegates",
+  "applicant": {
+    "address": {
+      "address": "0x5c1D15dC3da43A18E60C2DdB87B3466097855530",
+      "resolvedName": {
+        "address": "0x5c1D15dC3da43A18E60C2DdB87B3466097855530",
+        "name": "atlantropa.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x5c1D15dC3da43A18E60C2DdB87B3466097855530"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5c1D15dC3da43A18E60C2DdB87B3466097855530.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5c1D15dC3da43A18E60C2DdB87B3466097855530.png",
+    "id": "OptimistProfile|0x111a4c54448f258265623132ce8b716612d6924f8d21395fee23648bee174802"
+  },
+  "impactDescription": "My Optimism Governance Dashboard has provided tangible benefits to governance participants by enabling more informed and effective participation. By centralizing critical data like voting trends, delegate activity, and proposals, it helps voters make educated delegate selections. This drives accountability and quality governance output. The dashboard also benefits new governance participants by making the process transparent and accessible. My dashboard empowers the Optimism community to analyze governance systematically. Specific groups benefiting include voters, delegates, and projects building in the ecosystem who require effective governance for operational success.",
+  "contributionDescription": "I invested substantial time creating an Optimism Governance Dashboard on Dune that enables real-time tracking of proposals, participation statistics, voting trends, and delegate activity to promote transparency in Optimism's on-chain governance. My dashboard visualizes key metrics like total proposals, votes cast, voter involvement over time, top delegate voting power and participation ratios, inactive delegate counts, and underrated but active delegates. It allows querying single-delegate's voting histories and power changes. I also created tables summarizing all proposals and delegate profiles for easy reference.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/usc-blockchain-club/optimism-delegates",
+      "description": "A live Dune dashboard tracking onchain governance at the Optimism Collective"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Dune Star ",
+      "number": "14",
+      "url": "https://dune.com/usc-blockchain-club/optimism-delegates"
+    },
+    {
+      "description": "Dune SEO rank: search optimism delegate",
+      "number": "5",
+      "url": "https://dune.com/usc-blockchain-club/optimism-delegates"
+    },
+    {
+      "description": "Inactive Delegates (amongst top 100)",
+      "number": "31",
+      "url": "https://dune.com/embeds/2812949/4688946"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5fe5c833aa4b2929fef01554ea18979d48d95b5cf5af3d66936c8963b9586df0",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 31,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Optimism Governance Contributions"
+}

@@ -1,0 +1,55 @@
+{
+  "bio": "iam hamar from indo",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "hamar",
+  "websiteUrl": "https://www.bosnesia.com",
+  "applicant": {
+    "address": {
+      "address": "0xbA279553a66253F55a0F4Dd30ce7f5bAcf832f8b",
+      "resolvedName": {
+        "address": "0xbA279553a66253F55a0F4Dd30ce7f5bAcf832f8b",
+        "name": "aiuoe.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xbA279553a66253F55a0F4Dd30ce7f5bAcf832f8b"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbA279553a66253F55a0F4Dd30ce7f5bAcf832f8b.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x49f665cc4d8b98a827195ddd87aebacceedab5a10d974ce572b519690502204e"
+  },
+  "impactDescription": "I want to test the sophistication or security of the OP's network. I want to test all the applications on OP's network and if possible see what things need to be added. Security is the most important thing in a blockchain network, and I want to contribute to the network security section and I will continue to try to strengthen the security that is so strong in this OP network. I hope someday I can be part of OP's team",
+  "contributionDescription": "I want to support the development of many projects in the OP network on an ongoing basis. This is a very good network and has the potential to be even better in the future. As a loyal user of the OP network, I want to bring OP into an ecosystem that is very capable and tested again. Hopefully one day I can become one of the OP team and partner with really great people in blockchain technology.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.bosnesia.com",
+      "description": "Bosnesia"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "download",
+      "number": "7",
+      "url": "https://www.bosnesia.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9972dba50cfc00de3a5d9646b581a31284ca3b27fc8fd8004140bfe142ca2d84",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

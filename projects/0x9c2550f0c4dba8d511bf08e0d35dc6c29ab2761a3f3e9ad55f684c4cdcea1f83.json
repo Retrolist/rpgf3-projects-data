@@ -1,0 +1,90 @@
+{
+  "bio": "The unified Superchain explorer",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Superscan",
+  "websiteUrl": "https://superscan.network",
+  "applicant": {
+    "address": {
+      "address": "0xb93F1e042939D58c0b6696366ca5e021DCF3650D",
+      "resolvedName": {
+        "address": "0xb93F1e042939D58c0b6696366ca5e021DCF3650D",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xb93F1e042939D58c0b6696366ca5e021DCF3650D"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb93F1e042939D58c0b6696366ca5e021DCF3650D.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb93F1e042939D58c0b6696366ca5e021DCF3650D.jpeg",
+    "id": "OptimistProfile|0xd6634eaf4956b4674f750462391e71f013b20bc16d51c564d2d167ea27c06b98"
+  },
+  "impactDescription": "As a unified block explorer for the whole Superchain ecosystem, the Superscan is the most usable block explorer for users and developers that operate and work on the Superchain.\n\nUsers don't need to hop from one block explorer to the other when bridging between OP Chains, and developers can quickly debug cross-chain application from the unified Contract Details page (example: https://superscan.network/address/0xABCDEFEd93200601e1dFe26D6644758801D732E8)\n\nThis is THE block explorer to showcase the present and the future of the Superchain.",
+  "contributionDescription": "The Superscan (https://superscan.network) is a unified block explorer for the Superchain, unifying data points at the ecosystem level, built by the same team that built Avascan (https://avascan.info), the world's first unified multi-chain block explorer.\n\nThe Superscan launched on July 20th.\n\nThink of it like Debank, but for everything you normally use on a block explorer:\n- Unified home page that shows blocks, txs and L1 <> L2 txs made in real-time [https://superscan.network]\n- Single-chain explorer for every OP Chain: OP Mainnet | Base |Zora | PGN\n- Unified contract verification compatible with Etherscan APIs\n- REST (native) and Etherscan compatible API endpoints\n- Aggregated charts and tools with single chain comparison\nAnd more.\n\nWe also designed Superchain and Superscan logos.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://superscan.network",
+      "description": "Unified Superchain explorer home page"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mainnet.superscan.network",
+      "description": "OP Mainnet single-chain explorer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://base.superscan.network",
+      "description": "Base single-chain explorer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zora.superscan.network",
+      "description": "Zora single-chain explorer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://pgn.superscan.network",
+      "description": "Public Goods Network (PGN) single-chain explorer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://arc.net/e/A6A13C70-73E2-412B-B263-99F4134A13E2",
+      "description": "Superchain logo / logotype"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://arc.net/e/B1EDF50A-93D0-4230-9CD5-490B57FD0D9D",
+      "description": "Superscan logo / logotype"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Users",
+      "number": "855",
+      "url": "https://arc.net/e/55D079A3-1F27-4A2E-9A79-75B5C4A2EEF5"
+    },
+    {
+      "description": "Sessions",
+      "number": "1619",
+      "url": "https://arc.net/e/F8A7DCD7-DE2B-4F68-AEA0-7EE2E3625D2C"
+    },
+    {
+      "description": "Views",
+      "number": "7166",
+      "url": "https://arc.net/e/6F28F2F0-26B9-478A-ABF9-0969114536B8"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x9c2550f0c4dba8d511bf08e0d35dc6c29ab2761a3f3e9ad55f684c4cdcea1f83",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 45,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

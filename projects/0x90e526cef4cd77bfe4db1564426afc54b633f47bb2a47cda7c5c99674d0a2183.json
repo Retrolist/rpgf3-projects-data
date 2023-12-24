@@ -1,0 +1,70 @@
+{
+  "bio": "Alphaday builds crypto experience dashboards.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Mike-Alphaday",
+  "websiteUrl": "https://app.alphaday.com",
+  "applicant": {
+    "address": {
+      "address": "0x4C67a8bA135012B7ab124A323E08448a673bb8Dc",
+      "resolvedName": {
+        "address": "0x4C67a8bA135012B7ab124A323E08448a673bb8Dc",
+        "name": "lazycake.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x4C67a8bA135012B7ab124A323E08448a673bb8Dc"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4C67a8bA135012B7ab124A323E08448a673bb8Dc.png",
+    "id": "OptimistProfile|0x905006d63246ec1e258ad517613127985703b92b090ca2c42696c31a1a6fe8fe"
+  },
+  "impactDescription": "We envision the Optimism dashboard being the go-to resource for community members since the entire Optimism ecosystem is aggregated into one UI on Alphaday. This makes it a very attractive on-boarding tool for new developers as the dashboard will contain beginner resource material, documentation, grants, bounties, open positions in community projects, on-chain tools and much more.",
+  "contributionDescription": "We have built an Optimism Community Dashboard to serve the Community. By having all the latest Optimism-related social feeds, blogs, on-chain metrics and access to dapps themselves, community members can quickly stay informed and interact with the Optimism ecosystem.\nOur complete proposal was published on Optimism Grants here: https://app.charmverse.io/op-grants/page-13585052320942648\nWe were redirected to RPGF's through feedback.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.alphaday.com/b/optimism/",
+      "description": "We have built an Optimism Community Dashboard to serve the Community."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/AlphadayHQ",
+      "description": "Our application's github repo."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "MAU",
+      "number": "20000",
+      "url": "https://www.hotjar.com/"
+    },
+    {
+      "description": " Average session time per user (minutes)",
+      "number": "9",
+      "url": "https://www.hotjar.com/"
+    },
+    {
+      "description": "Retention rate 30 days (%)",
+      "number": "50",
+      "url": "https://www.hotjar.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1,
+      "description": "We have not received any funding from Optimism yet."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x90e526cef4cd77bfe4db1564426afc54b633f47bb2a47cda7c5c99674d0a2183",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 13,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

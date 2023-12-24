@@ -1,0 +1,52 @@
+{
+  "bio": "Crypto and Web3 Enthusiast",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Marjun",
+  "websiteUrl": "https://twitter.com/goblinhex1",
+  "applicant": {
+    "address": {
+      "address": "0x8Bb53Fae02Bd4bf8CDdc52f0e4e957E749246f67",
+      "resolvedName": {
+        "address": "0x8Bb53Fae02Bd4bf8CDdc52f0e4e957E749246f67",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x8Bb53Fae02Bd4bf8CDdc52f0e4e957E749246f67"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8Bb53Fae02Bd4bf8CDdc52f0e4e957E749246f67.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8Bb53Fae02Bd4bf8CDdc52f0e4e957E749246f67.png",
+    "id": "OptimistProfile|0xa21b24f2a3fcf18c5de7aa83360db9b3fc7485b9238d6a319c4099919ddc050d"
+  },
+  "impactDescription": "Provided a great End user experience and adoption, it is a crucial factors for the success of any product or service. By providing a helpful, gentle, patient, and friendly assistance, we can ensure a positive user experience and encourage wider adoption of the product or service.",
+  "contributionDescription": "I like to contribute as a optimistic and responsible individual in the community. Participate in engages in web3 and full support on the project. Keeping active in many future events that inside the respective projects and future great partnership possible. Interact actively with other individual and meaningful participication to contribute to Optimism community ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x8Bb53Fae02Bd4bf8CDdc52f0e4e957E749246f67",
+      "description": "On chain activities using Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Onchain Contract ",
+      "number": "1000",
+      "url": "https://optimistic.etherscan.io/address/0x8Bb53Fae02Bd4bf8CDdc52f0e4e957E749246f67"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0e653d8e8334b17dda19c2aaae5ad4d249e7ab83683dc7fda6ed889af05de723",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

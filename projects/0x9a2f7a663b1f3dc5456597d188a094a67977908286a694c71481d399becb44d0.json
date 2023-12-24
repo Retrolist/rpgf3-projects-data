@@ -1,0 +1,73 @@
+{
+  "bio": "DeFi France is the leading French-speaking community on decentralized finance. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "DeFi France",
+  "websiteUrl": "https://docs.defi-france.org/",
+  "applicant": {
+    "address": {
+      "address": "0xDf29Ee8F6D1b407808Eb0270f5b128DC28303684",
+      "resolvedName": {
+        "address": "0xDf29Ee8F6D1b407808Eb0270f5b128DC28303684",
+        "name": "arthursw.sismo.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xDf29Ee8F6D1b407808Eb0270f5b128DC28303684"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDf29Ee8F6D1b407808Eb0270f5b128DC28303684.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xDf29Ee8F6D1b407808Eb0270f5b128DC28303684.png",
+    "id": "OptimistProfile|0xf7c1f893a86011fc8a9b4207003e26de0a9dbf553364d562b26efb74fe638a8c"
+  },
+  "impactDescription": "We have enabled the adoption of DeFi on ethereum and optimism through our various meetups and discussions on our discord. We've brought optimism to a wide audience through our educational content. In addition, numerous discussions on the optimism collective and op stack technologies have been held within our French-speaking community.",
+  "contributionDescription": "DeFi France is one of the biggest crypto community in France. We made monthly meetups in various cities (Paris, Toulouse, Lyon, Bordeaux) foster local connections. DeFi webinars educate newcomers. \nOur 3,000-member Discord, with 600 active weekly, boosts communication and support. Live Twitch and YouTube videos broaden knowledge and reach a wider audience, aiding crypto adoption.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.meetup.com/defi-france/events/?type=past",
+      "description": "Meetup"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@DeFiFrance/featured",
+      "description": "Youtube"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.defi-france.org/dff/gouvernance-defi-france",
+      "description": "GitBook"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.gg/defi-france-745336259194650788",
+      "description": "Discord"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views YT ",
+      "number": "100000",
+      "url": "https://www.youtube.com/@DeFiFrance/featured"
+    },
+    {
+      "description": "Meetups subscribers",
+      "number": "2167",
+      "url": "https://www.meetup.com/defi-france/"
+    },
+    {
+      "description": "Active user",
+      "number": "3734",
+      "url": "https://discord.gg/defi-france-745336259194650788"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x9a2f7a663b1f3dc5456597d188a094a67977908286a694c71481d399becb44d0",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 25,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

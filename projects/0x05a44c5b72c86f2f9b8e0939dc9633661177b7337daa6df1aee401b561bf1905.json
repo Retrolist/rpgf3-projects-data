@@ -1,0 +1,104 @@
+{
+  "bio": "Analyzing Governance Fund Recipients to Increase Transparency in the Collective",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "raho & tnorm",
+  "websiteUrl": "https://www.raho.me/my-work",
+  "applicant": {
+    "address": {
+      "address": "0x842bB1bb84CC8A3D6277b0ff9729d22D55E9C50B",
+      "resolvedName": {
+        "address": "0x842bB1bb84CC8A3D6277b0ff9729d22D55E9C50B",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x842bB1bb84CC8A3D6277b0ff9729d22D55E9C50B"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x842bB1bb84CC8A3D6277b0ff9729d22D55E9C50B.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x842bB1bb84CC8A3D6277b0ff9729d22D55E9C50B.png",
+    "id": "OptimistProfile|0xa6954f3faada639bc11394a29df346181a4c03f5740f23e1a9d4394290ebb5a1"
+  },
+  "impactDescription": "\nOur contributions have markedly impacted the Optimism Collective. Regarding End User Experience & Adoption, our in-depth analyses and transparent reporting mechanisms have empowered end users with clear, accessible insights into OP recipients and funding. This transparency fosters trust and potentially attracts new users to the Optimism Collective. Regarding Collective Governance, our introduction of the Governance Impact metric and the Dune Dashboard tracking has enhanced OP incentives' oversight. This metric has contributed to the transparency provided in our analysis and has laid the groundwork for OP distributors to emphasize the utilization of OP within their allocation. ",
+  "contributionDescription": "We have dedicated significant time to enhancing the transparency within the Governance Fund. We've conducted in-depth analyses on OP recipients, defined a new Impact Metric (Governance Impact), and developed a Dune Dashboards for tracking the Governance Impact of OP incentives and RPGF2. Following work completed at Messari, and outside of work for NumbaNerds, our work includes various initiatives, including many far-reaching Farcaster/Twitter threads and additional contributions to the OP Analytics Repo, all aimed at communicating transparency and accountability standards for funding and incentive impact analysis. We seek RetroPGF for our independent efforts in these areas.\n\nNote: This application is only for independent contributions to the Collective outside of NumbaNERDS & Messari.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/raho/rpgf",
+      "description": "RPGF2 Dune Dashboard"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/raho/incentgovimpact",
+      "description": "OP Incentives - Claimers & Governance Impact Dune Dashboard"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/incentive-impact-analysis-rubicon/6691",
+      "description": "Incentive Impact Analysis: Rubicon"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/t__norm/status/1696180697810239894?s=20",
+      "description": "OP Incentive Impact Analysis: Rubicon (Thread)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/incentive-impact-analysis-pooltogether/6553",
+      "description": "Incentive Impact Analysis: PoolTogether"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/raholloway/status/1686125913673719809?s=20",
+      "description": "OP Incentive Impact Analysis: PoolTogether (Thread)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1KD-JdNHE0EHsMsWslux-0dq45F4QCML-O6fID_NRnac/edit?usp=sharing",
+      "description": "Impact Analysis Framework/Outline for NumbaNerds to complete bounties"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/ethereum-optimism/op-analytics/issues/46",
+      "description": "OP Analytics - Reward Tracking Contributions"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Rubicon Analysis: Forum Views",
+      "number": "309",
+      "url": "https://gov.optimism.io/t/incentive-impact-analysis-rubicon/6691"
+    },
+    {
+      "description": "Rubicon Analysis: Thread Views",
+      "number": "6800",
+      "url": "https://x.com/t__norm/status/1696180697810239894?s=20"
+    },
+    {
+      "description": "PoolTogether Analysis: Forum Views",
+      "number": "567",
+      "url": "https://gov.optimism.io/t/incentive-impact-analysis-pooltogether/6553"
+    },
+    {
+      "description": "PoolTogether Analysis: Thread Views",
+      "number": "2949",
+      "url": "https://twitter.com/raholloway/status/1686125913673719809?s=20"
+    },
+    {
+      "description": "Polynomial Analysis: Thread Views",
+      "number": "1300",
+      "url": "https://x.com/raholloway/status/1700645536708378718?s=20"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x05a44c5b72c86f2f9b8e0939dc9633661177b7337daa6df1aee401b561bf1905",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 37,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Optimism Governance Contributions"
+}

@@ -1,0 +1,53 @@
+{
+  "bio": "trader, investor, beta tester and crypto enthusiast",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "amielyn",
+  "websiteUrl": "https://twitter.com/villan112",
+  "applicant": {
+    "address": {
+      "address": "0x08f40D5f8f85d7605e72C6e37DbeBadaB6149962",
+      "resolvedName": {
+        "address": "0x08f40D5f8f85d7605e72C6e37DbeBadaB6149962",
+        "name": "amielyn.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x08f40D5f8f85d7605e72C6e37DbeBadaB6149962"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x08f40D5f8f85d7605e72C6e37DbeBadaB6149962.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x08f40D5f8f85d7605e72C6e37DbeBadaB6149962.png",
+    "id": "OptimistProfile|0x6a8351b67b3ec5187be2e7e77a06fc1580cf06c328efd0e64f5fd4220f5cef3c"
+  },
+  "impactDescription": "By actively engaging in Promotion of Innovation and Positive Impact and Community Building and Engagement:, can make an impact to help build a more optimistic and sustainable future for the crypto space, fostering trust, credibility, and innovation within the community.",
+  "contributionDescription": "Promotion of Innovation and Positive Impact: Support and promote projects and initiatives that demonstrate the potential for blockchain technology to drive positive social and economic change. Highlight use cases that offer solutions to real-world problems, emphasizing the potential for crypto to revolutionize various sectors such as finance, supply chain, and healthcare.\n\nCommunity Building and Engagement: Actively participate in community discussions, forums, and events to foster a sense of belonging and collaboration within the crypto community. Encourage respectful dialogue, knowledge sharing, and the exchange of diverse perspectives to promote a healthy and vibrant crypto ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.co/dauntlesslimitless",
+      "description": "1"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "1",
+      "url": "https://twitter.com/villan112"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x063f668e964f5fe2a53b1c518e34d139fec6898bb4af1eb296a7bdce2d434794",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

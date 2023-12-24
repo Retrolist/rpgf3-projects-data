@@ -1,0 +1,67 @@
+{
+  "bio": "Vue 3 library for building Dapps on Ethereum",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Vue Dapp",
+  "websiteUrl": "https://vue-dapp.vercel.app/",
+  "applicant": {
+    "address": {
+      "address": "0x96A4715280c3Dac3F3093d51aA278aA5eb60ffDE",
+      "resolvedName": {
+        "address": "0x96A4715280c3Dac3F3093d51aA278aA5eb60ffDE",
+        "name": "chenjohnson.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x96A4715280c3Dac3F3093d51aA278aA5eb60ffDE"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x9d76e8061ee85ca046cb1a40787e61dd2c7fe55da6e3f7be8f8e102efbf994e4"
+  },
+  "impactDescription": "As of now, 137 projects have adopted Vue Dapp, with the Punk Domains community contributing numerous use cases. Their frontend template uses Vue Dapp, and this template is used by various projects collaborating with them, including PoolTogether and Optimistic Domains, etc.\n\n- Punk Domains https://punk.domains\n- PoolTogether https://names.pooly.me\n- Optimistic Domains https://optimistic.domains\n\nIn addition, a well-known project Gelato, their relay app is also developed using Vue Dapp. One of their developers is also one of the maintainers of Vue Dapp.\n\n- Gelato https://relay.gelato.network\n\nThese widespread adoption has created significant impact in the web3 world for Vue Dapp.",
+  "contributionDescription": "Vue Dapp offers an integration service that combines the Vue.js frontend framework with crypto wallets. In the world of web3 development, React.js dominates the majority of Dapp frontend. Vue Dapp presents an alternative technological choice, enabling developers to create decentralized services effortlessly with the simplicity of Vue.js. This not only enhances the diversity of technology within the ecosystem but also opens the door for more developers to engage in dapp development. Vue Dapp aims to move towards a more streamlined and easily scalable service goal, providing the best user experience and developer experience for various infrastructures and projects in the web3 world.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/orgs/vu3th/repositories",
+      "description": "This includes the Vue Dapp project and related templates."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# repositories that depend on vue-dapp",
+      "number": "137",
+      "url": "https://github.com/vu3th/vue-dapp/network/dependents"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 174,
+      "description": "Gitcoin Grants before Gitcoin Grants 18"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 409,
+      "description": "Gitcoin Grants 18 - Web3 Open Source Software"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 229,
+      "description": "Arbiturm Nova Round - The Developer tooling on Nova Round"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6daec4e672f3f2cb019340ad474b2859b4c91f50dfa1fa062943ea5b866df01d",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 15,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

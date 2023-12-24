@@ -1,0 +1,59 @@
+{
+  "bio": "Online seller Airdrop Hunter Freelance",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Elisha17",
+  "websiteUrl": "https://twitter.com/Elisha1716",
+  "applicant": {
+    "address": {
+      "address": "0x69bAb88b3488D2b1E2D3E80804C477b371e8D4Ad",
+      "resolvedName": {
+        "address": "0x69bAb88b3488D2b1E2D3E80804C477b371e8D4Ad",
+        "name": "airdrophustler.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x69bAb88b3488D2b1E2D3E80804C477b371e8D4Ad"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x69bAb88b3488D2b1E2D3E80804C477b371e8D4Ad.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x12aa4132bb43e111608db5cf83861ce11c901df5a9be972416aa811d9143e39a"
+  },
+  "impactDescription": "Work that provided impact to governance participants of the Optimism Collective, or helped bring new governance participants into the Collective\nWork that provided impact to application developers in the Optimism Collective, or helped bring new developers into the Collective",
+  "contributionDescription": "airdrop, grants and funding, special projects, community service, social media projects, online learning projects, crypto meet ups, crypto conference, free crypto literacy for newbies and students, charity works, endorsements, online training, calamity fund raising",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x69bAb88b3488D2b1E2D3E80804C477b371e8D4Ad",
+      "description": "my wallet address"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "how to join retroPGF3",
+      "number": "1",
+      "url": "https://x.com/optimismFND/status/1714656708906172547?s=20"
+    },
+    {
+      "description": "how to join retroPGF3",
+      "number": "2",
+      "url": "https://x.com/optimismFND/status/1714656706540560581?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd4b8c9164890a02ded607e8b92593dd5e6eb30d06301eb4b04549f3579595dce",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,83 @@
+{
+  "bio": "I run a free and public educational newsletter & podcast in Japanese every week",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Kaito/CoffeeTimes",
+  "websiteUrl": "https://www.bspeak.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0x7853Eabb6cFa980eBfD27e3F77e69590EA53c0b7",
+      "resolvedName": {
+        "address": "0x7853Eabb6cFa980eBfD27e3F77e69590EA53c0b7",
+        "name": "bspeak.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x7853Eabb6cFa980eBfD27e3F77e69590EA53c0b7"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7853Eabb6cFa980eBfD27e3F77e69590EA53c0b7.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7853Eabb6cFa980eBfD27e3F77e69590EA53c0b7.jpeg",
+    "id": "OptimistProfile|0xabaa5bcb7b52a5418ccef76d4330b11357b1d33faa6aabeda06458f424ae360b"
+  },
+  "impactDescription": "My foremost contribution to the Optimism Collective has been through educational outreach within the Japanese community. I have effectively disseminated information on various facets of Optimism via my newsletter, which now has 12,000 subscribers. The following are the view counts for key articles related to Optimism:\n- RetroPGF article: 5,310 views\n- OP Stimpack article: 8,200 views\n- OP Token article: 8,500 views\n- OP Stack article: 10,500 views\nSeveral readers tweeted that they first discovered RetroPGF through my educational content.\n\nIn addition to that. I participated in RetroPGF experiment #1 and I nominated the author of EIP 1559, which led to him receiving a grant of $12,225. This encouraged a new EIP to apply for RetroPGF.",
+  "contributionDescription": "In my newsletter, I have covered various aspects of Optimism from its inception to the Japanese community. I was one of the first people who wrote the details about RetroActive public goods funding at that time, and then OP token, OP Stimpack, and OP Stack. The newsletter now has 11,000 subscribers, and since the content is public, each article typically receives over 10,000 views. \n\nIn addition to that, I was one of the persons who actively participated in RetroPGF and I nominated Eric Conner for EIP1559 in the first Optimism RPGF. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.bspeak.xyz/p/optimism",
+      "description": "I first explained about RetroPGF in Japanese community."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.bspeak.xyz/p/optimism-9c8",
+      "description": "I explained about OP Tokens to 10,000 subscribers in my newsletter."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.bspeak.xyz/p/optimism-0aa",
+      "description": "I explained about OP Stimpack to 10,000 subscribers in my newsletter."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.bspeak.xyz/p/0zkevm",
+      "description": "I explained the Base\u2019s commitment to decentralization to 11k subscribers."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1rphUkII5-49VmRVKaQBxsOYRNsO56ifGSSLctQyduWg/edit#gid=2130851094",
+      "description": "I nominated Eric Conner for EIP1559 in the first Optimism RPGF."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.bspeak.xyz/p/opconduit",
+      "description": "I explained about OP Stack to 11,000 subscribers in my newsletter."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total views for articles on Optimism",
+      "number": "32510",
+      "url": "https://drive.google.com/file/d/1A-RWVwUgTOKXU-rogYQpXqED1yBRHKSl/view?usp=sharing"
+    },
+    {
+      "description": "USD amount that my nominator received",
+      "number": "12225",
+      "url": "https://docs.google.com/spreadsheets/d/1g4ilAByMNQsmlBC8cskQip7Ojd_qK6IhozJCyoVfU9k/edit#gid=617544496"
+    },
+    {
+      "description": "impressions about RetroPGF on Twitter",
+      "number": "9000",
+      "url": "https://twitter.com/search?q=https%3A%2F%2Fbspeak.substack.com%2Fp%2Foptimism&src=typed_query&f=top"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xeb160f81985b97792065ca1fc0e78aefeaae8cf5ffd845321a73a2cda071281b",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 23,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

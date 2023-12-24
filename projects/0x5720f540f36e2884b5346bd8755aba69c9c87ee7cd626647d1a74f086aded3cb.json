@@ -1,0 +1,175 @@
+{
+  "bio": "DecentrAgora is a metaverse terminal via the Ethereum network.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "DecentrAgora",
+  "websiteUrl": "https://decentragora.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0x59992E3626D6d5471D676f2de5A6e6dcF0e06De7",
+      "resolvedName": {
+        "address": "0x59992E3626D6d5471D676f2de5A6e6dcF0e06De7",
+        "name": "dadlessnsad.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x59992E3626D6d5471D676f2de5A6e6dcF0e06De7"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x59992E3626D6d5471D676f2de5A6e6dcF0e06De7.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x59992E3626D6d5471D676f2de5A6e6dcF0e06De7.png",
+    "id": "OptimistProfile|0xdda6e6f75136923e6530e2bbe31101b8a85e43adde5635d741b2ba95ca588673"
+  },
+  "impactDescription": "Since we focus on developing open technology and maintaining equal access for anyone.\nWe develop user-friendly tools for the Optimistic collective.\n\nSmart contracts and repositories open-sourced\nHosted meetups and educational sessions for Web3\nCreated & distributed educational material that is free to the public\nRepresented and publicized the collective in our community\n\nOur Gas Faucet provides free ETH for first-time transactions. Our EVM Gas Station dApp monitors network prices and estimates costs for L1 and L2 networks.\n\nAnyone can use our technology & access resources that onboard them directly to Optimism.\nWe provide resources beyond our office doors; our technology is open source. We aim to foster infinite positive-sum games by lowering the entry barrier for adopting Optimism.",
+  "contributionDescription": "Decentragora is an OP-native project focused on open-source tools and accessibility for the benefit of the public. We actively contribute to the OP stack by building open-source tech and maintaining an open space focused on impact over profit.\n\nThe technology we build is for anyone from newcomers to shadowy super coders. Our organization has been an entry point for anyone interested in Web3 and technology. That's why it's free\u2014 for maximum accessibility for the public! (Learn more here) \n\nWe strive for access and inclusivity, welcoming newcomers and experienced coders. Our tools include:\nMembership NFT contract\nSmart contract deployer\nAttestation tool.\nGas faucet & educational content.\n\nOur office space is where we onboard locals and work with students interested in tech development.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x9839C0f5715BDA074af1C6802cb9D157169c18D5#code",
+      "description": "Membership-ProxyContract-Address"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x50b47f663a0645bb1feb6ff381579c6b74ed6531",
+      "description": "ERC-20 Factory"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x9307807f3b6901bbdb458550158177f3b5be16da",
+      "description": "Simple NFT Factory"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0cbcb8120e648ba9f80ac314c5d9fde1cd2cff76",
+      "description": "PaymentSplitter NFT Factory"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xdc8e5bea9064e715f146120c7dd767af7f92ce90",
+      "description": "NFTA Plus NFT Factory"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0214bcf488d29c867e5dc7c5bd19d934500527fa",
+      "description": "Power NFT Factory"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xb3d0862f6030b654189372c0d099f89d115301e6",
+      "description": "Power Plus NFT Factory"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0d3061bff9be308e38da4699d44c6e9892e57e60#code",
+      "description": "Impact Cards"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/zenodotus.eth/VMWNfxdor_MDTxq3V5Bz4CBxpoEwDbOJoqlM0MkvZe0",
+      "description": "The Power of Public Spaces: A Place to Innovate, Grow and Connect"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/zenodotus.eth/L5clDyxEwHzq8H8-5SOzC0XE_14CM2j9g1cSLMYuFUU",
+      "description": "Sustainable Spaces for the Public Benefit"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/zenodotus.eth/tpW4mxLm3IIhUhAK9Xqa0F6A1pgq4zA2ieobRAkZ11U",
+      "description": "Recognizing Public Space as a Public Good"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/zenodotus.eth/HIqTHn99hB_HNEgyjcO09uBu21BOmVuN3CStC9-UrYc",
+      "description": "Decentralized Workplaces"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/mouseion.decentragora.eth/E8f7De3Df4H47zX095lknbkYtTiOy3wsnVYF9diHryQ",
+      "description": "Embracing Regeneration: Hypercollaboration and Sustainable Ecosystems"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/mouseion.decentragora.eth/YY0l0mt-2liVZL8mnkR_uKj8o-RGKR5iJCCEtyyhMxw",
+      "description": "Calling All Testooors! [BETA RELEASE]"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://decentragora.xyz/attest/linear-attest",
+      "description": "Decentragora Linear Attest"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/decentragora",
+      "description": "Decentragora Github"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.notion.so/Metaverse-Terminal-fa0d702882244ebb86d531c198b6023b",
+      "description": "Decentragora Community Center"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/zenodotus.eth",
+      "description": "Mirror"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/mouseion.decentragora.eth",
+      "description": "Mirror"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Monthly dApp visitors",
+      "number": "180",
+      "url": "https://drive.google.com/file/d/1dK_wMcCskT-g_48mVP-Z09F6fj87dGF4/view?usp=sharing"
+    },
+    {
+      "description": "Total dapp Users",
+      "number": "553",
+      "url": "https://drive.google.com/file/d/1dK_wMcCskT-g_48mVP-Z09F6fj87dGF4/view?usp=sharing"
+    },
+    {
+      "description": "Wallets on-boarded",
+      "number": "34",
+      "url": "https://drive.google.com/file/d/1dK_wMcCskT-g_48mVP-Z09F6fj87dGF4/view?usp=sharing"
+    },
+    {
+      "description": "Countries",
+      "number": "41",
+      "url": "https://drive.google.com/file/d/1dK_wMcCskT-g_48mVP-Z09F6fj87dGF4/view?usp=sharing"
+    },
+    {
+      "description": "Tools deployed",
+      "number": "9",
+      "url": "https://www.notion.so/dagora/dAgora-Tools-f67228cd39f94053bddf70924010eab2"
+    },
+    {
+      "description": "Testimonies",
+      "number": "2",
+      "url": "https://docs.google.com/document/d/1DicOR4NP4BhVB_9MZ-RW156shzhN66u84LyWv025oFw/edit?usp=sharing"
+    },
+    {
+      "description": "Smart Contract Metrics",
+      "number": "0",
+      "url": "https://www.notion.so/dagora/Smart-Contract-Metrics-2b0c4d3e0c9249b68dc605753ed521a0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 7421,
+      "description": "Incubator Grant"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5720f540f36e2884b5346bd8755aba69c9c87ee7cd626647d1a74f086aded3cb",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 16,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

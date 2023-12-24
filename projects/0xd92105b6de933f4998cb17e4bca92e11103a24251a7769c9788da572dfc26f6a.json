@@ -1,0 +1,218 @@
+{
+  "bio": "OP Developer tools for making personalized medicine affordable and accessible",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "OP Medicine",
+  "websiteUrl": "https://op-medicine-deploy.vercel.app/",
+  "applicant": {
+    "address": {
+      "address": "0x8dc640a257DE18857F8d24e1Ae2645F8bBa1E034",
+      "resolvedName": {
+        "address": "0x8dc640a257DE18857F8d24e1Ae2645F8bBa1E034",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x8dc640a257DE18857F8d24e1Ae2645F8bBa1E034"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8dc640a257DE18857F8d24e1Ae2645F8bBa1E034.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8dc640a257DE18857F8d24e1Ae2645F8bBa1E034.png",
+    "id": "OptimistProfile|0xa22eb126a6e4832e6fa26f0f0b03e38e1163e5d44759305f2359d027cf9c33fb"
+  },
+  "impactDescription": "We wish to share the impact our contributions had on Optimism Collective:\n\n\u2b50 \ufe0f Increase in the number of Optimism developers and medical eco-system users onboarded to Optimism from 20 to 50 in India. Pilot Deployments at Rajshri Medical College & Hospital; Covid Care Center & S.M.S. School, Delhi;\n\u2b50\ufe0fIncrease in the number of OP developers, users investing in Optimism and our key OP stack modules, health projects built on Optimism  from 10 to 25;\n\u2b50\ufe0fImproved collaboration with other OP projects to increase the number of partner projects utilizing OP Medicine\u2019s modules by 2 to 15;\n\u2b50\ufe0fOP solutions for soul bonding ID, interoperability, sharding tools & NFT marketplaces of DICOM data enable development of Web3 projects like Medi Assist for medical counseling and insurance, billing platform.",
+  "contributionDescription": "Wish to share our contribution to Optimism and OP ecosystem: \n\u2b50\ufe0fDeveloper, DAO tools on Optimism Stack for organization, tabulation, visualization of on-chain & off-chain data; \n\u2b50\ufe0fLow code tools to enable automation & expand the utility of healthcare delivery, medicine testing & research on OP Stack;\n\u2b50\ufe0fOP solutions for zero knowledge proofs & privacy preserving initiatives, on-chain reputation models.\n\u2b50\ufe0fOP solutions for soul bonding ID,  proxy re-encryption protocols, interoperability & sharding tools; \n\u2b50\ufe0fTools for NFT creation, management & marketplaces;\n\u2b50\ufe0f Enable developers to become builders of personalised medicine, De-Science, public goods initiatives; \n\u2b50\ufe0fCollaboration with OP projects like Base, Wormhole to increase on-chain volume, OP user adoption and building interoperability.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/aspiringsecurity/EMTTR",
+      "description": "Github Repository of OP Medicine"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://op-medicine-deploy.vercel.app/",
+      "description": "OP Medicine Project Website"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/seetadev/PharmaLlama/blob/main/README.md#optimism-public-goods",
+      "description": "Contribution to OP  and OP Public Goods Stack in OP Pharma Tools"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=aIq3JiTlNVA",
+      "description": "Optimism Prize Runner-Up video at Encode Metaverse Hackathon"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/aspiringsecurity/EMTTR#optimism-modules-for-developer-tooling-and-utilities-references",
+      "description": "Contribution to OP  and OP Public Goods Stack in OP Medicine"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0xf85b0bE006312af0ed6243aa5d98FD5A32c13464",
+      "description": "New Developers on OP Medicine module in Optimism Bedrock Goerli testnet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://sites.google.com/view/emttrservice/",
+      "description": "Information Website on OP Medicine for Civic Bodies"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=rJRRlaVQSMY",
+      "description": "Demo Video for anonymization, encryption of OP data & dapp on medical counseling"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=BUiVvhuUdrE",
+      "description": "Demo Video for bulk query, retrieve of medical OP data & OP dapp module"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://op-medicine-deploy.vercel.app/benefits",
+      "description": "Community Benefits of OP Medicine, Contribution in Public Goods Initiatives"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/drive/u/3/folders/1WXrAsl_dQMMZEQAi4KLzdt7uh6f-k_X4",
+      "description": "Bootstrapping OP testnet and mainnet deployments"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0x1d807750029b3b345052b155123908968298bb9e",
+      "description": "Creating NFT tutorial on OP Medicine in Optimism Bedrock Goerli testnet"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/aspiringsecurity/EMTTR#optimism-user-interaction",
+      "description": "Optimism User Interaction in OP Medicine"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/OP_medicine_DAO/status/1635856526383681537",
+      "description": "OP RetroPGF2 project showcase participation organized by  @proof_integrity"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Client (Public Hospital) Testimonials ",
+      "number": "3",
+      "url": "https://op-medicine-deploy.vercel.app/testimonials"
+    },
+    {
+      "description": "USD Revenue generated by OP Medicine",
+      "number": "48000",
+      "url": "https://drive.google.com/drive/u/0/folders/1Mlcb3gKfyNxYpmgCkIo8ZvJCdJuQ8T0a"
+    },
+    {
+      "description": "Contribute as OP builders in EthGlobal",
+      "number": "6",
+      "url": "https://twitter.com/ETHGlobal/status/1637180703413530632"
+    },
+    {
+      "description": "Number of OP Developers and users",
+      "number": "50",
+      "url": "https://drive.google.com/drive/u/0/folders/1Mlcb3gKfyNxYpmgCkIo8ZvJCdJuQ8T0a"
+    },
+    {
+      "description": "EMTTR as a Developer education module",
+      "number": "15",
+      "url": "https://emttr-deploy.vercel.app/"
+    },
+    {
+      "description": "Young Scientist Award, Community Prizes",
+      "number": "15",
+      "url": "https://twitter.com/OP_medicine_DAO"
+    },
+    {
+      "description": "Book Chapters and Publications ",
+      "number": "10",
+      "url": "https://drive.google.com/drive/u/0/folders/1Mlcb3gKfyNxYpmgCkIo8ZvJCdJuQ8T0a"
+    },
+    {
+      "description": "OP Dataset Contribution: X Ray modality",
+      "number": "16000",
+      "url": "https://drive.google.com/drive/u/0/folders/1Mlcb3gKfyNxYpmgCkIo8ZvJCdJuQ8T0a"
+    },
+    {
+      "description": "OP Data: CT Scan, MRI, Nuclear Medicine",
+      "number": "30000",
+      "url": "https://drive.google.com/drive/u/0/folders/1Mlcb3gKfyNxYpmgCkIo8ZvJCdJuQ8T0a"
+    },
+    {
+      "description": "OP RetroPGF project showcase participate",
+      "number": "1",
+      "url": "https://twitter.com/OP_medicine_DAO/status/1635856526383681537"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 7196,
+      "description": "Grant Recipient for Nomination in Tooling and Utilities segment at RetroPGF2"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 2000,
+      "description": "Technical Consulting and Advisory in Optimism projects at N.S.U.T. startups "
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 4800,
+      "description": "Optimism Prize Winner (2000 OP) at Encode Metaverse Hackathon"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "Web3 Network Goods Grant Award"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "EVM Ideathon Runner-Up 2022 (Government and Public Goods in Healthcare)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 200,
+      "description": "Gateway Prize winner for OP, Gnosis chain innovation "
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "Young Scientist Award in Healthcare in India; SAP GITR winner"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "10000 USD AWS credits as a LINK-OP-AWS winner at Chainlink Spring 2023"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "Filecoin Prize Winner at Chainlink Fall hackathon 2022"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 6000,
+      "description": "Runner-up at HealthChainhack, Boston (6000 USD in credits)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd92105b6de933f4998cb17e4bca92e11103a24251a7769c9788da572dfc26f6a",
+  "prelimResult": "Remove",
+  "reportReason": "['Duplicate contribution links: https://vote.optimism.io/retropgf/3/application/0x928a305a9e35baee41f4f5000993cf5bf3c62342ae2f34e4e11146a0a0d4148a']"
+}

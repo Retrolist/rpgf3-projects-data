@@ -1,0 +1,52 @@
+{
+  "bio": "As a user of Optimism, Be a member of Camelventure Loves Optimism, Loves music",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Doan Cong Luat",
+  "websiteUrl": "https://twitter.com/doancongluat",
+  "applicant": {
+    "address": {
+      "address": "0xD33d865fdfDcDABc71582f002185b96378063F26",
+      "resolvedName": {
+        "address": "0xD33d865fdfDcDABc71582f002185b96378063F26",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xD33d865fdfDcDABc71582f002185b96378063F26"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xe042f82cb7271ce9759ef31142ac69579049fbe38815137628b4495c040a91da"
+  },
+  "impactDescription": "Music is a source that unites people, this life would be very boring without music. Besides being a user on the Optimist ecosystem I have supported many top artists creating music such as Rohki, WesGhost, TK, Malik Naim, Mija, KIDS OF THE APOCALYPSE, ... from June to August 2023",
+  "contributionDescription": "Music is a source that unites people, this life would be very boring without music. Besides being a user on the Optimist ecosystem I have supported many top artists creating music such as Rohki, WesGhost, TK, Malik Naim, Mija, KIDS OF THE APOCALYPSE, ... from June to August 2023",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x3b4181b6aa003f8b5ff990af1ff2dc7c49ca5404ce58c2a186b00b8b523c5cb5",
+      "description": "This is a song that I really love"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "6",
+      "number": "1552",
+      "url": "https://optimistic.etherscan.io/tx/0xc9b1a598deaa4f38b69ab8fca3a1d133686e7d041c919bb9c19caf0827ebc589"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 200,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2e6f1f985989f200f569f8b01f817cc587f0c1c538c7d398a29ef682541f9018",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

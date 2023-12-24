@@ -1,0 +1,48 @@
+{
+  "bio": "The home for web3 publishing.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Mirror",
+  "websiteUrl": "https://mirror.xyz",
+  "applicant": {
+    "address": {
+      "address": "0xe60aC07Be8bD7f7f33d446e1399c329928Ba8114",
+      "resolvedName": {
+        "address": "0xe60aC07Be8bD7f7f33d446e1399c329928Ba8114",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xe60aC07Be8bD7f7f33d446e1399c329928Ba8114"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe60aC07Be8bD7f7f33d446e1399c329928Ba8114.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe60aC07Be8bD7f7f33d446e1399c329928Ba8114.png",
+    "id": "OptimistProfile|0xd64b6eec05dafb6958948138a39b752e35340e05f7b22c51ff6f0f7ac4717b9a"
+  },
+  "impactDescription": "Over 1 million Writing NFTs have been minted on Mirror using Optimistic Ethereum. That's more than any other network we support as Optimism is the default network in our settings. We have helped more people bridge to Optimism through our UX and encouraging users to collect entries. ",
+  "contributionDescription": "Since Mirror launched Writing NFTs on Optimism Network as a default, we've contributed to the growth of the Optimism Network by being an app where other projects can share their ideas via Optimism NFTs. Early on we knew that for \"collect\" to be the new \"like\" users would need to find inexpensive and quick options for minting NFTs. That's where Optimism came in as an obvious choice, and we've since been one of Optimism's partners in bringing a more mainstream use case to the rollup. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dev.mirror.xyz/5gt60vKFJZ_tR1BjoJ7-Y0sNw7REebStHjzFU5x73J0",
+      "description": "Introducing Writing NFTs on Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Writing NFTs Minted on Optimism",
+      "number": "1206261",
+      "url": "https://dune.com/rplust/mirror-writing-nfts"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xbe51b31b1366e22c4a45b46985c449d8f79d9a1b82e140818538e8cd1ce9e880",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 74,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

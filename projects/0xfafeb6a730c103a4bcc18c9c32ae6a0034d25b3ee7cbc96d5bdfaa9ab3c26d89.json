@@ -1,0 +1,55 @@
+{
+  "bio": "Project of support ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Project z",
+  "websiteUrl": "https://twitter.com/vazu33 ",
+  "applicant": {
+    "address": {
+      "address": "0x6335308e4dF71222a06dDC3e6Ed41d6f5B3BB58C",
+      "resolvedName": {
+        "address": "0x6335308e4dF71222a06dDC3e6Ed41d6f5B3BB58C",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6335308e4dF71222a06dDC3e6Ed41d6f5B3BB58C"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6335308e4dF71222a06dDC3e6Ed41d6f5B3BB58C.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x13f311bcb7f83ed26956485b34a692f8a8a730bafbb5ff89dc7770c69843b6d0"
+  },
+  "impactDescription": "Through my contributions in swapping, testnet, bridging, and trading, I have actively spread optimism by demonstrating the transformative power of blockchain technology and its potential to revolutionize traditional financial systems. My dedication to innovation, collaboration, and financial empowerment has inspired others to explore and embrace the possibilities of decentralized ecosystems, creating a ripple effect of positivity and growth within the optimism chain.",
+  "contributionDescription": "Through my contributions in swapping, testnet, bridging, and trading, I have actively spread optimism by demonstrating the transformative power of blockchain technology and its potential to revolutionize traditional financial systems. My dedication to innovation, collaboration, and financial empowerment has inspired others to explore and embrace the possibilities of decentralized ecosystems, creating a ripple effect of positivity and growth within the optimism chain.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x6fd8f2e0cdeb253d01e542a4a96bbf7fbbb17c1b6b7ad9ebc739b34e2da38edd",
+      "description": "Purchase nft"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#",
+      "number": "200",
+      "url": "https://optimistic.etherscan.io/tx/0x6fd8f2e0cdeb253d01e542a4a96bbf7fbbb17c1b6b7ad9ebc739b34e2da38edd"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xfafeb6a730c103a4bcc18c9c32ae6a0034d25b3ee7cbc96d5bdfaa9ab3c26d89",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

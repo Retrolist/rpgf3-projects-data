@@ -1,0 +1,99 @@
+{
+  "bio": "Bringing you the latest Alpha & insights on high-potential projects.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Alpha Insiders",
+  "websiteUrl": "https://link3.to/alphainsiders",
+  "applicant": {
+    "address": {
+      "address": "0x3D1846ea60001A3Bc21438d76f3958422fe89adB",
+      "resolvedName": {
+        "address": "0x3D1846ea60001A3Bc21438d76f3958422fe89adB",
+        "name": "alphainsiders.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3D1846ea60001A3Bc21438d76f3958422fe89adB"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3D1846ea60001A3Bc21438d76f3958422fe89adB.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3D1846ea60001A3Bc21438d76f3958422fe89adB.png",
+    "id": "OptimistProfile|0x358d3aada3168a3d1d5ce1b0801884d861f19f653a261ccbe62954e06f6c4f43"
+  },
+  "impactDescription": "We have consistently been strong advocates and enthusiastic supporters of the OP ecosystem, as well as all the endeavors being developed within it. \nOur commitment includes keeping users informed through tweets, threads, and mirrored posts, ensuring comprehensive coverage of updates, news, campaigns, and the network's ongoing progress.",
+  "contributionDescription": "We have consistently been strong advocates and enthusiastic supporters of the OP ecosystem, as well as all the endeavors being developed within it. \nOur commitment includes keeping users informed through tweets, threads, and mirrored posts, ensuring comprehensive coverage of updates, news, campaigns, and the network's ongoing progress.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://ai.mirror.xyz/nft/0x1f3fb44dc2b40adb34f1a20317fb896cffe82a6a/0",
+      "description": "Our Mirror Collection on OP"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/AlphaInsiders/status/1667157508048207873",
+      "description": "Covering Bedrock"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/AlphaInsiders/status/1572292906244784133",
+      "description": "Op Quests campaign"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/AlphaInsiders/status/1623768937811918852",
+      "description": "Airdrop #2"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/AlphaInsiders/status/1659544465923612672",
+      "description": "Covering Op partnerships and rewards"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/AlphaInsiders/status/1577992012250357766",
+      "description": "Tasks and Quests on OP"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/AlphaInsiders/status/1696188024831320430",
+      "description": "Always Bullish on OP"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/AlphaInsiders/status/1588259604357844994",
+      "description": "OP Bridgooor NFT"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/AlphaInsiders/status/1697664908169470081",
+      "description": "Sockets OP rewards"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/AlphaInsiders",
+      "description": "Supporter of OP ecosystem since early days "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Tweets and Threads",
+      "number": "500",
+      "url": "https://twitter.com/AlphaInsiders"
+    },
+    {
+      "description": "Mirror Insider on OP",
+      "number": "13000",
+      "url": "https://ai.mirror.xyz/ng2r40bZ1Fv0-pvSf5igZ3qpXESlzn2Z17qrgJz5dt4"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x822a558257f7e4e88615addf9431ca06482ba23d105f82950408fd7f53bd13d8",
+  "prelimResult": "Keep",
+  "reportReason": "Spam, Outside of RetroPGF's Scope",
+  "includedInBallots": 27,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

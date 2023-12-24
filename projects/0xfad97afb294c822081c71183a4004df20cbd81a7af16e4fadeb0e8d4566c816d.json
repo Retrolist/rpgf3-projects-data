@@ -1,0 +1,48 @@
+{
+  "bio": "Trying to find that good life in crypto",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Jonzkymen",
+  "websiteUrl": "https://app.optimism.io/profile/rpgf-application/basic-info",
+  "applicant": {
+    "address": {
+      "address": "0xE35464872C90Cb3AA60Fba4b4044578ED15Ada5d",
+      "resolvedName": {
+        "address": "0xE35464872C90Cb3AA60Fba4b4044578ED15Ada5d",
+        "name": "jonzkymen.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xE35464872C90Cb3AA60Fba4b4044578ED15Ada5d"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE35464872C90Cb3AA60Fba4b4044578ED15Ada5d.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE35464872C90Cb3AA60Fba4b4044578ED15Ada5d.png",
+    "id": "OptimistProfile|0x65a3e0f5f471bddb60c13eef9554086a2492e001301ab987795797bc22c69da1"
+  },
+  "impactDescription": "I can gather users from other platforms and participate more in building the optimism blockchain, My contributions would help the progress of optimism to gather all enthusiast and help optimism ecosystem retain its ranking in the L2 era. Would there be a grant, i would do my best to achieve and align our goals",
+  "contributionDescription": "I will be an ambassador for Optimism,ill spread the good things about optimismn as it is the best L2 under etherium out there.I will help build in the scaling of optimism to propel its progress and be the best in the layer2. If optimism grants my request it would be beneficial for both of us",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/jonzkymen",
+      "description": "A great crypto"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "https://github.com/jonzkymen",
+      "number": "100",
+      "url": "https://github.com/jonzkymen"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xfad97afb294c822081c71183a4004df20cbd81a7af16e4fadeb0e8d4566c816d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

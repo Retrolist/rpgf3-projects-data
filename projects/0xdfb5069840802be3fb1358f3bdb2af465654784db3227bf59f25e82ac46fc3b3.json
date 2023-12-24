@@ -1,0 +1,56 @@
+{
+  "bio": "https://r72.fi/",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "r72.fi",
+  "websiteUrl": "https://r72.fi/",
+  "applicant": {
+    "address": {
+      "address": "0x25030765Ba9c22D96094B7E67793A189259Ce38D",
+      "resolvedName": {
+        "address": "0x25030765Ba9c22D96094B7E67793A189259Ce38D",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x25030765Ba9c22D96094B7E67793A189259Ce38D"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x25030765Ba9c22D96094B7E67793A189259Ce38D.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xf42f0987f95b2afcc6ee6ab51d09cead78259f0ed347988f7d098d2b04d51298"
+  },
+  "impactDescription": "The attached metrics show that https://r72.fi/'s top 3 active pages including Perpetual Protocol and Kwenta throughout the past 1 year (Actually, https://r72.fi has helped Perpetual Protocol user to know their funding rate stats since 2021.). r72.fi is just a small site (DAU 10ish, MAU 100ish) and impacts quite a lot of Perpetual Protocol and Kwenta users.",
+  "contributionDescription": "I have created r72.fi free funding rate aggregated website to give everyone a bigger picture of on-chain and off-chain perpetual future funding rate stats.\n\nIt's really hard to know the actual cost of on-chain or off-chain platforms' funding rate for a certain long period. Hence, r72.fi solves the mathematical and UX issues to make everyone know more about the funding rate. Especially, those on-chain funding rates. It's way harder for users to understand. \n\nr72.fi supports two projects deployed on Optimism, Perpetual Protocol and Synthetix.  People can easily check those two projects' aggregated funding rates without on-chain knowledge.  ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://r72.fi/",
+      "description": "Aggregated funding rate stats"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Top 3 Active Pages",
+      "number": "10",
+      "url": "https://imgur.com/a/BJmHRLX"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1,
+      "description": "Got 0 actually. Couldn't get grants from PerpetualProtocol or Kwenta (Synthetix)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xdfb5069840802be3fb1358f3bdb2af465654784db3227bf59f25e82ac46fc3b3",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 11,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

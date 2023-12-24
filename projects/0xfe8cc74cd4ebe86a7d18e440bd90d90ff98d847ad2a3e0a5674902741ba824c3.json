@@ -1,0 +1,77 @@
+{
+  "bio": "Mode Domains provides \u201c.mode\u201d handles for the Mode Blockchain community.",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Mode Domains",
+  "websiteUrl": "https://modedomains.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xc622420AD9dE8E595694413F24731Dd877eb84E1",
+      "resolvedName": {
+        "address": "0xc622420AD9dE8E595694413F24731Dd877eb84E1",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xc622420AD9dE8E595694413F24731Dd877eb84E1"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc622420AD9dE8E595694413F24731Dd877eb84E1.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc622420AD9dE8E595694413F24731Dd877eb84E1.png",
+    "id": "OptimistProfile|0xe82e592a16b1fda21590069292a8b48f64ef4a3aeb3230cad4c2f6bfcfc28d00"
+  },
+  "impactDescription": "One big impact is that many people have started using Mode Domains, and we have more than 28,000 people who claimed their own '.mode' addresses, which brought in a lot of new users, creating a more diverse and engaged community that's vital for the Optimism ecosystem.\n\nWe have a great community with 962 Twitter followers. This helps more people know about what we're doing and work together within the Optimism ecosystem. So, in short, what we do for the OP Stack with Mode Domains is make things better for users, get more people to use it, and work closely with the community to help the Optimism ecosystem become more efficient, secure, and successful.",
+  "contributionDescription": "Mode Domains is a decentralized naming system created on the Mode blockchain. It uses smart contracts to manage domain name registration, renewal, and resolution. It manages domains in a decentralized way, enhancing registration and resolution performance.\n\nThus, we allow users to claim personalized '.mode' handles for their blockchain addresses, simplifying blockchain use for a wider audience.\n\nWe allocate fees from Mode Domains to back Optimism Collective and Mode's growth. The rest funds project development and integration.\n\nAs Mode Network grows, it boosts demand for Optimism's layer 2 solutions with more users and developers. \n\nOverall, Mode Domains and Mode Network's growth fuels OP Stack and Optimism Collective, creating a positive feedback loop of development.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://modedomains.xyz/",
+      "description": "Badgeholders can learn more about our contributions on our website."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://sepolia.explorer.mode.network/address/0xDbC50cE0F71621E334ebC73135ed26b184da4984?tab=contract",
+      "description": "On-chain contract for Mode Domains."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/Jaydip-lamprostech/modedomains",
+      "description": "Github repo link for Mode Domains."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Mode_Domains",
+      "description": "Twitter account link for Mode Domains."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Domain Names Claimed",
+      "number": "28038",
+      "url": "https://sepolia.explorer.mode.network/token/0xDbC50cE0F71621E334ebC73135ed26b184da4984"
+    },
+    {
+      "description": "ETH held by contract",
+      "number": "465",
+      "url": "https://sepolia.explorer.mode.network/address/0xDbC50cE0F71621E334ebC73135ed26b184da4984"
+    },
+    {
+      "description": "Twitter followers",
+      "number": "962",
+      "url": "https://twitter.com/Mode_Domains"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 50000,
+      "description": "We\u2019d have invested $50,000 for Mode Domains' development and maintenance."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xfe8cc74cd4ebe86a7d18e440bd90d90ff98d847ad2a3e0a5674902741ba824c3",
+  "prelimResult": "Remove",
+  "reportReason": "Seems to not live on Optimism but it's own blockchain"
+}

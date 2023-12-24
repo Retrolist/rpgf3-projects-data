@@ -1,0 +1,69 @@
+{
+  "bio": "Easiest way to Create your NFT MarketPlace on WordPress ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Kredeum NFTs Factory",
+  "websiteUrl": "https://www.kredeum.com",
+  "applicant": {
+    "address": {
+      "address": "0x981ab0D817710d8FFFC5693383C00D985A3BDa38",
+      "resolvedName": {
+        "address": "0x981ab0D817710d8FFFC5693383C00D985A3BDa38",
+        "name": "zapaz.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x981ab0D817710d8FFFC5693383C00D985A3BDa38"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x981ab0D817710d8FFFC5693383C00D985A3BDa38.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x981ab0D817710d8FFFC5693383C00D985A3BDa38.png",
+    "id": "OptimistProfile|0x4b5133dd191fa3b20c175f75fb595766b839f5f34b582adceacb41a8842a5b44"
+  },
+  "impactDescription": "Developer Ecosystem\n\nKredeum Factory 'onchain' NFTs Resolver  offers a gasless access to all NFTs metadata on Optimism Network  : onchain alternative to NFT API (or subgraphs) available offline \n\nA dedicated NFT library: OpenNFT library , derived from more generic OpenZeppelin library, offers advanced features:\n- SoulBound\n- Multichain\n- AutoMarket\n- ERC6551 support (soon)\n\nEnd User Experience & Adoption\nHelp WordPress community to use Optimism\n",
+  "contributionDescription": "Kredeum NFTs Factory Dapp is deployed on Optimism,  enables Web2 users to publish on their WordPress website NFT marketPlace with Optimism NFT Collections  \n\nWith these smartcontracts deployed :\n- Kredeum NFTs Factory, to clone templates\n- Kredeum NFTs Resolver, to get infos from all Optimism NFTs\n- OpenNFTsV4 : Basic NFT Collection template\n- OpenMarket : Advanced NFT Collection template including Market functionality\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x57BDf6E59C2652D349f7022beB8D1B7458CA09EB",
+      "description": "NFTs Factory"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xD53e7aa446e4615DEC602c1D0d024425256f631a#readContract",
+      "description": "NFTs Resolver"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x5E03Acd53d5D3A834278014D91F0AFD36f8147Ce",
+      "description": "OpenNFTsV4 template"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x2b3050E1B9c592869143f04c2a6962aAb4B95FbE",
+      "description": "OpenMarket template"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "WordPress worldwide market share (%)",
+      "number": "43",
+      "url": "https://www.tooltester.com/en/blog/wordpress-market-share/"
+    },
+    {
+      "description": "Kredeum plugin downloads",
+      "number": "11000",
+      "url": "https://wordpress.org/plugins/kredeum-nfts/advanced/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x9ee4a4f36ee067a0eed71b43b50b79b9a33f39677630de52d8016d268291f4b0",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 19,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,61 @@
+{
+  "bio": "Turn any NFT into a smart wallet. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "6551 Studio",
+  "websiteUrl": "https://6551.studio",
+  "applicant": {
+    "address": {
+      "address": "0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6",
+      "resolvedName": {
+        "address": "0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6",
+        "name": "defient.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x28708622488524e6b64a8c1da442afe9133ee1bd8e64c6b56367f5e43f06dac3"
+  },
+  "impactDescription": "6551 Studio is an expansion of the #1 project on 6551, Cre8ors.com, which gave thousands of new users awareness and access to participate in the Optimisim ecosystem by way of bridging Ethereum and Polygon NFTs into an Optimisim smart wallet using the free platform.",
+  "contributionDescription": "There was no simple solution for the Optimism community to create and manage 6551 token-bound accounts. We built 6551 Studio so anyone using Optimism can turn any NFT they own into a smart wallet with one click and manage their collections with an intuitive drag-and-drop UI. \n\nWe believe 6551 token-bound accounts will be a standard during the next bull run and want everyone on Optimism to have the ability to participate in the evolution of NFTs.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://6551.studio",
+      "description": "Website"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/defientco",
+      "description": "Defient Github"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "NFT collections using 6551",
+      "number": "1",
+      "url": "https://dune.com/sealaunch/erc-6551"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "6551 Studio is free to use"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x663699125622325c65b1c0dd1722e08979ea0707b0735ab5a8de88093f684685",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 16,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,62 @@
+{
+  "bio": "Social worker by day, crypto/forex trader by night. Embracing change since 2018.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "CryptoPanda",
+  "websiteUrl": "https://twitter.com/CryptoMemePanda",
+  "applicant": {
+    "address": {
+      "address": "0xC3193E39F77c2Ed59045CfFfCDCACdDa72f29987",
+      "resolvedName": {
+        "address": "0xC3193E39F77c2Ed59045CfFfCDCACdDa72f29987",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xC3193E39F77c2Ed59045CfFfCDCACdDa72f29987"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3193E39F77c2Ed59045CfFfCDCACdDa72f29987.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xC3193E39F77c2Ed59045CfFfCDCACdDa72f29987.png",
+    "id": "OptimistProfile|0xaa7e4d008f1302e6cfb9fce1a0e4e9c4665b14780c3430d0a20270ed2c567c45"
+  },
+  "impactDescription": "My dedication to Optimism extends beyond mere involvement; I'm an advocate for active governance participation. In the recent OP airdrop of September 2023, I not only received OP, but I also used this opportunity to underscore the significance of governance engagement.\n\nFirmly believing that true impact arises from active involvement, I continuously encourage the members within Discord to take part in governance. By sharing direct links to votes and urging everyone to appoint delegates, I've strived to create an atmosphere of genuine participation.\n\nThis isn't merely about holding tokens, but rather, about wielding influence and shaping Optimism's trajectory collectively. I'm committed to driving Optimism's adoption and RetroPGF support will play a pivotal role in achieving this goal. ",
+  "contributionDescription": "Dear RetroPGF Committee,\nI am dedicated to advancing Optimism as a cost-effective, secure Ethereum alternative. Focusing on the badge collective, Ve(3,3) models like Velodrome, and community governance, I've worked to onboard individuals onto the crypto network since 2018. Working closely with @FA40Ziv, as one of only two moderators in his Discord community, I've guided both new and experienced members, making Optimism accessible to all.\n\nAs a devoted father of a newborn, I'm driven to promote scalable solutions in the blockchain space. The Optimism network's OP Mainnet, built by Ethereum developers, provides a fast, stable, and cost-effective L2 blockchain. Its EVM-equivalent architecture ensures seamless scalability for Ethereum applications. I believe this is the future!\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/CryptoMemePanda",
+      "description": "Happy for people to look through my twitter and look at the contributions."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/CryptoMemePanda/status/1649749265877725184",
+      "description": "A reflection on posts encouraging everyone to support governance, Velo and OP."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/CryptoMemePanda/status/1564440906387714048",
+      "description": "Despite setbacks, and depths of bear market, keep looking to find value on OP."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Proof of Sept 2023 airdrop",
+      "number": "289",
+      "url": "https://optimistic.etherscan.io/tx/0x64d5cdb2c2ac4ab94f8bd4ff392873b43b969bb8c2a7f563e2b39ba68fa32034"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Received both airdrops for OP. Highlights my active participation in OP Network."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5526e506626916e2ae4c40f3ccb08a200f6b4fe72a510a9e43771164e4647990",
+  "prelimResult": "Remove",
+  "reportReason": "Impact metric is \"proof of airdrop\", out of scope"
+}

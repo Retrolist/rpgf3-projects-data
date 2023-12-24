@@ -1,0 +1,60 @@
+{
+  "bio": "Know what is going in and out of your wallet before signing.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Fire",
+  "websiteUrl": "https://www.joinfire.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0x57B02589d6e24203FC43e442ce9A4803E290293b",
+      "resolvedName": {
+        "address": "0x57B02589d6e24203FC43e442ce9A4803E290293b",
+        "name": "joshbreite.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x57B02589d6e24203FC43e442ce9A4803E290293b"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x57B02589d6e24203FC43e442ce9A4803E290293b.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x57B02589d6e24203FC43e442ce9A4803E290293b.png",
+    "id": "OptimistProfile|0x7ea5f12c903b3dcddc4a4d5eb9f91736f246e53fb9d033a79428a6201bce5a87"
+  },
+  "impactDescription": "Since February 2023, Fire has conducted over 1 million simulations, providing transparency and control over a users' wallet on the Optimism network. Our Fire Optimism cards had 16,234 minted for our users when onboarding to Fire.\n\nFurthermore, the recent introduction of Base support expands our reach, allowing a broader range of users, projects, and companies to benefit from our services. This addition is a testament to our commitment to innovation and user satisfaction, and it solidifies our impact on the Optimism Collective by contributing to a more inclusive and robust ecosystem.",
+  "contributionDescription": "Web3 is hard to use. Self-custody and interacting directly with the blockchain today is overly complicated for the consumer, leading to the average user losing their funds and quitting the ecosystem. UX today is fraught with \u201cgotchas\u201d and pitfalls.\n\nFire - the Chrome extension that simulates transactions, showing you exactly what will go in and out of your wallet before you sign the contract.\n\nWe protect wallets on Optimism and Base today. We want this number to grow, helping support the Optimism ecosystem as well as onboard new users to it!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.joinfire.xyz/",
+      "description": "Website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Optimism Fire Card Mints",
+      "number": "16234",
+      "url": "https://dune.com/jbreite/optimism-fire-card"
+    },
+    {
+      "description": "Optimism Simulatiuons",
+      "number": "1170392",
+      "url": "https://docs.google.com/spreadsheets/d/1383Amsn_4TNpH-S1k75zBl8vosaMvRQGsydRnivbu9w/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 18633.11,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x8879309f2fcaea2302c281212c36d7a1446914ed6fa2f88162b0918d09b25fdd",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 32,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Wallets"
+}

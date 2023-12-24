@@ -1,0 +1,87 @@
+{
+  "bio": "Base Enchantress AI / Before the End NFT trading and staking platform ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Base Enchantress",
+  "websiteUrl": "https://free-4001050.webador.com/",
+  "applicant": {
+    "address": {
+      "address": "0x95205E1Fba8DEE07DD457558c83A6d395910570c",
+      "resolvedName": {
+        "address": "0x95205E1Fba8DEE07DD457558c83A6d395910570c",
+        "name": "andann427.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x95205E1Fba8DEE07DD457558c83A6d395910570c"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x95205E1Fba8DEE07DD457558c83A6d395910570c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x95205E1Fba8DEE07DD457558c83A6d395910570c.png",
+    "id": "OptimistProfile|0x6bd5f8ca40727d59836940e13ff4bc0ececfc071a68e0b0afb23ad7fc3377624"
+  },
+  "impactDescription": "I am a small project with less experience than other projects. Im currently still learning and attempting to bring as much value to this space as possible. With that said I believe my contribution is assembling a NFT / staking / marketplace and community built around it. I believe my greatest impact is coming as this project finds greater traction, adoption, a implementation and further deployment. ",
+  "contributionDescription": "I have crafted an NFT line up, marketplace and staking platform on Base. The project is a work in progress. The plan is to become a multi-chain project starting first on Base then Optimism and eventually other op stack chains. To fully realize the vison of this project I will use the RetroPGF ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/address/0x6667aF8D4Ba02f8c002cd005f65c668D199B54C6#code",
+      "description": " Base Enchantress marketplace"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/address/0x79a0F03a6Ea388EE99D4ae71709a81A433926f65#code",
+      "description": "Base Enchantress Stake ERC721"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/address/0x6C40e402CD9C8004A195eBB6d39DA6cdC2487880",
+      "description": "Base Enchantress token"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://base.blockscout.com/address/0x56679DB9E82DE0Df702FcDa9DAec78f118422f65",
+      "description": "Base enchantress marketplace 2"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimism-goerli.blockscout.com/address/0x5A21bA0203835b3Bc9EF3FE224533F2F094370Ec",
+      "description": "op n sky Enchantress test Stake ERC721"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimism-goerli.blockscout.com/address/0xB9cE48E0EC1326993a60C0244e6d4afFA48F7fE7",
+      "description": "op n sky Enchantress test Marketplace"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/address/0x623e4c1df7777d4f4811f89aeb709b1fa6fc619c",
+      "description": "Before the NFT contact Base Zora"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Base Enchantress twitter",
+      "number": "10000",
+      "url": "https://twitter.com/BaseEnchantress"
+    },
+    {
+      "description": "Before the End",
+      "number": "10000",
+      "url": "https://zora.co/manage/1155/base:0x623e4c1df7777d4f4811f89aeb709b1fa6fc619c"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I have not received any funding for any activities"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x62e461574afff2bd72bb50b5899d174939a344f22cd83b2cb644f143e7644254",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

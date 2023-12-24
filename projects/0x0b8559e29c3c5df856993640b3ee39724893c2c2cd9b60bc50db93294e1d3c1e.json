@@ -1,0 +1,52 @@
+{
+  "bio": "I'm crypto inthusiast and investor",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "iamgalba",
+  "websiteUrl": "https://ruslangalba.com",
+  "applicant": {
+    "address": {
+      "address": "0x05B938467c7009733719c48410D6Fd939A320271",
+      "resolvedName": {
+        "address": "0x05B938467c7009733719c48410D6Fd939A320271",
+        "name": "iamgalba.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x05B938467c7009733719c48410D6Fd939A320271"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x05B938467c7009733719c48410D6Fd939A320271.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x05B938467c7009733719c48410D6Fd939A320271.png",
+    "id": "OptimistProfile|0x6534c5e8a7564dd4d65948b6ecf8f4fa46b19bc190b39d054300e7d03302bd14"
+  },
+  "impactDescription": "I'm sharing about Optimism in my community on Telegram and with friends. A lot of them are investing heavily in Optimism and support delegation protocols. Also, I encourage them to share the word about Optimism through their influencer network. Hope that helps!",
+  "contributionDescription": "I'm a crypto enthusiast and learn how to use the new crypto tools. I also invest heavily in growth of crypto by buying coins and participating in layer3, galxe and other campaigns. I and my partner are supporting Optimism by buying OP and planning to delegate it to voters on Tally.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/hustle365",
+      "description": "My telegram channel"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Subscribers on Telegram",
+      "number": "4150",
+      "url": "https://t.me/hustle365"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Didn't get anything yet"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0b8559e29c3c5df856993640b3ee39724893c2c2cd9b60bc50db93294e1d3c1e",
+  "prelimResult": "Remove",
+  "reportReason": "Contribution link goes to a TG channel about DTC marketing & user interactions mentioned are out of scope"
+}

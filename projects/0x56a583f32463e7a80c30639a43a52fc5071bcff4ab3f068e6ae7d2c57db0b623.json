@@ -1,0 +1,48 @@
+{
+  "bio": "Web3 product studio",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Fugu Works",
+  "websiteUrl": "https://fugu.works",
+  "applicant": {
+    "address": {
+      "address": "0xd3cedfC7b4cd9b5aa63AAFcD0287C85fBFc188aB",
+      "resolvedName": {
+        "address": "0xd3cedfC7b4cd9b5aa63AAFcD0287C85fBFc188aB",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xd3cedfC7b4cd9b5aa63AAFcD0287C85fBFc188aB"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd3cedfC7b4cd9b5aa63AAFcD0287C85fBFc188aB.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x142996521ec97da5a53e2ee1b1f3a4f0adf757c76c2dd52ab4d4df39fe6176c7"
+  },
+  "impactDescription": "We're giving chains the ability to launch a user friendly bridge on the same day as they launch their mainnet or testnet network. We saw the launch of Base, where users were sending funds directly to a contract on Etherscan and thought that this needn't be the UX the Superchain is striving for.\n\nOn top of basic token bridging functionality, our easy mode feature enables users to not worry about coming back to prove (2 hours later) and finalize (7 days later) their withdrawals - Fugu Works does it for them. Drastically improving the withdrawal process and cutting transactions needed from users from 3 to 1.\n\n\nOn top of basic ETH and token bridging functionality, our easy mode feature enables users to not worry about coming back to prove (2 hours later) and finalize (7 days later",
+  "contributionDescription": "We built the Superbridge (https://superbridge.app), an all in one solution for bridging assets to and from chains in the Superchain.\n\nThe Superbridge supports bridging ETH and ERC20 tokens to and from OP Mainnet, Base and Zora. With deployments to Mode, PGN, Orderly Network, Ancient8, Lyra and Aevo planned in the short term.\n\nWe've also partnered with Conduit (https://conduit.xyz), offering all testnets launched via their platform a free deployment of the Superbridge. You can read their announcement about the integration here https://twitter.com/KAndrewHuang/status/1707065523274739854.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://superbridge.app",
+      "description": "Superbridge App"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Bridge address",
+      "number": "0",
+      "url": "https://etherscan.io/address/0x676E20B8dD26Ef024FE8330B948418B3B42BA91B"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x56a583f32463e7a80c30639a43a52fc5071bcff4ab3f068e6ae7d2c57db0b623",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 8,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

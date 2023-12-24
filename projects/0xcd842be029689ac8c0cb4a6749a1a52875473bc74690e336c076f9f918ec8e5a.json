@@ -1,0 +1,55 @@
+{
+  "bio": "French Crypto Content Creator",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "ilyessghz",
+  "websiteUrl": "https://www.youtube.com/@ghzlearn",
+  "applicant": {
+    "address": {
+      "address": "0xB135D40581404474Beca15Ba408E2E67A178b4cd",
+      "resolvedName": {
+        "address": "0xB135D40581404474Beca15Ba408E2E67A178b4cd",
+        "name": "ilyessghz.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xB135D40581404474Beca15Ba408E2E67A178b4cd"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xc9ef42d58d080a2c5c7f4903b9b6e928798ca796658bff88ea585baaef7d6bce"
+  },
+  "impactDescription": "Through my educational content around Optimism across multiple formats, I aimed to increase adoption and participation within the Optimism Collective by reaching new audiences and equipping them with accessible information.My social media posts, infographics, and YouTube videos served to spread general awareness of Optimism to casual crypto users. Explaining the benefits over mainnet Ethereum transactions increased potential end user adoption. My airdrop-related content ensured eligible recipients could claim their tokens.",
+  "contributionDescription": "I have actively produced educational content about Optimism across multiple formats, including long-form guides, short social media posts, infographics, Threads ,and YouTube videos. These contributions explain Optimism's rollup technology, staking, governance, DeFi integrations, and benefits. My explainers aim to make Optimism more accessible for developers and users. I also created posts and videos to raise awareness of Optimism updates, statistics, partners, and details around the airdrop. While I have not directly contributed code or capital, I believe my content broadens Optimism's reach through education. Making information on Optimism easy to digest serves to further its adoption and progress as a key Ethereum scaling solution.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/4bTsY_AU9pA",
+      "description": "youtube video about optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": "1000",
+      "url": "https://youtu.be/4bTsY_AU9pA"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Received nothing"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xcd842be029689ac8c0cb4a6749a1a52875473bc74690e336c076f9f918ec8e5a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 22,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

@@ -1,0 +1,48 @@
+{
+  "bio": "un apasionado de las crypto",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Avagdout",
+  "websiteUrl": "https://www.errantedelmundo20.com",
+  "applicant": {
+    "address": {
+      "address": "0x2204464061Dd3Fec8E45B677308e9e100B49cdCA",
+      "resolvedName": {
+        "address": "0x2204464061Dd3Fec8E45B677308e9e100B49cdCA",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2204464061Dd3Fec8E45B677308e9e100B49cdCA"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2204464061Dd3Fec8E45B677308e9e100B49cdCA.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x906d4e825c7189dc6f6ead6021243f4a79483eff38558152789b7b2e090e8bba"
+  },
+  "impactDescription": "Testing of various apps, defi and nft, to improve the system. There are various transactions that I have carried out such as the signing of contracts, transfer of funds between various networks with optimism as the protagonist. I still actively participate in the network with tests of new projects that are coming out...",
+  "contributionDescription": "Diversas interacciones y minteos de NFT, todo un apasionado de este gran mundo donde las oportunidades pueden ser infinitas y espero con un poco de suerte poder encontrar la tan ansiada libertad econ\u00f3mica y si no lo logro pues en alg\u00fan momento lo podr\u00e9 hacer.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.errantedelmundo20.com",
+      "description": "diversas cuestiones"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "downloads",
+      "number": "420",
+      "url": "https://www.errantedelmundo20.com"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd4f1b16d93eb848293392a65b6dce3507fb7a33a3ad0f968ae49328de7046814",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

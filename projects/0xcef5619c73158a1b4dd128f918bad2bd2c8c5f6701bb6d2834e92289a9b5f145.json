@@ -1,0 +1,100 @@
+{
+  "bio": "A group of researchers dedicated to R,D,E & application of Bonding Curves",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Bonding Curve Research Group",
+  "websiteUrl": "https://t.co/in8OEetmml",
+  "applicant": {
+    "address": {
+      "address": "0xb2821C0DF0c414ff51D3e8033CBA26DF6AaC587b",
+      "resolvedName": {
+        "address": "0xb2821C0DF0c414ff51D3e8033CBA26DF6AaC587b",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xb2821C0DF0c414ff51D3e8033CBA26DF6AaC587b"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb2821C0DF0c414ff51D3e8033CBA26DF6AaC587b.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb2821C0DF0c414ff51D3e8033CBA26DF6AaC587b.png",
+    "id": "OptimistProfile|0xdf13ed8a242935e4fe38e978e83d08b421132793d3e169f8420be52260f4c2a5"
+  },
+  "impactDescription": "BCRG R&D enables researchers and developers in the Optimism ecosystem to understand and experiment with bonding curve mechanisms, which are fundamental to various DeFi applications, including Automated Market Makers (AMMs) and token issuance platforms. Our educational library has contributed to making knowledge about bonding curves more accessible, helping both newcomers and experts to enhance their understanding. By providing a hub for educational material, our library fosters learning, research, and innovation in this realm and is key for current and future builds on Optimism. Our collaboration efforts are instrumental in driving forward research and applications of BCs, contributing to the broader Optimism ecosystem's growth and development.",
+  "contributionDescription": "Summary of outputs:\n9 Seminar Recordings\n2 Articles\n1 Python Package\n1 bonding curve deployment on Inverter Network\n\nPlease see document for full description: https://docs.google.com/document/d/15mj_GwPOXO9E0qkhnNEIo4brioluu0bXWnuOo2i9frw/edit?usp=sharing",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x8fF6Fe58b468B1F18d2C54e2B0870b4e847C730d/1Pxl_fbIPifIQ4_y0xoJGZGEk70qfOM3Gi9nWycm-8k",
+      "description": "Educational article on bonding curves as cryptoeconomic primitives"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://auspicious-cap-b5c.notion.site/Bonding-Curve-Research-Group-a0fe00e81d84435a8fddd547a7888063",
+      "description": "Hosting weekly research calls, building knowledge library & BC case studies"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=RTsyPd6Xk1U&list=PLl_NgvZc7atfookYgCUuvDLPzodhAyXJu",
+      "description": "Library of research discussions (videos) on bonding curves"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Bonding_Curves",
+      "description": "Building social media and community connections"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x8fF6Fe58b468B1F18d2C54e2B0870b4e847C730d/3gTCNW1LcsNd_O8zgfgERXnZhA_8wYyyHkZRe-oxIns",
+      "description": "Educational article and documentation & open source BC modeling & simulation"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=pTThab0DSF4",
+      "description": "Model walk through video"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/bonding-curves/conding",
+      "description": "Open Source Python Library"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/bonding-curves/conding",
+      "description": "BC documentation and open source code"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/tec/tec",
+      "description": "Token Engineering Commons Dune Dashboard (preparing for Optimism migration) "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://goerli.etherscan.io/address/0xDeE39Aea78f13F1A57d08058cCA421365e852DaA#writeContract",
+      "description": "Goerli Contract Address of Bonding Curve deployment "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Metrics sheet",
+      "number": "0",
+      "url": "https://docs.google.com/spreadsheets/d/1mnZipuXyYO6JMr69Bb7u3S2509bsTUsLyp6oqMxxjlE/edit#gid=0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "We have not yet received any OP funding"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xcef5619c73158a1b4dd128f918bad2bd2c8c5f6701bb6d2834e92289a9b5f145",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 27,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

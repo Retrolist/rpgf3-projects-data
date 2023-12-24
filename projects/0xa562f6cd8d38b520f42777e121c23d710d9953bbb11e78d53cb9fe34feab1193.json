@@ -1,0 +1,85 @@
+{
+  "bio": "The decentralized commerce protocol",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Slice",
+  "websiteUrl": "https://slice.so",
+  "applicant": {
+    "address": {
+      "address": "0xf32dd1Bd55bD14d929218499a2E7D106F72f79c7",
+      "resolvedName": {
+        "address": "0xf32dd1Bd55bD14d929218499a2E7D106F72f79c7",
+        "name": "jacopo.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xf32dd1Bd55bD14d929218499a2E7D106F72f79c7"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf32dd1Bd55bD14d929218499a2E7D106F72f79c7.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf32dd1Bd55bD14d929218499a2E7D106F72f79c7.png",
+    "id": "OptimistProfile|0x61e830df32c0cf95ec15023fc7c0fef21ace4276ddc87381e9f298c27ac39ad9"
+  },
+  "impactDescription": "Slice is bringing commerce onchain. \n\nWithin just two months of launching on Base, we've achieved significant user engagement metrics that underline our impact. We are now leveraging the lower fees of L2 to onboard traditional merchants to Base and the wider Optimism ecosystem.\n\nWe've intentionally set our protocol fee to zero to accelerate adoption at this stage, making Base and the Optimism ecosystem an attractive platform for onchain commerce. As such we don't expect to generate revenue from the protocol for the foreseeable future.",
+  "contributionDescription": "Slice is a 2-year effort to build the protocol\u00a0for decentralized commerce. At the time of writing we:\n- Created the Slice protocol and deployed 55 related contracts on Base;\n- Built the Slice web interface and API at slice.so, used to interact with the protocol;\n- Developed the Slice subgraph as the public API for tracking products and purchases;\n- Attracted a growing user base, emphasizing our impact and value within the Optimism ecosystem;\n- Worked alongside Coinbase to improve the UX of onchain commerce and onboard traditional merchants to Base and the Optimism ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/slice-so",
+      "description": "Slice repositories"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/slice-so/interface",
+      "description": "Slice interface repo"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/slice-so/subgraph/tree/dev",
+      "description": "Slice subgraph repo"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/txs?a=0xae009d532328ff09e09e5d506ab5bbec3c25c0ff&f=5",
+      "description": "List of Slice contracts deployed on Base"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total transactions on Base",
+      "number": "300",
+      "url": "https://basescan.org/address/0xb9d5B99d5D0fA04dD7eb2b0CD7753317C2ea1a84"
+    },
+    {
+      "description": "Onchain stores created",
+      "number": "37",
+      "url": "https://basescan.org/address/0x5Cef0380cE0aD3DAEefef8bDb85dBDeD7965adf9"
+    },
+    {
+      "description": "Products created",
+      "number": "103",
+      "url": "https://basescan.org/address/0xb9d5B99d5D0fA04dD7eb2b0CD7753317C2ea1a84"
+    },
+    {
+      "description": "Products purchased",
+      "number": "150",
+      "url": "https://basescan.org/address/0xb9d5B99d5D0fA04dD7eb2b0CD7753317C2ea1a84"
+    },
+    {
+      "description": "Unique users",
+      "number": "300",
+      "url": "https://basescan.org/address/0xb9d5B99d5D0fA04dD7eb2b0CD7753317C2ea1a84"
+    },
+    {
+      "description": "USDC spent by buyers",
+      "number": "2500",
+      "url": "https://basescan.org/address/0xb9d5B99d5D0fA04dD7eb2b0CD7753317C2ea1a84"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xa562f6cd8d38b520f42777e121c23d710d9953bbb11e78d53cb9fe34feab1193",
+  "prelimResult": "Remove",
+  "reportReason": "Not sure this is within the retropgf scope, not sure if they're live on Optimism"
+}

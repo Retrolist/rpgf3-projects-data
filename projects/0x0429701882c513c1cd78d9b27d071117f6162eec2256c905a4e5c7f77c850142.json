@@ -1,0 +1,52 @@
+{
+  "bio": "nothing left",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Alfi Rahman Sanad ",
+  "websiteUrl": "https://twitter.com/jho919",
+  "applicant": {
+    "address": {
+      "address": "0x59AE48ed57e94BCF9b1d5CF13a9bd01EcEd5BA94",
+      "resolvedName": {
+        "address": "0x59AE48ed57e94BCF9b1d5CF13a9bd01EcEd5BA94",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x59AE48ed57e94BCF9b1d5CF13a9bd01EcEd5BA94"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x59AE48ed57e94BCF9b1d5CF13a9bd01EcEd5BA94.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x59AE48ed57e94BCF9b1d5CF13a9bd01EcEd5BA94.png",
+    "id": "OptimistProfile|0xb0cb241c9bd751feb38df16fc7734d1db694282017f3e3fa5aa89cc58869890c"
+  },
+  "impactDescription": "I can be a tester or carry out transactions in a number of applications or websites such as dex, swap, pool, trade, borrow, limit and look for bugs or something like that. I can also be part of this project and promote it to the people closest to me.maybe it's just like that",
+  "contributionDescription": "I can be a tester or carry out transactions in a number of applications or websites such as dex, swap, pool, trade, borrow, limit and look for bugs or something like that. I can also be part of this project and promote it to the people closest to me.maybe it's just like that",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/jho919",
+      "description": "Twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Nothing",
+      "number": "1",
+      "url": "Https://twitter.com/jho919"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0429701882c513c1cd78d9b27d071117f6162eec2256c905a4e5c7f77c850142",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

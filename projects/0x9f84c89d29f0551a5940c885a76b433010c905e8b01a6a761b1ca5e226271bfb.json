@@ -1,0 +1,98 @@
+{
+  "bio": "Services & collaboration tools to build & manage pro-social web3 communities",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Collab.Land",
+  "websiteUrl": "https://www.collab.land",
+  "applicant": {
+    "address": {
+      "address": "0x3eEFAa9d6e2ab7972C1001D41C82BB4881389257",
+      "resolvedName": {
+        "address": "0x3eEFAa9d6e2ab7972C1001D41C82BB4881389257",
+        "name": "ispeaknerd.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3eEFAa9d6e2ab7972C1001D41C82BB4881389257"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3eEFAa9d6e2ab7972C1001D41C82BB4881389257.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3eEFAa9d6e2ab7972C1001D41C82BB4881389257.png",
+    "id": "OptimistProfile|0xb719fed65bbaa721749929a365527a63c08c1159e8f9ab03e823fba1b49db060"
+  },
+  "impactDescription": "## Community Token Gating & encouraging Optimism adoption\n### Optimism mainnet\n- 243 communities \n- 352 Optimism TGRs\n- launched OP gating Dec 2021\n### BASE\n- 17 communities\n- 20 BASE TGRs\n- BASE gating went live Sept 2023\n\n## Token Claim\n- 97k+ wallets airdropped 515M COLLAB on OP\n- airdropped 67.6M COLLAB to 46 communities on OP\n    - including Yield Guild Games SEA, Bankless DAO, and Clipper\n- 112k wallets currently holding COLLAB on Optimism \n\n## Optimism Awareness & Usage\n### DAO Announcements \n- Mirror\n    - 18k+ Mirror NFT collects on OP\n    - 6k+ subs\n### Collab.Land News \n- Substack newsletter sharing updates in the Collab.Land ecosystem and beyond\n    - 76k Newsletters delivered\n    - 43k read\n    - 5k+ subs\n### Lets Form Group - crypto community culture\n- 6k+ Youtube views",
+  "contributionDescription": "Made it easy to manage token-gated communities:\nWe provide a simple & easy platform for managing token-gated communities. In total, we support 53k communities across 26+ networks. Collab.Land's support for Optimism since Dec 2021 has facilitated the growth of 253 OP communities.\n\nEncouraged adoption & awareness of Optimism:\nCollab.Land is the most popular token-gating community platform on Optimism. We airdropped 515M COLLAB to 97k+ users, including 62.6M COLLAB to 46 communities on OP. Many users bridged ETH and communities deployed SAFE multisigs to receive tokens. Our newsletters on Substack share project updates; we required communities to publish COLLAB token claim proposals on Mirror & many users collected those posts on OP.\n\nCrypto Culture:\nVideos promoting crypto community culture.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.collab.land/help-docs/key-features/token-gate-communities",
+      "description": "Token Gating docs"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a",
+      "description": "COLLAB token contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.letsformgroup.xyz/",
+      "description": "Crypto Culture videos"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "COLLAB holders on OP",
+      "number": "112798",
+      "url": "https://optimistic.etherscan.io/token/0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a"
+    },
+    {
+      "description": "users received COLLAB airdrop on OP",
+      "number": "97893",
+      "url": "https://dune.com/springzhang/collab-land-user-behavior-after-airdrop"
+    },
+    {
+      "description": "COLLAB claim transactions on OP",
+      "number": "47652",
+      "url": "https://dune.com/springzhang/collab-land-user-behavior-after-airdrop"
+    },
+    {
+      "description": "Collab.Land managed communities on OP",
+      "number": "243",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSnYki07NIziAhJGuQj-t4iX2jCgckUEnw3CM2XU-ZuyFORsNDuuTMgZwQHEnqARobzNsHZFKdMkpot/pubhtml"
+    },
+    {
+      "description": "Collab.Land managed communities on BASE",
+      "number": "17",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSnYki07NIziAhJGuQj-t4iX2jCgckUEnw3CM2XU-ZuyFORsNDuuTMgZwQHEnqARobzNsHZFKdMkpot/pubhtml"
+    },
+    {
+      "description": "TGRs on Optimism",
+      "number": "352",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSnYki07NIziAhJGuQj-t4iX2jCgckUEnw3CM2XU-ZuyFORsNDuuTMgZwQHEnqARobzNsHZFKdMkpot/pubhtml"
+    },
+    {
+      "description": "TGRs on BASE",
+      "number": "20",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSnYki07NIziAhJGuQj-t4iX2jCgckUEnw3CM2XU-ZuyFORsNDuuTMgZwQHEnqARobzNsHZFKdMkpot/pubhtml"
+    },
+    {
+      "description": "Lets Form Group Season 1 views",
+      "number": "6768",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vToagf6sgwmwF5KBc1ByF83ZyCaTwyB5E0-gq8CmuJU2AqsB_9zjUKmfaw3odTYIyFgb3dc-MAl99mg/pubhtml"
+    },
+    {
+      "description": "Newsletter emails delivered",
+      "number": "76643",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR0dZGWFmjXBQ3fciZzyWTYmhoCambixptHbqCxd4Yhkcmr0zq8Z8SlG17eTnaIyRdhNSdDvi5wO6a0/pubhtml"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x9f84c89d29f0551a5940c885a76b433010c905e8b01a6a761b1ca5e226271bfb",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 50,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

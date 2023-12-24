@@ -1,0 +1,49 @@
+{
+  "bio": "ZK-Lawyer by day, crypto degen lawyer by night",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "cryptolawyer",
+  "websiteUrl": "https://twitter.com/CAcryptolawyer",
+  "applicant": {
+    "address": {
+      "address": "0x4326e1e02841bF03a0424Ef61239543A9FdB6a30",
+      "resolvedName": {
+        "address": "0x4326e1e02841bF03a0424Ef61239543A9FdB6a30",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x4326e1e02841bF03a0424Ef61239543A9FdB6a30"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x9cb271d35bfe298c3d8775068daec8797c11e4d538d8828decc40b56b31d2d6b"
+  },
+  "impactDescription": "I hope the impact of my posts throughout X (Twitter) are encouraging to new users to join the Optimism Collective. My legal advice has kept at least one team out of hot water so they could continue to focus on building the Optimism ecosystem. My collaboration on articles is hopefully helpful to those new lawyers coming into the space. ",
+  "contributionDescription": "I contribute to Optimism through content writing posts in support of the Optimistic Collective and encouraging adoption among retail and experienced users. I have encouraged multiple holders to delegate. I also provide anon legal advice to projects in the Optimistic Ethereum ecosystem to include review of documents as well as collaborating on LEX articles. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/CAcryptolawyer",
+      "description": "twitter posts, articles"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "followers",
+      "number": "784",
+      "url": "https://twitter.com/CAcryptolawyer"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x218c7688e5dcf819ab26a3dac0f2ecdfe87dd445814bc9c49701b84bde3f1888",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 21,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

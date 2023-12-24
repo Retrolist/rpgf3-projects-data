@@ -1,0 +1,52 @@
+{
+  "bio": "web3",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "247gamebox",
+  "websiteUrl": "https://opensea.io/247gamebox",
+  "applicant": {
+    "address": {
+      "address": "0xe0A704F7c44E47069D2f457e4E8ac953075AF16B",
+      "resolvedName": {
+        "address": "0xe0A704F7c44E47069D2f457e4E8ac953075AF16B",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xe0A704F7c44E47069D2f457e4E8ac953075AF16B"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe0A704F7c44E47069D2f457e4E8ac953075AF16B.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe0A704F7c44E47069D2f457e4E8ac953075AF16B.png",
+    "id": "OptimistProfile|0x5b5378f31ef0029f5d8a9058c518aa9c183ff4c41e4794bfe5aa9460f45ca452"
+  },
+  "impactDescription": "If we are able to find the any issues or errors by using  by using different wallet like Metamask and Trezor, we are able to learn the stability and reliability of the Optimism network. We can then inform the Optimism Network Team to resolve the errors and issues on a timely matter.",
+  "contributionDescription": "Using individual wallets and fundings to test the operation and scalability of the Optimism network.  By using different wallet like Metamask and Trezor, we are able to learn the stability and reliability of the Optimism network.  Check the Optimism Network how busy it is and whether it is working with the different wallets.  ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xe0a704f7c44e47069d2f457e4e8ac953075af16b#tokentxnsErc721",
+      "description": "example of activities"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Activities ",
+      "number": "30",
+      "url": "https://optimistic.etherscan.io/address/0xe0a704f7c44e47069d2f457e4e8ac953075af16b"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x402e6bcfb80053036a535ba25bdc2f1e5d7ddc07c29210e25001170f83a99757",
+  "prelimResult": "Remove",
+  "reportReason": "User interactions are out of scope"
+}

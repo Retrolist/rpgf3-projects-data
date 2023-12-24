@@ -1,0 +1,61 @@
+{
+  "bio": "I work as a content producer, articles, tutorials and translator.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "HusseinMCrypto",
+  "websiteUrl": "https://twitter.com/husseinMCrypto",
+  "applicant": {
+    "address": {
+      "address": "0x186113E44D217117E327c3B16Dd547eE42967c06",
+      "resolvedName": {
+        "address": "0x186113E44D217117E327c3B16Dd547eE42967c06",
+        "name": "meudominio.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x186113E44D217117E327c3B16Dd547eE42967c06"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x186113E44D217117E327c3B16Dd547eE42967c06.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x186113E44D217117E327c3B16Dd547eE42967c06.png",
+    "id": "OptimistProfile|0x4c3a0795e4546452441331b04717ada904bbe1cc39ceafc10b012f6fe80089f2"
+  },
+  "impactDescription": "My contributions encouraged more people, especially in my region (Brazil), to better understand how the Optimism mechanism and its technology work, and to participate more actively in the governance system, in addition to, of course, adopting dapps from the optimism ecosystem",
+  "contributionDescription": "As a crypto and web3 expert, I contribute to the Optimism ecosystem by creating and translating content in Portuguese. This content helps to educate and inform Brazilian users about Optimism, and it also helps to attract new users to the platform.\n\nI create content on a variety of platforms, including Medium, Twitter, and Telegram. This makes it accessible to a wide audience of Brazilian users. I also translate content from English to Portuguese, which helps to make Optimism more accessible to Brazilian users who are not fluent in English.\n\nI am passionate about helping to grow the Optimism ecosystem in Brazil. I believe that Optimism has the potential to make a positive impact on the lives of Brazilians, and I am committed to helping to make it more accessible to Brazilian users.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://husseinmohamad5.medium.com/o-futuro-da-governan%C3%A7a-optmism-f14579ef7d8d",
+      "description": "Translation into Portuguese of the optimism blog article"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/PureAlphaCrypto/25",
+      "description": "Encouragement for my community to participate in governance in optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of Followers",
+      "number": "95",
+      "url": "https://twitter.com/husseinMCrypto"
+    },
+    {
+      "description": "Number of Followers",
+      "number": "95",
+      "url": "https://t.me/PureAlphaCrypto"
+    },
+    {
+      "description": "Number of Followers",
+      "number": "37",
+      "url": "https://medium.com/@husseinmohamad5"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xc558d854e51853dc6d6ed83b3e9edd33bc04d9ec0dc0bd0ec79c5f169c3e5602",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

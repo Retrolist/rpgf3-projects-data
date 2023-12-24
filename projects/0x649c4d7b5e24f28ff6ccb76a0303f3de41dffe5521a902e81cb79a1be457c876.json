@@ -1,0 +1,52 @@
+{
+  "bio": "An NFT Artist",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Deepali bhat",
+  "websiteUrl": "https://twitter.com/deepalibhat236",
+  "applicant": {
+    "address": {
+      "address": "0x6e848EaE0A4aCAEa5A33Dcc76d6b3BEc0250F8AA",
+      "resolvedName": {
+        "address": "0x6e848EaE0A4aCAEa5A33Dcc76d6b3BEc0250F8AA",
+        "name": "lvga.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x6e848EaE0A4aCAEa5A33Dcc76d6b3BEc0250F8AA"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6e848EaE0A4aCAEa5A33Dcc76d6b3BEc0250F8AA.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x59f0c1d39c3976785c7be5498e4c95594be6940683f17b3fd55ed2701c9f5429"
+  },
+  "impactDescription": "The list above does not include all governance powers \u2013 it notably excludes governance responsibilities, especially social ones.\n\nThe list above is also not a commitment or blueprint for exactly how governance powers will be rolled out and implemented. It is highly likely that the Collective will learn from initial experiments towards this blueprint and may make modifications to the processes outlined here. These \u201cProblem Spaces\u201d are intended as starting points for discussion, not as a prescriptive roadmap.",
+  "contributionDescription": "The list above does not include all governance powers \u2013 it notably excludes governance responsibilities, especially social ones.\n\nThe list above is also not a commitment or blueprint for exactly how governance powers will be rolled out and implemented. It is highly likely that the Collective will learn from initial experiments towards this blueprint and may make modifications to the processes outlined here. These \u201cProblem Spaces\u201d are intended as starting points for discussion, not as a prescriptive roadmap.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/",
+      "description": "Evidences"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Evidences",
+      "number": "50",
+      "url": "https://optimistic.etherscan.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x649c4d7b5e24f28ff6ccb76a0303f3de41dffe5521a902e81cb79a1be457c876",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

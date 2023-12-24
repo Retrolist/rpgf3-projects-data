@@ -1,0 +1,58 @@
+{
+  "bio": "Making learning Optimism 10x easier.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Optimistic Academy",
+  "websiteUrl": "https://app.optimistic.academy/",
+  "applicant": {
+    "address": {
+      "address": "0xDFC65E0292573311DF30eA4De81F941bCd726aB6",
+      "resolvedName": {
+        "address": "0xDFC65E0292573311DF30eA4De81F941bCd726aB6",
+        "name": "santicristobal.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xDFC65E0292573311DF30eA4De81F941bCd726aB6"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDFC65E0292573311DF30eA4De81F941bCd726aB6.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xDFC65E0292573311DF30eA4De81F941bCd726aB6.png",
+    "id": "OptimistProfile|0x71172efca7bb0d7b2e8a9a90260c7cf17e437dd16d2f374bc6fbaa353fde5e94"
+  },
+  "impactDescription": "We created the first Optimism Academy and an Intro to Optimism course that makes learning about Optimism 10x easier.\n\nThe course features more than 20 videos (so far), all tied together in a structured way and complemented with quizzes and assignments.\n\nAfter months of work, we launched the academy a few weeks ago and had more than 30 people joining, despite not doing any marketing or publicity apart from publishing the link on the forum.\n\nWe've recently created Twitter and Youtube accounts to start distributing the content and reaching more people, but it's too soon to see it's real impact.\n",
+  "contributionDescription": "The Optimism Academy is a place where people can learn about Optimism in a structured and engaging way.\n\nWe created a series of to-the-point, engaging video courses combined with interactive quizzes and \u201creal-world\u201d assignments to facilitate understanding of the Collective and its underlying vision and tech.\n\nOur endgame is to have courses on all the major topics concerning Optimism. We started with an intro to Optimism course which features more than 20 videos covering:\n\n1. The Optimism Collective and it's vision\n2. Public Goods and RetroPGF\n3. Optimism Technology\n4. Optimism Governance\n5. How to get involved\n\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.optimistic.academy/",
+      "description": "Platform to learn about Optimism in a structured and engaging way"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/channel/UC3ZCm1jiGyWZ-g3xBxS28pQ",
+      "description": "Youtube channel with all our videos (created very recently)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/OptimismAcademy",
+      "description": "Twitter account (created very recently)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Videos created",
+      "number": "20",
+      "url": "https://www.youtube.com/channel/UC3ZCm1jiGyWZ-g3xBxS28pQ"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x5a6e4747f075df92f7b5b969f3f0c684efa8cc21c10415509f31abf03f10b810",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 16,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

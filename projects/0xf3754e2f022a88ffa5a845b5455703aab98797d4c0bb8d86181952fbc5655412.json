@@ -1,0 +1,66 @@
+{
+  "bio": "Weekly newsletter about Ethereum.  Since August 21, 2016.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Week in Ethereum News",
+  "websiteUrl": "https://weekinethereumnews.com",
+  "applicant": {
+    "address": {
+      "address": "0x288C53a1BA857EaD34AD0e79F644087F8174185a",
+      "resolvedName": {
+        "address": "0x288C53a1BA857EaD34AD0e79F644087F8174185a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x288C53a1BA857EaD34AD0e79F644087F8174185a"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x288C53a1BA857EaD34AD0e79F644087F8174185a.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x288C53a1BA857EaD34AD0e79F644087F8174185a.png",
+    "id": "OptimistProfile|0x2bc416ef897c6e6700d8d563e1b837a6216fe4005d523c7882f30d126949b906"
+  },
+  "impactDescription": "Week in Ethereum News is a weekly newsletter with a strong developer focus.\n\nProvides awareness of the OP Stack & Retro PGF to application developers and OP Stack apps for end users.  \n\n406 mentions of Optimism in 116 issues (includes payment methods for job listings), Optimism first appeared in January 19, 2020 issue.  Plasma Group first appeared in February 2, 2019.",
+  "contributionDescription": "Week in Ethereum News (weekly newsletter) keeps you up to date on Ethereum, so you can spend less time on X (Twitter) and Reddit.\n\nCoverage includes Optimism & OP Stack, Retro PGF, stuff for developers and apps on the OP Stack.\n\nSponsor slot used to promote Retro PGF 2 & 3",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://weekinethereumnews.com/",
+      "description": "Weekly newsletter"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/WeekinEthNews/week-in-ethereum-news-archive",
+      "description": "Weekly newsletter archive"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of issues",
+      "number": "373",
+      "url": "https://github.com/WeekinEthNews/week-in-ethereum-news-archive"
+    },
+    {
+      "description": "# of Twitter followers",
+      "number": "22831",
+      "url": "https://twitter.com/weekinethnews"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 121700.47,
+      "description": "https://optimism.mirror.xyz/Upn_LtV2-3SviXgX_PE_LyA7YI00jQyoM1yf55ltvvI?rpgf"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf3754e2f022a88ffa5a845b5455703aab98797d4c0bb8d86181952fbc5655412",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 76,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

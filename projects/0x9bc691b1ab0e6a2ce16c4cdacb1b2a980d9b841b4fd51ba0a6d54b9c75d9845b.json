@@ -1,0 +1,58 @@
+{
+  "bio": "No-code web3 ecosystem that enables anybody to deploy their projects onchain.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Launchifi",
+  "websiteUrl": "https://launchifi.xyz",
+  "applicant": {
+    "address": {
+      "address": "0x64249ED5Ef7a004d268A508092851e987482a175",
+      "resolvedName": {
+        "address": "0x64249ED5Ef7a004d268A508092851e987482a175",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x64249ED5Ef7a004d268A508092851e987482a175"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x64249ED5Ef7a004d268A508092851e987482a175.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x64249ED5Ef7a004d268A508092851e987482a175.png",
+    "id": "OptimistProfile|0xf71a30e0a2c970fe6ece2bc9a3e3140f84583301aca9b50a9c296790e8aaf110"
+  },
+  "impactDescription": "We are building an ecosystem that enables the next generation of creators to easily join the web3 revolution through full ownership of their smart contracts, protection against ill-intentioned bad actors in the space, and the democratization of utility and tools that otherwise would not be available to them. ",
+  "contributionDescription": "We\u2019re a company built with the mission to empower the next generation of creators and founders with the tools to launch their web3 projects at speed, while lowering the barriers to entry for all. At Launchifi, we\u2019re building the most advanced no-code web3 ecosystem that enables anybody to deploy their projects onchain in less than a minute. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://mint.launchifi.xyz",
+      "description": "Mint Marketplace"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.launchifi.xyz",
+      "description": "No Code Launchpad"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of Smart Contracts Deployed",
+      "number": "340",
+      "url": "https://launchifi.xyz"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 0,
+      "description": "We were selected in RetroPGF to receive approximately 3400 OP however never did."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9bc691b1ab0e6a2ce16c4cdacb1b2a980d9b841b4fd51ba0a6d54b9c75d9845b",
+  "prelimResult": "Remove",
+  "reportReason": "impact unclear"
+}

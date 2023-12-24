@@ -1,0 +1,73 @@
+{
+  "bio": "Hedgey is onchain vesting & lockups, as afree public good for teams on Optimism",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Hedgey",
+  "websiteUrl": "https://hedgey.finance",
+  "applicant": {
+    "address": {
+      "address": "0x6cCe9bAE11B01E9fFF30DBe790f64B459A614B0F",
+      "resolvedName": {
+        "address": "0x6cCe9bAE11B01E9fFF30DBe790f64B459A614B0F",
+        "name": "nevergoingtogiveyouup.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x6cCe9bAE11B01E9fFF30DBe790f64B459A614B0F"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6cCe9bAE11B01E9fFF30DBe790f64B459A614B0F.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6cCe9bAE11B01E9fFF30DBe790f64B459A614B0F.png",
+    "id": "OptimistProfile|0x8592f609c5d4fd656fb964b9568eee72aa5b122af2f9a7e067d1b1cce96b7d65"
+  },
+  "impactDescription": "When Collab.Land distributed their team token vesting and investor lockups via Hedgey's contracts, the locked and vesting tokens were given governance rights that could flexibly be delegated and participate in onchain governance via Tally. This helped bring new participants into the collective by allowing the team and investors to delegate/ vote in a way they previously would not have been able to. ",
+  "contributionDescription": "We've helped teams on Optimism to distribute locked and vesting tokens to their team, investors, and community. \n\nWe've also helped these tokens become more active in governance by enabling locked and vesting tokens to participate in governance. \n\nA specific contribution has been Collab.Land using Hedgey to distribute locked and vesting tokens to their team and investors using our free, onchain token infrastructure. \n\nIn addition to automating the distribution of these tokens to key supporters, Hedgey's contracts have enabled them to also become active in Onchain governance on Collab.Land proposals (via Tally.)\n\nWe don't expecting any funding and don't need it for our operations. Any funding we do get will be put back into Optimism in the form of a grant for new ideas launching on Optimsm",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x73cd8626b3cd47b009e68380720cfe6679a3ec3d",
+      "description": "Contract for our VotingTokenLockup PLans on Optimism"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x1b03d75094884714973f22867359de4b81af2f00",
+      "description": "Contract for our VotingToken Vesting Plans on Optimism"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x071f113b36a13cab991ba3e94cd48c27aa148600#code",
+      "description": "Example of a voting vault where delegated tokens are sent"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.hedgey.finance/nft/optimism/0x2aa5d15eb36e5960d056e8fea6e7bb3e2a06a351/88",
+      "description": "Random link to a 50k OP lockup that I think was a grant sent out on our contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://hedgey.finance/blog/case-study-collab-land-(team-token-vesting-investor-lockups)",
+      "description": "Article on the problem Hedgey solved for Collab.Land"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "percentage of tokens on contracts",
+      "number": "14",
+      "url": "https://optimistic.etherscan.io/token/0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a#balances"
+    },
+    {
+      "description": "Votes with tokens",
+      "number": "1",
+      "url": "https://www.tally.xyz/gov/collab-land/proposal/67281408268279969328361718823061922808968992916830591333523549543204466733901?chart=0"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x2fcf74bc4287ad3e63476246b2999ad0070cfcca8804fa66c7efd227070de33f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 34,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

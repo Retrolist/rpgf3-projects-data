@@ -1,0 +1,66 @@
+{
+  "bio": "IC3 is a multidisciplinary academic blockchain research initiative",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "IC3",
+  "websiteUrl": "https://www.initc3.org/",
+  "applicant": {
+    "address": {
+      "address": "0xBF430a49C4d85AeeD3908619D5387A1fbF8E74A9",
+      "resolvedName": {
+        "address": "0xBF430a49C4d85AeeD3908619D5387A1fbF8E74A9",
+        "name": "sarahallen.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xBF430a49C4d85AeeD3908619D5387A1fbF8E74A9"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBF430a49C4d85AeeD3908619D5387A1fbF8E74A9.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xBF430a49C4d85AeeD3908619D5387A1fbF8E74A9.png",
+    "id": "OptimistProfile|0xb4359d554d3b959ca75667f8a4037185858e86e6b56aab75efff97b86f4dd2da"
+  },
+  "impactDescription": "Some key findings from IC3 for Optimism: \n- MEV: IC3 research formally identified and coined the term \"MEV,\" important for the Optimism sequencer, and published follow-up work (Babel et al., 2023) since RetroPGF2\n- Dark DAOs: IC3 research identified the risk of Dark DAOs and automated bribery to governance, illuminating design space for robust governance systems\n-Privacy cryptography: IC3 has driven forward privacy cryptography research, including threshold encryption and multi party computation\n-Social good: IC3 prioritizes support of research for social good and ethical blockchain technology, sharing values with the Optimism Collective\n\nWe believe that research done in academia is a key compliment to industry research and contributes to the success of blockchain systems like Optimism. ",
+  "contributionDescription": "IC3 research has contributed the foundation and growth of blockchain systems, including Optimism and Ethereum. We encourage open-source and applied blockchain research in academia. Our research of impact to Optimism includes work on voting and Dark DAOs, identity systems, security and cryptography, MEV, consensus, wallet design, and regulation.\n\nIC3 facilitates collaboration across disciplines like computer science, cryptography, law, economics, distributed systems, and more through funding and events. We host retreats, an annual hackathon, co-organize The Science of Blockchain Conference (SBC), have a research blog and a monthly newsletter. \n\nIC3 is an initiative of faculty at CMU, Cornell, Cornell Tech, EPFL, ETH Zurich, University of Bern, UC Berkeley, UCL, UIUC, SMU, and the Technion. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/initc3org",
+      "description": "IC3's Twitter account features the latest contributions by our academic members"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://initc3org.medium.com/",
+      "description": "IC3's Medium blog features informal technical posts to accompany formal papers"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.initc3.org/publications",
+      "description": "For recent impact, IC3's publication page shows releases in 2023 since RetroPGF3"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of academic research papers in 2023-4",
+      "number": "54",
+      "url": "https://www.initc3.org/publications"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 45300,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb7dabe6cef237688405965319267646c67ea6c664a4487c1c70f8da3abe5173b",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 50,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack development & research"
+}

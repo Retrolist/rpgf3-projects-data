@@ -1,0 +1,52 @@
+{
+  "bio": "Apa adanya",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Optimalkan ",
+  "websiteUrl": "https://x.com/dondot448",
+  "applicant": {
+    "address": {
+      "address": "0x527A8113e63DB2b4918069BcE49b5d73912D1383",
+      "resolvedName": {
+        "address": "0x527A8113e63DB2b4918069BcE49b5d73912D1383",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x527A8113e63DB2b4918069BcE49b5d73912D1383"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x527A8113e63DB2b4918069BcE49b5d73912D1383.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x6d968f53fa8e86a0a82785e65c0e2b1b3dd1ed19be19aec5da79ee9cc93396b1"
+  },
+  "impactDescription": "Semua tindakan yang kita lakukan pasti akan selalu memberikan dampak . Tapi yang perlu kita tau sebagai anggota komunitas optimisme bahwa dampak dari semua yang kita lakukan akan menjadi nilai plus untuk masa depan mendatang. Jangan takut mencoba dan terus mencoba ",
+  "contributionDescription": "Saya sangat percaya bahwa retroPGF sangat bermanfaat bagi anggota komunitas optimisme karena ini adalah salah satu cara terbaik untuk memperkenalkan setiap anggota belajar mendirikan sebuah proyek yang tujuannya untuk kemajuan diri kita sendiri, mari kita dukung selalu proyek ini sampai benar benar sukses",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://x.com/dondot448",
+      "description": "Twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "2mba",
+      "number": "568",
+      "url": "https://x.com/dondot448"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 30,
+      "description": "Succes"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x00babc95abc3fb8290282cf9853ec34dcc9dec737e7e60df4db98aec6140e874",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

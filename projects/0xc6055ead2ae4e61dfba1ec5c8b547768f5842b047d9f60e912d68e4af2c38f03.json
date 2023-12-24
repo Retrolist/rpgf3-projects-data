@@ -1,0 +1,65 @@
+{
+  "bio": "Apasionado el trading. Siempre al d\u00eda . En busca de la libertad",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Lexim",
+  "websiteUrl": "https://x.com/lexim__?s=09",
+  "applicant": {
+    "address": {
+      "address": "0xb8C39D4DaBb7ED12b3b12847A958614EA78353CD",
+      "resolvedName": {
+        "address": "0xb8C39D4DaBb7ED12b3b12847A958614EA78353CD",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xb8C39D4DaBb7ED12b3b12847A958614EA78353CD"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3e0106de9c927b7a4f01ea7a9ae0fe91442166ee639e87995a997f555bdfc5fa"
+  },
+  "impactDescription": "I know that my impact is not too big. It is like an user. I participated in snapshot everytime I can. I Have done all the nft program. I have tested a lot of applications from optimism. I love this blockchain and I will keep testing it.  I would like to count with some help to keep doing it and to test an develop everything I could. Im waiting for NFT airdrop too ;)",
+  "contributionDescription": "I Have done all the nft program. I have tested a lot of applications from optimism. I love this blockchain and I will keep testing it.  I would like to count with some help to keep doing it and to test an develop everything I could. Im waiting for NFT airdrop too ;)",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://platform.arkhamintelligence.com/profile",
+      "description": "https://platform.arkhamintelligence.com/explorer/address"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Arkham",
+      "number": "706",
+      "url": "https://platform.arkhamintelligence.com/explorer/address/0xb8C39D4DaBb7ED12b3b12847A958614EA78353CD"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1500,
+      "description": "Arbitrum airdrop"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 70,
+      "description": "Op airdrop gass fee"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1500,
+      "description": "Aptos airdrop"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xc6055ead2ae4e61dfba1ec5c8b547768f5842b047d9f60e912d68e4af2c38f03",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

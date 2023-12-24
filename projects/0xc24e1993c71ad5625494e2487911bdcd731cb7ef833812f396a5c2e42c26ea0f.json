@@ -1,0 +1,73 @@
+{
+  "bio": "Guide and summary of the latest Optimism governance announcements in Vietnamese",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "T\u00e2n Binh",
+  "websiteUrl": "https://mirror.xyz/nhatvinh.eth",
+  "applicant": {
+    "address": {
+      "address": "0x3CBA236140236DA915c611922AF2deA101Ad26E7",
+      "resolvedName": {
+        "address": "0x3CBA236140236DA915c611922AF2deA101Ad26E7",
+        "name": "nhatvinh.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3CBA236140236DA915c611922AF2deA101Ad26E7"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3CBA236140236DA915c611922AF2deA101Ad26E7.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3CBA236140236DA915c611922AF2deA101Ad26E7.png",
+    "id": "OptimistProfile|0xe15574bce07202faa4b2f2a7e26e0b395a720129e898eda5d72f95b56ce87cd5"
+  },
+  "impactDescription": "By summarizing various articles, many users in my language were able to learn about the activities and governance proposals, which can be found in the amount of impressions on Twitter. Also, I've created a Google Forms survey to assess the quality and impact of my summaries and original articles, which I've shared on the local Discord server and my Twitter account. The survey has received a lot of positive feedback.\n\nMoreover, my written guide on how to use the new Optimism's voting website was released when the platform first came out, and it has been given a shoutout by the Agora team through their Feedback thread on the Optimism forum.\n",
+  "contributionDescription": "Since the beginning of season 4, I have been writing many original articles and summaries about new governance announcements, proposals, or new activities on the Optimism network and have also shared these information through my Twitter account.\n\nMost of my content is created in my native language, Vietnamese, so that users in my country can know more about the proposals, how to participate in governance, and can understand the content of what they are voting on. Moreover, they can also learn about how Optimism is currently working, both in terms of activity in governance and about campaigns.\n\nNote: I'm a part of the Ambassador program. This application is used to nominate individual contribution to the Collective outside of the Ambassador contribution path.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1i1Jg_qFnZIBJcDzfasVXX4rkl8j5LnmD4PN1NhE7APQ/edit?usp=sharing",
+      "description": "Summarize and original articles about different activities on Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Impression",
+      "number": "20188",
+      "url": "https://docs.google.com/spreadsheets/d/1i1Jg_qFnZIBJcDzfasVXX4rkl8j5LnmD4PN1NhE7APQ/edit?usp=sharing"
+    },
+    {
+      "description": "Shoutout from the Agora team",
+      "number": "1",
+      "url": "https://gov.optimism.io/t/agora-vote-optimism-io-feedback-thread/5358"
+    },
+    {
+      "description": "Impact evaluation form",
+      "number": "1",
+      "url": "https://docs.google.com/document/d/1nFeEjx_Y48r-35VNVvZYjuV7WAIF62AB4NfGoQW_zAs/edit?usp=sharing"
+    },
+    {
+      "description": "Number of Mirror subscriber",
+      "number": "22",
+      "url": "https://docs.google.com/document/d/1Oz9qdFEvQTGEu0aNelXxS-fgWL0GcfsmfE8JneGjGg0/edit?usp=sharing"
+    },
+    {
+      "description": "Number of NFT minted on Mirror",
+      "number": "26",
+      "url": "https://docs.google.com/document/d/1Oz9qdFEvQTGEu0aNelXxS-fgWL0GcfsmfE8JneGjGg0/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I have not received any funding for these nominated contributions."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xc24e1993c71ad5625494e2487911bdcd731cb7ef833812f396a5c2e42c26ea0f",
+  "prelimResult": "Remove",
+  "reportReason": "member of the Ambassadors (see duplicate application rule)"
+}

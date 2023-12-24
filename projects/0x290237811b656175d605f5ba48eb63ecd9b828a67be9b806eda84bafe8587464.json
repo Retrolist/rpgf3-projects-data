@@ -1,0 +1,70 @@
+{
+  "bio": "Venture to KeplerHomes  \u2013 vast space, unique creatures, unparalleled discovery.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "KeplerHomes",
+  "websiteUrl": "https://kepler.homes/",
+  "applicant": {
+    "address": {
+      "address": "0x4A74232c96AEFa239DCee6da120Ec31dB56ff17E",
+      "resolvedName": {
+        "address": "0x4A74232c96AEFa239DCee6da120Ec31dB56ff17E",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x4A74232c96AEFa239DCee6da120Ec31dB56ff17E"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4A74232c96AEFa239DCee6da120Ec31dB56ff17E.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4A74232c96AEFa239DCee6da120Ec31dB56ff17E.jpeg",
+    "id": "OptimistProfile|0xc3f4167cad96a07b89e03b2d12c21003588b6b23a5cdcfc89466b9dc6716fecc"
+  },
+  "impactDescription": "The launch of KeplerHomes Social & Gaming will greatly increase the long-term and continuous activity of optimization users, and can play a positive circulation role for optimization ecological users. We also advocate long-termism and sustainable contribution. In the game segment, we can integrate MUD.DEV to make some applications within our capabilities.",
+  "contributionDescription": "The launch of KeplerHomes Social & Gaming will greatly increase the long-term and continuous activity of optimization users, and can play a positive circulation role for optimization ecological users. We also advocate long-termism and sustainable contribution. In the game segment, we can integrate MUD.DEV to make some applications within our capabilities.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/kepler-homes/",
+      "description": "Kepler Evm & Move & Rust contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://kepler.homes",
+      "description": "Website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Github",
+      "number": "1",
+      "url": "https://github.com/kepler-homes/kepler-evm-contracts/tree/main/contracts"
+    },
+    {
+      "description": "MarketPlace",
+      "number": "1",
+      "url": "https://matket.kepler.homes/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500000,
+      "description": ""
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 500000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x290237811b656175d605f5ba48eb63ecd9b828a67be9b806eda84bafe8587464",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

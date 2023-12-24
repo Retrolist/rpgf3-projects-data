@@ -1,0 +1,62 @@
+{
+  "bio": "in crypto since 2019",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Alex",
+  "websiteUrl": "https://twitter.com/BrAquino",
+  "applicant": {
+    "address": {
+      "address": "0x5785523D831e155E38e5b94512E62E594e30D97a",
+      "resolvedName": {
+        "address": "0x5785523D831e155E38e5b94512E62E594e30D97a",
+        "name": "safira.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x5785523D831e155E38e5b94512E62E594e30D97a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5785523D831e155E38e5b94512E62E594e30D97a.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xd7f688695fb3c68b81171d5c9d27d905e1d70f89b3dd7393527aeea3b051f524"
+  },
+  "impactDescription": "Using the network and its functionalities for the end user. Frequently using bridge and stake functions. Always seeking to develop the best of the optimism network and seek the best usability for users. always seeking to interact with the system as a whole to discover new functionalities\n",
+  "contributionDescription": "Contributes to Optimism by testing the applications, bridges and their functionalities. For a long period using the Optimism network and its ecosystem. also contributing to the community, whether on discord or Twitter. Always seeking to develop the best of the optimism network and seek the best usability for users\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xfb1fd3db8739d2e0635a4ba87091a9ec0af6df0ff7c307a497b3f2ba84c57b58",
+      "description": "Mint"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xba9b5092d8b436dd6c224343f70eb70b952f95577b7399aa7166bea428956cfc",
+      "description": "mint"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "mint",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/tx/0xba9b5092d8b436dd6c224343f70eb70b952f95577b7399aa7166bea428956cfc"
+    },
+    {
+      "description": "mint",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/tx/0xfb1fd3db8739d2e0635a4ba87091a9ec0af6df0ff7c307a497b3f2ba84c57b58"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa79f4f55f6c742e70ff1844e1201b85acc6073bdb286458318e97ae54819f529",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

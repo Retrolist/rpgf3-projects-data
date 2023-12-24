@@ -1,0 +1,94 @@
+{
+  "bio": "Umbra is a stealth address privacy protocol for EVM networks.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Umbra",
+  "websiteUrl": "https://app.umbra.cash",
+  "applicant": {
+    "address": {
+      "address": "0x57EA12A3A8E441f5FE7B1F3Af1121097b7d3B6A8",
+      "resolvedName": {
+        "address": "0x57EA12A3A8E441f5FE7B1F3Af1121097b7d3B6A8",
+        "name": "umbra.umbra.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x57EA12A3A8E441f5FE7B1F3Af1121097b7d3B6A8"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x57EA12A3A8E441f5FE7B1F3Af1121097b7d3B6A8.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x57EA12A3A8E441f5FE7B1F3Af1121097b7d3B6A8.png",
+    "id": "OptimistProfile|0x5d7743e8342a7bf352738b38592de755a657f4c068d400d41e5541afa692e7c3"
+  },
+  "impactDescription": "Umbra provides Optimism uses with a critical piece of privacy infrastructure. It enables privacy conscious entities to use Optimism as a payments network. I has processed over $50 Million in value across more than 53,000 transactions. Close to 13,000 addresses have signed up to receive private payments. It also supports the OP token, allowing the OP governance token to be sent privately on the Optimism network.",
+  "contributionDescription": "Umbra has been of the preeminent privacy tools available on Optimism since its launch in March 2022. In that time, is has processed over $50 Million in value. Nearly 13,000 addresses have registered to receive private payments, and more than 53,000 transactions have been occurred. As a tool for private payments, Umbra is especially useful on an L2 network like Optimism, where low fees make the payments use case more tenable than mainnet.\n\nScopeLift, the creators of Umbra, have also contributed to several EIPs to help standardize stealth addresses for all EVM networks. It is our hope these standardization efforts will be the next step to making Stealth Address technology broadly accessible and useful to all in the ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xfb2dc580eed955b528407b4d36ffafe3da685401",
+      "description": "The Umbra contract, through which privacy preserving payments are processed."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x31fe56609c65cd0c510e7125f051d440424d38f3",
+      "description": "The Umbra stealth key registry, to register to receive private payments."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ScopeLift/umbra-protocol/",
+      "description": "The monorepo for the full open source Umbra stack."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Value Processed (USD)",
+      "number": "50000000",
+      "url": "https://dune.com/queries/1403879/2384592"
+    },
+    {
+      "description": "Transactions Processed",
+      "number": "53156",
+      "url": "https://dune.com/queries/1403896/2384623"
+    },
+    {
+      "description": "Addresses Registered",
+      "number": "12858",
+      "url": "https://dune.com/queries/1403893/2384619"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 34177.99,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 28000,
+      "description": "Ethereum Foundation Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 200000,
+      "description": "Lifetime Gitcoin Grants Funding (approx.)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100000,
+      "description": "MolochDAO Grant"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x488ecb65fbc1b1f66c7723a9b30424f10292beb3d130e5ae6f6b18117763035d",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 49,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

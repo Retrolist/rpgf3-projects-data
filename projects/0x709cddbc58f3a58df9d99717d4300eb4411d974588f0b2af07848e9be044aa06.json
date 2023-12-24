@@ -1,0 +1,55 @@
+{
+  "bio": "Graphic designer and visual artist",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "grafixart",
+  "websiteUrl": "https://grafixart.photo/",
+  "applicant": {
+    "address": {
+      "address": "0xea2691d4a38948Ef0CE42e0c1a326B21B9eE5939",
+      "resolvedName": {
+        "address": "0xea2691d4a38948Ef0CE42e0c1a326B21B9eE5939",
+        "name": "flopium.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xea2691d4a38948Ef0CE42e0c1a326B21B9eE5939"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xea2691d4a38948Ef0CE42e0c1a326B21B9eE5939.jpeg",
+    "id": "OptimistProfile|0xf3e9c7668547d0c541f0f093db7dcb45b3bcb22b05b5bfc7f28d1d801b9f96ab"
+  },
+  "impactDescription": "I used to make the 1st airdrop and also contributed to share everywhere, and with every friend on my social media, that they need to focus on both airdrop, team and token utility ! \n\nI'm active on NFT/Blockchain since a few years now... And when I enter to a project, it's because the project can be usefull for me and for others in long term !",
+  "contributionDescription": "I used to make the 1st airdrop and also contributed to share everywhere, and with every friend on my social media, that they need to focus on both airdrop, team and token utility ! \n\nI'm active on NFT/Blockchain since a few years now... And when I enter to a project, it's because the project can be usefull for me and for others in long term !",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xea2691d4a38948Ef0CE42e0c1a326B21B9eE5939",
+      "description": "ETHERSCAN"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "ETHERSCAN",
+      "number": "490",
+      "url": "https://optimistic.etherscan.io/address/0xea2691d4a38948Ef0CE42e0c1a326B21B9eE5939"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 491,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x709cddbc58f3a58df9d99717d4300eb4411d974588f0b2af07848e9be044aa06",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

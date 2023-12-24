@@ -1,0 +1,45 @@
+{
+  "bio": "Freelancer",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "tgz",
+  "websiteUrl": "https://linktr.ee/arb.io",
+  "applicant": {
+    "address": {
+      "address": "0x5dB9e26D5035C124a9b7dDdD545Fd60C23Cf26D0",
+      "resolvedName": {
+        "address": "0x5dB9e26D5035C124a9b7dDdD545Fd60C23Cf26D0",
+        "name": "arbio.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x5dB9e26D5035C124a9b7dDdD545Fd60C23Cf26D0"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5dB9e26D5035C124a9b7dDdD545Fd60C23Cf26D0.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5dB9e26D5035C124a9b7dDdD545Fd60C23Cf26D0.png",
+    "id": "OptimistProfile|0xe9a91fab0780777951c3915456a8301799ea682135c5c87ec2e06c7dd8fe49d3"
+  },
+  "impactDescription": "help optimism growth \nsupporting optimism project\ntry about ecosystem optimism \nparticipating on event and campaign \ntry official bridge \nBy offering insights and answering questions about Optimism, I aim to help users understand the project better and make informed decisions. Additionally, I can provide security information about the Optimism contract and its creator, ensuring users have a comprehensive understanding of the project's safety and reliability.\n\nWhile my contributions are primarily informational, I strive to empower users with the knowledge and resources they need to engage with the Optimism Collective effectively",
+  "contributionDescription": "help optimism growth \nsupporting optimism project\ntry about ecosystem optimism \nparticipating on event and campaign \ntry official bridge \nBy offering insights and answering questions about Optimism, I aim to help users understand the project better and make informed decisions. Additionally, I can provide security information about the Optimism contract and its creator, ensuring users have a comprehensive understanding of the project's safety and reliability.\n\nWhile my contributions are primarily informational, I strive to empower users with the knowledge and resources they need to engage with the Optimism Collective effectively",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x5dB9e26D5035C124a9b7dDdD545Fd60C23Cf26D0",
+      "description": "here"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "address",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0x5dB9e26D5035C124a9b7dDdD545Fd60C23Cf26D0"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xbaff3e8badcb9e4c3cd5a793e31b8524a2339043ca567c412b42ef483c2665e5",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

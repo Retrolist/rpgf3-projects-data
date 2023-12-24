@@ -1,0 +1,48 @@
+{
+  "bio": "Twitter account about Optimism in Russian for all citizens of CIS.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "OptimismCIS",
+  "websiteUrl": "https://twitter.com/optimismcis",
+  "applicant": {
+    "address": {
+      "address": "0xB5759de539114751CA6dB8D967Ad21913Df25eCF",
+      "resolvedName": {
+        "address": "0xB5759de539114751CA6dB8D967Ad21913Df25eCF",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xB5759de539114751CA6dB8D967Ad21913Df25eCF"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB5759de539114751CA6dB8D967Ad21913Df25eCF.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x75e57525e6fecc911e21171eb1020f6617d5b6bf7d38d4cf50e6d7391d3976ff"
+  },
+  "impactDescription": "The followers and viewers of the OptimismCIS Twitter account have gained extensive experience and knowledge about the Optimism project and also about projects built on Optimism.\nIt has now become easier for CIS citizens to begin their journey in the Optimism Project",
+  "contributionDescription": "I am spreading the word about the Optimism project and spreading knowledge in the CIS regions, as I spread Optimism news and created tweets and topics about the project which helped bring many people and followers to become part of the Optimism ecosystem.\nAlso, I translated many tweets from English to Russian (I am not part of the translation team and will not receive any rewards from it because I did not post the links on Discord)",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/optimismcis",
+      "description": "Twitter account for CIS citizens "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Tweet statistics",
+      "number": "11500",
+      "url": "https://docs.google.com/spreadsheets/d/1Xd3KgDeeN18OmO17fATwOmSxmiLKkEfSupPfJIQc8Ig/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xed15cd4ad689bdda412a7b835ab519c2ce975d1b3b4a59142fb620d6996188f0",
+  "prelimResult": "Keep",
+  "reportReason": "Spam",
+  "includedInBallots": 17,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

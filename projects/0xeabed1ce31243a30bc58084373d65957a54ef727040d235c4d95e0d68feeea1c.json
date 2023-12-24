@@ -1,0 +1,45 @@
+{
+  "bio": "Educating people about crypto, and OP through my Twitter/X channel. ~Steve",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Steve L",
+  "websiteUrl": "https://x.com/BuddyOP2000",
+  "applicant": {
+    "address": {
+      "address": "0xa94449C83D17B78A2c88214b8eB7Bd854e2D7204",
+      "resolvedName": {
+        "address": "0xa94449C83D17B78A2c88214b8eB7Bd854e2D7204",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa94449C83D17B78A2c88214b8eB7Bd854e2D7204"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x8bdbd7af74a5d6dbb0d5cdba3173e51e087fbdb8ce8579fdb6cfccc232840b13"
+  },
+  "impactDescription": "Long time OP holder/governance participant, crypto educater. I have increased active OP users through my Twitter/X channel, Educating people about crypto, and OP through my Twitter/X channel. I participate in OP governance through delagation. I also regularly speak about virtues of OP in daily life, and promote it anyway I can. ~Steve",
+  "contributionDescription": "Long time OP holder/governance participant, crypto educater. I have increased active OP users through my Twitter/X channel, Educating people about crypto, and OP through my Twitter/X channel. I participate in OP governance through delagation. I also regularly speak about virtues of OP in daily life, and promote it anyway I can. ~Steve",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://x.com/BuddyOP2000",
+      "description": "Steve L's Crypto/OP channel "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "https://x.com/BuddyOP2000",
+      "number": "12000",
+      "url": "https://x.com/BuddyOP2000"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xeabed1ce31243a30bc58084373d65957a54ef727040d235c4d95e0d68feeea1c",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

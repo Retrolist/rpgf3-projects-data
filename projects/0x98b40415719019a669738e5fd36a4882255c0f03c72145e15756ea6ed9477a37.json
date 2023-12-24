@@ -1,0 +1,52 @@
+{
+  "bio": "YOUNG",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Malzz",
+  "websiteUrl": "https://mall.jurnal6b.com/",
+  "applicant": {
+    "address": {
+      "address": "0x1Fe38ABa75d5Eb1a9B4BeF00613ad225d8092D18",
+      "resolvedName": {
+        "address": "0x1Fe38ABa75d5Eb1a9B4BeF00613ad225d8092D18",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x1Fe38ABa75d5Eb1a9B4BeF00613ad225d8092D18"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1Fe38ABa75d5Eb1a9B4BeF00613ad225d8092D18.png",
+    "id": "OptimistProfile|0x32c5b2c6768330dfe1a33e95a63fecb7e50a7ac10b878910d684a3fb19d93530"
+  },
+  "impactDescription": "Contributions to an \"optimism collective crypto\" likely refer to your involvement and efforts in a cryptocurrency community or project that is focused on promoting optimism, positivity, and constructive engagement within the cryptocurrency space. Here's how you might describe your contributions to such a collective:\n\nPositive Engagement: You actively participate in discussions and interactions within the cryptocurrency community, promoting a positive and respectful tone in online forums, social media groups, and chat channels. Your contributions aim to create a more welcoming and supportive environment for newcomers and experienced participants alike.\n",
+  "contributionDescription": "\nContributions to an optimism network are actions and efforts made to foster and promote a positive and hopeful outlook within a broader community or group of individuals. Here's how you might describe your contributions to an optimism network:\n\nPositive Content Creation: You actively create and share positive content on social media, blogs, or other platforms. This content may include inspirational quotes, uplifting stories, or tips for maintaining a positive mindset.\n\nSupportive Community Building: You work to build and nurture a community of like-minded individuals who share the goal of spreading optimism. This might involve organizing events, forums, or online groups where people can come together to share their experiences and support each other.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x368fba5e74357873fe6e38e362f6bc1865db526901f674082c26928a7b13aefa",
+      "description": "Claim"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "down",
+      "number": "1",
+      "url": "https://spread"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 23,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x98b40415719019a669738e5fd36a4882255c0f03c72145e15756ea6ed9477a37",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

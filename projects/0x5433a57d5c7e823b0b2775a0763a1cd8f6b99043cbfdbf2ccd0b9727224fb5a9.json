@@ -1,0 +1,50 @@
+{
+  "bio": "Hope is an interactive, continually updated AI Assistant for the OP ecosystem",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Hope: A Curated AI Assistant for the Optimism Ecosystem",
+  "websiteUrl": "https://op.humandao.org",
+  "applicant": {
+    "address": {
+      "address": "0x954E128f3e3d85ba3aDaFB9d53e7c060833e2Bb0",
+      "resolvedName": {
+        "address": "0x954E128f3e3d85ba3aDaFB9d53e7c060833e2Bb0",
+        "name": "adamdawson.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x954E128f3e3d85ba3aDaFB9d53e7c060833e2Bb0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x954E128f3e3d85ba3aDaFB9d53e7c060833e2Bb0.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x214f589834aa26bbf4b5dc99ce937d4b634c1e8a2b5aa2a16eb776bab652c3db"
+  },
+  "impactDescription": "We have already helped over 30 users and developers explore and engage with the Optimism ecosystem. Questions have ranged from governance to the $OP token, detailed development queries, management of the Optimism Foundation and its priorities, and the mechanics of the various OP airdrops. With greater implementation, Hope can significantly reduce the overhead and complexity of Optimism's support functions and create a much more scalable support function for the next wave of users. ",
+  "contributionDescription": "Hope is a free, publicly available, continually updated AI Assistant that is helping users and developers on the OP Stack find answers quickly and easily. To date, we have provided responses to more than 130 user questions (directly through the website or as a response from our team to a query in the Optimism Discord), and this reach can readily be expanded with direct Discord and/or Telegram integration of the Assistant. \n\nWhat's unique about using Hope is that doing so directly supports people in underserved communities who are learning about and contributing to web3. humanDAO funds wages for contributors who monitor Optimism's social accounts, Discord, and other forums to ensure Hope remains up to date, provides accurate sources, and responds to user feedback. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://op.humandao.org",
+      "description": "This is the website address for Hope, our AI Assistant"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "User questions answered",
+      "number": "132",
+      "url": "https://docs.google.com/spreadsheets/d/1zxT2uiCF7kzgrb2ca8DbL_xhJRQXhJTAP5b37dEVdwI/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x5433a57d5c7e823b0b2775a0763a1cd8f6b99043cbfdbf2ccd0b9727224fb5a9",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 9,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

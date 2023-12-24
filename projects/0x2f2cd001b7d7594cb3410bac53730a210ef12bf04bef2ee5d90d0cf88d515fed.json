@@ -1,0 +1,56 @@
+{
+  "bio": "Remix CC is the Chinese community for Remix IDE.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Remix CC",
+  "websiteUrl": "https://github.com/PlanckerLabs/remix-cc",
+  "applicant": {
+    "address": {
+      "address": "0x883E49dd95fBe06be4e77768C2517F13801A8C6A",
+      "resolvedName": {
+        "address": "0x883E49dd95fBe06be4e77768C2517F13801A8C6A",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x883E49dd95fBe06be4e77768C2517F13801A8C6A"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x883E49dd95fBe06be4e77768C2517F13801A8C6A.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xf397d3a774c38c32fa47f25cf21154a8c65e190a9e8f7c71d76dab228a8d8ebc"
+  },
+  "impactDescription": "The contributions of the Remix Chinese community can help lower the entry barrier for Chinese users to participate in OP network development, enabling OP developers to engage more effectively in the construction of the OP network, and promoting the flourishing development of the OP network.",
+  "contributionDescription": "The Remix Chinese community can localize Remix IDE into Chinese, providing a user-friendly interface and experience for Chinese users. This enables easier usage of Remix IDE for OP network development and debugging.\nThe community can provide Chinese documentation, tutorial videos, and articles on Remix IDE, helping Chinese users understand OP network development tools, smart contract writing, and deployment methods. This lowers the entry barrier and promotes wider adoption and participation.\nCustomized IDE services can be offered to Chinese teams, helping them tailor and optimize Remix IDE for specific application scenarios and business needs on the OP network.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/PlanckerLabs/remix-cc",
+      "description": "information related to Remix CC."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "viewership",
+      "number": "331",
+      "url": "https://space.bilibili.com/3546557343337225"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 24588,
+      "description": "GCC grants"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2f2cd001b7d7594cb3410bac53730a210ef12bf04bef2ee5d90d0cf88d515fed",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 29,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

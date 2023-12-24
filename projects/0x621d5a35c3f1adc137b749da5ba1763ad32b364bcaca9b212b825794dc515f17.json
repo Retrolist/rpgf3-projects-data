@@ -1,0 +1,106 @@
+{
+  "bio": "Product Manager navigating in web3 ecosystem with Optimism",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "piurana_inBlock - Stay Optimistic",
+  "websiteUrl": "https://twitter.com/piuranA_InBlock",
+  "applicant": {
+    "address": {
+      "address": "0xE1e5dcbBc95aabE80E2f9c65C7A2cEF85daF61C4",
+      "resolvedName": {
+        "address": "0xE1e5dcbBc95aabE80E2f9c65C7A2cEF85daF61C4",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE1e5dcbBc95aabE80E2f9c65C7A2cEF85daF61C4"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE1e5dcbBc95aabE80E2f9c65C7A2cEF85daF61C4.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE1e5dcbBc95aabE80E2f9c65C7A2cEF85daF61C4.png",
+    "id": "OptimistProfile|0xc26436a267824fd6ac204552c57006e64ce2288a215f2b512535aac7e16337fa"
+  },
+  "impactDescription": "* I learned about Optimism governance and how we all can be badgeholders and participate in the governance.\n* I met some friends in the journey: Brichis, Lau and Asshu from HerDao. She organised workshops to talk about Optimism ecosystem from governance to how to create NFTs (that I love). \n* All of those knowledge got me a curiosity for Optimism NFTs and Governance, and now I\u2019m in the ecosystem and learning each day about Optimism ecosystem. \n* I created some videos to my community, so they can mint their first NFT and have notion about Optimism ecosystem. ",
+  "contributionDescription": "* I launched my first NFT collection in Zora in the Optimism network. \n* I educated some of my friends from WBiz community to learn more about Optimism ecosystem and web3 basic knowledge. \n* I organised workshops to my community about how to create your first NFT collection with Optimism. \n* I onboard some of them in the Optimism Foro. \n* I participated in the web3 revolution tour onboarding people to web3. The first step was create a wallet and add Optimism network in MetaMask. \n* I represented Women Biz in the Pheyiyex\u2019s interview about Retro PGF2 and inviting more people to create projects in Optimism network. She is Optimism ambassador. \n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://zora.co/0xE1e5dcbBc95aabE80E2f9c65C7A2cEF85daF61C4",
+      "description": "NFT Optimism Collection by lili.eth"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x4200000000000000000000000000000000000042",
+      "description": "Delegate and vote process"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/piurana_inblock/status/1714130434685018176?s=46",
+      "description": "I teached some girls how to create their NFT collection on Zora "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/piurana_inblock/status/1712674223292825628?s=46",
+      "description": "Optimism NFT in Demo version"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/piurana_inblock/status/1712315164274356457?s=46",
+      "description": "Optimism workshop"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/piurana_inblock/status/1699622591042904113?s=46",
+      "description": "Interviewed from Pheyiyex, Optimism ambassador. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/piurana_inblock/status/1696932648696909979?s=46",
+      "description": "I heard my first OP radio"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/piurana_inblock/status/1691283235005673472?s=46",
+      "description": "I attended to Eth Arg thanks to WB scholarship "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "NFT minted",
+      "number": "7",
+      "url": "https://zora.co/0xE1e5dcbBc95aabE80E2f9c65C7A2cEF85daF61C4"
+    },
+    {
+      "description": "NFT friends collection",
+      "number": "1",
+      "url": "https://zora.co/collect/oeth:0x99552d780177c399dbeed02ab924dcfc168141ed/2"
+    },
+    {
+      "description": "N\u00b0 Delegate votes",
+      "number": "15",
+      "url": "https://optimistic.etherscan.io/address/0x4200000000000000000000000000000000000042"
+    },
+    {
+      "description": "RetroPGF3 NFT collected",
+      "number": "1",
+      "url": "https://zora.co/collect/oeth:0xd89dbbd35c24e07c7727bf1ef36cd1f02aea158e"
+    },
+    {
+      "description": "Optimism Workshop with Andino",
+      "number": "1",
+      "url": "https://zora.co/collect/oeth:0x47a883b702f5dd844e2bd818d1204fa42433b430"
+    },
+    {
+      "description": "Cryptoconexion Grants Workshop NFT",
+      "number": "1",
+      "url": "https://zora.co/collect/oeth:0x9a784c08343164f48e7faa10e0e1daa0fdf37568/1"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x621d5a35c3f1adc137b749da5ba1763ad32b364bcaca9b212b825794dc515f17",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

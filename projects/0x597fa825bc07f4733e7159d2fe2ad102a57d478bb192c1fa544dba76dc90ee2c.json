@@ -1,0 +1,65 @@
+{
+  "bio": "web2 developer in past, switched to web3",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Munris",
+  "websiteUrl": "https://munris.tech/",
+  "applicant": {
+    "address": {
+      "address": "0x2300f68064BfaafA381cd36f2695CDfEAAc09231",
+      "resolvedName": {
+        "address": "0x2300f68064BfaafA381cd36f2695CDfEAAc09231",
+        "name": "munris.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2300f68064BfaafA381cd36f2695CDfEAAc09231"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3945d59964f6e14be5930f2f37f8725bf3b125c2e68a71710215ed31af07629f"
+  },
+  "impactDescription": "Just some user activities in the ecosystem, that not a big application with a lot of users. sorry if I wasted you time :)                                \n                                                                                                                                    ",
+  "contributionDescription": "Contract for mint nft and bridge it with LayerZero. learned to work with smart contracts on Optimism and Layerzero technology. This contract can be used by user to mint some nft and bridge it to any networks that pointed as trusted remote. Used some open source OpenZeppelin contracts for basic logic and layerzero messagings contracts.\n\nAlso created some fun nft contracts on Base",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x6d0e508d82e65dc60929066aeab3454816ff4440",
+      "description": "."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/address/0xa90373ffa1385d33cee9118cd3bb3a8a0d7d3a32",
+      "description": "base nft 1"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/address/0x871bb7315797d89793fcbfc9902ed17596307b8a",
+      "description": "base nft 2"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "smart contracts used",
+      "number": "381",
+      "url": "https://optimistic.etherscan.io/address/0x6d0e508d82e65dc60929066aeab3454816ff4440"
+    },
+    {
+      "description": "smart contracts used",
+      "number": "103",
+      "url": "https://basescan.org/address/0xa90373ffa1385d33cee9118cd3bb3a8a0d7d3a32"
+    },
+    {
+      "description": "smart contracts used",
+      "number": "135",
+      "url": "https://basescan.org/address/0x871bb7315797d89793fcbfc9902ed17596307b8a"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x597fa825bc07f4733e7159d2fe2ad102a57d478bb192c1fa544dba76dc90ee2c",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

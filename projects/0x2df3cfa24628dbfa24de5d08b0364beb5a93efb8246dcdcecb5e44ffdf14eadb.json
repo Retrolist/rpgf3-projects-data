@@ -1,0 +1,60 @@
+{
+  "bio": "hi i am optimistic",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "ezzrentli",
+  "websiteUrl": "https://x.com/airdrop_testing",
+  "applicant": {
+    "address": {
+      "address": "0xBe5cCb96dD188D8FD855C08E5090b843E40939e1",
+      "resolvedName": {
+        "address": "0xBe5cCb96dD188D8FD855C08E5090b843E40939e1",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xBe5cCb96dD188D8FD855C08E5090b843E40939e1"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBe5cCb96dD188D8FD855C08E5090b843E40939e1.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xBe5cCb96dD188D8FD855C08E5090b843E40939e1.png",
+    "id": "OptimistProfile|0x5963061fa55c84c39f7107746f0a5c869ece8bb421264ecc86bec59c17c8d863"
+  },
+  "impactDescription": "we are community Airdrop welcome to our page on Optimism Blockchain we post News and Airdrops and testnet daily and weekly welcome to our page Twitter we are be verry happy to be part on Optimism blockchain and update .\nplease be active on our page Twitter",
+  "contributionDescription": "we are community Airdrop welcome to our page on Optimism Blockchain we post News and Airdrops and testnet daily and weekly welcome to our page Twitter we are be verry happy to be part on Optimism blockchain and update .\nplease be active on our page Twitter",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/airdrop_testing?t=JG8TgR5Z9iwTXb-odW0IPQ&s=09",
+      "description": "community"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/pinomaster",
+      "description": "our github profile"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "quest",
+      "number": "1000",
+      "url": "https://github.com/pinomaster"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": "for our community"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2df3cfa24628dbfa24de5d08b0364beb5a93efb8246dcdcecb5e44ffdf14eadb",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

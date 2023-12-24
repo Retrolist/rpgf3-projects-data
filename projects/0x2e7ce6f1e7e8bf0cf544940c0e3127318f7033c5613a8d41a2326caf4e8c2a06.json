@@ -1,0 +1,52 @@
+{
+  "bio": "I am birth and i'll birth",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Ass6",
+  "websiteUrl": "https://twitter.com/Abdulaleem38178",
+  "applicant": {
+    "address": {
+      "address": "0x12D87D2DD69E53BA965e5759a00B89e6e22eb54d",
+      "resolvedName": {
+        "address": "0x12D87D2DD69E53BA965e5759a00B89e6e22eb54d",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x12D87D2DD69E53BA965e5759a00B89e6e22eb54d"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xcfef1ab70d53f7686d1bc739a378a8fead6fc397155f88a581354635e2151a84"
+  },
+  "impactDescription": "As an end user of the Optimism Collective, my contributions have been both extensive and impactful. I've been able to provide detailed feedback on the user experience, identifying areas for improvement and suggesting new features that would make the Collective even more effective. My contributions have also helped to spread awareness of the Collective's mission and goals, increasing the number of users and helping to create a more vibrant and engaged community. My commitment to the Collective has led to a measurable increase in user engagement and has helped to make the Collective a more welcoming and inclusive space.",
+  "contributionDescription": "As an end user of the Optimism Collective, I've contributed in a number of ways. Firstly, I've been active in various social media communities, promoting the Optimism Collective and helping to onboard new users. Secondly, I've participated in several bug bounty programs, identifying and reporting issues with the platform. Lastly, I've been an active participant in the Optimism Discord server, offering feedback and suggestions to the development team. Overall, I feel that my contributions have helped to make the Optimism Collective a better and more user-friendly platform.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Abdulaleem38178",
+      "description": "I'm just an opeth maxi and lover"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "https://twitter.com/Abdulaleem38178",
+      "number": "381",
+      "url": "https://twitter.com/Abdulaleem38178"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2e7ce6f1e7e8bf0cf544940c0e3127318f7033c5613a8d41a2326caf4e8c2a06",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

@@ -1,0 +1,108 @@
+{
+  "bio": "Open and transparent DeFi analytics.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "DefiLlama",
+  "websiteUrl": "https://defillama.com/",
+  "applicant": {
+    "address": {
+      "address": "0x5A9D07ED3d7318eD5cB932776D2CEeb177a68bCd",
+      "resolvedName": {
+        "address": "0x5A9D07ED3d7318eD5cB932776D2CEeb177a68bCd",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5A9D07ED3d7318eD5cB932776D2CEeb177a68bCd"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5A9D07ED3d7318eD5cB932776D2CEeb177a68bCd.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5A9D07ED3d7318eD5cB932776D2CEeb177a68bCd.png",
+    "id": "OptimistProfile|0x276d6377d46e3eb1e82f7a1e6366cd423ed90b0f9278f6743859f5818e16b31a"
+  },
+  "impactDescription": "- Helped optimism gov decide on what grants to give and track ecosystem and impact of grants.\n- 1M monthly users use us to discover protocols on Optimism (and other chains), track yields on Optimism, evaluate protocols, track chain metrics...\n- LlamaSwap has routed >734M of volume on Optimism (672M) and Base (62M)\n- LlamaZip has done >70k transactions, reducing costs for optimism's users\n- Projects on optimism/base that use our APIs (mainly price api): pancakeswap, granary, mean finance, qidao, gamma, baseswap, ankr, revert finance... This infra that we maintain allows them to deliver their products/protocols to optimism users\n- LlamaPay on Optimism has been used by Premia, PoolTogether, Velodrome... for their operations\n- Over 10k daily users on our extension",
+  "contributionDescription": "- Supported Optimism from day 1, being one of the first (if not first) data platform to track it\n- Collected data for Optimism's DeFi projects, which was used by the Optimism Foundation to distribute grants and by Optimism's users to track projects on Optimism\n- Launched LlamaZip, a router optimized for Optimism that saved Optimism's users lots of fees\n- Launched LlamaSwap, which has routed >734M volume on Optimism and Base (13.3bn volume across all chains)\n- Launched LlamaSearch, helping users avoid getting their wallet drained on phishing sites\n- Launched LlamaPay on Optimism, used by some projects to pay salaries, vest tokens or simply distribute tokens.\n- We maintain a list of free APIs, including our prices API, which are used by many projects on Optimism on their app/infrastructure",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/defillama",
+      "description": "DefiLlama org with most of our projects"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x6f9d14cf4a06dd9c70766bd161cf8d4387683e1b",
+      "description": "LlamaZip"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/LlamaSwap",
+      "description": "LlamaSwap repos"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/LlamaPay",
+      "description": "LlamaPay repos"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://chrome.google.com/webstore/detail/llamasearch/iophmfgnjmfjdkodekdffgckoloooaci",
+      "description": "LlamaSearch"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://chrome.google.com/webstore/detail/defillama/phgiabfbjodhgckcffppiboooeiecgeg",
+      "description": "DefiLlama extension"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Monthly DefiLlama Users",
+      "number": "1000000",
+      "url": "https://www.similarweb.com/website/defillama.com/#overview"
+    },
+    {
+      "description": "LlamaZip txs",
+      "number": "71129",
+      "url": "https://optimistic.etherscan.io/address/0x6f9d14cf4a06dd9c70766bd161cf8d4387683e1b"
+    },
+    {
+      "description": "LlamaSwap volume on OP+Base",
+      "number": "734000000",
+      "url": "https://gist.github.com/0xngmi/ba668ac8694048a8d348f76b8236885f"
+    },
+    {
+      "description": "Extension DAU",
+      "number": "10000",
+      "url": "https://chrome.google.com/webstore/detail/defillama/phgiabfbjodhgckcffppiboooeiecgeg"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "No VC funding at all"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 171000,
+      "description": "From DefiLlama+Chainlist"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 300000,
+      "description": "Optimism grant"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb44c91175a2df6dae1d59c1cecf9601abe0e8512a68ad14a2b723257d488e0f4",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 95,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

@@ -1,0 +1,45 @@
+{
+  "bio": "I am a web3 explorer and an enthusiast",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "fibbzpresh",
+  "websiteUrl": "https://nil",
+  "applicant": {
+    "address": {
+      "address": "0xA137467632ecf55Fa3d75584cf8c000AD52B13E6",
+      "resolvedName": {
+        "address": "0xA137467632ecf55Fa3d75584cf8c000AD52B13E6",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xA137467632ecf55Fa3d75584cf8c000AD52B13E6"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA137467632ecf55Fa3d75584cf8c000AD52B13E6.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x5b36b18066384aec9ab3499a01f798223016733b3c694772d87bcb18fa6f52bc"
+  },
+  "impactDescription": "efficient\n...........................................................................................................................................................................................................................................................................................................",
+  "contributionDescription": "use of blockchain network\nexploration of the testnet when it was ongoing (optimism kova)\nuser of dex under optimism network\n..............................................................................................................................................................................",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://nil",
+      "description": "nil"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "nil",
+      "number": "0",
+      "url": "https://nil"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xdc08862e11861f27f252dafb60c1d0001f7f1159152caed5b844744256334048",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,114 @@
+{
+  "bio": "Building *augmented shared reality* with public goods infrastructure & flywheels",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Geo Web",
+  "websiteUrl": "https://geoweb.network/",
+  "applicant": {
+    "address": {
+      "address": "0xDE798cD9C53F4806B9Cc7dD27aDf7c641540167c",
+      "resolvedName": {
+        "address": "0xDE798cD9C53F4806B9Cc7dD27aDf7c641540167c",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xDE798cD9C53F4806B9Cc7dD27aDf7c641540167c"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDE798cD9C53F4806B9Cc7dD27aDf7c641540167c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xDE798cD9C53F4806B9Cc7dD27aDf7c641540167c.png",
+    "id": "OptimistProfile|0x97f9bbc352b253ec7f06ecd96ff798a01b64b9fadac0a213f84ebedeaf950417"
+  },
+  "impactDescription": "On the Geo Web, we've pushed the envelope both technically & how public goods can outcompete proprietary solutions. We've contributed intangible benefits to Optimism not just being a chain of forks and rinse/repeat playbooks. We\u2019ve stretched users beyond simple NFT mints with our PCO digital land market & demonstrated how sustainable market mechanisms can compound value by funding public goods.\n\nWe\u2019ve drawn new application builders to the OP ecosystem through our first community QF round & provided seed funding for them to make their own impact. \n\nOur open-source Kubernetes Helm charts support the practical realization of the Superchain thesis. Our Swift-MUD client brings onchain gaming & native app functionality to the world\u2019s most valuable consumer user base (Apple app ecosystem).",
+  "contributionDescription": "Our ambitious vision for open spatial computing has driven us to impact Optimism even if our vision isn\u2019t fully realized yet. We\u2019ve demonstrated new open-source smart contracts that incorporate innovative web3 concepts like partial common ownership & token streaming.\n\nWe ran the first-ever community QF round on the Gitcoin Grants Stack (4 ETH matching, >$1k direct donations). We helped identify & troubleshoot UX+technical issues, shared lessons learned, & inspired others to run QF rounds on Optimism.\n\nOur work to deliver the onchain AR publishing capabilities has yielded two general-use open-source libraries: Kubernetes Helm charts for easier OP Chain deployment management & a native SWIFT-MUD client to bring more onchain functionality/Autonomous Worlds to the Apple app ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Geo-Web-Project/core-contracts ",
+      "description": "Geo Web Core Contracts"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xba1231785a7b4ac0e8dc9a0403938c2182ce4a4e",
+      "description": "Deployed PCO Land Registry Contract"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Geo-Web-Project/op-chain-charts",
+      "description": "Helm chart repo for deploying new OP Chains in Kubernetes"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.gitcoin.co/blog/geo-web-case-study ",
+      "description": "Geo Web/Grants Stack Case Study"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Geo-Web-Project/swift-mud",
+      "description": "Swift-MUD Client (General)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Geo-Web-Project/GeoWebiOS",
+      "description": "Swift-MUD Client (Geo Web)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "ETH Allocated to Public Goods on OP",
+      "number": "4",
+      "url": "https://optimistic.etherscan.io/tx/0x3075f1b6d3f2839cd65f97d63ce5f5a5782882a03836311941f8c4d9f554dd05 "
+    },
+    {
+      "description": "PCO Land Claims",
+      "number": "311",
+      "url": "https://optimistic.etherscan.io/token/0xba1231785a7b4ac0e8dc9a0403938c2182ce4a4e"
+    },
+    {
+      "description": "Grants Stack<>Geo Web TS Attendees",
+      "number": "89",
+      "url": "https://twitter.com/grantsstack/status/1711437304370430213"
+    },
+    {
+      "description": "OP Chain Helm Views",
+      "number": "1076",
+      "url": "https://twitter.com/codynhat/status/1693757526322577595"
+    },
+    {
+      "description": "Swift-MUD Client Demo Views",
+      "number": "1900",
+      "url": "https://twitter.com/thegeoweb/status/1703891827231982041"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2000,
+      "description": "Cycle 11 Growth Grant (100% goes to users)"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 20000,
+      "description": "Allocation via Superfluid Builder Grant (1/2023)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 150000,
+      "description": "Crowdsource & matching funds from Gitcoin (12/2020 - Present)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x753761b9a99b1133f7dbdbf333c8bc24ab9ca96e3a4e208b01184694e003b9d0",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 30,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

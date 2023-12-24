@@ -1,0 +1,45 @@
+{
+  "bio": "I\u2019m just a normal person who loves optimism ",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Quammy ",
+  "websiteUrl": "https://app.optimism.io/governance",
+  "applicant": {
+    "address": {
+      "address": "0x39b2e6047effa044848B03246AC9c6D2bC7b0deE",
+      "resolvedName": {
+        "address": "0x39b2e6047effa044848B03246AC9c6D2bC7b0deE",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x39b2e6047effa044848B03246AC9c6D2bC7b0deE"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x81dbc0c459f185581df70b05645ebd9968adb8b301a0d1eababa2517d9f3ec2d"
+  },
+  "impactDescription": "I\u2019ve tried at least to make some transaction with optimism which has been a while now because i have heard about optimism for the past few years now and I made sure I did my possible best to make some money transactions on it buh it might not be of much amount buh I did few ",
+  "contributionDescription": "I\u2019ve tried at least to make some transaction with optimism which has been a while now because i have heard about optimism for the past few years now and I made sure I did my possible best to make some money transactions on it buh it might not be of much amount buh I did few ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x5f02c95c25e34dc42a2425085d13a983ef22bca728c3d8d82307b1dc2d8d865e",
+      "description": "Here I made few transaction"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Varys",
+      "number": "4",
+      "url": "https://optimistic.etherscan.io/tx/0x5f02c95c25e34dc42a2425085d13a983ef22bca728c3d8d82307b1dc2d8d865e"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x836e768312882578585af3237a011a2716e210473b44edf5506dfd27974773c7",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

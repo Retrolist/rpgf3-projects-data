@@ -1,0 +1,47 @@
+{
+  "bio": "just otaku with enthuthiastm on Blockchin",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Nakagami Eori",
+  "websiteUrl": "https://instagram.com/dotaku.id",
+  "applicant": {
+    "address": {
+      "address": "0x1De671A88Dc2C1454d077E5cab06376ebF51bB48",
+      "resolvedName": {
+        "address": "0x1De671A88Dc2C1454d077E5cab06376ebF51bB48",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x1De671A88Dc2C1454d077E5cab06376ebF51bB48"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1De671A88Dc2C1454d077E5cab06376ebF51bB48.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1De671A88Dc2C1454d077E5cab06376ebF51bB48.png",
+    "id": "OptimistProfile|0xa66122ef045851bbd70c99c5624dc6ddaa9d49e6ecfb795970051061c7f2b43f"
+  },
+  "impactDescription": "Developing a new wallet that is optimized for Optimism. This would make it easier for people to use Optimism and its decentralized applications (DApps).\nCreating a user-friendly guide to Optimism. This would help people to learn about Optimism and how to use it, even if they have no prior experience with Web3.\nTranslating the Optimism documentation and website into multiple languages. This would make Optimism more accessible to people all over the world.\nRunning a social media campaign to promote Optimism to new audiences. This could involve sharing educational content about Optimism, or running contests and giveaways to attract new users.",
+  "contributionDescription": "Code contributions, such as implementing new features, fixing bugs, or improving the performance of the network\nDocumentation contributions, such as writing or translating documentation for new features or existing code\nCommunity contributions, such as answering questions from other developers or users, or helping to improve the user experience of Optimism",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x1De671A88Dc2C1454d077E5cab06376ebF51bB48",
+      "description": "my wallet"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "transaction",
+      "number": "20",
+      "url": "https://optimistic.etherscan.io/address/0x1De671A88Dc2C1454d077E5cab06376ebF51bB48"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x398c3a223cf7c362fa3fd46f35612b0a4f1c255152d87e8d95ab38aedcfad020",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,45 @@
+{
+  "bio": "Low profile",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Fuad",
+  "websiteUrl": "https://adaiva.my.id",
+  "applicant": {
+    "address": {
+      "address": "0xDa474dce13c7Cb84CBE2410F84f342398561B68f",
+      "resolvedName": {
+        "address": "0xDa474dce13c7Cb84CBE2410F84f342398561B68f",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xDa474dce13c7Cb84CBE2410F84f342398561B68f"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDa474dce13c7Cb84CBE2410F84f342398561B68f.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x51c3e2b9682d5152e5781ccf3f39333f42f53eb615785e82d67713e22148bc6b"
+  },
+  "impactDescription": "the optimism ecosystem becomes more transactions and has a big impact because I have a big community too, I hope other people can also be like me. I share my activities on the optimism network with my community so that they also feel that they are contributing to building this network, and in the end all transactions will go up and have a good impact on this network in the future.",
+  "contributionDescription": "I've bridged to the optimism network several times. I also do frequent swaps and add liquidity in uniswap. I am happy and proud to help build the optimism L2 network. On other platforms I also contributed to network optimism, such as the task bridge on the layer3 platform. I like to hunt for OATs in Galxe, so I also developed many projects on the L2 optimism network. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xd295710b00b82e947df9492c692df93590ac7254829b2d9691987b176d5ed5ad",
+      "description": "Bridge"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "R3VLV2",
+      "number": "3634",
+      "url": "https://optimistic.etherscan.io/tx/0x6c7aeb6ec65ba732822cbf64a1eec429e5e0f377e3f5c33405b3aab037a8effd"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd6d17398cac034330465af73607e07f5aabf892f3d751254aa117ca3b13bb130",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

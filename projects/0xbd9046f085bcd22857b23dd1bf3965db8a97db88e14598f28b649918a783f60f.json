@@ -1,0 +1,97 @@
+{
+  "bio": "Socket is an interoperability bringing seamless connectivity to blockchains. ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Socket ",
+  "websiteUrl": "https://socket.tech/",
+  "applicant": {
+    "address": {
+      "address": "0x9ad673197E99449891C08B79d26bd541FB6856C9",
+      "resolvedName": {
+        "address": "0x9ad673197E99449891C08B79d26bd541FB6856C9",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9ad673197E99449891C08B79d26bd541FB6856C9"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ad673197E99449891C08B79d26bd541FB6856C9.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9ad673197E99449891C08B79d26bd541FB6856C9.png",
+    "id": "OptimistProfile|0x2ab5dbd104a88b36f2ad96101f7fa5f7ceb865e4dbcc395356f697f0d84c293b"
+  },
+  "impactDescription": "Over the last 2 years, Socket has worked to eliminate one of the biggest problems hindering user onboarding and protocol adoption on Optimism. Along with our 100+ ecosystem, we powered seamless cross-chain experiences right within apps, removing any friction to try Optimism.\nHere is our impact so far:\n- Bridged $1B+ volume in 2 years across Metamask, Zapper, Zerion, Slingshot, Bungee, Layer3 & 30+ apps\n- Onboarded 1.5M+ wallets with a simplified 1-click onboarding into Optimism on top OP native apps including Synthetix, Kwenta, Lyra & Polynomial\n- Facilitated 600K+ gas top-ups to Optimism via our public good Refuel\n- Facilitated 125K+ transfers to Base & Zora supercharging OP-Stack growth\n- SuperBridge to Aevo facilitated 10K+ zero-cost transfers, pushing one step closer to Superchain",
+  "contributionDescription": "Socket is an interoperability protocol that powers seamless asset & data transfers for apps across blockchains. 70+ wallets & apps including Metamask, Coinbase Wallet, Bungee, Synthetix, Polynomial, Kwenta, Lyra, Rainbow & Zerion leverage Socket for various cross-chain use cases.\nHere are our contributions to Optimism:\n\n- Enabled onboarding to Optimism right within 30+ wallets, not just from Mainnet but 10+ chains.\n- Improved cross-chain UX for 10+ Optimism native apps including top options and perp protocols with our open-source 'Socket Plugin'\n- Refuel, our public good to Optimism enables users to receive gas tokens, with no extra fees\n- Day 0 bridging support across our 100+ ecosystem for OP-Stack chains like Base, Zora, etc.\n- Built OP-Stack with Aevo to bring zero-cost L2<>L2 bridging",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/MetaMask/status/1699770227343401092?s=20",
+      "description": "Bringing bridging to Optimism to millions of wallet users of Metamask"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/SocketDotTech/plugin",
+      "description": "Open-Source bridge widget for developers, used across Synthetix ecosystem"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x5800249621DA520aDFdCa16da20d8A5Fc0f814d8",
+      "description": "Refuel - public good for free gas top-ups to new users on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x6FD2bd90D50eDEe139103454116F252f6F5eC928/s602ukNdxwBkr9imWWO2MBgzpNny0O1ews_Nev75ppM",
+      "description": "SuperBridge for OP-Stack, launching with Aevo"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/SocketDotTech/status/1629121374387339264?s=20",
+      "description": "Day 0 bridging support to Base across 100+ Socket Apps"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Weekly developer downloads for Plugin",
+      "number": "800",
+      "url": "https://www.npmjs.com/package/@socket.tech/plugin"
+    },
+    {
+      "description": "Refuel top-ups for gas on Optimism",
+      "number": "619000",
+      "url": "https://optimistic.etherscan.io/address/0x5800249621DA520aDFdCa16da20d8A5Fc0f814d8"
+    },
+    {
+      "description": "Wallets using Socket to bridge to OP",
+      "number": "1500000",
+      "url": "https://dune.com/optimismfnd/optimism-project-deep-dive?1+Project+Name=Socket&1+Project+Name_tb1cb5=Socket&3+Time+Granularity_e6b3e5=month"
+    },
+    {
+      "description": "Bridge TVL locked on SuperBridge to Aevo",
+      "number": "990000",
+      "url": "https://zapper.xyz/bundle/0x80d40e32fad8be8da5c6a42b8af1e181984d137c,0xfff4a34925301d231ddf42b871c3b199c1e80584"
+    },
+    {
+      "description": "Cumulative transfers to OP-Stack Base",
+      "number": "80000",
+      "url": "https://basescan.org/address/0x3a23f943181408eac424116af7b7790c94cb97a5"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500000,
+      "description": "Unused by Socket. Directed to users via rebates & 100+ apps enabling OP bridging"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xbd9046f085bcd22857b23dd1bf3965db8a97db88e14598f28b649918a783f60f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 47,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

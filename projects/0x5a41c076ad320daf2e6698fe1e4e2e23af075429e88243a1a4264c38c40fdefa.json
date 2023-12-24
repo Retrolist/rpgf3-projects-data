@@ -1,0 +1,63 @@
+{
+  "bio": "Cryptocurrency Adoption Through The Influence Of The Optimism Ecosystem ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Cryptorist Hub",
+  "websiteUrl": "https://NAN",
+  "applicant": {
+    "address": {
+      "address": "0x2FB2cAF32623089886e545788C007229C3E24416",
+      "resolvedName": {
+        "address": "0x2FB2cAF32623089886e545788C007229C3E24416",
+        "name": "mikroyce.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2FB2cAF32623089886e545788C007229C3E24416"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2FB2cAF32623089886e545788C007229C3E24416.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2FB2cAF32623089886e545788C007229C3E24416.png",
+    "id": "OptimistProfile|0xd3b475e12fdc0808668e439f913daf52ea0149f417b19032d07b676f1ff073e5"
+  },
+  "impactDescription": "Cryptorist Hub serves as an expansive WhatsApp community comprising 1200+ passionate adopters. With its substantial membership, this community has significantly contributed to the growth of the Optimism Ecosystem. This support extends to various projects building on both Optimism and Optimism itself, making it a driving force behind the advancements within the Optimism ecosystem.",
+  "contributionDescription": "The progress of global cryptocurrency adoption has faced challenges, primarily stemming from the scarcity of crucial information, limited access to educational resources, and lack of awareness regarding recent developments.\n\nThese significant factors have contributed to a perceived stagnation in the cryptocurrency space. In response to this, Cryptorist Hub was established under the influence of the Optimism Ecosystem, with the mission to promote awareness and provide widespread access to cryptocurrency education on Optimism and Optimism project in which most of the community members have in many ways benefited from it monetarily.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1-PmisfBggG1I9GjYTQPhxCS-tDuRTbD_nTxYA0jfG-8/edit",
+      "description": "WhatsApp Community Op projects disposition "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/mikroyce_/status/1715903193614299139?s=46",
+      "description": "Optimism Project on X"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "30k OP Reward and Cryptorist was won",
+      "number": "70",
+      "url": "https://www.tideprotocol.xyz/users/campaign/c69dcb56-eaf6-4c00-9b9d-ad0dfc6df551"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1500,
+      "description": "Airdrop Allocation "
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 180,
+      "description": "Governance Voting "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5a41c076ad320daf2e6698fe1e4e2e23af075429e88243a1a4264c38c40fdefa",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

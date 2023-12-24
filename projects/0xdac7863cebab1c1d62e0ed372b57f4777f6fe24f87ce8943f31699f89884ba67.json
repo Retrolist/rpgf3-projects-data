@@ -1,0 +1,46 @@
+{
+  "bio": "Live in Web3",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Vitolo",
+  "websiteUrl": "https://t.co/tWtqZBvJxp",
+  "applicant": {
+    "address": {
+      "address": "0x76F34d1a4535241eC054b49d969bdB37F444eb38",
+      "resolvedName": {
+        "address": "0x76F34d1a4535241eC054b49d969bdB37F444eb38",
+        "name": "vitolo.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x76F34d1a4535241eC054b49d969bdB37F444eb38"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x76F34d1a4535241eC054b49d969bdB37F444eb38.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x76F34d1a4535241eC054b49d969bdB37F444eb38.png",
+    "id": "OptimistProfile|0x63dd2aa4273b94443c58f686fbb3e650330799135eaa3bb4c208fc0c9196a22f"
+  },
+  "impactDescription": "User since day one, received op airdrop and I am holding it and participating in governance. Love the Optimism blockchain so I am using it in a daily basis. I also bring people to use the Optimism Chain via my social networks and my simple Dapp on Optimism",
+  "contributionDescription": "User since day one, received op airdrop and I am holding it and participating in governance. Love the Optimism blockchain so I am using it in a daily basis. I also bring people to use the Optimism Chain via my social networks and my simple Dapp on Optimism",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://t.co/tWtqZBvJxp",
+      "description": "Mood on Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "100",
+      "number": "100",
+      "url": "https://vitolobamio.github.io/vitolobasedapp/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xdac7863cebab1c1d62e0ed372b57f4777f6fe24f87ce8943f31699f89884ba67",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

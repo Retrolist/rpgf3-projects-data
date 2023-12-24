@@ -1,0 +1,78 @@
+{
+  "bio": "Crust provides decentralized storage and hosting solutions on top of IPFS",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Crust Network",
+  "websiteUrl": "https://crust.network/",
+  "applicant": {
+    "address": {
+      "address": "0x200C8C88B3639D416FcC5BCF266a29615d29C0c1",
+      "resolvedName": {
+        "address": "0x200C8C88B3639D416FcC5BCF266a29615d29C0c1",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x200C8C88B3639D416FcC5BCF266a29615d29C0c1"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x200C8C88B3639D416FcC5BCF266a29615d29C0c1.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x200C8C88B3639D416FcC5BCF266a29615d29C0c1.png",
+    "id": "OptimistProfile|0x577fd8737d3b0a159bea86f912d87d406b52528bbb4b361b982e0f85213aa585"
+  },
+  "impactDescription": "The OP Collective from now on can leverage secure and on-chain based storage services for all their data storage and hosting needs. Basically any kind of service, solution or dapp requires data storage in some way or the other. Unfortunately too many solutions still relay on web2 based storage services which hold security, censorship and single-point-of-failure risk. With Crust Networks tech stack devs have access to fully decentralized storage services natively within the OP ecosystem to achieve full scale decentralization for their data layer.",
+  "contributionDescription": "We built a fully EVM native storage protocol and deployed our storage smart contracts and different products to the OP mainnet, From now on all OP builders and users have access to truly decentralized on-chain storage services via Crust Networks protocol and physical infrastructure. OP developers can leverage more than 600 PB of storage capacity for all their storage needs like dapp hosting, NFT storage, puplic file storage and more to achieve full scale decentralization. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xf8e6f7bb144d3475fcf39bd879510fa93c775ee2",
+      "description": "Storage order proxy address"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x9ae6c9d00fde0e0f774693ca6099d06dfe2001c6",
+      "description": "Storage order implementation address"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x9ae6c9d00fde0e0f774693ca6099d06dfe2001c6",
+      "description": "Price oracle proxy address"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xe1e8ff8e51da7066cb1009a4c1de68ae2d095655",
+      "description": "Price oracle implementation address"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://crust.network/evm/",
+      "description": "EVM storage protocol"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/crustio",
+      "description": "Crust Github"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/crustnetwork/crust-network-now-supports-evm-storage-enhancing-the-optimism-ecosystem-51962cbcb956",
+      "description": "OP product deployment announcement"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number storage orders (not promoted yet)",
+      "number": "4",
+      "url": "https://optimistic.etherscan.io/address/0xf8e6F7bb144D3475fcf39Bd879510Fa93C775ee2"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd4125ec1c05bcc71b24dd03b518681a9b5aef8ff46cfcabb951374bfae6ca855",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 24,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

@@ -1,0 +1,52 @@
+{
+  "bio": "I love WEB3 and crypto in general.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Cipherng",
+  "websiteUrl": "https://twitter.com/ciphern_g?t=ZqLOM8GXzLcJoYi6qew4eA&s=09",
+  "applicant": {
+    "address": {
+      "address": "0x1AD1FB392D55B79cce738ec77E08D9301A4258cd",
+      "resolvedName": {
+        "address": "0x1AD1FB392D55B79cce738ec77E08D9301A4258cd",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x1AD1FB392D55B79cce738ec77E08D9301A4258cd"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1AD1FB392D55B79cce738ec77E08D9301A4258cd.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1AD1FB392D55B79cce738ec77E08D9301A4258cd.png",
+    "id": "OptimistProfile|0xb787e13c08d5c10b14c61e3b1bbefa6e2b9aef8b90b41953c7c166a53edf67e2"
+  },
+  "impactDescription": "My contributions had a beautiful impact on the Optimism Collective, because a lot of the people I onboarded now explore the OP ecosystem. They have also onboarded some of their friends who have come to love OP as well. When they all got to know about gas fees and how low OP gas fees are, they loved the OP ecosystem more.\n",
+  "contributionDescription": "Mass adoption in schools:  I work in a Federal University in my state. Through this grant I can reach a lot of people get them to understand OP and everything it entails.\nBefore now, I have been able to teach a lot of people within my environs about WEB3, DeFi and crypto in general, so this won't be difficult for them to grasp. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/opecosys",
+      "description": "This channel was used to onboard a lot of people into OP ecosystem. "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Telegram channel",
+      "number": "50",
+      "url": "https://t.me/opecosys"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "Onboarding more people into the OP ecosystem. "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xcba3c2a89a5959a8836aeeb5d8df55a00add5b0a4720f78ddea912e17fd0e6e9",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

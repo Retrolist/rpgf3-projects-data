@@ -1,0 +1,96 @@
+{
+  "bio": "Writer, Educator, Optimist",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Thumbs Up",
+  "websiteUrl": "https://thumbsup.mirror.xyz",
+  "applicant": {
+    "address": {
+      "address": "0x4d85e4F760fb58E380f02657AE5Aafb8bd010601",
+      "resolvedName": {
+        "address": "0x4d85e4F760fb58E380f02657AE5Aafb8bd010601",
+        "name": "thumbsup.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x4d85e4F760fb58E380f02657AE5Aafb8bd010601"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4d85e4F760fb58E380f02657AE5Aafb8bd010601.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4d85e4F760fb58E380f02657AE5Aafb8bd010601.png",
+    "id": "OptimistProfile|0x0ffb0fde309dd65f128264259e9e5a7e3471b22afc1329a40c1f7f059938b9e5"
+  },
+  "impactDescription": "Education is crucial to bringing in new users and helping existing users make informed decisions about how and why they engage with blockchain, DeFi, and web3. I believe in these technologies and the social movements they can enable, and because my vision is so clearly aligned with that of the Optimism Collective, I've evagnelized substantially. What's more, I'm an accomplished writer in the web3 space having worked with many many projects and I've made a name for myself as an educator and content creator of quality. I believe that to date, no one has written a more detailed and informative piece of content about the OP Stack than I have and my piece was well received even without ever making it into any of Optimism's feeds (which would have amplified it substantially). ",
+  "contributionDescription": "In my blog, newsletter, and social media content I've covered Optimism extensively, including my popular deep-dive blog post on the OP Stack and the Bedrock upgrade which has been minted (paid collect) 15 times so far and shared dozens of times on social networks. I'll include the link to that post individually as it stands up on its own as quite  quite a substantial contribution to education about Optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://thumbsup.mirror.xyz/1osKYEk3XVQTKbn24LJ4TbBNqtwAUE_Y1g4zvUJ6dTg",
+      "description": "Foundation: Bedrock & The OP Stack, Explained (deep dive blog post)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://paragraph.xyz/@thumbsup",
+      "description": "Optimism content in nearly every issue of my newsletter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://thumbsup.mirror.xyz/",
+      "description": "All newsletter issues that mention Optimism are on Mirror too"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/thumbsupfinance",
+      "description": "My twitter where I regularly share Optimism related content"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://warpcast.com/thumbsup.eth",
+      "description": "My Farcaster where I share some Optimism content and use an Optimist as my pfp"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.lensfrens.xyz/thumbsup.lens",
+      "description": "My Lens where I share some optimism content "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Value (ETH) of OP Stack Explainer mints ",
+      "number": "0.1035",
+      "url": "https://thumbsup.mirror.xyz/1osKYEk3XVQTKbn24LJ4TbBNqtwAUE_Y1g4zvUJ6dTg"
+    },
+    {
+      "description": "Retweets of OP Stack Explainer",
+      "number": "30",
+      "url": "https://x.com/thumbsupfinance/status/1695069736956989801?s=20"
+    },
+    {
+      "description": "GA page views of OP Stack Explainer",
+      "number": "1171",
+      "url": "https://analytics.google.com/analytics/web/#/p371687023/reports/explorer?params=_r.explorerCard..selmet%3D%5B%22screenPageViews%22%5D%26_r.explorerCard..seldim%3D%5B%22unifiedScreenClass%22%5D&r=6017078725"
+    },
+    {
+      "description": "Likes on Farcaster of OP Stack Explainer",
+      "number": "20",
+      "url": "https://warpcast.com/thumbsup.eth/0x413197"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 724.68,
+      "description": "Received in the education category for some early optimism explainer content"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd4b26857ee4d3411bb5745eda3a6bdf2af4f29793d92fff977cea836073a8f60",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 13,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

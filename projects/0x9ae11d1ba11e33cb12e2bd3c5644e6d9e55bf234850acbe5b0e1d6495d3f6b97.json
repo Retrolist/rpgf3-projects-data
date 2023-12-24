@@ -1,0 +1,46 @@
+{
+  "bio": "I love to collect nfts on optimism and performing transection on this. I love it",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Drdoom",
+  "websiteUrl": "Https://www.twitter.com/Abhinen21596250",
+  "applicant": {
+    "address": {
+      "address": "0xaa23a779E0E09B40efBc4a5D8539517ffb2E6eF3",
+      "resolvedName": {
+        "address": "0xaa23a779E0E09B40efBc4a5D8539517ffb2E6eF3",
+        "name": "drdooms.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xaa23a779E0E09B40efBc4a5D8539517ffb2E6eF3"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xaa23a779E0E09B40efBc4a5D8539517ffb2E6eF3.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xaa23a779E0E09B40efBc4a5D8539517ffb2E6eF3.png",
+    "id": "OptimistProfile|0xb5e0722b7251659ebdebf265e34f43254a4c5986df151aa1abafafc777eaf401"
+  },
+  "impactDescription": "I work for the ecosystem so that it grows periodically.\nAnd holding some amount of token. \nCollecting nfts and holding it for the development and growth . And doing transection on it's ecosystem project for growth. Collecting nfts for other project which is deployed on this chain and in cheaper way. ",
+  "contributionDescription": "I delegate my op tokens to someone for participating in governing of DAO. \nand i also performing transection on this chain periodically also collecting nfts and other good things on this chain because it is much cheaper than other chain.  I also donate for project on this chain in gitcoin grant 18.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x35199f262936604aa7ac980c3fda103cbbdfa0966417fbee8651193bcab205c4",
+      "description": "Gitcoin grant 18 donation link"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#optimism #daovoting #staking #badge",
+      "number": "100",
+      "url": "https://optimistic.etherscan.io/tx/0x35199f262936604aa7ac980c3fda103cbbdfa0966417fbee8651193bcab205c4"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x9ae11d1ba11e33cb12e2bd3c5644e6d9e55bf234850acbe5b0e1d6495d3f6b97",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

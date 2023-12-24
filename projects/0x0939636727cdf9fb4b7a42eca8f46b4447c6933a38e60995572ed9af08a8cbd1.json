@@ -1,0 +1,46 @@
+{
+  "bio": "#btc #eth",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "hsynus",
+  "websiteUrl": "https://twitter.com/airdrop_duragi",
+  "applicant": {
+    "address": {
+      "address": "0x0ED0898B70D4e145321f477a88550Ed7C4313c5a",
+      "resolvedName": {
+        "address": "0x0ED0898B70D4e145321f477a88550Ed7C4313c5a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0ED0898B70D4e145321f477a88550Ed7C4313c5a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xec93b038f48ac536fc39420a95dab4521c3d96203b6c827493eddcb5a89f16c2"
+  },
+  "impactDescription": "Contributing to economic experiments that will help centralize and grow crypto ecosystems and get better.Contributing to economic experiments that will help centralize and grow crypto ecosystems and introducing.Contributing to economic experiments that will help centralize and grow crypto ecosystems and introducing.Contributing to economic experiments that will help centralize and grow crypto ecosystems and introducing.Contributing to economic experiments that will help centralize and grow crypto ecosystems and introducing.",
+  "contributionDescription": "Contributing to economic experiments that will help centralize and grow crypto ecosystems and introducing.Contributing to economic experiments that will help centralize and grow crypto ecosystems and introducing.Contributing to economic experiments that will help centralize and grow crypto ecosystems and introducing.Contributing to economic experiments that will help centralize and grow crypto ecosystems and introducing.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/airdrop_duragi",
+      "description": "media"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "1",
+      "url": "https://twitter.com/airdrop_duragi"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x0939636727cdf9fb4b7a42eca8f46b4447c6933a38e60995572ed9af08a8cbd1",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,95 @@
+{
+  "bio": "A community-owned and operated suite of tools making web3 more usable \ud83e\udd1d",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "IDriss",
+  "websiteUrl": "https://www.idriss.xyz",
+  "applicant": {
+    "address": {
+      "address": "0x88d7709ce401e4E7b5068156423ECB4f60A99F75",
+      "resolvedName": {
+        "address": "0x88d7709ce401e4E7b5068156423ECB4f60A99F75",
+        "name": "idrissxyz.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x88d7709ce401e4E7b5068156423ECB4f60A99F75"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x88d7709ce401e4E7b5068156423ECB4f60A99F75.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x88d7709ce401e4E7b5068156423ECB4f60A99F75.png",
+    "id": "OptimistProfile|0x22b3936f64234ef9b49656f4fcad1fac9300eeaeebd9b491a86b6b602a6b1036"
+  },
+  "impactDescription": "Quoting Optimism\u2019s documentation, \u201cFunding public goods drives growth \u2014 and therefore network revenues \u2014 from the ground up\u201d. \n\nOur project improves discoverability and stimulates donations to public goods on OP by putting them in front of 80k users of the IDriss extension. Moreover, issuance of attestations helps bootstrap the growth of the Attestation Station.\n\nMetrics on OP during Gitcoin GG18:\n\n-  1186 total donations\n-  377 unique donors\n-  155 unique grantees received donations\n\nReactions from grantees and donors were overwhelmingly positive, as evidenced by the collection of reactions on Twitter within the first 24 hours post launch.\n\nTaking the next step and launching the meta-infinite PGF round opened doors for a larger and more diverse group of 700+ grantees to receive donations.",
+  "contributionDescription": "IDriss is a community focused on building tools and consumer apps around strong crypto use cases like SocialFi. One of the products is an open-source browser extension enabling crypto transfers directly from Twitter. Since its launch in early 2022, the extension has grown to 80k weekly users and has been stress-tested with over 500k transactions.\n\nDuring the last Gitcoin GG18 round, IDriss has successfully onboarded grantees to receive donations on OP via the Twitter extension. A total of 377 unique donors made impressive 1,186 donations to 155 grantees.\n\nFollowing the successful Gitcoin pilot, IDriss expanded the initiative by consolidating all the major PGF mechanisms (Gitcoin, Giveth, RetroPGF, CLR.fund, DAO Drops) and enabling perpetual donations to 700+ grantees on OP.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/IDriss_xyz/status/1711728336379293736",
+      "description": "Meta-infinite PGF round announcement"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/IDriss_xyz/status/1692567346886455507",
+      "description": "Gitcoin GG18 integration announcement"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://idriss.xyz/extension",
+      "description": "Browser extension"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/idriss-crypto/browser-extensions",
+      "description": "Open-source code repository"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x43f532d678b6a1587be989a50526f89428f68315",
+      "description": "Meta-infinite PGF round contract"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Donations",
+      "number": "1186",
+      "url": "https://dune.com/idriss/pg-donations"
+    },
+    {
+      "description": "Unique donors",
+      "number": "377",
+      "url": "https://dune.com/idriss/pg-donations"
+    },
+    {
+      "description": "Unique grantees supported",
+      "number": "155",
+      "url": "https://dune.com/idriss/pg-donations"
+    },
+    {
+      "description": "Enthusiastic reactions from grantees",
+      "number": "19",
+      "url": "https://www.idriss.xyz/gg18"
+    },
+    {
+      "description": "Onboarded public goods",
+      "number": "701",
+      "url": "https://github.com/idriss-crypto/browser-extensions/blob/master/src/common/customTwitterAccounts.json"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "IDriss is bootstrapped and has no VC funding"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xeb5da95440608276fea071123fbd4d7c292c2a5bd5a3d32ccb8905e8bb92e9a7",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 23,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

@@ -1,0 +1,53 @@
+{
+  "bio": "OP for Web3 and more",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "OPtimismus",
+  "websiteUrl": "https://www.editionkunstkultur.de",
+  "applicant": {
+    "address": {
+      "address": "0x2eeA8f64766E51cde601382e64Eb68F50E34e0B6",
+      "resolvedName": {
+        "address": "0x2eeA8f64766E51cde601382e64Eb68F50E34e0B6",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2eeA8f64766E51cde601382e64Eb68F50E34e0B6"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2eeA8f64766E51cde601382e64Eb68F50E34e0B6.png",
+    "id": "OptimistProfile|0xf7f5ca6436e161ca2db4eda331cbdca98e289030be5b97fc1b9d48126ba4c29e"
+  },
+  "impactDescription": "Hope to fill more in future. Let me start an learning the Optimism ecosystem.\n\nThese two things I will try to support: \n\nUser acceptance: The success of Optimism also depends on user acceptance. DApps and users must be willing to use Layer-2 solutions and rely on them. This often requires seamless integration and a user-friendly interface.\n\nEthereum integration: Integration with the Ethereum blockchain is of great importance. Optimism aims to be compatible with Ethereum, but it is important that the two interact well and work together smoothly.",
+  "contributionDescription": "More for communication stuff than technical details. Willing to help OPTIMISM to grow and become a standard in the Web3 space. \nWant to use RetroPGF first for governance, but try to work on other things. Maybe I can help on projects and be active on Discord.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/settings/profile",
+      "description": "https://github.com/settings/profile"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "https://github.com/settings/profile",
+      "number": "404",
+      "url": "https://github.com/settings/profile"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 404,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3324ee2bd4082ce6de72fb57c1d12f80d68e477869e96d970da43e427c9f5e31",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

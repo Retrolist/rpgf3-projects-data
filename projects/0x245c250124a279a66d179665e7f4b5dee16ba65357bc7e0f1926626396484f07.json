@@ -1,0 +1,53 @@
+{
+  "bio": "From macro to crypto, I write about stuff that I like.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "dudedodut",
+  "websiteUrl": "https://twitter.com/earlgreywriter",
+  "applicant": {
+    "address": {
+      "address": "0xD2F5DBC276BC3d9D2E07F5dF4A599E2c5a158B47",
+      "resolvedName": {
+        "address": "0xD2F5DBC276BC3d9D2E07F5dF4A599E2c5a158B47",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xD2F5DBC276BC3d9D2E07F5dF4A599E2c5a158B47"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD2F5DBC276BC3d9D2E07F5dF4A599E2c5a158B47.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD2F5DBC276BC3d9D2E07F5dF4A599E2c5a158B47.jpeg",
+    "id": "OptimistProfile|0x098376b7ee4dfe0257cd30d20e04b9180d305560bd4cdc8e1a64d8db980942b2"
+  },
+  "impactDescription": "My contributions have had a positive impact on the Optimism Collective by enhancing the understanding of Optimism's activities and financial health. The creation of a dedicated dashboard provides Optimism users with valuable insights, empowering them to make informed decisions. Additionally, my work on Rollup Economics, alongside co-researchers at 4Pillars, has contributed to a broader comprehension of Optimism's economic dynamics and its place within the modular blockchain landscape. This knowledge fosters a more comprehensive and informed approach within the Optimism Collective, aiding in strategic planning and decision-making.",
+  "contributionDescription": "As a researcher and data analyst at M3TA, I've contributed to Optimism by creating a dashboard aimed at offering users a comprehensive view of its activities and financial health. Collaborating with my co-researchers at 4Pillars, we've initiated a series on Modular Blockchains. My specific focus lies in Rollup Economics, where I analyze the Cost, Revenue, and Profit Models of layer-2 blockchains, including Optimism, zkSync, and zkEVM. These efforts aim to provide valuable insights into Optimism's economic aspects and its role in the blockchain ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://m3talab.io/reports/optimism-network-monitoring",
+      "description": "Optimism Dashboard"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://modular.4pillars.io/economics-op-mainnet",
+      "description": "Rollups Economics"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of view per day",
+      "number": "300",
+      "url": "https://m3talab.io/reports/modular-economics"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x245c250124a279a66d179665e7f4b5dee16ba65357bc7e0f1926626396484f07",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 7,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

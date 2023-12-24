@@ -1,0 +1,86 @@
+{
+  "bio": "Spreading the ultra sound money meme \ud83e\udd87\ud83d\udd0a, and building ultrasound.money.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Ultra Sound Money",
+  "websiteUrl": "https://ultrasound.money/",
+  "applicant": {
+    "address": {
+      "address": "0xa8dbd44FAFD2D795700693cdA7f5275714eBE075",
+      "resolvedName": {
+        "address": "0xa8dbd44FAFD2D795700693cdA7f5275714eBE075",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa8dbd44FAFD2D795700693cdA7f5275714eBE075"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa8dbd44FAFD2D795700693cdA7f5275714eBE075.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa8dbd44FAFD2D795700693cdA7f5275714eBE075.png",
+    "id": "OptimistProfile|0x37f03d9163da76f9743210800d13e4a1062806e6f4b282af9f7f2fbac532b656"
+  },
+  "impactDescription": "Optimism is part of the Ethereum ecosystem. We grow the Ethereum ecosystem. Where protocol guild builds the protocol, we build channels to highlight and meme the merits of their work, motivating a broader spectrum of builders and users to align with the missions of both Ethereum and Optimism.",
+  "contributionDescription": "Optimism enhances Ethereum, both are rooted in ETH. Hi Optimism \ud83d\udc4b.\n\nIn Aug 2021, amidst a need for strong memes and clear comprehension of ETH's evolving economics, Ultra Sound Money, built by two people with no external funding, emerged to fill this void. We share quality ETH info, which educates, excites, and spreads. Screenshots and memes of ours are found all over twitter, every crypto publication, and recently even fidelity's investment thesis. Understanding ETHs strengths is crucial to attract users and projects which feel at home on top. Top meme tweets hit 300K impressions, we have 44.8K followers with 6K \ud83e\udd87\ud83d\udd0a users spreading the meme. Our site, an educational hub, averages 260K monthly visitors (peak 499K).",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://ultrasound.money",
+      "description": "The website."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ultrasoundmoney",
+      "description": "The twitter account / community."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ultrasoundmoney/frontend",
+      "description": "Our frontend repo."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ultrasoundmoney/eth-analysis-rs",
+      "description": "One of our data analysis repos. Most data comes from our own nodes."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "followers",
+      "number": "44900",
+      "url": "https://twitter.com/ultrasoundmoney/"
+    },
+    {
+      "description": "average monthly visitors",
+      "number": "260000",
+      "url": "https://www.similarweb.com/website/ultrasound.money/#overview"
+    },
+    {
+      "description": "meme spreaders",
+      "number": "6000",
+      "url": "https://ultrasound.money/#fam"
+    },
+    {
+      "description": "hit tweets",
+      "number": "100",
+      "url": "https://twitter.com/search?q=%22ultra%20sound%22%20OR%20%22ultrasound%22%20(money%20OR%20eth%20OR%20supply)%20min_faves%3A300&src=typed_query&f=top"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "Ethereum Foundation Ecosystem Support Program: Merge Data Challenge"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd06423aa05a359735b911e9988486822acb3c3f62e3397ed35d6430240454b0f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 54,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

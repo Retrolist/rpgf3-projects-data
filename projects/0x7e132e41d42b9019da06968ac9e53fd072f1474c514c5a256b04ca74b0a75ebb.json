@@ -1,0 +1,45 @@
+{
+  "bio": "Full-stack developer with an emphasis on smart contracts and front-end design.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Stanton",
+  "websiteUrl": "https://www.stantonsailsbury.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xBC72198d65075Fdad2CA7B8db79EfF5B51c8B30D",
+      "resolvedName": {
+        "address": "0xBC72198d65075Fdad2CA7B8db79EfF5B51c8B30D",
+        "name": "pub-gmn.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xBC72198d65075Fdad2CA7B8db79EfF5B51c8B30D"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBC72198d65075Fdad2CA7B8db79EfF5B51c8B30D.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xBC72198d65075Fdad2CA7B8db79EfF5B51c8B30D.png",
+    "id": "OptimistProfile|0xdd5968ef8c332b93bf6ba92ee1ba2215919831327d45ec75b61eb3e0db77afdc"
+  },
+  "impactDescription": "Though my contributions have not had as much of an impact on the Optimism Collective as I would have hoped by now, I fully expect my protocol to drive future adoption and educate many new users about the Collective. As well as impacting the Collective, my protocol has the potential to impact journalist all around the world and empower them to speak freely.",
+  "contributionDescription": "I have been a developer building on the OP stack since day 1. I have deployed dozens of contracts and built dozens of applications. However, I am most proud of my Good Morning News decentralized application because it stands as an example of a public good and provides a viable path forward for the news industry to regain its reputation and trust. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.goodmorningnews.club/",
+      "description": "Good Morning News is the world's first decentralized news organization!"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of collectables",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0xb76d2faed0a2a7c6de3cde0ca32af0d9626d7284"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7e132e41d42b9019da06968ac9e53fd072f1474c514c5a256b04ca74b0a75ebb",
+  "prelimResult": "Remove",
+  "reportReason": "Future impact claim (\"I fully expect my protocol to drive future adoption and educate many new users about the Collective\")"
+}

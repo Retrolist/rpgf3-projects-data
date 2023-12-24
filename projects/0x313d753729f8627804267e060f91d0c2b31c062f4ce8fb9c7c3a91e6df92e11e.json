@@ -1,0 +1,45 @@
+{
+  "bio": "I'm 48 years old, passionate about blockchain technologies and live in France. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Malik",
+  "websiteUrl": "https://www.webvilles.net",
+  "applicant": {
+    "address": {
+      "address": "0xDffb0C8579DB5A49255D92bA53fA27b6afAEcC84",
+      "resolvedName": {
+        "address": "0xDffb0C8579DB5A49255D92bA53fA27b6afAEcC84",
+        "name": "gallica.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xDffb0C8579DB5A49255D92bA53fA27b6afAEcC84"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDffb0C8579DB5A49255D92bA53fA27b6afAEcC84.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x2b2659cef9bbf17945f5eb7194db761132de20ce96e04ae3c62ca3e3001ccd00"
+  },
+  "impactDescription": "I've been heavily involved in the various Optimism blochain tests.\nFor example, I completed all 18 Optimism quests and obtained all 18 NFTs.\nI've also done a lot to help my friends and family get to know the Optimism ecosystem. \nMost of my friends, colleagues and close family have completed at least one Optimism quest thanks to me.",
+  "contributionDescription": "I've been heavily involved in the various Optimism blochain tests.\nFor example, I completed all 18 Optimism quests and obtained all 18 NFTs.\nI've also done a lot to help my friends and family get to know the Optimism ecosystem. \nMost of my friends, colleagues and close family have completed at least one Optimism quest thanks to me.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "http://www.etherscan.org",
+      "description": "http://www.etherscan.org"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "10",
+      "number": "10",
+      "url": "http://www.etherscan.org"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x313d753729f8627804267e060f91d0c2b31c062f4ce8fb9c7c3a91e6df92e11e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

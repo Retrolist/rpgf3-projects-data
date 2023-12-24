@@ -1,0 +1,52 @@
+{
+  "bio": "A geek girl who just loves technology ^)",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Sabrina Witlow",
+  "websiteUrl": "https://twitter.com/VRainiero",
+  "applicant": {
+    "address": {
+      "address": "0x0617F40C0BCC0b8BDcE45E73B2c19803525D3fbB",
+      "resolvedName": {
+        "address": "0x0617F40C0BCC0b8BDcE45E73B2c19803525D3fbB",
+        "name": "sabrinacat.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x0617F40C0BCC0b8BDcE45E73B2c19803525D3fbB"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0617F40C0BCC0b8BDcE45E73B2c19803525D3fbB.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0617F40C0BCC0b8BDcE45E73B2c19803525D3fbB.png",
+    "id": "OptimistProfile|0x0344356eb54eb0c0a5c360a07d00e5087cce1e0a923bd48e1d4d7530479c1ee2"
+  },
+  "impactDescription": "Sorry, but I thought there was a similar question earlier, so I'll paste my previous reply.\n\n\"- Donations on the Gitcoin site. I support projects built on the Optimism stack and do so in every round.\n\n- Active user who helps newcomers in Discord. Also, as I find bugs and errors, I leave reports in the appropriate thread on the server.\n\n- In any unclear situation, I tell everyone around me about your blockchain (laughs).\"",
+  "contributionDescription": "- Donations on the Gitcoin site. I support projects built on the Optimism stack and do so in every round.\n\n- Active user who helps newcomers in Discord. Also, as I find bugs and errors, I leave reports in the appropriate thread on the server.\n\n- In any unclear situation, I tell everyone around me about your blockchain (laughs).",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/VRainiero",
+      "description": "The site exists, is almost done and will be up and running soon."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Users helped + brought to the project",
+      "number": "1300",
+      "url": "https://twitter.com/VRainiero"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Gitcoin donations to support projects on Optimism"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xfd5937acf9365c41ba5c645d9bf6fe3bca647dbf0bb5734a0d1e5c31d5034927",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

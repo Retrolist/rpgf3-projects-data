@@ -1,0 +1,105 @@
+{
+  "bio": "Web3 Open University for developers.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "WTF Academy",
+  "websiteUrl": "https://wtf.academy",
+  "applicant": {
+    "address": {
+      "address": "0x25df6DA2f4e5C178DdFF45038378C0b08E0Bce54",
+      "resolvedName": {
+        "address": "0x25df6DA2f4e5C178DdFF45038378C0b08E0Bce54",
+        "name": "wtfacademy.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x25df6DA2f4e5C178DdFF45038378C0b08E0Bce54"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x25df6DA2f4e5C178DdFF45038378C0b08E0Bce54.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x25df6DA2f4e5C178DdFF45038378C0b08E0Bce54.png",
+    "id": "OptimistProfile|0x290e586df8af7c852d0fdbc17a907b36c847e8e46106754fdaaa72315e004406"
+  },
+  "impactDescription": "1. Optimism shares the same developer stack with Ethereum. We have created one of the most impactful open-source tutorials in Solidity, Ethers.js, and more in Chinese and English. All the optimism developers will benefit from them.\n2. We will launch on-chain certificates on optimism, bringing massive developers to the optimism collective.\n3. We hosted 2 IRL Ethereum hackathons in China, bringing the optimism vibe to Chinese web3 developers.",
+  "contributionDescription": "1. WTF Solidity tutorials: concise, community-reviewed, open-source tutorials for Solidity in Chinese and English. 80+ chapters, 100+ contributors, 8,400+ stars.\n2. WTF Ethers tutorials: concise, community-reviewed, open-source tutorials for Ethersjs in Chinese and English. 20+ chapters, 30+ contributors, 2,100+ stars.\n3. wtf.academy: Decentralized education platform for web3 developers. Learn, test, and get certificates: 7,000+ registered users, 20,000 monthly active users.\n4. WTF EVM Opcodes: The most comprehensive tutorial for EVM opcodes, covering all the 144 opcodes on EVM.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/AmazingAng/WTF-Solidity",
+      "description": "concise, community-reviewed, open-source tutorials for Solidity. 8,400+ stars!"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/WTFAcademy/WTF-Ethers",
+      "description": "concise, community-reviewed, open-source tutorials for Ethers.js. 2,100+ stars!"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x1a3785288c03e78616dbe1700d36385dfa793dd3",
+      "description": "We will launch WTF on-chain certificates on optimism by the end of 2023."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://wtf.academy",
+      "description": "Decentralized education platform for developers. Learn, test, get certificates."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/WTFAcademy/WTF-EVM-Opcodes",
+      "description": "EVM opcodes tutorials, covering all the 144 opcodes on evm."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/WTFAcademy/WTF-gas-optimization",
+      "description": "WTF Solidity gas optimization techniques, verified with Foundry."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/WTFAcademy/ETHBeijing",
+      "description": "We hosted ETH Beijing hackathon in Beijing, China, April 2023. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/eth-hangzhou/ETHHangzhou",
+      "description": "We hosted ETH Hangzhou hackathon in Hangzhou, China, October 2023. "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of stars on github",
+      "number": "8400",
+      "url": "https://github.com/AmazingAng/WTF-Solidity"
+    },
+    {
+      "description": "# of stars on github",
+      "number": "2100",
+      "url": "https://github.com/WTFAcademy/WTF-Ethers"
+    },
+    {
+      "description": "# of participated hackers in ETHHangzhou",
+      "number": "150",
+      "url": "https://x.com/zjubca/status/1714525262329880775?s=20"
+    },
+    {
+      "description": "# of participated hackers in ETHBeijing",
+      "number": "150",
+      "url": "https://x.com/erinyhl1314/status/1643610713695440898?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 19000,
+      "description": "Retrospective funding for WTF Academy"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0fd702364b086485a727ee20c94abe75c1c916e9ad9c6dc17eff8c64487dfd8a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 44,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

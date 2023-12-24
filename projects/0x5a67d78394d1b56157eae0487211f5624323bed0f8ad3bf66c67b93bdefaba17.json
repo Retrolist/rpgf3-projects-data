@@ -1,0 +1,53 @@
+{
+  "bio": "Crypto degen ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "D27",
+  "websiteUrl": "https://twitter.com/Dawson27_",
+  "applicant": {
+    "address": {
+      "address": "0x5DcE2Ab1CE43175A6aAe7c70088d660bAdD2f3c9",
+      "resolvedName": {
+        "address": "0x5DcE2Ab1CE43175A6aAe7c70088d660bAdD2f3c9",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5DcE2Ab1CE43175A6aAe7c70088d660bAdD2f3c9"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5DcE2Ab1CE43175A6aAe7c70088d660bAdD2f3c9.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5DcE2Ab1CE43175A6aAe7c70088d660bAdD2f3c9.png",
+    "id": "OptimistProfile|0xcab45653976a364d05efe364bbc080f4d31f3175c7a2ba17e7e0de736ed7e55a"
+  },
+  "impactDescription": "I have helped XDEFI Wallet integrate Optimism into the wallet, making it a primary network for 200,000+ users that we currently support using Optimisim and I have helped improve NFTs so they are very sharp and able to transfer the network very quickly and smoothly!",
+  "contributionDescription": "I have helped XDEFI Wallet integrate Optimism into the wallet, making it a primary network for 200,000+ users that we currently support using Optimisim and I have helped improve NFTs so they are very sharp and able to transfer the network very quickly and smoothly! Also, written articles on the website.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.xdefi.io/support/",
+      "description": "Articles "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Website",
+      "number": "5000",
+      "url": "https://www.xdefi.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5a67d78394d1b56157eae0487211f5624323bed0f8ad3bf66c67b93bdefaba17",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

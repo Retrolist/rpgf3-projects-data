@@ -1,0 +1,78 @@
+{
+  "bio": "1st French-speaking media about crypto",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Cryptoast",
+  "websiteUrl": "https://cryptoast.fr/",
+  "applicant": {
+    "address": {
+      "address": "0x543Dea2479Bb8527C71bf4E52802B017212589e6",
+      "resolvedName": {
+        "address": "0x543Dea2479Bb8527C71bf4E52802B017212589e6",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x543Dea2479Bb8527C71bf4E52802B017212589e6"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x543Dea2479Bb8527C71bf4E52802B017212589e6.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x543Dea2479Bb8527C71bf4E52802B017212589e6.jpeg",
+    "id": "OptimistProfile|0x127b4ed8b8a1d324c77843fb5ecc22476df3877bf66a7e157dd7975a9e7d4605"
+  },
+  "impactDescription": "Thanks to our various articles, we've enabled the French-speaking community to discover Optimism through a medium in which they have full confidence.\n\nWe've enabled them to understand how Optimism works and its relevance to today's challenges, to learn how to interact with the ecosystem, and to follow the project's news on a regular basis.\n\nWe also covered the launch of the token to highlight its potential interest for investors and regular DeFi users.\n\nWe are likely to have redirected our community of 10 million readers (in 2022) towards Optimism in a neutral, objective but enthusiastic way. ",
+  "contributionDescription": "As an education and information medium, we've been following Optimism's progress closely and have detailed it in numerous articles.\n\nVery early on (in April 2022) we offered a comprehensive guide to our community, entitled \"Optimism: the first optimistic rollups solution to improve Ethereum (ETH) scalability\". This enabled them to discover the ecosystem and understand how it works, as well as its advantages.\n\nAfterwards, we covered a number of news items, such as the $150 million fundraising in March 2022, the airdrop in June 2022, or more technical topics like the improvements brought about by the Bedrock update. We also reported on the network's successes, with articles on the number of active addresses and the number of transactions.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://cryptoast.fr/optimism-optimstic-rollup-scalabilite-ethereum-eth/",
+      "description": "Our complete guide to Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptoast.fr/optimism-leve-150-millions-dollars-valorisation-1-6-milliard-dollars/",
+      "description": "Our article on Optimism fundraising"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptoast.fr/airdrop-optimism-officiellement-lance-250000-wallets-concernes/",
+      "description": "Our article about the airdrop"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptoast.fr/optimism-nombre-adresses-layer-2-augmente-45-pourcents-janvier/",
+      "description": "One of our article about Optimism success"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptoast.fr/optimism-op-quelles-ameliorations-mise-a-jour-bedrock/",
+      "description": "Our article on the Bedrock update"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/CryptoastMedia/status/1703408017264250999",
+      "description": "One of our tweets to announce one of Optimism's news"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of views on one tweet",
+      "number": "17000",
+      "url": "https://twitter.com/CryptoastMedia/status/1703408017264250999"
+    },
+    {
+      "description": "Number of readers on 1 basic article",
+      "number": "24466",
+      "url": "https://drive.google.com/drive/folders/1SWiP_FiYCJa6DJJrkdI_whzQDDXDcEBp?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x57cf04bdf56d0fae837e4c57625d7ce61acf6d20504b143308a4adca752a53ce",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 25,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

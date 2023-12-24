@@ -1,0 +1,118 @@
+{
+  "bio": "Multi-strategy cryptocurrency active management hedge fund",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Synth",
+  "websiteUrl": "https://synthfund.gitbook.io/synth/",
+  "applicant": {
+    "address": {
+      "address": "0x84D36eA4044161232803c216BF1D103469713943",
+      "resolvedName": {
+        "address": "0x84D36eA4044161232803c216BF1D103469713943",
+        "name": "synthfund.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x84D36eA4044161232803c216BF1D103469713943"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x84D36eA4044161232803c216BF1D103469713943.png",
+    "id": "OptimistProfile|0x3ad129ea9e5267ed9553bdc8112529c6a8d4af723ff2a28fdf1deb6cc0542213"
+  },
+  "impactDescription": "So, uh. Synth assumes multiple liquidity pools for users on multiple networks. We pay special attention to active users and are willing to encourage them to interact with networks where our activity is growing. We are interested in building liquidity in our pools. \nOur constant buybacks always trigger arbitrage trades on all networks, including OP.\nSo our metrics are contract data. I will provide some links to our contracts on different networks",
+  "contributionDescription": "Created some uniswap liquidity pools for Synth token on OP.\nAdded Synth token to default OP bridge. Thank you, team. :D\nReady to expand in the OP system.\nAlready published news about new pools on OP.\nSynth gitbook has a separate section for OP.\nSo Synth ready to move more liquidity to OP.\nWe have created many Zealy quests for users in the OP ecosystem. Users must interact with the OP network and the liquidity pools on it. Just look! :D",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0xa925f4057d6E6C8FAf8bdE537Ad14BA91A1D0337",
+      "description": "Synth token contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://synthfund.gitbook.io/synth/synth-token-and-contracts/op",
+      "description": "Synth OP gitbook section"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.optimism.io/bridge/deposit",
+      "description": "We are already at official bridge. Thank you!"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zealy.io/c/synth/questboard",
+      "description": "Look!! Many quests for OP users. We are preparing for much more sprints."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/ethereum-optimism/ethereum-optimism.github.io/pull/439",
+      "description": "github pool request for bridge"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0x853fc92821040a8f48be1ea4e858ec74408ea4d1",
+      "description": "wbtc/synth pool"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0x716aa6ecb4c3ba0c95331a968c206f1d85115a5f",
+      "description": "synth/OP pool"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0x3e215d3d7b251f48289f38928b1dc8ba7212f119",
+      "description": "synth/wld pool"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0xf21a5c31c2432941bebaaeffd53d0f24dbdcf5e2",
+      "description": "synth/eth pool"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0xe42bc0b3a5638b28fa2af8e649e3e19f4e2aafcd",
+      "description": "synth/OP pool"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0x3bcc31d5d04ac882738e63d1204dbdee0cd3d4c6",
+      "description": "synth/wbtc pool"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xe5d644526afe7f231148160fd136caa1d07f3888",
+      "description": "synth/usdc pool"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x3fb0f64eb93bf2f69ee1907043c088e804fdef66",
+      "description": "synth/wld pool 0.01%"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "OP. Transfers",
+      "number": "53",
+      "url": "https://optimistic.etherscan.io/token/0xa925f4057d6E6C8FAf8bdE537Ad14BA91A1D0337"
+    },
+    {
+      "description": "Arb. Transfers",
+      "number": "278",
+      "url": "https://arbiscan.io/token/0x916837Bf5216857a322FC061DEBB0F70DD5FAf16"
+    },
+    {
+      "description": "BSC. Transfers",
+      "number": "215",
+      "url": "https://bscscan.com/token/0x080c5BEc7eceEAea09c56D556b0e0C0905Fc254c"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x6bba68dec034f1715e3f70366abc7db1df1a003b264b79cf3c1cb3218a36b847",
+  "prelimResult": "Remove",
+  "reportReason": "Out of scope, claims to be a \"hedge fund\", also promises future impact (\"ready to move more liquidity to OP\")"
+}

@@ -1,0 +1,47 @@
+{
+  "bio": "Web3/DeFI/Blockchain",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "FSociety404",
+  "websiteUrl": "https://twitter.com/rendipangalilaa",
+  "applicant": {
+    "address": {
+      "address": "0x18F62F7939d88d47C1502638882786D403E09372",
+      "resolvedName": {
+        "address": "0x18F62F7939d88d47C1502638882786D403E09372",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x18F62F7939d88d47C1502638882786D403E09372"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x18F62F7939d88d47C1502638882786D403E09372.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x18F62F7939d88d47C1502638882786D403E09372.png",
+    "id": "OptimistProfile|0x8860c744edfdd484d755dd3c4e2899457df8b0740b8c83c091c4ec8cbc9e9ccc"
+  },
+  "impactDescription": "Retroactive Public Goods Funding (RetroPGF) Round 3 will take place this fall and will distribute 30M OP to reward contributions that have supported the development and adoption of Optimism.\n\nBadgeholders (voters in RetroPGF) need to be able to discover and vote on nominated projects. A good voting experience is core to supporting the work of badgeholders and ensuring an accurate RetroPGF process.  \n\nRound 2 of RetroPGF put a high burden on the voting experience of badgeholders, requiring them to do a lot of manual work spreadsheets and forms.  This friction limited the overall accuracy of the RetroPGF round.",
+  "contributionDescription": "more about Citizenship here.\nIf you are a delegate already involved and voting, looking for additional ways to help the Collective, reach out to lavande@optimism.io.\n#\ud83e\udee1 Marketing\nThe Optimism Vision is big! And Visions this big need to be amplified by a diverse & aligned group to help make it real.\n\nThe Ambassadors program enables community members to create focused content to bring the Vision closer to reality. If you have a talent for writing, design or visuals, come get involved!\nIf your project wants some marketing love, you have options! Get your dapp in front of the Optimism community with our Demo Day (once every two weeks).\nIf is deployed on OP Mainnet, you can be added to our ecosystem page (opens new window). Simply fill out this form (opens new window)to be included.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Fsociety40",
+      "description": "GITHUB"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "I.e.",
+      "number": "420",
+      "url": "https://github.com/Fsociety40"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x01626307fc4ada597343c0bbab4603dfa0da293f3af55e47b6d7057d63399d02",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

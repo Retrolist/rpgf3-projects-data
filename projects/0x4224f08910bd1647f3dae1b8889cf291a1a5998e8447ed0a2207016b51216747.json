@@ -1,0 +1,45 @@
+{
+  "bio": "Stocks, real estate and crypto investor.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Tor",
+  "websiteUrl": "https://www.siam-supplement.com/",
+  "applicant": {
+    "address": {
+      "address": "0xa3f13c688d8E124c774fafE73920D47f457F8c8c",
+      "resolvedName": {
+        "address": "0xa3f13c688d8E124c774fafE73920D47f457F8c8c",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa3f13c688d8E124c774fafE73920D47f457F8c8c"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa3f13c688d8E124c774fafE73920D47f457F8c8c.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x338a458e038da0c2fc8435fcd3370a28ab83f6a8fae9ecb13134ed4beb334b72"
+  },
+  "impactDescription": "My contributions to Optimism span several crucial domains. Firstly, I engage in delegation, strategically allocating resources to support initiatives aligned with our mission. Secondly, I've actively expanded our community by recommending friends who share our vision, fostering diversity of thought. Thirdly, I participate in on-chain transactions, fortifying our network's infrastructure and funding key projects. Lastly, I contribute by voting on forums, shaping collective decisions and driving us toward our goals. These multifaceted efforts collectively strengthen Optimism's impact and resilience.",
+  "contributionDescription": "My contributions to Optimism are threefold: delegation, community expansion through friend referrals, and active engagement in on-chain transactions. These actions collectively bolster our decision-making, broaden our network, and provide vital support to the network's growth and development.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://debank.com/profile/0xa3f13c688d8e124c774fafe73920d47f457f8c8c",
+      "description": "My contributions"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "voting",
+      "number": "1",
+      "url": "https://debank.com/profile/0xa3f13c688d8e124c774fafe73920d47f457f8c8c"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4224f08910bd1647f3dae1b8889cf291a1a5998e8447ed0a2207016b51216747",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,57 @@
+{
+  "bio": "Tripsha helps launch startup cities and other extended community gatherings. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Tripsha",
+  "websiteUrl": "https://tripsha.com",
+  "applicant": {
+    "address": {
+      "address": "0x98608709ff4b73e73fEF159Ada888F0c50048557",
+      "resolvedName": {
+        "address": "0x98608709ff4b73e73fEF159Ada888F0c50048557",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x98608709ff4b73e73fEF159Ada888F0c50048557"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x98608709ff4b73e73fEF159Ada888F0c50048557.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x99de6556be7ca9b691d69f2bd97eaf09ad6fa69d0022dca584a81d077dc5629e"
+  },
+  "impactDescription": "Brought users, awareness, and an interesting use case of asynchronous crypto payments to Optimism in the community event space, targeting a high quality group of crypto early adopters and other applicants to Vitalik Buterin's startup city. It created an educational point for those who hadn't already experienced Optimism or using an L2 before.",
+  "contributionDescription": "We built what we believe is the first asynchronous crypto payments system dedicated to event ticketing. We used Optimism as the L2 network of choice for processing registration payments for ZuConnect (Oct 29-Nov 11), the second ever instance of Zuzalu (Vitalik Buterin's startup city). This helped bring awareness of and new users to Optimism. Marine Andraud (a fellow Zuzaluan and Infra Partnership Manager at OP Labs) contributed a helpful onboarding guide on how to pay on Tripsha using Optimism. The way it works is that prospective attendees answer application questions and pre-authorize a token transfer of the amount they need to pay. Event organizers collectively review individual applications, which, if approved, submit the token transfer on chain. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.tripsha.com/trip/64ff3a6eb4b6950008dee4f8",
+      "description": "This was the ZuConnect trip page"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Registrations",
+      "number": "123",
+      "url": "https://optimistic.etherscan.io/address/0x8e160C8E949967D6B797CdF2A2F38f6344a5C95f"
+    },
+    {
+      "description": "Revenue collected USD",
+      "number": "68000",
+      "url": "https://optimistic.etherscan.io/address/0x8e160C8E949967D6B797CdF2A2F38f6344a5C95f"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 1360,
+      "description": "from a 2% tx fee applied to our service"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5a8b2dc9ed6835d5cd846bf77cf2a8ae83f80fab8e66e873c664f0c9e41a0dea",
+  "prelimResult": "Remove",
+  "reportReason": "Out of scope"
+}

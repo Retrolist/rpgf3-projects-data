@@ -1,0 +1,53 @@
+{
+  "bio": "Crypto Enthusiast",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "kolade",
+  "websiteUrl": "https://medium.com/@oyerindekolade/everything-you-should-know-on-optimism-retro-pgf-6c6088c93072",
+  "applicant": {
+    "address": {
+      "address": "0xE48a68D70bbAfae32905c9023F1Ce13364d95681",
+      "resolvedName": {
+        "address": "0xE48a68D70bbAfae32905c9023F1Ce13364d95681",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE48a68D70bbAfae32905c9023F1Ce13364d95681"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE48a68D70bbAfae32905c9023F1Ce13364d95681.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE48a68D70bbAfae32905c9023F1Ce13364d95681.jpeg",
+    "id": "OptimistProfile|0x5056c4470969e5152c6b91610e0e74738e497cce75b4cecbc0a90eaa873393c8"
+  },
+  "impactDescription": "my contribution plays a vital role in advancing Optimism's goals, from awareness and community building to technology adoption and ecosystem development.\nIncreasing Awareness: my content educates others about Optimism, expanding its reach and fostering understanding.\nCommunity Growth: It attracts more users, developers, and contributors, bolstering the Optimism community.",
+  "contributionDescription": "I'm seeking RetroPGF for my contributions in creating educational content, fostering community engagement, and supporting the growth of the Optimism ecosystem through written materials. These efforts have expanded awareness, increased adoption, and contributed to the overall development of Optimism.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://medium.com/@oyerindekolade/everything-you-should-know-on-optimism-retro-pgf-6c6088c93072",
+      "description": "what you need to know about Retro PGF"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "thread",
+      "number": "3",
+      "url": "https://medium.com/@oyerindekolade/everything-you-should-know-on-optimism-retro-pgf-6c6088c93072"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 20000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x265772d5c8da2c574fe143ecfa9d7f5d375b1b5b37a129ee7e4a5935386a2073",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

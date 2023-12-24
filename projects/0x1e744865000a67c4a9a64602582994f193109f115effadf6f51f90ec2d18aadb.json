@@ -1,0 +1,81 @@
+{
+  "bio": "Preparing Peruvian youth for the future of work through tech skills.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "AYNITEC - Optimism",
+  "websiteUrl": "https://aynieducativo.com/aynitec",
+  "applicant": {
+    "address": {
+      "address": "0x2D85f8682F3dbAe9c65dB9E7ba239E4dE733D8d1",
+      "resolvedName": {
+        "address": "0x2D85f8682F3dbAe9c65dB9E7ba239E4dE733D8d1",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2D85f8682F3dbAe9c65dB9E7ba239E4dE733D8d1"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2D85f8682F3dbAe9c65dB9E7ba239E4dE733D8d1.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2D85f8682F3dbAe9c65dB9E7ba239E4dE733D8d1.png",
+    "id": "OptimistProfile|0xd2e48701b2231ff99ac071667994202a5f6e86b60c74325bc470b87127e21d18"
+  },
+  "impactDescription": "AYNITEC, with the support of Optimismo, organized events and workshops for children and young people in Peru.\nAs a collective, we promote the use of certificate unlockprotocol and mirror protocols to showcase our work through blogs.\nThis initiative had a significant impact on the participants, who learned the fundamentals of technology, web3 and Optimism. Likewise, using the Zora platform allowed us to share the work of our aynicinos in the creation of NFTs.  In the future, we plan to continue using web3 technology to educate children and youth in Peru\nThe influence of optimism on children and young people has been notable, providing them with invaluable access to educational resources and opportunities.",
+  "contributionDescription": "AYNITEC is an educational initiative that encompasses two programs, AYNITEC JUNIOR and KIDS, educating children between the ages of 8 and 16. Our mission is to empower future generations with essential technological and programming skills in the digital age.\n-Organized events and workshops on RetroPGF for children and youth in Peru through the AYNITEC program, providing live classes online. These events and workshops were taught by AYNITEC volunteers.\n-Awarded certificates to volunteers who completed the AYNITEC program using the Optimism unlock protocol application. The purpose of awarding the blockchain certificate was to give them the traceability and verification of their volunteer contribution, as well as to insert them the curiosity to learn about web3 and optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://aynieducativo.com/aynitec",
+      "description": "This landingpage is about the project."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.facebook.com/aynieducativoperu/posts/pfbid0u5miXDUyu4ytAZcUtYFt3Zg44t7iQMTMxQ2up4MXRb2Kr1AiTakAbzJNcvWmGVCWl",
+      "description": "Post in facebook"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.instagram.com/p/CxJOQobycBQ/",
+      "description": "Post in Instagram"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Homeworks Aynitec Junior",
+      "number": "50",
+      "url": "https://zora.co/collect/oeth:0x9730f1c80d801ee5ee3c17f1a71adefe1704977d"
+    },
+    {
+      "description": "Homeworks Aynitec Kids",
+      "number": "50",
+      "url": "https://zora.co/collect/oeth:0x435cf383a0c6d3685bc3d9abc58fe87688d18d86"
+    },
+    {
+      "description": "Blogs en Mirror",
+      "number": "2",
+      "url": "https://mirror.xyz/0x2D85f8682F3dbAe9c65dB9E7ba239E4dE733D8d1"
+    },
+    {
+      "description": "Certificates in Unlockprotocol",
+      "number": "2",
+      "url": "https://app.unlock-protocol.com/certification?s=docente-en-aynitec"
+    },
+    {
+      "description": "KIDS",
+      "number": "39",
+      "url": "https://www.facebook.com/aynieducativoperu/videos/857731252624349"
+    },
+    {
+      "description": "JUNIORS",
+      "number": "50",
+      "url": "https://www.youtube.com/watch?v=iuIR3ARE9mg&t=155s"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x1e744865000a67c4a9a64602582994f193109f115effadf6f51f90ec2d18aadb",
+  "prelimResult": "Remove",
+  "reportReason": "Out of scope"
+}

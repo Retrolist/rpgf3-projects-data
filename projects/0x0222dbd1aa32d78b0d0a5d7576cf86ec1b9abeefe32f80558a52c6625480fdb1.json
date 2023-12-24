@@ -1,0 +1,61 @@
+{
+  "bio": "Portfolio, DEX & Bridge Aggregator, Active Liquidity Management Protocol",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "0xPlasma Finance",
+  "websiteUrl": "https://plasma.finance",
+  "applicant": {
+    "address": {
+      "address": "0xA559f6d6B5A5661E46dEc454751683294BB26B9E",
+      "resolvedName": {
+        "address": "0xA559f6d6B5A5661E46dEc454751683294BB26B9E",
+        "name": "0xplasma.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xA559f6d6B5A5661E46dEc454751683294BB26B9E"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA559f6d6B5A5661E46dEc454751683294BB26B9E.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA559f6d6B5A5661E46dEc454751683294BB26B9E.png",
+    "id": "OptimistProfile|0xaa963d524af31a685418def476dbecdb93d4f7162cfc530161b8740e2d55caac"
+  },
+  "impactDescription": "Since the inception of Optimism as an L2 solution, our primary contribution has been the development of several DeFi protocols and services. Admittedly, due to the challenges posed by the bear market and a constrained marketing budget, we have not achieved significant traction or TVL as we would have desired. Nonetheless, we remain steadfast in our commitment to the continued development and enhancement of the Optimism DeFi ecosystem and actively participating in governance. Securing the RetroPGF grant will empower us to expand our audience reach and further refine our product offerings on the Optimism platform. You can find the line of products on our website plasma.finance.",
+  "contributionDescription": "The 0xPlasma Team has successfully engineered an intricate DeFi ecosystem on the Optimism blockchain, catering to a broad spectrum of financial activities. Our products span from portfolio management to advanced trading and yield farming functionalities. We assert that the Plasma Finance ecosystem stands as the most holistic and comprehensive DeFi platform currently available on the Optimism chain. It is strategically designed to facilitate the seamless onboarding of new participants, granting them access to an extensive suite of financial tools. Seeking the RetroPGF grant will be instrumental in propelling our ongoing initiatives, ensuring sustained development, and enhancing our infrastructure on the Optimism platform.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xa0bed274709e85007514eeaeb8e84ba22d70c9e4",
+      "description": "DEX router"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xcb77b30841e1deaffd88ba08b9654c667f80b80a",
+      "description": "Address of our Deployer on Optimism (check our total contribution to Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://apy.plasma.finance/",
+      "description": "Website with products and services for Optimism "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of Contract Deployed to Optimism",
+      "number": "69",
+      "url": "https://optimistic.etherscan.io/address/0xcb77b30841e1deaffd88ba08b9654c667f80b80a"
+    },
+    {
+      "description": "Twitter Followers",
+      "number": "43000",
+      "url": "https://twitter.com/0xPlasma"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x0222dbd1aa32d78b0d0a5d7576cf86ec1b9abeefe32f80558a52c6625480fdb1",
+  "prelimResult": "Remove",
+  "reportReason": "promises future work/impact"
+}

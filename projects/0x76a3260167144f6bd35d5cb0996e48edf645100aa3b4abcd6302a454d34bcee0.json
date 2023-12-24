@@ -1,0 +1,91 @@
+{
+  "bio": "dForce is a decentralized stablecoin powered by an integrated DeFi matrix.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "dForce",
+  "websiteUrl": "https://dforce.network/",
+  "applicant": {
+    "address": {
+      "address": "0x83A771769D1A344deED9Ea24aB58071e9Db2D90A",
+      "resolvedName": {
+        "address": "0x83A771769D1A344deED9Ea24aB58071e9Db2D90A",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x83A771769D1A344deED9Ea24aB58071e9Db2D90A"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x83A771769D1A344deED9Ea24aB58071e9Db2D90A.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb7716e9680f310eb14fc53d8b55d00ea7e214f91607cd04a84eff241f2723fdf"
+  },
+  "impactDescription": "dForce aims to become a leading platform for LSD lending on Optimism. In Feb 2023, we collaborated with Lido to reward wstETH lending activities and became the 4th largest holder of wstETH on Optimism. Recently, dForce DAO has approved for Rocket Pool\u2019s rETH to be used as collateral on Optimism with the hope to offer users the choice between different LSD assets to facilitate their investment strategies.\n\nWe also received two grants from Optimism in Phase 1 and Cycle 11. The grants were utilized to incentivize lending and trading via various liquidity mining campaigns and to offer bribes for USX/USDC on Velodrome.",
+  "contributionDescription": "Optimism remains the top priority in dForce\u2019s multichain expansion strategy. We have deployed a complete set of DeFi protocols on Optimism, including stablecoin, lending, trading, and bridge since 2021.\n\nToday, USX records a total supply of 11m with $146m cumulative trading volume as of September 2023.\n\ndForce Lending is now the 4th largest lending protocol and the 3rd largest holder of wstETH on Optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/zxyge/dforce-swap",
+      "description": "USX's trading volume on dForce Swap on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.dforce.network/#/Dashboard/?AssetsType=Lend&currentPool=general",
+      "description": "USX's supply on Optimism"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb#balances",
+      "description": "The 3rd largest holder of wstETH on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://defillama.com/chain/Optimism",
+      "description": "The 4th largest lending protocol on Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "3rd largest holder of wstETH on Optimism",
+      "number": "50000",
+      "url": "https://optimistic.etherscan.io/token/0x1F32b1c2345538c0c6f582fCB022739c4A194Ebb#balances"
+    },
+    {
+      "description": "dForce Optimistic Winter LM Campaign",
+      "number": "50000",
+      "url": "https://medium.com/dforcenet/introducing-dforce-optimistic-winter-campaign-on-optimism-f7aecf150e84"
+    },
+    {
+      "description": "dForce OPening Summer Chapter I",
+      "number": "50000",
+      "url": "https://medium.com/dforcenet/introducing-dforce-opening-summer-campaign-on-optimism-b4ac0dbbcbaa"
+    },
+    {
+      "description": "dForce OPening Summer Chapter II",
+      "number": "50000",
+      "url": "https://medium.com/dforcenet/introducing-the-chapter-ii-of-the-dforce-opening-summer-campaign-on-optimism-8cd0182ac5cd"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 300000,
+      "description": "https://gov.optimism.io/t/ready-gf-phase-1-proposal-dforce/2420/9"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 200000,
+      "description": "Cycle 11"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x76a3260167144f6bd35d5cb0996e48edf645100aa3b4abcd6302a454d34bcee0",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 13,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

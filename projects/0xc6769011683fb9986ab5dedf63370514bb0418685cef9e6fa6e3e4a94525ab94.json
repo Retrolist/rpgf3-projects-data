@@ -1,0 +1,48 @@
+{
+  "bio": "agency web 3",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Mathew Surya",
+  "websiteUrl": "https://digitransformagency.id",
+  "applicant": {
+    "address": {
+      "address": "0xf74E5dc9482B6f7673233FECe7e6Fe107860ae00",
+      "resolvedName": {
+        "address": "0xf74E5dc9482B6f7673233FECe7e6Fe107860ae00",
+        "name": "mathewox.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xf74E5dc9482B6f7673233FECe7e6Fe107860ae00"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf74E5dc9482B6f7673233FECe7e6Fe107860ae00.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf74E5dc9482B6f7673233FECe7e6Fe107860ae00.png",
+    "id": "OptimistProfile|0x3e306799cfa3d8dbca9a2884520405514dc83ead87fb6b0714ebec969ce08407"
+  },
+  "impactDescription": "creating a good collection in optimism network by creating generated NFT arts that will afforadble for the people space in crypto space and also developing product and utility between the space. Like giveaways, 2nd collection, another whitelist opportunity and many more",
+  "contributionDescription": "being a marketer in optismn project ecosystem, being a marketer is also developing their products in web 3 space. I have been experienced being a promoter and marketer in several project in any ecosystem. From sui, ethereum, polygon, solana and many more",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://digitransformagency.id",
+      "description": "helping marketing project to develop in web 3"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#jpg",
+      "number": "420",
+      "url": "https://digitransformagencyu.id"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xc6769011683fb9986ab5dedf63370514bb0418685cef9e6fa6e3e4a94525ab94",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

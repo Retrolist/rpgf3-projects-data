@@ -1,0 +1,46 @@
+{
+  "bio": "Media Production Studio EGOSYS-RECORDS",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "egosys-records",
+  "websiteUrl": "https://ipfs.io/ipfs/QmSPD2LBYgQWCQRPNE1Lfoo3YgtTEyse7BBFx5fTc2wPnD/",
+  "applicant": {
+    "address": {
+      "address": "0x39485bE2B0b994B7F7696984187c130041deD1B5",
+      "resolvedName": {
+        "address": "0x39485bE2B0b994B7F7696984187c130041deD1B5",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x39485bE2B0b994B7F7696984187c130041deD1B5"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x39485bE2B0b994B7F7696984187c130041deD1B5.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x2546e4a01207e6d45dd2f827ff151b261a9c58ab8db8cbee4b69f19f0a91e56f"
+  },
+  "impactDescription": "Post More: Keep sharing your unique content on Optimism. \ud83d\ude80\nInvite Friends: Bring your friends on board and earn invitation tokens. \ud83d\udc6b\nEngage More: Comment, like, and share posts to earn even more tokens.\nWe are pushing boundaries with our multi-chain initiative, aiming to solidify Optimism's presence across multiple ecosystems. Dive in, as Optimism is gearing up to offer you more both inside and outside our app.",
+  "contributionDescription": "Founder Goossens Erwin *EGOSYS-RECORDS *EGOSYS A.I. Futurisme *EGOGENESIS *EGObits Freelance Consultancy  \nCommunity Member for Optimism Network grounding Blockchain music  Industry Independed artist  \nKeep up the momentum and explore the infinite opportunities on Optimism. I can't wait to celebrate your next milestone! ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://ipfs.io/ipfs/QmSPD2LBYgQWCQRPNE1Lfoo3YgtTEyse7BBFx5fTc2wPnD/",
+      "description": "EGOSYS-RECORDS"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Website",
+      "number": "0",
+      "url": "https://ipfs.io/ipfs/QmSPD2LBYgQWCQRPNE1Lfoo3YgtTEyse7BBFx5fTc2wPnD/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xdf44dd08e3b52c7a89905f4c0cb5725742d9e07c57e1f85e42a80b7cfab60ed9",
+  "prelimResult": "Remove",
+  "reportReason": "['twitter locked.cannot find any music related to optimism/ethereum']"
+}

@@ -1,0 +1,52 @@
+{
+  "bio": "I am a Motion designer, crypto trader, and a lover of music.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Hypa24",
+  "websiteUrl": "https://www.behance.net/happyomosuyi/projects",
+  "applicant": {
+    "address": {
+      "address": "0xcAb5280C1484CD68486fbBC203fCe7Af22404437",
+      "resolvedName": {
+        "address": "0xcAb5280C1484CD68486fbBC203fCe7Af22404437",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xcAb5280C1484CD68486fbBC203fCe7Af22404437"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcAb5280C1484CD68486fbBC203fCe7Af22404437.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb974d7d273250b3bbef377c937169afbd5164b29f5da3b39855e52ed253248cf"
+  },
+  "impactDescription": "My contribution helped educate blockchain enthusiasts and experts in my Web3 communities (Elites, Marshland Dao, and Web3 Space) on the potential of Optimism, this increased their interest in Optimism and made them participate in activities on Optimism. \nI believe that every project needs members who know what the community seeks to achieve and key themselves with the vision of the project.",
+  "contributionDescription": "1. I have been to contribute to the Optimism community by educating others in our (Optimism) discord group, and giving talks on Optimism technology and its potential.\n2. I have also contributed by identifying bugs on some projects related to Optimism.\n3. I have engaged with the Optimism community through forums and social media.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://chat.whatsapp.com/Gf2X88Pb4Oq6XJktu8BL2S",
+      "description": "I didn't save screenshot since I was doing these with a mindset of love."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "10",
+      "number": "10",
+      "url": "https://chat.whatsapp.com/Gf2X88Pb4Oq6XJktu8BL2S"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2f627d054f9cd1778ba8e3811630d0ebd92efebecab8860b83f25c64ae82db45",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

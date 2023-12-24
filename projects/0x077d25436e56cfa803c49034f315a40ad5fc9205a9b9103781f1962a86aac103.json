@@ -1,0 +1,81 @@
+{
+  "bio": "Independent DeFi Educator and Airdrop Caller",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Hav'caaren",
+  "websiteUrl": "https://twitter.com/HavAirdrops",
+  "applicant": {
+    "address": {
+      "address": "0xc4c432dDa413Ac8Ec421844703E831985A6833e5",
+      "resolvedName": {
+        "address": "0xc4c432dDa413Ac8Ec421844703E831985A6833e5",
+        "name": "havcaaren.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xc4c432dDa413Ac8Ec421844703E831985A6833e5"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc4c432dDa413Ac8Ec421844703E831985A6833e5.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc4c432dDa413Ac8Ec421844703E831985A6833e5.png",
+    "id": "OptimistProfile|0x89eb3e0aa538d107fcc5c5edd9e51a92af0740aab252a7d9d31c930cc166fdd4"
+  },
+  "impactDescription": "I clearly describe the importance of Layer 2s and zk-rollups in general to the masses and brought a big number of users into the Optimism Ecosystem\n\nAlso, I make detailed airdrop guides on Discord/Twitter which help the masses understand DeFi better, not miss any important Alpha and drive adoption by understanding the dominance of L2s like Optimism",
+  "contributionDescription": "I educate the Twitter audience on airdrop-related tasks by covering important updates/announcements on Optimism and it's ecosystem\n\nI create in-depth, analytical guides involving on-chain activity on Optimism that helps bring new end users into the Optimism ecosystem",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/HavAirdrops",
+      "description": "In-depth DeFi Analysis Guides, Alpha Updates"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of views",
+      "number": "4418",
+      "url": "https://x.com/HavAirdrops/status/1659249435023376395?s=20"
+    },
+    {
+      "description": "# of views",
+      "number": "2057",
+      "url": "https://x.com/KromatikaFi/status/1659521783312134146?s=20"
+    },
+    {
+      "description": "# of views",
+      "number": "1188",
+      "url": "https://x.com/HavAirdrops/status/1648745451942731795?s=20"
+    },
+    {
+      "description": "# of views",
+      "number": "1114",
+      "url": "https://x.com/HavAirdrops/status/1648745455126208524?s=20"
+    },
+    {
+      "description": "# of views",
+      "number": "392",
+      "url": "https://twitter.com/HavAirdrops/status/1672315665124827152"
+    },
+    {
+      "description": "# of views",
+      "number": "326",
+      "url": "https://twitter.com/HavAirdrops/status/1661532773729943552"
+    },
+    {
+      "description": "# of views",
+      "number": "264",
+      "url": "https://x.com/HavAirdrops/status/1705281220995604580?s=20"
+    },
+    {
+      "description": "# of views",
+      "number": "162",
+      "url": "https://x.com/HavAirdrops/status/1703864831764312316?s=20"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x077d25436e56cfa803c49034f315a40ad5fc9205a9b9103781f1962a86aac103",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

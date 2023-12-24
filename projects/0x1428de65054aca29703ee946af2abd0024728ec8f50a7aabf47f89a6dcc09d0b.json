@@ -1,0 +1,48 @@
+{
+  "bio": "hi",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "j",
+  "websiteUrl": "https://t.me/cripto_baronessa_chat",
+  "applicant": {
+    "address": {
+      "address": "0x1Cb540697F6965De25662b83E94d797059dd9512",
+      "resolvedName": {
+        "address": "0x1Cb540697F6965De25662b83E94d797059dd9512",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x1Cb540697F6965De25662b83E94d797059dd9512"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1Cb540697F6965De25662b83E94d797059dd9512.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xa9ee4c173afa5f40d13c6c5204a49e75f4f8c720dfa99edbf1d6dc422227b0e0"
+  },
+  "impactDescription": "Testing of all projects from optimism, I carefully follow the tweeter, I liked the quests that I performed with their simplicity. I wish you a dizzying growth ! Participated in quests from rebit hol, hop.exchange, participated in token deligation, I keep tokens because I believe in the project",
+  "contributionDescription": "Testing of all projects from optimism, I carefully follow the tweeter, I liked the quests that I performed with their simplicity. I wish you a dizzying growth ! Participated in quests from rebit hol, hop.exchange, participated in token deligation, I keep tokens because I believe in the project",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": " https://t.me/cripto_baronessa_chat",
+      "description": "hi"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "yj",
+      "number": "2",
+      "url": "https://t.me/cripto_baronessa_chat"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x1428de65054aca29703ee946af2abd0024728ec8f50a7aabf47f89a6dcc09d0b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

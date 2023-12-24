@@ -1,0 +1,121 @@
+{
+  "bio": "A self-custodial derivatives exchange built on Optimism ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Lyra Finance",
+  "websiteUrl": "https://www.lyra.finance/",
+  "applicant": {
+    "address": {
+      "address": "0x656b7f17933eE35058d1Beb8b6c65B580E799440",
+      "resolvedName": {
+        "address": "0x656b7f17933eE35058d1Beb8b6c65B580E799440",
+        "name": "ksett.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x656b7f17933eE35058d1Beb8b6c65B580E799440"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x07937d833765ba976a94bb5e63dd9b0f73d93b08899e20eecf179d5dc004ae64"
+  },
+  "impactDescription": "Lyra solved fundamental problems for traders in defi with unified liquidity, competitive pricing, improved gas costs, and two-sided, reliable option liquidity, offereing LPs passive, risk-adjusted yield, and improved UX by mitigating IL and risk management.\n\nLyra onboarded numerous developers to OP with developer tooling (Javascript SDK, Docs, Grants), and offered stable, reliable options liquidity programmatically. This led to multiple protocols integrating: Polynomial, Brahma, dSquared, dHedge, Torros, Otus Finance, Strands along with trading interfaces: Kwenta, Sharwa Finance (Dede Lend), data providers: Amber Data, Laevitas, and Aggregators: Teal Finance, stradle.xyz. Enhancing the OP Community with education, trading comps, co-marketing, onboarding incentives, and poker tournament ",
+  "contributionDescription": "AMM: Provides decentralized, unified liquidity, two-sided options markets, and composable delta-hedging. It has had 2 major upgrades; Avalon, increased flexibility for LPs, more expiries, 4-5x increased capital efficiency for traders & Newport enabled cash collateral, and perp hedging for increased LP capital efficiency.\n\nOpen-Source UI: Permissionless software for accessing the Lyra Protocol \nVault Contracts: Example that shows how a vault can execute with the protocol. The contracts, and testing/deployment tools are provided by the protocol SDK. The Vaults enable a wide range of strategies to be built with the contracts.\n\nProtocol SDK: A quick way to import the latest deployments, contract abis, and testing tools for anyone trading algorithmically or building on top of Lyra\u2019s liquidity.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/lyra-finance/lyra-protocol",
+      "description": "Lyra Protocol"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/lyra-finance/lyra-js",
+      "description": "Java script Developer SDK:"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/lyra-finance/lyra-vaults",
+      "description": "Lyra Vaults Contracts"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": " https://github.com/lyra-finance/interface",
+      "description": "Lyra Open Source UI"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.lyra.finance/avalon-is-live/",
+      "description": "Avalon Upgrade of the AMM"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.lyra.finance/newport-upgrade/",
+      "description": "Newport Upgrade of the AMM"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Years live",
+      "number": "2",
+      "url": "https://github.com/lyra-finance/lyra-protocol"
+    },
+    {
+      "description": "Total Volume (newport all time)",
+      "number": "108000000",
+      "url": " https://stats.lyra.finance/optimism"
+    },
+    {
+      "description": "Total Fees (Newport All Time)",
+      "number": "156000",
+      "url": "https://stats.lyra.finance/optimism"
+    },
+    {
+      "description": "Cumulative Traders all time ",
+      "number": "11677",
+      "url": "https://stats.lyra.finance/optimism"
+    },
+    {
+      "description": "Optimism Protocol Integrations (",
+      "number": "9",
+      "url": "https://www.lyra.finance/apps https://www.strands.finance/ https://earn.polynomial.fi/  https://www.otus.finance/  "
+    },
+    {
+      "description": "Total Volume since inception",
+      "number": "1560000000",
+      "url": "https://www.lyra.finance/ "
+    },
+    {
+      "description": "Highest rolling 30 day notional (Avalon)",
+      "number": "106000000",
+      "url": "https://grafana.lyra.finance/d/wYgvNlo4k/0-multi-chain-overview?orgId=1&viewPanel=2"
+    },
+    {
+      "description": "Highest rolling 30-day notional (Newport",
+      "number": "28200000",
+      "url": "https://grafana.lyra.finance/d/wYgvNlo4k/0-multi-chain-overview?orgId=1&viewPanel=2"
+    },
+    {
+      "description": "Synthetix fees paid ",
+      "number": "473000",
+      "url": "https://grafana.lyra.finance/d/v4RZxCs7k/3-1-vault-view-extended?orgId=1&viewPanel=52"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 3000000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9d9f675cf53acdfcaf5bbcb67b1143b94daaa5b4f7acdc96049a1c3e5619d1ce",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 41,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

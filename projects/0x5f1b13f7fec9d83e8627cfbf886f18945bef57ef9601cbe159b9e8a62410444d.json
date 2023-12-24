@@ -1,0 +1,52 @@
+{
+  "bio": "web3 Experiencer",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "1000",
+  "websiteUrl": "https://twitter.com/Mi884510",
+  "applicant": {
+    "address": {
+      "address": "0x416365993481e52e0472e7417656276d4E147A00",
+      "resolvedName": {
+        "address": "0x416365993481e52e0472e7417656276d4E147A00",
+        "name": "ox006.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x416365993481e52e0472e7417656276d4E147A00"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x7cc1de69f6df217c87942411ab7419ad0e7b2b8e0904837efcc174f0a295767a"
+  },
+  "impactDescription": "Participate actively in optimism's community governance by voting on various decisions and important directions, while experiencing cross-chain experiences at different L2 levels. For fuel cost loss between L2s. optimism is more suitable for general users in terms of different fuel costs, convenience, and speed.",
+  "contributionDescription": "Participate actively in optimism's community governance by voting on various decisions and important directions, while experiencing cross-chain experiences at different L2 levels. For fuel cost loss between L2s. optimism is more suitable for general users in terms of different fuel costs, convenience, and speed.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x416365993481e52e0472e7417656276d4e147a00",
+      "description": "Chain interaction data"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Chain interaction data",
+      "number": "0",
+      "url": "https://optimistic.etherscan.io/address/0x416365993481e52e0472e7417656276d4e147a00"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 6000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5f1b13f7fec9d83e8627cfbf886f18945bef57ef9601cbe159b9e8a62410444d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

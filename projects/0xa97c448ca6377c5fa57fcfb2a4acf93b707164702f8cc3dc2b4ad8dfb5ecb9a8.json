@@ -1,0 +1,53 @@
+{
+  "bio": "Verso Mobile Wallet for Optimism",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Verso",
+  "websiteUrl": "https://get-verso.com",
+  "applicant": {
+    "address": {
+      "address": "0xE9335f48cFA1f0a55E376dd306BAE6dD2f6Cdb96",
+      "resolvedName": {
+        "address": "0xE9335f48cFA1f0a55E376dd306BAE6dD2f6Cdb96",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE9335f48cFA1f0a55E376dd306BAE6dD2f6Cdb96"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE9335f48cFA1f0a55E376dd306BAE6dD2f6Cdb96.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE9335f48cFA1f0a55E376dd306BAE6dD2f6Cdb96.png",
+    "id": "OptimistProfile|0x4e6db2b9bbbe3ce500eae37d2a6aebfd8332111d572697d99f04e1fddacfad8e"
+  },
+  "impactDescription": "More than 50k EVM users have now access to Optimism.\nVia Verso use can have : \n1/ On-Ramp directly to Optimism with credit card (Apple pay, Google Pay) or wire purchase.\n2/ Access to Market data for Optimism tokens.\n3/ Swap tokens in Optimism using Paraswap aggregator. ",
+  "contributionDescription": "We implemented Optimism inside Verso Wallet and released it to all users both on Android and iPhones.\nTested on 50+ mobile devices.\n\nWe added following features : \n- Optimism chain to our mobile wallet (50.000 users).\n- Swap in Optimism\n- Bridge from/to Optimism \n- Configured Optimism tokens in our swap and market data section.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://apps.apple.com/app/verso-wallet-crypto-nft/id1539304605",
+      "description": "Apple Store link of our Verso Wallet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://play.google.com/store/apps/details?id=com.btuprotocol.btu_wallet",
+      "description": "Google Play link of Verso Wallet"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of users (Android + iOS)",
+      "number": "52500",
+      "url": "https://play.google.com/store/apps/details?id=com.btuprotocol.btu_wallet"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xa97c448ca6377c5fa57fcfb2a4acf93b707164702f8cc3dc2b4ad8dfb5ecb9a8",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 9,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Wallets"
+}

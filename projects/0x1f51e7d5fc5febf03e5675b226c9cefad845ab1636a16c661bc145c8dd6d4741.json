@@ -1,0 +1,52 @@
+{
+  "bio": "Research on Cryptotechnology from the Perspective of Ukrainian Law ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "i.vovkotrub.eth",
+  "websiteUrl": "https://mirror.xyz/sibileva.eth/tWm6-6zckzzNEZq3Tl-cwCVX9f8Z_fPLulPExaBAzHY",
+  "applicant": {
+    "address": {
+      "address": "0xBb1B620196f8431da5D34F1773127A523359F307",
+      "resolvedName": {
+        "address": "0xBb1B620196f8431da5D34F1773127A523359F307",
+        "name": "sibileva.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xBb1B620196f8431da5D34F1773127A523359F307"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBb1B620196f8431da5D34F1773127A523359F307.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x6779fdcc0996a72e3db8d39b951e5e01fc40e481ee5341248931e3adabe72329"
+  },
+  "impactDescription": "A blockchain-based research article can inspire other scholars to publish on this platform due to its innovative nature and potential to leverage new technology for academic contributions. This can attract more followers of technology and science, fostering a collaborative and forward-thinking academic environment",
+  "contributionDescription": "I conduct scientific research on how crypto technologies can enhance contemporary law. I focus specifically on studying this within Ukrainian law, as I am a Ukrainian citizen.\n\nI believe that the values upon which crypto technologies are built, such as transparency, integrity, and legality, are shared with the foundations of modern law. In particular, I see smart contracts as a new agreement form in the contemporary legal landscape.\n\nI believe that if Ukrainian law adopts algorithmic structures, it will gain more trust, as contracts will be executed, and evidence and actions of individuals will be public.\"",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x03bd93fc66ad494bd382fd6f674a3239593d426f",
+      "description": "article"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0x03bd93fc66ad494bd382fd6f674a3239593d426f"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2000,
+      "description": "These funds will be allocated for further research purposes"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x1f51e7d5fc5febf03e5675b226c9cefad845ab1636a16c661bc145c8dd6d4741",
+  "prelimResult": "Remove",
+  "reportReason": "This doesn't show a clear proof of impact that they have had on the collective."
+}

@@ -1,0 +1,70 @@
+{
+  "bio": "yo im sam ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Samuel Lewis",
+  "websiteUrl": "https://twitter.com/SamuelbenLew",
+  "applicant": {
+    "address": {
+      "address": "0xb4Be7B07492d6b09D84D1aA73063c5023d73D278",
+      "resolvedName": {
+        "address": "0xb4Be7B07492d6b09D84D1aA73063c5023d73D278",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xb4Be7B07492d6b09D84D1aA73063c5023d73D278"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xbe30278b2411a5772a1462f1ac708373e8588514ac69fad44f356dbb68f76247"
+  },
+  "impactDescription": "I attracted users to optimism by donating (burning) UBI. Optimism gained postive marketing as people receive money for their freely earned UBI on Optimism. The 18721 Profiles of https://app.proofofhumanity.id/ can now see that the UBI they are earning can be sold on optimism. 18721 people from a wide variety of backgrounds are now incentivised to learn about and use optimism. ",
+  "contributionDescription": "I have incentivised 18721 people to learn to use optimism for free UBI. I have made optimism L2 with most donated (burnt) UBI. I have made optimism L2 with most liquid UBI market. I have spent 980 OP (1,254.4 USD) on buying and destroying forever UBI. Thus donating 980 OP (1,254.4 USD) to all 18721 profiles of https://app.proofofhumanity.id/ , people from all backgrounds of wealth. This supported the price of UBI https://www.coingecko.com/en/coins/universal-basic-income using optimism.\n\nVitalik has done similar on mainnet \nhttps://basicincometoday.com/the-founder-of-ethereum-just-dumped-a-bunch-of-meme-coins-and-used-the-funds-to-support-a-crypto-ubi-project/\n\nThis is description of how it helps people.\nhttps://www.youtube.com/watch?v=qzmHTXjg_c0",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0xbb586ed34974b15049a876fd5366a4c2d1203115?a=0xb4be7b07492d6b09d84d1aa73063c5023d73d278",
+      "description": "this shows the burning of UBI on optimism"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xb4Be7B07492d6b09D84D1aA73063c5023d73D278#tokentxns",
+      "description": "this shows OP leaving wallet and UBI entering. OP is buying UBI"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x0dae92725c1a09ae7152ecfa06fa66fb2ad697c3720463fcc70c892b12da6616",
+      "description": "this shows KyberSwap: Meta Aggregation Router v2 where op is buying ubi"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.coingecko.com/en/coins/universal-basic-income",
+      "description": "UBI price"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.proofofhumanity.id/",
+      "description": "UBI earners"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Holders",
+      "number": "3",
+      "url": "https://optimistic.etherscan.io/token/0xbb586ed34974b15049a876fd5366a4c2d1203115"
+    },
+    {
+      "description": "Transfers",
+      "number": "21",
+      "url": "https://optimistic.etherscan.io/token/0xbb586ed34974b15049a876fd5366a4c2d1203115"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xf3c66d5e1bc625830daee1891523bace32b53d389cfc73af8096f88f173ad907",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

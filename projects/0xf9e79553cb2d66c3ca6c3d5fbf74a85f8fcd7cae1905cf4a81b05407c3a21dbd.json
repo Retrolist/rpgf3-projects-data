@@ -1,0 +1,46 @@
+{
+  "bio": "Front-End Developer from Ukraine",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Dima",
+  "websiteUrl": "https://twitter.com/lytvyn1uk",
+  "applicant": {
+    "address": {
+      "address": "0x570c048fc76473752c7830dE574444FCfC4CA8b3",
+      "resolvedName": {
+        "address": "0x570c048fc76473752c7830dE574444FCfC4CA8b3",
+        "name": "lytvyniuk.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x570c048fc76473752c7830dE574444FCfC4CA8b3"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x570c048fc76473752c7830dE574444FCfC4CA8b3.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x570c048fc76473752c7830dE574444FCfC4CA8b3.jpeg",
+    "id": "OptimistProfile|0xa5facf57a6c64b3d3c7fc31d7a51d5e2d8df902c88b80e6047b69724152d617c"
+  },
+  "impactDescription": "As a web3 developer contributing to the Optimism Collective, my impact would revolve around enhancing scalability, security, usability, and innovation within the Optimism ecosystem. These contributions would ultimately contribute to the growth and success of Optimism as a key layer 2 scaling solution for Ethereum.",
+  "contributionDescription": "As a web3 developer contributing to the Optimism Collective, my impact would revolve around enhancing scalability, security, usability, and innovation within the Optimism ecosystem. These contributions would ultimately contribute to the growth and success of Optimism as a key layer 2 scaling solution for Ethereum.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/ecosystem-contributions",
+      "description": "Optimism Collective Ecosystem Contributions repository"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "star",
+      "number": "200",
+      "url": "https://github.com/ethereum-optimism/ecosystem-contributions"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xf9e79553cb2d66c3ca6c3d5fbf74a85f8fcd7cae1905cf4a81b05407c3a21dbd",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

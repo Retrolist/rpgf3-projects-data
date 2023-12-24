@@ -1,0 +1,50 @@
+{
+  "bio": "Dune dashboard showcasing changes in optimism user activity",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Optimism Dune Dashboard User Stats",
+  "websiteUrl": "https://dune.com/wheebill",
+  "applicant": {
+    "address": {
+      "address": "0x407Ab73e96Cd5e46241EeE4C87E623D0e7e39398",
+      "resolvedName": {
+        "address": "0x407Ab73e96Cd5e46241EeE4C87E623D0e7e39398",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x407Ab73e96Cd5e46241EeE4C87E623D0e7e39398"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x407Ab73e96Cd5e46241EeE4C87E623D0e7e39398.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x407Ab73e96Cd5e46241EeE4C87E623D0e7e39398.png",
+    "id": "OptimistProfile|0xaa3d201e044f6fa042b7facd6feebe1e87731e0e11ce39914be2fc2ea39732cd"
+  },
+  "impactDescription": "This dashboard provides Optimism community members with high-level analytics about OP user activity over time. It has been constructed with community members of all knowledge levels in mind, empowering members to educate themselves about current trends in OP activity.",
+  "contributionDescription": "This submission is for my Dune Optimism User Activity dashboard. This dashboard showcases OP user activity over time, breaking down users into different activity-level categories and enabling assessment of the health of the Optimism ecosystem. This is the first dashboard to my knowledge that compiles OP user activity-focused stats in one place. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/wheebill/optimism-user-activity",
+      "description": "Dune OP user activity dashboard"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/wheebill/",
+      "description": "My Dune account"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Likes",
+      "number": "3",
+      "url": "https://dune.com/wheebill/optimism-user-activity"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x869c376dbd3c10aff9ecb3ba693fc568de888bf50cd3e6d6fec1e71f4f3c7195",
+  "prelimResult": "Remove",
+  "reportReason": "This takes 5 min to do (look at the code) and had minimal impact (3 stars)"
+}

@@ -1,0 +1,48 @@
+{
+  "bio": "hello myname ismaonezain",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Muhammad Ismawan Zain",
+  "websiteUrl": "https://twitter.com/ismaonezain",
+  "applicant": {
+    "address": {
+      "address": "0x97909a4e583F2B8DF6047EF0a6042E7EeF07AebC",
+      "resolvedName": {
+        "address": "0x97909a4e583F2B8DF6047EF0a6042E7EeF07AebC",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x97909a4e583F2B8DF6047EF0a6042E7EeF07AebC"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3f41a59b78774aee0dfc33ce0a6f0a576b8ede958dc872377e70d03c0dd2bdcb"
+  },
+  "impactDescription": "I'd love to share the impact my contributions had on the Optimism Collective. While I don't have a specific word count, I'll try to keep it concise and provide you with the key points.\n\nThrough my contributions, I focused on spreading positivity and uplifting messages within the Optimism Collective community. I shared motivational quotes, stories of resilience, and practical tips for cultivating optimism in daily life. I aimed to create a supportive and encouraging environment where members could find inspiration and hope.\n\n",
+  "contributionDescription": "RetroPGF is an awesome initiative, and I appreciate your interest in contributing. To answer your question, I think it would be great to receive contributions related to economic solutions for the current slowdown. This could include research on the effectiveness of quantitative easing in stimulating the economy. It's an important topic to explore, especially considering the potential challenges of implementing quantitative easing when inflation is high. It would also be helpful to consider other factors that should be taken into account when deciding whether to implement quantitative easing, such as the overall economic conditions and the risks involved. \n\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ismaonezain",
+      "description": "hello"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "120",
+      "url": "https://twitter.com/ismaonezain"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x76e296cd06773c36cf2614222cf086a2fbc54b76ebe92b1dd434e180d922ec2a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

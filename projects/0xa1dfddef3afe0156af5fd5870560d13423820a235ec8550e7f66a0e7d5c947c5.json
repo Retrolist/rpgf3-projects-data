@@ -1,0 +1,80 @@
+{
+  "bio": "Driving Web3 Advancement in Africa through Talent Development & Tech Innovation.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "AyaHQ",
+  "websiteUrl": "https://www.ayahq.com/",
+  "applicant": {
+    "address": {
+      "address": "0xf203D6C796B99d0F2f861d1B838074822dd64D7c",
+      "resolvedName": {
+        "address": "0xf203D6C796B99d0F2f861d1B838074822dd64D7c",
+        "name": "pkstevenz.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xf203D6C796B99d0F2f861d1B838074822dd64D7c"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf203D6C796B99d0F2f861d1B838074822dd64D7c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf203D6C796B99d0F2f861d1B838074822dd64D7c.jpeg",
+    "id": "OptimistProfile|0xb9959caf598de0850a83c71d6265cb2c28baa5b6439e1074a4551f00aad0ee2f"
+  },
+  "impactDescription": "We have played a pivotal role in beginning to bridge the knowledge gap around Ethereum and L2s, including Optimism and Base, on the African continent. By cultivating a community of passionate builders, we have equipped a new wave of innovators with the tools and understanding they need to harness the power of blockchain technology. These projects confront diverse challenges, from preserving African heritage to introducing digital identity solutions. By also facilitating educational outreaches and deepening collaborations, we've expanded our influence. Regular feedback loops and mentorship programs further solidify our impact. We're wholeheartedly convinced that enabling African builders to solve local dilemmas will exponentially boost blockchain acceptance continent-wide.",
+  "contributionDescription": "We're dedicated to equipping African builders with skills and supporting their innovations to address challenges.\nTrained 66 professionals in product design, management, and smart contract engineering.\nThese professionals showcased their expertise in 10 global hackathons, securing over $17,000 in prizes.\nSince April, our community expanded to 1,312 Ethereum and L2-focused builders, actively collaborating and innovating.\nEngaged 254 Ghanaian computer science students with the Ethereum Campus Tour, introducing them to blockchain's core concepts.\nThe Ayathon at Web3Lagos in August 2023, focusing on L2s, featured 18 projects with 104 participants.\nOur model equips Africans with skills, fosters community growth, offers global opportunities, and supports innovations for continent-wide adoption.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.ayalab.xyz/hackathon/54cab916-277a-49a7-bba6-11fa9c3fdfd5",
+      "description": "Projects built during the Ayathon (28th September to 2nd of August)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Aya-labs",
+      "description": "AyaLabs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/file/d/13mzebxFwCwXN1Ekn5dJq0HdigLYi2Hf0/view?usp=sharing",
+      "description": "Aya Talent Collective Challenge Report"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/file/d/1snVokywxP0bvZAAt-kM94OUeJNj6RFK-/view?usp=sharing",
+      "description": "Ayathon 1.0 Report"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of Community Builders",
+      "number": "1312",
+      "url": "https://discord.gg/6yZV78NRtx"
+    },
+    {
+      "description": "# of Students (EthDev Campus tour)",
+      "number": "254",
+      "url": "https://docs.google.com/document/d/1Vh8uFHJk1eqAr85P_ro_46CH2bbFqEpPsC_d97zhLcI/edit?usp=sharing"
+    },
+    {
+      "description": "# of Graduates of AyaVersity Cohort 1",
+      "number": "66",
+      "url": "https://drive.google.com/file/d/13mzebxFwCwXN1Ekn5dJq0HdigLYi2Hf0/view?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 150000,
+      "description": "Coinbase Giving"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa1dfddef3afe0156af5fd5870560d13423820a235ec8550e7f66a0e7d5c947c5",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 32,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

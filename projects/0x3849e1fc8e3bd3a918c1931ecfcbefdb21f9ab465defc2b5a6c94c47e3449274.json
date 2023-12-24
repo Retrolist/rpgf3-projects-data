@@ -1,0 +1,46 @@
+{
+  "bio": "Crypto community",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "COIN POCKET",
+  "websiteUrl": "https://t.me/coin_pocket",
+  "applicant": {
+    "address": {
+      "address": "0xE0E894a236CAD4ae048705dDC6Ca72C424D4e9C5",
+      "resolvedName": {
+        "address": "0xE0E894a236CAD4ae048705dDC6Ca72C424D4e9C5",
+        "name": "fenr1r.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xE0E894a236CAD4ae048705dDC6Ca72C424D4e9C5"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE0E894a236CAD4ae048705dDC6Ca72C424D4e9C5.png",
+    "id": "OptimistProfile|0x002cfac361cac4daf3d3552b7fcd7c047cac7d334b49a63ac69aa78df6ee2038"
+  },
+  "impactDescription": "I've done posts on my telegram channel and tweeter, I also help newbies and advise to use Optimism specifically for convenient and safe storage of money and as a great option for exchange . I and my friends in the crypto world like this project a lot",
+  "contributionDescription": "I use this blockchain a lot, I think it's the future, it's a really cool project . I did a lot of transactions, voted in governance and went on quests .  I try to support the project in every possible way and help in its development. I have also mentioned the project many times in my Telegram channel, which has over 11 thousand subscribers",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://t.me/coin_pocket",
+      "description": "Channel"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#coinpocket",
+      "number": "333",
+      "url": "https://t.me/coin_pocket"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x3849e1fc8e3bd3a918c1931ecfcbefdb21f9ab465defc2b5a6c94c47e3449274",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,65 @@
+{
+  "bio": " Web3.js is a JS/TS library that enables interacting w/ EVM compatible chains",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Web3js",
+  "websiteUrl": "https://web3js.org/",
+  "applicant": {
+    "address": {
+      "address": "0x960609F3022b2c684E6f147cf6ACDa6C8264c2C0",
+      "resolvedName": {
+        "address": "0x960609F3022b2c684E6f147cf6ACDa6C8264c2C0",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x960609F3022b2c684E6f147cf6ACDa6C8264c2C0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x960609F3022b2c684E6f147cf6ACDa6C8264c2C0.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x960609F3022b2c684E6f147cf6ACDa6C8264c2C0.png",
+    "id": "OptimistProfile|0x81cd84c33c6e5e48c5b69231df8d49b325fe96f4199921091d36305f2d0962a8"
+  },
+  "impactDescription": "The web3.js library has significant impact on developers working with EVM blockchains including Optimism network. Web3.js has around 2 million downloads per month on NPM, and 10+ million CDN hits per month. There are 4500+ library projects depending on web3.js library. ",
+  "contributionDescription": "Web3.js is a Javascript/Typescript library that allows developers to interact with the EVM compatible blockchains and build DApps.\n\nWeb3.js v4 offered many new features, including Plugins to extend web3.js lib functionality. This enabled Optimism to develop a L2 plugin. With this Web3.js helps the developer ecosystem at multiple layers.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/web3/web3.js",
+      "description": "Web3js repo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "NPM downloads:  2 million / month  ",
+      "number": "2000000",
+      "url": "https://www.npmjs.com/package/web3"
+    },
+    {
+      "description": "CDN hits: 13 million / month",
+      "number": "13000000",
+      "url": "https://www.jsdelivr.com/package/npm/web3"
+    },
+    {
+      "description": "NPM dependent projects",
+      "number": "4945",
+      "url": "https://www.npmjs.com/package/web3?activeTab=dependents"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 450000,
+      "description": "Covers the Web3js team of 9 people (6 FTE and 3 PTE)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd5ced576ab6921e32ee00c18d49c69149ba5ccbec76f1e9bbc3d5b008f23145f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 90,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

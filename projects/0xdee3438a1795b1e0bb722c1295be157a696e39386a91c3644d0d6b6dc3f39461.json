@@ -1,0 +1,45 @@
+{
+  "bio": "Crypto Enthusiast, supporter, tester",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Dmitry Fridman",
+  "websiteUrl": "https://ihavenowebsite",
+  "applicant": {
+    "address": {
+      "address": "0x44fF3B3a4E4B7dD45C6d26A087cE6d6d5CE60610",
+      "resolvedName": {
+        "address": "0x44fF3B3a4E4B7dD45C6d26A087cE6d6d5CE60610",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x44fF3B3a4E4B7dD45C6d26A087cE6d6d5CE60610"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xee47198111e35bbbc8494966060b53c0d2440a79429e1c42cb4f18c56e1f2ea4"
+  },
+  "impactDescription": "I just suppoted you the most typical way a typical blockchain user can do - by doing transactions, testing various dapps, bridging funds, collecting and trading NFTs, doing the Optimism quests and supporting dapps, donating on Gitcoin initiative on Optimism network, doing testnets and etc ect ect\n",
+  "contributionDescription": "I just suppoted you the most typical way a typical blockchain user can do - by doing transactions, testing various dapps, bridging funds, collecting and trading NFTs, doing the Optimism quests and supporting dapps, donating on Gitcoin initiative on Optimism network, doing testnets and etc ect ect\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://explorer.gitcoin.co/#/contributors/0x44fF3B3a4E4B7dD45C6d26A087cE6d6d5CE60610",
+      "description": "I have been donating during the latest Gitcoin 18 round on Optimism blockchain"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "number of friends referred to Optimism",
+      "number": "3",
+      "url": "https://discord.com"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xdee3438a1795b1e0bb722c1295be157a696e39386a91c3644d0d6b6dc3f39461",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

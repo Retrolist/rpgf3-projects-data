@@ -1,0 +1,54 @@
+{
+  "bio": "An education Initiative for under-developed countries",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Aryaman sahu",
+  "websiteUrl": "https://acromatic.edu",
+  "applicant": {
+    "address": {
+      "address": "0x44aaAD8961Ab1707131a8F4229E34c66BB3Da6A4",
+      "resolvedName": {
+        "address": "0x44aaAD8961Ab1707131a8F4229E34c66BB3Da6A4",
+        "name": "attrangi.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x44aaAD8961Ab1707131a8F4229E34c66BB3Da6A4"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x44aaAD8961Ab1707131a8F4229E34c66BB3Da6A4.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x154a61b1f679c6b492b88d70d781fd4f3ffb607bff4d3de771ba43fbb4c6d6bf"
+  },
+  "impactDescription": "                                                                                                                                                                                                                                                                      ",
+  "contributionDescription": "                                                                                                                                                                                                                                                                   ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://acromatic.edu",
+      "description": "Education Initiative"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Education content",
+      "number": "1",
+      "url": "https://acromatic.edu"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb5f9ba648a0d9462fe7fbf47e4f5e91602af1bdc41781459221c04e5c0f48b7f",
+  "prelimResult": "Remove",
+  "reportReason": "Duplicate applications, Spam, False statements & deception, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,53 @@
+{
+  "bio": "I love Optimism as a blockchain ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Balogun Waliu",
+  "websiteUrl": "https://thedefiant.io/what-is-optimism",
+  "applicant": {
+    "address": {
+      "address": "0x55CAB1893dB3eE2cc65430f84b3f8E6b3840a22a",
+      "resolvedName": {
+        "address": "0x55CAB1893dB3eE2cc65430f84b3f8E6b3840a22a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x55CAB1893dB3eE2cc65430f84b3f8E6b3840a22a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x6c94bad94761f2e1a5b93cca82728fa2f8b6e7a6d62d7c8bd98db454a36aca12"
+  },
+  "impactDescription": "Always inviting end users to coke use optimism. Encouragement. The entire Ethereum ecosystem relies on open-source community contributions. That doesn\u2019t mean that developers are working for free. The Optimism Collective coordinates devs the same way the Ethereum Foundation does.",
+  "contributionDescription": "There are hundreds of dApps available on Optimism and they were imported from Ethereum. They range from lending services and NFT marketplaces to wallets, DAOs, and blockchain tools. I have played my part by contilributing to the awareness of optimism, investing in optimism nfts and exosystem",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://opensea.io/collection/retropgf-3",
+      "description": "Retro nft"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "RetroPGF 3 ",
+      "number": "419619",
+      "url": "https://opensea.io/collection/retropgf-3"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I have not received any thing yet"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6c8f57254afd03f55294bd43e61016b2ea38b074e0ce1d2c2929d3b7bc2a7cef",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

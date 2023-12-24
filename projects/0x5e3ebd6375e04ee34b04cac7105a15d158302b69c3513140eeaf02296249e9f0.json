@@ -1,0 +1,122 @@
+{
+  "bio": "Splits makes onchain payments easy.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Splits",
+  "websiteUrl": "https://splits.org/",
+  "applicant": {
+    "address": {
+      "address": "0x9ebC8E61f87A301fF25a606d7C06150f856F24E2",
+      "resolvedName": {
+        "address": "0x9ebC8E61f87A301fF25a606d7C06150f856F24E2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9ebC8E61f87A301fF25a606d7C06150f856F24E2"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ebC8E61f87A301fF25a606d7C06150f856F24E2.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9ebC8E61f87A301fF25a606d7C06150f856F24E2.png",
+    "id": "OptimistProfile|0x961cf60f20c23b0b2a01ec39b45795ea44919797adc0f93a07325a0df0247999"
+  },
+  "impactDescription": "0xSplits makes it easy to reward collaboration onchain and customize payouts. We\u2019ve been used by collectives (e.g. Protocol Guild, Songcamp), DAOs (e.g. Airswap, Bankless, Bouns), applications (e.g. Sound, Superrare, Proof, Transient Labs, Heds, Decent, Bonfire, Arpeggi), artists/musicians (Jonathan Mann, Daniel Allan, Reo Cragun), and devs (e.g. Quantum, Props) to power collaborative & customized payouts. Our open source & free-to-use ecosystem has distributed ~$40M to 10K+ unique accounts on several EVM chains including OP.",
+  "contributionDescription": "0xSplits is a suite of smart contracts & tools that allows devs and end users to easily, securely, and efficiently customize onchain payouts. Our current offerings include splits (immutable, mutable, & liquid), waterfalls/recoups (sequential payouts), vests (multi-stream, single beneficiary), swappers (receive any token, output a single type), pass-through wallets (inject governance), and diversifiers (receive any token, output multiple types) as well as the accompanying subgraphs, sdk, & UI.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/splits/ecosystem",
+      "description": "Multichain dune dashboard"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.splits.org/",
+      "description": "Our docs covering our contracts & how they work"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xSplits/splits-contracts",
+      "description": "Split contracts (% based payouts)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xSplits/splits-vesting",
+      "description": "Vesting contracts (time-based payouts)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xSplits/splits-waterfall",
+      "description": "Waterfall contracts (sequential payouts)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xSplits/splits-liquid",
+      "description": "Liquid split contracts (split based on NFT holdings)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xSplits/splits-recoup",
+      "description": "Recoup contracts (combines waterfalls & splits)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xSplits/splits-oracle",
+      "description": "Modular oracle contracts (get accurate onchain pricing)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xSplits/splits-swapper/",
+      "description": "Swapper contracts (convert any token received to a single output token)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xSplits/splits-pass-through-wallet",
+      "description": "Pass-through wallet contracts (inject governance into any payout flow)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xSplits/splits-diversifier/",
+      "description": "Diversifier contracts (convert portions of income into specific output tokens)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "$ through ecosystem",
+      "number": "40000000",
+      "url": "https://dune.com/splits/ecosystem"
+    },
+    {
+      "description": "# of splits",
+      "number": "5000",
+      "url": "https://dune.com/splits/ecosystem"
+    },
+    {
+      "description": "# unique recipients",
+      "number": "10000",
+      "url": "https://dune.com/splits/ecosystem"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 52154.24,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 65000,
+      "description": "https://app.splits.org/accounts/0xEc8Bfc8637247cEe680444BA1E25fA5e151Ba342/"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5e3ebd6375e04ee34b04cac7105a15d158302b69c3513140eeaf02296249e9f0",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 57,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

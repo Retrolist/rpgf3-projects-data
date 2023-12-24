@@ -1,0 +1,105 @@
+{
+  "bio": "I love open edition NFTs, creating on OP/BASE",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "sai7 NFT art",
+  "websiteUrl": "https://note.com/rainbowmaterial/n/n52a35d5a7ebb",
+  "applicant": {
+    "address": {
+      "address": "0xc4Da779262E5011Cab487E102357fBB85eF7C08F",
+      "resolvedName": {
+        "address": "0xc4Da779262E5011Cab487E102357fBB85eF7C08F",
+        "name": "sai7nft.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xc4Da779262E5011Cab487E102357fBB85eF7C08F"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc4Da779262E5011Cab487E102357fBB85eF7C08F.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc4Da779262E5011Cab487E102357fBB85eF7C08F.png",
+    "id": "OptimistProfile|0x96a54533a72be058ba8c1ab3a0915b2c105e5f746100cb16d8ec20fe8a9bd61f"
+  },
+  "impactDescription": "(1) By creating open edition NFTs\nI created 2 manga on mirror (OP), 3 mints.I created 3 OP Chain Open Edition NFTs, 17 mints.I also made 5 BASE chain open editions, 45 mints.Total 64 mints.\n\nIt was 12 people who first got onboarded to OP/BASE to buy my work. That's 19%.\n\nOut of 61mint, 24 people repeat and buy my works, and the repeat rate is 39%. My work contributes to promoting the use of OP/BASE, rather than just one-time use.\n\n\n(2) I have written a step-by-step procedure\nI wrote a step-by-step procedure for starting low-cost BASE NFTs, and the tweet received over 3,700 views.",
+  "contributionDescription": "I did 2 things.\n(1) By creating open edition NFTs, participants experienced the low gas fees of OP/BASE.\n\n(2) I have written a step-by-step procedure for starting low-cost BASE NFTs from scratch to show people the way.\n\n\nI enlightened NFT artists and collectors that not only ETH mainnet but also Optimism/BASE NFTs are good.\n\nI like open edition NFTs, which can be disseminated to a large number of people at a low cost. This means less burden on both artists and collectors.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://note.com/rainbowmaterial/n/n52a35d5a7ebb",
+      "description": "article for my contribution (sai7 NFT art (OP/BASE))"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://note.com/rainbowmaterial/n/ne442c77453ce",
+      "description": "an article, (2) step-by-step procedure for starting low-cost BASE NFTs"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "minting NFT",
+      "number": "2",
+      "url": "https://mirror.xyz/sai7nft.eth/EIvuW8ubAPzxz4utvNB40JRVH5wHErXqbOxhgTIZDUo"
+    },
+    {
+      "description": "minting NFT",
+      "number": "1",
+      "url": "https://mirror.xyz/sai7nft.eth/r2mM-hUEbJSkUstPVMjgTPTdFmdMnUjmKOObSUWScOI"
+    },
+    {
+      "description": "minting NFT",
+      "number": "4",
+      "url": "https://app.manifold.xyz/c/whatareyouuptothissummer"
+    },
+    {
+      "description": "minting NFT",
+      "number": "6",
+      "url": "https://hq.decent.xyz/10/Editions/0xdF5c6861C0aC078007177892D5818A1cb8Aa9901"
+    },
+    {
+      "description": "minting NFT",
+      "number": "7",
+      "url": "https://hq.decent.xyz/10/Editions/0x138baF2D1799DeD6047A0523E6F2c3f624563BdD"
+    },
+    {
+      "description": "minting NFT",
+      "number": "1",
+      "url": "https://app.manifold.xyz/c/A-HEARTfanartmanga0102"
+    },
+    {
+      "description": "minting NFT",
+      "number": "29",
+      "url": "https://app.manifold.xyz/c/BASEhotsummeronchain2023"
+    },
+    {
+      "description": "minting NFT",
+      "number": "3",
+      "url": "https://app.manifold.xyz/c/EverywhereIsOurStageBASE"
+    },
+    {
+      "description": "minting NFT",
+      "number": "7",
+      "url": "https://mint.fun/base/0xa79eB04de1593F1BEbE0A03B5bBe9eE7840F79eD"
+    },
+    {
+      "description": "minting NFT",
+      "number": "2",
+      "url": "https://mint.fun/base/0xC7D657b505d80284ec200390DDfbB7256A2d321C"
+    },
+    {
+      "description": "minting NFT",
+      "number": "3",
+      "url": "https://opensea.io/collection/sea-drops/drop"
+    },
+    {
+      "description": "tweet views",
+      "number": "3700",
+      "url": "https://twitter.com/sai7/status/1697476671094583555"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x3fe534fb6bbbe1ac9be485e3bbeac3321cd470c3003d11bf644402eee10a875a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

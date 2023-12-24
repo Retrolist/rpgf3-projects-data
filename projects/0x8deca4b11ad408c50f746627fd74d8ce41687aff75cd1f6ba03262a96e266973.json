@@ -1,0 +1,70 @@
+{
+  "bio": "Physician and Crypto Enthusiast ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Rafael ",
+  "websiteUrl": "https://twitter.com/masterbrum",
+  "applicant": {
+    "address": {
+      "address": "0x0ca34B96F8c33fF40dCB463a6e976697B6ff7010",
+      "resolvedName": {
+        "address": "0x0ca34B96F8c33fF40dCB463a6e976697B6ff7010",
+        "name": "masterbrum.robots.farm"
+      }
+    },
+    "id": "Delegate|Delegate|0x0ca34B96F8c33fF40dCB463a6e976697B6ff7010"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0ca34B96F8c33fF40dCB463a6e976697B6ff7010.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0ca34B96F8c33fF40dCB463a6e976697B6ff7010.jpeg",
+    "id": "OptimistProfile|0x674b3e4d8bb40a9f429b8abd2b253a78799994d4df3a47c2babd07aa2e2abebb"
+  },
+  "impactDescription": "Used Optimism mainnet, proving its resilience since the end of 2022 with my supplied tokens in Pooltogether. Also participated in minting events envolving Optimism and Base, used optimism mainnet in mint.fun some times. Made a lot of bridges between optimism and other mainnets using Layerzero dapp.",
+  "contributionDescription": "I staked USDC.e in Pooltogether protocol since end of 2022 and beggining of this year (About 190 USDC.e). Used the mainnet to mint sometimes, also used optimism in several bridges using Layerzero. Yesterday I supplied Layerzero through Optmism Pool with more than 1000 USDC.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x9d069dcf42d80854bf14532977b25bbaa19fcc18e2175454733462fcbba46e52",
+      "description": "Pooltogether Supply 27 USDC.e"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x496f58956604b9ec90daf8b21d26f8b9e3854d0301ef98a59e884563a50b429b",
+      "description": "Pooltogether Supply 27 USDC.e"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xe9c4f5d2bd9233a471c6ca756590f3c6cbaa85d0d65ca61d30f5a1401449486c",
+      "description": "Pooltogether Supply 27 USDC.e"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x5a5b7d49d58d4331eef12d4342d3a61e9f8a7867b7f090b64c54e7294b229fc0",
+      "description": "Pooltogether Supply 81 USDC.e"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x1053035afab6ce325d613b2290aca100d8e5835240c12e58f2990c53c64c09fb",
+      "description": "Pooltogether Supply 28 USDC.e"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x7916f04647d13ed295f8e97663e96daef33aaf8391f4f22fda0cc5a9e8e25ce6",
+      "description": "Add 1003.25 USDC.e liquidity Layerzero through Optimism Mainnet"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Wallet Transactions",
+      "number": "157",
+      "url": "https://optimistic.etherscan.io/address/0x0ca34B96F8c33fF40dCB463a6e976697B6ff7010"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x8deca4b11ad408c50f746627fd74d8ce41687aff75cd1f6ba03262a96e266973",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,76 @@
+{
+  "bio": "A collection of videos to teach CIS women about blockchain and Optimism",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "BlockchainWoman",
+  "websiteUrl": "https://www.youtube.com/@BlockchainWoman",
+  "applicant": {
+    "address": {
+      "address": "0x692AE9168FaB83D8CeC6EeC49e6a336eA8CCA51B",
+      "resolvedName": {
+        "address": "0x692AE9168FaB83D8CeC6EeC49e6a336eA8CCA51B",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x692AE9168FaB83D8CeC6EeC49e6a336eA8CCA51B"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x692AE9168FaB83D8CeC6EeC49e6a336eA8CCA51B.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xddda4090d5b340862cc9cb765a8b1366ec60bd0d9d93440fe4eba71567b500a5"
+  },
+  "impactDescription": "Through my channel, there are women who have gained knowledge about blockchain and the Optimism project ,they were able to take the first step to build and participate on Optimism, They also learned about governance and how to participate on it.\nThe series of videos on my channel brought many views and good feedback",
+  "contributionDescription": "Many women do not have sufficient experience about blockchain technology, so I decided, through my YouTube channel, to provide educational content in order to create a generation of women who have the ability to participate in blockchain projects and have the experience to use the Optimism project and also participate in governance.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@BlockchainWoman",
+      "description": "A collection of videos to teach CIS women about blockchain and Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/hiDAQvuxCOc",
+      "description": "A video about Blockchain"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/edsyNY6XPto",
+      "description": "A video about Ethereum"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/HzceWqU4pnk",
+      "description": "A video about Optimism"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://youtu.be/S5KN6JZC1uU",
+      "description": "A video about Web3"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://youtu.be/75Q3RG7twPA",
+      "description": "A video about dApps and Smart contracts"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/PbSSvtOnhEs",
+      "description": "A video about Governance in Blockchain"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views and watch time",
+      "number": "5500",
+      "url": "https://docs.google.com/document/d/1G6bQLQwXxuTtqtpbvKImMYnkrVUzKulcV8AruYMmmGA/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xbc77e29635539c48958bbb674f687a19531eacf13baf2015f8962d6e67fd96a2",
+  "prelimResult": "Remove",
+  "reportReason": "impact unclear"
+}

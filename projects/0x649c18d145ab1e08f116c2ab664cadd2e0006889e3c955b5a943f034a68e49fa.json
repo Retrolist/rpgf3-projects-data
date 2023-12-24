@@ -1,0 +1,83 @@
+{
+  "bio": "Solidity is a statically-typed curly-braces programming language for EVM chains",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Solidity",
+  "websiteUrl": "https://soliditylang.org/",
+  "applicant": {
+    "address": {
+      "address": "0x151EF20A3ADe1CC1161391594f8a32461389a54e",
+      "resolvedName": {
+        "address": "0x151EF20A3ADe1CC1161391594f8a32461389a54e",
+        "name": "soliditylang.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x151EF20A3ADe1CC1161391594f8a32461389a54e"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x151EF20A3ADe1CC1161391594f8a32461389a54e.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x151EF20A3ADe1CC1161391594f8a32461389a54e.png",
+    "id": "OptimistProfile|0xa179dc0248452d64e13ea941b1bd230a6c4c90e61db6a361287eadf8e9154b8b"
+  },
+  "impactDescription": "There are hundreds of thousands of contracts deployed on Optimism which enables people to make use their favorite dApps with much lower gas costs than on mainnet. Almost all of these contract are written in Solidity. You can counter check this by noting that (at the time of writing) only 205 verified contracts on Optimism are written in Vyper (https://optimistic.etherscan.io/contractsVerified?filter=vyper).\n\nSolidity makes coding smart contracts easy and enables a low entry barrier for people to write applications on Optimism and Ethereum (and other EVM compatible chains). Solidity is completely open-source.",
+  "contributionDescription": "Solidity is both used for the Optimism smart contracts on Ethereum mainnet as well as smart contracts running on Optimism itself.\n\nSolidity is currently the most used programming language on Ethereum and on Optimism.\n\nThe Solidity team maintains the Solidity language as well as the solc Solidity compiler.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum/solidity",
+      "description": "Solidity GitHub repo"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://soliditylang.org/",
+      "description": "Solidity website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# EOA deployed contracts until Oct 2023",
+      "number": "53660",
+      "url": "https://dune.com/optimismfnd/Optimism"
+    },
+    {
+      "description": "# verified Solidity contracts (Sourcify)",
+      "number": "3000",
+      "url": "https://repo.sourcify.dev/stats.json"
+    },
+    {
+      "description": "latest verified contracts on EtherScan",
+      "number": "500",
+      "url": "https://optimistic.etherscan.io/contractsVerified?filter=solc"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 40342,
+      "description": "Solidity RetroPGF1 Allocation"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 217383,
+      "description": "Solidity RetroPGF2 Allocation"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "The Solidity core team is sponsored by the Ethereum Foundation."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x649c18d145ab1e08f116c2ab664cadd2e0006889e3c955b5a943f034a68e49fa",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 110,
+  "primaryCategory": "OP Stack",
+  "recategorization": "Ethereum Development & Maintanance"
+}

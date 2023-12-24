@@ -1,0 +1,57 @@
+{
+  "bio": "I run Nft projects with various criteria and networks",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Waskita05 ",
+  "websiteUrl": "https://opensea.io/Waskita05",
+  "applicant": {
+    "address": {
+      "address": "0x7E89CAbc9aAa7b25f5F3e9bB48753367654e9b5F",
+      "resolvedName": {
+        "address": "0x7E89CAbc9aAa7b25f5F3e9bB48753367654e9b5F",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x7E89CAbc9aAa7b25f5F3e9bB48753367654e9b5F"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7E89CAbc9aAa7b25f5F3e9bB48753367654e9b5F.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7E89CAbc9aAa7b25f5F3e9bB48753367654e9b5F.png",
+    "id": "OptimistProfile|0x879bf37a934eaa51aaa70b3d1bf114f29619b09500d231c53bc79841298a3679"
+  },
+  "impactDescription": "Selling Nft on various Nft market place platforms including Opensea and especially those linked to the Optimism network and Nft on Optimism such as on Mirror. I also sold Nft several times on Opensea with the Optimism network, letting some and most people know. about what the Optimism network is.",
+  "contributionDescription": "carry out several transactions via hop.protocol on the bridge between networks and minted NFTs on mirrors with the Optimism network and also sold Nfts on Opensea with the Optimism network with several Nfts.Those are some of the things I do to contribute to Optimism",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x7E89CAbc9aAa7b25f5F3e9bB48753367654e9b5F",
+      "description": "some transactions I made on the Optimism network"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/Waskita05",
+      "description": "Nft that is on my profile"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Opensea Nft",
+      "number": "407",
+      "url": "https://opensea.io/Waskita05"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x53a731a48dd62be463d4a902acf952c032d0b7db4ddc0b6de2635633437fec77",
+  "prelimResult": "Remove",
+  "reportReason": "User transactions are out of scope, claim that he \"runs NFT projects\" can't be verified with the links provided"
+}

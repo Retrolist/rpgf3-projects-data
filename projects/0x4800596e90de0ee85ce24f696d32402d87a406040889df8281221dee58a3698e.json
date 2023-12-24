@@ -1,0 +1,60 @@
+{
+  "bio": "Bridging digital communities",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "geleeroyale",
+  "websiteUrl": "https://giveth.io/project/bridging-digital-communities",
+  "applicant": {
+    "address": {
+      "address": "0x701d0ECB3BA780De7b2b36789aEC4493A426010a",
+      "resolvedName": {
+        "address": "0x701d0ECB3BA780De7b2b36789aEC4493A426010a",
+        "name": "geleeroyale.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x701d0ECB3BA780De7b2b36789aEC4493A426010a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x47d17a44e38d1e71b40bf4eb9cac6534789ffd60d6252e706873c13ceb422b61"
+  },
+  "impactDescription": "The ethos of open source development lends itself to widespread mingling instead of siloing oneself and their development. But the chat protocols we use are organized differently and its not in their original functionality to enable rooms that are shared between communities. This is invaluable for DAO to DAO communication.\n\nAnother aspect is catering to the community on muliple levels by bridging a topic room in the same community between different protocols and therefore be able to:\n- transition/migrate to a new chat protocol\n- have backups in case of server hacks, message limits (Slack) or deplatforming\n- cater to different user needs (one likes discord for its options, another Element chat for being open source)\n- most people are lazy to adopt new applications",
+  "contributionDescription": "\"bridge-bot\" is a service I offer for free (maintain and run software). It is able to seamlessly \"bridge\" chat rooms between different protocols and communities. I.e. connect a Discord room from Aragon to a Consensys telegram channel.\n\n\"bridge-bot\" is being used by many different communities in the larger Ethereum space. Some of them also operate on the Optimism network. Furthermore the Optimism community itself would profit greatly from usage of my service. If this gets accepted I would like to RetroPGF fund the original GitHub project I am using - if they accept it, as well as Giveth for providing a great space for public visibility for the longest time now.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://giveth.io/project/bridging-digital-communities",
+      "description": "A campaign on Giveth for the same project. Serves as a wesite."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/42wim/matterbridge",
+      "description": "The original project (I am a very minor contributor)."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "A list of communities served",
+      "number": "31",
+      "url": "https://giveth.io/project/bridging-digital-communities"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2800,
+      "description": "Giveth donation campaign"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4800596e90de0ee85ce24f696d32402d87a406040889df8281221dee58a3698e",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 26,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

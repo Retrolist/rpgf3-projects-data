@@ -1,0 +1,55 @@
+{
+  "bio": "Believe in Blockchain technology since 2011, Got a chance to meet OP team@DevCon",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Organix",
+  "websiteUrl": "https://www.villageofthousands.io/",
+  "applicant": {
+    "address": {
+      "address": "0x7d3335fE8189F655F466603327d00D6ABBF6C441",
+      "resolvedName": {
+        "address": "0x7d3335fE8189F655F466603327d00D6ABBF6C441",
+        "name": "organix.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x7d3335fE8189F655F466603327d00D6ABBF6C441"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7d3335fE8189F655F466603327d00D6ABBF6C441.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x19082787a427d9c93b800d79f75e34f41783917aa6625c03c760f32197a99dc1"
+  },
+  "impactDescription": "I had the chance to Meet the OP team and DevCon Bogota last year and it was an amazing experience, thanks to that conversation I started exploring what problems/solutions can I solve and decided to create VillageOfThousands.io. \nI have also lobbied and inform fellow community from various NFT projects like Scapes, DystoPunks, Yaypegs and others to explore OP and participate in the Governance to further strengthen their projects and possible transition/exploration of OP L@. ",
+  "contributionDescription": "I have been a great community member and helped bootstrap many projects in the Ecosystem by minting and participating in exploring L2s for a more seamless and secure network that can help propelled this technology with adoption, creativity , and passion with the core values of Ethereum always at the forefront.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x7d3335fe8189f655f466603327d00d6abbf6c441",
+      "description": "transactions in the network"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Transactions",
+      "number": "29",
+      "url": "https://optimistic.etherscan.io/address/0x7d3335fe8189f655f466603327d00d6abbf6c441"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5000,
+      "description": "VillageOfthousands Ecosystem will Launch at OP and this grant can really help"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd5381d52702ee32bccda189054330f8078a187493dbb9ea72810b1bb01b36e96",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

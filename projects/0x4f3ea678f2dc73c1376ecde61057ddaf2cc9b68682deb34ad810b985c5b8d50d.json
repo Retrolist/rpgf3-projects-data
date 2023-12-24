@@ -1,0 +1,63 @@
+{
+  "bio": "A YouTube channel that aims to spread knowledge about blockchain.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Cryptola",
+  "websiteUrl": "https://www.youtube.com/@Cryptola",
+  "applicant": {
+    "address": {
+      "address": "0x52EA7097F080DfB6e6C3F0BbCa57a89d0A2487d8",
+      "resolvedName": {
+        "address": "0x52EA7097F080DfB6e6C3F0BbCa57a89d0A2487d8",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x52EA7097F080DfB6e6C3F0BbCa57a89d0A2487d8"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x52EA7097F080DfB6e6C3F0BbCa57a89d0A2487d8.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x0a6d09c5f2559f553b6725ac35bfa7545eb1a396973148a98f5d766c4be0000e"
+  },
+  "impactDescription": "The users who watched the video series learned about the Optimism project, its features, and how it solves the problems faced by the Ethereum network, and now they has the knowledge that qualifies them to participate in the Optimism ecosystem, now they can begin their journey building on Optimism and participating in governance.",
+  "contributionDescription": "In an effort to spread knowledge about blockchain technology and Web 3, I have made several videos and webinars about:\n- Blockchain technology\n- Web 3\n- Smart contracts and decentralized applications\n- Etheurem\n- Optimism\n- Base\n- PGN\nI tried to make the videos simple so that everyone can understand them",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=AWELBqgb1j4",
+      "description": "Video about Optimism and Ethereum"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=fXClW4Fy7w0",
+      "description": "The problems that Optimism solves"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=3iXb7QSIOvo",
+      "description": "About PGN network"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=f0dyYPJvoHI",
+      "description": "About Base network"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "YouTube Views",
+      "number": "2600",
+      "url": "https://docs.google.com/document/d/1W2l_nEZTJABUAcpUc_viAwYWBs6-vzbrGz0mNXLDSto/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4f3ea678f2dc73c1376ecde61057ddaf2cc9b68682deb34ad810b985c5b8d50d",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 24,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

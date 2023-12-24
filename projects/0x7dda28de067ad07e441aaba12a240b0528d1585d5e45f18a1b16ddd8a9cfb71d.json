@@ -1,0 +1,52 @@
+{
+  "bio": "Optimistica is a challenging 2D quest-adventure game!",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Optimistica",
+  "websiteUrl": "https://optimistica.io/",
+  "applicant": {
+    "address": {
+      "address": "0x0B31b7EF4Cd033d24A03cbBE4E2d695123224231",
+      "resolvedName": {
+        "address": "0x0B31b7EF4Cd033d24A03cbBE4E2d695123224231",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0B31b7EF4Cd033d24A03cbBE4E2d695123224231"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B31b7EF4Cd033d24A03cbBE4E2d695123224231.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0B31b7EF4Cd033d24A03cbBE4E2d695123224231.png",
+    "id": "OptimistProfile|0x771f0e1e49ed56d1fb240f1bcae0b9e9e2e01311f9bda96929bb0c5d53ee009a"
+  },
+  "impactDescription": "The game comprises a vast array of puzzles that help players enhance their logical and creative abilities. The intricate plot stimulates the players to embark on a long and fascinating journey through the game. As a reward for each completed quest, players receive incentives, which serve as a motivating factor to take on more quests. Additionally, a collection of 4 ranks of NFTs has been created to unlock access to more difficult quests and greater rewards.\n\nWe are currently attracting new players and users to the Optimism ecosystem and will continue to attract.",
+  "contributionDescription": "Optimistica is a 2D adventure game with a unique atmosphere and an Optimism style, belonging to the \"quest to earn\" genre. The game is designed to bring unforgettable experiences to players in the Optimism ecosystem, featuring colorful 2D art styles and unique character designs. The game's storyline revolves around issues of optimism and self-improvement, providing players with an immersive and fulfilling experience. \n\nOptimistica not only aims to entertain players, but also to immerse them in a mysterious atmosphere through the game's special music, graphics, and story. Join the game's main character, Karl Optimist, on an exciting journey! \n\nPlayers who successfully complete the first quest will receive a limited edition NFT (200NFT).",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistica.io/",
+      "description": "Optimistica Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/OptimisticaGame",
+      "description": "Twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "NFTs and quests",
+      "number": "1",
+      "url": "https://optimistica.io/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7dda28de067ad07e441aaba12a240b0528d1585d5e45f18a1b16ddd8a9cfb71d",
+  "prelimResult": "Remove",
+  "reportReason": "Links broken"
+}

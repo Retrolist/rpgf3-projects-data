@@ -1,0 +1,47 @@
+{
+  "bio": "I'm a crypto enthusiasts ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Ayanwale Ajoke",
+  "websiteUrl": "htpps://twitter.com/AishaAyanwale ",
+  "applicant": {
+    "address": {
+      "address": "0x16B97228cE10A26bc97fe345f258C76B1B5d9617",
+      "resolvedName": {
+        "address": "0x16B97228cE10A26bc97fe345f258C76B1B5d9617",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x16B97228cE10A26bc97fe345f258C76B1B5d9617"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x16B97228cE10A26bc97fe345f258C76B1B5d9617.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x95ae59f93f7de1c7e552c791408703b4d4f96376cf58c6582c058e28ebb190e6"
+  },
+  "impactDescription": "Making use of Optimisim.io \nCommunity participation, \nGitcoin grants funding\nEvm contributors \nUsing in built Dapps\nParticipating in community awareness\nCommunity participation, \nGitcoin grants funding\nEvm contributors \nUsing in built Dapps\nParticipating in community awareness.",
+  "contributionDescription": "Community participation, \nGitcoin grants funding\nEvm contributors \nUsing in built Dapps\nParticipating in community awareness\nCommunity participation, \nGitcoin grants funding\nEvm contributors \nUsing in built Dapps\nParticipating in community awareness.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimisim.io",
+      "description": "Optimisim.io"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Twitter",
+      "number": "420",
+      "url": "https://twitter.com/AishaAyanwale"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x08dac7ff1e0050496fbc81142d4eed28d707ea3120d8974e56405493e52a1b4f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

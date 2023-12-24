@@ -1,0 +1,59 @@
+{
+  "bio": "cryo is the easiest and fastest way to extract bulk datasets from Optimism nodes",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "cryo",
+  "websiteUrl": "https://github.com/paradigmxyz/cryo",
+  "applicant": {
+    "address": {
+      "address": "0x40C0BB75D745141727211338eBb4f26202C00Ef2",
+      "resolvedName": {
+        "address": "0x40C0BB75D745141727211338eBb4f26202C00Ef2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x40C0BB75D745141727211338eBb4f26202C00Ef2"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x40C0BB75D745141727211338eBb4f26202C00Ef2.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x40C0BB75D745141727211338eBb4f26202C00Ef2.png",
+    "id": "OptimistProfile|0x32baae0021fdc0d2068a481bf7ef60252f05f1dffa8decd37a4f6097fba373a9"
+  },
+  "impactDescription": "Until recently, most people believed that the only way to analyze historical crypto data was by using centralized, closed-source, proprietary infra like Dune or BigQuery. However, cryo makes it easy for anyone to run a complete open-source crypto analysis pipeline on their own laptop. This presents a huge cost savings and shifts the process back toward the crypto principles of decentralization and open-source.\n\nEven though cryo is still in beta, many teams have integrated it into their backend infra. This includes data platforms (CoinMetrics), security firms (shield3), news outlets (TheBlock), MEV teams (private), and on-chain protocols (Zora).\n\ncryo also powers the Paradigm Data Portal, which is the only place to download complete open-source historical crypto datasets without sign-up.",
+  "contributionDescription": "We recently released a data tool called cryo. cryo is the easiest and fastest way to extract datasets from Optimism nodes into standard formats like parquet or csv.\n\n- cryo can extract more than 30 types of datasets from any Optimism-based node, including contracts, erc20 transfers, state diffs, and address appearances\n\n- cryo can be used from the command line, from rust, or from python. In each case, cryo is the fastest tool for bulk data extraction thanks to use of rust and modern data engineering best practices\n\n- cryo makes it feasible for individuals to run an entire crypto analysis pipeline on their laptop instead of depending on 3rd party services\n\n- cryo is 100% free and open source under an unrestricted Apache/MIT license. You can do pretty much anything you want with it",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/paradigmxyz/cryo",
+      "description": "cryo codebase"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/notnotstorm/status/1677020205502074880",
+      "description": "cryo launch thread"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/notnotstorm/status/1691465658561888257",
+      "description": "cryo 0.2.0 release thread"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of projects using cryo",
+      "number": "17",
+      "url": "https://t.me/paradigm_data"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xfa8c195e19637a2d91f11c44d5b5c7c6397a06783864c1a6769285713f325708",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 41,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack tooling"
+}

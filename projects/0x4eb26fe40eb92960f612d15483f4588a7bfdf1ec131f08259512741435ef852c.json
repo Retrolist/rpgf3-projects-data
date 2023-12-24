@@ -1,0 +1,57 @@
+{
+  "bio": "A professional stock and crypto market maker and arbitrageur with 16+ yrs exp. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Derbygold.eth",
+  "websiteUrl": "https://twitter.com/derbygold82",
+  "applicant": {
+    "address": {
+      "address": "0x110B8b6717C4Da32d86A8D3ef78964d44f9D61F0",
+      "resolvedName": {
+        "address": "0x110B8b6717C4Da32d86A8D3ef78964d44f9D61F0",
+        "name": "eurom.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x110B8b6717C4Da32d86A8D3ef78964d44f9D61F0"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x110B8b6717C4Da32d86A8D3ef78964d44f9D61F0.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x110B8b6717C4Da32d86A8D3ef78964d44f9D61F0.jpeg",
+    "id": "OptimistProfile|0x95c16a02cd1fa8d00055d4f60c6d54fd1a2ec62dc8d5c9dccf4f58f0904282fe"
+  },
+  "impactDescription": "1.) We bridged 118 high networth individuals from stock markets to Optimism mainnet. Proof of bridging transaction link is attached for reference.\n2.) These traders & investors are still active even in this bear market which is evident from their unique wallet activities.\n3.) We created a mini ecosystem for Optimism here at South Africa.",
+  "contributionDescription": "Onboarded (Bridged) 118 High Networth Individuals (HNI's) from stock markets on to Optimism network for the first time live in South Africa (Proof of Bridging: https://optimistic.etherscan.io/batches?ps=100&p=8544). \n\nWe conducted live workshop for bridging to OP, wherein out of 186 users, 118 onboarded directly to Optimism since all were asked beforehand to carry laptop or mobile wallet. This brought 118 new high net worth quality users to Optimism. Pictures of the meetup participants as well the bridging transaction link attached for reference as proof. \n\nGrants expected :- usd 3604. (Detailed explanation in attached pdf file).\n\nAttaching: 1.) Detailed summary of the Meetup 2.) Images of Meetup. 3.) Transaction link as proof of bridging.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/batches?ps=100&p=8544",
+      "description": "Proof of bridging txns to OP Mainnet by our 118 HNI users during our meetup"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/file/d/1_TgVfjUJYcEj6_awum2vpOWm-PVTjowM/view?usp=share_link",
+      "description": "Detail of Optimism Education Meetup"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "118 bridge transactions",
+      "number": "118",
+      "url": "https://optimistic.etherscan.io/batches?ps=100&p=8544"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "We received nothing... We even enquired in OP discord but no response."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4eb26fe40eb92960f612d15483f4588a7bfdf1ec131f08259512741435ef852c",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,81 @@
+{
+  "bio": "A go-to mobile app for everything onchain",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Surreal",
+  "websiteUrl": "https://surr.app",
+  "applicant": {
+    "address": {
+      "address": "0xA582360DA4ae1fBb912C975fcce1A0C0e2af91e8",
+      "resolvedName": {
+        "address": "0xA582360DA4ae1fBb912C975fcce1A0C0e2af91e8",
+        "name": "artiom.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xA582360DA4ae1fBb912C975fcce1A0C0e2af91e8"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA582360DA4ae1fBb912C975fcce1A0C0e2af91e8.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA582360DA4ae1fBb912C975fcce1A0C0e2af91e8.png",
+    "id": "OptimistProfile|0x8d838c7954fc31392f11390c0304ece581511cf69f0bb3fd562fde1fd5bfaae6"
+  },
+  "impactDescription": "Maximizing user numbers on Optimism:\n- With the success of Surreal's App Store launch (1k users in a month, 12k waitlist, $22k Membership pass sales), we have a strong user base ready to engage.\n- Offering daily free mints on Optimism promotes consistent user activity.\n- Native minting in our app improves UX, attracting a wider audience and showcasing Optimism's benefits.\n\nFostering user-centric tech development:\n- Our product bridges the gap for retail users, offering a user-friendly L2 mobile experience.\n- Collaborations with retail brands spotlight Optimism's potential.\n- An Optimism-focused approach can onboard users directly into the Optimism ecosystem, prioritizing its growth.",
+  "contributionDescription": "Surreal addresses key pain points for both regular crypto users and the wider retail audience by offering a seamless L2 mobile experience. Our proven track record, with 1k users in just a month and strong engagement metrics, shows our ability to attract and retain users. By introducing in-app minting and free daily mints on Optimism, we're poised to not only enhance user engagement but also introduce many to the Optimism ecosystem before they explore Ethereum. Our emphasis on user-friendly crypto tech, collaborations, and a clear \"L2-first\" approach (we support major OP Stack: Base and Zora chains) uniquely positions Surreal to significantly boost the adoption and expansion of the Optimism platform.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://surr.app",
+      "description": "Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/surrealapp",
+      "description": "Twitter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://apps.apple.com/us/app/surreal-app/id6443731990",
+      "description": "App Store"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/SurrealApp/collected",
+      "description": "surr.eth"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Mints",
+      "number": "327",
+      "url": "https://zora.co/collect/base:0xfefa4bd31d0d6e7d450989e86c99481fd568cd15/1"
+    },
+    {
+      "description": "Followers",
+      "number": "4663",
+      "url": "https://twitter.com/surrealapp"
+    },
+    {
+      "description": "Downloads",
+      "number": "2000",
+      "url": "https://apps.apple.com/us/app/surreal-app/id6443731990"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "We've received no grants from Optimism or other organizations"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb5c0a289d0c30d5faeec110c1c80231e2cf975e85f9ebcf5ccb493e97fb2bc3c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 28,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

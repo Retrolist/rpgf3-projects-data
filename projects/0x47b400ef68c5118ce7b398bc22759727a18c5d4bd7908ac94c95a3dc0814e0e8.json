@@ -1,0 +1,52 @@
+{
+  "bio": "Active Camel Ventures member on Optimism",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "howabtg",
+  "websiteUrl": "https://www.sound.xyz/user/howabtg.eth",
+  "applicant": {
+    "address": {
+      "address": "0x4662B891269e2196E67CcA73E4b7812dd91C7ae3",
+      "resolvedName": {
+        "address": "0x4662B891269e2196E67CcA73E4b7812dd91C7ae3",
+        "name": "howabtg.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x4662B891269e2196E67CcA73E4b7812dd91C7ae3"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4662B891269e2196E67CcA73E4b7812dd91C7ae3.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3cdefb03fcddfca7e521ffc56c233bb3f2787a0621173be392ae2670d965bb15"
+  },
+  "impactDescription": "Through informative posts and engaging discussions, I successfully motivated individuals within the community to delve into the world of music NFTs.\nI am a member of Camel Venture, currently the top 1 referral of Sound, and have devoted and accompanied Sound and artists for the past 4 months. At the same time, I have backed 40 artists with 106 collectible NFTs, I am also one of the earliest backers and top collectors of several artists on Sound such as Sadye, Gray and Charlie Crown. And finally, of course, I will continue to support and contribute to Optimism in the future",
+  "contributionDescription": "I support artists by minted their music NFTs on sound.xyz and shared my journey with the community from June. This transparency and authenticity inspired others to follow suit and mint their music as NFTs. As a result, more people connected to ask about Sound v\u00e0 music NFTs, more artists, and musicians began exploring the NFTs world, diversifying their revenue streams and gaining exposure in a rapidly evolving digital art and music landscape.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/user/howabtg.eth",
+      "description": "Support artists and projects transferred to onchain"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Post about music NFT",
+      "number": "500",
+      "url": "https://twitter.com/howabtg/status/1689992599703302144"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 5,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x47b400ef68c5118ce7b398bc22759727a18c5d4bd7908ac94c95a3dc0814e0e8",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

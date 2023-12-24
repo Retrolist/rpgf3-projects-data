@@ -1,0 +1,52 @@
+{
+  "bio": "I'm a UX Designer, a Frontend Dev, and a crypto influencer",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Daniel Mason Ovie",
+  "websiteUrl": "https://twitter.com/0xdmo",
+  "applicant": {
+    "address": {
+      "address": "0x209Ba62148AA31e3F397c3B4539Fc292D22FB68e",
+      "resolvedName": {
+        "address": "0x209Ba62148AA31e3F397c3B4539Fc292D22FB68e",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x209Ba62148AA31e3F397c3B4539Fc292D22FB68e"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x209Ba62148AA31e3F397c3B4539Fc292D22FB68e.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x209Ba62148AA31e3F397c3B4539Fc292D22FB68e.png",
+    "id": "OptimistProfile|0xd9dcc1b10e148c26fb5450babf3e05c26cfa2aaa475fe6564c8e8797cffbf01d"
+  },
+  "impactDescription": "Eskrow offers a secure solution for crypto token swaps, catering to a diverse user base, including those on the Optimism blockchain. We address trust issues in asset exchanges, enabling secure and trust-free transactions. Users no longer need to rely on trust in their counterparts. Eskrow ensures both parties fulfill their commitments, eliminating the risk of one party failing to deliver. Our universal compatibility guarantees a seamless and secure exchange experience today.",
+  "contributionDescription": "I'm actively contributing by developing a solution to address trust concerns in crypto swapping on the Ethereum (EMV) Blockchain, encompassing platforms like Optimism. Our tool ensures secure and reliable swaps, eliminating the need for trust in counterparties and promoting a trustless environment for all users.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://eskrow.la/",
+      "description": "That is the Eskrow website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "current monthly users",
+      "number": "10000",
+      "url": "https://eskrow.la/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I haven't received any revenue or grants for my contributions"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x06c719c3e0ac2c6824c527e3dbf359bc05b37ab75d2bb6cb9c618835ec5e5e4b",
+  "prelimResult": "Remove",
+  "reportReason": "Not sure if in scope"
+}

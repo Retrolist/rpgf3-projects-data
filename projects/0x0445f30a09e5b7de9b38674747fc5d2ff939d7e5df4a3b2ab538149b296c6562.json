@@ -1,0 +1,68 @@
+{
+  "bio": "I am the creator and collector of Sound.xyz music NFTs on Optimims",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Nhat Pham Cong",
+  "websiteUrl": "https://www.sound.xyz/user/0x6f82780153c8b32aed7766556969000b7bd16d2c",
+  "applicant": {
+    "address": {
+      "address": "0x6f82780153C8b32Aed7766556969000B7bD16D2c",
+      "resolvedName": {
+        "address": "0x6f82780153C8b32Aed7766556969000B7bD16D2c",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6f82780153C8b32Aed7766556969000B7bD16D2c"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6f82780153C8b32Aed7766556969000B7bD16D2c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6f82780153C8b32Aed7766556969000B7bD16D2c.png",
+    "id": "OptimistProfile|0x86a235ae77a542fa860da925e4e6ebd859e5b12773e0f8e5466b2301faee62b1"
+  },
+  "impactDescription": "I am a user and purchaser of NFT music from artists on Sound.XYZ (95% of my NFT collection is on Optimims)\nFor more than 4 consecutive months, I have minted 239 songs on Sound.xyz from more than 12 different artists with the hope that the above budget will be a motivation to contribute to the development of a diverse ecosystem on Optimims.\nWe all understand that during the downtrend season, artists releasing songs on Blockchain are very difficult to sell.\nBut we support each other to get through this difficult time\nI am also a member of Camel venture, the leading fund in Viet Nam introducing NFT music of Sound.xyz to users.\nok,let's get build together\nThanks team !\n",
+  "contributionDescription": "I am a user and purchaser of NFT music from artists on Sound.XYZ (95% of my NFT collection is on Optimims)\nFor more than 4 consecutive months, I have minted 239 songs on Sound.xyz from more than 12 different artists with the hope that the above budget will be a motivation to contribute to the development of a diverse ecosystem on Optimims.\nWe all understand that during the downtrend season, artists releasing songs on Blockchain are very difficult to sell.\nBut we support each other to get through this difficult time\nI am also a member of Camel venture, the leading fund in Vietnam introducing NFT music of Sound.xyz to users.\nok,let's get build together\nThanks team !\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.sound.xyz/user/0x6f82780153c8b32aed7766556969000b7bd16d2c",
+      "description": "My profile on Sound.Xyz"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Camelventure",
+      "description": "Camel Venture"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of NFTs collected on Sound.xyz",
+      "number": "239",
+      "url": "https://www.sound.xyz/user/0x6f82780153c8b32aed7766556969000b7bd16d2c"
+    },
+    {
+      "description": "Number of artists supported on Sound.xyz",
+      "number": "12",
+      "url": "https://www.sound.xyz/user/0x6f82780153c8b32aed7766556969000b7bd16d2c"
+    },
+    {
+      "description": "consecutive months on Sound.xyz",
+      "number": "4",
+      "url": "https://www.sound.xyz/user/0x6f82780153c8b32aed7766556969000b7bd16d2c"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 800,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0445f30a09e5b7de9b38674747fc5d2ff939d7e5df4a3b2ab538149b296c6562",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

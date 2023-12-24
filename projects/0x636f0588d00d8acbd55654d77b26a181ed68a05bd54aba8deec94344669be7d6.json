@@ -1,0 +1,69 @@
+{
+  "bio": "The first decentralized one-stop wallet ecosystem & Web3 browser",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Infinity Wallet",
+  "websiteUrl": "https://infinitywallet.io/",
+  "applicant": {
+    "address": {
+      "address": "0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671",
+      "resolvedName": {
+        "address": "0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671.png",
+    "id": "OptimistProfile|0x407512d150d9f68e683172b6dc7a4ce955b99645419306fd21a51e5a5f21f2bb"
+  },
+  "impactDescription": "We have contributed to Optimism in a wide range of ways, such as:\n\n- Increased awareness and adoption of Optimism to hundreds of thousands of Infinity Wallet users;\n\n- Made onboarding to Optimism easier than ever before, direct from multiple fiat currencies or across chains, in a complete all-in-one platform;\n\n- Supported the Optimism DApp/developer ecosystem with driving awareness and adoption;\n\n- Enabled a much more user friendly experience on Optimism for interacting with Optimism and Optimism projects;\n\n- Enabled new utility and easy access to Optimism via a range of unique Infinity Wallet features/services;\n\n- Supported Optimism in the first Web3 browser, removing the need to use browser extensions and providing a more natural and enhanced experience when accessing Web3 on Optimism;",
+  "contributionDescription": "Infinity Wallet was one of the first wallets to support Optimism and the Optimism DApp/Developer ecosystem since it launched, and we have continued to support and expand Optimism across the Infinity Wallet & Web3 Browser over the last few years without any grant or support.\n\nAs a platform we have enabled users and developers to more easily onboard, access and interact with the Optimism stack and ecosystem, solving many of today's issues while delivering massive enhancements in UX and UI. Providing users and developers with access to a wide range of unique and innovative features and services, that we have developed out over the years as we continue to strive to enhance the wallet, DeFi, Web3 and overall crypto experience to enable seamless mass adoption by billions worldwide.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://infinitywallet.io/docs/Infinity%20Wallet%20Deck.pdf",
+      "description": "Information Deck"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://infinitywallet.io/download",
+      "description": "Windows, Linux and macOS Application"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://infinitywallet.io/asset/optimism",
+      "description": "Optimism Website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Supported unique users (12 months)",
+      "number": "224500",
+      "url": "https://infinitywallet.io/docs/Infinity%20Wallet%20Deck.pdf"
+    },
+    {
+      "description": "MAU",
+      "number": "48000",
+      "url": "https://infinitywallet.io/docs/Infinity%20Wallet%20Deck.pdf"
+    },
+    {
+      "description": "Twitter Socials",
+      "number": "51000",
+      "url": "https://twitter.com/InfinityWallet"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x636f0588d00d8acbd55654d77b26a181ed68a05bd54aba8deec94344669be7d6",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 23,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Wallets"
+}

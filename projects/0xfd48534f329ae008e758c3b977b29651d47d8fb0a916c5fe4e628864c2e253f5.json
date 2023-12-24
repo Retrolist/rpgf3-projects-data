@@ -1,0 +1,68 @@
+{
+  "bio": "Just an ordianry Mah who seeks for free Airdrop :))",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "hilmialhafizh89",
+  "websiteUrl": "https://twitter.com/Hilmi_Al_Hafizh",
+  "applicant": {
+    "address": {
+      "address": "0x2Db4625A9eCe077CB432D1A84b85b03c15721BE6",
+      "resolvedName": {
+        "address": "0x2Db4625A9eCe077CB432D1A84b85b03c15721BE6",
+        "name": "airdropseeker.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2Db4625A9eCe077CB432D1A84b85b03c15721BE6"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Db4625A9eCe077CB432D1A84b85b03c15721BE6.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2Db4625A9eCe077CB432D1A84b85b03c15721BE6.png",
+    "id": "OptimistProfile|0x0db1c077ece2062d49648ee286dd2213571516a5c058c8e52731230e99b09a92"
+  },
+  "impactDescription": "1) active onchain transaction\n2) using optimism in daily or weekly basis\n3) have been with optimism since the begining\n4) i got OP airdrop, which means that i support optimism since the beginning\n5) i actively joined many Galxe, collect many optimism OAT and badge\n6) participated in some optimism network Gitcoin grants\n7) have done delegate to participate in optimism governance, and done some vote also",
+  "contributionDescription": "1) active onchain transaction\n2) using optimism in daily or weekly basis\n3) have been with optimism since the begining\n4) i got OP airdrop, which means that i support optimism since the beginning\n5) i actively joined many Galxe, collect many optimism OAT and badge\n6) participated in some optimism network Gitcoin grants\n7) have done delegate to participate in optimism governance, and done some vote also",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0x2db4625a9ece077cb432d1a84b85b03c15721be6",
+      "description": "my wallet address transaction history on Optimism Explorer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://debank.com/profile/0x2db4625a9ece077cb432d1a84b85b03c15721be6",
+      "description": "my wallet address transaction history on DeBank"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ibb.co/qMDQg16",
+      "description": "my galxe profile showing score etc"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ibb.co/2szT00Q",
+      "description": "my profile on opensea showing how many NFT i have collected so far"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "DeBank profile information, Badge, NFTs",
+      "number": "1000",
+      "url": "https://debank.com/profile/0x2db4625a9ece077cb432d1a84b85b03c15721be6"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xfd48534f329ae008e758c3b977b29651d47d8fb0a916c5fe4e628864c2e253f5",
+  "prelimResult": "Remove",
+  "reportReason": "['Airdrop farmer, no value added to Optimism']"
+}

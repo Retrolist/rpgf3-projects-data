@@ -1,0 +1,57 @@
+{
+  "bio": "\"Camel\" community",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "minh_i_guess",
+  "websiteUrl": "https://www.sound.xyz/user/0x47fac95efef39c7ce44e9870cede1894666df166/collection",
+  "applicant": {
+    "address": {
+      "address": "0x47fac95efEF39c7cE44E9870cede1894666dF166",
+      "resolvedName": {
+        "address": "0x47fac95efEF39c7cE44E9870cede1894666dF166",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x47fac95efEF39c7cE44E9870cede1894666dF166"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x47fac95efEF39c7cE44E9870cede1894666dF166.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x47fac95efEF39c7cE44E9870cede1894666dF166.png",
+    "id": "OptimistProfile|0x64f3e1ac9ff03fea04316d3a8f78d67b3092fb9059bdf04000f662d7f8c97351"
+  },
+  "impactDescription": "As a member of the \"Camel\" community (a community that always believes that Music NFT will lead the trend in the future), I have been and will definitely continue to use the Optimism platform to mint musics, to contribute and support all of the potential artists. What I and the \"Camel\" community have done will greatly influence all of the small outside communities and guide their actions, which includes \"only using the Optimism platform to mint musics from the potential artists on Sound.xyz or any other websites or platform\".",
+  "contributionDescription": "I have actively utilized the Optimism platform to mint musics from the website \"Sound.xyz\" - since I am a member of the \"Camel\" community (a large community with the most contributions on Sound), I have minted a lot of musics here, using the Optimism platform (this is my \"Sound.xyz\" account: https://www.sound.xyz/user/0x47fac95efef39c7ce44e9870cede1894666df166/collection, and it's just the beginning).\nMoreover, I always choose to use Optimism as my primary platform for storing my cryptocurrencies (Ethereum) in Metamask wallet and use Optimism as the main bridge for transferring Ethereum between other platforms. The convenience and security that Optimism brings has helped me save time and effort, while minimizing risks and transaction costs.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x47fac95efEF39c7cE44E9870cede1894666dF166",
+      "description": "1st wallet that used to mint musics on Sound.xyz"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x34E893cc57b913314bb6ca70C9ed3356f3306510",
+      "description": "Wallet that used to mint musics from other websites or platforms"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "\"Sound.xyz\" account",
+      "number": "1",
+      "url": "https://www.sound.xyz/user/0x47fac95efef39c7ce44e9870cede1894666df166/collection"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1,
+      "description": "I have used the Optimism platform a lot but haven't recieved any OP or revenue."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7186dac01528d8e2650f696a330e83c35d0a696cd238c65421e2bf58032519bd",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

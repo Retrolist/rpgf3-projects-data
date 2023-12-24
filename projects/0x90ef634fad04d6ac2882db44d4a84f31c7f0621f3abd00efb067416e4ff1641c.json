@@ -1,0 +1,53 @@
+{
+  "bio": "Fast, Low Latency Indexer written for L2s",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Optimistic Indexer",
+  "websiteUrl": "https://github.com/Polynomial-Protocol/optimistic-indexer",
+  "applicant": {
+    "address": {
+      "address": "0x23651C9b3Ba495f5D30867583035faCA4840870F",
+      "resolvedName": {
+        "address": "0x23651C9b3Ba495f5D30867583035faCA4840870F",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x23651C9b3Ba495f5D30867583035faCA4840870F"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x23651C9b3Ba495f5D30867583035faCA4840870F.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x23651C9b3Ba495f5D30867583035faCA4840870F.png",
+    "id": "OptimistProfile|0x0d84eb439fe6fba72b97630eb20aaa5480cbbcc527a80c70dc1422ebd7dc773b"
+  },
+  "impactDescription": "Our open-source indexer facilitates enhanced blockchain application interactions with smart contracts. It provides efficient blockchain data access via APIs, aiding the Collective in innovation. The indexer has handled a sizable user base and events, demonstrating scalability for over 50K+ onchain users. As an open-source solution, it offers a cost-effective alternative to decentralized or in-house indexers. It simplifies transaction data and event access, enabling permissionless development. Developers and new projects, previously reliant on other indexers, benefit significantly. The indexer was employed in Polynomial's Earn Vaults v2, serving over 50K users and indexing 250K+ events, showcasing its utility. For more detailed performance insights, refer to the impact metrics section.",
+  "contributionDescription": "An open-source indexer acts as a bridge, simplifying blockchain data for apps, ensuring efficient data access via APIs. The Optimistic Indexer was previously used for Polynomial's Earn Vaults V2\n\nIndexer extracts and structures blockchain transaction data, pulling events from each mined block's transaction receipts, e.g., NFT transactions. Our indexer enhances this by exporting events to a MongoDB NOSQL database, built with TypeScript robustness, operating in two modes:\n\nPoint-to-Point: Indexes each new block instantly.\nSweeper: Ensures no blocks are missed.\n\nDevelopers can:\nRegister contracts, specify events.\nTrack historical/real-time events, store for querying.\nStream events to a Kafka topic.\n\nEvery blockchain app with smart contracts, benefits from an open-source indexer. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "http://github.com/Polynomial-Protocol/optimistic-indexer",
+      "description": "Github Repository for Optimistic Indexer"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Events Indexed (Earn Vaults Dashboard)",
+      "number": "285361",
+      "url": "https://charts.mongodb.com/charts-project-0-loyaf/public/dashboards/323fec0e-263b-4cb7-a261-f997cbb0dffc#"
+    },
+    {
+      "description": "# of users served (Earn Vaults Dune)",
+      "number": "63799",
+      "url": "https://dune.com/Marcov/polynomial-v2"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x90ef634fad04d6ac2882db44d4a84f31c7f0621f3abd00efb067416e4ff1641c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 44,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

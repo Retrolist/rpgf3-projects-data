@@ -1,0 +1,58 @@
+{
+  "bio": "DAOing  @HydraVentures_ @socialgraphvc @globalcoinrsrch  prev @messaricrypto",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "zkcyborg",
+  "websiteUrl": "https://twitter.com/zkCyborg",
+  "applicant": {
+    "address": {
+      "address": "0xD3802dcE7F7A54d59E7a64329d287624FF3F495a",
+      "resolvedName": {
+        "address": "0xD3802dcE7F7A54d59E7a64329d287624FF3F495a",
+        "name": "zkcyborg.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xD3802dcE7F7A54d59E7a64329d287624FF3F495a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD3802dcE7F7A54d59E7a64329d287624FF3F495a.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x8b9176467774f0621b85f9d72bf4a4a9043ffb8b052a953df938dd3be640d656"
+  },
+  "impactDescription": "By thoroughly analyzing airdrop strategies and outcomes, the article enables projects to make more informed decisions about airdrop design. And it demonstrates the ability of airdrops to drive real utility and advancement for scaling solutions when executed thoughtfully. The analysis and conclusions positively impact the broader understanding of airdrops in the crypto industry.",
+  "contributionDescription": "Article analyzes airdrops by Layer 2s Optimism & Arbitrum, showing their effectiveness for driving growth. Metrics indicate increased adoption & TVL after drops, suggesting airdrops successfully incentivize short-term usage & development. \n\nRapid address & TVL growth shows they expanded user bases quickly. Article also demonstrates airdrop strategies impact long-term success. e.g. Optimism recipients holding tokens longer suggests alignment with community building. \n\nOverall, article highlights airdrops' potential to catalyze growth for Layer 2s. Research provides insights for projects considering campaigns, emphasizing balancing short-term incentives with long-term adoption. Analysis enables informed airdrop design decisions. Shows thoughtful airdrops can drive real utility in practice",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://globalcoinresearch.com/2023/06/16/the-effectiveness-of-l2-airdrop/",
+      "description": "This article is about the Effectiveness of L2 Airdrop, specifically OP vs ARB"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "X Views ",
+      "number": "4000",
+      "url": "https://x.com/Smartecio/status/1670832159513362439?s=20"
+    },
+    {
+      "description": "X Likes",
+      "number": "31",
+      "url": "https://x.com/Smartecio/status/1670832159513362439?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 350,
+      "description": "freelance job for Global Coin Research. They paid me this amount to do research"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x352cef4d80d995bbee0f9331b96d83daeb723f0eb907796a5c674dc51776f4de",
+  "prelimResult": "Remove",
+  "reportReason": "An article about airdrops, no real impact"
+}

@@ -1,0 +1,68 @@
+{
+  "bio": "Ipsilon is a research team focusing on the EVM.",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Ipsilon",
+  "websiteUrl": "https://ipsilon.xyz",
+  "applicant": {
+    "address": {
+      "address": "0xF96Aa4A25fDe246d9dD498B145F52Fab0eAd29f3",
+      "resolvedName": {
+        "address": "0xF96Aa4A25fDe246d9dD498B145F52Fab0eAd29f3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xF96Aa4A25fDe246d9dD498B145F52Fab0eAd29f3"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF96Aa4A25fDe246d9dD498B145F52Fab0eAd29f3.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xed36211993d1b5184e22f46d76aaa399eff5ec04476e5481305ab5524ea818f9"
+  },
+  "impactDescription": "A number of our EIPs have been adopted by Ethereum Mainnet. We have meaningfully contributed to go-ethereum, Solidity, the ACD process, and Ethereum testing.\n\nCurrently our focus is EOF (EVM Object Format) and EVMMAX, revamping how the EVM works. Contributed to the selfdestruct-removal and EIP-4844 precompile.\n\nFun fact: Optimism's Solidity modifications were an inspiration for the RJUMP opcode of EOF.",
+  "contributionDescription": "Ipsilon is a research team focusing on the execution environment of Ethereum (aka the EVM or any future versions of it).\n\nWe provide analysis and implementation of own and third party proposals (i.e. new EIPs proposing changes to the EVM), provide tooling (evmc, evmone, fizzy), and support existing teams (e.g. Solidity, go-ethereum, Silkworm, Erigon) with implementation and analysis.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ipsilon/",
+      "description": "Our current github organization."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum/evmone/",
+      "description": "Evmone is one of the fastest EVM implementation."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ipsilon.xyz",
+      "description": "Our page lists all our Ethereum contributions (many EIPs)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://notes.ethereum.org/@ipsilon/mega-eof-specification",
+      "description": "EOF specification, hopefully introduced in Prague, Optimism, and other chains."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ewasm",
+      "description": "Our older Github organization."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Explainer",
+      "number": "49152",
+      "url": "https://notes.ethereum.org/@ipsilon/retropgf3-impact-statement"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x72636d32db59ae97bb616d46061268f60647e7f90aaf52ac5ed12f89aaa9ff0c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 40,
+  "primaryCategory": "OP Stack",
+  "recategorization": "Ethereum Development & Maintanance"
+}

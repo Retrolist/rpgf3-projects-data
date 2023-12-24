@@ -1,0 +1,103 @@
+{
+  "bio": "Solow is a free crypto academy for builders in LATAM.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Solow \ud83d\udc3d",
+  "websiteUrl": "https://solow.io/",
+  "applicant": {
+    "address": {
+      "address": "0x929e1b374FB07486c9A64570e5BDA99383f48785",
+      "resolvedName": {
+        "address": "0x929e1b374FB07486c9A64570e5BDA99383f48785",
+        "name": "solowcripto.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x929e1b374FB07486c9A64570e5BDA99383f48785"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x929e1b374FB07486c9A64570e5BDA99383f48785.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x929e1b374FB07486c9A64570e5BDA99383f48785.png",
+    "id": "OptimistProfile|0x2f5fff0d439d46f75865ada489bfb4df0bcee542c31302f878a5d8dca72ffed2"
+  },
+  "impactDescription": "Solow is Latam\u2019s biggest free crypto academy, with more than 3.2k members on Discord, 30k people learning from our live courses and 100k newsletter opens.\n\nSolow is also one of the largest sources of original content on Optimism in Spanish. We\u2019ve created articles, videos, mini-courses, live sessions, workshops and quests to onboard more people to the Optimism Collective.\n\nBut, while numbers are great, we believe our biggest impact is measurable by the stories of those who walked with us. For many, Solow was the place to learn Optimism. For others, a community to take their first steps, or get their first crypto job. For some, it\u2019s been all 3 of them.\n\nIf we want to build a new, better system, we need to make sure we don\u2019t leave people behind. And education is the only way to do it.",
+  "contributionDescription": "We are a 100% free crypto academy that has educated more than 30k people on the Ethereum and Optimism ecosystem.\n\nIn the last 2 years, we\u2019ve hosted +100 live sessions (discord, Twitter, and YouTube), released +200 pieces of content and created a platform with 60 gamified mini-courses.\n\nWe published over 20 pieces of original content on Optimism and created a landing page to display them all together, together with a free course students can follow and 6 mini lessons inside our platform.\n\nWe did 3 free live courses on Crypto 101, Solidity and Crypto Infra (+50 hours live).",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://solow.io/frens/optimism",
+      "description": "Website with all our original content created about Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/playlist?list=PLONmLa8jLccRTqULwfnBelKITnZ_7y3yL",
+      "description": "Playlist of our Optimism videos"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://solow.io/cursos-cripto-gratuitos",
+      "description": "Our 4 free live courses: crypto 101, solidity, infra and layer 2."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://web.edapp.com/#register/%23solow",
+      "description": "Free gamified learning platform with over 60 courses and 5.4k users"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://solow.io/cursos-cripto-gratuitos/curso-de-optimism",
+      "description": "Learning path to get to know Optimism in our web"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# Total reproductions - Optimism Media",
+      "number": "38122",
+      "url": "https://docs.google.com/spreadsheets/d/1D7RBeh-adj5s4MgddV6gS6FfNcGeKkhN0t9q7i3bluU/edit?usp=sharing"
+    },
+    {
+      "description": "# Total opens - OP Newsletters",
+      "number": "8432",
+      "url": "https://docs.google.com/spreadsheets/d/1IqwKqbdCNqbYWeetAdYtUK45QLa2erBAzl4JiQ6XccA/edit?usp=sharing"
+    },
+    {
+      "description": "# Total opens - Ethereum Newsletters ",
+      "number": "18592",
+      "url": "https://docs.google.com/spreadsheets/d/1VdZeo0622n-pT-UnP6QpEDQQlSRTqNHMv_E_A0PS4Bw/edit?usp=sharing"
+    },
+    {
+      "description": "# Views - Free Live Courses",
+      "number": "26809",
+      "url": "https://docs.google.com/spreadsheets/d/1Fyp-_snRc9BBW8pTcyyL6yNLvnX_nyWSlBaPjbs3cG0/edit?usp=sharing"
+    },
+    {
+      "description": "# Course completion on Gamified Platform",
+      "number": "5990",
+      "url": "https://docs.google.com/document/d/1OH7USNEUmEEa5nUhqSgsv-XumEtlS57qnnCwAOj5wbk/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 15720,
+      "description": "Mission approved under Intent #3, Season 4 of OP Gov"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 6000,
+      "description": "Sponsorship for free courses Crypto 101 and Infra 101"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9ba3fe96ab1f32ebfdb0514e6531eb365fad843d656aebfdb6953dcdf378bb86",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 46,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

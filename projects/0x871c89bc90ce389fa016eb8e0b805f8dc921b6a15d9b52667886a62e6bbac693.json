@@ -1,0 +1,45 @@
+{
+  "bio": "Dune Analytics Alternative. 100% Open source. 90% Cheaper than Dune.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "TxEngine",
+  "websiteUrl": "https://github.com/vultureprime/tx-engine",
+  "applicant": {
+    "address": {
+      "address": "0xa2F28A71cca242aBe55AEC0Ff046c1C8dCdE5eDD",
+      "resolvedName": {
+        "address": "0xa2F28A71cca242aBe55AEC0Ff046c1C8dCdE5eDD",
+        "name": "matichon.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xa2F28A71cca242aBe55AEC0Ff046c1C8dCdE5eDD"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa2F28A71cca242aBe55AEC0Ff046c1C8dCdE5eDD.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xd65dcb8228e9c5349347e86c191333d8e744bc42fc512a7448255d9a062c568c"
+  },
+  "impactDescription": "We empower people to analyze on-chain data using their own infrastructure and ease the process of setting up a data pipeline, even without any data engineering knowledge. To further lower the entry barriers, we've integrated a text-to-SQL feature, reducing the need for SQL fluency to query over on-chain data.\n\nThis could potentially boost blockchain engagement and adoption by both individuals and enterprises.",
+  "contributionDescription": "We streamline the process of launching analytics dashboards based on on-chain data, decoupling users from Dune Analytics. \n\nWe offer an alternative way to host your own data pipeline, without the need for specialized data engineer knowledge. \n\nThis means that new chains and roll-ups can have an analytics platform from day zero. There's no longer any need to wait for Dune to sync your network. \n\nThis approach could expedite the creation of new dashboards and enhance transparency for new roll-ups.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/vultureprime/tx-engine",
+      "description": " "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Gitclone",
+      "number": "57",
+      "url": "https://vultureprime-ghr.s3.ap-southeast-1.amazonaws.com/vultureprime/tx-engine/report.pdf"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x871c89bc90ce389fa016eb8e0b805f8dc921b6a15d9b52667886a62e6bbac693",
+  "prelimResult": "Remove",
+  "reportReason": "seems sus"
+}

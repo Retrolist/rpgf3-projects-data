@@ -1,0 +1,53 @@
+{
+  "bio": "OP Study was designed to educate people about Optimism and the OP Stack",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Admiano",
+  "websiteUrl": "https://op.admiano.com/",
+  "applicant": {
+    "address": {
+      "address": "0xc8111c2689d866A88291811cb5b0B31665F08350",
+      "resolvedName": {
+        "address": "0xc8111c2689d866A88291811cb5b0B31665F08350",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xc8111c2689d866A88291811cb5b0B31665F08350"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png",
+    "id": "OptimistProfile|0x02d082ebe14715960829e127cf28bb3780d03335dfa8bfa6326bd70bc14c60ea"
+  },
+  "impactDescription": "The biggest impact those who have taken my free courses have had is having a deeper knowledge of Optimism and the OP Stack and in turn, having a deep appreciation for the technology behind it.\n\nAs a result, some have been keen to learn more about and to explore Optimism and its ecosystem.",
+  "contributionDescription": "I built a course platform where anyone can take a free course to learn about Optimism and the amazing OP Stack. This is something that no one has done before, and I believe the general public deserves to know and learn about OP Stack and why massive platforms like Coinbase and BNB Chain chose to build using this software.\n\nThe platform houses free courses. These courses are broken down into smaller video lessons with quizzes in between them. At the end of a course, a student would have been able to benefit maximally from the course and grow a deeper appreciation for the tech behind Optimism and the future of the OP Stack - Superchain.\n\nThis is now a go-to platform for exclusively learning about everything Optimism in a structured way. And its 100% free and will remain so.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://op.admiano.com/",
+      "description": "A course platform for everything Optimism and OP Stack"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of enrolled students",
+      "number": "12",
+      "url": "https://op.admiano.com/courses/an-overview-of-optimism-op-stack/"
+    },
+    {
+      "description": "Number of enrolled students",
+      "number": "14",
+      "url": "https://op.admiano.com/courses/introduction-to-optimism/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
+  "prelimResult": "Keep",
+  "reportReason": "Not sure if this is legit",
+  "includedInBallots": 8,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

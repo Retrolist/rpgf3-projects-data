@@ -1,0 +1,55 @@
+{
+  "bio": "A 20 Year Old Boy From India With A Small Youtube Channel",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "vaibhav yadav",
+  "websiteUrl": "https://twitter.com/Vaibhav97814702",
+  "applicant": {
+    "address": {
+      "address": "0xD219085a7a8C7db48444fE1631faE03C14254343",
+      "resolvedName": {
+        "address": "0xD219085a7a8C7db48444fE1631faE03C14254343",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xD219085a7a8C7db48444fE1631faE03C14254343"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD219085a7a8C7db48444fE1631faE03C14254343.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x292d5a332d40ececd92a01eb37c1967a79688b8c8fbb03b98543eb8cb2c4457a"
+  },
+  "impactDescription": "Our daily briefing boosts Optimism Collective's brand awareness, reaching over 2,000 crypto enthusiasts. We\nprovide essential OP News coverage, keeping end-users, developers, journalists, and crypto security firms informed about network upgrades, new OP Stack chains, and airdrops. Our briefs have even inspired news articles, like this one published by The Block on Optimism Airdrop 3 after the journalist read our newsletter.",
+  "contributionDescription": "We provided over 100 OP News updates to our audience of 2,000 podcast listeners and 230 newsletter subscribers.\nIn the fast-changing Optimism Collective, we play a crucial role in keeping users well-informed. OP News is a series of Optimism-related updates featured within our Ethereum News flash briefing in a dedicated segment called\nOptimism Highlights.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Vaibhav97814702",
+      "description": " I Retweet Some Posts Of Optimism On Twitter ..."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Audio Downloads",
+      "number": "39739",
+      "url": "https://docs.google.com/spreadsheets/d/15_4h9yUErq73uh%7Cf0_OeGUcF-sePBN8xiXDartlIvZA/htmlview"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 700,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe0b6f062d27cf8a6994888812d2a02ffb3fe27398502f4a6e6c1ae599062b3ed",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

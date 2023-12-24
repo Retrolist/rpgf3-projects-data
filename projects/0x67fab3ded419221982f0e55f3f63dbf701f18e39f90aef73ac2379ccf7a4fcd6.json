@@ -1,0 +1,78 @@
+{
+  "bio": "Web3 Infrastructure Performance Monitoring & Tools",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "CompareNodes",
+  "websiteUrl": "https://www.comparenodes.com/",
+  "applicant": {
+    "address": {
+      "address": "0x4Cf6031eDE6431D323AE5aA6eB1651B81B693Fc5",
+      "resolvedName": {
+        "address": "0x4Cf6031eDE6431D323AE5aA6eB1651B81B693Fc5",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x4Cf6031eDE6431D323AE5aA6eB1651B81B693Fc5"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4Cf6031eDE6431D323AE5aA6eB1651B81B693Fc5.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4Cf6031eDE6431D323AE5aA6eB1651B81B693Fc5.png",
+    "id": "OptimistProfile|0x12441a863632e7b80923e37a16a9aff88cfce505d0ea616a9d7e9fc61ed8467c"
+  },
+  "impactDescription": "Our tools bolster the Optimism ecosystem by enhancing transparency and decision-making, facilitating daily data updates. Promoting decentralization is central to our contribution, allowing diverse providers, including smaller ones, to be visible and considered equally, fostering an inclusive ecosystem. Our independent efforts have expanded provider listings beyond official Optimism documentation, offering broader insights and choices, aiding companies in making informed decisions for building on Optimism.\n45 Providers listed on CompareNodes while only 15 in official Optimism docs",
+  "contributionDescription": "We currently have 3 tools available for Optimism:\n1. Perpetual Comparison page of Node Providers for Optimism Mainnet\nContinuous latencies & errors in 1-minute intervals \nGlobal, Continental, Regional x 30min, 24h, 10days, 30days\nSynthetic monitoring optimized for Web3 (similar to Datadog)\n\n2. GNC (Global Node Comparison)\nAd hoc latencies for \u201cany\u201d 2 Optimism endpoints submitted by the user\nFrom 27 global locations in 30 seconds\nCompatible with Optimism\n\n3. Directory of 45 providers that support Optimism networks & Library of 30+ Optimism public endpoints\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.comparenodes.com/performance/optimism-mainnet/",
+      "description": "Perpetual Comparison page of Node Providers for Optimism Mainnet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.comparenodes.com/",
+      "description": "GNC (Global Node Comparison)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.comparenodes.com/protocols/optimism/",
+      "description": "Directory of 45 providers that support Optimism networks"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.comparenodes.com/library/public-endpoints/#alchemy-optimism--mainnet",
+      "description": "Library of 30+ Optimism public endpoints"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Tool Usage  (impressions)",
+      "number": "450000",
+      "url": "https://docs.google.com/spreadsheets/d/1s4XAUTKPp1L4ST4xzP5Xx3-1rp2C8dR7LkCtdkzbT4o/edit#gid=0"
+    },
+    {
+      "description": "Verified Providers",
+      "number": "50",
+      "url": "https://www.comparenodes.com/providers/?chains=&verified=true&or=false"
+    },
+    {
+      "description": "Providers supporting Optimism",
+      "number": "45",
+      "url": "https://www.comparenodes.com/protocols/optimism/"
+    },
+    {
+      "description": "Providers listed in Optimism docs",
+      "number": "15",
+      "url": "https://community.optimism.io/docs/useful-tools/providers/#"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x67fab3ded419221982f0e55f3f63dbf701f18e39f90aef73ac2379ccf7a4fcd6",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 8,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

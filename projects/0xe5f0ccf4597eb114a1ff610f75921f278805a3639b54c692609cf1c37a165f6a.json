@@ -1,0 +1,48 @@
+{
+  "bio": "Dunia ini Fana!",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Blaze",
+  "websiteUrl": "https://t.co/jCvmw5xAA8",
+  "applicant": {
+    "address": {
+      "address": "0xe9A80AD27F60Ab52AE563718896E513263DE6993",
+      "resolvedName": {
+        "address": "0xe9A80AD27F60Ab52AE563718896E513263DE6993",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xe9A80AD27F60Ab52AE563718896E513263DE6993"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe9A80AD27F60Ab52AE563718896E513263DE6993.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe9A80AD27F60Ab52AE563718896E513263DE6993.png",
+    "id": "OptimistProfile|0x0898ae860c6cf25018e60792c298c26a73d6f8c9cc874f1494be5330ea5ab22b"
+  },
+  "impactDescription": "The core idea behind retroPGF is to level the playing field between profit-maximizing startups and nonprofit/OSS projects. Profit-seeking entities have an advantage in their potential for an exit, drawing early investment funding and providing incentives for employees. The goal of retroPGF is to create a system that provides the same benefits for nonprofit and OSS projects.\n\nOne of the most difficult parts of retroPGF is creating a \u201cresults oracle\u201d \u2014 the process that decides which projects receive an exit. We want to experiment with many iterations to refine this mechanism, and today, we are embarking on the first.",
+  "contributionDescription": "The core idea behind retroPGF is to level the playing field between profit-maximizing startups and nonprofit/OSS projects. Profit-seeking entities have an advantage in their potential for an exit, drawing early investment funding and providing incentives for employees. The goal of retroPGF is to create a system that provides the same benefits for nonprofit and OSS projects.\n\nOne of the most difficult parts of retroPGF is creating a \u201cresults oracle\u201d \u2014 the process that decides which projects receive an exit. We want to experiment with many iterations to refine this mechanism, and today, we are embarking on the first.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://medium.com/ethereum-optimism/retropgf-experiment-1-1-million-dollars-for-public-goods-f7e455cbdca",
+      "description": "Medium"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Medium",
+      "number": "1",
+      "url": "https://medium.com/ethereum-optimism/retropgf-experiment-1-1-million-dollars-for-public-goods-f7e455cbdca"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xe5f0ccf4597eb114a1ff610f75921f278805a3639b54c692609cf1c37a165f6a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

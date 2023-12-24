@@ -1,0 +1,62 @@
+{
+  "bio": "Crypto enthusiast especially in Music NFTs",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "John",
+  "websiteUrl": "https://twitter.com/subjnnguyen",
+  "applicant": {
+    "address": {
+      "address": "0xe60B1927111fd5f450f9625e07C3723C38756960",
+      "resolvedName": {
+        "address": "0xe60B1927111fd5f450f9625e07C3723C38756960",
+        "name": "music-nfts.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xe60B1927111fd5f450f9625e07C3723C38756960"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe60B1927111fd5f450f9625e07C3723C38756960.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe60B1927111fd5f450f9625e07C3723C38756960.png",
+    "id": "OptimistProfile|0x315956a8f9ce8b49a39d77072619c1acd32e374d1294644717aa81476b286185"
+  },
+  "impactDescription": "Here are several significant impacts:\n\n1. Increased Activity and Engagement within the OP Collective, added dynamism fosters a vibrant and thriving community.\n\n2. Added liquidity to the OP marketplace, making it more attractive to artists and collectors, lead to more diverse offerings and increased trading volume.\n\n3. Enhanced Artist Adoption, serves as an endorsement of the OP platform. \n\n4. Community Building: communities are essential for sharing insights, collaborating, and creating a sense of belonging among members.\n\n5. Inspiration and Innovation as artists and creators experiment with novel ways of engaging with their audiences.\n\n6. Increased Awareness about OP and the potential it holds.\n\n7. Financial Growth within the OP Collective, benefiting both artists and fellow collectors.",
+  "contributionDescription": "My NFTs collections on OP demonstrate value contributions in several ways:\n1. I've directly supported artists, creators & the NFT ecosystem. My investments encourage musicians to explore this innovative platform.\n2. Liquidity and Trading: Owning a diverse collection of music NFTs adds liquidity to the OP marketplace, enables other enthusiasts to trade, invest, and explore OP.\n3. My collection promotes awareness about OP's capabilities and the potential of OP for the music industry, encourage more artists and collectors to join the platform.\n4. I contribute to building a supportive network of like-minded individuals who share an interest in music NFTs.\n5. My collection appreciates in value, providing potential financial incentives for artists, collectors, and the OP network as a whole.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xe60b1927111fd5f450f9625e07c3723c38756960",
+      "description": "All my collecting transactions are onchain and can be review here"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/user/music-nfts.eth",
+      "description": "More than 130 music nfts tracks collected here"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Collections",
+      "number": "54",
+      "url": "https://www.sound.xyz/user/music-nfts.eth/collection"
+    },
+    {
+      "description": "Artists supported",
+      "number": "27",
+      "url": "https://www.sound.xyz/user/music-nfts.eth/artists-backed"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x07a400e584ecbbf560e37ed8e201667f7826d2a07a3039682a187c7ad43d4b15",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

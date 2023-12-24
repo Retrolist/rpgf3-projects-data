@@ -1,0 +1,53 @@
+{
+  "bio": "I have been working with cryptocurrency for more than 2 years. ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Romok26",
+  "websiteUrl": "https://twitter.com/Romok26",
+  "applicant": {
+    "address": {
+      "address": "0x9D5C3Ef84eE86605b52196c99A1c6D96464e4C90",
+      "resolvedName": {
+        "address": "0x9D5C3Ef84eE86605b52196c99A1c6D96464e4C90",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9D5C3Ef84eE86605b52196c99A1c6D96464e4C90"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9D5C3Ef84eE86605b52196c99A1c6D96464e4C90.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x232973e06d70c2002e1a4130bddaa242cb251659a6f67e451107e8761f8c9cd6"
+  },
+  "impactDescription": "Every time my portfolio is replenished more and more with $OP tokens. I tell my friends about the project and they are happy to support my optimism. I am sure that all my votes were not in vain and I managed to help the project become better.\nWell, then - even more",
+  "contributionDescription": "- I hold meetings and tell friends about the Optimism project\n- one of the main coins of my portfolio is OP\n- I try to vote on all project proposals to help Optimism become more stable, more interesting for the community and stronger\n- whenever possible, I take part in all project activities",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x9D5C3Ef84eE86605b52196c99A1c6D96464e4C90",
+      "description": "my wallet, but not the main one"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#optimism #OPportfolio #testnet",
+      "number": "500",
+      "url": "https://optimistic.etherscan.io/address/0x9D5C3Ef84eE86605b52196c99A1c6D96464e4C90"
+    },
+    {
+      "description": "\u2116activity #transaction",
+      "number": "454",
+      "url": "https://optimistic.etherscan.io/address/0x9D5C3Ef84eE86605b52196c99A1c6D96464e4C90"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x81aee6f08d94b83c625e753f8fb9f1bcd04ad66f5249dc9b09083c6d09cb769c",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

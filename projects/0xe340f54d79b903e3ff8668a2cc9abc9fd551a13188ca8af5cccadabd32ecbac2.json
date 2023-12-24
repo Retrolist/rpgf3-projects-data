@@ -1,0 +1,48 @@
+{
+  "bio": "A simple man",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Vito Corleone ",
+  "websiteUrl": "https://www.sound.xyz/user/0x3fa6f262b25945112f4890cdd46204743a579960",
+  "applicant": {
+    "address": {
+      "address": "0x3fA6F262B25945112F4890CDD46204743A579960",
+      "resolvedName": {
+        "address": "0x3fA6F262B25945112F4890CDD46204743A579960",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3fA6F262B25945112F4890CDD46204743A579960"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3fA6F262B25945112F4890CDD46204743A579960.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x97dadf8bb71d956138c1ffbf4efc539cd1aff057a61f65ada1df2370d496e39e"
+  },
+  "impactDescription": "\n\nIn addition to collecting, I have also shared valuable music pieces that I found on sound.xyz with my social network. This helps increase the chances for independent artists to be seen and appreciated for their creative talents.\n\nI feel very proud knowing that my contribution is helping to build and promote the NFT music community, giving talented artists the opportunity to showcase their creativity on a global and fair platform. This is truly an exciting and rewarding experience, giving me the sense that I am part of the development and spread of this innovative form of music art.",
+  "contributionDescription": "In the past period, I have made a significant contribution to the NFT music community by collecting music on the sound.xyz platform. This is a unique and pioneering platform that connects music artists with art enthusiasts worldwide through blockchain technology.\n\nCollecting music on sound.xyz is not only about accumulating works from artists, but also a way for me to support and encourage creative talents who are striving to create unique compositions. I have been searching for and selecting creative, unique, and emotionally charged pieces of music from various genres such as electronic, hip-hop, rock, and many other music genres.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.sound.xyz/user/0x3fa6f262b25945112f4890cdd46204743a579960",
+      "description": "Ab "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Metric ",
+      "number": "420",
+      "url": "https://www.sound.xyz/user/0x3fa6f262b25945112f4890cdd46204743a579960"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xe340f54d79b903e3ff8668a2cc9abc9fd551a13188ca8af5cccadabd32ecbac2",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

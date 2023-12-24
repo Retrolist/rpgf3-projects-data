@@ -1,0 +1,90 @@
+{
+  "bio": "Trust-less, open, community incentives infrastructure for Optimism",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Thank Optimism | by ThriveCoin",
+  "websiteUrl": "https://app.thrivecoin.com/communities/thank-optimism",
+  "applicant": {
+    "address": {
+      "address": "0x055D602C940b3cd7A158df0FD600C75744C9690e",
+      "resolvedName": {
+        "address": "0x055D602C940b3cd7A158df0FD600C75744C9690e",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x055D602C940b3cd7A158df0FD600C75744C9690e"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x055D602C940b3cd7A158df0FD600C75744C9690e.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x055D602C940b3cd7A158df0FD600C75744C9690e.png",
+    "id": "OptimistProfile|0xd21c9da5b617fc627c75d0a17e7d4a16de2d0b8e7f7619090c27cb772a7ce41b"
+  },
+  "impactDescription": "ThriveCoin\u2019s trust-less, open, human validation infrastructure impacted the Optimism community and the broader web3 environment. \n\nFor Optimism, we helped grow Ambassador contributions and pipeline, create artifacts documenting the impact of rPGF grants, and market that impact via Medium, Mirror, Twitter, and more. We far exceeded all milestones: \n\n- 1.703 discrete marketing content (429% above critical milestone) \n- 638 discrete research artifacts (1,276% above critical milestone)\n- 309 contributors (412% above critical milestone)\n- 1.6m+ total views of approved content\n- 5,000+ pieces of total generated content\n\nFor web3, our infrastructure opens the door for a world of contributors who can trust that their contributions will now be equitably rewarded in decentralized environments. ",
+  "contributionDescription": "Many talented people don\u2019t trust that their contributions will be equitably rewarded in web3. So they contribute less value, or don\u2019t contribute at all, because their talents are more dependably incentivized elsewhere. \n\nFor 'Thank Optimism', ThriveCoin built trust-less, open, incentive infrastructure that makes it possible to reward contributors proportionate to the value they create. \n\nOP Ambassadors used our tech to create content that helps our Optimism community better understand the value of rPGF grants. Quality content can\u2019t be auto-validated via traditional quests, so it required custom human validations capability to function. \n\nWe far exceeded all impact expectations - attracting significantly more Ambassadors, more quality content, and more engagement than expected.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.thrivecoin.com/communities/thank-optimism",
+      "description": "Thank Optimism community page; summary; links to contributors, contributions"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/final-thank-optimism-powered-by-thrivecoin/6104/69",
+      "description": "Summary of results. Scroll up for archived posts."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.com/channels/667044843901681675/968188173039587408",
+      "description": "The growing, more active #wannabe-ambassador channel in the Optimism Discord"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/thankoptimism/status/1709865858619572681",
+      "description": "Ex. rPGF content incentivized, validated, and rewarded with our infrastructure. "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "discrete marketing content",
+      "number": "1703",
+      "url": "https://gov.optimism.io/t/final-thank-optimism-powered-by-thrivecoin/6104/69"
+    },
+    {
+      "description": "discrete research artifacts",
+      "number": "638",
+      "url": "https://gov.optimism.io/t/final-thank-optimism-powered-by-thrivecoin/6104/69"
+    },
+    {
+      "description": "contributors",
+      "number": "309",
+      "url": "https://gov.optimism.io/t/final-thank-optimism-powered-by-thrivecoin/6104/69"
+    },
+    {
+      "description": "views of approved content",
+      "number": "1600000",
+      "url": "https://gov.optimism.io/t/final-thank-optimism-powered-by-thrivecoin/6104/69"
+    },
+    {
+      "description": "total generated content",
+      "number": "5000",
+      "url": "https://gov.optimism.io/t/final-thank-optimism-powered-by-thrivecoin/6104/69"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 30000,
+      "description": "The OP we will receive is locked for 1 year. No other donations or payments."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x86596b004b7fe17cf0ce308c52ecfc174efc9ebf04fcbc4512f320f632a1f2ba",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 14,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

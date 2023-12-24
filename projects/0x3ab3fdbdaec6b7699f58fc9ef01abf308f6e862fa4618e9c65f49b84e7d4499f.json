@@ -1,0 +1,48 @@
+{
+  "bio": "Crypto Enthusiast",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "dhany",
+  "websiteUrl": "https://twitter.com/dhanyMuhamad",
+  "applicant": {
+    "address": {
+      "address": "0x56b168C92D6Cf3E8f9fB5F4f874cedD3Cb349774",
+      "resolvedName": {
+        "address": "0x56b168C92D6Cf3E8f9fB5F4f874cedD3Cb349774",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x56b168C92D6Cf3E8f9fB5F4f874cedD3Cb349774"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56b168C92D6Cf3E8f9fB5F4f874cedD3Cb349774.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x56b168C92D6Cf3E8f9fB5F4f874cedD3Cb349774.png",
+    "id": "OptimistProfile|0x752eb5c6c0d17108c9a8962b44e8354fb631f648127f89785204ea0e697f8c1e"
+  },
+  "impactDescription": "i want to support Optimism, Optimism Collective will be good for community and the future for the Project. This will help Optimism to grow their project. This is long term for the project and for individual to support Optimism. I wish the best for Optimism event",
+  "contributionDescription": "from community for community, i will contribute for Optimism by completed the quest. bridge, delegate, etc. This will be great for community, individual or project on Optimism network. This is long term for the project and for individual to support Optimism",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/dhnypho",
+      "description": "LFG"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Individual",
+      "number": "5758",
+      "url": "https://github.com/dhnypho"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x3ab3fdbdaec6b7699f58fc9ef01abf308f6e862fa4618e9c65f49b84e7d4499f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

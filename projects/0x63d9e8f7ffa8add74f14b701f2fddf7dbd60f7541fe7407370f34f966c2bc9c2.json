@@ -1,0 +1,57 @@
+{
+  "bio": "I'm AlexNTAA, Ethereum enthusiast, part of LacDa, focused on Optimism NFT Music.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "AlexNTAA",
+  "websiteUrl": "https://github.com/thenguyenltv",
+  "applicant": {
+    "address": {
+      "address": "0x279e2071b5337F40C2932Aaef5E4F5B01A5A08F3",
+      "resolvedName": {
+        "address": "0x279e2071b5337F40C2932Aaef5E4F5B01A5A08F3",
+        "name": "alexntaa.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x279e2071b5337F40C2932Aaef5E4F5B01A5A08F3"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x279e2071b5337F40C2932Aaef5E4F5B01A5A08F3.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xdf5757a1a8664579a86d4da28df7da93d5ac5aa5d59a70cb47b98a110cc51dc1"
+  },
+  "impactDescription": "Nh\u1eefng \u0111\u00f3ng g\u00f3p c\u1ee7a t\u00f4i, c\u1ea3 v\u1ec1 m\u1eb7t c\u00e1 nh\u00e2n l\u1eabn t\u01b0 c\u00e1ch l\u00e0 m\u1ed9t ph\u1ea7n c\u1ee7a Camel Venture, th\u1ec3 hi\u1ec7n nh\u1eefng b\u01b0\u1edbc \u0111i ti\u00ean phong trong xu h\u01b0\u1edbng m\u1edbi n\u1ed5i c\u1ee7a Music Onchain. T\u00f4i tin r\u1eb1ng L\u1ea1c quan s\u1ebd \u0111\u00f3ng vai tr\u00f2 l\u00e0 c\u00e1i n\u00f4i cho nh\u1eefng ngh\u1ec7 s\u0129 \u0111\u1ed5i m\u1edbi, c\u00f3 t\u01b0 duy c\u1ea7u ti\u1ebfn, th\u00fac \u0111\u1ea9y s\u1ef1 ph\u00e1t tri\u1ec3n c\u1ee7a ng\u00e0nh c\u00f4ng nghi\u1ec7p \u00e2m nh\u1ea1c. Nh\u1eefng \u0111\u00f3ng g\u00f3p n\u00e0y \u0111\u00e3 c\u00f3 t\u00e1c \u0111\u1ed9ng t\u00edch c\u1ef1c \u0111\u1ebfn Optimism Collective b\u1eb1ng c\u00e1ch h\u1ed7 tr\u1ee3 c\u00e1c nh\u1ea1c s\u0129 v\u00e0 ngh\u1ec7 s\u0129 \u0111\u1ed9c l\u1eadp, cung c\u1ea5p h\u1ed7 tr\u1ee3 t\u00e0i ch\u00ednh v\u00e0 th\u00fac \u0111\u1ea9y m\u1ed9t c\u1ed9ng \u0111\u1ed3ng \u00e2m nh\u1ea1c s\u00f4i \u0111\u1ed9ng tr\u00ean n\u1ec1n t\u1ea3ng Sound.xyz. \u0110i\u1ec1u n\u00e0y kh\u00f4ng ch\u1ec9 trao quy\u1ec1n cho c\u00e1c ngh\u1ec7 s\u0129 m\u00e0 c\u00f2n l\u00e0m phong ph\u00fa th\u00eam b\u1ed1i c\u1ea3nh s\u00e1ng t\u1ea1o t\u1ed5ng th\u1ec3 trong Optimism Collective.",
+  "contributionDescription": "As a member of the Camel Venture community, I've actively supported musicians on Sound.xyz. From March 2023 to now, I've minted 200 NFTs, providing financial assistance to 35 artists, including prominent names like Reo Cragun, LNRZ, Sara Phillips, Mija, and notably R\u014cHKI. The Camel Venture community is the largest referral community on the Sound.xyz platform.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.sound.xyz/user/alexntaa.eth",
+      "description": "My profile on Sound.xyz (AlexNTAA.eth)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.sound.xyz/user/alexntaa.eth/activity",
+      "description": "My Sound.xyz activity and music contributions."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Artists-backed",
+      "number": "35",
+      "url": "https://www.sound.xyz/user/alexntaa.eth/artists-backed"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 9,
+      "description": "I joined OP in March (rather late), so I received OP tokens from Airdrop #2"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x63d9e8f7ffa8add74f14b701f2fddf7dbd60f7541fe7407370f34f966c2bc9c2",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

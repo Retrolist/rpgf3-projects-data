@@ -1,0 +1,53 @@
+{
+  "bio": "I am passionate about seeking new areas in the cryptocurrency and web3 space.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "pramod",
+  "websiteUrl": "https://bfre.nz/u/pramo129",
+  "applicant": {
+    "address": {
+      "address": "0x97c4634ee3295B96F81B96Baaaf302fc69FDaC38",
+      "resolvedName": {
+        "address": "0x97c4634ee3295B96F81B96Baaaf302fc69FDaC38",
+        "name": "pramo.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x97c4634ee3295B96F81B96Baaaf302fc69FDaC38"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x97c4634ee3295B96F81B96Baaaf302fc69FDaC38.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x97c4634ee3295B96F81B96Baaaf302fc69FDaC38.jpeg",
+    "id": "OptimistProfile|0xca1bd6e19179013d46cb8c71cf2d2316e7af21379596bd10349ebeaa7def5802"
+  },
+  "impactDescription": "Introduce about the optimism governance and invite them to get voting power and be a take part of a optimism era. by introducing dapps, hope to bring new participants to de-fi and web3 world. introduce optimism and make strong community around optimism.",
+  "contributionDescription": "Hope to give active participation to the governance and bring more new useful participants into community to make more powerful community and increase fund and as well as experience the new dapps and spread that to the web3 to enhance the usage of Dapps, increase usage of the optimism chain.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x97c4634ee3295B96F81B96Baaaf302fc69FDaC38",
+      "description": "transaction history of my optimism block explorer"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "transacation",
+      "number": "135",
+      "url": "https://optimistic.etherscan.io/address/0x97c4634ee3295B96F81B96Baaaf302fc69FDaC38"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xab582ba60be68a8dd19846bc7a46be66ff72fa87e1822dbdb1e74062f35d627b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

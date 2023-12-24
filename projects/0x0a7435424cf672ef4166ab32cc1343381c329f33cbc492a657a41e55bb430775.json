@@ -1,0 +1,53 @@
+{
+  "bio": "Optimism Indonesia is a place to convey information about the Optimism.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Optimism Indonesia",
+  "websiteUrl": "https://medium.com/@Optimismindonesia",
+  "applicant": {
+    "address": {
+      "address": "0x0403c342E9F2d829864c95e51857A7187381F7DA",
+      "resolvedName": {
+        "address": "0x0403c342E9F2d829864c95e51857A7187381F7DA",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0403c342E9F2d829864c95e51857A7187381F7DA"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0403c342E9F2d829864c95e51857A7187381F7DA.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x82ec51a505222536a80a09663c46a6d0d4d9f4f9c8a11e709e0b043c7eccb98b"
+  },
+  "impactDescription": "I created the Indonesian Optimism medium to disseminate to Indonesians about Optimistic Collective or Retropgf Information, Public Goods and Others. Without the resources of public goods or Optimism Collective, it may not grow rapidly and not be widely recognized by many people in this world. So I want to learn, convey information, confident to convey this to the world especially for the country of Indonesia.",
+  "contributionDescription": "In addition to OP token trading on Binance, my contribution to optimism is as an Article Translator into Indonesian and a Crowdin Indonesian Translator. In addition, I also disseminated about OP As a token that is good to buy and hold long-term, this I conveyed on Telegram LBank Indonesia with my second telegram account, Alvarez. Because LBank users often Also ask me about OP. I would also like to plan to do an AMA at LBank Indonesia about Optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@Optimismindonesia",
+      "description": "Education"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "42 Article",
+      "number": "42",
+      "url": "https://medium.com/@Optimismindonesia"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Translator Article and Crowdin at Optimism Indonesia "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0a7435424cf672ef4166ab32cc1343381c329f33cbc492a657a41e55bb430775",
+  "prelimResult": "Remove",
+  "reportReason": "This application was flagged by the Contributions team for double-counting contributions"
+}

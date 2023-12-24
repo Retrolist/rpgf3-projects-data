@@ -1,0 +1,48 @@
+{
+  "bio": "I am a doctor, I learned about crypto 2 years ago",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Huy Long",
+  "websiteUrl": "https://twitter.com/nghoanghung",
+  "applicant": {
+    "address": {
+      "address": "0xC9bf08f3BDb14644ef4A2B7D855D427D8e77514D",
+      "resolvedName": {
+        "address": "0xC9bf08f3BDb14644ef4A2B7D855D427D8e77514D",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xC9bf08f3BDb14644ef4A2B7D855D427D8e77514D"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xa1ca528cb9b52620eda384e8ae944e8b39116b62d7cfb92ac8b9178442785f76"
+  },
+  "impactDescription": "I participate in dapps  and use the op network to trade regularly. I will continue to participate in using the network if I feel it is okay. if I receive RetroPGF, I will stick with the experience and give feedback price so you can perfect your network and make it more suitable for users.",
+  "contributionDescription": "I participate in dapps  and use the op network to trade regularly. I will continue to participate in using the network if I feel it is okay. if I receive RetroPGF, I will stick with the experience and give feedback price so you can perfect your network and make it more suitable for users.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/address/0xC9bf08f3BDb14644ef4A2B7D855D427D8e77514D",
+      "description": "erc20"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "tx",
+      "number": "94",
+      "url": "https://optimistic.etherscan.io/address/0xC9bf08f3BDb14644ef4A2B7D855D427D8e77514D"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xcf3bd2b6490fe2f9d05cec37d03cbb530387323c1acd08f9a0f3d9f1e26e830a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

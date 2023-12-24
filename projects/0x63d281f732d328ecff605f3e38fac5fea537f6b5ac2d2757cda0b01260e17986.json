@@ -1,0 +1,61 @@
+{
+  "bio": "A normal guy, doing stranger things",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Jose Luis Vela Martinez",
+  "websiteUrl": "https://x.com/josevm97?s=21&t=G0JuUo0eQPBXHG_phXuKjA",
+  "applicant": {
+    "address": {
+      "address": "0x62F7C2dcdaFCd43463550157821998046DE2526c",
+      "resolvedName": {
+        "address": "0x62F7C2dcdaFCd43463550157821998046DE2526c",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x62F7C2dcdaFCd43463550157821998046DE2526c"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x62F7C2dcdaFCd43463550157821998046DE2526c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x62F7C2dcdaFCd43463550157821998046DE2526c.png",
+    "id": "OptimistProfile|0xae9fdd0b97d467eb8f32d58443c99dc23b75143716245296687809d56281ad86"
+  },
+  "impactDescription": "Tu pasi\u00f3n por la tecnolog\u00eda y tu enfoque en la cocina pueden abrir puertas a soluciones innovadoras. Tu perspectiva fresca puede inspirar la creaci\u00f3n de herramientas tecnol\u00f3gicas adaptadas al mundo culinario, fomentar colaboraciones interdisciplinarias y motivar a otros a explorar la tecnolog\u00eda sin miedo. Tu impacto radica en la singular combinaci\u00f3n de intereses y tu deseo de aprender.\n\n\n\n",
+  "contributionDescription": "Soy Jos\u00e9, un chef apasionado por el mundo de la tecnolog\u00eda. Aunque no tengo muchos conocimientos de programaci\u00f3n o inform\u00e1tica, me encanta investigar y curiosear en todos los aspectos de la tecnolog\u00eda. Esa curiosidad me ha llevado a explorar este mundo, y eso es precisamente c\u00f3mo he terminado aqu\u00ed. Aprecio la oportunidad de aprender y sumergirme en este emocionante universo tecnol\u00f3gico. \u00a1No tengo miedo de meter la nariz en todos lados y descubrir algo nuevo!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/0x62F7C2dcdaFCd43463550157821998046DE2526c",
+      "description": "My space"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Hola ",
+      "number": "420",
+      "url": "https://opensea.io/0x62F7C2dcdaFCd43463550157821998046DE2526c"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 10,
+      "description": "Para mis inversiones\u2026."
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": "Para inversiones en cripto "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x63d281f732d328ecff605f3e38fac5fea537f6b5ac2d2757cda0b01260e17986",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

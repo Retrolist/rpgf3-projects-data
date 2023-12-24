@@ -1,0 +1,50 @@
+{
+  "bio": "TerminalIn",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Terminalin",
+  "websiteUrl": "https://www.sound.xyz/user/terminall.eth",
+  "applicant": {
+    "address": {
+      "address": "0x9782C5c6AD4215860d38eD30Ef8f6c1A9dA81C04",
+      "resolvedName": {
+        "address": "0x9782C5c6AD4215860d38eD30Ef8f6c1A9dA81C04",
+        "name": "terminall.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x9782C5c6AD4215860d38eD30Ef8f6c1A9dA81C04"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9782C5c6AD4215860d38eD30Ef8f6c1A9dA81C04.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9782C5c6AD4215860d38eD30Ef8f6c1A9dA81C04.png",
+    "id": "OptimistProfile|0x94019ba9b41af1afa90f45ae59843b5b6a3548e9f02dfd607c484670a0642b05"
+  },
+  "impactDescription": "I hope that by actively collecting onchain music, especially on the OP blockchain, will contribute to supporting artists, independent creators on their web3 journey and contribute to further development of OP blockchain with great ecosystem scalability, fast speed, low cost, user-friendly",
+  "contributionDescription": "I am an onchain music collector and have owned a lot of nft music on the OP blockchain and regularly use other dapps in the ecosystem such as PoolTogether, OxSplit, Zerion, Socket,... I also have high hopes for the onchain movement, especially with the growing development of L2 chains, has tested many chains and is very confident that OP will be the leading chain in the near future.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/user/terminall.eth",
+      "description": "My Sound's profile for collecting & minting music nft"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Artist back",
+      "number": "24",
+      "url": "https://www.sound.xyz/user/terminall.eth"
+    },
+    {
+      "description": "Music nft collected",
+      "number": "52",
+      "url": "https://www.sound.xyz/user/terminall.eth"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x73e2b2a872f0182287dbbb4e064c1efb01fd012a2a56ca8118cb6c615b5e2ecd",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

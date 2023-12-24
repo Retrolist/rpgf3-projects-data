@@ -1,0 +1,49 @@
+{
+  "bio": "A curated list of awesome resources related to the Optimism ecosystem",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Awesome Optimism",
+  "websiteUrl": "https://github.com/lucas-op/awesome-optimism",
+  "applicant": {
+    "address": {
+      "address": "0x82aCDE34C057B009041B030f34F03a11f50735bf",
+      "resolvedName": {
+        "address": "0x82aCDE34C057B009041B030f34F03a11f50735bf",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x82aCDE34C057B009041B030f34F03a11f50735bf"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x82aCDE34C057B009041B030f34F03a11f50735bf.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x82aCDE34C057B009041B030f34F03a11f50735bf.png",
+    "id": "OptimistProfile|0x16857b63f90fec31c41c47901039965642ab86335ad2a66f5a93c9f6f4d22a58"
+  },
+  "impactDescription": "Awesome Optimism comprises over 150 awesome resources covering diverse categories within the Optimism Ecosystem. It serves as a hub for developers and enthusiasts looking for relevant information and tools. The repository is also featured on multiple Optimism community resources, including Web3explorer. \n\nAwesome Optimism offers visibility and recognition for projects or community resources contributing to the Optimism ecosystem. Community contributions are also actively encouraged to foster a vibrant and collaborative environment around Optimism. ",
+  "contributionDescription": "Awesome Optimism Repository is one of the \u201cEcosystem Project Ideas\u201d in the Optimism Collective Ecosystem Contributions\u201d repository. We took the lead in creating and contributing to the repository, where we added, updated, and organized content to create a curated and comprehensive list of resources related to Optimism Ecosystem. \n\nThe repository includes a wide range of resources that will be helpful for developers and enthusiasts. You can find everything from analytics, research articles, tutorial videos, development tools and open-source projects in the Optimism ecosystem. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/lucas-op/awesome-optimism/",
+      "description": "A curated list of awesome resources related to the Optimism ecosystem "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of resources",
+      "number": "150",
+      "url": "https://github.com/lucas-op/awesome-optimism"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xe7dbc759d8e95884cef5cb0f710690abd5686297af6d90c7e48e0b624fce86d3",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 24,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

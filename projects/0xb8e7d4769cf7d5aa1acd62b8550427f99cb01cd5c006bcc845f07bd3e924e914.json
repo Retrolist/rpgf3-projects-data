@@ -1,0 +1,50 @@
+{
+  "bio": "Online digital art and photography gallery since 1999.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Artislamic",
+  "websiteUrl": "https://www.artislamic.com",
+  "applicant": {
+    "address": {
+      "address": "0x65EbaF17EbB138d926dd514664a6718c5cB9D07c",
+      "resolvedName": {
+        "address": "0x65EbaF17EbB138d926dd514664a6718c5cB9D07c",
+        "name": "artislamic.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x65EbaF17EbB138d926dd514664a6718c5cB9D07c"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x65EbaF17EbB138d926dd514664a6718c5cB9D07c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x65EbaF17EbB138d926dd514664a6718c5cB9D07c.png",
+    "id": "OptimistProfile|0x9cb13faf09325f24eee13c32c466f5fffa0c6edb6ea285e238c874b1414574e8"
+  },
+  "impactDescription": "We can provide NFT works featuring art and 3D design. We plan to showcase our artworks, old and new, in the NFT space in the future. Artislamic.com is an online digital art and photography gallery since 1999. Here you will find about 5500 specially designed 2D and 3D graphics, drawings, digital motifs and specially taken photos. Our gallery contains landscape and nature views, flower photos, mixed digital motifs exhibition; artworks with the name of Allah (God), with the name of the Last Prophet Muhammad and with various religious phrases. There is also \"99 Excellent Names of Your Creator\" artworks and classic Islamic calligraphy exhibition. You can send any artwork you like as free e-card to your friends or download them as wallpapers for using on your computer. ",
+  "contributionDescription": "We plan to showcase our artworks, old and new, in the NFT space in the future. Artislamic.com is an online digital art and photography gallery since 1999. Here you will find about 5500 specially designed 2D and 3D graphics, drawings, digital motifs and specially taken photos. Our gallery contains landscape and nature views, flower photos, mixed digital motifs exhibition; artworks with the name of Allah (God), with the name of the Last Prophet Muhammad and with various religious phrases. There is also \"99 Excellent Names of Your Creator\" artworks and classic Islamic calligraphy exhibition. You can send any artwork you like as free e-card to your friends or download them as wallpapers for using on your computer. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.artislamic.com",
+      "description": "Online digital art and photography gallery since 1999."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/Artislamic-islamiSanat",
+      "description": "Artislamic.eth"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "https://artislamic.com",
+      "number": "500",
+      "url": "https://www.artislamic.com"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xb8e7d4769cf7d5aa1acd62b8550427f99cb01cd5c006bcc845f07bd3e924e914",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

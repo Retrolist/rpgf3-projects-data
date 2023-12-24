@@ -1,0 +1,112 @@
+{
+  "bio": "Layer 2 Analytics & Knowledge Platform. Metrics, Blockspace, Labeling and APIs.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "growthepie",
+  "websiteUrl": "https://growthepie.xyz",
+  "applicant": {
+    "address": {
+      "address": "0x9438b8B447179740cD97869997a2FCc9b4AA63a2",
+      "resolvedName": {
+        "address": "0x9438b8B447179740cD97869997a2FCc9b4AA63a2",
+        "name": "blog.growthepie.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x9438b8B447179740cD97869997a2FCc9b4AA63a2"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9438b8B447179740cD97869997a2FCc9b4AA63a2.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9438b8B447179740cD97869997a2FCc9b4AA63a2.png",
+    "id": "OptimistProfile|0x66743379f44518e01e06cc1e62a1634c1b4e393b015e73231393e73a496e3faa"
+  },
+  "impactDescription": "The OP Collective can rely on us growing the OP user, developer and investor base through our data and blockspace analysis, providing transparency around chain traction, liquidity & chain usage. Comparing metrics allows making informed decision about which chain & dApp to use and build on by providing developer content. On top of our accessible data visualization, educational knowledge around Layer 2s in the form of Wikis, articles, threads and regular posts make the space more transparent and different OP chains become more familiar. You can compare labeled smart contracts & download via API.\n\nOur data/blockspace visualizations were used in podcasts like The Daily Gwei, Bankless & charts are constantly posted on socials like X and Farcaster to help understand the OP ecosystem.",
+  "contributionDescription": "growthepie is an analytics platform and knowledge hub for Layer 2s. We cover many current OP chains including OP Mainnet, Base, Zora, Gitcoin PGN & more. \n\nFor all OP chains, our users can easily compare fundamental metrics, analyze Blockspace incl. labeled smart contracts and read about the listed L2s. All data can be called for free through our API.\n\nFundamental metrics that we cover for OP chains: Daily Active Addresses, Transaction Count, Stablecoin Market Cap, Total Value Locked, Fees Paid by Users, Rent Paid to L1, Onchain Profit, Transaction Costs.\n\nOP Stack Blockspace Analysis: Different categories of active chain usage in Layer 2s and their smart contracts & ability to propose labels for them.\n\nKnowledge around data & essentials about OP chains, incl. Wiki, articles & threads.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://growthepie.xyz",
+      "description": "General Platform with listed L2s, including OP Stack chains"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://growthepie.sharepoint.com/:v:/s/growthepie/EdhLxuFOsXdJvnJFlgSzeaQB88pfJbbgQOodPimGEUwNnA?e=zgCCRL",
+      "description": "growthepie platform contribution walkthrough (video)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/growthepie",
+      "description": "growthepie Github Repositories, including Frontend, Backend & Knowledge Hub/Wiki"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/blog.growthepie.eth",
+      "description": "growthepie \ud83e\udd67\ud83d\udccf Blog including OP Stack/Superchain article"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/growthepie_eth",
+      "description": "growthepie \ud83e\udd67\ud83d\udccf Twitter/X Account with metric tweets, threads and blockspace use"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/growthepie_eth/status/1699418958007329183",
+      "description": "Example of a long post about OP Stack & Superchains, quoted by Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "PowerBI Overview of growthepie traction",
+      "number": "21500",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjY3Y2IyNzktYmI4NS00MGU3LTkxMjktMGYxYzQ5YmRhZTVlIiwidCI6IjRjYThhMzQ5LThiMmEtNDY1Yy05MTdlLWM1ZThhMjdjMzhjNCIsImMiOjN9"
+    },
+    {
+      "description": "Twitter/X Followers",
+      "number": "1035",
+      "url": "https://twitter.com/growthepie_eth"
+    },
+    {
+      "description": "Example of Twitter Post views",
+      "number": "11300",
+      "url": "https://twitter.com/growthepie_eth/status/1699418958007329183"
+    },
+    {
+      "description": "Bankless Episode Weekly Rollup Views",
+      "number": "10000",
+      "url": "https://youtu.be/1sCDapD_-Xs?si=dtlq7b4KrIxSog22&t=395"
+    },
+    {
+      "description": "The Daily Gwei #667 Views",
+      "number": "1700",
+      "url": "https://youtu.be/zAFSsST8ELw?si=Jyy3-UE814Zfizmi&t=922"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 35000,
+      "description": "Grant Council Builders Grand Round 14 Finalist (to be paid/locked for 1 year)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 825,
+      "description": "Gitcoin Grants Round 18 Donations including Matched Funds"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 79200,
+      "description": "Ethereum Foundation Community Grant (Building the first version of the platform)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x013c4c5aa12146fb2c42a6864e3cc9afb7212a62145487b514bceab1f588ae79",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 66,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

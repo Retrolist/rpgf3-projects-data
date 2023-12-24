@@ -1,0 +1,54 @@
+{
+  "bio": "optimism scrub",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "starvibez",
+  "websiteUrl": "https://twitter.com/StarVibez702",
+  "applicant": {
+    "address": {
+      "address": "0x5D40451dC574997C61E16C30A5c0E3ada80B8E3B",
+      "resolvedName": {
+        "address": "0x5D40451dC574997C61E16C30A5c0E3ada80B8E3B",
+        "name": "55crip.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x5D40451dC574997C61E16C30A5c0E3ada80B8E3B"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x8fa1162b638975bb4c89f840a3af4e01df8c74bd98f2b2d6a95f0526776dd808"
+  },
+  "impactDescription": "\nMy contributions to the Optimism Collective had a significant impact by improving efficiency and collaboration within the team. Through streamlining processes and implementing better communication tools, we saw enhanced productivity and a more cohesive work environment. These changes resulted in increased innovation, better decision-making, and ultimately, a more successful and thriving Optimism Collective.",
+  "contributionDescription": "I'd appreciate contributions to RetroPGF in the form of bug fixes, feature enhancements, documentation improvements, and feedback to help refine and optimize the platform for a better user experience. Your input is invaluable in making RetroPGF more robust and user-friendly.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/StarVibez702",
+      "description": "here"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "12",
+      "number": "130",
+      "url": "https://twitter.com/StarVibez702"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xbf6aa7621bfd548dbe778e87ad13ba06d0c83efa95eb4adaaa4fc6879963bdef",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

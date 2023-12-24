@@ -1,0 +1,65 @@
+{
+  "bio": "A hub of curated and original insights on Optimism's ethos and vision",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Optimism Vision Reservoir",
+  "websiteUrl": "https://optimism-vision-reservoir.com/",
+  "applicant": {
+    "address": {
+      "address": "0x66D071A20d7942767739BBca130E08e4848D12Bc",
+      "resolvedName": {
+        "address": "0x66D071A20d7942767739BBca130E08e4848D12Bc",
+        "name": "latruite.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x66D071A20d7942767739BBca130E08e4848D12Bc"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x66D071A20d7942767739BBca130E08e4848D12Bc.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x66D071A20d7942767739BBca130E08e4848D12Bc.png",
+    "id": "OptimistProfile|0x7750d3a9e26e2bb0786b466ff4cc7f0241ff249d0d84edcfa654a3f5e16b87bb"
+  },
+  "impactDescription": "Oct 10th :  Over the last 30 days, The Reservoir has averaged 55 unique visitors daily (see 'Quantitative Impact'.)\nThough this number may appear not much, it is honest work ;-) especially given the niche and the limited influx of new entrants. \n'Optimism Vision: Founders Week' campaign on Twitter received attention, with 1649 impressions and 50 likes\n\nThe Reservoir also received endorsements from three other OP media outlets - The Optimistic Academy, Web3explorer, The Optimism Guide - each of which has linked to The Reservoir, a testament to the quality of our content.\n\nBeyond tangible metrics, the heartwarming feedback from the community also speaks about our impact (see 'Qualitative impact')",
+  "contributionDescription": "I established \"The Optimism Vision Reservoir\", a resource-rich website illuminating Optimism's ethos, values and vision. \n\nAs of Oct10, it includes 42 Entries:\n11 Thematic Pages: In-depth exploration of key concepts or Founders' Insights.\n10 Ressources on \"understanding RPGF\".\n16 Podcast Summaries: 6 from the 'Retro PGF Podcast'  and 10 from 'Delegate Corner'.\n2 Newsletters reviews\n3 Thematic FAQs: Covering RPGF (12), Optimistic Vision (6) and Optimism Collective questions (6).\n\nEach piece enriches the understanding of the Optimistic Vision. The Reservoir archives key discourses on Optimism's long-term goals and presents additional educational contents. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimism-vision-reservoir.com/",
+      "description": "The Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/final-create-and-maintain-the-optimism-vision-reservoir/6102",
+      "description": "The initial mission proposal, along with updates detailing the progress."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Unique Visitors (last 30 days)",
+      "number": "1664",
+      "url": "https://docs.google.com/spreadsheets/d/1mYn3xqwkxagnVFbbHzkHJ2fKstnX63v9to_eMhTtX2c/edit?usp=drive_link"
+    },
+    {
+      "description": "Qualitative impact",
+      "number": "8",
+      "url": "https://docs.google.com/spreadsheets/d/15WWFpqD1yWLZFkuk-XBnmIqb17SO0eqMHlLq_L-zGRo/edit?usp=drive_link"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 4000,
+      "description": "Smallest Mission Grant of S4. Locked until September 2024."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2f0277bbde0a1e3e8ea5e6d2f2e7548f763589963af75e14035401e2c27c7b26",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 28,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

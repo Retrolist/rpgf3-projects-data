@@ -1,0 +1,90 @@
+{
+  "bio": "A high-quality architecture diagram of the Bedrock smart contracts & docs",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Bedrock Contracts Architecture Diagram",
+  "websiteUrl": "https://github.com/BootNodeDev/optimism-bedrock-diagram",
+  "applicant": {
+    "address": {
+      "address": "0x29C5d8b04178a358dC1AfA0F5Fb2C8f5c64d55a6",
+      "resolvedName": {
+        "address": "0x29C5d8b04178a358dC1AfA0F5Fb2C8f5c64d55a6",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x29C5d8b04178a358dC1AfA0F5Fb2C8f5c64d55a6"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29C5d8b04178a358dC1AfA0F5Fb2C8f5c64d55a6.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x4a6b78b78552c1d09c9382bee8faa53c80659fecb59a9f0b06bef5b93843c1a1"
+  },
+  "impactDescription": "We could not track the impact of this contribution. However, if it is included as part of the official documentation and shown on the right channels, it will help others understand how the contracts interact with each other way faster and easier.           ",
+  "contributionDescription": "We created a high-quality architecture diagram of the Bedrock smart contracts with the corresponding documentation. The contribution was triggered by completing the following  Contribution Opportunity: Bedrock Contracts Architecture Diagram #48. It was done by @patitonar who is part of the Bootnode team. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/ecosystem-contributions/issues/48",
+      "description": "Bedrock Contracts Architecture Diagram"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/BootNodeDev/optimism-bedrock-diagram",
+      "description": "Bedrock Contracts Architecture Diagram"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Forks on our repo",
+      "number": "0",
+      "url": "https://github.com/BootNodeDev/optimism-bedrock-diagram"
+    },
+    {
+      "description": "Reactions on diagram ",
+      "number": "6",
+      "url": "https://github.com/ethereum-optimism/ecosystem-contributions/issues/48"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "No OP received for the contribution."
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "No OP received for the contribution."
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 0,
+      "description": "No OP received for the contribution."
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 0,
+      "description": "No OP received for the contribution."
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "No OP received for the contribution."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9c2c5bfbe81568dc2ffb1106304f3b8cfb0ec4c77634a97c413c28c0f99fb66a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 21,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack tooling"
+}

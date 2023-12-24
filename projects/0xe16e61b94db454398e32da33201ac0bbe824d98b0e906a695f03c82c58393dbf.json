@@ -1,0 +1,54 @@
+{
+  "bio": "OS Builder on Ethereum",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "supernova",
+  "websiteUrl": "https://www.supernovahs.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8",
+      "resolvedName": {
+        "address": "0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8",
+        "name": "supernovahs.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3ac3e03fb3b746adc65b2e1406b309c17b849577ad2724d08093ddd21618d98d"
+  },
+  "impactDescription": "I have been part of the ethereum ecosystem for almost 2 years now. During this time, I have worked on many OS projects like Zk Voting, Zk - puzzles in circom, Noir puzzles .\nI contribute regularly to Paradigm Reth , alloy-rs,which increases diversity for clients , which in turn helps Optimism collective directly.",
+  "contributionDescription": "I am an avid contributor on Reth which directly impact Optimism 's security. Reth is an execution layer on ethereum which is ultra fast.\nI also create OS tooling and POCs for ethereum ecosystem namely through BuidlGuidl.\nContributed to many OS zk puzzles on ethereum to help developers learn applied Zk . \n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/paradigmxyz/reth",
+      "description": "All time #17 contributor to Reth"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.buidlguidl.com/builders/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8",
+      "description": "BuidlGuidl Profile"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "No. of PRs",
+      "number": "18",
+      "url": "https://github.com/paradigmxyz/reth/commits?author=supernovahs"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xe16e61b94db454398e32da33201ac0bbe824d98b0e906a695f03c82c58393dbf",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 15,
+  "primaryCategory": "OP Stack",
+  "recategorization": "Ethereum Development & Maintanance"
+}

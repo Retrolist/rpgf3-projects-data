@@ -1,0 +1,83 @@
+{
+  "bio": "The web3 standard for impact certificates",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Hypercerts Foundation",
+  "websiteUrl": "https://www.hypercerts.org",
+  "applicant": {
+    "address": {
+      "address": "0xB6091aAb544eF253c23a37295953AaFc9D836681",
+      "resolvedName": {
+        "address": "0xB6091aAb544eF253c23a37295953AaFc9D836681",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xB6091aAb544eF253c23a37295953AaFc9D836681"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB6091aAb544eF253c23a37295953AaFc9D836681.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB6091aAb544eF253c23a37295953AaFc9D836681.png",
+    "id": "OptimistProfile|0x0212a4774d726cbe41c01f693bfe26392d4ae6e4b7c322198320777d54f6a3d5"
+  },
+  "impactDescription": "USAGE: Almost 40,000 hypercerts have been minted on Optimism through our protocol from over 20,000 unique addresses with more than 30,000 unique owners. More than 2,000 hypercerts are created weekly. We drive adoption of Optimism. \n\nONBOARDING: For many users \u2013 either creators or receivers of hypercerts \u2013 these are their first transactions on Optimism. We have supported numerous users in our pilots to get OP and walked them through their first transactions.\n\nUSE CASE: We created a use case for Optimism strengthening the narrative for web3: You need to be in control of accounting for your contributions and the sale of impact \u2013 without a centralized platform.\n\nPROJECTS: Projects account for contributions, raise funds and reward their supporters, e.g. Zuzalu received over 20 ETH.",
+  "contributionDescription": "Hypercerts are the web3 standard for account for impactful work, tracking financial and non-financial contributions. \n- They can be integrated into any existing platform to build a single distributed database for impact certificates\n- They encourage multiple evaluations to create a dynamic open evaluation system \n- They allow for sustainable financing by selling impact to move beyond donation\n\nWork to be funded retroactively\n1. Built and released the hypercerts protocol on Optimism as our main deployment\n2. Built SDK for other projects to build on top of our protocol\n3. Created frontend for the protocol available at hypercerts.org for anyone to create hypercerts\n4. Created and ran first pilots with Gitcoin Rounds and Zuzalu to distribute hypercerts for financial contributions to projects",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/hypercerts/op-hypercerts",
+      "description": "Dune dashboard for hypercerts"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://hypercerts.org/",
+      "description": "Hypercerts Website"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x822f17a9a5eecfd66dbaff7946a8071c265d1d07",
+      "description": "HypercertsMinter on Optimism (Etherscan)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/hypercerts-org/hypercerts",
+      "description": "Hypercerts Github repository"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Hypercerts created",
+      "number": "38900",
+      "url": "https://dune.com/hypercerts/op-hypercerts"
+    },
+    {
+      "description": "Addresses That Have Created a Hypercert",
+      "number": "20674",
+      "url": "https://dune.com/hypercerts/op-hypercerts"
+    },
+    {
+      "description": "Hypercerts Created in Last 7 Days",
+      "number": "2081",
+      "url": "https://dune.com/hypercerts/op-hypercerts"
+    },
+    {
+      "description": "Hypercert owners (unique)",
+      "number": "30464",
+      "url": "https://dune.com/hypercerts/op-hypercerts"
+    },
+    {
+      "description": "Retroactive funding for Zuzalu (in ETH)",
+      "number": "21.1",
+      "url": "https://zuzalu.hypercerts.org"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xf7339a30ff66a5f84e57dbc7674d6623d121915876a5da931701ed677aba4d48",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 50,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Governance Tooling"
+}

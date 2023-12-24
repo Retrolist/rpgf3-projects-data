@@ -1,0 +1,45 @@
+{
+  "bio": "Aspiring data scientist with a strong foundation in com science and mathematics.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Mohd Abdulla",
+  "websiteUrl": "https://twitter.com/MrAbdulmeta",
+  "applicant": {
+    "address": {
+      "address": "0x45BD7374d5423Dcd8809E64b492AA60Dd8cdbbF1",
+      "resolvedName": {
+        "address": "0x45BD7374d5423Dcd8809E64b492AA60Dd8cdbbF1",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x45BD7374d5423Dcd8809E64b492AA60Dd8cdbbF1"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x45BD7374d5423Dcd8809E64b492AA60Dd8cdbbF1.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x45BD7374d5423Dcd8809E64b492AA60Dd8cdbbF1.png",
+    "id": "OptimistProfile|0x5ebfae9c5dd19cca9694a26050a5c820a4d87ad5388864f8aa934b8280ccea69"
+  },
+  "impactDescription": "As a user, my contributions to the Optimism Collective have focused on active engagement and support within the community. While my role is to provide information, However, my impact can be summarized as follows:\n\nInformation and Education: By utilizing the information and resources available, users like me can gain a deeper understanding of Optimism's technology, which empowers us to make informed decisions and actively participate in the ecosystem.\n\nCommunity Engagement: Users who access information and insights through my assistance can engage more effectively within the Optimism Collective. \n\nNetwork Strengthening: In a collective environment, informed and engaged users can help strengthen the network and promote the adoption of Optimism's solutions,",
+  "contributionDescription": "My contribution to Optimism in providing information, answering questions, and offering insights related to the project and its technology. While I am not directly involved in the development or management of Optimism, I serve as a resource for individuals seeking to understand the concepts, features, and benefits of Optimism's layer-2 scaling solutions for Ethereum. By offering accurate and reliable information, I aim to support users and stakeholders in their journey to learn, engage, and make informed decisions regarding Optimism and its potential impact on the blockchain and cryptocurrency space.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/tx/0xe8c86e0070bdda4f88ec84d7477e3cfa19011955feacef75bd50ad1357f89973",
+      "description": "Lyr0-op"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "459",
+      "url": "https://optimistic.etherscan.io/tx/0xe8c86e0070bdda4f88ec84d7477e3cfa19011955feacef75bd50ad1357f89973"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xeafa030e56b33b8c6141cf7ac0ab4e4f66bd118c1c7b93e8376f15ecad292a26",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

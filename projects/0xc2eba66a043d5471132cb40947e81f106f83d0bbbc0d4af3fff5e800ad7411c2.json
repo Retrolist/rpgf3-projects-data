@@ -1,0 +1,150 @@
+{
+  "bio": "A leading multi-chain DEX supporting the DeFi needs of 25+ Blockchain Ecosystems",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Sushi",
+  "websiteUrl": "https://www.Sushi.com",
+  "applicant": {
+    "address": {
+      "address": "0xE5732B7695F06b9080109B10dec0856e1b801c15",
+      "resolvedName": {
+        "address": "0xE5732B7695F06b9080109B10dec0856e1b801c15",
+        "name": "glaciercrypto.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xE5732B7695F06b9080109B10dec0856e1b801c15"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5732B7695F06b9080109B10dec0856e1b801c15.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE5732B7695F06b9080109B10dec0856e1b801c15.png",
+    "id": "OptimistProfile|0xaece6038b68e41a77d787e1981fb1b9822431dd071ee43e4d5c08b3fff4c13ea"
+  },
+  "impactDescription": "Sushi's cross-chain swaps enable users from various chains to easily join the OP stack. These pioneering efforts foster user cross-pollination, securing strong liquidity vital for projects on the OP stack. Our engagement in the Optimism ecosystem is marked by a significant $239.6M trading volume on both chains YTD, contributing to 15% of Base's total activity. This throughput highlights our essential role in boosting the stack's liveliness and reach. More than just participants, we lead tech evolution, simplifying asset transfers, and liquidity solutions, affirming Sushi's commitment to broadening decentralized finance on the Optimism stack.",
+  "contributionDescription": "In 2022, Sushi pioneered cross-chain swaps via LayerZero's Stargate, bridging liquidity and users across networks and fostering user cross-pollination within ecosystems. This first-of-its-kind capability in DeFi enables seamless asset transactions and liquidity provisions across multiple networks, enhancing user migration pathways to OP/Base from platforms like Ethereum Mainnet and Arbitrum. As an early Base protocol adopter, Sushiswap accounts for over 15% of Base's trade volume, affirming its role as a crucial liquidity nexus. This grant aims to fortify Sushi's position within the OP Stack, leveraging revamped tokenomics and robust liquidity incentives to optimize our offerings and user engagement, aligning with our extensive network that has facilitated over $268B in trades.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/sushiswap",
+      "description": "Sushiswap Github"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.sushi.com/swap/cross-chain",
+      "description": "Product Launch - Crosschain swaps on OP"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.sushi.com/pool?chainIds=10",
+      "description": "v2 and v3 Support for OP on Sushi frontend"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.sushi.com/pool?chainIds=8453",
+      "description": "v2 and v3 Support for OP on Sushi frontend"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.sushi.com/blog/sushi-steer-partnership",
+      "description": "Automated Liquidity Management Live on OP and Base"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.sushi.com/academy/articles/tutorial-trade-and-lp-on-base-via-sushi",
+      "description": "Base Tutorial on Sushi"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.sushi.com/blog/just-dropped-base-x-sushi-bomb-diggity-nft",
+      "description": "Galxe campaign on Base with 1000+ users"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.sushi.com/docs/Developers/Deployment%20Addresses",
+      "description": "All Sushi Deployment addresses"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Swap Users on OP from May - July 2023",
+      "number": "2506609",
+      "url": "https://dune.com/ivanmolto/optimistic-sushi"
+    },
+    {
+      "description": "OP Swap Users last 90 days (from RP3)",
+      "number": "48000",
+      "url": "https://optimistic.etherscan.io/address/0xEb94EcA012eC0bbB254722FdDa2CE7475875A52B"
+    },
+    {
+      "description": "Base Swap Users Last 90 Days (from RP3)",
+      "number": "46000",
+      "url": "https://optimistic.etherscan.io/address/0xEb94EcA012eC0bbB254722FdDa2CE7475875A52B"
+    },
+    {
+      "description": "Assets Bridged to OP via xSwap YTD",
+      "number": "12970000",
+      "url": "https://flipsidecrypto.xyz/Herotat/sushi-xswap-stats--GB0-t"
+    },
+    {
+      "description": "OP Liquidity Pool Mints last 30 Days",
+      "number": "338",
+      "url": "https://optimistic.etherscan.io/address/0x1af415a1EbA07a4986a52B6f2e7dE7003D82231e"
+    },
+    {
+      "description": "Base Liquidity Pools Mints Last 30 Days",
+      "number": "2504",
+      "url": "https://optimistic.etherscan.io/address/0x1af415a1EbA07a4986a52B6f2e7dE7003D82231e"
+    },
+    {
+      "description": "Base Galxe Campaign Participants",
+      "number": "972",
+      "url": "https://galxe.com/SushiSwap/campaign/GCd8TUjjk2"
+    },
+    {
+      "description": "Total Value Locked - OP",
+      "number": "867000",
+      "url": "https://defillama.com/chain/Optimism"
+    },
+    {
+      "description": "Total Volume YTD - OP",
+      "number": "54355980",
+      "url": "https://defillama.com/dexs/sushi"
+    },
+    {
+      "description": "Total Value Locked - Base",
+      "number": "1960000",
+      "url": "https://defillama.com/chain/Base"
+    },
+    {
+      "description": "Total Volume YTD - Base",
+      "number": "202610000",
+      "url": "https://defillama.com/dexs/chains/Base"
+    },
+    {
+      "description": "Fees Generated for LPs TTM - OP",
+      "number": "82436",
+      "url": "https://defillama.com/fees/chains/optimism"
+    },
+    {
+      "description": "Fees Generated for LPs TTM - Base",
+      "number": "1250000",
+      "url": "https://defillama.com/fees/chains/base"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 504000,
+      "description": "Received OP tokens but didn't deploy, prioritized rewards infra upgrades first"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xc2eba66a043d5471132cb40947e81f106f83d0bbbc0d4af3fff5e800ad7411c2",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 39,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,160 @@
+{
+  "bio": "Growing Optimism with fractal communities, tools, games, shows, and events!",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Optimystics",
+  "websiteUrl": "https://optimystics.io",
+  "applicant": {
+    "address": {
+      "address": "0xC11C6f47fe090a706bA82964B8A98F1682b244Ff",
+      "resolvedName": {
+        "address": "0xC11C6f47fe090a706bA82964B8A98F1682b244Ff",
+        "name": "dansingjoy.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xC11C6f47fe090a706bA82964B8A98F1682b244Ff"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC11C6f47fe090a706bA82964B8A98F1682b244Ff.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xC11C6f47fe090a706bA82964B8A98F1682b244Ff.png",
+    "id": "OptimistProfile|0xe2251e9ef7c7c8526854e9421f2e68d7b1d5f8a3aa41e7028f2b47e9635b3850"
+  },
+  "impactDescription": "Our contributions created profound benefits for Optimism!\n\n- We educated dozens of experienced community leaders about Optimism with live presentations and deep discussions at weekly Eden Fractal meetings. This inspired significant interest and they\u2019re now eager to engage with Optimism.\n\n- We shared optimistic videos and show notes in many groups, which attracted emphatic support of world class innovators. This content reached hundreds of talented Web3 builders and substantially increased awareness of Optimism.\n\n- By building open source tools for Optimism Fractal and curating knowledge, we enabled the Citizens House to benefit from years of extensive research and development. This created excitement in the OP community and helped optimists enjoy a powerful protocol to grow the Collective!",
+  "contributionDescription": "Optimystics contribute to Optimism in many ways, including:\n\n- We created Optimism Fractal, a community dedicated to fostering collaboration and awarding public good creators on Optimism. We host weekly meetings where players coopete to grow Optimism, then we produce videos and show notes for educational purposes.\n\n- We created the OP Fractal Stack, a suite of open source tools that empower communities with fun consensus games for fractal collaboration. These tools facilitate Respect Games during Optimism Fractal meetings and provide a powerful reputation primitive.\n\n- We created Eden Fractal, a community pioneering coordination games and fractal democracy. We\u2019ve hosted weekly meetings for 18 months and produced countless innovations, including epic shows and articles about Optimism!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimystics.io",
+      "description": "Optimystics.io"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimismfractal.com",
+      "description": "OptimismFractal.com"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://edenfractal.com/",
+      "description": "EdenFractal.com"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimismfractal.com/1",
+      "description": "Intro to Optimism Fractal and Optimystics team members"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/optimystics",
+      "description": "Optimism Fractal code repository"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x53c9e3a44b08e7ecf3e8882996a500eb06c0c5cc#readProxyContract%23F12",
+      "description": "Smart contracts for Optimism Fractal"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimismfractal.web.app/",
+      "description": "Web app for Optimism Fractal"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimismfractal.com/details",
+      "description": "Fractalgram app and Optimism Fractal intent"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimystics.io/tools",
+      "description": "Articles about Optimystics tools"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimystics.io/videos",
+      "description": "Optimystic videos & show notes"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@edencreators",
+      "description": "Eden Creators youtube channel"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimystics.io/blog",
+      "description": "Optimystics blog"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Events Hosted",
+      "number": "8",
+      "url": "https://optimystics.io/metrics/events"
+    },
+    {
+      "description": "Social Media Impressions",
+      "number": "25000",
+      "url": "https://optimystics.io/metrics/impressions"
+    },
+    {
+      "description": "Videos Published",
+      "number": "13",
+      "url": "https://optimystics.io/metrics/videos"
+    },
+    {
+      "description": "Video Views",
+      "number": "555",
+      "url": "https://optimystics.io/metrics/videos"
+    },
+    {
+      "description": "Articles Published",
+      "number": "13",
+      "url": "https://optimystics.io/metrics/articles"
+    },
+    {
+      "description": "Volunteer Hours",
+      "number": "1500",
+      "url": "https://optimystics.io/metrics/volunteers"
+    },
+    {
+      "description": "Indirect Contributions to Optimism",
+      "number": "42",
+      "url": "https://optimystics.io/metrics/indirect"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "Pomelo Grants quadratic crowdfunding"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 7000,
+      "description": "Eden on EOS elections"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Alien Worlds Fractal proposal"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 50,
+      "description": "Gitcoin GG18"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x8029257cc2a6c1f460ab14a3e2dff3dade52a7e173f35236d9af7bf1ab3fa961",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 32,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

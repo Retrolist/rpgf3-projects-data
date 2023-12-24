@@ -1,0 +1,58 @@
+{
+  "bio": "The Doris Protocol is a data storage marketplace for users.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Doris Protocol",
+  "websiteUrl": "https://www.doris.top/",
+  "applicant": {
+    "address": {
+      "address": "0x90AEA21B1f8365513873eFB99F133Dc1a7fA812a",
+      "resolvedName": {
+        "address": "0x90AEA21B1f8365513873eFB99F133Dc1a7fA812a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x90AEA21B1f8365513873eFB99F133Dc1a7fA812a"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x90AEA21B1f8365513873eFB99F133Dc1a7fA812a.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x7a93e492c3abb8d36b7ba6836823ad83dbdee8f410f53bdf3d42e241fc2add7e"
+  },
+  "impactDescription": "Doris Procotol is a personal data space built on OP Stack, which can help users store personal documents, videos, music and other content safely, quickly and conveniently.Doris Protocol is based on the Ethereum account system and can bring a large number of new users to Optimism. Using Optimism will make it more popular.",
+  "contributionDescription": "Doris Procotol is a personal data space built on OP Stack, which can help users store personal documents, videos, music and other content safely, quickly and conveniently.In the next step, Doris Protocol will open the data market, where users can share their unique content, and plans to use ERC-721 to define user data.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/dorisprotocol/go-doris",
+      "description": "Official Go implementation of the Doris protocol Based OP-Stack."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "100000",
+      "number": "100000",
+      "url": "https://doris.top/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 200000,
+      "description": "I hope to add more developers to improve Doris Protocol."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3684d4fa6e768718b1465d0dad20509ee9f97899337aee25da262e8215f30648",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 20,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

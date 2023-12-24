@@ -1,0 +1,45 @@
+{
+  "bio": "Blockchain enthusiast, sharing its potential and creating user-friendly tools.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "galechus",
+  "websiteUrl": "https://github.com/galechus",
+  "applicant": {
+    "address": {
+      "address": "0x25493740e4507CbCCe792b951A9eff3953B774CD",
+      "resolvedName": {
+        "address": "0x25493740e4507CbCCe792b951A9eff3953B774CD",
+        "name": "galechus.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x25493740e4507CbCCe792b951A9eff3953B774CD"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x25493740e4507CbCCe792b951A9eff3953B774CD.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x25493740e4507CbCCe792b951A9eff3953B774CD.png",
+    "id": "OptimistProfile|0xe0709bc6f72a0010eec81f13ca3263f9fbacb44627718c456af7bfba3f6a0bab"
+  },
+  "impactDescription": "My contribution involves introducing new developers to Optimism technology. This effort aims to expand the talent pool and expertise within the Optimism community, fostering growth and innovation. By nurturing and educating fresh talents, I intend to empower the collective with a stronger developer base, enabling the network to reach new heights in scalability and efficiency.",
+  "contributionDescription": "My aim is to host training sessions that showcase the practical synergy between front-end technologies, such as React.js and Next.js, and blockchain technology on the Optimism network. Through these workshops, participants will gain hands-on experience in bridging the worlds of web development and blockchain on a network known for its scalability and efficiency. I'm passionate about demystifying this innovative combination, enabling attendees to harness the potential of blockchain within their web applications. These sessions will serve as a platform for fostering understanding and proficiency in this exciting intersection of technologies, making it accessible and applicable in real-world projects.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/galechus",
+      "description": "My GitHub"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "I don't know what to write here...",
+      "number": "0",
+      "url": "https://github.com/galechus"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7f762688e0e60985bdeaf73e01d14dcb28e97a24790f28945ca67bd5ea61c05a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

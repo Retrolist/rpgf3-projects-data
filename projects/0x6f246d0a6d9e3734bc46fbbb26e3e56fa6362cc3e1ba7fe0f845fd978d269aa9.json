@@ -1,0 +1,81 @@
+{
+  "bio": "Optimistically building public goods.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "J. Valeska",
+  "websiteUrl": "https://github.com/jvaleskadevs",
+  "applicant": {
+    "address": {
+      "address": "0xf8d4DEda6726134d5F1B506dc7bD6c407cFF64dF",
+      "resolvedName": {
+        "address": "0xf8d4DEda6726134d5F1B506dc7bD6c407cFF64dF",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xf8d4DEda6726134d5F1B506dc7bD6c407cFF64dF"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf8d4DEda6726134d5F1B506dc7bD6c407cFF64dF.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf8d4DEda6726134d5F1B506dc7bD6c407cFF64dF.png",
+    "id": "OptimistProfile|0x4b37cde052663c3304e03ea3afa0a1338f6150c59c4c879476cf9a21a749a53a"
+  },
+  "impactDescription": "Since I got my Ethereum developer certificate at Alchemy University in February, I have dedicated my time and effort to learn, experiment and create different projects on Ethereum L2s, from Scaling Ethereum in March to just yesterday, on EthOnline, passing through Superhack in the summer. Also helping where I can and spreading the word of Superchain out there. \n\nProof of this are the more than 20 repositories in my github, highlighting Superchain Teleporter Station, GitHidra, DAOOOR or Inheritas... all of them were built thinking on improve developer and end user experiences. DAOs, Superchain, AA are some of the topics I had been exploring these year.\n\nI know it's no big deal and there will be many, many more deserving builders out there but I like to think I've done my bit.",
+  "contributionDescription": "As a developer I have been participating in hackathons throughout the year and have built several tools and projects, all of them open sourced.\n\nNone of these projects has had a great impact. Their goal is experimental, connecting new technologies optimistically and exploring the diverse possibilities that the ecosystem offers us.\n\nDespite most of them are not deployed on Optimism and the little impact on production, these projects have been helpful to some developers and have required some of my time and energy. It is for this energy and time that I present my application. Not for a project itself, but for the trajectory and dedication shown throughout the year building public goods optimistically.\n\n(Linking my github and the most relevant projects)",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/jvaleskadevs?tab=repositories",
+      "description": "Link to all my repositories. All have been built this year except the first one."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/jvaleskadevs/superchain-teleporter-station",
+      "description": "Superchain smart contract migration tool. Easily teleport contracts between EVMs"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/jvaleskadevs/DAOOOR",
+      "description": "DAOOOR is a powerful tool for easily creating, joining and managing DAOs. "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "no metrics",
+      "number": "0",
+      "url": "https://example.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2000,
+      "description": "Hackathon Prize, Superhack, August"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1500,
+      "description": "Hackathon Prize, Superfluid, May"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 633,
+      "description": "Hackathon Prize, HackFS, June"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 37,
+      "description": "Hackthon Prize, Scaling Etherum, March"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6f246d0a6d9e3734bc46fbbb26e3e56fa6362cc3e1ba7fe0f845fd978d269aa9",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

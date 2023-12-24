@@ -1,0 +1,45 @@
+{
+  "bio": "Gasken",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Restoaktif",
+  "websiteUrl": "https://x.com/Ziongli17?s=09",
+  "applicant": {
+    "address": {
+      "address": "0xc9755626C038578269Fb30AEF53B44D1C7214007",
+      "resolvedName": {
+        "address": "0xc9755626C038578269Fb30AEF53B44D1C7214007",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xc9755626C038578269Fb30AEF53B44D1C7214007"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc9755626C038578269Fb30AEF53B44D1C7214007.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xbb0ec42678ad74aa2eac42a080dc2b4241331e4499f73bc5c7c5f0206ced93ed"
+  },
+  "impactDescription": "Sangat mendukung proyek ini sampai sukses. Karena ini salah satu dari proyek yang di kembangkan dengan transpan . Yang terpenting ini sangat fleksibel mudah di mengerti dan biaya gasfee yang sangat murah. Bagi seseorang pemula pasti tidak merasa dirugikan dengan biaya gas yang harus di bayar ",
+  "contributionDescription": "Sangat antusias sekali, karena ini adalah proyek yang sangat luar biasa. Semua orang bisa menjelajah sesuka mereka. Keamanan yang di jamin. Sekalian lagi mari kita bangun komunitas yang luar biasa. Agar semua orang tau bahwa optimisme adalah landasan kita untuk mengenal crypto",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://x.com/Ziongli17?s=09",
+      "description": "Good project "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "26",
+      "number": "456",
+      "url": "https://x.com/Ziongli17?s=8"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd35da6036938ee0b58afe8cdbe942ba27c55977ff933c44970b581e37f3371cc",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

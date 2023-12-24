@@ -1,0 +1,55 @@
+{
+  "bio": "jepe",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "kumaha",
+  "websiteUrl": "https://twitter.com/kumahauing10",
+  "applicant": {
+    "address": {
+      "address": "0x2d39CE499678Ac32c2e5398cD03fFeF098957fA6",
+      "resolvedName": {
+        "address": "0x2d39CE499678Ac32c2e5398cD03fFeF098957fA6",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2d39CE499678Ac32c2e5398cD03fFeF098957fA6"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2d39CE499678Ac32c2e5398cD03fFeF098957fA6.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x8f7736b0fdd21042a364f336f431cd66aa83e5663237aef2d74d56e6c5498cda"
+  },
+  "impactDescription": "Amazing  project with great potential. The team's dedication and ingenuity with excellent fan support will make this the envy of the crypto world. Glad to be part.\nhe project supported by experienced and highly qualified team, which in my opinion is able to bring the project to the highest level in the shortest possible time and I hope they succeed.\nWithout doubt, this is one of the best project!",
+  "contributionDescription": "Amazing  project with great potential. The team's dedication and ingenuity with excellent fan support will make this the envy of the crypto world. Glad to be part.\nhe project supported by experienced and highly qualified team, which in my opinion is able to bring the project to the highest level in the shortest possible time and I hope they succeed.\nWithout doubt, this is one of the best project!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://kumaha.com",
+      "description": "lfg"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "kumaha",
+      "number": "1",
+      "url": "https://kumaha.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xddbb3168ca377e6d67c24471c7c18919f8adeba9121cc1e8f69a18767dc0cc24",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

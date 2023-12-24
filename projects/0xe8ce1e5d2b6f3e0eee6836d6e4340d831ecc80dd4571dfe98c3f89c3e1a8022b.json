@@ -1,0 +1,52 @@
+{
+  "bio": "Supporting Optimism Collective: education and research for positive impact.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Dicky Galuh Kurniawan",
+  "websiteUrl": "https://dickygaluhkurniawan.my.id/",
+  "applicant": {
+    "address": {
+      "address": "0xe359A6feBe48E326efA7dBe7a36b31207F9bdA81",
+      "resolvedName": {
+        "address": "0xe359A6feBe48E326efA7dBe7a36b31207F9bdA81",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xe359A6feBe48E326efA7dBe7a36b31207F9bdA81"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe359A6feBe48E326efA7dBe7a36b31207F9bdA81.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x7c83c3103c3b2e58a2c97419982ad35d5d51041bd638e3dc34073c180a79c76f"
+  },
+  "impactDescription": "Sebagai Pengalaman & Adopsi Pengguna Akhir di Optimism Collective, saya memiliki peran penting dalam meningkatkan kepuasan pengguna, mengedukasi pengguna tentang teknologi Optimism, mendatangkan pengguna baru, mengumpulkan umpan balik, dan mendorong adopsi teknologi ini. Terus berinovasi, mendengarkan umpan balik, dan berkolaborasi untuk mencapai tujuan bersama.",
+  "contributionDescription": "As a computer science student at UII, focusing on blockchain studies, I have significant opportunities to play a role in the development of the blockchain ecosystem and Optimism technology. I can choose to be a code developer by mastering Solidity, a researcher delving into Optimism, or an educator who educates the community about blockchain. Contributions to open-source projects, sharing knowledge through articles, and collaborating with Optimism projects can also help enhance this ecosystem. By actively contributing, I can earn incentives from the Optimism Collective and significantly advance the adoption of Optimism technology.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dickygaluhkurniawan.my.id/2023/09/20/contributions-of-a-computer-science-student-to-the-optimism-ecosystem/",
+      "description": "The Impact of Computer Science Students on the Optimism Ecosystem"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": " Table Adoption Impact Metrics",
+      "number": "1",
+      "url": "https://dickygaluhkurniawan.my.id/2023/09/20/table-end-user-experience-adoption-impact-metrics/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "I am suitable to receive $10,000 based on the Impact Metrics for Optimism."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe8ce1e5d2b6f3e0eee6836d6e4340d831ecc80dd4571dfe98c3f89c3e1a8022b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

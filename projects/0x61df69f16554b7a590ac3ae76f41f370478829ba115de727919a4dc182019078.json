@@ -1,0 +1,52 @@
+{
+  "bio": "i am content writer",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Agus Dwi",
+  "websiteUrl": "https://sainskomputer.com",
+  "applicant": {
+    "address": {
+      "address": "0x8f1864aCF8a18be1a89aa934F0f154e1f8b7F8cD",
+      "resolvedName": {
+        "address": "0x8f1864aCF8a18be1a89aa934F0f154e1f8b7F8cD",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x8f1864aCF8a18be1a89aa934F0f154e1f8b7F8cD"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8f1864aCF8a18be1a89aa934F0f154e1f8b7F8cD.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8f1864aCF8a18be1a89aa934F0f154e1f8b7F8cD.png",
+    "id": "OptimistProfile|0xe356043ccb6e709dd98cba6b03af86f4b5fb18f1a7cbd7a13f1ca5400eb52315"
+  },
+  "impactDescription": "i can write article to share optimism ecosystem. I once wrote an article related to blockchain, and introduced it to new users in my country. Maybe I can also do the same thing in Optimism as I did previously in another project. Maybe this will add new enthusiasts who will export an ecosystem of optimism.",
+  "contributionDescription": "i can write article to share optimism ecosystem. I once wrote an article related to blockchain, and introduced it to new users in my country. Maybe I can also do the same thing in Optimism as I did previously in another project. Maybe this will add new enthusiasts who will export an ecosystem of optimism.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://sainskomputer.com",
+      "description": "website technology education"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "site",
+      "number": "1",
+      "url": "https://www.sainskomputer.com/2021/02/hal-berikut-perlu-kita-siapkan-sebelum.html"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x61df69f16554b7a590ac3ae76f41f370478829ba115de727919a4dc182019078",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

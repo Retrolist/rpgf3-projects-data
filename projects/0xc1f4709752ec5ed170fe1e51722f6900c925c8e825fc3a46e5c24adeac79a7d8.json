@@ -1,0 +1,48 @@
+{
+  "bio": "Limited Balance",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "KDaisuke",
+  "websiteUrl": "https://twitter.com/Zergan30105656",
+  "applicant": {
+    "address": {
+      "address": "0x946e86495BC2F2e9E963f16e7C480Bd1527fF5fD",
+      "resolvedName": {
+        "address": "0x946e86495BC2F2e9E963f16e7C480Bd1527fF5fD",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x946e86495BC2F2e9E963f16e7C480Bd1527fF5fD"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x946e86495BC2F2e9E963f16e7C480Bd1527fF5fD.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x946e86495BC2F2e9E963f16e7C480Bd1527fF5fD.png",
+    "id": "OptimistProfile|0x7708ebc491a2d6bbc8cbb219fbfbfc35c0449575cb24fe32347f8038dc35006d"
+  },
+  "impactDescription": "\nI have been actively involved in supporting programs and initiatives aimed at enhancing optimism in society. I have participated in social campaigns, acted as a mentor, and delivered inspirational lectures to motivate individuals and groups. I take pride in seeing the positive changes that have occurred in many lives thanks to these efforts.\n\n",
+  "contributionDescription": "In my role in the Optimism Chain, I have strived to be a living example, sharing my success stories and inspiring others to see the bright side of every challenge. I am confident that when we radiate positive energy, we not only improve ourselves but also provide a boost to others to reach their full potential.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x946e86495BC2F2e9E963f16e7C480Bd1527fF5fD",
+      "description": "nice "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "kdaisuke",
+      "number": "100",
+      "url": "https://twitter.com/Zergan30105656"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xc1f4709752ec5ed170fe1e51722f6900c925c8e825fc3a46e5c24adeac79a7d8",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

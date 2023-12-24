@@ -1,0 +1,150 @@
+{
+  "bio": "The latest on Blockchain news, Digital-assets, DeFi, NFTs, and more!",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "The Blockchain Report",
+  "websiteUrl": "https://www.youtube.com/@theblockchainreport",
+  "applicant": {
+    "address": {
+      "address": "0x2E849DB35D4E7753902414D466d97ad02d333F56",
+      "resolvedName": {
+        "address": "0x2E849DB35D4E7753902414D466d97ad02d333F56",
+        "name": "theblockchainreport.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2E849DB35D4E7753902414D466d97ad02d333F56"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2E849DB35D4E7753902414D466d97ad02d333F56.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2E849DB35D4E7753902414D466d97ad02d333F56.png",
+    "id": "OptimistProfile|0x1c5216e9c24448d92f76f5785d9adea8b775d22f90f3f7f5b86ca8a37b823a96"
+  },
+  "impactDescription": "As mentioned in the first description, I have covered the Optimism network and ecosystem quite extensively. I will include links to each of my videos, as well as the viewer count for each one. I have had quite a lot of engagement on youtube and twitter from new and experienced users asking for help navigating campaign tasks and projects on Optimism.",
+  "contributionDescription": "As stated in my profile, I am a blockchain researcher helping to demystify digital assets and blockchain technology for new and experienced users. My biggest focus has been performing quest campaigns around the ecosystem, as this is a perfect way for new users to get a better understanding of different projects and how to utilize digital assets, DeFi, and NFTs to their advantage. I have uploaded around 20 videos covering the Optimism Network and Ecosystem that includes an extensive multi-part series on the Optimism Quests from September thru November 2022.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x2E849DB35D4E7753902414D466d97ad02d333F56",
+      "description": "Close to half of my tx have come from covering OP campaigns"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of views",
+      "number": "1228",
+      "url": "https://www.youtube.com/watch?v=bDI006U8m8g"
+    },
+    {
+      "description": "# of views",
+      "number": "708",
+      "url": "https://www.youtube.com/watch?v=ZhAoN9Ya_Ds"
+    },
+    {
+      "description": "# of views",
+      "number": "758",
+      "url": "https://www.youtube.com/watch?v=igWoqd8gQhU"
+    },
+    {
+      "description": "# of views",
+      "number": "541",
+      "url": "https://www.youtube.com/watch?v=6eG1XecY99s"
+    },
+    {
+      "description": "# of views",
+      "number": "815",
+      "url": "https://www.youtube.com/watch?v=t3AAcA88aiA"
+    },
+    {
+      "description": "# of views",
+      "number": "2034",
+      "url": "https://www.youtube.com/watch?v=DS6_gha_ZdE"
+    },
+    {
+      "description": "# of views",
+      "number": "714",
+      "url": "https://www.youtube.com/watch?v=Dt26aCvT0B0"
+    },
+    {
+      "description": "# of views",
+      "number": "123",
+      "url": "https://www.youtube.com/watch?v=wDi6GD49loI"
+    },
+    {
+      "description": "# of views",
+      "number": "41",
+      "url": "https://www.youtube.com/watch?v=lw6NnOBUkg4"
+    },
+    {
+      "description": "# of views",
+      "number": "166",
+      "url": "https://www.youtube.com/watch?v=wfg7LgZM7mU"
+    },
+    {
+      "description": "# of views",
+      "number": "109",
+      "url": "https://www.youtube.com/watch?v=pCUEfAhxsFw"
+    },
+    {
+      "description": "# of views",
+      "number": "73",
+      "url": "https://www.youtube.com/watch?v=KWw3tyJKF4M"
+    },
+    {
+      "description": "# of views",
+      "number": "84",
+      "url": "https://www.youtube.com/watch?v=pD5-1mKQiRU"
+    },
+    {
+      "description": "# of views",
+      "number": "51",
+      "url": "https://www.youtube.com/watch?v=sN7HFbIkQwQ"
+    },
+    {
+      "description": "# of views",
+      "number": "38",
+      "url": "https://www.youtube.com/watch?v=F4vhfw7pDdY"
+    },
+    {
+      "description": "# of views",
+      "number": "86",
+      "url": "https://www.youtube.com/watch?v=Hk6NPZH2wo8"
+    },
+    {
+      "description": "# of views",
+      "number": "24",
+      "url": "https://www.youtube.com/watch?v=NaVp3slibFM"
+    },
+    {
+      "description": "# of views",
+      "number": "45",
+      "url": "https://www.youtube.com/watch?v=SVNO5WfWDIA"
+    },
+    {
+      "description": "# of views",
+      "number": "29",
+      "url": "https://www.youtube.com/watch?v=uSYMyEd0uCA"
+    },
+    {
+      "description": "# of views",
+      "number": "10",
+      "url": "https://www.youtube.com/watch?v=ey49yPhh5bs"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 800,
+      "description": "Received Optimism Airdrop #1 and #2"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4f1f2f5b1c5ab11d0eb9aa6e10fe3b47b7505d41ff6f75151f055457026438d2",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 4,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

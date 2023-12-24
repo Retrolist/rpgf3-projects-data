@@ -1,0 +1,55 @@
+{
+  "bio": "I am developing coding website",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Sahri rizki",
+  "websiteUrl": "https://airdropcryptocuan.com",
+  "applicant": {
+    "address": {
+      "address": "0xB12b69Af3F8cD318d691336b91B0554882237099",
+      "resolvedName": {
+        "address": "0xB12b69Af3F8cD318d691336b91B0554882237099",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xB12b69Af3F8cD318d691336b91B0554882237099"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB12b69Af3F8cD318d691336b91B0554882237099.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xbfee79f49a6fbf69aa4956fea0cbbae27650c156634aabdae177559215d23d62"
+  },
+  "impactDescription": "To apply for RetroPGF 3, you will need to complete your profile and submit an application that describes your contributions and impact on the Optimism Collective. Your application information will be public on your profile (coming soon).\n\nFilling out the application takes time, so we recommend that you start your application early.\n\nApplications need to be submitted by October",
+  "contributionDescription": "Developing website and grapich design. Cryptocurency to role moodel.To apply for RetroPGF 3, you will need to complete your profile and submit an application that describes your contributions and impact on the Optimism Collective. Your application information will be public on your profile (coming soon).\n\nFilling out the application takes time, so we recommend that you start your application early.\n\nApplications need to be submitted by October",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "http://airdropcryptocuan.com",
+      "description": "http://airdropcryptocuan.com"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "http://airdropcryptocuan.com",
+      "number": "420",
+      "url": "http://airdropcryptocuan.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xac1088fd7feb93b1577cb2328328d8b743261fe3bcc888657d53bb117846e966",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

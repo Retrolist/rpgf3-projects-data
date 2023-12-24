@@ -1,0 +1,45 @@
+{
+  "bio": "Share crypto projects",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Blvck Sun",
+  "websiteUrl": "https://twitter.com/black_spvce",
+  "applicant": {
+    "address": {
+      "address": "0xdBb07576F684AACd73ca69667AA570A41BBBbC0C",
+      "resolvedName": {
+        "address": "0xdBb07576F684AACd73ca69667AA570A41BBBbC0C",
+        "name": "blvcksun.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xdBb07576F684AACd73ca69667AA570A41BBBbC0C"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdBb07576F684AACd73ca69667AA570A41BBBbC0C.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xdBb07576F684AACd73ca69667AA570A41BBBbC0C.png",
+    "id": "OptimistProfile|0x7b04322ab587813329aaa296469e33598f000215faf0a95d5ed48071f24266eb"
+  },
+  "impactDescription": "Despite significant improvements in scalability and efficiency, Optimism faces certain limitations and challenges. Understanding these areas allows for a full understanding of Optimism's potential impact and areas for further development.\n\nOptimism's security relies on the underlying Ethernet network. Any vulnerability or attack against Ethernet could affect Optimism, and strong security measures and constant monitoring are necessary to maintain the integrity of the Optimism ecosystem.\n\nThe success of Optimism depends on engaging developers and promoting the ecosystem. Providing comprehensive resources and documentation is critical to developer engagement.",
+  "contributionDescription": "Writing and deploying smart contracts may seem challenging at first, but with the right tools and knowledge, writing and deploying smart contracts is easy.\nUse thirdweb to write a simple smart contract, compile the code, and deploy the smart contract on the Ethernet network.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x5855549BBb8002848fd37fe3247a9bcC5394b259",
+      "description": "deply smart contract"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "deploy contract",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0x5855549BBb8002848fd37fe3247a9bcC5394b259"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7718aa58376af56cce8cb857182888083f64ca1c9721d16ed5bef13f59110a4a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

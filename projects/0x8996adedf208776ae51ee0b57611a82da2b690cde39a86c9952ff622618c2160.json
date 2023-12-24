@@ -1,0 +1,77 @@
+{
+  "bio": "Pin Save - decentralized image, video sharing and content aggregation platform.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Pin Save - decentralized Pinterest",
+  "websiteUrl": "https://aevm.pinsave.app/",
+  "applicant": {
+    "address": {
+      "address": "0x48294a067D1bC5a58BCbAB4b3bE329d078D9E1Af",
+      "resolvedName": {
+        "address": "0x48294a067D1bC5a58BCbAB4b3bE329d078D9E1Af",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x48294a067D1bC5a58BCbAB4b3bE329d078D9E1Af"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x48294a067D1bC5a58BCbAB4b3bE329d078D9E1Af.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x48294a067D1bC5a58BCbAB4b3bE329d078D9E1Af.png",
+    "id": "OptimistProfile|0xa268055f978cde83eb23e236005a8b240a2e6490330da0f8caf4b95e359a9690"
+  },
+  "impactDescription": "Pin Save contributions collectively contribute to a stronger and more user-centric community within the Optimism Collective. By empowering users, enhancing privacy and security, and providing a resilient infrastructure, Pin Save has become a valuable platform for decentralized image and content sharing. The impact of your contributions has transformed Pin Save into a trusted and engaging platform, benefiting both users and the Optimism Collective as a whole.\nPrimarily, the integration of Decentralized Identity (ERC-725) within Pin Save has provided users with enhanced anonymity and data protection. This crucial feature fosters trust and privacy within the platform, giving users peace of mind when it comes to sharing and interacting with their personal information.",
+  "contributionDescription": "Pin Save is a decentralized image, video sharing and content aggregation platform where users can not only control the content but also the platform itself.\n\n1. The decentralized feed reinforces the discovery of content and feedback.\n2. Decentralized Identity (ERC-725), which provides anonymity and data protection.\n3. Upgradeable, resilient, and more open decentralized storage.\n4. Smart contracts to securely serve web experiences directly to users.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/dspytdao/PinSave-EVM",
+      "description": "GitHub mono repository for Pin Save NexJs and Hardhat solidity contracts."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x40f320cd3cd616e59599568c4ea011e2ee49a175",
+      "description": "New Updated Pin Save contract Live on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://evm.pinsave.app",
+      "description": "Website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Twitter Followers",
+      "number": "640",
+      "url": "https://twitter.com/PinSav3"
+    },
+    {
+      "description": "Gitcoin Votes",
+      "number": "341",
+      "url": "https://builder.gitcoin.co/#/chains/250/registry/0x8e1bD5Da87C14dd8e08F7ecc2aBf9D1d558ea174/projects/45"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1500,
+      "description": "Gitcoin Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 35000,
+      "description": "Filecoin Grant"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x8996adedf208776ae51ee0b57611a82da2b690cde39a86c9952ff622618c2160",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 25,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

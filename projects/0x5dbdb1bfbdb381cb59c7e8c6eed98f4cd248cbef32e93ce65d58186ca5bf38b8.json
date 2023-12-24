@@ -1,0 +1,52 @@
+{
+  "bio": "Author Composer Artist",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "GH0x111",
+  "websiteUrl": "Https://thenastymariol.nft",
+  "applicant": {
+    "address": {
+      "address": "0x65DC3d4512B0F506Eb4d139c5140611D2A60D527",
+      "resolvedName": {
+        "address": "0x65DC3d4512B0F506Eb4d139c5140611D2A60D527",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x65DC3d4512B0F506Eb4d139c5140611D2A60D527"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x65DC3d4512B0F506Eb4d139c5140611D2A60D527.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xe40b1e82f897ac4a30d64c16fdd25c0f900417c94da2cb826fffeed1eddc2f0c"
+  },
+  "impactDescription": "Nothing extraordinary, just travelling in the ecosystem, acquiring an optimist nft,...\nTrying transactions, governance, swaps,...\nObserving the good progress.\nLoving the done work here.\nLike a user.\nA web3 enthusiastic.\nA web content creator.\nA collector.\nA lover.\nAn optimist.",
+  "contributionDescription": "Simple user fully enjoyed by the quality of this blockchain and its team.\nLooking for the perfect place to launch a token and a project.\nVery interesting upgradable modifiable optimist nft profile.\nGreat platform, website, tokenomic and projects.\nGood job OP!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x65DC3d4512B0F506Eb4d139c5140611D2A60D527",
+      "description": "A few TX and nfts"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Fast, secured, all work well on op",
+      "number": "0",
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 15,
+      "description": "Coinbase quests"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5dbdb1bfbdb381cb59c7e8c6eed98f4cd248cbef32e93ce65d58186ca5bf38b8",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

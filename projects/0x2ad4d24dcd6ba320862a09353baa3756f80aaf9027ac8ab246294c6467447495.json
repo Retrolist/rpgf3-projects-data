@@ -1,0 +1,55 @@
+{
+  "bio": "Reno, 44, tech enthusiast. Passionate about informatics",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Reno",
+  "websiteUrl": "https://mirror.xyz/renoeth.eth",
+  "applicant": {
+    "address": {
+      "address": "0xaB5309888C39646bb222a70E0Bc1C69e3326Ee77",
+      "resolvedName": {
+        "address": "0xaB5309888C39646bb222a70E0Bc1C69e3326Ee77",
+        "name": "renoeth.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xaB5309888C39646bb222a70E0Bc1C69e3326Ee77"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xaB5309888C39646bb222a70E0Bc1C69e3326Ee77.png",
+    "id": "OptimistProfile|0x56aa367490f79cdec855088bae87ba7da2aaca0f85ecec83d58a02e5d070aa99"
+  },
+  "impactDescription": "Contributing to PoolTogether has a significant impact by improving user experience, identifying and fixing bugs, optimizing performance, fostering community engagement, and boosting overall confidence in the platform. Your participation directly enhances the application for all users.",
+  "contributionDescription": "Contributing to PoolTogether's beta testing phase allows users to identify bugs, provide valuable feedback on user experience, test application performance, assess features, and evaluate the game mechanics. This active participation helps developers refine the application, ensuring a smoother and more enjoyable experience for all users upon official launch. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042?a=0xaB5309888C39646bb222a70E0Bc1C69e3326Ee77",
+      "description": "gouvernance"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "onchain contracts",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042?a=0xaB5309888C39646bb222a70E0Bc1C69e3326Ee77"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 15939,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2ad4d24dcd6ba320862a09353baa3756f80aaf9027ac8ab246294c6467447495",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

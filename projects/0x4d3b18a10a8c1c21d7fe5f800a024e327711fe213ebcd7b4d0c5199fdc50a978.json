@@ -1,0 +1,76 @@
+{
+  "bio": "I'm Dani - Head of Growth from TAG Ventures",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Dani",
+  "websiteUrl": "https://twitter.com/Danibull102",
+  "applicant": {
+    "address": {
+      "address": "0xA6103AA75b5D5445989EfEAa5Ea5F51e91467C62",
+      "resolvedName": {
+        "address": "0xA6103AA75b5D5445989EfEAa5Ea5F51e91467C62",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xA6103AA75b5D5445989EfEAa5Ea5F51e91467C62"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA6103AA75b5D5445989EfEAa5Ea5F51e91467C62.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA6103AA75b5D5445989EfEAa5Ea5F51e91467C62.png",
+    "id": "OptimistProfile|0xe1db94afa4588a2d3e567668713210cd4cd845bbed6caa787fab5f7e999a3a21"
+  },
+  "impactDescription": "ptimism Collective is a large-scale experiment in \"digital democracy governance\" designed to foster the rapid and sustainable development of the decentralized ecosystem on Optimism.\n\nOptimism Collective will be managed by the Optimism Foundation organization.\n\nOptimism Collective comprises communities, projects, and citizens (referred to as citizens \u2013 meaning users), operating based on a mutually beneficial covenant, with the underlying principle being \"impact = profit.\" This means that the more active and engaged we are, the greater the benefits we receive from the ecosystem.\nWe highly appreciate OP and have been sharing the project since the early days in the OP ecosystem.\nBelow are some of our posts about the project.",
+  "contributionDescription": "I'm Dani from the TAG Community. We are a community that shares information about leading crypto projects in Vietnam. We highly appreciate OP and have been sharing the project since the early days. We expect OP to be one of the projects that will explode in the near future. Below are some of our posts about the project.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/taggroupchannel/4538",
+      "description": "PROJECT IN A NUTSHELL | OPTIMISTIC "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/taggroupchannel/4901",
+      "description": "RECAP OPTIMISM 2022"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://wetag.xyz/huong-dan-tham-gia-mint-free-nft-ethers-phoenix-cua-optimism-nhan-airdrop-khung/",
+      "description": "Airdrop Optimism Free Mint Ether\u2019s Phoenix NFT"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://wetag.xyz/huong-dan-cach-vote-tren-dao-cua-optimism/",
+      "description": "Tutorial Vote DAO Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/taggroupchannel/5351",
+      "description": "Optimism Airdrop Round 2"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://t.me/taggroupchannel/5367",
+      "description": "Tutorial Testnet Optimism Governance Portal Optimism "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Danibull102/status/1714731909488799937",
+      "description": "Optimism Airdrop RetroPGF3"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "100",
+      "number": "100",
+      "url": "https://t.me/TAGGem/4430"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4d3b18a10a8c1c21d7fe5f800a024e327711fe213ebcd7b4d0c5199fdc50a978",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,50 @@
+{
+  "bio": "Racer.Loans is a lending application built on Friend.Tech.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Racer.Loans",
+  "websiteUrl": "https://racer.loans/",
+  "applicant": {
+    "address": {
+      "address": "0xAf98Bb4bCeD00A17fFE020499C342CFC3511Fb10",
+      "resolvedName": {
+        "address": "0xAf98Bb4bCeD00A17fFE020499C342CFC3511Fb10",
+        "name": "justinbram.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xAf98Bb4bCeD00A17fFE020499C342CFC3511Fb10"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAf98Bb4bCeD00A17fFE020499C342CFC3511Fb10.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xAf98Bb4bCeD00A17fFE020499C342CFC3511Fb10.png",
+    "id": "OptimistProfile|0x7fcf0f37415fef2bbf42766ecd2355c4c4bef227e223b382508be3285346624c"
+  },
+  "impactDescription": "Today, our live platform Racer.Loans empowers users with instant liquidity access for their keys. Users can leverage their Friend.Tech keys with ease and capital efficiency.\n\nIn the future, we're excited to unveil our intents-based lending platform. This innovation will seamlessly match lenders and borrowers, ensuring optimal liquidity distribution and fostering a more efficient Optimism ecosystem.",
+  "contributionDescription": "Racer's goal is to help users access liquidity on their Friend.Tech keys. We're currently live on Base, and now preparing for an audit for lending beyond just FT! We're working to enhance Optimism by introducing an intents-based lending platform, enabling users to get the most competitive rates and LTVs for ERC20s and ERC721s. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0xBE54d229d7f63c0571366f6B7A3965bcF3644734",
+      "description": "Originator contract"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Supported Keys",
+      "number": "60",
+      "url": "https://racer.loans/"
+    },
+    {
+      "description": "TVL",
+      "number": "20",
+      "url": "https://basescan.org/address/0xBE54d229d7f63c0571366f6B7A3965bcF3644734"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x6a3098d9df9b25a248359c422733a550a17f87cc571272e7b9f864cf789fbb5e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

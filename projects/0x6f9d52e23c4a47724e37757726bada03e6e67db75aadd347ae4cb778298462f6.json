@@ -1,0 +1,95 @@
+{
+  "bio": "Banklessadria is BanklessDAO International Media Nodes project genesis member.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Banklessadria",
+  "websiteUrl": "https://banklessadriadao.substack.com/",
+  "applicant": {
+    "address": {
+      "address": "0xAEab2C097bd7a9e5Dbd83fEba500Aa56fB0C5930",
+      "resolvedName": {
+        "address": "0xAEab2C097bd7a9e5Dbd83fEba500Aa56fB0C5930",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xAEab2C097bd7a9e5Dbd83fEba500Aa56fB0C5930"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAEab2C097bd7a9e5Dbd83fEba500Aa56fB0C5930.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xAEab2C097bd7a9e5Dbd83fEba500Aa56fB0C5930.png",
+    "id": "OptimistProfile|0xaf7e86dde068c28294b8262d8c11919947ef469d4432b429226f0eecfe71fa94"
+  },
+  "impactDescription": "Banklessadria were able to help propagate the Optimistic Vision and Mission to a community of Serbian/Croatian speakers via our Substack page and X profile.\n\nDuring last two years, Banklessadria published 264 articles, all related to crypto and web3 ecosystem, primarily concentrated on Ethereum blockchain and Rollup solutions. First Optimism article is published in May 2022, covering airdrop announcement and NFT projects on Optimism at the time. Covering Optimism, we published first article regarding OP stack solution Base L2, in March 2023.",
+  "contributionDescription": "Banklessadria, as an International Media Nodes project member, is active since October 2021, creating and translating content that is inline with BanklessDAO values.\n\nOur vision is to educate crypto enthusiasts in Serbia, Croatia, Bosnia and Herzegovina and Montenegro, and mission is to onboard as many crypto users as possible.\n\nWe have been creating and translating content regarding the Optimism ecosystem, since 2022, and sharing it with our audience. During this period, we created at least 4 articles, translated 17 articles, that are published on our Substack, and as well posted 24 tweets on our X profile.   \n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://banklessadriadao.substack.com/",
+      "description": "Banklessadria substack page"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/banklessadria",
+      "description": "Banklessadria X page"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/0xAEab2C097bd7a9e5Dbd83fEba500Aa56fB0C5930",
+      "description": "Banklessadria mirror page"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Optimism related articles",
+      "number": "11",
+      "url": "https://drive.google.com/file/d/1n4zJMY8nArruMvRAIB2jqmGH-qDDq860/view?usp=sharing"
+    },
+    {
+      "description": "Optimism in Banklessadria articles",
+      "number": "9",
+      "url": "https://drive.google.com/file/d/1dRbFGr50w_Pz3357S-d72oODuodyz3OV/view?usp=sharing"
+    },
+    {
+      "description": "Base related articles",
+      "number": "2",
+      "url": "https://drive.google.com/file/d/1-08X1tXXFhpoXO9ZZRfpysKOWkyfjJE6/view?usp=sharing"
+    },
+    {
+      "description": "opBNB related articles",
+      "number": "1",
+      "url": "https://drive.google.com/file/d/1mFhhf0aTq0-37s3WRns1bwSYKRb-C37D/view?usp=sharing"
+    },
+    {
+      "description": "X platform - single tweets",
+      "number": "15",
+      "url": "https://drive.google.com/file/d/1AuuE_ThmqU3Se4F7QaI5wB8mcqQQVQjh/view?usp=sharing"
+    },
+    {
+      "description": "X platform - translated threads",
+      "number": "7",
+      "url": "https://drive.google.com/file/d/1EhIayU7bpAImjMjckb8iFlbv8-daP4cj/view?usp=sharing"
+    },
+    {
+      "description": "Mirror posts",
+      "number": "7",
+      "url": "https://drive.google.com/file/d/1aecwOp3PyUusdw2PUGn0IGIG0acat5I8/view?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 200,
+      "description": "BanklessDAO International Media Nodes project internal funding - 58000 BANK"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6f9d52e23c4a47724e37757726bada03e6e67db75aadd347ae4cb778298462f6",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 21,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

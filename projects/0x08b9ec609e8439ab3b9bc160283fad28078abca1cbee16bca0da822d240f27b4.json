@@ -1,0 +1,60 @@
+{
+  "bio": "I Am Onlyfun! All for  Your fans\uff0cAll for Your fun.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Onlyfun",
+  "websiteUrl": "https://onlyfun.city/",
+  "applicant": {
+    "address": {
+      "address": "0x3D4f69B24f4D2b151DC53da52dDAc887E8C237F0",
+      "resolvedName": {
+        "address": "0x3D4f69B24f4D2b151DC53da52dDAc887E8C237F0",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3D4f69B24f4D2b151DC53da52dDAc887E8C237F0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3D4f69B24f4D2b151DC53da52dDAc887E8C237F0.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3D4f69B24f4D2b151DC53da52dDAc887E8C237F0.png",
+    "id": "OptimistProfile|0x6d330e74999e3692ccac356b4b26f2c1458dcb71e26f79d39a97a9782859ee6d"
+  },
+  "impactDescription": "Since its beta launch in April, Onlyfun has had over 9,000 registered users, with users publishing more than 29,000 articles in total. The amount of funds participating in mining on the platform has exceeded $1,000,000,and the total amount of mining rewards issued has exceeded $300,000.",
+  "contributionDescription": "Onlyfun is committed to solving the problem of user cross-chain transactions, supporting multi-chain recharge and withdrawal, and allowing users to easily switch between different blockchain networks, simplifying the user experience.\nOnlyfun has opened 7 mining pools supporting the OP chain, providing users with investment options with annual yields ranging from 12% to 120%. Users can use idle funds to mine and obtain considerable returns.\nOnlyfun provides users with a platform for information sharing and communication. Users can open columns to share updates and information on OP ecosystem projects. Additionally, Onlyfun's column subscriptions support OP payment, expanding the usage scenarios of OP.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://onlyfun.city/index.html",
+      "description": "Onlyfun official website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://onlyfun-citys-organization.gitbook.io/onlyfun.city/onlyfun-overview/onlyfun-mining",
+      "description": "A brief introduction to Onlyfun mining pool."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/onlyfun2023/onlyfun",
+      "description": "Github"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/onlyfun2023/onlyfun/tree/main/contract",
+      "description": "Onlyfun contract"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Registered users",
+      "number": "9423",
+      "url": "https://onlyfun.city/index.html"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x08b9ec609e8439ab3b9bc160283fad28078abca1cbee16bca0da822d240f27b4",
+  "prelimResult": "Remove",
+  "reportReason": "I would appreciate someone looked into the legitamacy of this"
+}

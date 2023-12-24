@@ -1,0 +1,171 @@
+{
+  "bio": "ZK identity protocol for sybil resistance, secure key custody, and open civics.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Holonym",
+  "websiteUrl": "https://holonym.id",
+  "applicant": {
+    "address": {
+      "address": "0x33359285F30E7B3386dE70ca500F4fe27853765B",
+      "resolvedName": {
+        "address": "0x33359285F30E7B3386dE70ca500F4fe27853765B",
+        "name": "ltd.opscientia.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x33359285F30E7B3386dE70ca500F4fe27853765B"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33359285F30E7B3386dE70ca500F4fe27853765B.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x33359285F30E7B3386dE70ca500F4fe27853765B.png",
+    "id": "OptimistProfile|0x62f172e294cbb838d8c153233bd13f8ef7c085db194e690456a5bb7b72bb4879"
+  },
+  "impactDescription": "The Holonym protocol has provided the following impact:\n\n* 18,000 users verified in an on-chain anonymity set, providing strong user privacy without the risk of biometrics\n* 9,000 ZK SBT proofs of uniqueness minted, reducing the Sybil threat\n* Developer tooling for deploying ZK credentials on Optimism with example issuers for any credential with examples written in rust\n* R&D with post-quantum ZK research company BTQ to upgrade OP ZK circuits with quantum resistance.\n* Open Civics tooling to democracies on-chain with ZK proofs for voting and legal status\n* ZK reputation tooling for DeSci researchers with on-chain OP attestation\n* Snapshot integration to allow for OP DAOs with Holonym support for 1-person, 1-vote strategies. ",
+  "contributionDescription": "Holonym is a zero knowledge identity protocol deployed on Optimism. Holonym's mission is to build open source tools for decentralized identity and secure key custody. Our focus is on digital rights, user-centric privacy controls, and transparent governance to accelerate open civics and decentralized science (DeSci). The OP ecosystem is our chosen infra to accomplish this mission.\n\nAlmost 18,000 users have added themselves to the Holonym identity mixer on the OP blockchain. Of these, over ~9000 have minted ZK SBTs proving that they are a real unique person, and not a bot. As part of this work, we've deployed smart contracts such as ZK SBT proof smart contracts, a large anonymity set, example issuers in rust, a DeSci identity registry, and privacy relayer contract.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.holonym.id",
+      "description": "Live ZK DID Application in Production"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://verse.opsci.io",
+      "description": "DeSci Registry (built on OP with Holonym, WIP)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.holonym.id/",
+      "description": "Documentation on Holonym"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/holonym-foundation/example-issuer",
+      "description": "Example Issuer for Devs"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xb1f50c6c34c72346b1229e5c80587d0d659556fd",
+      "description": "Holonym Relayer contract that adds user leaves to the Merkle Tree with privacy."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xdD748977BAb5782625AF1466F4C5F02Eb92Fce31",
+      "description": "Holonym Sybil Resistance (GovID) ZK SBT and proof verification contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x7a81f2f88b0ee30ee0927c9f672487689c6dd7ce",
+      "description": "Holonym Sybil Resistance (GovID) ZK SBT (ERC721)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xA40C8AAF7F47B18c1eDdBe7855b580f828eD9711",
+      "description": "Holonym Sybil Resistance (Phone) ZK SBT and proof verification contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xe337ad5aa1cb84e12a7aab85aed1ab6cb44c4a8e",
+      "description": "Holonym Sybil Resistance (Phone) ZK SBT (ERC721)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x7497636F5E657e1E7Ea2e851cDc8649487dF3aab",
+      "description": "Holonym US Residence ZK SBT and proof verification contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x25b42489b7647863918af127aaaa3243ec605aca",
+      "description": "Holonym US Residence ZK SBT (ERC721)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x71712Ac158C5b25519Aad43eB9f496ae16892211",
+      "description": "Holonym Medical Specialty ZK SBT and proof verification contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xb316940b687DAa87392157e2ECfeC1b9e182423d",
+      "description": "Holonym Merkle Tree Roots Contract (for censorship resistance)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x87b6e03b0d57771940d7cc9e92531b6217364b3e",
+      "description": "Holonym Hub Contract (deprecated)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xcA652a621aA40525698510b5C6cf4882df9891EB",
+      "description": "OpSci Verse DeSci Identity Attestations"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/holonym-foundation/holonym-relayer",
+      "description": "Holonym Relayer Server"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/holonym-foundation/id-hub-contracts",
+      "description": "Holonym ID Hub Contracts"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/holonym-foundation/zk-frontend",
+      "description": "Holonym ZK Front End"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/holonym-foundation/issuer-rust",
+      "description": "Holonym ZK Issuer [rust]"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/holonym-foundation/id-server",
+      "description": "Holonym ZK ID server"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "ZK Anonymity Set",
+      "number": "17873",
+      "url": "https://optimistic.etherscan.io/address/0xb1f50c6c34c72346b1229e5c80587d0d659556fd"
+    },
+    {
+      "description": "ZK SBT Anti Sybil Proof [GovID]",
+      "number": "5985",
+      "url": "https://optimistic.etherscan.io/address/0xdD748977BAb5782625AF1466F4C5F02Eb92Fce31"
+    },
+    {
+      "description": "ZK SBT Anti Sybil Proof [Phone]",
+      "number": "2793",
+      "url": "https://optimistic.etherscan.io/address/0xA40C8AAF7F47B18c1eDdBe7855b580f828eD9711"
+    },
+    {
+      "description": "DeSci Researchers",
+      "number": "65",
+      "url": "https://form.typeform.com/report/cC0QmNuC/NjmSaRP8N6NS5FIa"
+    },
+    {
+      "description": "Total # ZK Proofs",
+      "number": "8739",
+      "url": "https://dune.com/queries/3097031/5167260"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 70000,
+      "description": "ZK proof of uniqueness SBT mint fees on OP"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6edbaf833fdee6fb7ae4411e30ac9da8ee22af2c2aea303adbeaf5de80937d6f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 37,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

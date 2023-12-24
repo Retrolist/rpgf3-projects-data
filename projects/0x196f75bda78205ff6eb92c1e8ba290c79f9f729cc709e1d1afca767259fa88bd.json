@@ -1,0 +1,47 @@
+{
+  "bio": "Nft collector, crypto trader, beta tester, project analyst",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "xide",
+  "websiteUrl": "Twitter: @xide88",
+  "applicant": {
+    "address": {
+      "address": "0x8bD036Ec5Fce5341fdFd3A8c1F108a6820B55D92",
+      "resolvedName": {
+        "address": "0x8bD036Ec5Fce5341fdFd3A8c1F108a6820B55D92",
+        "name": "xide420.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8bD036Ec5Fce5341fdFd3A8c1F108a6820B55D92"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x81138a62c97bde7746abbf65e189820b0534696be83a3fd475b1beb685cb721a"
+  },
+  "impactDescription": "Active Optimism user. Made a lot of bridges, swaps, contract deployments, nft token deployments and a lot of other activities. Believe that Optimism will be top1 L2 solution. For now i have good volume in Optimism network. Using optimism to make bridge to another networks. ",
+  "contributionDescription": "Active Optimism user. Made a lot of bridges, swaps, contract deployments, nft token deployments and a lot of other activities. Believe that Optimism will be top1 L2 solution. For now i have good volume in Optimism network. Using optimism to make low cost bridge to another L2 networks. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x8bD036Ec5Fce5341fdFd3A8c1F108a6820B55D92",
+      "description": "OATS"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Scan",
+      "number": "15",
+      "url": "https://optimistic.etherscan.io/address/0x8bD036Ec5Fce5341fdFd3A8c1F108a6820B55D92"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x196f75bda78205ff6eb92c1e8ba290c79f9f729cc709e1d1afca767259fa88bd",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

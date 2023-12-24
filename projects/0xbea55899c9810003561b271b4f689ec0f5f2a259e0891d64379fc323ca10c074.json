@@ -1,0 +1,93 @@
+{
+  "bio": "The meta-aggregator perps, swaps, and free public infrastructure for all users",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "UniDex",
+  "websiteUrl": "https://www.unidex.exchange/",
+  "applicant": {
+    "address": {
+      "address": "0x2E5d207a4C0F7e7C52F6622DCC6EB44bC0fE1A13",
+      "resolvedName": {
+        "address": "0x2E5d207a4C0F7e7C52F6622DCC6EB44bC0fE1A13",
+        "name": "unidexapp.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2E5d207a4C0F7e7C52F6622DCC6EB44bC0fE1A13"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2E5d207a4C0F7e7C52F6622DCC6EB44bC0fE1A13.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2E5d207a4C0F7e7C52F6622DCC6EB44bC0fE1A13.png",
+    "id": "OptimistProfile|0xe8589fdd835f476d7fa50687f2b7982dc6e6a793871029a8b0d9ae768cc264e4"
+  },
+  "impactDescription": "- Drove over 2k users to optimism for our trading platform\n- Over 3.5 Billion RPC relays for our free public rpc aggregator\n- over 250m in trading volume facilitated on optimism\n- Increased awareness and pushed the adoption of OP stack chains with our deployed Magma testnet & Molten Mainnet\n- Contributed to the OP stack ecosystem by building a new approach to sequencers that similar perp dexs looking to launch their own OEV/MEV controlled app chain can utilize",
+  "contributionDescription": "- First Meta-aggregator available on optimism\n- First Perp aggregator available on optimism\n- First Free RPC Meta-aggregator available on optimism\n- Launched an intent-based gasless swap platform for optimism which batches orders together\n- Launched our Magma testnet which is a modified OP stack app chain for perps and controlled MEV",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://leverage.unidex.exchange/",
+      "description": "Perp aggregator"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.unidex.exchange/#/10/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "description": "intent based meta-aggregator"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.unidex.exchange/obsidian-rpc",
+      "description": "Free public rpc"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.unidex.exchange/molten-network",
+      "description": "OP stack app chain"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x103d0634ec6c9e1f633381b16f8e2fe56a2e7372",
+      "description": "Intent based swap contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x6b80be62036b261e55116dcfe335ee361fa0f0fd",
+      "description": "Oracle contract for perps"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x017637a1e5c815c442edcc3a867ad775adadaa87",
+      "description": "Current Perp trading contract"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "RPC relays",
+      "number": "2500000000",
+      "url": "https://www.unidex.exchange/obsidian-rpc"
+    },
+    {
+      "description": "Perps Volume",
+      "number": "250000000",
+      "url": "https://stats.unidex.exchange/"
+    },
+    {
+      "description": "Unique Users",
+      "number": "2000",
+      "url": "https://stats.unidex.exchange/"
+    },
+    {
+      "description": "Transactions Executed",
+      "number": "14700",
+      "url": "https://optimistic.etherscan.io/address/0x309af72b0952eb4e6f080d93f182baf6fcc725a3"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xbea55899c9810003561b271b4f689ec0f5f2a259e0891d64379fc323ca10c074",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 16,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

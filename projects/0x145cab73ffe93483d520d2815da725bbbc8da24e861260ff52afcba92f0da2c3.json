@@ -1,0 +1,136 @@
+{
+  "bio": "we are media ecosystem, telling about crypto, finances and technologites",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "The VS\u0401",
+  "websiteUrl": "https://www.thevse.io/",
+  "applicant": {
+    "address": {
+      "address": "0x70a4e7e0b399c6AB736B15d66410f7015a8C6663",
+      "resolvedName": {
+        "address": "0x70a4e7e0b399c6AB736B15d66410f7015a8C6663",
+        "name": "danferat.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x70a4e7e0b399c6AB736B15d66410f7015a8C6663"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x70a4e7e0b399c6AB736B15d66410f7015a8C6663.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x70a4e7e0b399c6AB736B15d66410f7015a8C6663.png",
+    "id": "OptimistProfile|0xfba948eee2ba6c07f3c10540c6db06114e34c55ccc2c05836ad0cb5598602098"
+  },
+  "impactDescription": "since aprill 2022 we spreading information about many events and announcements interconnected with Optimism and it's ecosystem. We've talked about your retrodrop and project, we've talked about new activities coming online, we've talked about major events such as the launch of Optimism Collective and others, we've talked about new polls and the trend of governance mechanisms evolving  ",
+  "contributionDescription": "since aprill 2022 we spreading information about many events and announcements interconnected with Optimism and it's ecosystem. We've talked about your retrodrop and project, we've talked about new activities coming online, we've talked about major events such as the launch of Optimism Collective and others, we've talked about new polls and the trend of governance mechanisms evolving  ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/thevse",
+      "description": "CIS media-ecosystem talking about cryptocurrencies and finances "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "14,5 k views",
+      "number": "100",
+      "url": "https://t.me/thevse/2043"
+    },
+    {
+      "description": "15,7 k views",
+      "number": "97",
+      "url": "https://t.me/thevse/2155"
+    },
+    {
+      "description": "15,2 k views",
+      "number": "98",
+      "url": "https://t.me/thevse/2176"
+    },
+    {
+      "description": "13,1 k views",
+      "number": "97",
+      "url": "https://t.me/thevse/2426"
+    },
+    {
+      "description": "12,1 k views",
+      "number": "100",
+      "url": "https://t.me/thevse/2452"
+    },
+    {
+      "description": "17,7 k views",
+      "number": "100",
+      "url": "https://t.me/thevse/2527"
+    },
+    {
+      "description": "15 k views",
+      "number": "100",
+      "url": "https://t.me/thevse/2557"
+    },
+    {
+      "description": "13k views",
+      "number": "100",
+      "url": "https://t.me/thevse/2734"
+    },
+    {
+      "description": "12,2 k views",
+      "number": "100",
+      "url": "https://t.me/thevse/2764"
+    },
+    {
+      "description": "20k views",
+      "number": "100",
+      "url": "https://t.me/thevse/2815"
+    },
+    {
+      "description": "20,9 k views",
+      "number": "100",
+      "url": "https://t.me/thevse/2816"
+    },
+    {
+      "description": "12,7 k views",
+      "number": "100",
+      "url": "https://t.me/thevse/2881"
+    },
+    {
+      "description": "11,6 k views",
+      "number": "100",
+      "url": "https://t.me/thevse/2912"
+    },
+    {
+      "description": "11,3 k views",
+      "number": "100",
+      "url": "https://t.me/thevse/2947"
+    },
+    {
+      "description": "11,3 k views",
+      "number": "100",
+      "url": "https://t.me/thevse/3024"
+    },
+    {
+      "description": "9,8 k views",
+      "number": "100",
+      "url": "https://t.me/thevse/3162"
+    },
+    {
+      "description": "13,5 k views",
+      "number": "100",
+      "url": "https://t.me/thevse/3311"
+    },
+    {
+      "description": "11,6 k views",
+      "number": "100",
+      "url": "https://t.me/thevse/3507"
+    },
+    {
+      "description": "10,3 k views",
+      "number": "100",
+      "url": "https://t.me/thevse/3526"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x145cab73ffe93483d520d2815da725bbbc8da24e861260ff52afcba92f0da2c3",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

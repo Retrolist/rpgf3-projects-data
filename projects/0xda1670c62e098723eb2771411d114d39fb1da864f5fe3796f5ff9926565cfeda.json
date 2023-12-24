@@ -1,0 +1,73 @@
+{
+  "bio": "Open, decoded, and CC0-licensed Optimism Superchain datasets.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "indexed.xyz",
+  "websiteUrl": "https://indexed.xyz",
+  "applicant": {
+    "address": {
+      "address": "0x888d35cDA7a2E5DF438B75b89e567C6aC6D36Ab9",
+      "resolvedName": {
+        "address": "0x888d35cDA7a2E5DF438B75b89e567C6aC6D36Ab9",
+        "name": "hem.lol"
+      }
+    },
+    "id": "Delegate|Delegate|0x888d35cDA7a2E5DF438B75b89e567C6aC6D36Ab9"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x888d35cDA7a2E5DF438B75b89e567C6aC6D36Ab9.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x888d35cDA7a2E5DF438B75b89e567C6aC6D36Ab9.png",
+    "id": "OptimistProfile|0xa1b3a10b073ecac7797e65c4f08a669a97a4fc4298acb88fb2eb2501994879b3"
+  },
+  "impactDescription": "The main benefit of indexed.xyz is that it increases data accessibility for OP chains, taking on all of the cost and complexity of indexing, decoding, and hosting multiple blockchains' worth of data.\n\nindexed.xyz's local-first model enables developers to use their existing storage and compute (eg. laptops) and work offline. This makes possible large-scale analytics that would otherwise be prohibitively expensive, which is especially important in enhancing accessibility for resource-limited teams (eg. other public goods, those in developing regions).\n\nAccessible and cost-effective Superchain data via indexed.xyz makes OP-stack chains more attractive to builders and enables better decision-making across the ecosystem, contributing to the growth & success of the Optimism Collective.",
+  "contributionDescription": "indexed.xyz\u00a0is an open, decoded, and CC0-licensed dataset that allows anyone to freely download, copy, and analyze chain data (including OP-stack chains like Zora and Base) without any restriction. By adopting a local-first approach, we enable builders to leverage their local storage and compute, making it easier and more affordable to work with crypto data, all while providing more flexibility and control.\n\nWithout indexed.xyz, builders otherwise have to use cloud platforms that drive lock-in, offer limited flexibility, and charge expensive query compute and/or storage fees. These platforms don't support many newer OP-stack chains, requiring builders to run a node to access the data they need to power analytics on their app or at the (multi-)chain level.\n\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://indexed.xyz",
+      "description": "Homepage"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.indexed.xyz",
+      "description": "Documentation"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "TB of OP-Stack data hosted",
+      "number": "1.85",
+      "url": "https://docs.google.com/document/d/13W4Nn-D-qkHRi8WGaVUf1rwajpj1yUg47OtVj4Pax-o/edit"
+    },
+    {
+      "description": "TB of data served, past 3 wks",
+      "number": "139.96",
+      "url": "https://docs.google.com/document/d/13W4Nn-D-qkHRi8WGaVUf1rwajpj1yUg47OtVj4Pax-o/edit"
+    },
+    {
+      "description": "TB of OP-Stack data served, past 3 wks",
+      "number": "32.39",
+      "url": "https://docs.google.com/document/d/13W4Nn-D-qkHRi8WGaVUf1rwajpj1yUg47OtVj4Pax-o/edit"
+    },
+    {
+      "description": "# unique visits, trailing 30 days",
+      "number": "3062",
+      "url": "https://docs.google.com/document/d/13W4Nn-D-qkHRi8WGaVUf1rwajpj1yUg47OtVj4Pax-o/edit"
+    },
+    {
+      "description": "% requests from outside CA + US",
+      "number": "88",
+      "url": "https://docs.google.com/document/d/13W4Nn-D-qkHRi8WGaVUf1rwajpj1yUg47OtVj4Pax-o/edit"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xda1670c62e098723eb2771411d114d39fb1da864f5fe3796f5ff9926565cfeda",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 46,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

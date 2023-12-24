@@ -1,0 +1,48 @@
+{
+  "bio": "great",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "goo op",
+  "websiteUrl": "https://twitter.com/asekakun7",
+  "applicant": {
+    "address": {
+      "address": "0x2eb6896CE4F45192140b5321F61D11E9eDA82F2B",
+      "resolvedName": {
+        "address": "0x2eb6896CE4F45192140b5321F61D11E9eDA82F2B",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2eb6896CE4F45192140b5321F61D11E9eDA82F2B"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x243cd69d1b03ea84f71fbee4ca78f0906a88f96b1aa8de49c4764d1e2e0e479a"
+  },
+  "impactDescription": "one of the extraordinary projects, and it will be over the moon if it bullruns, always success for the team and communityOptimism mempercepat transaksi Ethereum dan memotong biayanya dengan menempatkannya di blockchain lain menggunakan teknik kompresi data tingkat lanjut. Saus khusus untuk metodologi penskalaan Optimism ada dalam namanya.\n\nIa menggunakan teknik yang disebut optimistis rollup, di mana beberapa transaksi \u2018digabungkan\u2019 menjadi satu transaksi, diselesaikan di blockchain lain, dengan penerimaan diumpankan kembali ke blockchain Ethereum utama.\n\n\nJika semua transaksi dalam rollup adalah asli, rollup optimis adalah bentuk rollup \u2018optimis\u2019, atau positif. Ini menghemat waktu dengan menghilangkan kebutuhan untuk menunjukkan bukti keaslian transaksi",
+  "contributionDescription": "one of the extraordinary projects, and it will be over the moon if it bullruns, always success for the team and community, hhhgbbjjiiuhhh Optimism mempercepat transaksi Ethereum dan memotong biayanya dengan menempatkannya di blockchain lain menggunakan teknik kompresi data tingkat lanjut. Saus khusus untuk metodologi penskalaan Optimism ada dalam namanya.\n\nIa menggunakan teknik yang disebut optimistis rollup, di mana beberapa transaksi \u2018digabungkan\u2019 menjadi satu transaksi, diselesaikan di blockchain lain, dengan penerimaan diumpankan kembali ke blockchain Ethereum utama.\n\n\nJika semua transaksi dalam rollup adalah asli, rollup optimis adalah bentuk rollup \u2018optimis\u2019, atau positif. Ini menghemat waktu dengan menghilangkan kebutuhan untuk menunjukkan",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.vom/asekakun7",
+      "description": "twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "https://twitter.com/asekakun7",
+      "number": "200",
+      "url": "https://twitter.com/asekakun7"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xea78eba44c16e04d85dee3bb49fefc63cefee8299d5cf1588036053cf151eb73",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

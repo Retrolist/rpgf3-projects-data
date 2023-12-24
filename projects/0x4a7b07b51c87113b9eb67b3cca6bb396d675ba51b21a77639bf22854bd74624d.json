@@ -1,0 +1,88 @@
+{
+  "bio": "Our mandate is to make the grants process smoother for everyone involved!",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Optimism Grants Council Season 4",
+  "websiteUrl": "https://app.charmverse.io/op-grants/page-701220845245208",
+  "applicant": {
+    "address": {
+      "address": "0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5",
+      "resolvedName": {
+        "address": "0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5",
+        "name": "katiegarcia.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5.png",
+    "id": "OptimistProfile|0xf004d29ae739012dc2d34590e0d73f05a03e0dbb89067ac858b39f19a3fa1f91"
+  },
+  "impactDescription": "The council was able to create a more streamlined and consistent process for proposers, set a pace for grant distributions, and define clear expectations for grant applicants.  The council was able to generate meaningful requests for grants that ranged from audit services and RPC capacity to cross chain interoperability research.  Overall, the grants council has reduced the workload of Token House delegates, enabling them to focus their energies on high-impact votes.\n",
+  "contributionDescription": "Season 4 has been an inflection point for the grants program, during which the review process went from a system that worked in theory to a system that is strengthened by practice.\n\nOn average, the Cycles in Season 4 saw a nearly 30% increase in proposals relative to Season 3 Cycles. There were more than 350 total proposals processed by the Grants Council in Season 4, relative to approximately 150 proposals processed in Season 3.\n\nThe Council scaled its process to accommodate the growing demand for Optimism grants. Each sub-committee refined rubrics tailored to the goal of Intent 2 (Innovating on Novel Applications), and the reviewers learned how to provide robust, yet efficient reviews to manage substantial growth.  We also piloted demand-based granting through the RFG program.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/cycle-15-final-grants-roundup/6858",
+      "description": "Cycle 15 Final Grants Roundup"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/season-4-grants-rfg-roundup/6859",
+      "description": "Season 4 RFG Roundup"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/cycle-14-final-grants-roundup/6676",
+      "description": "Cycle 14 Final Grants Roundup"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/cycle-13-final-grants-roundup/6454",
+      "description": "Cycle 13 Final Grants Roundup"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of proposals reviewed in season 4",
+      "number": "376",
+      "url": "https://gov.optimism.io/t/cycle-15-final-grants-roundup/6858"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 125000,
+      "description": "5 Base Reviewers - 25,000 each"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 135000,
+      "description": "3 Specialty Managers - 30,000, 1 Lead - 35,000 (+additional 10k btw S3 /S4)"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 20250,
+      "description": "2,250 - per council member for milestones review between S4/S5"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "Amounts above include only Season 4 "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4a7b07b51c87113b9eb67b3cca6bb396d675ba51b21a77639bf22854bd74624d",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 47,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Optimism Governance Contributions"
+}

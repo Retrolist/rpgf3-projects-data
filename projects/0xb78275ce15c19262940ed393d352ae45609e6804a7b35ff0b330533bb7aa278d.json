@@ -1,0 +1,53 @@
+{
+  "bio": "EraApe is Web3 NFT collection,  Dex Exchange, Dex Swap, Dex Wallet. ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "EraApe ",
+  "websiteUrl": "https://eraape.com/",
+  "applicant": {
+    "address": {
+      "address": "0x6af8aCAeC678730b0f438e777d32CDf0cBbdedb3",
+      "resolvedName": {
+        "address": "0x6af8aCAeC678730b0f438e777d32CDf0cBbdedb3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6af8aCAeC678730b0f438e777d32CDf0cBbdedb3"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6af8aCAeC678730b0f438e777d32CDf0cBbdedb3.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6af8aCAeC678730b0f438e777d32CDf0cBbdedb3.png",
+    "id": "OptimistProfile|0xe19e3e0636160859bb6571b6057cbae0f4a0348ce8997271d570d3d0208c5d9f"
+  },
+  "impactDescription": "EraApe is Web3 NFT collection. Dex Exchange,  Dex Swap, Dex Wallet. EraaApe  is a decentralized financial system. Which is not limited to any country or low. EraApe is an independent financial system. EraApe will have three projects.\u00a0 NFT, dex Swap, dex wallet These three projects will work in the future.\u00a0 \n",
+  "contributionDescription": "EraApe is Web3 NFT collection. Dex Exchange,  Dex Swap, Dex Wallet. EraaApe  is a decentralized financial system. Which is not limited to any country or low. EraApe is an independent financial system. EraApe will have three projects.\u00a0 NFT, dex Swap, dex wallet These three projects will work in the future.\u00a0 \n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://eraape.com/",
+      "description": "EraApe is Web3 NFT collection. Dex Exchange,  Dex Swap, Dex Wallet."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "EraApe is Web3 NFT collection.",
+      "number": "5800",
+      "url": "https://x.com/EraApe_com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Need to develop website.To publish the project."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb78275ce15c19262940ed393d352ae45609e6804a7b35ff0b330533bb7aa278d",
+  "prelimResult": "Remove",
+  "reportReason": "seems to be an add"
+}

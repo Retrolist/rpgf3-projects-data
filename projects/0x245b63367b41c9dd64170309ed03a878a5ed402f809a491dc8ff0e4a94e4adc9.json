@@ -1,0 +1,58 @@
+{
+  "bio": "Education-oriented collective built by users for users of Optimism.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "DeFi Declassified (OptiNauts NFT collection)",
+  "websiteUrl": "https://linktr.ee/OptiNauts",
+  "applicant": {
+    "address": {
+      "address": "0xF90f56AFa1DaE825Db57fc305B2F8F1Ccf337531",
+      "resolvedName": {
+        "address": "0xF90f56AFa1DaE825Db57fc305B2F8F1Ccf337531",
+        "name": "aztro.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xF90f56AFa1DaE825Db57fc305B2F8F1Ccf337531"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF90f56AFa1DaE825Db57fc305B2F8F1Ccf337531.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF90f56AFa1DaE825Db57fc305B2F8F1Ccf337531.jpeg",
+    "id": "OptimistProfile|0xe7fb04c08b4289795f3556482ec778530d63665e6e5a6a3924928109ef3905a2"
+  },
+  "impactDescription": "For about a year, we've provided educational resources, support and teachings to hundreds users on Optimism. Casually enhancing user's competence conducting themselves on-chain, while spreading the word of optimism and maintaining reasonable expectations through our lenses. My passion here on Optimism came from my passion for DeFi as a whole.",
+  "contributionDescription": "1. Onboard for 100+ new Crypto users directly to Optimism, from Q1 thru Q4 2022.\n2. Curated multiple educational quests. Goal: equip novice users with the tools needed to maintain wallet security and grow chain competence, and encouraging usage of reputable platforms (ex. Velodrome).\n3. Rewarded users of Optimism through fair OP distributions, reflecting what was achieved in learning and exploring the Optimistic ecosystem.\n4. Joined a number of social spaces to promote Optimism where there was none. (mostly twitter).\n5. Increased user's on-chain activity.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x780f4d9cca855830334dee6b38364ab69fcd3047",
+      "description": "NFT"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/defideclassify",
+      "description": "Project twitter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.quest3.xyz/optinauts",
+      "description": "Quests on Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Educational (Quests)",
+      "number": "159",
+      "url": "https://app.questn.com/optinauts"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x245b63367b41c9dd64170309ed03a878a5ed402f809a491dc8ff0e4a94e4adc9",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 6,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

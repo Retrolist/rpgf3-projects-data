@@ -1,0 +1,50 @@
+{
+  "bio": "Founder of NFTunchained Club",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "krajekis",
+  "websiteUrl": "https://t.me/NFTunchainedClubChannel",
+  "applicant": {
+    "address": {
+      "address": "0xF82EF19932F5297655EF69774dE2a2AbadefDe9d",
+      "resolvedName": {
+        "address": "0xF82EF19932F5297655EF69774dE2a2AbadefDe9d",
+        "name": "nftunchainedclub.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xF82EF19932F5297655EF69774dE2a2AbadefDe9d"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF82EF19932F5297655EF69774dE2a2AbadefDe9d.jpeg",
+    "id": "OptimistProfile|0x4ba62ae557e4ecd741a54bdd69ac831958cb20142ccf13cfcbef87aaf93fe113"
+  },
+  "impactDescription": "I love optimism since day one, i tell my community to stake and hold OP as much as they can, i know that on bullran OP will rise and shine and it's our destiny.\nGive me a chance to contribute in the future of layer2 blockchains, hope u can hear how god whispers!",
+  "contributionDescription": "I love optimism since day one, i tell my community to stake and hold OP as much as they can, i know that on bullran OP will rise and shine and it's our destiny.\nGive me a chance to contribute in the future of layer2 blockchains, hope u can hear how god whispers!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/NFTunchainedClubChannel",
+      "description": "I'm CEO of NFTunchained Club"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@nftunchainedclub",
+      "description": "And my YouTube channel!"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views:",
+      "number": "3800",
+      "url": "https://t.me/NFTunchainedClubChannel/135"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4c66c2aaf056b3edad20fee9894fee6b4584fe5617d1b4542488a923fd0b3019",
+  "prelimResult": "Remove",
+  "reportReason": "['Just another OP user']"
+}

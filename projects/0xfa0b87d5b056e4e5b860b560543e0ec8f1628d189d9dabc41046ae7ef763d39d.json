@@ -1,0 +1,48 @@
+{
+  "bio": "High freequency trading application",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Hummingbot",
+  "websiteUrl": "https://hummingbot.org",
+  "applicant": {
+    "address": {
+      "address": "0x08940dc9B5a19FAb9319b77C61DDA7B8067E6843",
+      "resolvedName": {
+        "address": "0x08940dc9B5a19FAb9319b77C61DDA7B8067E6843",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x08940dc9B5a19FAb9319b77C61DDA7B8067E6843"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xdf547ff9dc3074e89092125f6c5641fab340b18ad8523403da77b77d8d706e64"
+  },
+  "impactDescription": "Our integration Ethereum Optimism with Hummingbot trading bot simplifies trading, expands opportunities, and improves risk management. Novice and experienced traders benefit from an intuitive interface, 24/7 trading, stop-loss/take-profit orders, efficient liquidity management, backtesting, security, and support. Join us to enhance your crypto trading experience.",
+  "contributionDescription": "Our integration Ethereum Optimism with Hummingbot trading bot simplifies trading, expands opportunities, and improves risk management. Novice and experienced traders benefit from an intuitive interface, 24/7 trading, stop-loss/take-profit orders, efficient liquidity management, backtesting, security, and support. Join us to enhance your crypto trading experience.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x08940dc9B5a19FAb9319b77C61DDA7B8067E6843",
+      "description": "Optimism connector process"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Active bot users",
+      "number": "1500",
+      "url": "https://hummingbot.org/exchanges/uniswap/#how-to-connect"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xfa0b87d5b056e4e5b860b560543e0ec8f1628d189d9dabc41046ae7ef763d39d",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 15,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

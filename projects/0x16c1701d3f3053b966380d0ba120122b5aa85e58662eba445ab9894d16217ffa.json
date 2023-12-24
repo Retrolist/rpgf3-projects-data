@@ -1,0 +1,76 @@
+{
+  "bio": "Onchain governance and access control ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Llama",
+  "websiteUrl": "https://llama.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xe3a195c57e13C55794Bcd7111bb5976062E7Dd55",
+      "resolvedName": {
+        "address": "0xe3a195c57e13C55794Bcd7111bb5976062E7Dd55",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xe3a195c57e13C55794Bcd7111bb5976062E7Dd55"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe3a195c57e13C55794Bcd7111bb5976062E7Dd55.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe3a195c57e13C55794Bcd7111bb5976062E7Dd55.png",
+    "id": "OptimistProfile|0xb500b87d97f38cc7f237d3455e67afcff8c3d070b00a6de4581bfe2dac0045dc"
+  },
+  "impactDescription": "1. Deployed a novel governance and access control framework on Optimism that solves critical problems relating to granular roles and custom execution strategies that have not been solved by existing systems. Llama helps save engineering resources of protocol teams.\n\n2. Four Llama instances deployed on Optimism, including two by major protocols\n\n3. $100,000 secured by Llama accounts on Optimism",
+  "contributionDescription": "Llama is an onchain governance and access control product that is deployed on Optimism. \n\nUsing Llama, organizations on Optimism can deploy fully independent instances that define granular roles and permissions for executing transactions, known as \"actions\".\n\nLlama instances can adapt to a changing environment by incrementally adding new participants and expanding the set of available actions. Actions include transferring funds, updating a registry, changing protocol parameters, or activating an emergency pause.\n\nLlama's onchain framework is open and permissionless: any org on Optimism can deploy a self-governed Llama instance to create and execute onchain actions. \n\nIn addition to action creation, Llama's app helps users view a public audit trail of roles, permissions, and action history.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xFf5d4E226D9A3496EECE31083a8F493edd79AbEB",
+      "description": "LlamaFactory contract: deploys Llama instances on Optimism"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/llamaxyz/llama",
+      "description": "Llama repository: onchain governance and access control framework (MIT License)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x676ca05Fd577FCA8fddb4605d4992Bc7EfbCff14#code",
+      "description": "LlamaCore contract: manages action process from creation to execution"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x19640A82e696f67F0d25307e19c4307321761d4d#code",
+      "description": "LlamaPolicy contract: ERC721 contract that encodes roles and permissions"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x915Af6753f03D2687Fa923b2987625e21e2991aE#code",
+      "description": "LlamaAccount contract: manages funds on an organization's Optimism instance"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.llama.xyz/",
+      "description": "Llama documentation"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of Llama instances on Optimism",
+      "number": "4",
+      "url": "https://optimistic.etherscan.io/address/0xFf5d4E226D9A3496EECE31083a8F493edd79AbEB"
+    },
+    {
+      "description": "Amount secured by Llama accounts",
+      "number": "100000",
+      "url": "https://optimistic.etherscan.io/address/0xf147b323b00be213fbb4f5cc148fd611a02d8845"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x16c1701d3f3053b966380d0ba120122b5aa85e58662eba445ab9894d16217ffa",
+  "prelimResult": "Remove",
+  "reportReason": "Seems legit, but: magically at the time of application submission, 40k USDC was transferred to the contract they link under their \"Amount secured by llama accounts\" impact https://optimistic.etherscan.io/address/0xf147b323b00be213fbb4f5cc148fd611a02d8845#tokentxns"
+}

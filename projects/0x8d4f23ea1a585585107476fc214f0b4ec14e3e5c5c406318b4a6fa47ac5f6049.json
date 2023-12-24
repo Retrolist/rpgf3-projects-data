@@ -1,0 +1,65 @@
+{
+  "bio": "A content writer with full influence and goal to onboard new users to Optimism. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Syke",
+  "websiteUrl": "https://mirror.xyz/0xfbDABb319055cc18114ee052ab0dA6a2Ef6e913e",
+  "applicant": {
+    "address": {
+      "address": "0xfbDABb319055cc18114ee052ab0dA6a2Ef6e913e",
+      "resolvedName": {
+        "address": "0xfbDABb319055cc18114ee052ab0dA6a2Ef6e913e",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xfbDABb319055cc18114ee052ab0dA6a2Ef6e913e"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfbDABb319055cc18114ee052ab0dA6a2Ef6e913e.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xfbDABb319055cc18114ee052ab0dA6a2Ef6e913e.png",
+    "id": "OptimistProfile|0x8fa94c5982f0006312b15ec3f031581bd7cbf30ad398e6daf6c40e0632cd843e"
+  },
+  "impactDescription": "Impact from my own end is collectively educational to the end user on how to go about Optimism and learning everything about it. When looking at it, most people do not know about onboarding projects on the OP Ecosystem, they keep visiting and using the old protocols whilst they can know about the new ones and also take part in them and help secure the ecosystem. ",
+  "contributionDescription": "Writing in details, information and guidelines on how to go about the biggest Layer-2 Scaling Blockchain Technology on Ethereum, Optimism.\nIn my articles, I start by introducing to them what Optimism is all about and what its future entail for the true definition and aim of decentralization and Web3 it self, while fighting off On-Chain Fraud on while scaling Ethereum. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0xfbDABb319055cc18114ee052ab0dA6a2Ef6e913e",
+      "description": "An on-chain proof of authenticity of contents about Optimism. "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/0xfbDABb319055cc18114ee052ab0dA6a2Ef6e913e/5UvHrfcHllaYVRNeXkPKyF5hhav5AwzBOqpL27F-pi0",
+      "description": "A content on dapps and interaction on the Optimism Ecosystem. "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Readers. ",
+      "number": "1000",
+      "url": "https://mirror.xyz/0xfbDABb319055cc18114ee052ab0dA6a2Ef6e913e/A2SYuqC3nXYCI8GRffuVR7pQ1P8e5-1PYG-GCdh46y0"
+    },
+    {
+      "description": "Readers",
+      "number": "1020",
+      "url": "https://mirror.xyz/0xfbDABb319055cc18114ee052ab0dA6a2Ef6e913e/5UvHrfcHllaYVRNeXkPKyF5hhav5AwzBOqpL27F-pi0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "No funding has ever being received. "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x8d4f23ea1a585585107476fc214f0b4ec14e3e5c5c406318b4a6fa47ac5f6049",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 6,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

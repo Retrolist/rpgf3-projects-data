@@ -1,0 +1,52 @@
+{
+  "bio": "I am an enthusiastic music NFT collector on sound.xyz",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Kukumalu",
+  "websiteUrl": "https://www.sound.xyz/user/0xb05f9c3545f6e185e3eabeceec65a96df54c4524/collection",
+  "applicant": {
+    "address": {
+      "address": "0xB05f9c3545f6E185E3eAbeCeeC65A96df54c4524",
+      "resolvedName": {
+        "address": "0xB05f9c3545f6E185E3eAbeCeeC65A96df54c4524",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xB05f9c3545f6E185E3eAbeCeeC65A96df54c4524"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB05f9c3545f6E185E3eAbeCeeC65A96df54c4524.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x21aa2486c76a55c90bfbc6d09a20061047bdd7fadd517a6519c6a9e29b7b2886"
+  },
+  "impactDescription": "My ambition is to be deeply involved in a multitude of Optimist projects in the coming years. Their innovative approach to digital art and NFTs resonates with me profoundly. I see immense potential in their vision, and I yearn to contribute meaningfully to their future endeavors.\n\nFurthermore, I'm eager to act as a bridge between talented artists on sound.xyz and their devoted fanbase. Through strategic initiatives and collaborative efforts, I aim to amplify their reach and bring them closer to the hearts of their admirers. This means not only supporting them in their creative pursuits but also enabling them to forge deeper connections with their audience",
+  "contributionDescription": "I am deeply immersed in the world of music NFTs on sound.xyz. This digital platform has become my sanctuary, a realm where art and technology converge harmoniously. With an insatiable appetite for groundbreaking compositions and an appreciation for the artists behind them, I've curated a collection that spans an array of genres and styles. Each NFT is a testament to the boundless creativity of musicians in the digital age. V\u1edbi t\u01b0 c\u00e1ch l\u00e0 ng\u01b0\u1eddi tham gia t\u00edch c\u1ef1c v\u00e0o c\u1ed9ng \u0111\u1ed3ng sound.xyz, t\u00f4i \u0111\u00e3 ch\u1ee9ng ki\u1ebfn s\u1ef1 ph\u00e1t tri\u1ec3n c\u1ee7a kh\u00f4ng gian n\u0103ng \u0111\u1ed9ng n\u00e0y. Tham gia v\u00e0o c\u00e1c cu\u1ed9c th\u1ea3o lu\u1eadn, tham d\u1ef1 c\u00e1c s\u1ef1 ki\u1ec7n \u1ea3o v\u00e0 c\u1ed9ng t\u00e1c v\u1edbi c\u00e1c nh\u00e0 s\u01b0u t\u1eadp \u0111\u1ed3ng nghi\u1ec7p l\u00e0 m\u1ed9t tr\u1ea3i nghi\u1ec7m phong ph\u00fa. C\u00f9ng nhau, ch\u00fang t\u00f4i \u0111\u00f3ng g\u00f3p v\u00e0o m\u1ed9t h\u1ec7 sinh th\u00e1i th\u1ecbnh v\u01b0\u1ee3ng h\u1ed7 tr\u1ee3 c\u1ea3 c\u00e1c ngh\u1ec7 s\u0129 \u0111\u00e3 th\u00e0nh danh v\u00e0 m\u1edbi n\u1ed5i.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.sound.xyz/user/0xb05f9c3545f6e185e3eabeceec65a96df54c4524/collection",
+      "description": "t\u00f4i \u0111\u00e3 s\u01b0u t\u1eadp 254 b\u00e0i h\u00e1t t\u1eeb 19 ngh\u1ec7 s\u0129 tr\u00ean sound.xyz"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Music NFT",
+      "number": "254",
+      "url": "https://www.sound.xyz/user/0xb05f9c3545f6e185e3eabeceec65a96df54c4524/collection"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "I haven't received the OP yet"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7819c8f69d1e237aeed8b9b2018b3d6be57f50fb2a93fc467b962663a6513796",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

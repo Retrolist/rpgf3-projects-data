@@ -1,0 +1,59 @@
+{
+  "bio": "A developer with 10 years of experience and just a nice guy.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Dexter Holland",
+  "websiteUrl": "https://twitter.com/TibiabinH",
+  "applicant": {
+    "address": {
+      "address": "0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6",
+      "resolvedName": {
+        "address": "0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6",
+        "name": "dexterhol.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x40539C7cc7b73755D60e3d524ed5D75927c5f4d6.png",
+    "id": "OptimistProfile|0xae958e9313bd4bfad999ae3294011fe101bee3c05861f5447d9931d2ee98da83"
+  },
+  "impactDescription": "* I am a lead investor and CEO of the Foumis project, which is being developed on the Optimism stack. At the moment it exists only in concept format, but we have already recruited a team and started working.\n\n* I use and financially support many projects launched in the Optimism network.\n\n* Active user of your Discord. Always helping people with advice.",
+  "contributionDescription": "* I am a lead investor and CEO of the Foumis project, which is being developed on the Optimism stack. At the moment it exists only in concept format, but we have already recruited a team and started working.\n\n* I use and financially support many projects launched in the Optimism network.\n\n* Active user of your Discord. Always helping people with advice.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/TibiabinH",
+      "description": "The site will be up and running in the near future."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of developers in my team",
+      "number": "43",
+      "url": "https://twitter.com/TibiabinH"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Development of the Foumis project on Optimism-stack"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Donations in Gitcoin to support the Optimism ecosystem"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2113c4424cff81be38cd9b5930551d3bc27a6788c5a7fb6604b424506511b41d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

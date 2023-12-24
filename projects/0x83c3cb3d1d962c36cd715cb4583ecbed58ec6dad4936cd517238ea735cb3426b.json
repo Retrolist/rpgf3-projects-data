@@ -1,0 +1,48 @@
+{
+  "bio": "Billions",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Aguila",
+  "websiteUrl": "https://x.com/IfySucre11/status/1161053769167253504?s=20",
+  "applicant": {
+    "address": {
+      "address": "0x74727b3843c498e41CC1A93c26c8F700B966aB9b",
+      "resolvedName": {
+        "address": "0x74727b3843c498e41CC1A93c26c8F700B966aB9b",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x74727b3843c498e41CC1A93c26c8F700B966aB9b"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x74727b3843c498e41CC1A93c26c8F700B966aB9b.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x74727b3843c498e41CC1A93c26c8F700B966aB9b.jpeg",
+    "id": "OptimistProfile|0x900d0a0d13cad53f7fddc860795ac001dfaa9dec4a00af5e62f0eb2baed1315f"
+  },
+  "impactDescription": "Increased the block height through my active and consistent participation on both the testnet and mainnet. \n\nI would highly recommend optimism to serious minded people in the near future so that their blockchain experience turns out to be an amazing one.\nIn the near future, I want more people to use optimism. It is so amazing.\n",
+  "contributionDescription": "Using the blockchain to transfer from one wallet to another and i also used it bridge funds from the ethereum blockchain to arbitrum and then bridged to optimism.\nIt was a smooth operation for me. \nI would recommend optimism to others in the near future\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ifysucre/coding-sugar/fork",
+      "description": "Github"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "github",
+      "number": "2",
+      "url": "ttps://github.com/ifysucre/coding-sugar/fork"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x83c3cb3d1d962c36cd715cb4583ecbed58ec6dad4936cd517238ea735cb3426b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

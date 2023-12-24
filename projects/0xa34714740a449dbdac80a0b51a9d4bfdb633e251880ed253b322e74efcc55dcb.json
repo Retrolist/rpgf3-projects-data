@@ -1,0 +1,45 @@
+{
+  "bio": "go go",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "ghie0922",
+  "websiteUrl": "https://twitter.com/panaloaq",
+  "applicant": {
+    "address": {
+      "address": "0xF3265d275a4D3C888B36afEB177C87f782D60D62",
+      "resolvedName": {
+        "address": "0xF3265d275a4D3C888B36afEB177C87f782D60D62",
+        "name": "ghie0922.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xF3265d275a4D3C888B36afEB177C87f782D60D62"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF3265d275a4D3C888B36afEB177C87f782D60D62.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb6c1241aa0b377992e7a7d9ef62d7702704d76165ace3a1d8d837e6dcb489234"
+  },
+  "impactDescription": "Optimism\u2019s vision is to build a global system where positive impact to the collective is rewarded by profit to the individual. RetroPGF is an experimental mechanism to realize this goal of By funding public goods sustainably, the Collective can create a rich ecosystem and a better economy",
+  "contributionDescription": "Optimism\u2019s vision is to build a global system where positive impact to the collective is rewarded by profit to the individual. RetroPGF is an experimental mechanism to realize this goal of By funding public goods sustainably, the Collective can create a rich ecosystem and a better economy",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xf36e50968d20d1dd8bc78526c41416e514e668b7b5cfa02f0b27310347c5bdb7",
+      "description": "0xf36e50968d20d1dd8bc78526c41416e514e668b7b5cfa02f0b27310347c5bdb7"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "guides",
+      "number": "2",
+      "url": "https://community.optimism.io/docs/governance/retropgf-2/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xa34714740a449dbdac80a0b51a9d4bfdb633e251880ed253b322e74efcc55dcb",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

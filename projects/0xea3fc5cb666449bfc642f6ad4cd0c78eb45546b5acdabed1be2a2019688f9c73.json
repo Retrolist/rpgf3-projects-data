@@ -1,0 +1,48 @@
+{
+  "bio": "Crypto Savvy, Trader",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "jpark",
+  "websiteUrl": "https://x.com/Kpopidol7252",
+  "applicant": {
+    "address": {
+      "address": "0xCc475C6D51B5fE5cad3256C84af0EdE800ff0767",
+      "resolvedName": {
+        "address": "0xCc475C6D51B5fE5cad3256C84af0EdE800ff0767",
+        "name": "rigthmove.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xCc475C6D51B5fE5cad3256C84af0EdE800ff0767"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCc475C6D51B5fE5cad3256C84af0EdE800ff0767.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xe24e91713858edd13a536c9da30dd93228f62fcf21c170df77a3a82226613763"
+  },
+  "impactDescription": "By collecting and minting of OP NFT's, daily/weekly interaction, spreading the word about your mission. Involve in any update on X.\nI will continue support this project because i believed this gonna be huge in the future. The OG of Layer 2 is none other than Optimism.",
+  "contributionDescription": "Delagates to vote, donating, daily/weekly interaction, spreading the word about your mission. Involve in any update on X.\nI will continue support this project because i believed this gonna be huge in the future. The OG of Layer 2 is none other than Optimism.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xCc475C6D51B5fE5cad3256C84af0EdE800ff0767",
+      "description": "Interactions"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Token and  NFT Holdindgs",
+      "number": "100",
+      "url": "https://optimistic.etherscan.io/address/0xCc475C6D51B5fE5cad3256C84af0EdE800ff0767"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xea3fc5cb666449bfc642f6ad4cd0c78eb45546b5acdabed1be2a2019688f9c73",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

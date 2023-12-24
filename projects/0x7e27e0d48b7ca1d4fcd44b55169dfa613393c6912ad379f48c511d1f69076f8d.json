@@ -1,0 +1,82 @@
+{
+  "bio": " LATASH\u00c1's is a pioneering polymath in music, art, and tech.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "LATASH\u00c1",
+  "websiteUrl": "https://callmelatasha.com",
+  "applicant": {
+    "address": {
+      "address": "0x3A2a72fF37afE42B2c2747366Be5eCDacb211d8a",
+      "resolvedName": {
+        "address": "0x3A2a72fF37afE42B2c2747366Be5eCDacb211d8a",
+        "name": "latasha.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3A2a72fF37afE42B2c2747366Be5eCDacb211d8a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3A2a72fF37afE42B2c2747366Be5eCDacb211d8a.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xec0c274896b7557bab0401c7d503edf9cde520680207c0933fd78b9f4309a299"
+  },
+  "impactDescription": "In the blockchain sphere, I've ignited a distinctive blend of user expansion, heightened awareness, and diversity in application. I stand firm as both a community leader and a beacon for innovation, constantly challenging conventional norms and crafting new pathways. I've served as an inspiring compass for creatives, helping them visualize and actualize their unique aspirations. Moreover, my insights have guided platforms in devising the most effective strategies and products for our collective growth. Through all these efforts, I'm confident in the indelible mark I've made, steering the blockchain community towards a more inclusive, resourceful, and lively future.",
+  "contributionDescription": "As a founder and community leader, I've innovated at the crossroads of music and blockchain. Pioneering hip hop and dance within this tech, my blockchain music video sold for $50,000, prompting artists toward NFTs. I made history at Sotheby's with hip hop visuals. My initiative, ZORATOPIA, enlightened 4,000+ on web3, hosting diverse events that revolutionize traditional gatherings. Speaking at key venues like Veecon and Art Basel, I champion the blend of music and web3 as our industry's transformative path.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/file/d/1Hlg0FFGnVxc9IuOFT7dfd9PoVBKmIaQM/view?usp=sharing",
+      "description": "ZORATOPIA DECK"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://futuretape.xyz/artist/LATASH%C3%81/video",
+      "description": "MUSIC VIDEOS ON CHAIN"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.sothebys.com/en/buy/auction/2023/my-body-my-business",
+      "description": "Sothebys"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/CallMeLatasha/status/1470884237549051905",
+      "description": "GOGO WYNE MUSIC VIDEO AUCTION"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zora.co/latasha.eth",
+      "description": "ZORA MINTS "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "LATASHA Collectors Metrics ",
+      "number": "992",
+      "url": "https://drive.google.com/file/d/1fCCHwZRo02Pv477kfYQO6QVh74YeRe2m/view?usp=drive_link"
+    },
+    {
+      "description": "ZORATOPIA Subscribers",
+      "number": "4000",
+      "url": "https://drive.google.com/file/d/1fCCHwZRo02Pv477kfYQO6QVh74YeRe2m/view?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 300000,
+      "description": "Eth sales based on 3 years split between myself and my team of 7"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7e27e0d48b7ca1d4fcd44b55169dfa613393c6912ad379f48c511d1f69076f8d",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 24,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

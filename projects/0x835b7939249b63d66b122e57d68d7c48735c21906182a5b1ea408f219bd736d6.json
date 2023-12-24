@@ -1,0 +1,52 @@
+{
+  "bio": "Leading Web3 marketer,  compelling strategies. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Gilson Carlos",
+  "websiteUrl": "https://twitter.com/CoinWallet5",
+  "applicant": {
+    "address": {
+      "address": "0x4647116a410cA5E80EE2BE0077335bBf0dB35166",
+      "resolvedName": {
+        "address": "0x4647116a410cA5E80EE2BE0077335bBf0dB35166",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x4647116a410cA5E80EE2BE0077335bBf0dB35166"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4647116a410cA5E80EE2BE0077335bBf0dB35166.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4647116a410cA5E80EE2BE0077335bBf0dB35166.png",
+    "id": "OptimistProfile|0xac112b529d5777089ea0d51d989be917ee2aa6a925129d5e1e836c06659eef4c"
+  },
+  "impactDescription": "I have extensive experience in digital strategy and marketing, and I am very interested in contributing to your project.\n\nAlthough I did not directly contribute to the project beyond governance on Airdrop day, I believe my knowledge and skills can be valuable to the team. As a strategist, I can help identify opportunities and develop effective plans to achieve our goals. As a digital marketing professional, I can help increase project visibility and attract more users.\n\nI look forward to the opportunity to work with you and contribute to the continued success of the Retropgf project.",
+  "contributionDescription": "I have extensive experience in digital strategy and marketing, and I am very interested in contributing to your project.\n\nAlthough I did not directly contribute to the project beyond governance on Airdrop day, I believe my knowledge and skills can be valuable to the team. As a strategist, I can help identify opportunities and develop effective plans to achieve our goals. As a digital marketing professional, I can help increase project visibility and attract more users.\n\nI look forward to the opportunity to work with you and contribute to the continued success of the Retropgf project.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/CoinWallet5",
+      "description": "Marketing pro with strategic skills eager to contribute to Rede Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "I will contribute with strategies",
+      "number": "0",
+      "url": "https://twitter.com/CoinWallet5"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x835b7939249b63d66b122e57d68d7c48735c21906182a5b1ea408f219bd736d6",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

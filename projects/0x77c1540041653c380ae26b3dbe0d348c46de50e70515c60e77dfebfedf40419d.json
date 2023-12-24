@@ -1,0 +1,52 @@
+{
+  "bio": "No",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Kaushik8627",
+  "websiteUrl": "https://x.com/kaushik8617",
+  "applicant": {
+    "address": {
+      "address": "0xF7942c3F2847958B2F4f1cA561D45a3546E6C957",
+      "resolvedName": {
+        "address": "0xF7942c3F2847958B2F4f1cA561D45a3546E6C957",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xF7942c3F2847958B2F4f1cA561D45a3546E6C957"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF7942c3F2847958B2F4f1cA561D45a3546E6C957.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb29e8e1236e7f50931988453154bb6a91f07e20cafb959d71fe6a88fe98a88d8"
+  },
+  "impactDescription": "OB is an applied behavioral science built on contributions from a number of behavioral disciplines, mainly psychology and social psychology, sociology, and anthropology. Psychology\u2019s contributions have been principally at the individual or micro level of analysis, while the other disciplines have contributed to our understanding of macro concepts such as group processes and organization. Exhibit 1-3 is an overview of the major contributions to the study of organizational behavior.\n\nExhibit",
+  "contributionDescription": "OB is an applied behavioral science built on contributions from a number of behavioral disciplines, mainly psychology and social psychology, sociology, and anthropology. Psychology\u2019s contributions have been principally at the individual or micro level of analysis, while the other disciplines have contributed to our understanding of macro concepts such as group processes and organization. Exhibit 1-3 is an overview of the major contributions to the study of organizational behavior.\n\nExhibit",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://x.com./kaushik8617",
+      "description": "No"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Kaushik",
+      "number": "100",
+      "url": "https://x.com/kaushik8617"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": "No"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x77c1540041653c380ae26b3dbe0d348c46de50e70515c60e77dfebfedf40419d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

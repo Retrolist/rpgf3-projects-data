@@ -1,0 +1,58 @@
+{
+  "bio": "A public good for the modular community, providing news, updates, & education ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Modular Media ",
+  "websiteUrl": "https://modularmedia.substack.com/",
+  "applicant": {
+    "address": {
+      "address": "0x061A36DAe7F6e857a526978B052B1b0Cb882a1Dc",
+      "resolvedName": {
+        "address": "0x061A36DAe7F6e857a526978B052B1b0Cb882a1Dc",
+        "name": "modularmedia.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x061A36DAe7F6e857a526978B052B1b0Cb882a1Dc"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x061A36DAe7F6e857a526978B052B1b0Cb882a1Dc.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x061A36DAe7F6e857a526978B052B1b0Cb882a1Dc.png",
+    "id": "OptimistProfile|0xb20585a2ca8ba9bac8c5fd0cddfe04d0403453eabc207e8a447eeba626fcd2a3"
+  },
+  "impactDescription": "Our in depth breakdowns of complex topics help the community understand the underlying infrastructure that goes into building an OP Stack rollup, including sequencer or prover explainers. Plus, our weekly newsletter highlights the biggest updates across the Optimism ecosystem, such as showing users how to onboard to a new OP Stack chain such as Ancient8. On top of this, we offer an environment for thought leaders & builders to share & publish their own thoughts to one of, if not the biggest modular community in web3. We have received support from some of the top minds in the space, including those from the Celestia & Avail teams, Jon Charbonneau, and many others.",
+  "contributionDescription": "Modular Media provides in depth, unbiased breakdowns of the biggest topics across the modular space every single week to our audience of nearly 600 email subscribers, and over 1500 Twitter followers. From project deep dives, and in depth breakdowns of topics such as sequencers and provers, to \u201chow to guides\u201d and \u201cintern notes\u201d. We help users & investors understand the underlying infrastructure that make up OP Stack rollups, while also providing a marketing branch for the teams building these rollups. We\u2019re setting the steps in place to make sure the modular ecosystem thrives in the future.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://modularmedia.substack.com/",
+      "description": "weekly newsletter, providing in depth breakdowns of latest news & education "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/modularmedia_",
+      "description": "OP Stack related threads, X Spaces, & \"intern notes\" (discussion breakdowns)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "X Post Views ",
+      "number": "88500",
+      "url": "https://docs.google.com/spreadsheets/d/1H0S26dJKQSxdEqGtZf2mPdSqpdmeGzH6T5vffF2UwEY/edit?usp=sharing"
+    },
+    {
+      "description": "Newsletter Views ",
+      "number": "13220",
+      "url": "https://docs.google.com/spreadsheets/d/1H0S26dJKQSxdEqGtZf2mPdSqpdmeGzH6T5vffF2UwEY/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xf6ad557d7f9065d81c1e90f0d41b7808c028437740b206be489523c76035e5a9",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 18,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

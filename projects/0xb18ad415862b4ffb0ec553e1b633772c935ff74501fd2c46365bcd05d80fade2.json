@@ -1,0 +1,47 @@
+{
+  "bio": "I am the resident OptiMaxi in a number of communities.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Niklaus",
+  "websiteUrl": "https://niklausdrakul.com",
+  "applicant": {
+    "address": {
+      "address": "0x1F452Ea54d4d934AfAdc300C61ca0A3B1bbDE958",
+      "resolvedName": {
+        "address": "0x1F452Ea54d4d934AfAdc300C61ca0A3B1bbDE958",
+        "name": "niklausdrakul.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x1F452Ea54d4d934AfAdc300C61ca0A3B1bbDE958"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1F452Ea54d4d934AfAdc300C61ca0A3B1bbDE958.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x5eb9935cde06066437310c5d4003130409147ead387ac934af7905588109d3e7"
+  },
+  "impactDescription": "I am constantly promoting Optimism through twitter, discord and substack. I work with a lot of noobs and steer them in the right direction to be successful in their crypto journeys. I will continue to use Optimism and make sure all of my followers know the benefits of the ecosystem.",
+  "contributionDescription": "I tweet, retweet and promote Optimism on my twitter and in the Discord communities I am involved in, as well as the airdrop guides that I publish. I like the technology and the projects on Optimism and continue to use them regardless of market conditions.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/NiklausDrakul",
+      "description": "Twitter Profile"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Substack email views",
+      "number": "200",
+      "url": "https://bowtieddane.substack.com/publish/stats/traffic"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xb18ad415862b4ffb0ec553e1b633772c935ff74501fd2c46365bcd05d80fade2",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

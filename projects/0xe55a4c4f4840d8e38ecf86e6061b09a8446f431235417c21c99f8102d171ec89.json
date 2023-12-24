@@ -1,0 +1,77 @@
+{
+  "bio": "ENS Subnames on OP Stack L2s ",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Unruggable Names",
+  "websiteUrl": "https://optimism-demo.unruggablenames.com/",
+  "applicant": {
+    "address": {
+      "address": "0x8b1f85a93Ac6E4F62695Ea8EF2410d248605FEff",
+      "resolvedName": {
+        "address": "0x8b1f85a93Ac6E4F62695Ea8EF2410d248605FEff",
+        "name": "premm.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8b1f85a93Ac6E4F62695Ea8EF2410d248605FEff"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8b1f85a93Ac6E4F62695Ea8EF2410d248605FEff.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8b1f85a93Ac6E4F62695Ea8EF2410d248605FEff.png",
+    "id": "OptimistProfile|0x6297f993274187a61c01534585f1a90dbb7c3b3368da1ac7e7198485ef69126a"
+  },
+  "impactDescription": "We have worked to support ENS on OP Stack L2s by enabling anyone with an ENS name to offer subnames on L2s, e.g. tom.avid.eth. We have created and shared publicly our working open source code, including smart contracts and a front end demo showing a custom ENS subname registration system on OP Stack. We have also worked to develop the long term roadmap of ENS on L2s including registrations of .eth second level names, such as vitalik.eth. We have consistently advocated and shared our demos and open source code in the ENS community, including attending the weekly ENS DAO ecosystem call and attended Ethereum conferences this year including Eth Denver, Eth Waterloo, Eth CC, where we have engaged in onboarding developers to ENS and to using ENS on OP Stack L2s using our open source codebase. ",
+  "contributionDescription": "The Ethereum Name Service (ENS) is a well established solution that allows for users to use human readable names, greatly enhancing the user experience, however it\u2019s primarily based on L1 Ethereum and has limited support for L2s. We have developed a plug-and-play system (currently open source code and a demo app) where anyone with an ENS name can offer subnames, such as tom.avid.eth, on any OP Stack L2. Or work represents the first and only no-code plug-and-play system to allow anyone to configure their ENS name to offer subnames on OP Stack chains. We have also contributed to the overall research and development of ENS, and in particular ENS on OP Stack L2s by demonstrating the ability to register not only subnames but second level .eth names as well, such as vitalik.eth.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimism-demo.unruggablenames.com/",
+      "description": "Unruggable Names Demo App"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/unruggable-labs/L2-ens",
+      "description": "L2 ENS Smart Contracts"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0x6032c7154efaFD2D5AC858Df5FE53E11987765F9",
+      "description": "Subname Registrar Contract"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "ENS DAO Ecosystem Presentations ",
+      "number": "3",
+      "url": "https://discuss.ens.domains/t/ens-ecosystem-working-group-weekly-meeting-12pm-et-thursday/15985/30?u=premm.eth"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 30000,
+      "description": "https://gov.optimism.io/t/cycle-13-final-grants-roundup/6454"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 34000,
+      "description": "ENS Grants"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2500,
+      "description": "Gitcoin"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe55a4c4f4840d8e38ecf86e6061b09a8446f431235417c21c99f8102d171ec89",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 11,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

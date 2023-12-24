@@ -1,0 +1,58 @@
+{
+  "bio": "Ethereum HD Wallet derivation library in Go",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "go-ethereum-hdwallet",
+  "websiteUrl": "https://github.com/miguelmota/go-ethereum-hdwallet",
+  "applicant": {
+    "address": {
+      "address": "0xfb74103029aB113E00Df470c42CAfEd4c8aBe86E",
+      "resolvedName": {
+        "address": "0xfb74103029aB113E00Df470c42CAfEd4c8aBe86E",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xfb74103029aB113E00Df470c42CAfEd4c8aBe86E"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfb74103029aB113E00Df470c42CAfEd4c8aBe86E.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xfb74103029aB113E00Df470c42CAfEd4c8aBe86E.png",
+    "id": "OptimistProfile|0x0d71cc415d19fb2055d29e64306e328d5b522c32d57d035560b8712b94314aa1"
+  },
+  "impactDescription": "The go-ethereum-hdwallet library has been included in the OP Stack since 2022 and remains in use by the Optimism sequencer service. Its adoption in 900+ Go projects on Github shows its broad impact, reliability, and functionality in the wider ecosystem.",
+  "contributionDescription": "The `go-ethereum-hdwallet` library is a component within the OP Stack and is also widely utilized throughout the broader Ethereum ecosystem. In the context of the OP Stack, this library plays a crucial role in deriving an HD wallet private key from a mnemonic seed phrase, which is then employed by the sequencer service to sign transactions.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/miguelmota/go-ethereum-hdwallet",
+      "description": "go-ethereum-hdwallet library"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/go-ethereum-hdwallet",
+      "description": "go-ethereum-hdwallet library forked by Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Projects using library",
+      "number": "910",
+      "url": "https://github.com/miguelmota/go-ethereum-hdwallet/network/dependents"
+    },
+    {
+      "description": "Library forks",
+      "number": "220",
+      "url": "https://github.com/miguelmota/go-ethereum-hdwallet"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd9583aeb5f21cb6b172d4638a0465452572567143ab30c49dadb5e6ac5bf91d5",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 35,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack development & research"
+}

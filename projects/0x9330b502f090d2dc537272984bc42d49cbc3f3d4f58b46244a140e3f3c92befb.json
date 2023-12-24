@@ -1,0 +1,54 @@
+{
+  "bio": "i am a free lancer whos hunting airdrop but not a multi account user",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "thirdeenette1989",
+  "websiteUrl": "https://www.facebook.com/RogelioAusteroBelgaJr",
+  "applicant": {
+    "address": {
+      "address": "0x13192B1056ED57eaa06BB7E49d70964A668e8604",
+      "resolvedName": {
+        "address": "0x13192B1056ED57eaa06BB7E49d70964A668e8604",
+        "name": "slaparmy.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x13192B1056ED57eaa06BB7E49d70964A668e8604"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x1576f1a397b38ea63f505b8696ed39935af804ef28d63f356e895bfffd6e9fa2"
+  },
+  "impactDescription": "as a newbie i cant understand  this very well due to im not well aware on how it works but as a airdrop hunter i interact as long as i can achieve many txn and bought NFt for usecases\nprojects and governance is a must also due to community driven are well for us",
+  "contributionDescription": "i am a NFT holder enthusiast  on some projects on Optimism but as of now they are not qualified for retro airdrops  community is a must on a project so hear out hte community\n i really love optimism fast and low transaction \nbridging and projects are in good hands ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.facebook.com/RogelioAusteroBelgaJr",
+      "description": "let s rock"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "2fa  password",
+      "number": "2",
+      "url": "https://www.facebook.com/RogelioAusteroBelgaJr"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": "im not rich i only invest what i can afford to lose"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9330b502f090d2dc537272984bc42d49cbc3f3d4f58b46244a140e3f3c92befb",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

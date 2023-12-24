@@ -1,0 +1,83 @@
+{
+  "bio": "Incubating digital public goods via conferences, hackathons, and residencies.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Funding the Commons",
+  "websiteUrl": "http://fundingthecommons.io/",
+  "applicant": {
+    "address": {
+      "address": "0x576edCed7475D8F64a5e2D5227c93Ca57d7f5d20",
+      "resolvedName": {
+        "address": "0x576edCed7475D8F64a5e2D5227c93Ca57d7f5d20",
+        "name": "fundingthecommons.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x576edCed7475D8F64a5e2D5227c93Ca57d7f5d20"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x576edCed7475D8F64a5e2D5227c93Ca57d7f5d20.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x576edCed7475D8F64a5e2D5227c93Ca57d7f5d20.jpeg",
+    "id": "OptimistProfile|0xd7ae1d541b47279a061bf322f323b223bca2f67cb7341732d2d391ccb95dd0c9"
+  },
+  "impactDescription": "Our Berlin residency addressed a critical void, offering public goods builders a collaborative sanctuary to innovate, creating ideal conditions for collaborative production of public goods. This environment incubated numerous new projects (see reference links), and enabled collaborations to emerge. Our residency, Zuzalu PG week, and our conferences in Paris and Berlin confronted the challenge of work duplication. Many innovators building in isolation often duplicate efforts. Gathering in a physical domain, they discovered synergies, triggering newfound collaborations. This not only optimized individual projects but also infused efficiency within the broader web3 ecosystem. With notable relevance to Optimism, Laura (@0xyNaMu) developed an Optimism impact evaluation framework.",
+  "contributionDescription": "We successfully produced two pivotal conferences in Paris and Berlin, attended by 400 and 350 individuals respectively. These events encompassed a diverse group of builders, protocol developers, scholars, and the general populace, raising awareness of public goods funding, within and beyond web3. The events are truly a space to showcase research and development in the public goods funding space. We co-produced the Public Goods Week at Zuzalu Montenegro, creating a nexus for web3 public goods leaders, catalyzing fresh partnerships and collaborations. Additionally, our Berlin residency provided an oasis for public goods builders, granting them unparalleled access to leading protocols in the EVM landscape including Optimism, and the freedom to ideate away from traditional startup pressures.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "http://fundingthecommons.io/",
+      "description": "Overview website describing activities of Funding the Commons as an organization"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://fundingthecommons.notion.site/770e20b99405403f82156b636b4a77c0?v=cd7181bf3045467190863bf89a15b0ef",
+      "description": "List of open source projects that builders worked on during the Berlin Residency"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://thegraph.com/hosted-service/subgraph/abhimanyu121/hypercerts-testnet",
+      "description": "First on-chain implementation of Hyberboards (Hypercerts) "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Attendance at Funding the Commons Paris",
+      "number": "400",
+      "url": "https://www.youtube.com/@fundingthecommons"
+    },
+    {
+      "description": "Attendance at Funding the Commons Berlin",
+      "number": "350",
+      "url": "https://www.youtube.com/@fundingthecommons"
+    },
+    {
+      "description": "Open source builders hosted for 1 month",
+      "number": "35",
+      "url": "https://fundingthecommons.notion.site/770e20b99405403f82156b636b4a77c0?v=cd7181bf3045467190863bf89a15b0ef"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 202945,
+      "description": "Sponsorships for Conferences and Residency"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 22244,
+      "description": "Conference ticket sales"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x101871d3c582cd1a8322f911e6f9623d8c1a6f19108149d9c1a6ef4650080780",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 53,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Conferences, Events & Hackathons"
+}

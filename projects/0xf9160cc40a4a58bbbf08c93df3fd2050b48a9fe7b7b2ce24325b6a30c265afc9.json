@@ -1,0 +1,91 @@
+{
+  "bio": "Chainpatrol protects the Optimism Collective by blocking online threats daily ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "ChainPatrol - Real Time Security protecting the OP Collective",
+  "websiteUrl": "https://chainpatrol.io",
+  "applicant": {
+    "address": {
+      "address": "0x3D9d22E1821Be3b1Ce2A8ACB6FE47fFEF04243c3",
+      "resolvedName": {
+        "address": "0x3D9d22E1821Be3b1Ce2A8ACB6FE47fFEF04243c3",
+        "name": "niksparrow.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3D9d22E1821Be3b1Ce2A8ACB6FE47fFEF04243c3"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3D9d22E1821Be3b1Ce2A8ACB6FE47fFEF04243c3.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3D9d22E1821Be3b1Ce2A8ACB6FE47fFEF04243c3.png",
+    "id": "OptimistProfile|0xd42e0cf9501ef86b5f2a1da195eb61ab0e3c42ca83f35db2e71c91e019a64ec7"
+  },
+  "impactDescription": "Early detection and fast response to online threats across leading Crypto Wallets protects the OP Collective and the wider crypto community from losing millions in digital asset value.\n\nChainPatrols Platform automates off-chain monitoring, saving the Trust & Safety, and Community moderators time with reporting, and takedown activities.\n\nChainPatrol is an added defence layer and takedown system mitigating the financial cost and impact of weekly wallet drainer and phishing attacks.\n\nChainPatrol data protects millions of users through leading crypto wallets. Visitors to the malicious site on both desktop and mobile devices will be shown a warning, within minutes of the threats detection.\n\nChainPatrol Public Security Portal and Discord Bot make it easy for community members to report threats",
+  "contributionDescription": "With the high volume of threats targeting the OP Collective in 2022, ChainPatrol set out to reduce these threats and protect the Optimism community. \n\nChainPatrol's solution tracks phishing threats and prevents Optimism users from having their wallets drained.\n\nChainPatrol started protection for the Optimism Collective in December 2022 and has since blocked 502 Online Threats in Total.\n\nChainPatrol turned on our auto-detection systems and began reporting malicious URLs to our Wallet Network to have threats blocked in minutes versus days. (Coverage to 30+Million Users of MetaMask, Coinbase Wallet, Phantom, and 20+ Wallets).\n\nChainPatrol also manages the tracking and full takedown process with domain hosting providers and social platforms;  X/Twitter, Discord, Telegram, YouTube and Reddit.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.chainpatrol.io/optimism",
+      "description": "Optimism Security Portal "
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/chainpatrol",
+      "description": "\ud83e\udd16 Bot which provides Discord servers with access to ChainPatrol security tools"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://chainpatrol.io/docs/introduction",
+      "description": "ChainPatrol Docs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=CEIEicqoicE",
+      "description": "ChainPatrol Demo Video"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Security Dashboard ",
+      "number": "502",
+      "url": "https://chainpatrol.notion.site/ChainPatrol-OP-Retro-PGF-Metrics-53225311cabf4a6595660c9701c97f64"
+    },
+    {
+      "description": "Online Threats Blocked in Total",
+      "number": "502",
+      "url": "https://app.chainpatrol.io/optimism"
+    },
+    {
+      "description": "Domains Blocked -impersonating URLS",
+      "number": "297",
+      "url": "https://app.chainpatrol.io/optimism"
+    },
+    {
+      "description": "Twitter Profiles Blocked - Posts, Ad's",
+      "number": "181",
+      "url": "https://app.chainpatrol.io/optimism"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "We have not recieved any revenue (First Application) "
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "We have not recieved any funding (First Application) "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf9160cc40a4a58bbbf08c93df3fd2050b48a9fe7b7b2ce24325b6a30c265afc9",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 18,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

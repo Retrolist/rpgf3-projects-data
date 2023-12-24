@@ -1,0 +1,65 @@
+{
+  "bio": "Castle is a multi-chain EOA and multi-sig aggregator for NFTs and coins on OP.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "mehran @ castle",
+  "websiteUrl": "https://castle.link/",
+  "applicant": {
+    "address": {
+      "address": "0x071D9fe61cE306AEF04b7889780f889f444D7BF7",
+      "resolvedName": {
+        "address": "0x071D9fe61cE306AEF04b7889780f889f444D7BF7",
+        "name": "castlelinkhq.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x071D9fe61cE306AEF04b7889780f889f444D7BF7"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x071D9fe61cE306AEF04b7889780f889f444D7BF7.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xcb803178b7380b11ef6de5d8c7f63d34f2633c0083695467023ee6e75beb7304"
+  },
+  "impactDescription": "Multi-sigs and managing multiple wallets is difficult. We made the wallet experience as easy as can be for users starting in crypto. With apps like Friend Tech, AdWorld, etc. users are required to hold various types of assets across many wallets. Castle prioritizes chains like Optimism and Base to ensure that new users can easily manage all their assets in one place.",
+  "contributionDescription": "We help users manage multiple wallets on Optimism and Base blockchains. Users can connect multiple EOAs, multi-sigs (across both Optimism and Base) and manage their NFTs and coins. We integrate with NFT marketplaces and 0x to enable trading on Optimism and Base too.\n\nThe multi-sig creation process on our app is simplified. We leverage CREATE2 and multi-send to streamline onboarding for users. Users can securely manage their assets across major chains through us.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://castle.link/",
+      "description": "Main dApp"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.safe.global/share/safe-app?appUrl=https%3A%2F%2Fsafeapp.castle.link&chain=eth",
+      "description": "Safe app"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Users (number)",
+      "number": "5000",
+      "url": "https://twitter.com/CastleLinkHQ"
+    },
+    {
+      "description": "Assets under management (ether)",
+      "number": "2000",
+      "url": "https://twitter.com/CastleLinkHQ"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1500000,
+      "description": "We raised a small pre-seed round in January 2022"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb9df52b520c2f18ab2bd7468e08a1a4b0f9c048f797466369efa61618ec19476",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 6,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

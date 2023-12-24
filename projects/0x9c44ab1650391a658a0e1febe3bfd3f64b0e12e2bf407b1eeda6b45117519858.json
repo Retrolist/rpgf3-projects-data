@@ -1,0 +1,91 @@
+{
+  "bio": "Gitcoin Passport makes it easy for projects to detect and stop bots and Sybils.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Gitcoin Passport",
+  "websiteUrl": "https://www.gitcoin.co/passport",
+  "applicant": {
+    "address": {
+      "address": "0x83108A0653a14EAeB8301E7b10a37CfAc39C82f6",
+      "resolvedName": {
+        "address": "0x83108A0653a14EAeB8301E7b10a37CfAc39C82f6",
+        "name": "jkd.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x83108A0653a14EAeB8301E7b10a37CfAc39C82f6"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x83108A0653a14EAeB8301E7b10a37CfAc39C82f6.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x83108A0653a14EAeB8301E7b10a37CfAc39C82f6.png",
+    "id": "OptimistProfile|0x3f96d45ea9f44182a3f6191a830f29e76ea4b34b6e09d54405c2df9989a62820"
+  },
+  "impactDescription": "Our team at Gitcoin Passport has bolstered Optimism's security and trust. We deployed Onchain Stamps for Sybil-resistant identity, leading to ~ 13,000 Passports pushed onchain to OP. We've also been instrumental in OP incentive programs like ShapeShift\u2019s, disqualifying over 5,700 Sybil-linked addresses and saving 45,000+ OP tokens. Our efforts extend to campaigns with Tide and Bankless Academy, creating a safer, more robust Optimism. The impact benefits developers, users, and companies involved in token incentives.",
+  "contributionDescription": "The creation of Gitcoin Passport itself is a key contribution to Optimism and the broader Ethereum ecosystem, offering identity management tools that enhance security and trust. \n\nIt's an easy-to-use tool for Optimism developers seeking to protect their projects from bots and Sybils. \n\nFurthermore, we launched Onchain Stamps on the OP Mainnet, using Ethereum Attestation Service for Sybil-resistant identity. This has significantly bolstered trust in Optimism, driving the majority of attestations in OP's Attestation Station and data availability for everyone in the OP ecosystem.\n\nWe've also fortified OP token programs with partners like ShapeShift, Tide, and Bankless Academy, using anti-Sybil tech to disqualify rogue addresses, preserving ecosystem integrity.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://passport.gitcoin.co/",
+      "description": "Gitcoin Passport"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xa8eD4d2C3f6f98A55cdDEd97C5aE9B932B0633A4",
+      "description": "The smart contract responsible for handling Onchain Stamps on Optimism mainnet"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/gitcoinco/passport",
+      "description": "The Github repository for Gitcoin Passport"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.gitcoin.co/passport",
+      "description": "Gitcoin Passport Overview (website)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.gitcoin.co/blog/gitcoin-passport-onchain-stamps",
+      "description": "Announcement post of our OP Onchain Stamps feature"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimism.easscan.org/address/0x843829986e895facd330486a61Ebee9E1f1adB1a",
+      "description": "EAS Scan: All passport.gitcoin.co attestations"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Passport Unique OP onchain Attestations",
+      "number": "26000",
+      "url": "https://optimism.easscan.org/address/0x843829986e895facd330486a61Ebee9E1f1adB1a"
+    },
+    {
+      "description": "Shapeshift Rewards OP tokesn saved",
+      "number": "45000",
+      "url": "https://gov.optimism.io/t/gf-phase-2-growth-proposal-shapeshift-dao/5568/15"
+    },
+    {
+      "description": "Bankless' Sybil Resistant Badges",
+      "number": "10000",
+      "url": "https://gov.optimism.io/t/final-multi-lingual-lesson-on-optimism-governance-by-bankless-academy/6134/18"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 23475,
+      "description": "Mint fees, in ETH, for onchain Passports"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9c44ab1650391a658a0e1febe3bfd3f64b0e12e2bf407b1eeda6b45117519858",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 61,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

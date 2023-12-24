@@ -1,0 +1,53 @@
+{
+  "bio": "A tech/web3 enthusiast. ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Gideon",
+  "websiteUrl": "https://x.com/gheedhion?t=nhZjz97SJ0qzO6qSEM0dNA&s=09",
+  "applicant": {
+    "address": {
+      "address": "0xE8849eDCE331e1cC29d8905294D8567f06EDE0fe",
+      "resolvedName": {
+        "address": "0xE8849eDCE331e1cC29d8905294D8567f06EDE0fe",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE8849eDCE331e1cC29d8905294D8567f06EDE0fe"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE8849eDCE331e1cC29d8905294D8567f06EDE0fe.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xd68f7914f3c56e5cb692d8d702d09d09960ae049e027bb81f7059cfa7ec14a8e"
+  },
+  "impactDescription": "Consider contributing by investing in projects or initiatives that have already demonstrated their value and positive impact through Retroactive Public Goods Funding. Your financial support can help sustain and expand these endeavors, ensuring that resources are channeled to projects with proven worth. This contribution directly aligns with the concept's core principle of funding based on demonstrated outcomes, fostering innovation and accountability in resource allocation. Your investment can play a pivotal role in reshaping economic systems to prioritize efficiency and effectiveness in delivering public goods.",
+  "contributionDescription": "Consider contributing by investing in projects or initiatives that have already demonstrated their value and positive impact through Retroactive Public Goods Funding. Your financial support can help sustain and expand these endeavors, ensuring that resources are channeled to projects with proven worth. This contribution directly aligns with the concept's core principle of funding based on demonstrated outcomes, fostering innovation and accountability in resource allocation. Your investment can play a pivotal role in reshaping economic systems to prioritize efficiency and effectiveness in delivering public goods.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/gheedhion/status/1709967371580956789?t=jD9hsgSgmrdzZTFkyqCxxw&s=19",
+      "description": "Twitter. "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Thread",
+      "number": "2",
+      "url": "https://twitter.com/gheedhion/status/1709967371580956789?t=jD9hsgSgmrdzZTFkyqCxxw&s=19"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 20000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd1b4ed581dbb7a3d52036f7d6c950bfbbe36ccce988955d3781a723122288c41",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

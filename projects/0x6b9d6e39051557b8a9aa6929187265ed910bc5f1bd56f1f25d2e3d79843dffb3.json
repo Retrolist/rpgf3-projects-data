@@ -1,0 +1,55 @@
+{
+  "bio": "Trader holder",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Harishchauhan911 ",
+  "websiteUrl": "https://app.optimism.io/governance",
+  "applicant": {
+    "address": {
+      "address": "0x2354A17dA6D086AC1f550c79A84aD9B152E893c2",
+      "resolvedName": {
+        "address": "0x2354A17dA6D086AC1f550c79A84aD9B152E893c2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2354A17dA6D086AC1f550c79A84aD9B152E893c2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2354A17dA6D086AC1f550c79A84aD9B152E893c2.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x15be0383307c5a89712f58105bedd57ab5efcaf4e41b7037a6f2781cf7560c4e"
+  },
+  "impactDescription": "I'm contributer of optimism network platform because optimism is a greatsjsjsjjsjsjjejejjejjejejjejejjejjjjjjsjsjjsjjejejgood team with huge potential project.i always following every social accounts of optimism network I loved optimism network platform ",
+  "contributionDescription": "I'm contributer of optimism network platform because optimism is a great good team with huge potential project.i always following every social accounts of optimism network I loved optimism network platformmnnmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdn",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://app.optimism.io/governance",
+      "description": "Harishchauhan911 "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Harishchauhan911 ",
+      "number": "50000",
+      "url": "https://app.optimism.io/governance"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50000,
+      "description": "Harishchauhan911 "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6b9d6e39051557b8a9aa6929187265ed910bc5f1bd56f1f25d2e3d79843dffb3",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,48 @@
+{
+  "bio": "Crypto analyst dedicated to knowledge sharing.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "NingNing",
+  "websiteUrl": "https://twitter.com/0xNing0x",
+  "applicant": {
+    "address": {
+      "address": "0x99B10bed6b630a1d60109b28dd2373696A79917C",
+      "resolvedName": {
+        "address": "0x99B10bed6b630a1d60109b28dd2373696A79917C",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x99B10bed6b630a1d60109b28dd2373696A79917C"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x99B10bed6b630a1d60109b28dd2373696A79917C.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x99B10bed6b630a1d60109b28dd2373696A79917C.jpeg",
+    "id": "OptimistProfile|0x41f825d1cd050fa3e0258f8a06c74572999fd1f68d0ead870a934fecfa0890d3"
+  },
+  "impactDescription": "I have written an educational piece for the Optimism Collective, providing in-depth insights into important Optimism Collective concepts. I believe that this information will be instrumental in understanding the development of Optimism,OP Stack and other cryptocurrency technologies.",
+  "contributionDescription": "I have written an educational piece for the Optimism Collective, providing in-depth insights into important Optimism Collective concepts. I believe that this information will be instrumental in understanding the development of Optimism,OP Stack and other cryptocurrency technologies.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xNing0x/status/1695307062392283602",
+      "description": "Twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Twitter Impression",
+      "number": "80000",
+      "url": "https://twitter.com/0xNing0x/status/1695307062392283602"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x915a40c2fdb3284ff17e4aecf0ee105906761a8467f03251bc38461716dc2154",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 6,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

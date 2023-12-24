@@ -1,0 +1,53 @@
+{
+  "bio": "Iam defi player, I love you all",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "nagato",
+  "websiteUrl": "https://twitter.com/nagato939",
+  "applicant": {
+    "address": {
+      "address": "0x951Fa1F882D609bbdA2B784F998fd2A7945DA25C",
+      "resolvedName": {
+        "address": "0x951Fa1F882D609bbdA2B784F998fd2A7945DA25C",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x951Fa1F882D609bbdA2B784F998fd2A7945DA25C"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x7e0c0c10ef1b549e3a3436b891c43a3ee3f6f68f2914581887f9824172422a2a"
+  },
+  "impactDescription": "I have been a Defi player for about 3 years, from the 2020 bull run until now I still play trading and DiFi, one of which is in the Optimism ecosystem, I am involved in Dao voting, new projects and so on, but now there are so many new blockchains emerging but I am still loyal to Optimism because I'm sure in the next bullrun this project will fly",
+  "contributionDescription": "I have been a Defi player for about 3 years, from the 2020 bull run until now I still play trading and DiFi, one of which is in the Optimism ecosystem, I am involved in Dao voting, new projects and so on, but now there are so many new blockchains emerging but I am still loyal to Optimism because I'm sure in the next bullrun this project will fly",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x951Fa1F882D609bbdA2B784F998fd2A7945DA25C",
+      "description": "this link my addres"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "my addres",
+      "number": "100",
+      "url": "https://optimistic.etherscan.io/address/0x951Fa1F882D609bbdA2B784F998fd2A7945DA25C"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 23,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x58428e76fd3d799ad9db4c7522aeb498f412fae6ec378e0d5c21f04ddeb8bfb6",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

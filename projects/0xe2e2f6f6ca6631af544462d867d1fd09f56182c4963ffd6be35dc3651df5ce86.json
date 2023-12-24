@@ -1,0 +1,123 @@
+{
+  "bio": "Gelato is web3's cloud platform  ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Gelato",
+  "websiteUrl": "https://gelato.network",
+  "applicant": {
+    "address": {
+      "address": "0x28bB9385A588EF4747264D19B9A9F1603591680c",
+      "resolvedName": {
+        "address": "0x28bB9385A588EF4747264D19B9A9F1603591680c",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x28bB9385A588EF4747264D19B9A9F1603591680c"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x28bB9385A588EF4747264D19B9A9F1603591680c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x28bB9385A588EF4747264D19B9A9F1603591680c.png",
+    "id": "OptimistProfile|0x9de152b983e1bb69e44b036a91757069691534e976b80f99216f4a03460e9049"
+  },
+  "impactDescription": "Since 2022, we have been at the forefront of providing a comprehensive suite of middleware services meticulously integrated into the heart of Optimism's ecosystem. \n\nThese services (Automate, Relay, Web3 Functions) have not only elevated the functionality but have also enriched the user experience for a diverse array of applications. Some of which include Kwenta, Beefy, Synthetic, Abracadabra, Brahma, Connext, r3vl, portals.fi and many more.\n\nIn our pursuit of simplifying blockchain deployment, we also introduced Gelato RaaS empowering developers to effortlessly launch Rollups with just a single click. \n\nFurther, we  allocated OP tokens received as part of a past grant to support and incentivize developers. Some past projects we've funded include Ricochet, Nexter and Blockpeer Finance.",
+  "contributionDescription": "At Gelato, we are dedicated to propelling the development and widespread adoption of Optimism. Our efforts have been instrumental in elevating the Optimism ecosystem, solidifying our position as web3's leading cloud platform. We wholeheartedly believe in the transformative potential of decentralized solutions and have relentlessly championed the growth of Optimism.\nThrough our middleware services, including Automate, Web3 Functions, and Account Abstraction, we've automated over 144,568 transactions on Optimism and enabled frictionless gasless transactions. This profound impact has driven substantial adoption and growth across a diverse range of projects. Notably, Optimism leads as the primary network for Automate task creations. Currently, 39 projects are using Gelato Services on Optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://raas.develop.gelato.network/rollups/details/public/op_testnet",
+      "description": "Gelato RaaS Testnet OP"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://beta.app.gelato.network/task/0x1593a557fbbccc9b8c41f175b059eac993a508e9c104036a1bb93f23b1e5d1e1?chainId=10",
+      "description": "Web3 Functions Task of Abracadabra (harvesting rewards vOP/USDC)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://beta.app.gelato.network/task/0xa26886ee0ab388999fa937f87145dd04b7ca881925bf270494b155798b3bac98?chainId=10",
+      "description": "Web3 Functions Task of Beefy (converting token rewards to USDC)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.gelato.network/blog/automating-conditional-orders-kwenta-gelato?utm_campaign=blog&utm_source=twitter",
+      "description": "Kwenta Use Case "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.gelato.network/blog/beefy-gelato-web3-functions",
+      "description": "Beefy Use Case"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://forum.gelato.network/discussion/9873-gelato-x-optimism-builder-bounties",
+      "description": "Gelato x Optimism Builder Bounties"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/gelato-phase-0-grant-update/4613",
+      "description": "Gelato Phase 0 Grant Update"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.synthetix.io/automated-claiming-from-gelato-only-live-on-optimism/",
+      "description": "Synthetix Use Case"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Executed Transactions on Optimism",
+      "number": "144568",
+      "url": "https://www.gelato.network/"
+    },
+    {
+      "description": "# of projects using Gelato on Optimism",
+      "number": "39",
+      "url": "https://www.gelato.network/"
+    },
+    {
+      "description": "Automate transaction count Optimism",
+      "number": "54852",
+      "url": "https://www.gelato.network/"
+    },
+    {
+      "description": "Relay transaction count Optimism",
+      "number": "89716",
+      "url": "https://www.gelato.network/"
+    },
+    {
+      "description": "Min weekly task creations since 04/23",
+      "number": "1058",
+      "url": "https://www.gelato.network/"
+    },
+    {
+      "description": "Max weekly task creations since 04/23",
+      "number": "5211",
+      "url": "https://www.gelato.network/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 300000,
+      "description": "https://gov.optimism.io/t/gf-phase-0-proposal-gelato/873"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 17983.16,
+      "description": "Infrastructure & Dependencies nominations for RPGF2"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe2e2f6f6ca6631af544462d867d1fd09f56182c4963ffd6be35dc3651df5ce86",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 65,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

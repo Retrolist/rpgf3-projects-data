@@ -1,0 +1,45 @@
+{
+  "bio": "I'm an Crypto Enhtusiast that actively in this Space for Learning",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Comzvy",
+  "websiteUrl": "https://twitter.com/comzvy",
+  "applicant": {
+    "address": {
+      "address": "0x4e846E2aB6A8e2565EA073A5ee9839FcbFd927D1",
+      "resolvedName": {
+        "address": "0x4e846E2aB6A8e2565EA073A5ee9839FcbFd927D1",
+        "name": "iyan.ecc.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x4e846E2aB6A8e2565EA073A5ee9839FcbFd927D1"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4e846E2aB6A8e2565EA073A5ee9839FcbFd927D1.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4e846E2aB6A8e2565EA073A5ee9839FcbFd927D1.png",
+    "id": "OptimistProfile|0x5905d0f374c0ba8c8f54eee02a05396a8c199869a9eb2c10635cd567f47e1033"
+  },
+  "impactDescription": "By actively engaging with these projects and sharing my insights, I aim to contribute to the growth and maturation of the crypto industry, fostering a more secure and user-friendly environment for all participants. My commitment to testing and feedback underscores my belief in the transformative potential of blockchain technology and its ability to revolutionize various sectors beyond finance.",
+  "contributionDescription": "I have been an active participant in the crypto space, constantly testing new projects and providing valuable feedback to help improve the ecosystem. With a background in software development and a deep interest in blockchain technology, I've made it a personal mission to seek out innovative projects, from decentralized finance platforms to blockchain-based games.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0x4e846E2aB6A8e2565EA073A5ee9839FcbFd927D1",
+      "description": "My history onchain activity"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Estimate Reach to People",
+      "number": "180",
+      "url": "https://twitter.com/comzvy"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xfbc5e5073ae0af5c99e8a03032f9b2228aeb414f0489f2ef47a2c35e2153ab8f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

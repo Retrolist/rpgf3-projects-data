@@ -1,0 +1,52 @@
+{
+  "bio": "I'm an artist and a developer",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "nove",
+  "websiteUrl": "https://github.com/novepras",
+  "applicant": {
+    "address": {
+      "address": "0xcC1ec0B04fa0C602c23D4DeBbf91E6844af48b39",
+      "resolvedName": {
+        "address": "0xcC1ec0B04fa0C602c23D4DeBbf91E6844af48b39",
+        "name": "zkrich.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xcC1ec0B04fa0C602c23D4DeBbf91E6844af48b39"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcC1ec0B04fa0C602c23D4DeBbf91E6844af48b39.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x59c9637bc78f9bfd6b06379fc49ab9c15f7bd4a6d85fbb9b45fdfe4e9c02edff"
+  },
+  "impactDescription": "I will build a dapp for the optimism ecosystem, and build some nfts project, that's been my dream for a long time. because I have been following the optimism ecosystem for a long time so I want to explore and be part of optimism, i belive i can give more color to optimism.",
+  "contributionDescription": "I will build a dapp for the optimism ecosystem, and build some nfts project, that's been my dream for a long time. because I have been following the optimism ecosystem for a long time so I want to explore and be part of optimism, i belive i can give more color to optimism.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/novepras/hutao1",
+      "description": "i will keep working on this and deploy on optimism, and add more features"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "github",
+      "number": "1",
+      "url": "https://github.com/novepras"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 7000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf784297328a1e9bb1d0726ba34c519dd1de1cb653531fd349eb7fbc775a56876",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

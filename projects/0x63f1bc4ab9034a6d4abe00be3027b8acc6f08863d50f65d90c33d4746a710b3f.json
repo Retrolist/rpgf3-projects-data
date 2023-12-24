@@ -1,0 +1,105 @@
+{
+  "bio": "A media initiative out of the  @LyraFinance  community.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Lyra Research Collective",
+  "websiteUrl": "https://twitter.com/lyrashortput",
+  "applicant": {
+    "address": {
+      "address": "0xb8f526E029E7e629221e98Fbc1CDCF363eA486ee",
+      "resolvedName": {
+        "address": "0xb8f526E029E7e629221e98Fbc1CDCF363eA486ee",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xb8f526E029E7e629221e98Fbc1CDCF363eA486ee"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb6f3cee0b0dbabca8a2db91663607e9f551eb8e3e70a54395ea9ed74328e7f39"
+  },
+  "impactDescription": "Our Twitter analytics show consistent engagement with our weekly data threads. Catering to over 570 followers on Twitter, we provide updates to 87,000+ Lyra community members. Our Medium page, dedicated to newsletters, reveals increasing readership, highlighting the community's demand for in-depth insights. We produce content on various Lyra products for hedging and arbitrage. Most content revolves around Optimism. In 'Data & Key Metrics', we explore pivotal option metrics for OP. ",
+  "contributionDescription": "Established in 2022, the Lyra Research Collective is a community-driven initiative devoted to sharing crucial updates on the Optimism ecosystem. Through our Twitter, we offer a weekly data thread and monthly newsletters, detailing the latest developments and innovations. Our analysis spans significant areas within the ecosystem, including Kwenta and Polynomial. Our primary goal: keep over 87,000 Lyra enthusiasts updated on all things Lyra and Optimism. What distinguishes us is our community-driven ethos. Every insight we share is powered by our members, ensuring our outputs truly serve the community's needs.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/lyrashortput",
+      "description": "Twitter Content"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://medium.com/@LyraShortPut",
+      "description": "Medium Content"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@LyraShortPut/an-opportunity-awaits-the-short-put-5e6b8dc86bb2",
+      "description": "The Lyra Shortput Monthly Newsletter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@LyraShortPut/the-lyra-short-put-14-e26932882ed5",
+      "description": "The Lyra Shortput Monthly Newsletter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@LyraShortPut/a-guide-to-crypto-options-arbitrage-in-2023-e40440087da4",
+      "description": "Lyra Options Arbitrage Guide on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@LyraShortPut/the-lyra-short-put-15-d615035efedb",
+      "description": "The Lyra Shortput Monthly Newsletter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/lyrashortput/status/1680967319776899073",
+      "description": "Key Metrics Data Thread"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/lyrashortput/status/1622374666965762048?s=20",
+      "description": "Key Metrics Data Thread"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/lyrashortput/status/1620775311179911168?s=20",
+      "description": "Key Metrics Data Thread"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Twitter impressions",
+      "number": "12000",
+      "url": "https://twitter.com/lyrashortput/status/1622374666965762048?s=20"
+    },
+    {
+      "description": "Twitter Likes",
+      "number": "29",
+      "url": "https://twitter.com/lyrashortput/status/1620775311179911168?s=20"
+    },
+    {
+      "description": "Average monthly readers",
+      "number": "100",
+      "url": "https://medium.com/@LyraShortPut"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "Lyra monthly grant"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x63f1bc4ab9034a6d4abe00be3027b8acc6f08863d50f65d90c33d4746a710b3f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 31,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

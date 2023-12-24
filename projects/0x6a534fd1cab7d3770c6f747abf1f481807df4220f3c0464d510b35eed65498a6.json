@@ -1,0 +1,60 @@
+{
+  "bio": "Blocktorch is a monitoring and observability platform for web3 developers",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Blocktorch",
+  "websiteUrl": "https://blocktorch.xyz",
+  "applicant": {
+    "address": {
+      "address": "0xc94EdaBAA441B5e39d4979462991D6cCA705486e",
+      "resolvedName": {
+        "address": "0xc94EdaBAA441B5e39d4979462991D6cCA705486e",
+        "name": "blocktorch.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xc94EdaBAA441B5e39d4979462991D6cCA705486e"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc94EdaBAA441B5e39d4979462991D6cCA705486e.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc94EdaBAA441B5e39d4979462991D6cCA705486e.png",
+    "id": "OptimistProfile|0x26d49ac2bd2d078e2b8fd72a334157b312adaa93815e49b8bb74b5c8608095d3"
+  },
+  "impactDescription": "Streamlined Adoption: Opti-mystic, our roll-up discovery service, has simplified the process of discovering and utilizing roll-ups on the opStack. This has lowered the barriers to entry for developers and users, promoting the broader adoption of Optimism solutions.\n\nCommunity Growth: By providing essential tools for monitoring and roll-up discovery, we've contributed to the growth of the Optimism community. More developers and users can actively engage with the network, fostering a larger, more vibrant collective.\n\nEcosystem Resilience: Our contributions support the overall resilience and sustainability of the Optimism ecosystem. With enhanced monitoring and easier access to roll-ups, the network can adapt to challenges and scale more effectively.",
+  "contributionDescription": "Our contributions to Optimism are twofold. First, Blocktorch.xyz, our web3 observability platform, plays a vital role in monitoring the Optimism Chain and opStack roll-ups. It enhances network transparency, security, and performance. Second, Opti-mystic, our roll-up discovery service, simplifies the process of identifying and interacting with roll-ups on the opStack, fostering easier adoption and development. These contributions serve as integral pillars supporting developers to build on the Optimism ecosystem. The RetroPGF grants we seek are aimed at fortifying and advancing these vital tools, ensuring the seamless operation and sustainable development of Optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://beta.blocktorch.xyz",
+      "description": "This is the live beta of the blocktorch monitoring platform to try out"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethglobal.com/showcase/opti-mystic-ze5mb",
+      "description": "a discovery service to find optimistic rollups and run their nodes in 4 steps"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Optimism Transactions Monitored",
+      "number": "36000000",
+      "url": "https://beta.blocktorch.xyz"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 4000000,
+      "description": "Venture Capital Funding"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6a534fd1cab7d3770c6f747abf1f481807df4220f3c0464d510b35eed65498a6",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 6,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

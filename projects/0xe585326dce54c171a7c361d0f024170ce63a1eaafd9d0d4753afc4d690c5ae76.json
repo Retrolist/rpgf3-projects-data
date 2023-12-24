@@ -1,0 +1,67 @@
+{
+  "bio": "I am a music nft keener",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Liro",
+  "websiteUrl": "https://www.sound.xyz/user/0xdedae75457f20921ac56dd0abfd8a3d427e80124",
+  "applicant": {
+    "address": {
+      "address": "0xdedaE75457f20921AC56Dd0abFd8A3D427E80124",
+      "resolvedName": {
+        "address": "0xdedaE75457f20921AC56Dd0abFd8A3D427E80124",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xdedaE75457f20921AC56Dd0abFd8A3D427E80124"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdedaE75457f20921AC56Dd0abFd8A3D427E80124.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xc43195ffe9ad25d792c47ff2befc6b55c49a76a38d5ab029abdf1c6f52e64c4f"
+  },
+  "impactDescription": "Onchain music brings a public good.\nI am in top collector for many songs:\n198 songs: https://www.sound.xyz/contrast/redemption-feat-never-back-down\n394 songs: https://www.sound.xyz/shilly/naked-and-sideways\n861 songs: https://www.sound.xyz/mija/meej-mix-3\n176 songs:https://www.sound.xyz/rohki/horizon\nAnd many others, most of them were minted on Op network",
+  "contributionDescription": "I am a member of Camel Venture https://twitter.com/Camelventure. I have been supported artists (Music Nft) on Sound.xyz from April 2023 until now.\nMy profile here: https://www.sound.xyz/user/0xdedae75457f20921ac56dd0abfd8a3d427e80124\nI minted 2300 music nft and supported 68 artists, help them to have fund to continue onchain music development.\n\nSupported artists: https://www.sound.xyz/user/0xdedae75457f20921ac56dd0abfd8a3d427e80124/artists-backed\n\nSupported collections: https://www.sound.xyz/user/0xdedae75457f20921ac56dd0abfd8a3d427e80124/collection\n\nI am top collectors in many songs, most of them were minted on Op network.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/user/0xdedae75457f20921ac56dd0abfd8a3d427e80124",
+      "description": "This is my profile on sound.xyz. I am enjoying music nft that is generated on OP"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/user/0xdedae75457f20921ac56dd0abfd8a3d427e80124/artists-backed",
+      "description": "Supported artists"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/user/0xdedae75457f20921ac56dd0abfd8a3d427e80124/collection",
+      "description": "Supported collections"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Minted 2300 music nfts Song Redemption",
+      "number": "2300",
+      "url": "https://www.sound.xyz/user/0xdedae75457f20921ac56dd0abfd8a3d427e80124/collection"
+    },
+    {
+      "description": "Supported 68 artists",
+      "number": "68",
+      "url": "https://www.sound.xyz/user/0xdedae75457f20921ac56dd0abfd8a3d427e80124/artists-backed"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 200,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe585326dce54c171a7c361d0f024170ce63a1eaafd9d0d4753afc4d690c5ae76",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

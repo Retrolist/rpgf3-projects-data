@@ -1,0 +1,65 @@
+{
+  "bio": "BTC/ETH/BNB/OP/ARB Learn/Earn and Repeat",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Obito",
+  "websiteUrl": "https://twitter.com/mrobitosan",
+  "applicant": {
+    "address": {
+      "address": "0xa02d34e0f2235661F4b46b8A7BEDB42c4cce104b",
+      "resolvedName": {
+        "address": "0xa02d34e0f2235661F4b46b8A7BEDB42c4cce104b",
+        "name": "onlyoneprivate.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xa02d34e0f2235661F4b46b8A7BEDB42c4cce104b"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa02d34e0f2235661F4b46b8A7BEDB42c4cce104b.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa02d34e0f2235661F4b46b8A7BEDB42c4cce104b.png",
+    "id": "OptimistProfile|0x4917fd821ebf7c06b6fd2c2859aa29f9752cea3d14e89db4468d4e3baa2ed8c6"
+  },
+  "impactDescription": "Early Advocacy and Support: As an early adopter since the first airdrop, my involvement has not only showcased my belief in the project but also potentially inspired others to take a closer look at Optimism. Early adopters play a crucial role in any project, offering feedback, spreading awareness, and laying the groundwork for a wider community to flourish.\n\nInfluencing Governance: By actively voting on governance issues, I've played a part in shaping the direction of Optimism. Every vote cast in a decentralized ecosystem holds weight, ensuring that the project remains true to its community-driven ethos.",
+  "contributionDescription": "Early Adopter: I was among the early believers in Optimism, having been involved since the very first airdrop. My belief in its potential was clear from the start, and my early involvement not only gave me a deep understanding of its trajectory but also allowed me to support its initial phases.\nGovernance Participation: Recognizing the importance of decentralized decision-making, I have actively participated in voting on several governance matters. My votes were cast after thorough research, ensuring that I was making informed decisions that would further the success and health of the ecosystem.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xa02d34e0f2235661F4b46b8A7BEDB42c4cce104b",
+      "description": "Valid address on etherscan"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0xa02d34e0f2235661F4b46b8A7BEDB42c4cce104b"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 450,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 450,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 150,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x023156eb54bfb224875c849f104b21b599aa301262ed6ec425751a5429660693",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

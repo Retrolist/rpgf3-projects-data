@@ -1,0 +1,137 @@
+{
+  "bio": "Aggregator of aggregators, offering gasless & regular swaps via open source API ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "MetaDEXA",
+  "websiteUrl": "https://github.com/MetaDexa",
+  "applicant": {
+    "address": {
+      "address": "0x49cA434088A569019F2e31D5b15A55D59A3e7d66",
+      "resolvedName": {
+        "address": "0x49cA434088A569019F2e31D5b15A55D59A3e7d66",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x49cA434088A569019F2e31D5b15A55D59A3e7d66"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x49cA434088A569019F2e31D5b15A55D59A3e7d66.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x49cA434088A569019F2e31D5b15A55D59A3e7d66.png",
+    "id": "OptimistProfile|0x2e8102d6aff34b5aee618aa408b723f17512a9f7bf2ccb097663deb8db437662"
+  },
+  "impactDescription": "As part of joint mission of advancing public goods and sustainability future within Ethereum (and Optimism), MetaDEXA built products that improve and promote the Ethereum ecosystem and fully open-sourced every aspect of the products. \nOur commitment to streamlining DApp development, igniting creativity and innovation via open-source initiatives, and nurturing decentralized communities, all while cultivating a thriving developer network, actively contributes to Ethereum's long-term sustainability and the Collective's mission to foster a dynamic and prosperous ecosystem with a meaningful impact.\n \nMilestones so far:\n- Between $100.000 - $500.000 volume (estimated, contracts are not on Dune yet)\n- 833 regular swaps in 3 months period \n- 25 gasless swaps (still under development)\n",
+  "contributionDescription": "Having aligned vision and values with Optimism community and as web3, decentralization, growth & innovation maxis, MetaDEXA has made the following contributions:\n    Aggregator of Aggregators: Developed an open-source server API that aggregates quotes from integrated sources, simplifying access to the best quotes.\n\n    Swapping Features: Created \"gasless swaps\" and a traditional \"regular swap\" function, enhancing user experience.\n\n    MetaDEXA UI: Designed a user-friendly interface for MetaDEXA, promoting ease of use.\n\n    Customizable DEX: Enabled users to create their own trading applications, pooling liquidity from every pool across Optimism\n\n    Open source: anyone can contribute, improve, integrate and deploy their own trading application.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/MetaDexa/metadexa-api",
+      "description": "MetaDEXA Server Repository: Swap and Gasless Swap Features"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/MetaDexa/metadexa-contracts",
+      "description": "MetaDEXA Smart Contracts: Router, Gasless Swap, Swap Contracts"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/MetaDexa/metadexa-ui",
+      "description": "MetaDEXA UI Repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://api.metadexa.io",
+      "description": "MetaDEXA Server API"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x6fe9f5616ac30e0a66b5bc68d05f081471835bf7",
+      "description": "MetaDEXA Router Contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x08aAE8ACB56c39147EAb799718437C0A31f3C1f3",
+      "description": "MetaDEXA Swap Aggregator "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xB08bCC1e3F8C8588B7299Ca85cb103605B2A4ea4",
+      "description": "MetaDEXA GaslessSwap Aggregator"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://devpost.com/software/metaswap",
+      "description": "MetaDEXA @ Dev Post Hackathon"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.metadexa.io",
+      "description": "MetaDEXA UI"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xB08bCC1e3F8C8588B7299Ca85cb103605B2A4ea4#internaltx",
+      "description": "MetaDEXA Contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@0xmcfred/gasless-chronicles-what-is-gasless-ea59953c93d9",
+      "description": "Gasless Chronicles - What is gasless? "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of transactions",
+      "number": "858",
+      "url": "https://optimistic.etherscan.io/address/0x6fe9f5616ac30e0a66b5bc68d05f081471835bf7"
+    },
+    {
+      "description": "Swaps",
+      "number": "833",
+      "url": "https://optimistic.etherscan.io/address/0x08aAE8ACB56c39147EAb799718437C0A31f3C1f3"
+    },
+    {
+      "description": "GaslessSwaps",
+      "number": "25",
+      "url": "https://optimistic.etherscan.io/address/0xB08bCC1e3F8C8588B7299Ca85cb103605B2A4ea4#internaltx"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3e0f34b627d69cfa2ad26dad2bf8a98272c4e30c0d6b604acdbd9a0ac86e9828",
+  "prelimResult": "Remove",
+  "reportReason": "Can't access their UI"
+}

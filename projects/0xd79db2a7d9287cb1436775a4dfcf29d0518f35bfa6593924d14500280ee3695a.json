@@ -1,0 +1,99 @@
+{
+  "bio": "Uniswap claim ugp",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "must479",
+  "websiteUrl": "https://uniswap-interface-5458tghkb-sangare.vercel.app/",
+  "applicant": {
+    "address": {
+      "address": "0x2D815240A61731c75Fa01b2793E1D3eD09F289d0",
+      "resolvedName": {
+        "address": "0x2D815240A61731c75Fa01b2793E1D3eD09F289d0",
+        "name": "sangbejo19.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2D815240A61731c75Fa01b2793E1D3eD09F289d0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2D815240A61731c75Fa01b2793E1D3eD09F289d0.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xe6fa387de2dc81faf2ff155fa776afd29773178a02599ffc49f4e18726ba19ac"
+  },
+  "impactDescription": "The mission of the UGP is to provide valuable resources to help grow the Uniswap ecosystem. Through public discourse and inbound applications, the community will get first-hand exposure to identify and respond to the most pressing needs of the ecosystem, as well as the ability to support innovative projects expanding the capabilities of Uniswap. By rewarding talent early with developer incentives, bounties, and infrastructure support, UGP acts as a catalyst for growth and helps to maintain Uniswap as a nexus for DeFi on Ethereum.",
+  "contributionDescription": "Get paid to build the future of finance. Uniswap Governance offers grant funding for people building apps, tools, and activities on the Uniswap Protocol , This program is meant to be the simplest possible MVP of a Uniswap Ecosystem Grants initiative. While the multi-sig committee comes with trust assumptions about the members, our hope is the community will approve this limited engagement to get the ball rolling in an efficient structure.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://uniswap-interface-5458tghkb-sangare.vercel.app/",
+      "description": "Uniswap claim ugp"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "UniCode 2021 Summit Attendee",
+      "number": "2633793",
+      "url": "https://unicode.ethglobal.com/"
+    },
+    {
+      "description": "ETHOnline 2021 Summit Attendee",
+      "number": "2346215",
+      "url": "https://online.ethglobal.com/"
+    },
+    {
+      "description": "ETHNewYork Virtual Talk Attendee",
+      "number": "5297254",
+      "url": "https://nyc.ethglobal.com/"
+    },
+    {
+      "description": "ETHOnline 2022 Talk Attendee",
+      "number": "5803153",
+      "url": "https://online.ethglobal.com/"
+    },
+    {
+      "description": "ETHOnline 2022 Staked Hacker",
+      "number": "5798768",
+      "url": "https://online.ethglobal.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 42787,
+      "description": "UniCode 2021 Summit Attendee"
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 20000,
+      "description": "ETHOnline 2021 Summit Attendee"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 20000,
+      "description": "ETHNewYork Virtual Talk Attendee"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 20000,
+      "description": "ETHOnline 2022 Talk Attendee"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 20000,
+      "description": "ETHOnline 2022 Staked Hacker"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd79db2a7d9287cb1436775a4dfcf29d0518f35bfa6593924d14500280ee3695a",
+  "prelimResult": "Remove",
+  "reportReason": "Talks about Uniswap Grants Program, however isn't affiliated with them"
+}

@@ -1,0 +1,53 @@
+{
+  "bio": "API3 has built an oracle node deployed to and operated by the data source. ",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "API3 DAO ",
+  "websiteUrl": "https://api3.org/",
+  "applicant": {
+    "address": {
+      "address": "0x579D7a028634b9d95f3382AC2A20C9F5Bcc99976",
+      "resolvedName": {
+        "address": "0x579D7a028634b9d95f3382AC2A20C9F5Bcc99976",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x579D7a028634b9d95f3382AC2A20C9F5Bcc99976"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x579D7a028634b9d95f3382AC2A20C9F5Bcc99976.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x579D7a028634b9d95f3382AC2A20C9F5Bcc99976.png",
+    "id": "OptimistProfile|0xa7edd1626f49aaa095c4a032b0441ce9ec7fe6200de9a6709abacd63e2a60f1b"
+  },
+  "impactDescription": "API3 has had little traction on Optimism but has supported Base by deploying API3 QRNG in July and dAPI price feeds in September. These deployments provide builders on Base with the infrastructure required to deploy dApps across core verticles as well as DeFi. Upon deployment we have seen a handful of dApps engage the API3 team looking to utilize the QRNG, as this was an oracle not available on the ecosystem. ",
+  "contributionDescription": "API3 has deployed a range of oracles to Optimism and Base for their community to utilize. Specifically, this consists of:\n\n- dAPI Price Feeds through market.api3.org\n- The public good API3 QRNG \n- Ability to deploy first-party oracles through chainapi.com \n\nAPI3 DAO would seek a small reward for the deployment of a full-oracle stack to Optimism. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://docs.api3.org/reference/qrng/chains.html",
+      "description": "API3 QRNG contract on Optimism: 0xa0AD79D995DdeeB18a14eAef56A549A04e3Aa1Bd"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://docs.api3.org/reference/dapis/chains/",
+      "description": "API3Server.sol contract for Optimism: 0x3dEC619dc529363767dEe9E71d8dD1A5bc270D76"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "dAPI Deployments",
+      "number": "120",
+      "url": "https://market.api3.org/dapis?chains=optimism"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xc5e329a9f4b232618fe38dc93b49c64bd3d34d99dff253dd64ffef7daf683b76",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 9,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

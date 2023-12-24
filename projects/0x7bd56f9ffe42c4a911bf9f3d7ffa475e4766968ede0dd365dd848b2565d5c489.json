@@ -1,0 +1,61 @@
+{
+  "bio": "Exploring DAO Governance Experience",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "Jean Guillemont",
+  "websiteUrl": "https://blockl.ink/@jeanguillemont",
+  "applicant": {
+    "address": {
+      "address": "0xa64ED05d827eD7eEC23a6b2ade715418Fd5c06b9",
+      "resolvedName": {
+        "address": "0xa64ED05d827eD7eEC23a6b2ade715418Fd5c06b9",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa64ED05d827eD7eEC23a6b2ade715418Fd5c06b9"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa64ED05d827eD7eEC23a6b2ade715418Fd5c06b9.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa64ED05d827eD7eEC23a6b2ade715418Fd5c06b9.png",
+    "id": "OptimistProfile|0x3fb72e2d86fdc1f41b33b573d64a7cb80cf0ffae94841483664fd7121de6e92c"
+  },
+  "impactDescription": "For the moment and due to low adoption impact remain low, however first feedbacks are highlighting that providing efficient tools which increase DAO governance experience will increase global participation. First hint is the growing audience reached by daily reminder on proposal on X",
+  "contributionDescription": "My contributions aims to participate in increasing DOA Governance Experience inside the Optimism DAO as well as inside the ecosystem as i deeply believe it's a key factor of DAO success.\n- Initiation of the KeyMaker Project to improve Governance experience by providing Telegram notifications (including Gcal reminder setup, proposal summary, links) and daily alerts on X about beginning and end of proposals votes of Optimism DAO as well as other DAOs in the ecosystem.\n- Contribution to \"Review Ecosystem Contributions Issue Template\" to simplify the understanding of awaited answer format to open issues as well as better context.\n- Proposal to \"Ecosystem Contributions Dashboard\" to streamline the understanding of available contribution opportunities by leveraging Charmverse tool and API.\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/ecosystem-contributions/issues/72",
+      "description": "Review Ecosystem Contributions Issue Template"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/ecosystem-contributions/issues/12#issuecomment-1664037882",
+      "description": "Ecosystem Contributions Dashboard"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.charmverse.io/keymaker-project/",
+      "description": "KeyMaker project Charmverse space"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/JeanGuillemont/KeyMarker-ProposalNotifier",
+      "description": "ProposalNotifier (KeyMaker Telegram notification) repo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "X impression growth with DAO runes (%)",
+      "number": "32.3",
+      "url": "https://twitter.com/GuillemontJ"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7bd56f9ffe42c4a911bf9f3d7ffa475e4766968ede0dd365dd848b2565d5c489",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

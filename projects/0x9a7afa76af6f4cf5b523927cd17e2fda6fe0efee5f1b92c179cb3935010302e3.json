@@ -1,0 +1,53 @@
+{
+  "bio": "Airdrop Hunter",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "Bony Airdrop",
+  "websiteUrl": "https://twitter.com/bonyairdrop",
+  "applicant": {
+    "address": {
+      "address": "0xb9839Deed4862C1C0b5DD5C946ae87A81D7b4aE2",
+      "resolvedName": {
+        "address": "0xb9839Deed4862C1C0b5DD5C946ae87A81D7b4aE2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xb9839Deed4862C1C0b5DD5C946ae87A81D7b4aE2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb9839Deed4862C1C0b5DD5C946ae87A81D7b4aE2.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xda51fda1ac875562338aa0bf114088d8df32b62714b4780f68f3ef956fc25199"
+  },
+  "impactDescription": "I'm a crypto neubie and also a airdrop hunter person, i have a small airdrop (tesnet contributors) circle from Ubix Network, Core Chain, BNB Community and ZetaChain. I hope I can bring some of them, who not yet know very well about Optimism into the Optimism Community and also learn and updating our knowlegde about Optimism Chain Ecosystems.",
+  "contributionDescription": "Invest and keep alive on the Optimism Chain for sure. Honestly now i'm still learning \n about Crypto, i'm a nebuiewant increasing my basic knowledge about all crypto currencies. And now by submit this appplicalation i only do for my first in touch experience with Optimism Chain ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/",
+      "description": "Commuity Call for Airdrop Hunting and Tesnet Apply"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "1",
+      "url": "https://github.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 20,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9a7afa76af6f4cf5b523927cd17e2fda6fe0efee5f1b92c179cb3935010302e3",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

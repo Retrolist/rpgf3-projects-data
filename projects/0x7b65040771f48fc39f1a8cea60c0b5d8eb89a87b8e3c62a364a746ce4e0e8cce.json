@@ -1,0 +1,80 @@
+{
+  "bio": "First native Base lending protocol. Isolated, permissionless, capital efficient.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Seamless Protocol",
+  "websiteUrl": "https://www.seamlessprotocol.com/",
+  "applicant": {
+    "address": {
+      "address": "0x53352a00316573E8F52696C572F1293Ac877eF4d",
+      "resolvedName": {
+        "address": "0x53352a00316573E8F52696C572F1293Ac877eF4d",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x53352a00316573E8F52696C572F1293Ac877eF4d"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x53352a00316573E8F52696C572F1293Ac877eF4d.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x53352a00316573E8F52696C572F1293Ac877eF4d.png",
+    "id": "OptimistProfile|0x157d347b238ced0b539479425557f76f4c34154817238b25172f56b53eb4e779"
+  },
+  "impactDescription": "Seamless sets the foundation of Base by being the first native lending protocol. It pushes the boundaries of the latest technologies by using abstracted smart contracts and isolated liquidity pools to bring higher capital efficiency (up to 4x exposure with just 1x collateral). This fuses the value props of typical lending pools with typical vault strategies into a single, better UX app.\n\nAdditionally, Seamless has soulbound token points (called OG Points) where usage is rewarded with non-transferrable tokens to represent loyalty and \"OG-ness,\" opening the door for even more innovative utility in the ecosystem.",
+  "contributionDescription": "Seamless Protocol is the first, native, decentralized lending protocol on Base. In one month of being live, it has grown to be the largest native liquidity market, enabling users to supply and borrow USDbC, ETH, and cbETH (with more assets underway). Seamless opens up a new form of borrowing\u2014integrated liquidity markets\u2014which are isolated, smart contract-to-smart contract markets for undercollateralized, yet permissionless, borrowing. \n\nInstead of using onchain credit scores or CeFi structures, Seamless uses an innovative architecture where funds are abstracted and maintained by smart contracts, preventing any user from running away with the funds. In addition to Aave-like borrowing, borrowers may also select strategies to amplify their LST exposure for up to 4x (starting with cbETH).",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/seamless-protocol",
+      "description": "Repo for all public code"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.seamlessprotocol.com/",
+      "description": "Live app on Base"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://seamlessprotocol.medium.com/",
+      "description": "Announcements, how-to guides, blogs, thought leadership"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.seamlessprotocol.com/overview/introduction-to-seamless-protocol",
+      "description": "Technical guides / audit reports"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Top on Defillama (Base)",
+      "number": "25",
+      "url": "https://defillama.com/protocol/seamless-protocol"
+    },
+    {
+      "description": "Liquidity supplied (in USD)",
+      "number": "2000000",
+      "url": "https://dune.com/seamlessprotocol/stats"
+    },
+    {
+      "description": "Liquidity suppliers (unique wallets)",
+      "number": "3500",
+      "url": "https://dune.com/seamlessprotocol/stats"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "No grants or funds were received. No private or public token sale either."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7b65040771f48fc39f1a8cea60c0b5d8eb89a87b8e3c62a364a746ce4e0e8cce",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 29,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

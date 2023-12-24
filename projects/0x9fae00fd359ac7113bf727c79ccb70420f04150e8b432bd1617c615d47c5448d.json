@@ -1,0 +1,76 @@
+{
+  "bio": "Grants Management for Public Goods Projects on Optimism",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Public Goods Grant Management",
+  "websiteUrl": "https://generalmagic.io",
+  "applicant": {
+    "address": {
+      "address": "0x33878e070db7f70D2953Fe0278Cd32aDf8104572",
+      "resolvedName": {
+        "address": "0x33878e070db7f70D2953Fe0278Cd32aDf8104572",
+        "name": "aabugosh.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x33878e070db7f70D2953Fe0278Cd32aDf8104572"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33878e070db7f70D2953Fe0278Cd32aDf8104572.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x33878e070db7f70D2953Fe0278Cd32aDf8104572.png",
+    "id": "OptimistProfile|0xd5283e75268bf06ec313b4c81ab41921308b898abf9a21b15e8133b230ae74a9"
+  },
+  "impactDescription": "Grant Support: We've been key in securing multiple Optimism Grant proposals, reinforcing our commitment through pro bono support for select applications. \nPartner Success and Ecosystem Amplification: Our strategies have led to significant OP gains for our partners, extending and enhancing the reach of the Optimism ecosystem. \nCommunity Engagement: Our 37 weekly open meetings since February have served as crucial platforms for fostering dialogue and collaborative problem-solving. \nDiverse Collaboration: These meetings have included participation from BrightID, Commons Stack, DAOstar, Giveth, GravityDAO, Metagame, Pairwise, Praise, Regen Score, Token Engineering Academy, Trusted Seed, Unitap, and more, contributing to our collective impact.",
+  "contributionDescription": "Mission & Ethos: We simplify grant applications on Optimism, focusing on accessibility for small teams and individual devs. We champion 'cooperation over competition' in public goods. We only get paid if we help a project win a grant.\nScope: Our clients include public goods initiatives and the broader blockchain community benefiting from transparent grant distribution.\nKey Challenges Solved:\nGrant Access: We simplify the often complex grant landscape.\nOpportunity Awareness: We keep clients informed on all grant options.\nEcosystem Growth: We match projects to grants, aiding Optimism's expansion. \nDeep Ties to Ethereum and Optimism: Our roots are deeply embedded in both the Ethereum and Optimism ecosystems, we serve as a conduit, connecting value-aligned projects to OP opportunities.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://generalmagic.io ",
+      "description": "General Magic Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://grants.generalmagic.io ",
+      "description": "Explanation of Offering"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Optimism Grants Won for other projects",
+      "number": "11",
+      "url": "https://docs.google.com/spreadsheets/d/1Q1l3I6cKcRe-pxr_e5jRhmcOzWxJsfFM9ZOG18bTAhY/edit#gid=0"
+    },
+    {
+      "description": "Optimism Grants Supported at own cost",
+      "number": "12",
+      "url": "https://docs.google.com/spreadsheets/d/1Q1l3I6cKcRe-pxr_e5jRhmcOzWxJsfFM9ZOG18bTAhY/edit#gid=0"
+    },
+    {
+      "description": "Amount of OP we helped project win",
+      "number": "694800",
+      "url": "https://docs.google.com/spreadsheets/d/1Q1l3I6cKcRe-pxr_e5jRhmcOzWxJsfFM9ZOG18bTAhY/edit#gid=0"
+    },
+    {
+      "description": "Open Weekly Meetings",
+      "number": "37",
+      "url": "https://docs.google.com/document/d/1j622TL9yRP60emoU-PDm966Qspw5UK4IhuVVvGN425E/edit"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 721,
+      "description": "The amount of revenue we received to date from projects that won grants."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9fae00fd359ac7113bf727c79ccb70420f04150e8b432bd1617c615d47c5448d",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 26,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Governance Tooling"
+}

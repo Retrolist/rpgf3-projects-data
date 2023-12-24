@@ -1,0 +1,53 @@
+{
+  "bio": "#Be your self",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Retro OP BNB",
+  "websiteUrl": "https://x.com/bimag2509?t=dAzJtCMVDHqppUlrPgp-Uw&s=09",
+  "applicant": {
+    "address": {
+      "address": "0xa8Be90f7756c66827D6aa29ba5B538b81ccC28d6",
+      "resolvedName": {
+        "address": "0xa8Be90f7756c66827D6aa29ba5B538b81ccC28d6",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa8Be90f7756c66827D6aa29ba5B538b81ccC28d6"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa8Be90f7756c66827D6aa29ba5B538b81ccC28d6.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xc80d42e991a0d2e2732c4193181f818630a4554d57dca4c10b1a6432b3edf8ae"
+  },
+  "impactDescription": "I often follow the news that appears on Optimism Social Media, and I have followed all Optimism Social Media accounts so that I always know news from Optimism, success is always the team from Optimism, I will always support Project Dari Optimism, \nThank you, and success as always once again, hopefully in the future the OPTIMIST Project will be more advanced and can compete with the Big Projects",
+  "contributionDescription": "I have done all the missions, because I like the Optimism Project, Optimism should increase its network and give away projects more, so that there will be more enthusiasts and more popularity, I really like the Optimism Network because the payment fees are cheap and very good for making transactions.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://x.com/bimag2509?t=ACyqMFebU1wBwKFMeIopCg&s=09",
+      "description": "Twitter Profil link"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#twitter",
+      "number": "2509",
+      "url": "https://x.com/bimag2509?t=Mdw9S1xgfNmXYc9yztb-CA&s=09"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": "Live AID"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7bf938ff487eef67c41545ecf7c444ee530c76057d4f0136c8c36cd60c63ae88",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

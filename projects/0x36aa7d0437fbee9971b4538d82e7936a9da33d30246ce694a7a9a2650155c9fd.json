@@ -1,0 +1,46 @@
+{
+  "bio": "Crypto participator and investor since last 5 years",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Aman Mehta",
+  "websiteUrl": "https://sjfinancial.ca",
+  "applicant": {
+    "address": {
+      "address": "0xFD72b24b9730DFf0b879d176b9a8FB3992281C21",
+      "resolvedName": {
+        "address": "0xFD72b24b9730DFf0b879d176b9a8FB3992281C21",
+        "name": "sehajannat.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xFD72b24b9730DFf0b879d176b9a8FB3992281C21"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFD72b24b9730DFf0b879d176b9a8FB3992281C21.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x08220ae7ece5d8b4f8c49489dc9ef630df570d58667e1eadabbf279c187955bf"
+  },
+  "impactDescription": "by actively participating in the governance pools and investing in the protocol and related projects, I have done my contributions from the say one and have also promoted the fair knowledge of crypto amongst my family and friends. I am a professional financial planner and an active media person and believe in promoting the right things",
+  "contributionDescription": "I have been a early contributor to Optimism and have been a loyal investor and believer of OP and its projects. I also believed that this is the future of crypto and being an influencer in my community, have done my best to promote the project after doing my due diligence. I am not doing this for rewards but strongly believe in the core strength of the team and the project ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/aman9565/sui",
+      "description": "github contributor"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "OP transections",
+      "number": "200",
+      "url": "https://optimistic.etherscan.io/address/0xFD72b24b9730DFf0b879d176b9a8FB3992281C21"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x36aa7d0437fbee9971b4538d82e7936a9da33d30246ce694a7a9a2650155c9fd",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

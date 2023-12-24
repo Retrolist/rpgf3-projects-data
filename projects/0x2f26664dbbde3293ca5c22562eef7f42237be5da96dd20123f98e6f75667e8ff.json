@@ -1,0 +1,45 @@
+{
+  "bio": "crypto lover",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "rafiqul100",
+  "websiteUrl": "https://app.optimism.io/",
+  "applicant": {
+    "address": {
+      "address": "0x28E5C72BBdE77e9DbBe2BfB1d9398a6F6A0f4A9a",
+      "resolvedName": {
+        "address": "0x28E5C72BBdE77e9DbBe2BfB1d9398a6F6A0f4A9a",
+        "name": "quasem.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x28E5C72BBdE77e9DbBe2BfB1d9398a6F6A0f4A9a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x28E5C72BBdE77e9DbBe2BfB1d9398a6F6A0f4A9a.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x43729e6a3abf3196efa64eba5af5438d75e586620be363bc6d7dded516dd0392"
+  },
+  "impactDescription": "Optimism can protect against depression \u2014 even for people who are at risk for it. An optimistic outlook makes people more resistant to stress. Optimism may even help people live longer. The best thing about optimism is you can learn it, even if your outlook tends to be more pessimistic",
+  "contributionDescription": "Optimism can protect against depression \u2014 even for people who are at risk for it. An optimistic outlook makes people more resistant to stress. Optimism may even help people live longer. The best thing about optimism is you can learn it, even if your outlook tends to be more pessimistic",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x9f03303048c7e08da2cacc649645590cc953b6e698fabc13108356696af8088d",
+      "description": "web3"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "download",
+      "number": "0",
+      "url": "https://app.optimism.io/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x2f26664dbbde3293ca5c22562eef7f42237be5da96dd20123f98e6f75667e8ff",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

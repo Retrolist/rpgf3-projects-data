@@ -1,0 +1,60 @@
+{
+  "bio": "Garbage Collector \ud83c\udff4\u200d\u2620\ufe0f\ud83d\udc40",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Windy|\u221e\ud83e\udd87\ud83d\udd0a\ud83d\udee1\ud83d\udc2b",
+  "websiteUrl": "https://www.sound.xyz/user/nhagio.eth",
+  "applicant": {
+    "address": {
+      "address": "0xBb1C043cEb7745b286987b4cC8359c5B508F0307",
+      "resolvedName": {
+        "address": "0xBb1C043cEb7745b286987b4cC8359c5B508F0307",
+        "name": "nhagio.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xBb1C043cEb7745b286987b4cC8359c5B508F0307"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBb1C043cEb7745b286987b4cC8359c5B508F0307.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xBb1C043cEb7745b286987b4cC8359c5B508F0307.png",
+    "id": "OptimistProfile|0xdebb314aa0ece835c35b86605714262572d18d7c540e1c0ba3838f70b94a6783"
+  },
+  "impactDescription": "I hope that the extremely easy and cheap collecting/minting of music on the OP chain will contribute to the development and expansion of the web3 music industry, and create a fair and diverse environment for artists, creators, contributing to helping the creative economy grow stronger.\n\nAs a reviewer, I hope to bring the public useful information about music, artists and creators, helping more people know and participate in the onchain music movement in particular and creative economy in general as well as supporting artists and creators, and demonstrating the great potential of OP chain, showing everyone the great advantages of OP chain and worthy of being an L2 blockchain today leading with a lot of potential for future development.",
+  "contributionDescription": "I was a very early supporter of web3 artists, especially in the music industry, having collected/minted a lot of music on various platforms such as Sound, Decent, Zora, Anotherblock, Base,... especially especially when these support the OP blockchain. I currently have thousands of editions music onchain on the OP blockchain in my collection. Not only does this show support for web3 artists, but it also helps me discover and enjoy their unique, creative music.\n\nIn addition, I constantly write reviews, introducing artists and their music to the public so that more people know. My reviews attract a lot of people interested in learning about web3 music as well as collecting onchain music, especially through Sound, the leading web3 music platform today.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/user/nhagio.eth",
+      "description": "My profile on sound.xyz for collecting, minting"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/nhagio_o",
+      "description": "My X profile for writing review artists, music"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Artist Backed",
+      "number": "47",
+      "url": "https://www.sound.xyz/user/nhagio.eth"
+    },
+    {
+      "description": "Collected",
+      "number": "359",
+      "url": "https://www.sound.xyz/user/nhagio.eth"
+    },
+    {
+      "description": "Review post",
+      "number": "20",
+      "url": "https://twitter.com/nhagio_o"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x1d760b52bc3b6c68b367deac9ba5c07c7d92bb5ff78cd7ddfc8202924bce639d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

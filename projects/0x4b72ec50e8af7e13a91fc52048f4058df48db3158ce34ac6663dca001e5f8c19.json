@@ -1,0 +1,66 @@
+{
+  "bio": "Uniswap V3 Pool Manager.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Seedle",
+  "websiteUrl": "https://seedle.finance",
+  "applicant": {
+    "address": {
+      "address": "0x764c676FeAcb0766D43F7F66287ca63cae7a6A64",
+      "resolvedName": {
+        "address": "0x764c676FeAcb0766D43F7F66287ca63cae7a6A64",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x764c676FeAcb0766D43F7F66287ca63cae7a6A64"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x764c676FeAcb0766D43F7F66287ca63cae7a6A64.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x764c676FeAcb0766D43F7F66287ca63cae7a6A64.png",
+    "id": "OptimistProfile|0x2d9f27357479c7bd952f2f8f1a62c0fface49376697b10c447ca0d6a81cd79a2"
+  },
+  "impactDescription": "* Seedle added support for Optimism as soon as Uniswap V3 launched on Optimism.\n* It was also one of the first UIs that showed positions across networks, which promoted Optimism for LPs who haven't discovered it before.\n* Seedle also includes gas costs when calculating position gains, this helps LPs to choose between mainnet and L2s when deploying their liquidity.",
+  "contributionDescription": "I built and maintain seedle.finance. It's a tool for tracking performance and managing Uniswap V3 positions. With Seedle, LPs can easily see the fee APYs, net gains (including impermanent losses), and full transaction history of the positions (incl. gas fees). Also, they can use Seedle to swap & add liquidity to positions easily.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/SeedleFinance/uniswap-v3-pools",
+      "description": "Source code for Seedle.finance"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://seedle.finance",
+      "description": "The Seedle.finance app"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Daily Active Users (LPs)",
+      "number": "200",
+      "url": "https://mixpanel.com/s/2F9YiY"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Gitcoin (multiple rounds)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "Uniswap Grant"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4b72ec50e8af7e13a91fc52048f4058df48db3158ce34ac6663dca001e5f8c19",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 9,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

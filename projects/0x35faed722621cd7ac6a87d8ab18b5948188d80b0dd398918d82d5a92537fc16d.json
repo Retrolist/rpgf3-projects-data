@@ -1,0 +1,55 @@
+{
+  "bio": "I am an analyst, trader & educator market",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "sunarto sihite",
+  "websiteUrl": "https://www.linkedin.com/in/sunarto-sihite-csa-91627788",
+  "applicant": {
+    "address": {
+      "address": "0xe968C0151F9855089140e03F2365B11b18e6a5d3",
+      "resolvedName": {
+        "address": "0xe968C0151F9855089140e03F2365B11b18e6a5d3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xe968C0151F9855089140e03F2365B11b18e6a5d3"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe968C0151F9855089140e03F2365B11b18e6a5d3.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe968C0151F9855089140e03F2365B11b18e6a5d3.jpeg",
+    "id": "OptimistProfile|0x2673a6462bdc9dc70d9d08495e7e2562f818cfb7502695145e380384d58784da"
+  },
+  "impactDescription": "Using optimsm chain on dex trade, staking, voted, claim badge & pass for verified personal account. Hopefully optimsm using on banking system, actualy in Indonesia & make more event on my country. Intregate on twitter, google pay, apple pay for payment & also expansion on gaming platform. ",
+  "contributionDescription": "Make more people using optimsm & get more adoption for optimsm chain on dex trade, staking, voted, claim badge & pass for verified personal account. Hopefully optimsm using on banking system, actualy in Indonesia & make more event on my country. Intregate on twitter, google pay, apple pay for payment & also expansion on gaming platform. I hope in 2024 optimsm can be faster & more cheapest gass fee transaction. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xe968C0151F9855089140e03F2365B11b18e6a5d3",
+      "description": "Using stargate & socket protocol on optimism, also claim reward optimsm token"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "2000136",
+      "number": "2000136",
+      "url": "https://optimistic.etherscan.io/address/0xe968C0151F9855089140e03F2365B11b18e6a5d3"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": "Optimsm badge on layer3.xyz"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x35faed722621cd7ac6a87d8ab18b5948188d80b0dd398918d82d5a92537fc16d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

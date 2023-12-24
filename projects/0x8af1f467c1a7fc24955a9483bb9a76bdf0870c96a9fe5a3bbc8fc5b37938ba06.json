@@ -1,0 +1,52 @@
+{
+  "bio": "A College dropout pursuing her dreams",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Vidya Ramesh",
+  "websiteUrl": "https://twitter.com/vidyaramesh941",
+  "applicant": {
+    "address": {
+      "address": "0xc64F1e68A59E26007fD1B3693223C5c5Af5c0769",
+      "resolvedName": {
+        "address": "0xc64F1e68A59E26007fD1B3693223C5c5Af5c0769",
+        "name": "ishankishan51.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xc64F1e68A59E26007fD1B3693223C5c5Af5c0769"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc64F1e68A59E26007fD1B3693223C5c5Af5c0769.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x2d47db2419c33fa2cbc9fe815b82b0e2753f7cb8acb77ebd88b8355b3633edfd"
+  },
+  "impactDescription": "Problem Space #1: Capture Resistance\nOptimism Governance\u2019s first responsibility is to ensure that no single party can unilaterally control, censor, halt, or otherwise extract rent from Optimism. A decentralized compute layer is hardly valuable if controlled by a centralized entity. Governance helps the Collective make decisions in the absence of any one person or organization that is \u201cin charge.\u201d",
+  "contributionDescription": "Problem Space #1: Capture Resistance\nOptimism Governance\u2019s first responsibility is to ensure that no single party can unilaterally control, censor, halt, or otherwise extract rent from Optimism. A decentralized compute layer is hardly valuable if controlled by a centralized entity. Governance helps the Collective make decisions in the absence of any one person or organization that is \u201cin charge.\u201d",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/",
+      "description": "Prrof"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "proofs",
+      "number": "7",
+      "url": "https://optimistic.etherscan.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x8af1f467c1a7fc24955a9483bb9a76bdf0870c96a9fe5a3bbc8fc5b37938ba06",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

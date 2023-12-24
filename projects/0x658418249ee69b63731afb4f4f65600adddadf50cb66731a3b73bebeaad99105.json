@@ -1,0 +1,58 @@
+{
+  "bio": "trading for living",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Anupam Sikdar",
+  "websiteUrl": "https://instagram.com/astrophile_critic?igshid=OGQ5ZDc2ODk2ZA==",
+  "applicant": {
+    "address": {
+      "address": "0x616ae298C9e2D2F5bed0e3c89223b2516c6d8fd6",
+      "resolvedName": {
+        "address": "0x616ae298C9e2D2F5bed0e3c89223b2516c6d8fd6",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x616ae298C9e2D2F5bed0e3c89223b2516c6d8fd6"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x616ae298C9e2D2F5bed0e3c89223b2516c6d8fd6.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x17f2ed9ef9297708d8105640b78f1c9f467405b4d93ba75ee96d804408058437"
+  },
+  "impactDescription": "Our daily briefing boosts optimism collective's brand awareness reaching over 2000 crypto enthusiast.We provide essensial op news coverage keeping end user developers journalists and crypto security firms informed about network upgrades new op stack chains and airdrops ",
+  "contributionDescription": "We provided over 100 OP News and updates to our audience of 2000 podcasts listeners and 230 news letters subscribers In the fast changing optimism Collective we play a crucial role in keeping users well informed OP news is a series of Optimism related updates featured within etherium news flash briefing in a dedicated segment called optimism highlights",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://ethdaily.io/tag/optimism",
+      "description": "Acollection of over 100 op news blog posts"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Audio Downloads ",
+      "number": "39739",
+      "url": "https://docs.google.com/spreadsheets/d/15_4h9yUErq73uhlf0_OeGUcF-sePBN8xiXDartllvZA/htmlview"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 700,
+      "description": "Across the world We are waiting for matching results from GG18 to be announced."
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 1800,
+      "description": "podcast ad placements sold in April 2023"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x658418249ee69b63731afb4f4f65600adddadf50cb66731a3b73bebeaad99105",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

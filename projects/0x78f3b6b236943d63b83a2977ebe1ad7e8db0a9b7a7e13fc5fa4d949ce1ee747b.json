@@ -1,0 +1,90 @@
+{
+  "bio": "A platform for onchain podcasts. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Pods",
+  "websiteUrl": "https://pods.media/",
+  "applicant": {
+    "address": {
+      "address": "0x050549F8c196Bf1bcC293172746c847fD4D77d9d",
+      "resolvedName": {
+        "address": "0x050549F8c196Bf1bcC293172746c847fD4D77d9d",
+        "name": "collectpods.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x050549F8c196Bf1bcC293172746c847fD4D77d9d"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x050549F8c196Bf1bcC293172746c847fD4D77d9d.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x050549F8c196Bf1bcC293172746c847fD4D77d9d.png",
+    "id": "OptimistProfile|0x27699d2a23e051469c343d4b9f7eb173a43b415fab2fe877e2fe345ffe04e626"
+  },
+  "impactDescription": "We\u2019re the only platform focused solely on podcasts, and deployed natively on Optimism. \n\nIn addition to the existing episodes, we have committed dozens of creators in the past few months to releasing episodes on the platform, including Bankless, The Defiant, Overpriced Jpegs, Green Pill, Alfalfa, Rehash, and more. \n\nGiven the novelty of the platform, Pods is targeting and bringing in an entirely new audience the ecosystem -- notably with strong distribution across major crypto podcasts. \n",
+  "contributionDescription": "We deployed Pods natively on Optimism in late September. \n\nSince then, we\u2019ve released 12+ episodes onchain across multiple creators during our private beta, including:\n\nOP Radio\nInvest in Music\nSeed Club\n\nThese episodes have culminated nearly 700 mints across 250 unique collector since our release ~1 month ago .  ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xbB7691081C9886490314413fBA313bE9cBbB5561?utm_source=mint.fun",
+      "description": "OP Radio Creator Contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x3b596924Aa351CF756b1BAda528eB15EBBa7D1cb?utm_source=mint.fun",
+      "description": "Invest in Music Creator Contract "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x6C506dB78CF5126a9039276C87C41E0097a38611?utm_source=mint.fun",
+      "description": "Seed Club Creator Contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://pods.media/op-radio/past-present-future-of-the-optimism-collective",
+      "description": "Example Mint Page - OP Radio "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://pods.media/invest-in-music/ep-27-san-holo",
+      "description": "Example Mint Page - Invest in Music. View all other episodes on the page.  "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://pods.media/theevent",
+      "description": "Example Mint Page - Seed Club Demo Day. "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Mints - OP Radio",
+      "number": "156",
+      "url": "https://mint.fun/op/0xbB7691081C9886490314413fBA313bE9cBbB5561"
+    },
+    {
+      "description": "Mints - Invest in Music ",
+      "number": "251",
+      "url": "https://mint.fun/op/0x3b596924Aa351CF756b1BAda528eB15EBBa7D1cb"
+    },
+    {
+      "description": "Mints - Seed Club ",
+      "number": "276",
+      "url": "https://mint.fun/op/0x6C506dB78CF5126a9039276C87C41E0097a38611"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 760,
+      "description": "We charge a small 0.0007 ETH platform fee per mint for sybil resistance."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x78f3b6b236943d63b83a2977ebe1ad7e8db0a9b7a7e13fc5fa4d949ce1ee747b",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 10,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

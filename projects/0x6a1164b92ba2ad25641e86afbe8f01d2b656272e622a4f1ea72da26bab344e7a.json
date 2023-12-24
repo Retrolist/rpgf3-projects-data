@@ -1,0 +1,48 @@
+{
+  "bio": "goood vibes",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "youknowwhat",
+  "websiteUrl": "https://twitter.com/grousce",
+  "applicant": {
+    "address": {
+      "address": "0xd0AAdCFE1905b10c64E95D5095457f201a46e39C",
+      "resolvedName": {
+        "address": "0xd0AAdCFE1905b10c64E95D5095457f201a46e39C",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xd0AAdCFE1905b10c64E95D5095457f201a46e39C"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd0AAdCFE1905b10c64E95D5095457f201a46e39C.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xd4bd4232e9ed96884caa68188e7f9e18fcbecbf75a862ff672f6af46a89c5b44"
+  },
+  "impactDescription": "it can be used as it should, there are no problems or errors, everything works as it should. maybe there are some suggestions and inputs that can be taken such as: to make the design simpler and provide tips on tools there so that new users can understand the features better.\n",
+  "contributionDescription": "This project is really great, the features are interesting and there are some things that make me really like it, namely: 1. the transaction is fast 2. Elegant and easy to use 3. the user can understand the menu perfectly 4. There are no defects in the design 5. the product runs according to what the user expects always success and hopefully it can be a promising project when mainnet arrives.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/grousce",
+      "description": "good"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "incendio",
+      "number": "100",
+      "url": "https://twitter.com/grousce"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x6a1164b92ba2ad25641e86afbe8f01d2b656272e622a4f1ea72da26bab344e7a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

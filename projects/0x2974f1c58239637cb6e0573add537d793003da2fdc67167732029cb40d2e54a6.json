@@ -1,0 +1,55 @@
+{
+  "bio": "Enjoy for every project, see every good project",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "FallDryst",
+  "websiteUrl": "https://twitter.com/FDryst?s=09",
+  "applicant": {
+    "address": {
+      "address": "0xbA95a8E83c7B012daB6208D04cfc9405a6098e6E",
+      "resolvedName": {
+        "address": "0xbA95a8E83c7B012daB6208D04cfc9405a6098e6E",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xbA95a8E83c7B012daB6208D04cfc9405a6098e6E"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbA95a8E83c7B012daB6208D04cfc9405a6098e6E.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xebd34b9ec447f4331d4c9d67a5bce86727b7b33dbc1ba864ae43cfdce3967640"
+  },
+  "impactDescription": "I think Optimism good government and I contributions this project for sure , \nStaking and holder badges in optimism network , quite good for the development of the network, and everyone must do the same because that is part of our support for this project, as well as our trust in this company \ud83d\ude4f",
+  "contributionDescription": "I have Badges holder Optimism x Base , I think optimism one of good government and network, contribution retroPGF to community so good for project Optimism \nSo many people join to contributions this RetroPGF and we hope great this one \ud83e\udd73\ud83e\udd73\nEnjoy this project RetroPGF Optimism \u2705",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://web3.bitget.site/id/nft/collection/optimism/0xe22fd22b3fc0ecd5217d2461d15159a7dfc38790/0",
+      "description": "Badges Optimism x Base"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Badges Optimism x Base",
+      "number": "11",
+      "url": "https://web3.bitget.site/id/nft/collection/optimism/0xe22fd22b3fc0ecd5217d2461d15159a7dfc38790/0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2974f1c58239637cb6e0573add537d793003da2fdc67167732029cb40d2e54a6",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

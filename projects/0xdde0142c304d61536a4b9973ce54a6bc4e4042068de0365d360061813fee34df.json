@@ -1,0 +1,53 @@
+{
+  "bio": "I`m Kenneth, 22, from Philippines. Part time trader and testnet joiner. ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Kenneth",
+  "websiteUrl": "https://twitter.com/gnzlskenn1",
+  "applicant": {
+    "address": {
+      "address": "0x9BfB79e8CC3Ff7a9dD297cF78A2705a06EAB51D5",
+      "resolvedName": {
+        "address": "0x9BfB79e8CC3Ff7a9dD297cF78A2705a06EAB51D5",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9BfB79e8CC3Ff7a9dD297cF78A2705a06EAB51D5"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9BfB79e8CC3Ff7a9dD297cF78A2705a06EAB51D5.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9BfB79e8CC3Ff7a9dD297cF78A2705a06EAB51D5.png",
+    "id": "OptimistProfile|0x8f86d271dbceb6bfed8ae851b3eb5cb148963e4c202e0161fe4b5761b5d19b6a"
+  },
+  "impactDescription": "Participating on the Optimism governance, I think It`s important to be an active voter to help the Optimism foundation decide on how the network should go as a decentralized network. It is a chance for every member to submit what they think is the best decision for the whole network. ",
+  "contributionDescription": "My contributions to Optimism doesn`t really revolve around on-chain activities, but more on being an active member of the community, and helping OP to be introduced to the new members of Optimism network. I help spread news about OP, governance news, community activities, and all things OP. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/gnzlskenn1",
+      "description": "Post that include my votes in the OP governance. "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Governance tweets",
+      "number": "10",
+      "url": "https://twitter.com/gnzlskenn1"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 55,
+      "description": "OP Airdrop"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xdde0142c304d61536a4b9973ce54a6bc4e4042068de0365d360061813fee34df",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

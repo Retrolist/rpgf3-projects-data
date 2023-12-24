@@ -1,0 +1,104 @@
+{
+  "bio": "ERC-4337 account abstraction core team",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Account Abstraction - ERC-4337",
+  "websiteUrl": "https://www.erc4337.io/",
+  "applicant": {
+    "address": {
+      "address": "0xdb5781a835b60110298fF7205D8ef9678Ff1f800",
+      "resolvedName": {
+        "address": "0xdb5781a835b60110298fF7205D8ef9678Ff1f800",
+        "name": "yoav.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xdb5781a835b60110298fF7205D8ef9678Ff1f800"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xcaacee311446df4f3f6f6621d0dc0f741c960cc67e84ad527bd984f6a5a3b49d"
+  },
+  "impactDescription": "- Standardized account abstraction on OP.\n- Increased OP use: ~196k users, ~500k transactions.\n- Enabled popular apps on OP, e.g. CyberConnect.\n- Enabled new wallets with improved UX and security.\n- Onboarded many new devs and projects, supported dev teams, mentored in hackathons.\n- Built dev tools, SDK, documentation.\n- Improved decentralization and censorship resistance. Reduced dependency on centralized relay services.\n- Enabled sponsored transactions. Impact on UX, e.g. gasless governance voting to increase participation.",
+  "contributionDescription": "Brought standard decentralized Account Abstraction to OP and many other chains.\n\n- The team has been building it since 2021\n- 5 full-time team members\n- 100% public good, no VC funding, no token. Supported by the EF.\n\nProgress since RPGF #2:\n- Deployed the audited v0.6\n- Growing adoption:\n  - Transactions: >4M UserOps total, ~500k on OP+Base\n  - Users: ~850k accounts total, ~196k on OP+Base\n  - Paymaster sponsored gas: >$500k\n  - Used by popular apps on OP, e.g. CyberConnect\n- Progress on mempool decentralization and censorship resistance\n- UX and DevEx improvements\n- Ongoing support of numerous projects and integrations: wallets, dapps, infrastructure...\n- Promoting adoption: talks, workshops, hackathons.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.erc4337.io/",
+      "description": "The official website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/sixdegree/account-abstraction-overview",
+      "description": "Dune dashboard showing adoption"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/SixdegreeLab/status/1705583756369924296?s=20",
+      "description": "Sixdegree report on ERC-4337 progress (September 23)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://alchemy.com/blog/erc-4337-statistics-q3-2023",
+      "description": "Alchemy report on ERC-4337 progress (September 12)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x5ff137d4b0fdcd49dca30c7cf57e578a026d2789",
+      "description": "EntryPoint v0.6 contract on Optimism"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/eth-infinitism/account-abstraction/",
+      "description": "main ERC-4337 repo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Users by chain - see Optimism+Base",
+      "number": "195705",
+      "url": "https://dune.com/queries/2523241/4317218"
+    },
+    {
+      "description": "UserOps by chain - see Optimism+Base",
+      "number": "511499",
+      "url": "https://dune.com/queries/2518111/4324155"
+    },
+    {
+      "description": "github clones",
+      "number": "26215",
+      "url": "https://github.com/eth-infinitism/account-abstraction/graphs/traffic"
+    },
+    {
+      "description": "Dashboard with useful metrics per chain",
+      "number": "0",
+      "url": "https://dune.com/sixdegree/account-abstraction-overview"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 61332.92,
+      "description": "Participated in RPGF 2. Made a lot of progress since."
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Ongoing support through EF grant"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7f119f8a9ac1b020748dcff53e48cffe1f851f709959e5ffc825a35d36f4063a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 89,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack development & research"
+}

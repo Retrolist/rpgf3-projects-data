@@ -1,0 +1,91 @@
+{
+  "bio": "ETHGlobal is the infrastructure of the Ethereum community.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "ETHGlobal",
+  "websiteUrl": "https://ethglobal.com",
+  "applicant": {
+    "address": {
+      "address": "0xe993486B257Cd1481aef74b3B909A2627Fc8d305",
+      "resolvedName": {
+        "address": "0xe993486B257Cd1481aef74b3B909A2627Fc8d305",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xe993486B257Cd1481aef74b3B909A2627Fc8d305"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe993486B257Cd1481aef74b3B909A2627Fc8d305.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe993486B257Cd1481aef74b3B909A2627Fc8d305.png",
+    "id": "OptimistProfile|0xfab9b5c99cfae07961e0074bd1a3dbbd3e93bf943f311d7e8931fe26f2383dc4"
+  },
+  "impactDescription": "Our events and community has been the place where some of the best developers from around the world come to learn, tinker, build, and ultimately deploy on Optimism Mainnet, custom OP Stacks, and other OP Stack chains.\n\nFor many in the community, an ETHGlobal hackathon is their first introduction to the Optimism Collective. We aim to continue to be one of the most effective channels for attracting talented developers to the Optimism ecosystem.\n\nThrough our events, we have not only encouraged developers to adopt Optimism technology, but we have also collaborated with OP Labs and other community members to enhance developer documentation, develop engagement strategies, and identify bugs in onboarding processes, ultimately smoothing out the journey for anyone looking to build on Optimism.",
+  "contributionDescription": "Since RetroPGF 2 in March we've doubled down on our work to push forward the developer ecosystem of Optimism, the OP Stack, and the Superchain. In the last 207 days, 639 projects have been built at our events utilizing Optimism Mainnet or the OP Stack. That's an average of 3 projects a day!\n\nIn April, we ran Autonomous Worlds, an on-chain gaming hackathon powered by the OP Stack & MUD (0xPARC). Our favorite hack was Mudtendo, a customized OP Stack that allowed participants to use a 1985 Nintendo console to create collaborative stories.\n\nOur Aug hackathon, Superhack, was entirely focused on the Superchain vision and the OP Stack. Timed with the launch of Base, we collaborated with OP and every major OP Stack team to run a 1200-person, 2 week-long hackathon with too many great hacks to list.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://ethglobal.com/events/superhack",
+      "description": "Superhack, the world's first Superchain hackathon with OP, Base, Zora, & Mode."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethglobal.com/showcase?events=autonomous,superhack",
+      "description": "Projects from ETHGlobal's Superhack & Autonomous Worlds hackathons."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/live/OvrGNZHdAJI?si=9Du8u8MS4SLyaClG",
+      "description": "Superhack Summit: 3 hours of content about the Superchain & OP Stack."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethglobal.com/events/autonomous",
+      "description": "Autonomous Worlds: Fully Onchain Gaming hackathon powered by the OP Stack."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethglobal",
+      "description": "Our Github!"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Projects Built for the OP Ecosystem",
+      "number": "639",
+      "url": "https://ethglobal.com/showcase?events=autonomous,superhack"
+    },
+    {
+      "description": "Hours of OP Stack Educational Content",
+      "number": "18.5",
+      "url": "https://www.youtube.com/playlist?list=PLXzKMXK2aHh6fEt81CVijEA45JP2vYNCc"
+    },
+    {
+      "description": "Number of hackers staked on OP",
+      "number": "748",
+      "url": "https://optimistic.etherscan.io/address/0xba17eeb3f0413b76184ba8ed73067063fba6e2eb"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 230005.52,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 42787,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa9f6de6ad7b1cb903f0063e588f0f729f13ddd76d77495e25a3860c27a721773",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 91,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Conferences, Events & Hackathons"
+}

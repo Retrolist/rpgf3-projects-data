@@ -1,0 +1,46 @@
+{
+  "bio": "Crypto Enthusiast / Project Promoter.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "andrea",
+  "websiteUrl": "https://www.facebook.com/andreabocala.agres?mibextid=ZbWKwL",
+  "applicant": {
+    "address": {
+      "address": "0x48d540dAA0a0da768b6ACE1A0981968e179b207B",
+      "resolvedName": {
+        "address": "0x48d540dAA0a0da768b6ACE1A0981968e179b207B",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x48d540dAA0a0da768b6ACE1A0981968e179b207B"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x48d540dAA0a0da768b6ACE1A0981968e179b207B.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x1309f0b3370200f2363e344814471ea5d942d99b0c48b50eaf9bab920a0fa288"
+  },
+  "impactDescription": "My involvement with the Optimism Collective has been transformative, driving the acceptance and evolution of Layer 2 scaling solutions in cryptocurrency. Through our efforts, we've significantly reduced transaction costs and latency, enhancing efficiency for users and developers. This achievement not only improves the user experience but also promotes the growth of the broader crypto community. The adoption of Layer 2 solutions addresses key challenges, lowering fees and increasing transaction speed. This progress encourages innovation, making crypto technology more accessible and promising a more inclusive and scalable future.",
+  "contributionDescription": "My involvement with the Optimism Collective has played a pivotal role in propelling the acceptance and evolution of Layer 2 scaling solutions within the realm of cryptocurrency. Through our active advocacy and diligent execution of Optimistic Ethereum, we've achieved remarkable outcomes. Notably, we've succeeded in a substantial reduction of transaction costs and latency, thus ushering in a new era of enhanced efficiency for blockchain users and developers alike. This accomplishment has not only streamlined the user experience but has also opened up avenues for the broader crypto community to thrive.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/shill_hunters",
+      "description": "Metamask"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "2",
+      "number": "1",
+      "url": "https://twitter.com/shill_hunters"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xb0ceeddf62aea9bb678d6f7cbcc2328ac374cdf87d03c0310ab0c0d2c56cd07a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

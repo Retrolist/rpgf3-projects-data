@@ -1,0 +1,98 @@
+{
+  "bio": "Decentralized project management & process improvement for Ethereum Blockchain",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Ethereum Cat Herders",
+  "websiteUrl": "https://www.ethereumcatherders.com/",
+  "applicant": {
+    "address": {
+      "address": "0xf13e477365B0FAa64130DA2FF663aAb20d32d929",
+      "resolvedName": {
+        "address": "0xf13e477365B0FAa64130DA2FF663aAb20d32d929",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xf13e477365B0FAa64130DA2FF663aAb20d32d929"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf13e477365B0FAa64130DA2FF663aAb20d32d929.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb18761d3cba55eb498ac8bd0fa92abf64001571d6a2880e17cee24e576b6ddc4"
+  },
+  "impactDescription": "\nWhile ECH have primarily been involved in coordination and communication activities surrounding the Ethereum mainnet we've played an essential role in enhancing the transparency and understanding of Ethereum's development here's how we have indirectly supported Optimism:\nMany EIPs have indirect implications for Optimism and Layer2 solutions. By facilitating discussions around these EIPs, the Ethereum Cat Herders have helped refine and implement features that are beneficial.\nWhile not exclusively focused on Optimism, the educational content produced helps in disseminating knowledge about the changes that may affect Optimism.\n A better-informed community can contribute more effectively to the evolution and integration of Optimism.",
+  "contributionDescription": "The ECH emerged in response to specific challenges within the Ethereum community. While we have primarily been involved in the Ethereum ecosystem, we've contributed building developers' ecosystem for Optimism \nThe \"PEEPanEIP\" series by Ethereum Cat Herders is designed to offer deeper insights into the Ethereum Improvement Proposals (EIPs) and the processes surrounding them. For newcomers to the Ethereum community or those looking to deepen their understanding, the PEEPanEIP series serves as an educational resource.\nECH helped bring transparency to EIP processes by organizing EIPIP meetings and documenting discussions, decisions, and rationale.\nECH facilitated a smoother consensus-building process, organizing discussions, and gathering feedback to help reach a broader agreement.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum/EIPs",
+      "description": "EIP repo"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-cat-herders/EIPIP",
+      "description": "EIPIP repo"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum/pm",
+      "description": "Ethereum Core Devs Meetings notes"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/playlist?list=PL4cwHXAawZxqu0PKKyMzG_3BJV_xZTi1F",
+      "description": "PEEPanEIP Playlist"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.ethereumcatherders.com/",
+      "description": "Ethereum Cat Herders website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Final EIPs (in 2023)",
+      "number": "50",
+      "url": "https://eips.ethereum.org/all"
+    },
+    {
+      "description": "Review EIPs (in 2023)",
+      "number": "99",
+      "url": "https://eipsinsight.com/status"
+    },
+    {
+      "description": "PEEPanEIP Episodes",
+      "number": "119",
+      "url": "https://www.youtube.com/playlist?list=PL4cwHXAawZxqu0PKKyMzG_3BJV_xZTi1F"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 50000,
+      "description": "ENS DAO Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 20860,
+      "description": "Octant (Epoch 0) Public Goods Funding"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1800,
+      "description": "Gitcoin Grant 18"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe7f1ebfe8e8c9980ba192a76b77e18f747e82d642f985681748615457c0e8b7c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 76,
+  "primaryCategory": "OP Stack",
+  "recategorization": "Ethereum Development & Maintanance"
+}

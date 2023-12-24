@@ -1,0 +1,55 @@
+{
+  "bio": "An enthusiast ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Tejas C",
+  "websiteUrl": "https://x",
+  "applicant": {
+    "address": {
+      "address": "0x9060Bfa23Ba0eecec39Fad0b81BEcFa1b36448D8",
+      "resolvedName": {
+        "address": "0x9060Bfa23Ba0eecec39Fad0b81BEcFa1b36448D8",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9060Bfa23Ba0eecec39Fad0b81BEcFa1b36448D8"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xc44b844be55458d23c10e00b96effc0b20acb74e0abe69c529a992669903a054"
+  },
+  "impactDescription": "As an analyst having work experience of 5 years, I worked as Business Analyst & Product Manager. Following were my responsibilities- \nSuccessfully led and managed a team of 10+ individuals, resulting in a 25% increase in productivity and a 15% reduction in project delivery time.\nInteracted with more than 150 clients to understand their requirements and propose appropriate solutions.\nEstablished clear expectations for team members, resulting in a 20% increase in project success rate and a 10% reduction in rework and error rates.\nLed the development and launch of several new features, resulting in a 20% increase in revenue.\nConducted market research and analyzed customer needs to identify new product opportunities.",
+  "contributionDescription": "As an analyst having work experience of 5 years, I worked as Business Analyst & Product Manager. Following were my responsibilities- \nSuccessfully led and managed a team of 10+ individuals, resulting in a 25% increase in productivity and a 15% reduction in project delivery time.\nInteracted with more than 150 clients to understand their requirements and propose appropriate solutions.\nEstablished clear expectations for team members, resulting in a 20% increase in project success rate and a 10% reduction in rework and error rates.\nLed the development and launch of several new features, resulting in a 20% increase in revenue.\nConducted market research and analyzed customer needs to identify new product opportunities.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/brody_tejas?s=21&t=nnjd5ZVgviCwhqcN0JEgtw",
+      "description": " X account"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Onchain + Optimism",
+      "number": "1",
+      "url": "https://opensea.io/assets/base/0x6f4168c0207df6561527af1059d788bb0b09beb1/20486"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x14d8826d33d06b78566844c5b80ffbd46cbe05a6aca4256ad5ac6338954e4368",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

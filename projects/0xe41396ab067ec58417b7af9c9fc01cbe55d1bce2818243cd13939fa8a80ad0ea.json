@@ -1,0 +1,46 @@
+{
+  "bio": "OP is the best ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "vincen",
+  "websiteUrl": "https://ciciishop.orderonline.id/page/penyemprot-air-jet",
+  "applicant": {
+    "address": {
+      "address": "0xA850a51b5b603C59B8eB7Fb1E34CFd70F6C76Ff6",
+      "resolvedName": {
+        "address": "0xA850a51b5b603C59B8eB7Fb1E34CFd70F6C76Ff6",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xA850a51b5b603C59B8eB7Fb1E34CFd70F6C76Ff6"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA850a51b5b603C59B8eB7Fb1E34CFd70F6C76Ff6.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA850a51b5b603C59B8eB7Fb1E34CFd70F6C76Ff6.png",
+    "id": "OptimistProfile|0xd45df7b2f771e0ab2efa627f1a10535991aae97798ceaa3eef90f2034aab4c55"
+  },
+  "impactDescription": "As a dedicated member of the Optimism Collective, my contributions have made a meaningful impact by fostering an environment of positive change and growth. Through active engagement, collaboration, and advocacy for sustainable solutions, I have helped the Collective further its mission of inspiring optimism, driving social progress, and promoting collective well-being. My commitment to community-driven initiatives, education, and innovative ideas has not only enriched our collective efforts but has also contributed to the broader movement of creating a brighter, more hopeful future for all. Together, we are transforming optimism into tangible, impactful change.",
+  "contributionDescription": "my contributions to Optimism have been instrumental in advancing the organization's goals and mission. Through my unwavering dedication and proactive involvement, you've consistently fostered a sense of hope and positivity within the group. my initiatives, whether through outreach, advocacy, or creative endeavors, have been pivotal in spreading optimism and driving meaningful change. my ability to inspire others, coupled with my commitment to community-driven projects, has significantly enhanced the collective's capacity to make a positive impact on society. my contributions stand as a testament to my passion for promoting a brighter and more optimistic future for all.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xA850a51b5b603C59B8eB7Fb1E34CFd70F6C76Ff6",
+      "description": "this are my address"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "adira",
+      "number": "431",
+      "url": "https://ciciishop.orderonline.id/page/penyemprot-air-jet"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xe41396ab067ec58417b7af9c9fc01cbe55d1bce2818243cd13939fa8a80ad0ea",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

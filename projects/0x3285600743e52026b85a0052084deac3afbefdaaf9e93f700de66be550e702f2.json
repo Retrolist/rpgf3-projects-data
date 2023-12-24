@@ -1,0 +1,48 @@
+{
+  "bio": "I was born in Turkey, I am 24 years old,",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "vintek",
+  "websiteUrl": "https://twitter.com/tyfnddf",
+  "applicant": {
+    "address": {
+      "address": "0xDbde8fd093d3aB53A4E577ecC5B2323a90A92B18",
+      "resolvedName": {
+        "address": "0xDbde8fd093d3aB53A4E577ecC5B2323a90A92B18",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xDbde8fd093d3aB53A4E577ecC5B2323a90A92B18"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x11fbbafb9207780a7a24b9a2c6f2a487b4e0a7834acb6e58b0d06aec7fb01d4b"
+  },
+  "impactDescription": "v vv vvvv                                                                                                                                                                                                                                                                          ",
+  "contributionDescription": "vv                                                                                                                                                                                                                                                                            \n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x39f7138a12ebf55c76037d945f17df0f4228cbcef2edcb31f79bd11385315459",
+      "description": "description"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "34",
+      "number": "345",
+      "url": "https://optimistic.etherscan.io/tx/0x39f7138a12ebf55c76037d945f17df0f4228cbcef2edcb31f79bd11385315459"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x3285600743e52026b85a0052084deac3afbefdaaf9e93f700de66be550e702f2",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

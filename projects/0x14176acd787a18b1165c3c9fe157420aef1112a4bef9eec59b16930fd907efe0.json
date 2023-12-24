@@ -1,0 +1,48 @@
+{
+  "bio": "One of the earliest free mint NFT collection on Optimism",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Ospace Project",
+  "websiteUrl": "https://linktr.ee/ospaceproject",
+  "applicant": {
+    "address": {
+      "address": "0x941D8Cd7378432Bc4952bA0Dcc9e120C18C92975",
+      "resolvedName": {
+        "address": "0x941D8Cd7378432Bc4952bA0Dcc9e120C18C92975",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x941D8Cd7378432Bc4952bA0Dcc9e120C18C92975"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x941D8Cd7378432Bc4952bA0Dcc9e120C18C92975.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x941D8Cd7378432Bc4952bA0Dcc9e120C18C92975.png",
+    "id": "OptimistProfile|0xc30666ad0611eb94f9847a2197d734e3572f57a66b872b124a1d40cc7a2eecd0"
+  },
+  "impactDescription": "We did contribute to optimism by:\n\n1- launching our collection on the early stage of optimism\n2- building a community of +15k members on both twitter and discord\n3- dropping 2222 piece of a cool art on optimism free\n4- having more than 3000 sales\n5- having more than 40 $eth volume\n6- helping other NFT projects on optimism to gain more audience ",
+  "contributionDescription": "Ospace Project launched 2222 Oliens 9th july 2022 as a free mint NFT collection on optimism. we have one of the biggest optimism NFT communities on twitter and discord. we currently have 1474 olien holders and our collection has had more than 3000 sales beside the mint. we had more than 40 $eth volume so far and we were able to attract nft enthusiasts attention by oliens art. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x69a68eb548A37ee475D9f89646945588558796D1",
+      "description": "Oliens contract interactions"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Oliens transfers",
+      "number": "7768",
+      "url": "https://optimistic.etherscan.io/token/0x69a68eb548A37ee475D9f89646945588558796D1"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x14176acd787a18b1165c3c9fe157420aef1112a4bef9eec59b16930fd907efe0",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 8,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,95 @@
+{
+  "bio": "Free&open source omni-chain analytical tools",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Chaineye",
+  "websiteUrl": "https://chaineye.tools/",
+  "applicant": {
+    "address": {
+      "address": "0xdA2B9efEd0018e521845D96924832e28d2E56437",
+      "resolvedName": {
+        "address": "0xdA2B9efEd0018e521845D96924832e28d2E56437",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xdA2B9efEd0018e521845D96924832e28d2E56437"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdA2B9efEd0018e521845D96924832e28d2E56437.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xdA2B9efEd0018e521845D96924832e28d2E56437.png",
+    "id": "OptimistProfile|0x084e9e53ea7c17a7ef8e80b0040d27804f1a3fe1d36c1b28088af6cacde95e37"
+  },
+  "impactDescription": "1. Publish various articles about blockchain general and Optimism Collective to help users understand how to use dApps on Optimism. There are 4 articles about Optimism and the total views are over 200K.\n2. BridgeEye has directed over 200K assets from other chains to Optimism. This helps web3 native users find a better and cheaper way to bridge to Optimism. \n3. Chaineye Mini Bridge, beta going live on Oct.1, 2023, has over 450 transactions already, which benefits small retail investors adopting Optimism.  \n4. Our dune dashboard tracking Optimism projects helps users and developers evaluate each project and get an improved user experience. \n",
+  "contributionDescription": "ChainEye contributes to Optimism in multiple aspects:\n\nOnchain Map - An overview of fundamental metrics on Optimism. Exploring attractive opportunities on Optimism such as yield farming, swap & lending, NFT mining, airdrop, Hot Contract, DAO governance, etc. \n\nMini Bridge - The cheapest and fastest solution for small-amount cross-chain transfers. Help users to bridge funds from/to Optimism with zero fees. \n\nBridgeEye - a multi-chain bridge comparison tool. Users can use this tool to find the optimal bridge option from other chains to optimism.\n\nCEX transfer fee - Find the cheapest route from CEX to Optimism.\n\nMultichain Gas - Check the gas hourly distribution and history for Optimism.\n\nRPC List - The best public RPC for Optimism in terms of height, latency, 24-hour status, privacy, etc.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://chaineye.tools/",
+      "description": "Chaineye Official Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://minibridge.chaineye.tools/",
+      "description": "Chaineye Mini Bridge"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x00000000000007736e2f9aa5630b8c812e1f3fc9",
+      "description": "Chaineye Mini Bridge Address"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/orgs/DeFiEye",
+      "description": "Chaineye Public Github Repository"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of monthly visits ",
+      "number": "23500",
+      "url": "https://www.similarweb.com/website/chaineye.tools/#overview"
+    },
+    {
+      "description": "Number of OP Article views",
+      "number": "30100",
+      "url": "https://twitter.com/BiteyeCN/status/1628572581120053248"
+    },
+    {
+      "description": "Number of OP airdrop analysis views",
+      "number": "123100",
+      "url": "https://twitter.com/BiteyeCN/status/1624394394173587457"
+    },
+    {
+      "description": "Amount of Directed Assets to Optimism",
+      "number": "200000",
+      "url": "https://chaineye.tools/bridge#dst_chain=%22Optimism%22"
+    },
+    {
+      "description": "Number of Project Tracking on Optimism",
+      "number": "20",
+      "url": "https://dune.com/biteye/project-tracking-on-optimism"
+    },
+    {
+      "description": "Number of Mini Bridge Transactions",
+      "number": "452",
+      "url": "https://optimistic.etherscan.io/address/0x00000000000007736e2f9aa5630b8c812e1f3fc9"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 5680,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6520b1492d761fd7f08b4e7a2094d9c6bc0832f93a10bafd918c21996c4305b2",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 12,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

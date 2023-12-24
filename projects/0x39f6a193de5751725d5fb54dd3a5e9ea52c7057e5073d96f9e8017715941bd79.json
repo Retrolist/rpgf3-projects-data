@@ -1,0 +1,144 @@
+{
+  "bio": "Jah: Filmmaker, Artist, & Creator of the 'Helmet City' universe.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Jah.",
+  "websiteUrl": "https://www.byjah.art/",
+  "applicant": {
+    "address": {
+      "address": "0x9ED5c1B24478f5069fEbd8359A3869F971C365c3",
+      "resolvedName": {
+        "address": "0x9ED5c1B24478f5069fEbd8359A3869F971C365c3",
+        "name": "artbyjah.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x9ED5c1B24478f5069fEbd8359A3869F971C365c3"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9ED5c1B24478f5069fEbd8359A3869F971C365c3.jpeg",
+    "id": "OptimistProfile|0x6b2971a74a7ce43586d7207706a38e3562d170504514a7576a8b7896b2335577"
+  },
+  "impactDescription": "My contributions have introduced diverse voices and innovative narratives to the web3 space. As part of a web3 cultural education team, I've onboarded artists and helped educate 4,000+, expanding the community. While also providing and receiving recognition for dynamic, wide-ranging, and innovative visual artworks.",
+  "contributionDescription": "Within the digital landscape, I saw a gap in inclusivity, innovative storytelling, and creator autonomy. Leveraging Web3 tools, I've worked to fill these gaps, cultivating connections and enhancing our collective community. My wide-ranging visual art, recognized in global exhibitions and publications like Time Magazine, pushes the boundaries of creativity. Significant collaborations like onboarding Latasha, the first woman rapper on-chain, shifted paradigms in web3 music. As Creative Director of Zoaratopia, I was a part of educating and onboarding 4,000+ into the web3 space, and \"Helmet City,\" my AI-collaborative universe, not only drew 13,000 collectors and 11 ETH but also spotlights innovative storytelling and creator autonomy.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://zora.co/manage/base:0x0651996b6a6eebd1fc697e5735a2dca541bbe06b",
+      "description": "Helmet City : Mecha Gardens (Teaser Trailer)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://foundation.app/collection/hcbd",
+      "description": "Helmet City - Bodega Drip  (AI Generative Collection)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://futuretape.xyz/token/0xabefbc9fd2f806065b4f3c237d4b59d9a97bcac7",
+      "description": "GOGO WYNE by LATASH\u00c1  (LATASH\u00c1 & Jah. Music Video Collaboration.)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://futuretape.xyz/token/0xabefbc9fd2f806065b4f3c237d4b59d9a97bcac7",
+      "description": "\"Who I am\" by LATASH\u00c1   (LATASH\u00c1 & Jah. Music Video Collaboration.)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.shutterstock.com/blog/ai-interview-artist-jah-reynolds-impact-on-ai-replacing-creative-jobs",
+      "description": "Shutterstock Interview: Visual Artist Jah. Chats About  AI as Creative Partners"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://nft.time.com/collection/jah/",
+      "description": "Collaboration with Time Magazine"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nftnow.com/features/influential-black-artists-shaping-the-future-of-web3/",
+      "description": "17 Influential Black Artists Shaping the Future of Web3 - NFT NOW"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://feralfile.com/series/the-idunnos-hhr?viewMode=Grid",
+      "description": "The Idunnos Visual Collection, A part of The In/Visible Exhibition"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://zora.co/zoratopia.eth",
+      "description": "Zoratopia Creative Direction Contributions"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://zora.co/collect/zora:0x8d83a0a5cab5b2706a9f26da493c1a6c2815bf31",
+      "description": "Music Video collaboration with LATASH\u00c1"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://x.com/wildxyz/status/1673789718725644292?s=20",
+      "description": "WildXYZ season 2 Residency"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.artonavalanche.com/avaissance",
+      "description": "Avalanche Artist Residency"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://futuretape.xyz/token/0xabefbc9fd2f806065b4f3c237d4b59d9a97bcac7",
+      "description": "\"Makda Verse\" by LATASH\u00c1  (LATASH\u00c1 & Jah. Music Video Collaboration.)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://futuretape.xyz/token/0xabefbc9fd2f806065b4f3c237d4b59d9a97bcac7",
+      "description": "\"ilikedat\" by LATASH\u00c1  (LATASH\u00c1 & Jah. Music Video Collaboration.)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total ETH in sales",
+      "number": "18000",
+      "url": "https://drive.google.com/file/d/1dvdH4QKM3oD-OmoaKP2ux39YYdYtkzG4/view?usp=sharing"
+    },
+    {
+      "description": "Helmet City : Bodega Drip Sales",
+      "number": "6230.24",
+      "url": "https://etherscan.io/address/0xc0C647eeFCDBBC4B03a507a6673265757376a518"
+    },
+    {
+      "description": "Helmet City: Mecha Gardens Trailer ",
+      "number": "13000",
+      "url": "https://zora.co/collect/base:0x0651996b6a6eebd1fc697e5735a2dca541bbe06b/activity"
+    },
+    {
+      "description": "Zoratopia 2023 Signups",
+      "number": "365",
+      "url": "https://docs.google.com/spreadsheets/d/1B3X_akYoNPLCi6kIz7mcOqw2kGjPCKQ7/edit?usp=sharing&ouid=109681982039284527793&rtpof=true&sd=true"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 18000,
+      "description": "Total ETH sales"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "Shutterstock Creatorfund Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Avax Aviassance Residency"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x39f6a193de5751725d5fb54dd3a5e9ea52c7057e5073d96f9e8017715941bd79",
+  "prelimResult": "Remove",
+  "reportReason": "Cool, but out of scope as there isn't a clear connection to Optimism"
+}

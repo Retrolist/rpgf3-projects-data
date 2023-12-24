@@ -1,0 +1,83 @@
+{
+  "bio": "Infrastructue for digital asset tokenization",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Holograph",
+  "websiteUrl": "https://holograph.xyz",
+  "applicant": {
+    "address": {
+      "address": "0xD4f14555E5a6B1f5AFd132E4C51a717C7016Be3C",
+      "resolvedName": {
+        "address": "0xD4f14555E5a6B1f5AFd132E4C51a717C7016Be3C",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xD4f14555E5a6B1f5AFd132E4C51a717C7016Be3C"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD4f14555E5a6B1f5AFd132E4C51a717C7016Be3C.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD4f14555E5a6B1f5AFd132E4C51a717C7016Be3C.png",
+    "id": "OptimistProfile|0x63bc3bc4596e152afbf8f5cf7a13acde28f70890046b5fc288560e8b223996fb"
+  },
+  "impactDescription": "Holograph's developer modules eliminate the need to build complex systems for every new project, enabling teams to focus on delivering the most value for their customers without having to manage and maintain elaborate multichain infrastructure.\n\nCreators & Collectors use Holograph interfaces for creating, deploying, minting, and bridging natively composable NFTs on Optimism.\n\nBrand & Enterprises use asset issuance modules on Optimism that eliminate lock-in and enable them to focus on delivering value to customers without the requirement of maintaining elaborate cross-chain infrastructure.\u00a0\n\nDevelopers utilize a command line interface for direct to contract function calls, instant multichain deployment infrastructure, and real time cross-chain asset indexing.",
+  "contributionDescription": "Since launching in January 2023, Holograph has been used to mint millions of Holographic assets, making it the most widely used protocol for natively multichain digital asset production and distribution.\n\nOur Dune Analytics Dashboard showcases the extent of our success with onboarding users and engagement on Optimism.\n\nAs of today:\n\n3m+ NFTs minted on OP representing the largest share per network (37%) across all EVM environments currently integrated into the Holograph App.\n\n1.5m+ Protocol Transactions on OP.\n\n445k+ Bridge Transactions on OP\n\n26k+ Contracts Deployed on OP\n\n460k+ Unique Wallets on OP",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/acc01ade/holograph-protocol",
+      "description": "Holograph Dune Dashboard Overview"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/holographxyz",
+      "description": "Github"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.holograph.xyz/",
+      "description": "Docs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.holograph.xyz/",
+      "description": "App"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "NFTs Minted on OP",
+      "number": "3000000",
+      "url": "https://dune.com/acc01ade/holograph-protocol"
+    },
+    {
+      "description": "Contracts Deployed on OP",
+      "number": "26000",
+      "url": "https://dune.com/acc01ade/holograph-protocol"
+    },
+    {
+      "description": "Protocol Txs on OP",
+      "number": "1500000",
+      "url": "https://dune.com/acc01ade/holograph-protocol"
+    },
+    {
+      "description": "Bridge Txs on OP",
+      "number": "445000",
+      "url": "https://dune.com/acc01ade/holograph-protocol"
+    },
+    {
+      "description": "Unique Wallets on OP",
+      "number": "460000",
+      "url": "https://dune.com/acc01ade/holograph-protocol"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xeec5041f2bae8c48877836c3e932a2df54a1369c3f297f8474935c0a2bad18f0",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 25,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

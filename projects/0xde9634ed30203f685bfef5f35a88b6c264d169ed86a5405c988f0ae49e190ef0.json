@@ -1,0 +1,83 @@
+{
+  "bio": "Revoke.cash is a token approvals dashboard and browser extension to stay safe.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Revoke.cash",
+  "websiteUrl": "https://revoke.cash",
+  "applicant": {
+    "address": {
+      "address": "0xe126b3E5d052f1F575828f61fEBA4f4f2603652a",
+      "resolvedName": {
+        "address": "0xe126b3E5d052f1F575828f61fEBA4f4f2603652a",
+        "name": "kalis.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xe126b3E5d052f1F575828f61fEBA4f4f2603652a"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe126b3E5d052f1F575828f61fEBA4f4f2603652a.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe126b3E5d052f1F575828f61fEBA4f4f2603652a.png",
+    "id": "OptimistProfile|0x195b9c1697b8ed55a7af43a73be105ad3f6d54df982274853ca4b24d0528e33f"
+  },
+  "impactDescription": "End users in the Optimism Collective and larger crypto ecosystem can use the Revoke.cash token approvals dashboard and browser extension, and consume our educational content. By doing so they can protect themselves from hack and scams. And by using our new exploit checker tool they can check if they are already affected by such exploits, and recover control over their wallet.\n\nThis directly benefits end users in the Collective by saving them money that they might have lost to exploits. It also indirectly benefits companies and projects building in the Collective by providing infrastructure that gives their users more confidence and peace of mind when using decentralised applications.",
+  "contributionDescription": "Revoke.cash provides crypto users with security services. \n\nThe main service is a token approvals dashboard that works with 60+ networks. The second service is a browser extension that warns users when they are about to perform potentially harmful actions, such as token approvals or NFT listings. This extension works with every EVM network out of the box.\n\nWe also provide educational content, both on Twitter and on our new knowledgebase section.\n\nThis year we created a number of important new features. One big feature is the \"exploit checker\" to quickly see if they are vulnerable to exploits like the big SushiSwap exploit in April this year or the recent Galxe hack. \n\nOther features include invalidating offchain signatures, \"wallet health\" metrics, support for 20+ new networks and more.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/RevokeCash/revoke.cash",
+      "description": "This contains all the code for the open source token approvals dashboard."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/RevokeCash/browser-extension",
+      "description": "This contains all the code for the open source browser extension."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of monthly website users",
+      "number": "400000",
+      "url": "https://simpleanalytics.com/revoke.cash?period=year&count=1&interval=month"
+    },
+    {
+      "description": "Number of extension users",
+      "number": "40000",
+      "url": "https://chrome-stats.com/d/nmniboccheadcclilkfkonokbcoceced"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 3667,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 73500,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100000,
+      "description": "Gitcoin Grants (total donation + matching funds since 2021)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 15000,
+      "description": "Direct donations on website (since 2021)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xde9634ed30203f685bfef5f35a88b6c264d169ed86a5405c988f0ae49e190ef0",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 92,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

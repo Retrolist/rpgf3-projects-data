@@ -1,0 +1,62 @@
+{
+  "bio": "A person who loves to spread love and knowledge about crypto. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "tienthebros",
+  "websiteUrl": "https://twitter.com/tienthebros",
+  "applicant": {
+    "address": {
+      "address": "0x05d8FD48782EacEE77BAe866Fd8b776e495DE450",
+      "resolvedName": {
+        "address": "0x05d8FD48782EacEE77BAe866Fd8b776e495DE450",
+        "name": "tienthebros.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x05d8FD48782EacEE77BAe866Fd8b776e495DE450"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x05d8FD48782EacEE77BAe866Fd8b776e495DE450.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xc4904d8fb0cdf935f2040cda439be565bb6e47b9ace5bed0c19467c0dbfc2f69"
+  },
+  "impactDescription": "I would say that it is not largely impacted the world but I believe my small steps together with my Camel Cult community will change the world into a better place and bring more new users and fans to the ecosystem especially in music industry. By promoting ideas and new ways that can utilitize crypto, I can help to bring benefits to the future. ",
+  "contributionDescription": "As of now, I have contributed to bring many users into using Optimism ecosystem more by promoting the music platform Soundxyz on Twitter. After more than 2 years in crypto, most part is in downtrend, I realized the importance of learning and building the community from sratch to fully understand the ultility of the project and Optimism is a perfect place. I and  Camel cult have indugled in music NFTs a lot and I am now still spreading the music projects that Soundxyz has commited to change the whole music industry <3. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/user/tienthebros.eth",
+      "description": "My music collected in supporting Optimism and more will come for sure."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/tienthebros/status/1711982919345152271",
+      "description": "My Twitter post in promoting Soundxyz platform."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/rohki",
+      "description": "Camel Cult community in supporting project on Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Dashboard",
+      "number": "220",
+      "url": "https://dune.com/nicoelzer/sound-xyz"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I do not receive any grants or anything as this is my first time apply"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x75d24f0cf97531bd3ce1c77d5129dc9ae3a45cce274cbdc03dfda2d924ca2f41",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

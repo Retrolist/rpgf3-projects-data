@@ -1,0 +1,53 @@
+{
+  "bio": "Best technology explorer whose ambition is to become best  technology promoter",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "bnb",
+  "websiteUrl": "https://www.analyticsinsight.net/",
+  "applicant": {
+    "address": {
+      "address": "0x777f00b256F15DCa83832BfeFc573217a9f08C5A",
+      "resolvedName": {
+        "address": "0x777f00b256F15DCa83832BfeFc573217a9f08C5A",
+        "name": "bnbastu.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x777f00b256F15DCa83832BfeFc573217a9f08C5A"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x5a70a8c36f2328e059eead4eedcbcdd74c485ae2964add4fac74ced39711489f"
+  },
+  "impactDescription": "I told people about the optimism.As there are many rollups chains ,scaling solutions in the market ,.I told people about the optimism collective it's governance  ,it security and reliability through article published in my website and compared it with it other solution and told people about it's advantages",
+  "contributionDescription": "For awareing  people about the optimism.. People those e were heavily relying upon two or three main rollups or chain.Like polygon magic bnb. They were not sure about other rollups which is reliable having strong community ,having strong fundamentals. I told about optimism how it is a leading l2 solution trusted by biggest names in the industry ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.analyticsinsight.net/comparing-arbitrum-optimism-and-polygon-how-ethereum-layer-2-blockchains-are-impacting-upcoming-cryptocurrencies-like-dogetti/",
+      "description": "On"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "F",
+      "number": "3000",
+      "url": "https://www.analyticsinsight.net/wall-streets-next-big-bet-stellar-xlm-optimism-op-and-vc-spectra-spct-set-to-dominate-2023s-scene/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 700,
+      "description": "Approximately"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4f47bc81a3c561ca8d1b163f5c484f91cac72bbeb0b0e0ce7538a2bbecffe3a0",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,61 @@
+{
+  "bio": "Binance Feed Content Creator and Blogger. Full stack mobile developer.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Vertual",
+  "websiteUrl": "https://vraig.com",
+  "applicant": {
+    "address": {
+      "address": "0x85BD6874CE656b3ab058DF04d1b64f30b15d350d",
+      "resolvedName": {
+        "address": "0x85BD6874CE656b3ab058DF04d1b64f30b15d350d",
+        "name": "vertual.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x85BD6874CE656b3ab058DF04d1b64f30b15d350d"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x85BD6874CE656b3ab058DF04d1b64f30b15d350d.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x85BD6874CE656b3ab058DF04d1b64f30b15d350d.png",
+    "id": "OptimistProfile|0x1fc05f744ecd698ba41e1f5cb55cdacc86df2686867d8f78cd85c3a3494101ee"
+  },
+  "impactDescription": "My contributions have helped solidify the Optimism Collective as an informed and engaged community, fortified with both substantive knowledge and a sense of togetherness. The increased engagement and discussion spurred by my initiatives have, in turn, contributed to the collective's growth and vibrancy. ",
+  "contributionDescription": "My contributions to Optimism extend beyond merely covering it as a topic. I've authored numerous in-depth articles that delve into the project's intricacies, innovations, and impact on the broader crypto ecosystem. These pieces serve as educational material for my community, demystifying complex technical aspects and highlighting its value proposition.\n\nBeyond written content, I've also creatively engaged with my community through contests and riddles centered around Optimism. These interactive elements enhance awareness and understanding of the project.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://vraig.com/",
+      "description": "Blog"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.binance.com/en/feed/profile/18808902",
+      "description": "Binance Feed"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xd8fa12e084af767046640744dcaa66581c6e370b",
+      "description": "Simple Contract"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Community ",
+      "number": "7000",
+      "url": "https://www.binance.com/en/feed/profile/18808902"
+    },
+    {
+      "description": " Monthly Blog readers",
+      "number": "2000",
+      "url": "https://vraig.com/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7f7423b5913b53ace36c02846e66d025ab09740af4f6f8dede5600ad21971e84",
+  "prelimResult": "Remove",
+  "reportReason": "In the links there is no content related to Optimism that demonstrates a real impact to the Collective."
+}

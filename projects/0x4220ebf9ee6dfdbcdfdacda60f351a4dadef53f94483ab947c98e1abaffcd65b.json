@@ -1,0 +1,63 @@
+{
+  "bio": "Solidity",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Linkie",
+  "websiteUrl": "https://twitter.com/0xRelay",
+  "applicant": {
+    "address": {
+      "address": "0x85C6F217D0375E5dC7b249B5bC12577B051bf417",
+      "resolvedName": {
+        "address": "0x85C6F217D0375E5dC7b249B5bC12577B051bf417",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x85C6F217D0375E5dC7b249B5bC12577B051bf417"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x85C6F217D0375E5dC7b249B5bC12577B051bf417.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x735667dfde3ba06b4c9444b4bfbab45f106ec457c11f298d207ef5687cd591cc"
+  },
+  "impactDescription": "The impact that my contributions had on the Optimism Collective, was providing volume to the network as a whole. I believe delegating governance tokens toward @OlimpioCrypto has played a role in growing the Optimism Collective. He provides great information and is a trusted source in bringing new users to networks.",
+  "contributionDescription": "Greetings badgeholders, requesting to receive RetroPGF for contributions toward the Optimism network such as trading on Optimism. This helps provide volume to the network. I am also requesting to receive RetroPGF for contributions toward delegating governance tokens.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x12d6cc641ce1a7615f77407eda90e2ae67d26ad73ff51551bc476a298516708c",
+      "description": "Delegated Governance tokens"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x85fbb9c333797b6e6eec313cdf16068a3b90b952864a9890e8e444c49cda8676",
+      "description": "Delegating"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of views",
+      "number": "103000",
+      "url": "https://x.com/OlimpioCrypto/status/1678820641305423872?s=20"
+    },
+    {
+      "description": "Number of views",
+      "number": "145000",
+      "url": "https://x.com/OlimpioCrypto/status/1703842182036111818?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 563.87,
+      "description": "OP Airdrop"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4220ebf9ee6dfdbcdfdacda60f351a4dadef53f94483ab947c98e1abaffcd65b",
+  "prelimResult": "Remove",
+  "reportReason": "Requests funding for user interactions (delegating tokens), links to tweets of Olimpio in impact metrics"
+}

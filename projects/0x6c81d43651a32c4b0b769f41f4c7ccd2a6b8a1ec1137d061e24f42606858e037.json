@@ -1,0 +1,45 @@
+{
+  "bio": "An Individual using Optimism Chain",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "SuperRisingSr",
+  "websiteUrl": "https://twitter.com/SuperRisingSR",
+  "applicant": {
+    "address": {
+      "address": "0x736574a681f6707dfC00C81C27c501b64c8126DA",
+      "resolvedName": {
+        "address": "0x736574a681f6707dfC00C81C27c501b64c8126DA",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x736574a681f6707dfC00C81C27c501b64c8126DA"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x736574a681f6707dfC00C81C27c501b64c8126DA.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xffd1b4872471672023e1e6d80d6d52c451d533f5b07e059fb63679d7bfa3e84d"
+  },
+  "impactDescription": "I am using Optimism chain and brought other people from my friend circle by letting them know the benefits using the chain. Optimism chain is not only cheap and reduces cost, but it's also very fast for each and every transaction. The utilities are the best... ",
+  "contributionDescription": "Am using Optimism Chain as an Individual. The chain is the best chain as it has reduced the overall costing to minimum. The speed of every transaction is really fast. Overall, the chain is quite enjoyable with lots of utilities around. More people will definitely start using thus chain.....",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/SuperRisingSR",
+      "description": "0x736574a681f6707dfC00C81C27c501b64c8126DA"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Superchain Builder NFT holder",
+      "number": "10699",
+      "url": "https://optimistic.etherscan.io/address/0x11e76ab2e2C48e4a561ac96935399c8595619FA4"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x6c81d43651a32c4b0b769f41f4c7ccd2a6b8a1ec1137d061e24f42606858e037",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

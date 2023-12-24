@@ -1,0 +1,55 @@
+{
+  "bio": "\u2022 Community Manager \u2022 Community Moderator \u2022 Developer ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Bullek",
+  "websiteUrl": "https://github.com/bullek12",
+  "applicant": {
+    "address": {
+      "address": "0x505CB26904B17ba8A5507E0134c294D78a3e032C",
+      "resolvedName": {
+        "address": "0x505CB26904B17ba8A5507E0134c294D78a3e032C",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x505CB26904B17ba8A5507E0134c294D78a3e032C"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x505CB26904B17ba8A5507E0134c294D78a3e032C.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x505CB26904B17ba8A5507E0134c294D78a3e032C.png",
+    "id": "OptimistProfile|0x918b0c2e607c0a4d55899e8b5ed7babcd666da25940bb08ad5f99700773f4ef3"
+  },
+  "impactDescription": "You can choose anyone who you believe will participate in Optimism governance and can represent what you want this ecosystem to become.\nYou can see each delegate's statement of interest by clicking on their tile. You may also delegate to any address using the input field to the top-left.",
+  "contributionDescription": "I am a web3 developer\ni can make web3 to do nft mint and token mint\n\nI also created web3 for a large project and joined the team\n\nI am a web3 developer\ni can make web3 to do nft mint and token mint\n\nI also created web3 for a large project and joined the team\n\nI have been with crypto since 2017 until now 2023 so I want to try to create an interesting application to develop my web3 application on the Optimist network. I have already made it for the Arbitrum network and the Polygon network and the testnet mode network.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/bullek12/testnetmode",
+      "description": "created on the TESTNETMODE network"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Github",
+      "number": "1",
+      "url": "https://github.com/bullek12"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100,
+      "description": "I am very poor"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xfd9dd057ce04697db5812def4cf66b4f4cd43959b1809869d08fd9fc3eb59c80",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

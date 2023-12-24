@@ -1,0 +1,46 @@
+{
+  "bio": "Advisor for trading communities such as UNWA and music NFTs like Camelventures.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Vegeta\ud83c\udfa7\ud83c\udfa5\ud83c\udfc1",
+  "websiteUrl": "https://twitter.com/SolitaryVegeta",
+  "applicant": {
+    "address": {
+      "address": "0x7A6896532E19d6417587da889B1b9F994c754d97",
+      "resolvedName": {
+        "address": "0x7A6896532E19d6417587da889B1b9F994c754d97",
+        "name": "\ud83d\udc383\u20e33\u20e3.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x7A6896532E19d6417587da889B1b9F994c754d97"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7A6896532E19d6417587da889B1b9F994c754d97.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x99144b7d3737b1f2277b290d09e11522b4b6f26e564b82cab1e047feeed51917"
+  },
+  "impactDescription": "The trend of transferring assets from traditional finance to the decentralized blockchain environment is inevitable. One type of asset that will soon be recognized by the SEC is NFTs. The PFP NFT market has seen a lot of success in the previous cycle, and in this cycle, music NFTs will play an important role. OP helps make it accessible to users due to low gas fees.\n\nWe (UNWA and CamelVentures) love music and crypto, and we want to spread music NFTs as well as the spirit of sharing for the OP community.",
+  "contributionDescription": "I am a trader with 16 years of experience, investing in BTC since 2009. I serve as an advisor for trading communities such as UNWA and music NFTs like Camelventures.\n\nThe trend of transferring assets from traditional finance to the decentralized blockchain environment is inevitable. One type of asset that will soon be recognized by the SEC is NFTs. The PFP NFT market has seen a lot of success in the previous cycle, and in this cycle, music NFTs will play an important role. OP helps make it accessible to users due to low gas fees.\n\nWe love music and crypto, and we want to spread music NFTs as well as the spirit of sharing for the OP community.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/user/0x7A6896532E19d6417587da889B1b9F994c754d97",
+      "description": "We support music on chain and sound.xyz"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "MINTS DRIVEN (music nfts ref,rank: #35)",
+      "number": "678",
+      "url": "https://www.sound.xyz/user/0x7A6896532E19d6417587da889B1b9F994c754d97"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x5822b237f86cd998af8a1923a1bacb4065d7681e5674d912650cdab6dc8db174",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

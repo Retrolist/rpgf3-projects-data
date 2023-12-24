@@ -1,0 +1,108 @@
+{
+  "bio": "Philosophic Rebel & Web3 Indie Hacker | Transparency at http://dub.sh/bord",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "borderless",
+  "websiteUrl": "https://bord.eth",
+  "applicant": {
+    "address": {
+      "address": "0xE53F4d44c45dBc16a20aB64f8a8B4404dDbBefEC",
+      "resolvedName": {
+        "address": "0xE53F4d44c45dBc16a20aB64f8a8B4404dDbBefEC",
+        "name": "bord.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xE53F4d44c45dBc16a20aB64f8a8B4404dDbBefEC"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE53F4d44c45dBc16a20aB64f8a8B4404dDbBefEC.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE53F4d44c45dBc16a20aB64f8a8B4404dDbBefEC.png",
+    "id": "OptimistProfile|0xa502bfcd637980813944502dea5dff50981cf94246f81cfc0f37dc3d4831a7b4"
+  },
+  "impactDescription": "I envision my impact residing in the diverse utilization of the Optimism platform across various fronts, both on a personal level and as a developer of an educational indie comic available in multiple languages. Hailing from a Portuguese linguistic background and being a participant in its speaking communities, I continuously strive to shed light on the ethos values of Optimism. My belief in a potentially improved world that can be constructed with this technology propels me. This endeavor transcends into a more social and cultural task, uplifted by the culture of public goods, open source, superchain, and beyond. My outreach spans across texts written in Portuguese and English, newsletters and various other media channels, all echoing this vision.\n\n1. Overview of analytics data link",
+  "contributionDescription": "I am indie founder of Web3Comic's in/habitants, a Seinen edutainment project exploring web3, politics, society, and digital generation's evolution. My contribution to the Optimism ecosystem commenced on day 0 of the comic, about a year ago, aiming to educate and engage the adult audience about the decentralized web through storytelling. In/habitants has utilized Optimism, among other techs, to showcase real-world applications and possibilities of web3. With over 40 episodes and around half a million pages read, our venture demonstrates a blend of creativity and technical insight, contributing to the shared vision of a less centralized web. Our work and the experiments links below, providing a glimpse into the project's essence and our approach towards a more inclusive digital realm.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=J1W7mr9Rtog&ab_channel=inhabitants",
+      "description": "Youtube Optimism Video - Example of learning content"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.bonfire.xyz/bord",
+      "description": "An initial \"KYC\" hub hyperlinking to my diverse projects and efforts"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://inhabitants.zone",
+      "description": "Indie comic venture nurtured with a touch of collaborative effort"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://debank.com/profile/0xe53f4d44c45dbc16a20ab64f8a8b4404ddbbefec",
+      "description": "Top Debank users influential users, with focus on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/inhabitants.eth/qfqAEIDovdsPosegLM7XTgZTAITIZwscrT-y0FVclDk",
+      "description": "Where it all initiated, a presentation mint on our Mirror hosted on Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/inhabitants",
+      "description": "Our proprietary in/habitants music released on Optimism via Sound.xyz"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://globalcomix.com/browse/en/?sort=popular&sd=365",
+      "description": "Showcasing our web3comic as a top-5 contender amidst over 7,000 entries"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.webtoons.com/en/canvas/inhabitants/list?title_no=782434",
+      "description": "Korea's premier webtoon platform where we also feature our comic"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://inhabitants.zone/chatAI",
+      "description": "Over +999 users engaging with our bot persona discussing Web3 and the comic"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://metaadastra.com/",
+      "description": "Philosophy and sociology in Web3 education, where I am one of the coordinators"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.amazon.com/stores/inhabitants-zone/author/B0BFNY31YZ?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+      "description": "Our Amazon storefront, bridging the web2 users with published books"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://borderl.substack.com/",
+      "description": "A Portuguese-content newsletter where I delve into the borderless culture"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://layer3.xyz/bord.eth",
+      "description": "Layer 3 exploring and using ecosystem tools, high level and + 20 OP"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Overview",
+      "number": "1",
+      "url": "https://www.figma.com/file/H14gR7fB9oxmq3N2yd2h6k/Optimism-path?type=whiteboard&node-id=0%3A1&t=1zgLvsH6ubvNCteb-1"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xa6fd2210371758e071a147fc9bec7fe46854456c944996fade17c58eaa8c48a2",
+  "prelimResult": "Keep",
+  "reportReason": "Spam, Outside of RetroPGF's Scope",
+  "includedInBallots": 6,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

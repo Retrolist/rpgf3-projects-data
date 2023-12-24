@@ -1,0 +1,71 @@
+{
+  "bio": "Valio is an asset management platform that connects leading traders and managers",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "valio.xyz",
+  "websiteUrl": "https://www.valio.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xd0Ba8A15952924E78A8285477C08e23643c5f37D",
+      "resolvedName": {
+        "address": "0xd0Ba8A15952924E78A8285477C08e23643c5f37D",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xd0Ba8A15952924E78A8285477C08e23643c5f37D"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3ab3a9de16ca79cc15c6f77c1a896d7b033b29fa2c4a68cc867099be8eca0320"
+  },
+  "impactDescription": "Valio is the first omnichain asset management protocol integrated with Optimism ecosystem. We are putting a high attention to OP ecosystem, connecting leading traders to trading tools like: 0x and Kwenta (releasing soon), as well as other integrations in the pipeline to make the asset management on Optimism as frictionless as possible",
+  "contributionDescription": "Valio is the first omnichain asset management protocol integrated with Optimism ecosystem. We are putting a high attention to OP ecosystem, connecting leading traders to trading tools like: 0x and Kwenta (releasing soon), as well as other integrations in the pipeline to make the asset management on Optimism as frictionless as possible",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.valio.xyz/",
+      "description": "Omnichain integration for OP, Kwenta coming soon"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/valioxyz",
+      "description": "Github Repo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Twitter",
+      "number": "7000",
+      "url": "https://twitter.com/valio_xyz"
+    },
+    {
+      "description": "OP vaults created",
+      "number": "41",
+      "url": "https://app.valio.xyz/explore"
+    },
+    {
+      "description": "Discord",
+      "number": "1900",
+      "url": "https://discord.gg/y5yBaSPj"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x41bc6ed45ea571f776a95729e345d56e0c4bb28c7856a325f8971a4c3b02dd4f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 20,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

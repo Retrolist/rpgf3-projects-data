@@ -1,0 +1,78 @@
+{
+  "bio": "System-wide web3 Platform",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Frame",
+  "websiteUrl": "https://frame.sh",
+  "applicant": {
+    "address": {
+      "address": "0x7c929EfA9a8A2A1524BA90aBc2B70801413fFD4c",
+      "resolvedName": {
+        "address": "0x7c929EfA9a8A2A1524BA90aBc2B70801413fFD4c",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x7c929EfA9a8A2A1524BA90aBc2B70801413fFD4c"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7c929EfA9a8A2A1524BA90aBc2B70801413fFD4c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7c929EfA9a8A2A1524BA90aBc2B70801413fFD4c.png",
+    "id": "OptimistProfile|0x502b83a3c5226a216d90138c1f84901f43ef07e8c5e544c67b346f59b49e1445"
+  },
+  "impactDescription": "Frame is working to improve the OP ecosystem by simplifying access and enhancing the developer experience. Frame's system-wide interface expands the OP ecosystem beyond the browser, allowing diverse software and use cases to utilize it.\n\nDevelopers use Frame's local RPC to facilitate secure access to OP chains for deployment and other operations. \n\nWith the launch of Pylon, we're now servicing hundreds of millions of requests to OP chains every month, striving to provide all users with a private connection to OP chains.\n\nOmnichain routing in Frame allows dapps to interact with multiple chains in parallel, streamlining user operations across a superchain ecosystem.\n\nFrame's contributions are driven by the feedback from our community as we continue to address the needs of the OP ecosystem.",
+  "contributionDescription": "Frame is a web3 platform that provides a secure, system-wide interface to your chains and accounts, enabling any browser, command-line, or native application to leverage OP chains.\n\nFrame's local RPC has proven to be a useful tool for developers, giving them easy and secure access to OP chains, improving the developer experience.\n\nFrame ships with both Optimism and Base as default chains. As a Base launch partner, we provided users with access to both Base Goerli and Base Mainnet from day one.\n\nWe also support both Optimism and Base via Pylon, our new infrastructure initiative which services a large and growing number of requests to OP chains every month.\n\nOmnichain routing in Frame greatly improves the OP user experience by allowing dapps to route to multiple chains in parallel.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/floating/frame",
+      "description": "Frame Repo"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://frame.sh",
+      "description": "Frame Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x7c929EfA9a8A2A1524BA90aBc2B70801413fFD4c/HZw6YupTFVT9yIbmH8x1YOwemARiXkl5JITMAAlLi8I",
+      "description": "Introducing Pylon"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.frame.sh/frame-canary/",
+      "description": "Omnichain Info"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Pylon OP Chain Req/Month >",
+      "number": "100000000",
+      "url": "https://mirror.xyz/0x7c929EfA9a8A2A1524BA90aBc2B70801413fFD4c/HZw6YupTFVT9yIbmH8x1YOwemARiXkl5JITMAAlLi8I"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 18337,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 47826.28,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x8569aa042caeb7c6548772467ec0f9572ebd3334865e07ab792de765c17534b2",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 80,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Wallets"
+}

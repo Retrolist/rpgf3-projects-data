@@ -1,0 +1,52 @@
+{
+  "bio": "Multiple Dao Contributor",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "bubli.eth",
+  "websiteUrl": "https://twitter.com/bublieth2",
+  "applicant": {
+    "address": {
+      "address": "0x2935771e6cf78431Fd50Cc4badf3aADCd73b8B1C",
+      "resolvedName": {
+        "address": "0x2935771e6cf78431Fd50Cc4badf3aADCd73b8B1C",
+        "name": "bubli.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2935771e6cf78431Fd50Cc4badf3aADCd73b8B1C"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2935771e6cf78431Fd50Cc4badf3aADCd73b8B1C.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2935771e6cf78431Fd50Cc4badf3aADCd73b8B1C.jpeg",
+    "id": "OptimistProfile|0xb7156721eba531bd7931967995674336e905097b012f2bdad044385637745345"
+  },
+  "impactDescription": "20 ppl were onboarded to Optimism L2 way back in early 2022.\n\nI conducted a meetup with 20 people on L2 and specifically about Optimism since i was one among the first to bridge to Optimism. I'm attaching images of that meetup. We emphasized on the importance of iterative governance of Optimism stack.\n\nAlmost all of the attendees were not used to even metamask. Hence, i helped them to bridge and use some dapps. Education and adoption are the cornerstone in web3.",
+  "contributionDescription": "Hi,\n\nI conducted a meetup with 20 people on L2 and specifically about Optimism since i was one among the first to bridge to Optimism. I'm attaching images of that meetup. We emphasized on the importance of iterative governance of Optimism stack.\n\nAlmost all of the attendees were not used to even metamask. Hence, i helped them to bridge and use some dapps. Education and adoption are the cornerstone in web3.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/bublieth2",
+      "description": "Meetup images"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Meetup images",
+      "number": "1",
+      "url": "https://twitter.com/bublieth2"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe6f4000a87eac6790e8b869c67508819b16b426984b4fefbb125b999d796c77e",
+  "prelimResult": "Remove",
+  "reportReason": "No way to verify impact (of organizing a meetup)"
+}

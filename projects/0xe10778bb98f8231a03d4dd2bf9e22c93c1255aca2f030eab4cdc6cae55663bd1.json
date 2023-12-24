@@ -1,0 +1,53 @@
+{
+  "bio": "Crypto Promoter, Supporter ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Moshie",
+  "websiteUrl": "https://hey.xyz/u/moshie05",
+  "applicant": {
+    "address": {
+      "address": "0x8C64766fd6632F56EC5845B714cA8c7DF760Ffa0",
+      "resolvedName": {
+        "address": "0x8C64766fd6632F56EC5845B714cA8c7DF760Ffa0",
+        "name": "moshie05.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8C64766fd6632F56EC5845B714cA8c7DF760Ffa0"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8C64766fd6632F56EC5845B714cA8c7DF760Ffa0.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x6b7a188882de2901aac3c1d8b7ab924a934f349f213e012786b15752651d843c"
+  },
+  "impactDescription": "My contributions have had a significant impact on the Optimism Collective, catalyzing positive change and progress. Through active participation in governance, I've helped shape the direction of the project, making informed decisions that align with the community's needs and the project's goals. By supporting the network through educational initiatives and sharing technical insights, I've contributed to a more informed and empowered community, fostering a collaborative environment. This has not only expanded the network's reach but also enhanced its technical capabilities. My dedication has strengthened the foundation of the Optimism Collective, paving the way for sustainable growth, innovation, and a more decentralized and efficient blockchain ecosystem.",
+  "contributionDescription": "My contributions to the Optimism have been multifaceted and dedicated. I've actively engaged in governance, leveraging my voting rights to influence key decisions that steer the project's course. Furthermore, I've made it my mission to support the network in various ways, from educational initiatives to sharing technical expertise. These efforts collectively contribute to the growth, stability, and innovation of the Optimism network, helping it achieve its mission of providing efficient and scalable solutions for the blockchain ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x8c64766fd6632f56ec5845b714ca8c7df760ffa0",
+      "description": "Activity on the optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "contributions",
+      "number": "18",
+      "url": "https://explorer.gitcoin.co/#/contributors/0x8C64766fd6632F56EC5845B714cA8c7DF760Ffa0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe10778bb98f8231a03d4dd2bf9e22c93c1255aca2f030eab4cdc6cae55663bd1",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

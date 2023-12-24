@@ -1,0 +1,60 @@
+{
+  "bio": "A payments dApp that allows you to send funds to people who don't have a wallet",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Woosh",
+  "websiteUrl": "https://www.wooshapp.com/",
+  "applicant": {
+    "address": {
+      "address": "0x3B2d493a88D97D26BE518c8048778d155831462B",
+      "resolvedName": {
+        "address": "0x3B2d493a88D97D26BE518c8048778d155831462B",
+        "name": "hypergood.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3B2d493a88D97D26BE518c8048778d155831462B"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3B2d493a88D97D26BE518c8048778d155831462B.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3B2d493a88D97D26BE518c8048778d155831462B.png",
+    "id": "OptimistProfile|0x8f5a5222c6ef9e682222da0126170b8dabeaf8e4827b421c47f0329e2cde541c"
+  },
+  "impactDescription": "Through the approach of Woosh, we are not only introducing a user-friendly payments dApp but also actively fostering the expansion of the Optimism Collective. By simplifying crypto complexities through the utilization of ERC-4337 and sponsoring user transactions via ZeroDev's paymaster, we are effectively onboarding non-crypto users onto the Optimism network. The funds from this grant will not only facilitate the seamless operation of our dApp but also contribute to the continued growth and adoption of the Optimism ecosystem, thereby amplifying its impact and reach within the global community.",
+  "contributionDescription": "Woosh is a payments dApp where you can send funds to anyone who doesn't have a wallet. We automatically create a wallet for new users when they claim the funds someone sent them. We use ERC-4337 to abstract away as much of the complexities of crypto as possible. We sponsor all of the users transactions with ZeroDev's paymaster. The funds from this grant will help pay for future users transactions.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x64deabF40A0b360f3930F8b0cBA1727d3a362CaF",
+      "description": "This is the DepositVault, where funds are stored until someone claims them."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xEDBaB88D819ad75556AD493Fb13366FF9fe3dB81",
+      "description": "Previous DepositVault that doesn't support smart contract wallet signatures."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Sponsored Transactions",
+      "number": "146",
+      "url": "https://narrow-porkpie-5d3.notion.site/October-ZeroDev-Metrics-8663d5983bbd481880608f0994640388?pvs=4"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 25000,
+      "description": " My dad's investment to cover legal fees, dev support, and the contract audit"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xfe9dac03e5168415428bacaeaab40470bc95d66495fee2505e7d8cf612f15001",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 14,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,48 @@
+{
+  "bio": "Galecki",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "AndersonGalecki",
+  "websiteUrl": "https://www.linkedin.com/in/andersongalecki/",
+  "applicant": {
+    "address": {
+      "address": "0x0A8738a060987F61d2feA461b02ee074F3483651",
+      "resolvedName": {
+        "address": "0x0A8738a060987F61d2feA461b02ee074F3483651",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0A8738a060987F61d2feA461b02ee074F3483651"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0A8738a060987F61d2feA461b02ee074F3483651.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x30dc83f8610d7edffd08b7bcd1edd31a43dbc1f3627f62634a00db3f99bd6c58"
+  },
+  "impactDescription": "Supporting a blockchain developer community is a valuable endeavor that can drive technological innovation and progress across various industries. Blockchain networks play a pivotal role in finance, healthcare, supply chain management, and more. In summary, actively engaging with a blockchain developer community requires dedication and expertise. Your contributions can have a significant impact on the development and adoption of this groundbreaking technology.",
+  "contributionDescription": "Learn and Share: Start by acquiring a solid understanding of blockchain technology and its core principles. Share your knowledge through articles, video tutorials, or local conference presentations.\n\nDevelop DApps: If you're a developer, consider building decentralized applications (DApps) to address real-world problems and showcase the potential of blockchain.\n\nEngage Online: Join online forums, discussion groups, and social media communities related to blockchain. Help answer questions and share insights to promote mutual learning.\n\nFinancial Support: If feasible, provide financial backing to blockchain projects or establish scholarships for aspiring developers.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/andersongalecki?tab=repositories",
+      "description": "Anderson"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#1",
+      "number": "1",
+      "url": "https://docs.google.com/spreadsheets/d/1OEmB5RWa_kRXW1-PkqGduKTilp_yTwNDndwSmmHjP8I/edit#gid=0"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x3716e86edb51e2e991632ac0cc27be06a1861b3d0fc8c5b06ca2edf44438c4ee",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

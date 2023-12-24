@@ -1,0 +1,54 @@
+{
+  "bio": "just me",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "rispana",
+  "websiteUrl": "https://t.me/riscrypto",
+  "applicant": {
+    "address": {
+      "address": "0x601d2A30EfE1E05b63759f0adA9249Aac72fb52a",
+      "resolvedName": {
+        "address": "0x601d2A30EfE1E05b63759f0adA9249Aac72fb52a",
+        "name": "rispana.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x601d2A30EfE1E05b63759f0adA9249Aac72fb52a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x601d2A30EfE1E05b63759f0adA9249Aac72fb52a.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xea525320bbad2dcbefc53603a9fb0fa321549d574af4465ceab257d81e7b67d9"
+  },
+  "impactDescription": "i love this project and hope this project wi grow up. The Optimism Collective believes that building public goods should be rewarded.\nThis key ingredient to the Optimistic vision (opens new window)is more than just altruism \u2013 it\u2019s core to our success. Optimism\u2019s codebase itself is an open-source project, and builds on the shoulders of countless OSS giants which came before it.",
+  "contributionDescription": "staker optimistm and trader and i like optimism and a few year i  am eligigble with optimism airdrop i also have more transactions in optimism network like nft and other token with make me prund and hope this project will grown up and long term and ofcourse go to the moon price",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0xac3b9b3f5956b52c448158c0a07ddfa9d5c53a3b?a=0x601d2A30EfE1E05b63759f0adA9249Aac72fb52a",
+      "description": "op delegator"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "downloads",
+      "number": "100",
+      "url": "https://optimistic.etherscan.io/token/0xac3b9b3f5956b52c448158c0a07ddfa9d5c53a3b?a=0x601d2A30EfE1E05b63759f0adA9249Aac72fb52a"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9a5b53bb6fc3e52712c81f1d1c119755070532656ab038ea86ada86a6072ff1a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

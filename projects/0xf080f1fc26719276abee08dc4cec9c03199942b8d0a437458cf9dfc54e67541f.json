@@ -1,0 +1,45 @@
+{
+  "bio": "Doing education ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Education ",
+  "websiteUrl": "https://twitter.com/yulephant",
+  "applicant": {
+    "address": {
+      "address": "0x0000C291A4D0814b6c764CF001a0eBB0E2c5b498",
+      "resolvedName": {
+        "address": "0x0000C291A4D0814b6c764CF001a0eBB0E2c5b498",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0000C291A4D0814b6c764CF001a0eBB0E2c5b498"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0000C291A4D0814b6c764CF001a0eBB0E2c5b498.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0000C291A4D0814b6c764CF001a0eBB0E2c5b498.png",
+    "id": "OptimistProfile|0x7ecd0e1ae31db107b2154a9c9039811a71c3c4798a71704af2a406566626f7f9"
+  },
+  "impactDescription": "Educating people in the city where I live because understanding of the world of crypto and blockchain technology is still common here so of course I have to introduce it so that everyone can Know and understand advances in financial technology And of course it's not easy, it takes time and effort ",
+  "contributionDescription": "Educating people in the city where I live because understanding of the world of crypto and blockchain technology is still common here so of course I have to introduce it so that everyone can Know and understand advances in financial technology And of course it's not easy, it takes time and effort ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/yulephant",
+      "description": "Twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "LinkedIn ",
+      "number": "420",
+      "url": "https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xf080f1fc26719276abee08dc4cec9c03199942b8d0a437458cf9dfc54e67541f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

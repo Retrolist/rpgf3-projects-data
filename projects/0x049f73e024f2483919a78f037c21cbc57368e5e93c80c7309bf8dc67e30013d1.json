@@ -1,0 +1,65 @@
+{
+  "bio": "A wassie that spreads awareness of possibilities of Optimism",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "satswassie",
+  "websiteUrl": "https://x.com/satswassie",
+  "applicant": {
+    "address": {
+      "address": "0x041d7710eb5B759cA179FcbF8A5F9b534E6a4C21",
+      "resolvedName": {
+        "address": "0x041d7710eb5B759cA179FcbF8A5F9b534E6a4C21",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x041d7710eb5B759cA179FcbF8A5F9b534E6a4C21"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x041d7710eb5B759cA179FcbF8A5F9b534E6a4C21.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x38b993428989878af26bd0180ed596bbe5f87dac922df626cd74ebc6048e8fd9"
+  },
+  "impactDescription": "- Awareness of possibilities onchain\n- Safety procedures to follow for new users\n- Active in governance and delegated all of my OP thats not being used for yield onchain.\n- Promote thesis of superchain future as it's something i completely believe in. ",
+  "contributionDescription": "I've driven awareness of possibilities of Optimism, and in particular the superchain thesis. My proactivity in showcasing high safe yield opportunities and ways to enter the chain. \n- OP stack awareness\n- Strongly advocated the emergence of Base Chain\n- Helped onboard users via seamless crosschain swaps.\n\nWhile not all of my contributions were public, i've been extremely vocal in assisting the Optimism ecosystem to entities wanting to move assets onchain. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/satswassie/status/1688519892948164608?s=20",
+      "description": "Showcased how to seamlessly get to Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/satswassie/status/1663340706608611329?s=20",
+      "description": "Highlighted onchain trading turnovers improving"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@satswassie/revert-dc999841924c",
+      "description": "Medium article showcasing OP incentivised projects aiding in liquidity provision"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/satswassie/status/1679423146619981824",
+      "description": "Wanting people to get more from onchain"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@satswassie/synapse-32334e42ec8d",
+      "description": "Promoting bridges"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": "27500",
+      "url": "https://x.com/satswassie/status/1663340703517413377?s=20"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x049f73e024f2483919a78f037c21cbc57368e5e93c80c7309bf8dc67e30013d1",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

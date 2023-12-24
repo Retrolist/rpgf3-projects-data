@@ -1,0 +1,48 @@
+{
+  "bio": "Tech/Blockchain",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Cryptoreine",
+  "websiteUrl": "https://twitter.com/CryptoReine1",
+  "applicant": {
+    "address": {
+      "address": "0x222988f898B6Eba86a7c0bf331bE672D49534834",
+      "resolvedName": {
+        "address": "0x222988f898B6Eba86a7c0bf331bE672D49534834",
+        "name": "aavegrant.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x222988f898B6Eba86a7c0bf331bE672D49534834"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xe4a5a60bb6c3eeb6d03482c8e8c00c50fa6e69f68463b139ca5fcfd46bd6534d"
+  },
+  "impactDescription": "1. Developing and enhancing code for the project. 2. Researching and proposing innovative solutions. 3. Ensuring reliability through testing and security audits. These technical efforts are crucial for the success of blockchain projects like Optimism",
+  "contributionDescription": "My Contributions to Optimism include \n\n1. Development and Code Contributions: I write and review code, improving the platform's features, or fixing bugs. This can involve optimizing smart contracts, enhancing security, and ensuring compatibility with Ethereum.\n\n2. Research and Innovation: I conduct research related to Layer 2 scaling solutions, proposing novel ideas, or helping solve technical challenges.\n\n3. Testing and Quality Assurance: Ensuring the reliability and security of the platform. My contributions in this area involve thorough testing, identifying vulnerabilities, and helping with code audits.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/CryptoReine1",
+      "description": "Tech Blockchain dealer"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1003",
+      "number": "503",
+      "url": "https://twitter.com/CryptoReine1"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x59db936cffbd900deba68c0225b411bcc1843c55354e7ca26a764fd9ccd1e8bf",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,52 @@
+{
+  "bio": "Product @cometdaox",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Ritu basu",
+  "websiteUrl": "https://twitter.com/ritubasu751",
+  "applicant": {
+    "address": {
+      "address": "0xe75A587A24251D722e95e2BC5f2C84dFDa5Da405",
+      "resolvedName": {
+        "address": "0xe75A587A24251D722e95e2BC5f2C84dFDa5Da405",
+        "name": "cryptogujju.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xe75A587A24251D722e95e2BC5f2C84dFDa5Da405"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe75A587A24251D722e95e2BC5f2C84dFDa5Da405.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x539e7e9d11ba10f84898099a2094dcf69cc91164a5165d8083ee223ff2c53c28"
+  },
+  "impactDescription": "Governance minimization. The set of governance responsibilities that are encoded onchain or formalized in voting processes should remain as minimal as possible. The Collective aims to reduce governance to its essence and to avoid introducing regulation where freedom can achieve the same result. This principle is key to encouraging permissionless innovation. In practice, this looks like a minimal set of (1) onchain governance processes to upgrade Optimism contracts and tune the economic parameters of the system, and (2) offchain social processes to maintain a healthy community.",
+  "contributionDescription": "Governance minimization. The set of governance responsibilities that are encoded onchain or formalized in voting processes should remain as minimal as possible. The Collective aims to reduce governance to its essence and to avoid introducing regulation where freedom can achieve the same result. This principle is key to encouraging permissionless innovation. In practice, this looks like a minimal set of (1) onchain governance processes to upgrade Optimism contracts and tune the economic parameters of the system, and (2) offchain social processes to maintain a healthy community.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/",
+      "description": "Description"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number",
+      "number": "3",
+      "url": "https://optimistic.etherscan.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe08ceed217b79c9ee977c37d5e6b76b0afbbd88b7fe999ec6624197a5f8c4a82",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

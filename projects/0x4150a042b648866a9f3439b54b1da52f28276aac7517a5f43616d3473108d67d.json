@@ -1,0 +1,56 @@
+{
+  "bio": "Web3 Co-learning integrates Chinese builders into Ethereum's philosophy.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "PlanckerDAO Web3 English Co-learning",
+  "websiteUrl": "https://plancker.notion.site/Web3-46a24f2eb4bc400c9a4ef1e4d413a354?pvs=4",
+  "applicant": {
+    "address": {
+      "address": "0x158Ea94E633922Cc32EbD8735B87022bfDe7084f",
+      "resolvedName": {
+        "address": "0x158Ea94E633922Cc32EbD8735B87022bfDe7084f",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x158Ea94E633922Cc32EbD8735B87022bfDe7084f"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x158Ea94E633922Cc32EbD8735B87022bfDe7084f.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x158Ea94E633922Cc32EbD8735B87022bfDe7084f.png",
+    "id": "OptimistProfile|0xaabe72021d437a277bb7a5f6f84c58dc076333576e17dd20679ed0f3f720f534"
+  },
+  "impactDescription": "\"Web3 English Co-learning\" has played a crucial role in fostering a diverse community within the Optimism Collective. By addressing the language barrier, we've enabled a multitude of Chinese builders to actively engage with the Optimism ecosystem. This initiative has not only expanded the user and developer base but has also introduced innovative insights and solutions, driving the collective's growth. We've engaged leading web3 builders from LSD, AA, and related fields, further amplifying our impact. Our focus on resources ensures that non-native speakers can navigate the complexities of web3 and Optimism, leading to more informed discussions and collaborations.",
+  "contributionDescription": "\"Web3 English Co-learning\" bridges the language divide for Chinese speakers in Ethereum, benefiting Optimism. Contributions:\n\nLanguage: Enabled Chinese developers to engage with English projects like Optimism.\n\nResources: Our \"CM Web3 English Glossary\" and \"Vitalik's Blog Vocabulary\" simplify web3 terms, aiding in grasping Optimism concepts.\n\nEngagement: Our events, like \"Chiang Mai Web3 English Camp\", cultivate a community of learners, spurring discussions on Ethereum and Optimism.\n\nPromotion: Emphasizing Vitalik's writings, we've championed layer-2 solutions like Optimism.\n\nSeeking RetroPGF to continue bridging linguistic divides in Ethereum.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://plancker.notion.site/Web3-English-Co-learning-46a24f2eb4bc400c9a4ef1e4d413a354?pvs=4",
+      "description": "Web3 English Co-learning notion site for events and resources"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of staked users in 1st cohort",
+      "number": "7",
+      "url": "https://docs.google.com/spreadsheets/d/1YOwxQB3QJEsPRSw256_bzpcpqCCA75tM7SuYXlpnKs4/edit#gid=0"
+    },
+    {
+      "description": "# of paid users in 2nd cohort",
+      "number": "70",
+      "url": "https://mp.weixin.qq.com/s/rl7cL9o_f3KkP-37U535jw"
+    },
+    {
+      "description": "# of paid users in 3rd IRL cohort",
+      "number": "7",
+      "url": "https://app.safe.global/home?safe=eth:0xE5d225b251C254Ee97cAb2734886528A8CD303f8"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4150a042b648866a9f3439b54b1da52f28276aac7517a5f43616d3473108d67d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

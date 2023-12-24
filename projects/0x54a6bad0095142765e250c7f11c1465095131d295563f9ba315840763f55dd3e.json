@@ -1,0 +1,152 @@
+{
+  "bio": "A protocol to target users & deploy onchain earning opportunities",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "RabbitHole",
+  "websiteUrl": "https://rabbithole.gg",
+  "applicant": {
+    "address": {
+      "address": "0x8F5415415d9200cCd8523F3Ee88F96F476141CC3",
+      "resolvedName": {
+        "address": "0x8F5415415d9200cCd8523F3Ee88F96F476141CC3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x8F5415415d9200cCd8523F3Ee88F96F476141CC3"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8F5415415d9200cCd8523F3Ee88F96F476141CC3.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8F5415415d9200cCd8523F3Ee88F96F476141CC3.png",
+    "id": "OptimistProfile|0x77b6dd062b006adae70f9249c15b39a7995624e503dba3e95a635063596e99a5"
+  },
+  "impactDescription": "RabbitHole (Quest Protocol) is currently the #3 most transacted  (see Official Optimism Dashboard). We launched the protocol in February of this year and since have supported the growth of 21 Optimism projects and driven 1m+ quest completions on the Optimism network - all provable onchain. Quests have driven 44,000+ new Optimism users, 69,000+ new addresses delegating OP in governance, and $340K+  in network fees.\n",
+  "contributionDescription": "- **Quest Protocol & Quest Terminal** - the RabbitHole team has integrated the ~20 largest Optimism projects into Quest Protocol so anyone with OP can deploy quests permissionlessly for the top Optimism projects\n\n- **Proven growth of Optimism** - the Quest Protocol contract is one of the most used contracts on Optimism, ranking top #3 in the past 30 days and top 10 in the past 90 days, driving over 2m transactions (including third-party transactions driven by the protocol). \n\n- **Optimism Gateway** - RabbitHole has launched Optimism Gateway, an open source quest platform for any Optimism community member to launch an onchain quest for any popular Optimism project by depositing OP rewards in minutes. **Note: Any retroactive funding will be re-distributed through the Optimism Gateway.**",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimism.rabbithole.gg/quests",
+      "description": "Open Source Quest Gateway exclusive for Optimism projects distributing OP token"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/rabbitholegg/gateway",
+      "description": "The github repo to the open source code of the Optimism Quest Gateway"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x52629961f71c1c2564c5aa22372cb1b9fa9eba3e",
+      "description": "Quest Factory contract for Quest Protocol on Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Optimism Quest Completions",
+      "number": "1029593",
+      "url": "https://dune.com/queries/3124867/5214006"
+    },
+    {
+      "description": "RabbitHole (QP) Transactions (90d)",
+      "number": "983000",
+      "url": "https://dune.com/optimismfnd/Optimism-Project-Usage-Trends"
+    },
+    {
+      "description": "RabbitHole (QP) Transactions (30d)",
+      "number": "13400",
+      "url": "https://dune.com/optimismfnd/Optimism-Project-Usage-Trends"
+    },
+    {
+      "description": "New wallets delegating due to quests",
+      "number": "69134",
+      "url": "https://dune.com/rabbithole/optimism-quest-gateway"
+    },
+    {
+      "description": "New Optimism Wallets due to quests",
+      "number": "44961",
+      "url": "https://dune.com/rabbithole/optimism-quest-gateway"
+    },
+    {
+      "description": "Gas Fees driven by Quests",
+      "number": "340929.38",
+      "url": "https://dune.com/rabbithole/optimism-quest-gateway"
+    },
+    {
+      "description": "Veldrome Transactions Driven by Quests",
+      "number": "162808",
+      "url": "https://dune.com/rabbithole/optimism-quest-gateway"
+    },
+    {
+      "description": "Agora Transactions Driven by Quests",
+      "number": "152718",
+      "url": "https://dune.com/rabbithole/optimism-quest-gateway"
+    },
+    {
+      "description": "Uniswap (OP) t/xs Driven by Quests",
+      "number": "100228",
+      "url": "https://dune.com/rabbithole/optimism-quest-gateway"
+    },
+    {
+      "description": "Exactly transactions driven by quests",
+      "number": "59040",
+      "url": "https://dune.com/rabbithole/optimism-quest-gateway"
+    },
+    {
+      "description": "Matcha (OP) t/xs driven by quests",
+      "number": "48145",
+      "url": "https://dune.com/rabbithole/optimism-quest-gateway"
+    },
+    {
+      "description": "PoolTogether (OP) t/xs driven by quests",
+      "number": "43577",
+      "url": "https://dune.com/rabbithole/optimism-quest-gateway"
+    },
+    {
+      "description": "Paraswap t/xs driven by quests",
+      "number": "42631",
+      "url": "https://dune.com/rabbithole/optimism-quest-gateway"
+    },
+    {
+      "description": "Aave (OP) t/xs driven by quests",
+      "number": "37057",
+      "url": "https://dune.com/rabbithole/optimism-quest-gateway"
+    },
+    {
+      "description": "Number of OP projects supported",
+      "number": "23",
+      "url": "https://dune.com/queries/3125155/5214602"
+    },
+    {
+      "description": "Base transactions",
+      "number": "259680",
+      "url": "https://dune.com/rabbithole/base-gateway-quest-protocol"
+    },
+    {
+      "description": "Base Gas Fees driven",
+      "number": "29118.34",
+      "url": "https://dune.com/rabbithole/base-gateway-quest-protocol"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 248500,
+      "description": "Cycle 11 in Growth"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 138613,
+      "description": "Claim fees generated in protocol"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x54a6bad0095142765e250c7f11c1465095131d295563f9ba315840763f55dd3e",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 58,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

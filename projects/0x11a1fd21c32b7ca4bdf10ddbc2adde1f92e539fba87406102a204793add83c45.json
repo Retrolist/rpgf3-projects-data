@@ -1,0 +1,55 @@
+{
+  "bio": "Exploring decentralized onchain music curation",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Music Tribes",
+  "websiteUrl": "https://www.musictribes.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0x54C3283577c40eaa637D35106b7c5c6b387C5aB0",
+      "resolvedName": {
+        "address": "0x54C3283577c40eaa637D35106b7c5c6b387C5aB0",
+        "name": "elsapo.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x54C3283577c40eaa637D35106b7c5c6b387C5aB0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x54C3283577c40eaa637D35106b7c5c6b387C5aB0.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x54C3283577c40eaa637D35106b7c5c6b387C5aB0.png",
+    "id": "OptimistProfile|0x8faff5859bae099814143ef47829d7141e9d3be3c32c43e19916fbe74e34ff5b"
+  },
+  "impactDescription": "Bridging the gap between artists, collectives and music fans in Optimism. \n\nMultiple music NFT platforms are aggregated giving visibility to a large number of artists, with most being minted in OP. \n\nA majority of the music NFT-centric communities integrated have their tokens on Optimism. Some notable examples include: ZiggyZiggy with 3987 members, latin collective M\u00fasicaW3, DANC3 that creates a lot of curational content,  UK based WildAwake, Invest in Music which has a curational program on Optimism, among others. On the artist side, most music NFTs recommended are minted in the Sound.xyz platform in Optimism. \n\nSpotify login onboards web2 users. \n\nDevelopment has been a solo endeavor, with myself building backend, frontend, and design, no funding received",
+  "contributionDescription": "MusicTribes pioneers the mode of interaction within the Optimism music ecosystem, bridging artists, collectives, and fans.\n\nIt aggregates NFTs from platforms like Sound.xyz, Catalog, Zora, Lens and others. Unlike traditional platforms, recommendations are defined externally by tokenized communities' input parameters. Users get content based on the community tokens they hold, avoiding conventional algorithm-driven models and fostering direct artist-to-fan engagement. This empowers artists and utility for community members, with the potential for communities to earn referral fees. Most communities have minted their tokens on the Optimism blockchain. \n\nMusic Tribes also incorporates artists' Mirror articles, integrating another OP platform. \n\nWeb 2 fans are Onboarded with Spotify Login",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.musictribes.xyz/",
+      "description": "recommendations of onchain music from tokenized communities "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.musictribes.xyz/artist?artist=lnrz.eth",
+      "description": "onchain artist path with music NFTs and mirror posts"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.figma.com/file/AXqWcE6Lrq3Dgvh8LZRlXG/MusicTribes-Demos?type=whiteboard&node-id=0%3A1&t=7CvILFcOWrJWyJeO-1",
+      "description": "Demo videos"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "aggregated curational communities",
+      "number": "6",
+      "url": "https://docs.google.com/spreadsheets/d/18h8mEkx5yMuW4M6Sf6G1pG6A5g4pZYbSqFv6tLvzCK0/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x11a1fd21c32b7ca4bdf10ddbc2adde1f92e539fba87406102a204793add83c45",
+  "prelimResult": "Remove",
+  "reportReason": "Not sure this is in scope of retropgf"
+}

@@ -1,0 +1,78 @@
+{
+  "bio": "Privacy-preserving ENS gateway, enabling access to Ethereum-native dApps/content",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "eth.limo",
+  "websiteUrl": "https://eth.limo/",
+  "applicant": {
+    "address": {
+      "address": "0xB352bB4E2A4f27683435f153A259f1B207218b1b",
+      "resolvedName": {
+        "address": "0xB352bB4E2A4f27683435f153A259f1B207218b1b",
+        "name": "ethdotlimo.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xB352bB4E2A4f27683435f153A259f1B207218b1b"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB352bB4E2A4f27683435f153A259f1B207218b1b.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB352bB4E2A4f27683435f153A259f1B207218b1b.png",
+    "id": "OptimistProfile|0x022e3a648fb6f3e751d619da4526e09f5c8ee3f3a4cc8d982e49d52794c9b01d"
+  },
+  "impactDescription": "Ethereum Mainnet transactions are too expensive for the average user, by utilizing CCIP-Read eth.limo allows users and dApp developers to host static sites in a cost effective manner. This in return opens up the ability for the average person to create blogs/dApps and more without paying absurd gas fees or associated hosting costs. Vitalik has discussed the importance of CCIP-Read for end-user adoption. ",
+  "contributionDescription": "Recently we announced our release of limo-web3-dns which is an experimental domain specific implementation of the DNS protocol for direct resolution of ENS records over DNS.\nLimo-web3-dns allows ENS domain holders to be able to manage traditional services such as web hosting and self hosted software with minimal friction. The ultimate goal of limo-web3-dns is to provide trustless auditable cryptographically signed ENS over DNS to bring ENS to parity with DNS. Limo-web3-dns is also  CCIP-Read/EIP-3668 enabled allowing users to store content on Optimism/Base or any L2.  \n\nWe also operate eth.limo as a public good which is a CCIP-Read enabled gateway. Large projects such as Kwenta and Synthetix are utilizing the gateway to provide front-end access to their end users. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethlimo",
+      "description": "Main eth.limo github repository"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Website Requests by 1 Day",
+      "number": "6009121",
+      "url": "https://docs.google.com/presentation/d/1HJmS5fUnTKdloI5ItGG41KhFJ362z5EKKzGxqhR1hTk/edit?usp=sharing"
+    },
+    {
+      "description": "Website Requests by 7 Days",
+      "number": "43879068",
+      "url": "https://docs.google.com/presentation/d/1uFJ2eAAxrUcJGrDXukevmtPQOzzSyxRctB2WXBtaqLk/edit?usp=sharing"
+    },
+    {
+      "description": "Website Requests by 1 Month",
+      "number": "199177487",
+      "url": "https://docs.google.com/presentation/d/1BqTNVOhxSrAR194tx13bV2HFqghj6uRmluswMp-NNNA/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 92200,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100000,
+      "description": "ENS DAO - https://discuss.ens.domains/t/term-3-grants-summary/16549/2"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 96250,
+      "description": "ENS DAO - https://discuss.ens.domains/t/term-4-grants-summary/17624/3"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0c50a589d092ac078d4fecce888b1ec40a22cacd7d5d32b59ea277147113f173",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 51,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

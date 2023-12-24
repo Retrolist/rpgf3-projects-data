@@ -1,0 +1,61 @@
+{
+  "bio": "YouTuber and website creator   ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "CII",
+  "websiteUrl": "https://www.youtube.com/@0xcii",
+  "applicant": {
+    "address": {
+      "address": "0x21eb14be414eDC32A819525C231c3eE97dc811F8",
+      "resolvedName": {
+        "address": "0x21eb14be414eDC32A819525C231c3eE97dc811F8",
+        "name": "aturx.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x21eb14be414eDC32A819525C231c3eE97dc811F8"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x21eb14be414eDC32A819525C231c3eE97dc811F8.png",
+    "id": "OptimistProfile|0x936c666de19ccfa5d42a7dd608cf3b20300b2e3c36be971b7fb26b32f57389c2"
+  },
+  "impactDescription": "Hello Optimistic Collective,\n\nI'm CII, a YouTuber and website creator with a mission: to help more people understand and get started with the Optimism network. Through accessible videos and high-quality content, I am breaking down barriers to entry and fostering a more inclusive ecosystem.",
+  "contributionDescription": "I am a YouTuber and website creator focused on educating about the Optimism network. My work involves breaking down complex blockchain concepts into accessible content through YouTube videos and high-quality articles on my website. I look forward to contributing more to this innovative space.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://antcave.club/sites/1623.html",
+      "description": "Share OP on my website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@0xcii",
+      "description": "Share Video about OP and Web3"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "views",
+      "number": "550000",
+      "url": "https://antcave.club/sites/1623.html"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xbbbfe1f07b3788fe30dc9b2594176b48b002364e8e4bcedb86b28f87780722c7",
+  "prelimResult": "Keep",
+  "reportReason": "spam",
+  "includedInBallots": 25,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

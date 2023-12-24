@@ -1,0 +1,110 @@
+{
+  "bio": "Discover the best new web3 projects. Like Product Hunt, but for Web3.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Launchcaster",
+  "websiteUrl": "https://www.launchcaster.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xD0DA14f46595850627bcDB19060bdFb0F4Cc5E8f",
+      "resolvedName": {
+        "address": "0xD0DA14f46595850627bcDB19060bdFb0F4Cc5E8f",
+        "name": "launchcaster.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xD0DA14f46595850627bcDB19060bdFb0F4Cc5E8f"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD0DA14f46595850627bcDB19060bdFb0F4Cc5E8f.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD0DA14f46595850627bcDB19060bdFb0F4Cc5E8f.png",
+    "id": "OptimistProfile|0x3babc4f9ba4e43e8fee4f9674ec8d37b2a34e9fd17735f551d261d2bdfcc19d7"
+  },
+  "impactDescription": "Launchcaster has amassed over 10K builders, more than half of active ETH developers. It has also attracted over 50K unique users and facilitated over 1K successful Superchain launches. Many of these launches are built on the OP stack!\n\nLaunchcaster Weekly, our weekly newsletter summarizing the top launches of the week, has sent over 150K emails to 5K subscribers.\n\nLaunchcaster has assisted in deploying over 40 Superchain NFTs, processing +9K mints, importing thousands, and indexing millions.",
+  "contributionDescription": "Launchcaster built a solution and a community for builders to launch and discover the best projects on the Superchain. Think Product Hunt, but for the Superchain!\n\nHow Launchcaster works:\n1. Builders post to Farcaster or Lens\n2. Builders reply with @launch to launch\n3. Anyone can connect their wallet, upvote, and see wallet supporters\n\nLaunchcaster\u2019s contributions:\n- Launch using social protocols, including Farcaster and Lens.\n- Discover Superchain launches using home, user, project, and newsletter feeds.\n- Explore Superchain builders by browsing through their profiles and leaderboards.\n- Discover Superchain apps through product pages, top app leaderboard, search, and ecosystems.\n- Deploy, import, and mint Superchain NFTs for apps and launches.\n- And so much more \ud83d\ude4f",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.launchcaster.xyz/",
+      "description": "Launchcaster Home"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://warpcast.com/launch",
+      "description": "@launch bot"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.launchcaster.xyz/weekly",
+      "description": "Launchcaster Weekly Newsletter - Never miss a Superchain launch"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.launchcaster.xyz/launchcaster/6499df3d78e92419ccdeba36",
+      "description": "OP Launch & App NFTs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.launchcaster.xyz/launchcaster/650472445403d7677d4776a9",
+      "description": "Base Launch & App NFTs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.launchcaster.xyz/launchers/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760",
+      "description": "Launchcaster Builder Profiles (Example: macbudkowski.eth)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.launchcaster.xyz/launchcaster/650876e75403d7677d948d9b",
+      "description": "Launchcaster Ecosystems MVP"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.launchcaster.xyz/fabric",
+      "description": "Launchcaster Product Pages (Example: Fabric)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.launchcaster.xyz/launchcaster/652fdff6a7f8a813910c3cd1",
+      "description": "First Anniversary \ud83e\udd72"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Builders",
+      "number": "10500",
+      "url": "https://www.launchcaster.xyz/"
+    },
+    {
+      "description": "Subscribers",
+      "number": "4000",
+      "url": "https://www.launchcaster.xyz/weekly/51"
+    },
+    {
+      "description": "Emails sent",
+      "number": "150000",
+      "url": "https://www.launchcaster.xyz/weekly/1"
+    },
+    {
+      "description": "NFT deploys",
+      "number": "40",
+      "url": "https://www.launchcaster.xyz/launchcaster/64230ef76223efe884d64833"
+    },
+    {
+      "description": "NFT transactions",
+      "number": "9000",
+      "url": "https://www.launchcaster.xyz/launchcaster/650472445403d7677d4776a9"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x52a5eb33b424f5d62f6cdac8943d4b180adb5cdd5d0dbd861c0d38f522386542",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 38,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

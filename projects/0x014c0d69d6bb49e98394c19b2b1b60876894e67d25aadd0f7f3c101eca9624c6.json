@@ -1,0 +1,64 @@
+{
+  "bio": "Happy guy with Defi\u2026",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "gutzz",
+  "websiteUrl": "https://twitter.com/cryptogutzz",
+  "applicant": {
+    "address": {
+      "address": "0xB25769a98bA57b8e2eC7348E70Aba6b93fA913F0",
+      "resolvedName": {
+        "address": "0xB25769a98bA57b8e2eC7348E70Aba6b93fA913F0",
+        "name": "gutzz.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xB25769a98bA57b8e2eC7348E70Aba6b93fA913F0"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB25769a98bA57b8e2eC7348E70Aba6b93fA913F0.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xd7e2e826edea6ac1452631da37816f0681f3c479bb20fe106e1c12ca5fb74f69"
+  },
+  "impactDescription": "Sempre  na minha maneira possivel que posso,neste momento em bearmarket nao eat\u00e1 facil mas sempre que posso o farei  e fa\u00e7o.\nPois \u00e9 a melhor blokchain com um futuro promissor e que deixa as outras blockchains bem para tras. \nnao tenho qualifica\u00e7oes mas tenho aprendendo ao maximo e adoro esta L2 ,\nsempre a crescer e aprender sob",
+  "contributionDescription": "Sempre  na minha maneira possivel que posso,neste momento em bearmarket nao eat\u00e1 facil mas sempre que posso o farei  e fa\u00e7o.\nPois \u00e9 a melhor blokchain com um futuro promissor e que deixa as outras blockchains bem para tras. \nnao tenho qualifica\u00e7oes mas tenho aprendendo ao maximo e adoro esta L2 ,\nsempre a crescer e aprender sobre",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/cryptogutzz",
+      "description": "@cryptogutzz "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/cryptogutzz",
+      "description": "love"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/cryptogutzz",
+      "description": "love"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "lol",
+      "number": "2",
+      "url": "https://opensea.io/assets/optimism/0xa95579592078783b409803ddc75bb402c217a924/52439"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 11,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x014c0d69d6bb49e98394c19b2b1b60876894e67d25aadd0f7f3c101eca9624c6",
+  "prelimResult": "Remove",
+  "reportReason": "spam"
+}

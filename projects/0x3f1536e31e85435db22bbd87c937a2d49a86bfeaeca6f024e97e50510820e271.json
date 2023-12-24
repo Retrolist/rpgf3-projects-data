@@ -1,0 +1,52 @@
+{
+  "bio": "YouTube channel to educate and explain Optimism's RetroPGF project.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "MonkeyPGF",
+  "websiteUrl": "https://www.youtube.com/channel/UCAgmHHOR7Z0yZHvbHzlvkHg",
+  "applicant": {
+    "address": {
+      "address": "0x8477997B959b4f9C49146F1364Ce789FD0DE5EAb",
+      "resolvedName": {
+        "address": "0x8477997B959b4f9C49146F1364Ce789FD0DE5EAb",
+        "name": "cryptomaximos.ecc.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8477997B959b4f9C49146F1364Ce789FD0DE5EAb"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8477997B959b4f9C49146F1364Ce789FD0DE5EAb.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8477997B959b4f9C49146F1364Ce789FD0DE5EAb.png",
+    "id": "OptimistProfile|0x4da6eeafd5067d0a6dcb0f4242d5ed30c04b8117634467ec0885a170727c579c"
+  },
+  "impactDescription": "I entered the cryptocurrency world in 2021 with some basic blockchain knowledge but lacked understanding of various chains and dApps within each chain. Optimism initiated the RetroPGF project to improve its ecosystem, but many interested individuals lacked knowledge about it. I've taken it upon myself to gather information and create YouTube content, making it easier for users to understand. This effort aims to provide a direction for global contributors, impacting Optimism's ecosystem.",
+  "contributionDescription": "I believe that using visuals and sound to convey understanding can make things more interesting and easier to comprehend. Therefore, I have expanded my knowledge about RetroPGF to help people understand and share information through my YouTube channel.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/channel/UCAgmHHOR7Z0yZHvbHzlvkHg",
+      "description": "YouTube channel dedicated to knowledge about RetroPGF."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of followers and views",
+      "number": "200",
+      "url": "https://www.youtube.com/channel/UCAgmHHOR7Z0yZHvbHzlvkHg"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": "I don't need much, just a little encouragement is enough for me."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3f1536e31e85435db22bbd87c937a2d49a86bfeaeca6f024e97e50510820e271",
+  "prelimResult": "Remove",
+  "reportReason": "Likely a member of the Ambassador program or participant in the ambassador content competition"
+}

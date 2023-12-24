@@ -1,0 +1,54 @@
+{
+  "bio": "I am onchain data analysts who mostly had made dashboard related to NFT projects",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "banterlytics",
+  "websiteUrl": "https://dune.com/masroor",
+  "applicant": {
+    "address": {
+      "address": "0x18cCC241CcE98a67564E367eBc1F1f0e692E3188",
+      "resolvedName": {
+        "address": "0x18cCC241CcE98a67564E367eBc1F1f0e692E3188",
+        "name": "banterlytics.kongz.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x18cCC241CcE98a67564E367eBc1F1f0e692E3188"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x18cCC241CcE98a67564E367eBc1F1f0e692E3188.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x02c821b1f8010b284e66c1f47264a9145a1763031e564da1bae4312b12fc4794"
+  },
+  "impactDescription": "NFT snapshot dashboard has helped projects find their holders easily and reward them accordingly, it has been used by users to find overlap in their project and any project they like.\n\nFriend Tech analysis has helped people see how much activity base consisted of friend tech contract interaction, how friend tech trading volume and tvl has changed over weeks. Most importantly be able to visualize activity during the week on each hour in the day. ",
+  "contributionDescription": "Made a dashboard which can be used to get erc 721 holders for all evm chains on dune analytics, it can also be used to get crossover of wallets between 2 erc 721 collections. Many people and different projects have used it. (https://dune.com/masroor/NFT-Holders-Snapshot)\n\nRecently I have been making different visualizations based on Friend tech data and share it on my twitter. (https://github.com/banterlytics/friendtech_analytics) ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/masroor/NFT-Holders-Snapshot",
+      "description": "Get erc721 holders on evm chains including Optimism and crossover for 2 projects"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/banterlytics/friendtech_analytics",
+      "description": "Friendtech analysis like weekly snapshot & hourly activity thru the week"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Stars on Dashboard",
+      "number": "556",
+      "url": "https://dune.com/masroor"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x36653dde46bfe40b9aeb4ed20dfc4ccb0a40ba01ca4f0055e96870c9b28878f0",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 12,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

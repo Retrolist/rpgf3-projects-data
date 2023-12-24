@@ -1,0 +1,112 @@
+{
+  "bio": "Think tank advancing positive-sum coordination mechanism.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Mechanism Institute",
+  "websiteUrl": "https://mechanism.institute",
+  "applicant": {
+    "address": {
+      "address": "0x4cd6B4503d02973D78CFF59C9C56f5F378688274",
+      "resolvedName": {
+        "address": "0x4cd6B4503d02973D78CFF59C9C56f5F378688274",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x4cd6B4503d02973D78CFF59C9C56f5F378688274"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4cd6B4503d02973D78CFF59C9C56f5F378688274.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4cd6B4503d02973D78CFF59C9C56f5F378688274.png",
+    "id": "OptimistProfile|0xf09511d8afb2f50ae0fcf0457141311ac064a99683638010556f0dde9a360414"
+  },
+  "impactDescription": "The Mechanism Library enhances understanding of how mechanisms can solve problems critical to OP Collective, such as governance, public goods funding, and value capture. It also promotes OP-specific case studies: the dual-house governance sytem, attestation station, and airdrop.\n\nThe Mechanism Impact Measurement tool has empowered enabled Gitcoin (OP Stack user) to make data-driven decisions in designing their staking mechanics. This example that can be utilized by other OP Stack users & by Optimism itself.\n\nThe Mechanism Canvas & Seminars fill an educational gap, fostering better-informed development & design choices by mechanism designers.\n\n\"Slashing Engine\" & \"Smart Treaties\" can inspire innovations that drive utility of OP based tools & communities, starting with Gitcoin & Zuzalu.",
+  "contributionDescription": "Mechanism Library: Extensive catalogue of coordination mechanims & case studies (including OP mechanisms) that serves as a go-to hub for a diverse audience.\n\nMechanism Impact Measurement: Forkable workbook to model ROI of mechanisms, including cost of capital & demand forecasting. Employed by Gitcoin (OP Stack user) to model staking mechanisms.\n\nMechanism Canvas: Visual template for designing systems in a way that ensures shared understanding of system architecture & goals.\n\n7 seminars (online & IRL) teaching tools & practical strategies for designing better mechanism design.\n\nOpen Source Primitives:\nSlashing Engine to solve sybil attacks in Gitcoin Passport & other claim verification problems\nSmart Treaties to enable Zuzalu & other communities to scale through bilateral staking commitment",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.mechanism.institute/library",
+      "description": "Mechanism Library"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://observablehq.com/@mechanisminstitute/impact-measurement",
+      "description": "Mechanism Impact Measurement Workbook"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.figma.com/file/oS1LLUNeyAHwbS9UQw8YRe/Mechanism-Design-Canvas-Template",
+      "description": "Mechanism Design Canvas"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Mechanism-Institute/slashing-engine",
+      "description": "Slashing Engine: sybil detection mechanism that we developed for the ecosystem"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.figma.com/proto/Sg0srz4rVhMdxbGEmCD7PE/Smart-Treaties?type=design&node-id=235-97&t=mj6927VIsczIyAon-0&scaling=contain&page-id=1%3A8&starting-point-node-id=235%3A97&show-proto-sidebar=1",
+      "description": "Smart Treaties: bilateral staking mechanism for on-chain community agreements"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://observablehq.com/@mechanisminstitute/5-research-directions-for-blockchain-mechanisms",
+      "description": "Paris Mechanism Seminar"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/mechanism_inst/status/1694412042864845291",
+      "description": "MetaGov Mechanism Seminar"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/oloMD4zvLTE?si=fLwuKyTzNUyXij0A",
+      "description": "MetaFest Mechanism Seminar"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/Tg6SZwSEwUY?si=rF851lr9g6QjBjLX",
+      "description": "dOrg Mechanism Seminar"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of Mechanisms",
+      "number": "131",
+      "url": "https://www.mechanism.institute/library"
+    },
+    {
+      "description": "# of Case Studies",
+      "number": "304",
+      "url": "https://www.mechanism.institute/library"
+    },
+    {
+      "description": "# of Seminars",
+      "number": "7",
+      "url": "https://twitter.com/mechanism_inst"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 3000,
+      "description": "Gitcoin Grants 17"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 80000,
+      "description": "Gitcoin Sponsorship"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb426cb999cd483bd00f82b9585a6f0963f13e01e6e15403db87e3fed1dc87d96",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 38,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Governance Research"
+}

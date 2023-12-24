@@ -1,0 +1,57 @@
+{
+  "bio": "Just a regular guy who loves crypto.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Big Krazy",
+  "websiteUrl": "https://debank.com/stream",
+  "applicant": {
+    "address": {
+      "address": "0x133D20c739F76236eEbacE7Bf5BfA751BfF15a9f",
+      "resolvedName": {
+        "address": "0x133D20c739F76236eEbacE7Bf5BfA751BfF15a9f",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x133D20c739F76236eEbacE7Bf5BfA751BfF15a9f"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x62ff49cdb05ab6d4b7b03d495ab73028e75a45afda90eae7cfe27f341829e228"
+  },
+  "impactDescription": "I'm always posting positive content on Twitter as well as my DeBank stream when it comes to OP.  I am a big supporter of Velodrome on OP as well as Aerodrome now on Base.  I've also been active in discord asking/answering questions.  Thank you for all you do for OP.",
+  "contributionDescription": "My contribution would be more geared toward education and awareness.  I do most of this just speaking to my friends and family face to face, but I have also tweeted and have used my DeBank stream to raise awareness.  I don't have a ton of followers but I am a big supporter of Velodrome on OP.  ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://debank.com/stream/234671",
+      "description": "Example of a DeBank Stream Question"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://debank.com/stream/391086",
+      "description": "Another example of DeBank Stream Statement"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "DeBank Stream Comments",
+      "number": "1",
+      "url": "https://debank.com/stream/391086"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "None"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf47defee417dec534d9bfdee3a4f9bc2580d6a176aa2fc60aaa8ad8643f8e36f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

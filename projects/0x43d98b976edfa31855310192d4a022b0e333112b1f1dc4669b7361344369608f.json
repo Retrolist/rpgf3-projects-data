@@ -1,0 +1,51 @@
+{
+  "bio": "I am an active defi user, with a primary focus on the options space.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "real_",
+  "websiteUrl": "https://github.com/real-poker",
+  "applicant": {
+    "address": {
+      "address": "0x12481822efb3c546AC945C17c8EC54a63Bc95B5C",
+      "resolvedName": {
+        "address": "0x12481822efb3c546AC945C17c8EC54a63Bc95B5C",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x12481822efb3c546AC945C17c8EC54a63Bc95B5C"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x12481822efb3c546AC945C17c8EC54a63Bc95B5C.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xf3a5fc6183d1e141257a3ce079b1f8c794f4a7d10460a0de38a36b68dbe84637"
+  },
+  "impactDescription": "I believe having the most liquid and highly traded markets is key to a successful ecosystem. There is a natural monopoly that develops for markets that are able to bootstrap and attract the most liquidity and offer their users the best price execution. However, as protocols upgrade, development time is needed to keep up, with very low profit incentive.",
+  "contributionDescription": "I have been active in options market making and arbitrage on Optimism, leading to more efficient and better prices for defi users on mainnet. Such tasks involve the development of private software to amalgamate quotes from centralized exchanges and run statistical analysis on historical data in order to arrive at a pricing model. In addition, I have been active in OP governance since the launch of the OP Collective.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0x12481822efb3c546AC945C17c8EC54a63Bc95B5C",
+      "description": "OP address"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Option trades",
+      "number": "768",
+      "url": "https://optimistic.etherscan.io/address/0x12481822efb3c546ac945c17c8ec54a63bc95b5c#tokentxnsErc1155"
+    },
+    {
+      "description": "Transaction Volume $",
+      "number": "602000",
+      "url": "https://debank.com/profile/0x12481822efb3c546ac945c17c8ec54a63bc95b5c/history?chain=op&mode=analysis&token=&t=1695742366125&r=89817"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x43d98b976edfa31855310192d4a022b0e333112b1f1dc4669b7361344369608f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

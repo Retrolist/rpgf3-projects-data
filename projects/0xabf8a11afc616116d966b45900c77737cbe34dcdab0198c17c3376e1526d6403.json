@@ -1,0 +1,48 @@
+{
+  "bio": "Zero Knowledge is a podcast focused on zk tech and the decentralized web",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Zero Knowledge Podcast",
+  "websiteUrl": "https://zeroknowledge.fm/",
+  "applicant": {
+    "address": {
+      "address": "0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701",
+      "resolvedName": {
+        "address": "0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701.png",
+    "id": "OptimistProfile|0x91f192074a49b580f130925d1c438cf9375c95a23f3cd47f298d0289fc36fb01"
+  },
+  "impactDescription": "Helped with education. We have had an ep about Optimism in 2021, and generally have been working in the Ethereum ecosystem for a long while. More generally, the ZKPodcast covers the latest in zero knowledge research and applications, the open web as well as future technologies and paradigms that promise to change the way we interact \u2014 and transact \u2014 with one another online. ",
+  "contributionDescription": "The ZKPodcast covers the latest in zero knowledge research and applications, the open web as well as future technologies and paradigms that promise to change the way we interact \u2014 and transact \u2014 with one another online. We have had an ep about Optimism in 2021, and generally have been working in the Ethereum ecosystem for a long while. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://zeroknowledge.fm/",
+      "description": "website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of episodes",
+      "number": "300",
+      "url": "https://zeroknowledge.fm/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xabf8a11afc616116d966b45900c77737cbe34dcdab0198c17c3376e1526d6403",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 47,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

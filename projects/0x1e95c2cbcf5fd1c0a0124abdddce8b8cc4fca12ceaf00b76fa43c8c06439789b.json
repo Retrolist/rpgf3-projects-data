@@ -1,0 +1,52 @@
+{
+  "bio": "Using Web3 to Innovate Real Estate ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Web3 Realty Trust & Probate AI Solutions",
+  "websiteUrl": "https://www.ravneelpratap.com",
+  "applicant": {
+    "address": {
+      "address": "0x39837F4711b028ba82D43bF9d7b017Cbf8E5c8a3",
+      "resolvedName": {
+        "address": "0x39837F4711b028ba82D43bF9d7b017Cbf8E5c8a3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x39837F4711b028ba82D43bF9d7b017Cbf8E5c8a3"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x39837F4711b028ba82D43bF9d7b017Cbf8E5c8a3.png",
+    "id": "OptimistProfile|0x5f190207347de0d9b1746415f1c89091ad8cf3c39cc6a903866ea88aac56eea5"
+  },
+  "impactDescription": "My contributions to the Optimism Collective have had a profound and lasting impact, serving as a catalyst for positive change and fostering a deeper understanding of the initiative's core principles. By focusing on education and advocacy, I was able to illuminate the transformative potential of Optimism to a broad audience, ensuring that more individuals could access, understand, and benefit from its offerings.",
+  "contributionDescription": "Over the course of my involvement with Optimism, my primary contribution has been centered on raising awareness and educating a diverse audience about its foundational values and the myriad benefits it offers. Recognizing the transformative potential of Optimism.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://n/a ",
+      "description": "N/A"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "N/A",
+      "number": "0",
+      "url": "https://n/a "
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x1e95c2cbcf5fd1c0a0124abdddce8b8cc4fca12ceaf00b76fa43c8c06439789b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

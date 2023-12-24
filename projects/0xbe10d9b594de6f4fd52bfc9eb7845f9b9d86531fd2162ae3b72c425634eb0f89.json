@@ -1,0 +1,48 @@
+{
+  "bio": "Crypto Enthusiast divulgating Crypto in Latinamerica",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Joe",
+  "websiteUrl": "https://www.gomezcrypto.com",
+  "applicant": {
+    "address": {
+      "address": "0x097f53E27C122917f5fBDBFBD657b5B3E1040e86",
+      "resolvedName": {
+        "address": "0x097f53E27C122917f5fBDBFBD657b5B3E1040e86",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x097f53E27C122917f5fBDBFBD657b5B3E1040e86"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x097f53E27C122917f5fBDBFBD657b5B3E1040e86.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x63ab31e9a495fbc4a4b3b0f1f74f1fea8e61f06843c4001935f17a2d8c8fbdb7"
+  },
+  "impactDescription": "My work had increase the persons which invests in Optimism and give them an understanding of the project. Im convinced that my expertise in optimism will help investors to know why this project is different to other crypto projects.......................\n....\n\n\n",
+  "contributionDescription": "I'm promoting optimism in my network as well doing a lot of educational work what kind op project optimism is. Im also working on Youtube explaining the Problems that will be solved with the aid of this project. Furthermore i did a huge work convincing people why optimism will be the new star in the next bullrun. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.gomez.com",
+      "description": "Crypto latino1"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Data dashboards",
+      "number": "420",
+      "url": "https://www.gomez.com "
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xbe10d9b594de6f4fd52bfc9eb7845f9b9d86531fd2162ae3b72c425634eb0f89",
+  "prelimResult": "Remove",
+  "reportReason": "Link broken"
+}

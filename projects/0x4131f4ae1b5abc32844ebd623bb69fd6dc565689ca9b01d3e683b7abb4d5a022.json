@@ -1,0 +1,52 @@
+{
+  "bio": "A crypto ambassador",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Kiara pradhan",
+  "websiteUrl": "https://www.google.com",
+  "applicant": {
+    "address": {
+      "address": "0x0BAC6DBd438bE80D16137d235837A6177e2c9648",
+      "resolvedName": {
+        "address": "0x0BAC6DBd438bE80D16137d235837A6177e2c9648",
+        "name": "merwans.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x0BAC6DBd438bE80D16137d235837A6177e2c9648"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0BAC6DBd438bE80D16137d235837A6177e2c9648.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0BAC6DBd438bE80D16137d235837A6177e2c9648.png",
+    "id": "OptimistProfile|0x0809b51d55c93ac09a6a688b2413f8303dd0477c8e3966519f450b738238148d"
+  },
+  "impactDescription": "                                                                                                                                                                                                                                                                            ",
+  "contributionDescription": "                                                                                                                                                                                                                                                                                       ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/",
+      "description": "."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": ".",
+      "number": "25",
+      "url": "https://optimistic.etherscan.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4131f4ae1b5abc32844ebd623bb69fd6dc565689ca9b01d3e683b7abb4d5a022",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

@@ -1,0 +1,91 @@
+{
+  "bio": "Yearn is a decentralized suite of products that earn yield.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Yearn",
+  "websiteUrl": "https://yearn.fi/",
+  "applicant": {
+    "address": {
+      "address": "0xF6411852b105042bb8bbc6Dd50C0e8F30Af63337",
+      "resolvedName": {
+        "address": "0xF6411852b105042bb8bbc6Dd50C0e8F30Af63337",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xF6411852b105042bb8bbc6Dd50C0e8F30Af63337"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF6411852b105042bb8bbc6Dd50C0e8F30Af63337.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF6411852b105042bb8bbc6Dd50C0e8F30Af63337.png",
+    "id": "OptimistProfile|0x040ac92f5d75cbff25efb2caf03286415c2d685c1345d37de8b826350fbb8919"
+  },
+  "impactDescription": "Yearn was as high as 6th in Optimism TVL and currently 10th. TVL peaked at $31.48 million and is currently $16.23 million.\n\nWe\u2019ve distributed $OP for 23 weeks, and still have 552,865 $OP remaining. We\u2019ve been able to reach ~$1 million in TVL for every $1,000 per week in $OP incentives.\n\nYearn has been in the top 5 veVELO lockers for 13 weeks. On Base, we\u2019re currently 9th in the veAERO leaderboard. We\u2019ve created 23 LP vaults for Aerodrome on Base.\n\nWe partnered with Ethos Reserve to build on top of our single deposit Yearn Vaults.\n\nWe partnered with Coinbase on a campaign to show CB Wallet users how to use Yearn\u2019s yvWETH vault on Optimism and earn rewards.\n\nQiDao, Alchemix, VMEX, Ethos Reserve, Overnight Finance, and Resonate have built Yearn Vaults into their products.",
+  "contributionDescription": "We\u2019ve created the first single deposit, up-only vaults on Optimism. We also created Velodrome LP vaults alongside our own new oracle technology for those vaults to be used as collateral. Lastly, we built and passed Aave and Sonne strategies through our security risk framework.\n\nOur pricing oracle produces reliable pricing for both stable and volatile Velodrome pools which can then be easily extended to include pricePerShare values for vault tokens, and also includes other features such as multi-day pessimistic lookback periods and adjustable upper/lower bounds to minimize the risk to protocols adding these pools as collateral. \n\nWe\u2019ve deployed on Base too. We\u2019re locking veVELO and veAERO long term.\n\nWe\u2019ve also deployed Yearn Vaults V3 for testing on Optimism and Base.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://reports.yaudit.dev/reports/05-2023-Sonne/",
+      "description": "Sonne yAudit review, May 2023"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/dudesahn/PessimisticVelodromeLPOracle/tree/first-draft",
+      "description": "Pessimistic Velodrome LP Oracle"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Ethos Reserve Successful Vote",
+      "number": "1",
+      "url": "https://snapshot.org/#/oatheco.eth/proposal/0x843a062b8eef690a0a191cc28b9dbcb82bd923269aa8e9c0ab469a88e3022aa8"
+    },
+    {
+      "description": "Top 10 TVL",
+      "number": "10",
+      "url": "https://defillama.com/chain/Optimism"
+    },
+    {
+      "description": "OP & Base Vaults",
+      "number": "94",
+      "url": "https://yearn.fi/vaults?chains=10_8453&sortBy=tvl"
+    },
+    {
+      "description": "Dune veVELO board",
+      "number": "24",
+      "url": "https://dune.com/0xkhmer/velodrome-vevelo-leaderboard"
+    },
+    {
+      "description": "Current Users",
+      "number": "45475",
+      "url": "https://gist.github.com/dudesahn/78531fae017aeb04f4fdffbfcd6a5d98"
+    },
+    {
+      "description": "Current Users (w/o yvOP, yvWETH)",
+      "number": "6960",
+      "url": "https://gist.github.com/dudesahn/78531fae017aeb04f4fdffbfcd6a5d98"
+    },
+    {
+      "description": "Power Users, over $100k balance",
+      "number": "27",
+      "url": "https://gist.github.com/dudesahn/78531fae017aeb04f4fdffbfcd6a5d98"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000000,
+      "description": "We have been distributing $OP for 23 weeks and have ~552,800 $OP remaining. "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x644241a4eb82579d4b1b3cba47b1c54b22274d074e8b261a00be7204e4ce3ef8",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 46,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

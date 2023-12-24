@@ -1,0 +1,46 @@
+{
+  "bio": "I\u2019m into sales of automobiles and a crypto trader and airdrop hunter ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Bassytone101 ",
+  "websiteUrl": "Https://X.com/Bassytone101 ",
+  "applicant": {
+    "address": {
+      "address": "0x23e24CB272af14DeC82e205d70F88EfD17e86A8f",
+      "resolvedName": {
+        "address": "0x23e24CB272af14DeC82e205d70F88EfD17e86A8f",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x23e24CB272af14DeC82e205d70F88EfD17e86A8f"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x23e24CB272af14DeC82e205d70F88EfD17e86A8f.png",
+    "id": "OptimistProfile|0x2dc42c9b089ab5d207cc9a8ff9fb3451356b9ce97aeb885438adea6d61a2e8c9"
+  },
+  "impactDescription": "I\u2019ve brought in a large number of crypto trader into the optimism community and they\u2019ve been interacting with the project. I\u2019ve also spread the awareness of crypto security regarding optimism chain to avoid the loss of funds and assets. Many people are ignorant of cyber frauds.",
+  "contributionDescription": "I\u2019ve spent my time over the line to introduce my family members, friends and my crypto students and community to interact with optimism chain. I love the way optimism operates and I must say, it\u2019s one of the very few projects out there in the crypto space that offers the lowest gas fee for transactions.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x91923560257abc3ee3e306f00d0dee7a6195144d937ae7f88763b8f39fa4ea85",
+      "description": "Interacted with a smart contract on the network "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "158",
+      "number": "158",
+      "url": "https://X.com/bassytone101"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x24b213c497cf7fc3102747e1e69167872469e6bac5dba2070ffbad0c806bde5b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

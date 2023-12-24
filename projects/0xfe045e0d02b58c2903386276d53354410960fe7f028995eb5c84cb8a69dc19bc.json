@@ -1,0 +1,80 @@
+{
+  "bio": "Blockchain researcher focused on security and scalability.",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "donnoh.eth",
+  "websiteUrl": "https://lucadonnoh.github.io/",
+  "applicant": {
+    "address": {
+      "address": "0x33D66941465ac776C38096cb1bc496C673aE7390",
+      "resolvedName": {
+        "address": "0x33D66941465ac776C38096cb1bc496C673aE7390",
+        "name": "donnoh.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x33D66941465ac776C38096cb1bc496C673aE7390"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33D66941465ac776C38096cb1bc496C673aE7390.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x33D66941465ac776C38096cb1bc496C673aE7390.jpeg",
+    "id": "OptimistProfile|0x6e43aa88449166575d5e545f347e89afb5c70b7b6e7410a1640c2aabbbeb06bd"
+  },
+  "impactDescription": "My contributions sparked community and academic interest towards OP stack and rollup designs in general. This has led me  to heavily contribute to L2BEAT and to public debates on the topic. My DA cost analysis has helped projects analysing costs of projects deployments, for example p256 curve verification for Clave AA.",
+  "contributionDescription": "Research and analysis related to OP stack.\n\nBlogposts:\n- Data Availability: Transaction Data vs State Diffs\n- Exploring the blobspace\n- Optimism Bedrock vs Arbitrum Nitro: Deposits\n\nPeer-reviewed paper:\n- Optimistic and Validity Rollups: Analysis and Comparison between Optimism and StarkNet, published in the proceedings of 5th Distributed Ledger Technology Workshop (DLT 2023) and accepted for publication in the journal Blockchain Research and Applications.\n\nData analysis:\n- Finality metrics\n- DA costs",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://scalability.guide/",
+      "description": "Blogposts about blockchain scalability."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/lucadonnoh/optimism-data-availability-cost",
+      "description": "Calculate OP stack (Bedrock) DA cost compression."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ceur-ws.org/Vol-3460/papers/DLT_2023_paper_16.pdf",
+      "description": "Peer-reviewed paper analysing and comparing the OP stack with Starknet."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/donnoh_eth/status/1709499762540507605?s=20",
+      "description": "OP stack finality analysis."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# Views",
+      "number": "1793",
+      "url": "https://x.com/donnoh_eth/status/1707864669950542198?s=20"
+    },
+    {
+      "description": "#\u00a0Views",
+      "number": "14700",
+      "url": "https://x.com/donnoh_eth/status/1707864669950542198?s=20"
+    },
+    {
+      "description": "# academic participants",
+      "number": "150",
+      "url": "https://dltgroup.dmi.unipg.it/DLTWorkshop/dlt2023.html"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 10100,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xfe045e0d02b58c2903386276d53354410960fe7f028995eb5c84cb8a69dc19bc",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 23,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack development & research"
+}

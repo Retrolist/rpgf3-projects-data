@@ -1,0 +1,55 @@
+{
+  "bio": " Encriptados: Crypto, DeFi, L2 - Educate and empower in the digital revolution.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Encriptados",
+  "websiteUrl": "https://encriptados.substack.com/",
+  "applicant": {
+    "address": {
+      "address": "0x3a94e60a1a9d7A53765Ceb7dc73880BDB48eE4d0",
+      "resolvedName": {
+        "address": "0x3a94e60a1a9d7A53765Ceb7dc73880BDB48eE4d0",
+        "name": "fabiancripto.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3a94e60a1a9d7A53765Ceb7dc73880BDB48eE4d0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3a94e60a1a9d7A53765Ceb7dc73880BDB48eE4d0.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3a94e60a1a9d7A53765Ceb7dc73880BDB48eE4d0.png",
+    "id": "OptimistProfile|0x892263d7565e1cf469c9b7a07a86ea60c96fdf2c97a3a8cb726b7b04bf6bb11c"
+  },
+  "impactDescription": "When publishing, uploading or writing articles about Optimism, L2, RetroPGF and others, the content can reach more people than the newsletter can reach. This information, being in a newsletter, can be transformed into a Twitter thread and thus share more information and reach many more people.",
+  "contributionDescription": "Our newsletter focuses on Optimism and its governance, providing key information about L2 solutions. Our purpose is to educate and guide a wider audience on the Optimism ecosystem and the overall concept of L2. We seek to be a trusted source of knowledge in the community, fostering a deeper understanding of how Optimism improves the scalability of Ethereum and how L2 impacts the blockchain ecosystem at large. Our mission is to ensure that community members are informed and empowered to participate in this exciting technological development, driving the adoption of scalability solutions like Optimism and promoting decentralized governance",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://encriptados.substack.com/",
+      "description": "For the moment we have not donated to other campaigns."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": "330",
+      "url": "https://encriptados.substack.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 20,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xca1b1b89ca509130a9d710edc317a80878be71dae686786d5b6956653db342ef",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 30,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

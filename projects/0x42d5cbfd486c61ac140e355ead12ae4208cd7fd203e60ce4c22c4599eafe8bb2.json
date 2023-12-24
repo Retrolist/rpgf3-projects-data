@@ -1,0 +1,53 @@
+{
+  "bio": "Learning makes you know more",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "BMokobombang (Profil) ",
+  "websiteUrl": "https://x.com/BMokobomang2?t=OlGvRUlZvAX3z2e3CrYPiw&s=09",
+  "applicant": {
+    "address": {
+      "address": "0x7A311966Bf3CFdC638Ab2adeF677bCD554aB99a9",
+      "resolvedName": {
+        "address": "0x7A311966Bf3CFdC638Ab2adeF677bCD554aB99a9",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x7A311966Bf3CFdC638Ab2adeF677bCD554aB99a9"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7A311966Bf3CFdC638Ab2adeF677bCD554aB99a9.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xfcf356e20cacd2fe7fabf05dbc77268c2493e12b287e458f55b09f164d1d0c7c"
+  },
+  "impactDescription": "The impact of my contribution is carrying out transactions on the Optimism Network. I think that is one contribution, apart from that, I also often support it by following and sharing news from Optimism.Hopefully Optimism is more advanced and can compete with big projects",
+  "contributionDescription": "My contribution is that I have made transactions on the Optimism Network. Apart from that, I have also followed the Optimism social media account because I really like the Optimism Network. Apart from the cheap fees, the Optimism Network is also good for making transactions.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x7A311966Bf3CFdC638Ab2adeF677bCD554aB99a9",
+      "description": "Optimism Scan"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#Optimism",
+      "number": "1",
+      "url": "https://twitter.com/BMokobomang2/status/1715063593941774392?t=ssMGA3khK9xjJF8thCdtyQ&s=19"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2,
+      "description": "Live AID"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x42d5cbfd486c61ac140e355ead12ae4208cd7fd203e60ce4c22c4599eafe8bb2",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,293 @@
+{
+  "bio": "ITB launched analytics for Optimism, Base, and projects building on the OP Stack",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "IntoTheBlock Optimism Analytics",
+  "websiteUrl": "https://app.intotheblock.com/",
+  "applicant": {
+    "address": {
+      "address": "0x3f9125a7FDF7F379b9fD6d03931E8057fA7a5a06",
+      "resolvedName": {
+        "address": "0x3f9125a7FDF7F379b9fD6d03931E8057fA7a5a06",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3f9125a7FDF7F379b9fD6d03931E8057fA7a5a06"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3f9125a7FDF7F379b9fD6d03931E8057fA7a5a06.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3f9125a7FDF7F379b9fD6d03931E8057fA7a5a06.png",
+    "id": "OptimistProfile|0x6cf4935c2cb802f9dde01ac893c33e50ce67a2a3e013f08f45a2735594e0b159"
+  },
+  "impactDescription": "IntoTheBlock (ITB) has built analytics for 30+ projects building on top of Optimism mainnet and Base. These indicators include key metrics regarding network activity, performance and overall activity. By offering these metrics and promoting them we have helped create both retail and institutional demand for Optimism, receiving positive feedback and users looking to contribute to the Optimism collective.\nIntoTheBlock has extensively shared Optimism research through marketing avenues. IntoTheBlock\u2019s research team conducted two webinars focused on the Optimism and Base ecosystems with hundreds of attendees. Several indicators regarding Optimism were shared in the ITB newsletter with 30k+ subscribers. Multiple tweets about Optimism were shared with ITB\u2019s audience of\u00a050k+\u00a0followers.",
+  "contributionDescription": "Earlier this year, IntoTheBlock (ITB) added Optimism to its analytics platform. The release included analytics for Optimism, Base, and related Op Stack projects. Specifically, ITB Optimism analytics include over 50+ indicators covering 30+ Optimism-native tokens. \nITB\u2019s investment for incorporating Optimism into its platform was approximately $490,000 including infrastructure, engineering, research and marketing resources:\n\u25cf\tData infrastructure and the ETL pipelines to index the Optimism blockchain. \n\u25cf\tComputation infrastructure used to calculate the indicators regularly. \n\u25cf\tEngineering resources required to build the data, analytics, APIs and frontend interfaces. \n\u25cf\tResearch resources used to model the indicators. \n\u25cf\tMarketing resources used to regularly publish\u00a0content.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/ETH/optimism/quick-view",
+      "description": "Ethereum: Optimism Mainnet metrics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/ETH/base/quick-view",
+      "description": "Ethereum: Base metrics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/USDC/optimism",
+      "description": "USDC: Optimism Mainnet metrics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/USDC/base",
+      "description": "USDC: Base metrics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/USDT/optimism",
+      "description": "USDT: Optimism metrics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/OP",
+      "description": "OP token metrics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/SNX/optimism",
+      "description": "SNX: Optimism metrics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/SUSD/optimism",
+      "description": "SUSD: Optimism metrics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/VELO",
+      "description": "Velodrome metrics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/KWENTA",
+      "description": "Kwenta metrics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/USD+",
+      "description": "USD+ metrics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/SONNE",
+      "description": "Sonne metrics (on Optimis)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/EXTRA",
+      "description": "Extra Finance metrics (Optimism and Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/BEETS",
+      "description": "Beethoven X metrics (On Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/CBETH",
+      "description": "cbETH metrics (On Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/WLD/optimism",
+      "description": "Worldcoin metrics (on Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/LINK/optimism",
+      "description": "Chainlink metrics (on Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/AAVE/optimism",
+      "description": "Aave metrics (on Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/LDO/optimism",
+      "description": "Lido metrics (on Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/UNI/optimism",
+      "description": "Uniswap metrics (on Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/CRV/optimism",
+      "description": "Curve metrics (on Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/BAL/optimism",
+      "description": "Balancer metrics (on Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/BAL/base",
+      "description": "Balancer metrics (on Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/DAI/base",
+      "description": "DAI metrics (on Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/COMP/base",
+      "description": "Compound metrics (on Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/WBTC/optimism",
+      "description": "WBTC metrics (on Oprimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/TBTC/optimism",
+      "description": "TBTC metrics (on Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/TBTC/base",
+      "description": "TBTC metrics (on Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/T/base",
+      "description": "Threshold Network metrics (on Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/SYN/optimism",
+      "description": "Synapse metrics (on Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/EXA",
+      "description": "Exactly metrics (on Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/KNC/optimism",
+      "description": "Kyber metrics (on Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/DHT/optimism",
+      "description": "dHedge metrics (on Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/BSWAP",
+      "description": "BaseSwap metrics (on Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/STG/base",
+      "description": "Stargate metrics (on Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/ALB",
+      "description": "Alien Base metrics (on Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/RCKT",
+      "description": "RocketSwap metrics (on Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/KRAV",
+      "description": "KRAV metrics (on Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/DACKIE",
+      "description": "DackieSwap metrics (on Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/PRIME",
+      "description": "Echelon Prime metrics (on Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/MIM/base",
+      "description": "MIM metrics (On Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/MBS",
+      "description": "Monkey League metrics (on Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.intotheblock.com/coin/TOSHI",
+      "description": "Toshi metrics (on Base)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Optimism Analytics Monthly Active Users",
+      "number": "66000",
+      "url": "https://app.intotheblock.com/"
+    },
+    {
+      "description": "ITB Optimism Indicators",
+      "number": "50",
+      "url": "https://app.intotheblock.com/coin/ETH/optimism/quick-view"
+    },
+    {
+      "description": "Number of Optimism-Based Assets",
+      "number": "28",
+      "url": "https://app.intotheblock.com/coin/ETH/optimism/quick-view"
+    },
+    {
+      "description": "ITB Base Indicators",
+      "number": "50",
+      "url": "https://app.intotheblock.com/coin/ETH/base/quick-view"
+    },
+    {
+      "description": "Number of Base Assets ",
+      "number": "24",
+      "url": "https://app.intotheblock.com/coin/ETH/base/quick-view"
+    },
+    {
+      "description": "ITB Twitter followers",
+      "number": "51500",
+      "url": "https://twitter.com/intotheblock"
+    },
+    {
+      "description": "ITB Optimism webinar attendees",
+      "number": "301",
+      "url": "https://www.youtube.com/watch?v=4oPtK5v7yZY"
+    },
+    {
+      "description": "ITB Base webinar attendees",
+      "number": "208",
+      "url": "https://www.youtube.com/watch?v=nPzwdWNprkM"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7eb64cd4bd3b28fd36029377d136948aa74a5ca126df2e165574c736182267ff",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 13,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

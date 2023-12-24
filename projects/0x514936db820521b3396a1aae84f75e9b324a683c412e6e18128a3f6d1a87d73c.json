@@ -1,0 +1,46 @@
+{
+  "bio": "Optimism divulgator.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "simar92",
+  "websiteUrl": "https://optimism.io",
+  "applicant": {
+    "address": {
+      "address": "0x6Fa18ef1d54a967A8451465b1bE689E54d5Cfb30",
+      "resolvedName": {
+        "address": "0x6Fa18ef1d54a967A8451465b1bE689E54d5Cfb30",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6Fa18ef1d54a967A8451465b1bE689E54d5Cfb30"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6Fa18ef1d54a967A8451465b1bE689E54d5Cfb30.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x1853cc68f1c6acdba0f11d26977964b26f01727d9702a949a12c071942b5d75f"
+  },
+  "impactDescription": "Helping people and communities to understand how Optimism addresses Ethereum's scalability challenges and reason-why to choose Optimism compared to other L2.\nCommunities include universities in Rome (NABA academy, Roma Tre University), online Discord communities and friends.\nThanks to my approach I introduced dozens of new users into the Optimism Collective.",
+  "contributionDescription": "Helping people and communities to understand how Optimism addresses Ethereum's scalability challenges and reason-why to choose Optimism compared to other L2.\nCommunities include universities in Rome (NABA academy, Roma Tre University), online Discord communities and friends.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/op-analytics",
+      "description": "Onchain Data, Utilities, References, and other Analytics on Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Onchain Data, Utilities, References",
+      "number": "1",
+      "url": "https://github.com/ethereum-optimism/op-analytics"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x514936db820521b3396a1aae84f75e9b324a683c412e6e18128a3f6d1a87d73c",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

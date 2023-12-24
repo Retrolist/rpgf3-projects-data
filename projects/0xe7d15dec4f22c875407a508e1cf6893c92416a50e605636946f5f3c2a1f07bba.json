@@ -1,0 +1,52 @@
+{
+  "bio": "linktr.ee/valenzuelajonathan093",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Jony05",
+  "websiteUrl": "https://discord.com/invite/YsnTPcSfWQ",
+  "applicant": {
+    "address": {
+      "address": "0xc970950185e8a0b62aD29d79518387b73257Ee44",
+      "resolvedName": {
+        "address": "0xc970950185e8a0b62aD29d79518387b73257Ee44",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xc970950185e8a0b62aD29d79518387b73257Ee44"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x8dc0a57f2fcb3151ed14c50b2ce3098ea2c5750d3d6a188df3a7921356605bc8"
+  },
+  "impactDescription": "You should expect to sign the following message when prompted by a non-custodial wallet such as MetaMask:\n```\nasks you to sign this message for the purpose of verifying your account ownership. This is READ-ONLY access and will NOT trigger any blockchain transactions or incur any fees.\n\n\n- \n```\n**Make sure you sign the EXACT message (some wallets may use `\\n` for new lines) and NEVER share your seed phrase or private key.**",
+  "contributionDescription": "You should expect to sign the following message when prompted by a non-custodial wallet  asks you to sign this message for the purpose of verifying your account ownership. This is READ-ONLY access and will NOT trigger any blockchain transactions or incur any \n\n```\n**Make sure you sign the EXACT message (some wallets may use `\\n` for new lines) and NEVER share your seed phrase or private key",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://discord.com/invite/YsnTPcSfWQ",
+      "description": "Exch"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "4.2e+39",
+      "url": "https://discord.com/invite/YsnTPcSfWQ"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe7d15dec4f22c875407a508e1cf6893c92416a50e605636946f5f3c2a1f07bba",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

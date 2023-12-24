@@ -1,0 +1,48 @@
+{
+  "bio": " My name is Denis. An active cryptocurrency investor",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "deni80",
+  "websiteUrl": "https://www.youtube.com/channel/UC12n3rW9aLkT2jbaduZ765Q",
+  "applicant": {
+    "address": {
+      "address": "0x73c6E20e8438CbcFed3A7bBB322e0B1af2B5bC27",
+      "resolvedName": {
+        "address": "0x73c6E20e8438CbcFed3A7bBB322e0B1af2B5bC27",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x73c6E20e8438CbcFed3A7bBB322e0B1af2B5bC27"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xfc89b3397423e134c6a2c29f02505039c4352ef4c810268574c93ea42342d041"
+  },
+  "impactDescription": "The content I create will attract many new users to the project. My videos about the project and other promotional materials will be posted on my personal YouTube channel, other social networks, as well as other popular platforms dedicated to cryptocurrencies",
+  "contributionDescription": " I write excellent articles on various topics, including cryptocurrency assets. Creating videos, writing articles, attracting new users, promoting the project on social networks. I have my own YouTube channel for earning money on the cryptocurrency market: https://www.youtube.com/channel/UC12n3rW9aLkT2jbaduZ765Q\nI have a great desire to participate in the development of your project, because I see huge prospects for a project in the future that benefits people. My skills and experience in moderating various projects, promoting content (website, project, etc.), creating articles and videos, and being able to attract referrals will certainly help your project become more successful and competitive\n\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.youtube.com/channel/UC12n3rW9aLkT2jbaduZ765Q",
+      "description": "https://www.youtube.com/channel/UC12n3rW9aLkT2jbaduZ765Q"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#cryptocurrency",
+      "number": "1",
+      "url": "https://www.youtube.com/watch?v=bHwAoIg2XMk&t=60s"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x0b7647cfc44084111007fd606f77f660c50d31ef202cfc4e537cc79606acf3e8",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

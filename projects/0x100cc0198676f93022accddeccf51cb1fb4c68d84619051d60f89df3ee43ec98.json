@@ -1,0 +1,52 @@
+{
+  "bio": "Hardwork never betray you",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Benedictus Aldo",
+  "websiteUrl": "https://twitter.com/benedictusaldo_",
+  "applicant": {
+    "address": {
+      "address": "0xa22Af02d999f33cc7d02726881D2ccD7Bd1b6383",
+      "resolvedName": {
+        "address": "0xa22Af02d999f33cc7d02726881D2ccD7Bd1b6383",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa22Af02d999f33cc7d02726881D2ccD7Bd1b6383"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa22Af02d999f33cc7d02726881D2ccD7Bd1b6383.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa22Af02d999f33cc7d02726881D2ccD7Bd1b6383.png",
+    "id": "OptimistProfile|0x3a27d4cf048cc04ec338e3e5610b54e1eac4ffd4989fe1ca419c9baf8ca9140c"
+  },
+  "impactDescription": "my friend got interested on this project, so that we can work together to make this project bigger and more of my to become work on this project too. hope this RetroPGF Round 3 could be done so smoothly so our comunity can enjoy and happy about this project. thankyou",
+  "contributionDescription": "i have already done top uping ETH Optimism so i can work on this project. i do some swapping my ETH Optimism to Optimism token. i already receive the token. i do some work to invite my friend too, to work on this project so this project could done so well.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xd681bbe8b8608e76cb2f18cadbb44ccf3a0465cc1a6f3920d011f8260e6cc6e2",
+      "description": "this is some of my transaction"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "My Trancsactions",
+      "number": "0",
+      "url": "https://optimistic.etherscan.io/tx/0xd681bbe8b8608e76cb2f18cadbb44ccf3a0465cc1a6f3920d011f8260e6cc6e2"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 5,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x100cc0198676f93022accddeccf51cb1fb4c68d84619051d60f89df3ee43ec98",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

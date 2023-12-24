@@ -1,0 +1,65 @@
+{
+  "bio": "We manually curate high quality Web3 contents published at Mirror.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Mirror Curator DAO",
+  "websiteUrl": "https://t.me/mirror_curator_dao",
+  "applicant": {
+    "address": {
+      "address": "0xd35C826BF2bEd9a6a448A184026199B500D60514",
+      "resolvedName": {
+        "address": "0xd35C826BF2bEd9a6a448A184026199B500D60514",
+        "name": "0xmcdao.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xd35C826BF2bEd9a6a448A184026199B500D60514"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd35C826BF2bEd9a6a448A184026199B500D60514.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x5134691d5c91ba460ace05757508911b2f7b96b8161a1a527d442d3e5f84f66a"
+  },
+  "impactDescription": "MC DAO is a valuable asset to the Mirror community. By providing benefits to 1,865 subscribers and onboarding them to Mirror, MC DAO is helping to grow the Mirror user base. Additionally, MC DAO's work has an indirect impact on onboarding new users to Optimism, as Mirror is the most active Web3 content platform on Optimism.",
+  "contributionDescription": " Current state of information distribution is heavily reliant on algorithms and they may lead to the spread of misinformation and the suppression of valuable content. By manually curating Web3 contents published on Mirror, MC DAO is able to ensure that readers are exposed to high-quality content that is likely to be of interest to them. This is a valuable service that can help to improve the overall quality of information that is available online.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/mirror_curator_dao",
+      "description": "It's used for sharing our curation."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1_GLghm3POQnWopJU7IsbiIZg4WtWzwpBbJEi3am32_c/edit?usp=sharing",
+      "description": "We develop a google sheet script for fetching Mirror articles information"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "subscribers",
+      "number": "1865",
+      "url": "https://telemetr.io/en/channels/1598301326-mirror_curator_dao"
+    },
+    {
+      "description": "views per post",
+      "number": "696",
+      "url": "https://telemetr.io/en/channels/1598301326-mirror_curator_dao"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 40000,
+      "description": "we once received around 40000 USD grants from the gitcoin grants program."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa5513f8a78e872f5e4ddd2b47224cff11fc6dc0936c52975aa28b39f039a6414",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 13,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

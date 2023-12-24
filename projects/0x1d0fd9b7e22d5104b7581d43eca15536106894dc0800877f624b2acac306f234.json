@@ -1,0 +1,70 @@
+{
+  "bio": "I create dashboards, tools, and content to make web3 data easier to navigate.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Andrew Hong (ilemi)",
+  "websiteUrl": "https://web3datadegens.substack.com/",
+  "applicant": {
+    "address": {
+      "address": "0x2Ae8c972fB2E6c00ddED8986E2dc672ED190DA06",
+      "resolvedName": {
+        "address": "0x2Ae8c972fB2E6c00ddED8986E2dc672ED190DA06",
+        "name": "ilemi.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2Ae8c972fB2E6c00ddED8986E2dc672ED190DA06"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ae8c972fB2E6c00ddED8986E2dc672ED190DA06.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x2499df1675cf89ff5334bc1da18e24e277a24f5eabed3b6ff23f5ebea646dc44"
+  },
+  "impactDescription": "My work sits completely on the education side. I believe that my dashboards and guides help hundreds of analysts and devrel/bizdev/marketing/pm folks better understand and navigate the onchain ecosystems. \n\nIt's hard to quantify my impact, but I do know from word of mouth and testimonials that the work has benefited many inside and outside the OP Collective ecosystem.",
+  "contributionDescription": "Between the last round and this round, my main contribution relevant to Optimism is creating a multi-chain tracker of all ERC standards. This makes it easier for everyone to understand what an ERC is, and find trending examples of it on any chain.\n\nFor example, I believe people have used my dashboard to track down newer ERCs like ERC4337 and ERC6551. For some ERCs like ERC4337, I've done deeper data dives and explanations.\n\nOn top of that, I've gone to lengths to explain to people advanced data patterns as well as the modular stack. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/ilemi/erc-and-eip-starter-kit",
+      "description": "All ERC Tracker"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://web3datadegens.substack.com/p/d14919c0-bfb0-4a68-9031-2f5b70c685de",
+      "description": "ERC4337 Explainer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://web3datadegens.substack.com/p/advanced-wizard-guide-to-dune-sql",
+      "description": "Advanced Crypto Analytics Guide (10 pages)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://web3datadegens.substack.com/p/the-future-of-transactions-for-dummies",
+      "description": "Modular Stack for Dummies (10 pages)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Stars",
+      "number": "271",
+      "url": "https://dune.com/ilemi/erc-and-eip-starter-kit"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 9600,
+      "description": "For web3 data degens past work"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x1d0fd9b7e22d5104b7581d43eca15536106894dc0800877f624b2acac306f234",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 38,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

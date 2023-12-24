@@ -1,0 +1,52 @@
+{
+  "bio": "Great",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Gabriel ",
+  "websiteUrl": "https://app.optimism.io/profile/rpgf-application/impact-statement",
+  "applicant": {
+    "address": {
+      "address": "0xB65dE60cF2B0F10742Ee1E73142AA69aBc7f74de",
+      "resolvedName": {
+        "address": "0xB65dE60cF2B0F10742Ee1E73142AA69aBc7f74de",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xB65dE60cF2B0F10742Ee1E73142AA69aBc7f74de"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x882d95170fccc54ab9ddb3541fea05dba403631b204b9a36688e5b464e234a65"
+  },
+  "impactDescription": "Very strony projectThis part of your application helps badgeholders understand how your work has benefitted the Optimism Collective. We strongly encourage you spend time going into detail here.\nWork that provided impact to governance participants of the Optimism Collective, or helped bring new governance participants into the Collective",
+  "contributionDescription": "Evrynody greatHighlight metrics to help badgeholders understand your impact. You can link to data dashboards, onchain contracts, spreadsheets, or any resources.This part of your application helps badgeholders understand how your work has benefitted the Optimism Collective. We strongly encourage you spend time going into detail here.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement",
+      "description": "12"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "128 robotyk",
+      "number": "463",
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x262452b5c368e43dd22b88f9a75e4c60bb893ed2974e2d8ccaa013bd1fd1d445",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

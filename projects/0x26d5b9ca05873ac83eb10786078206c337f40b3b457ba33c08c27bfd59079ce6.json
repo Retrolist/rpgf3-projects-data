@@ -1,0 +1,55 @@
+{
+  "bio": "Hardworker",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "METE DAMLI",
+  "websiteUrl": "https://none",
+  "applicant": {
+    "address": {
+      "address": "0x8fBFD3faBD443334B6f413b5931477d4DeBEAFa9",
+      "resolvedName": {
+        "address": "0x8fBFD3faBD443334B6f413b5931477d4DeBEAFa9",
+        "name": "metedamli.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8fBFD3faBD443334B6f413b5931477d4DeBEAFa9"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8fBFD3faBD443334B6f413b5931477d4DeBEAFa9.jpeg",
+    "id": "OptimistProfile|0x3bea65458aeaa6eb38880e96cc471542877857dd2ec0bc6032402803cf6015bc"
+  },
+  "impactDescription": "Donated OP projects Gitcoin Grants 18, voted snapshots, trying to be online in discord to help people claimed airdrop 1 but unluckly lost my all OP tokens about (270+) to hackers by phishing. It was 380$ value.. \nmy wallet adress is : 0x8fBFD3faBD443334B6f413b5931477d4DeBEAFa9 ",
+  "contributionDescription": "Airdrop 1 claimed. Donated gitcoin for OP projects. Delegated and voted snapshots. Trying to be online in discord to help people   Unluckly my all OP tokens stole by phishing 2 days ago. My wallet adress is : 0x8fBFD3faBD443334B6f413b5931477d4DeBEAFa9 you can see there my all OP tokens gone.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.gitcoin.co/",
+      "description": "Donated OP projects Gitcoin Grants 18"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Gitcoin Grants 18",
+      "number": "1",
+      "url": "https://gitcoin.co"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5,
+      "description": "Gitcoin GG18 "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x26d5b9ca05873ac83eb10786078206c337f40b3b457ba33c08c27bfd59079ce6",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

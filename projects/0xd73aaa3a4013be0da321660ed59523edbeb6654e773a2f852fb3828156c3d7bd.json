@@ -1,0 +1,54 @@
+{
+  "bio": "Airstack: The easiest way to integrate everything web3",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Airstack",
+  "websiteUrl": "https://airstack.xyz",
+  "applicant": {
+    "address": {
+      "address": "0xeaf55242a90bb3289dB8184772b0B98562053559",
+      "resolvedName": {
+        "address": "0xeaf55242a90bb3289dB8184772b0B98562053559",
+        "name": "betashop.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xeaf55242a90bb3289dB8184772b0B98562053559"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeaf55242a90bb3289dB8184772b0B98562053559.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x06466374d09968a7c7028cddb43a65295fa6efa0e6cdee08b632573af476af28"
+  },
+  "impactDescription": "Airstack APIs enables developers to easily create Farcaster applications and integrate Farcaster with the broader Ethereum ecosystem. For example, at ETH NYC in September 2023, 25 teams used Airstack to build apps that combined data from Farcaster, Lens, XMTP, NFTs, POAPs and more.",
+  "contributionDescription": "Airstack provides AI-powered APIs for searching across blockchains, dapps, and protocols and easily integrating into any application. \n\nAirstack is rapidly becoming go-to middleware for web3 ecosystems such as XMTP, Lens, Farcaster, 6551, POAPs, NFTs, and Mar-Tech. The company's AI-powered APIs uniquely enable devs to integrate cross-chain, cross-dapp, cross-protocol -- enabling composability and saving devs months of work and costs. Before Airstack devs would have to learn each protocol and keep up with their contracts, reorgs, versions and build backends to ingest their data; with Airstack they literally just plug-and-play APIs and keep moving. \n\nIn Q3 2023 Airstack extended its capabilities to Farcaster/Optimism and Base blockchains. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.airstack.xyz",
+      "description": "Airstack AI Search & APIs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/resolve-farcaster-users",
+      "description": "Get onchain data for all Farcaster users on Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "API calls/month",
+      "number": "500000000",
+      "url": "https://app.airstack.xyz"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd73aaa3a4013be0da321660ed59523edbeb6654e773a2f852fb3828156c3d7bd",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 34,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

@@ -1,0 +1,89 @@
+{
+  "bio": "A decentralized monitoring, reporting and verification (dMRV) system.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "dMeter",
+  "websiteUrl": "http://dmeter4dmrv.org/",
+  "applicant": {
+    "address": {
+      "address": "0xdAbfe7fcfC45549eb5CA56a1686F18c11520eE34",
+      "resolvedName": {
+        "address": "0xdAbfe7fcfC45549eb5CA56a1686F18c11520eE34",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xdAbfe7fcfC45549eb5CA56a1686F18c11520eE34"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xdAbfe7fcfC45549eb5CA56a1686F18c11520eE34.png",
+    "id": "OptimistProfile|0x16726078eb3242e2bf94e1fd74a5bf9e45d11fd2818f3efe6713c47aaae67d42"
+  },
+  "impactDescription": "Through dMeter we have channeled over 50k dollars\u2019 worth of funding to open source coders creating a decentralized monitoring, reporting and verification (dMRV) system. This system has already been used by projects on the ground doing regenerative work and has plans to expand globally. By creating these mechanisms, we can further empower the Optimism tech stack for monitoring the profound impact public good funding has and the cascading benefits that result from it. The initlal codebases we have created, such as Code Connect and data claim resolution NFT, further empower Optimism\u2019s tech stack for the use of regenerative finance projects.  ",
+  "contributionDescription": "To empower open source coders, Base offers initial contracts, and Code Connect helps onboard relevant methodologies for regenerative finance into Optimism. By incorporating decentralized monitoring, reporting, and verification (dMRV) of regenerative actions, such as tree planting for clean air, into Optimism, we support our goal of funding public good and enhance understanding of the technology's benefits. Connected methods are analyzed and stored in a data claim resolution NFT, designed for Filecoin's tech stack. Throughout development, we adhere to international standards like the Ecological Benefits Framework. Recently, we conducted a real-life dMRV trial for a land regeneration organization using a specialized tech stack from Athena Protocol, later with Althea connectivity devices.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "http://dmeter4dmrv.org/",
+      "description": "Our organizational website. "
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/orgs/dMeter4dMRV/",
+      "description": "The organizational Github repository. Code related to dMeter is stored here. "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x5cef0380ce0ad3daeefef8bdb85dbded7965adf9#code",
+      "description": "This is the contract deployed on Base for Code Connect"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Fund Open Source Development (USD $)",
+      "number": "150000",
+      "url": "https://app.safe.global/transactions/history?safe=matic:0x87A5435A92d23086a6933eBC31C38a2E76dBaf5c"
+    },
+    {
+      "description": "In Real Life Pilot Project",
+      "number": "1",
+      "url": "https://ogallala.life/"
+    },
+    {
+      "description": "Awards Won",
+      "number": "1",
+      "url": "https://devpost.com/software/open-trees"
+    },
+    {
+      "description": "Discord Members",
+      "number": "149",
+      "url": "https://discord.gg/HfBhJUQkFy"
+    },
+    {
+      "description": "Twitter Followers",
+      "number": "400",
+      "url": "https://twitter.com/dMeter4dmrv"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 75000,
+      "description": "From past Gitcoin rounds donated by different organizations."
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 99999,
+      "description": "Filecoin Green Grant"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x15c5bbe5af925ea24ed6d23a492b6b5e4945abf3091cd7eded6dd22be8fb31e4",
+  "prelimResult": "Remove",
+  "reportReason": "Doesn't seem to relate to Optimism"
+}

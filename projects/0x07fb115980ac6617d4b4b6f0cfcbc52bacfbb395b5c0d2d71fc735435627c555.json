@@ -1,0 +1,103 @@
+{
+  "bio": "An R&D-focused DAO dedicated to providing support for valuable Web3 public goods",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "LXDAO",
+  "websiteUrl": "https://lxdao.io/",
+  "applicant": {
+    "address": {
+      "address": "0xC3d7F926e57Ff06e465823b100b95408e805DfA2",
+      "resolvedName": {
+        "address": "0xC3d7F926e57Ff06e465823b100b95408e805DfA2",
+        "name": "lxdao.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xC3d7F926e57Ff06e465823b100b95408e805DfA2"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3d7F926e57Ff06e465823b100b95408e805DfA2.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xC3d7F926e57Ff06e465823b100b95408e805DfA2.png",
+    "id": "OptimistProfile|0x7cf76255bf3a7e5621c329238e8ee15c97f4253e7846d4cbf563e70361edaa3e"
+  },
+  "impactDescription": "Membership: We currently have 135 registered members, most are public goods developers.\n\nGovernance: We have supported the sustainability of Web3 builders through governance mechanisms that have enabled the creation of many great public goods.\n\nPublic Goods Building: We've made public goods accessible to many users through our product development and events, and in the past year we've created more than 14 public good projects that have helped bring attention to the public goods space and Ethereum and Optimism.\n\nEducation and Awareness: We have organized many public goods-related events such as hacker-house, space, and podcasts, and have attracted over 10,000 people to the public goods space.",
+  "contributionDescription": "LXDAO is an R&D-focused DAO in Web3, LXDAO supports valuable public goods and open-source products in a sustainable way.\n\nLXDAO has played a pivotal role in creating awareness and accelerating the understanding and adoption of Optimism and public goods across Web3 buidlers.\n\nThrough a set of onboarding mechanisms with contribution value as the threshold, LXDAO has attracted a lot of people who are concerned about public goods to join LXDAO.\n\nThrough governance and efficient R&D processes, we have supported many public goods, and we will attract more people to focus on the public goods field and continue to contribute to the public goods field.\n\nWe are committed to solving the problem of unsustainable public goods development and supporting public goods developers.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1SZp8DhSM83k3i-_Hy0Uh6bt_q6FBvxRF8mMujXPKUmc/edit#gid=0",
+      "description": "LXDAO Optimism impact tacker"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://forum.lxdao.io/",
+      "description": "Forum (2.9k posts)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://lxdao.io/projects",
+      "description": "LXDAO Projects"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/lxdao-official",
+      "description": "LXDAO GitHub"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://snapshot.org/#/lxdao.eth",
+      "description": "Snapshot"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.lxdao.io/",
+      "description": "Discord"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Registered Public Goods buidlers",
+      "number": "218",
+      "url": "https://lxdao.io/buidlers"
+    },
+    {
+      "description": "Number of Projects",
+      "number": "15",
+      "url": "https://lxdao.io/projects"
+    },
+    {
+      "description": "Twitter Follower",
+      "number": "3500",
+      "url": "https://twitter.com/LXDAO_Official"
+    },
+    {
+      "description": "WeChat Official Account",
+      "number": "2717",
+      "url": "https://mp.weixin.qq.com/s/csaGPWK44aOcwmJAeE16KA"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 200000,
+      "description": "Self-financing from co-initiators, and run out"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 300000,
+      "description": "Seed round funding was received from Angel, but not enough sustain"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x07fb115980ac6617d4b4b6f0cfcbc52bacfbb395b5c0d2d71fc735435627c555",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 40,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

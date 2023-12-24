@@ -1,0 +1,76 @@
+{
+  "bio": "Insightful Content, Latest News and Analytics for the #Optimism $OP Community! ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "OptimismGuru",
+  "websiteUrl": "https://twitter.com/GuruOptimism",
+  "applicant": {
+    "address": {
+      "address": "0x3745c2468ab08e2038689f508C78d682864Aa72b",
+      "resolvedName": {
+        "address": "0x3745c2468ab08e2038689f508C78d682864Aa72b",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3745c2468ab08e2038689f508C78d682864Aa72b"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3745c2468ab08e2038689f508C78d682864Aa72b.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3745c2468ab08e2038689f508C78d682864Aa72b.png",
+    "id": "OptimistProfile|0xf517c7fc4a3c70c2ad731efc419e8cf700c654f4b2c6e6622c2f0c48d4f922e0"
+  },
+  "impactDescription": "-Raised awareness for OP Stack\n-Assisted in onboarding new users and keeping them informed\n-Presented on-chain tools\n-Monitored security-related news and alerted the community\n-Promoted the bedrock upgrade\n-Advocated for the emergence of BASE\n-Promoted Optimism-related podcasts\n\nApart from the stated contributions above, we have connected with the communities of university students in Bogazici University, ITU and Marmara University in Turkey and raised awareness about blockchain and Optimism network. We don't have a tangible proof of this contribution but some of the students participated in the blockchain clubs in their schools, some of them invested in the chain and some of them started working with us in the blockchain community management field!",
+  "contributionDescription": "We believe we've made the following contributions:\n\n-Raised awareness for OP Stack\n-Assisted in onboarding new users and keeping them informed\n-Presented on-chain tools\n-Monitored security-related news and alerted the community\n-Promoted the bedrock upgrade\n-Advocated for the emergence of BASE\n-Promoted Optimism-related podcasts\n\nOptimismGuru was founded one year ago. At that time, Optimism stood out as one of the most promising chains, but it lacked the number of users it deserved. The Layer2 concept was new, and people approached it cautiously. Market conditions were also unfavorable, but another critical factor was the absence of centralized information sources.\n\nOptimismGuru was created to provide consistent and reliable information to users, accelerating the onboarding process.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/GuruOptimism",
+      "description": "Our Twitter account displays all of our tweets."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://analytics.twitter.com/user/GuruOptimism/tweets",
+      "description": "Analytics page for our account"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total Tweet Views",
+      "number": "412300",
+      "url": "https://analytics.twitter.com/user/GuruOptimism/tweets"
+    },
+    {
+      "description": "Total Tweet Interactions",
+      "number": "21800",
+      "url": "https://analytics.twitter.com/user/GuruOptimism/tweets"
+    },
+    {
+      "description": "Total Likes",
+      "number": "6800",
+      "url": "https://analytics.twitter.com/user/GuruOptimism/tweets"
+    },
+    {
+      "description": "Tweets Per Day (For 1 year)",
+      "number": "3.7",
+      "url": "https://analytics.twitter.com/user/GuruOptimism/tweets"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 2144,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe03bb6d607d46c6b70536ae7c0b1fc819c0ed128a5b2ea6ffc63a4d3d9b49786",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 8,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

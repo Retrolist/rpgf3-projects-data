@@ -1,0 +1,236 @@
+{
+  "bio": "Bringing positive-sum, regenerative digital systems to the world",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "GreenPill Network",
+  "websiteUrl": "https://greenpill.network/",
+  "applicant": {
+    "address": {
+      "address": "0x2d4b4F032d180D187359D51430a88870e34B0Aa4",
+      "resolvedName": {
+        "address": "0x2d4b4F032d180D187359D51430a88870e34B0Aa4",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2d4b4F032d180D187359D51430a88870e34B0Aa4"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2d4b4F032d180D187359D51430a88870e34B0Aa4.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2d4b4F032d180D187359D51430a88870e34B0Aa4.png",
+    "id": "OptimistProfile|0x18f0cca730db75aac55537b7a2b2c8dbfbe20a55236a3b4973182c94fb817fcd"
+  },
+  "impactDescription": "The GreenPill book has over 50,000 downloads and has been translated into 12 languages, the podcast has over 230,000 downloads, the YouTube channel has 883 subscribers and 26408 views and our community has over 730 members. \n \nWe\u2019ve built out applications, created wallets, ran QF rounds, created content and hosted trainings that brought new users to the Optimism ecosystem. \n\nWe\u2019ve created over 22 chapters globally that run onboarding workshops, run web3 regen events, drive local impact, help onboard NGOs into web3 and work to teach people how to use crypto to regenerate the world. To date, we\u2019ve hosted over IRL 73 events. \n\nAll of these data points are focused on providing people with the tools needed to regenerate the world using crypto and building in ecosystems like Optimism. ",
+  "contributionDescription": "We're shifting from discussing crypto's potential global impact to demonstrating it through action. Our approach spans education, content creation, and real-world impact. We seek funding for expansion and supporting the GreenPill Network. Our initiatives include:\n\nEducation: We have the GreenPilled book on regenerative cryptoeconomics (multiple languages), a podcast, YouTube channel, a blog, local impact guides and other resources. We create onboarding resources for regen web3, Optimism and the PGN ecosystem.\n\nManager Round Training: We provide free training to support the growing demand for Gitcoin Grant Stack, helping communities fund public goods via QF rounds. Grants can be executed on OP and PGN.\n\nLocal Chapters: We have 22+ global chapters hosting web3 workshops and events.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://greenpill.network/",
+      "description": "A high level overview of all GPN work/resources/content/impact/locations"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://greenpill.network/pdf/green-pill.pdf",
+      "description": "GreenPill Book - How Crypto can regenerate the world - 12 languages "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.charmverse.io/gp-round-manager-training-cohort/cohort-curriculum-25970338147403904",
+      "description": "Gitcoin Grant Stack Round Manager Training Program "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://pod.link/1609313639",
+      "description": "Regenerative Cryptoeconomics Podcast (hosted by Kevin from GreenPill)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://minter.greenpill.network/",
+      "description": "Built a GPN retroPGF application on OP in partnership with hypercerts "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=M6e3jjBRzmQ",
+      "description": "Podcast - Summoning Ether's Phoenix with Karl Floersch -Optimism's role in that "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=_rQ8lEzV2V4",
+      "description": "Podcast - BASE Mainnet: Making Ethereum Accessible to Everyone with Jesse Pollak"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=L3gAbDBISuE",
+      "description": "Podcast - PublicGoods.Network L2 w Kyle Weiss & Nicole d\u2019Avis using OP stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@Green_Pill_Podcast",
+      "description": "Videos about regenerative crypto/how to use it/get involved/public goods funding"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x2d4b4F032d180D187359D51430a88870e34B0Aa4",
+      "description": "Our Mirror blog (English) outlines various projects we're supporting"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://bafkreig3fvhhfqbcorvegxuifhssxdqvmdxkxvyjt5bb7zibggbcvo4sdy.ipfs.nftstorage.link/",
+      "description": "GreenPill Nigeria (onboarding workshops, wallet creation, local cleans ups etc)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://bafybeielssaoda27edlmvilepur4j3bti5xiv3ixtkkvrwlq5e44ag567i.ipfs.nftstorage.link/",
+      "description": "GreenPill Ottawa (includes workshop on OP, web3 on-boarding, wallet creation)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://bafkreibozhsqsvktz62vftpmhv7c42s6qflc7g6q3dxvx2bjuwopwg4byu.ipfs.nftstorage.link/",
+      "description": "GreenPill Mexico (onboarding workshops, OP specific education)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0xBd55b361700c3349794aF68879B8a9E0921640Ed/aq8HHLNaqOl-VujxL7JUNUL63BwvjYz9-2bLtdNS-PI",
+      "description": "GreenPill Turkey (Devconnect Event + details)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://greenpilljapan.substack.com/",
+      "description": "Translating regen + web3 resources into Japanese "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://app.charmverse.io/greenpill-network/page-6680735615710875",
+      "description": "GreenPill Germany (climate, social impact events)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://bafybeigbi3bmlduvnz3zrb66oz5ueu7gfjovty6s46poy7smuma5o7uuby.ipfs.nftstorage.link/",
+      "description": "GreenPill Brazil (workshops, resources etc)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0xBd55b361700c3349794aF68879B8a9E0921640Ed",
+      "description": "GP Turkey translations for web3 updates and info including PGN/OP info"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.charmverse.io/greenpill-network/page-34469324015792857",
+      "description": "GreenPill Boston (resources, educational materials etc)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://greenpill.substack.com/",
+      "description": "GreenPill Substack - Regenerative Cryptonomics education and content "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/amioantho/status/1714354600050905206?s=20",
+      "description": "Weekly onboarding workshops for web3 newbies "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/GreenpillNaija/status/1677088618584653824?s=20",
+      "description": "Onboarding workshop   "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/drive/folders/1Wbl-UgsZPaNGmkSE4zuO16froVOpJ2mz",
+      "description": "GreenPill Denver (community meetups, workshops)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "number of GreenPill members as of 10/19",
+      "number": "738",
+      "url": "https://discord.gg/DJv6bqMJ"
+    },
+    {
+      "description": "podcast downloads per week",
+      "number": "3000",
+      "url": "https://open.spotify.com/show/0l6aXWC94dd0RA3tkKfxjd"
+    },
+    {
+      "description": "number of youtube subscribers ",
+      "number": "886",
+      "url": "https://www.youtube.com/@Green_Pill_Podcast/videos"
+    },
+    {
+      "description": "# of Gitcoin Grant Stack trainees ",
+      "number": "48",
+      "url": "https://docs.google.com/spreadsheets/d/1f1lETCU0PjLxTYWxWYgvtKpctMh7VGiCH-2mRR56UOY/edit?usp=sharing"
+    },
+    {
+      "description": "# of local chapter GreenPill events ",
+      "number": "73",
+      "url": "https://app.charmverse.io/greenpill-network/"
+    },
+    {
+      "description": "number of podcast episodes ",
+      "number": "157",
+      "url": "https://pod.link/1609313639"
+    },
+    {
+      "description": "number of translated GP book languages ",
+      "number": "13",
+      "url": "https://greenpill.network/"
+    },
+    {
+      "description": "number of book downloads",
+      "number": "50000",
+      "url": "https://bits.owocki.com/7KuQ9xmr"
+    },
+    {
+      "description": "number of local chapters ",
+      "number": "22",
+      "url": "https://greenpill.network/"
+    },
+    {
+      "description": "number of new wallets created ",
+      "number": "41",
+      "url": "https://docs.google.com/spreadsheets/d/1R3R7lCGuth8uvjanhpOznNmomdroLhLyk_pJFzUQ5dU/edit#gid=2065150332"
+    },
+    {
+      "description": "number of podcast reviews ",
+      "number": "102",
+      "url": "https://open.spotify.com/show/0l6aXWC94dd0RA3tkKfxjd"
+    },
+    {
+      "description": "number of video views as of 10/19",
+      "number": "26408",
+      "url": "https://www.youtube.com/@Green_Pill_Podcast/about"
+    },
+    {
+      "description": "non web3 NGOs onboarded+wallets created",
+      "number": "4",
+      "url": "https://docs.google.com/document/d/1pm-He5ZDKMGDRQaotEvsfZrKQiCOzO-ZOc8LGnMlYis/edit?usp=sharing"
+    },
+    {
+      "description": "registrations on 10/20 for D/C event",
+      "number": "42",
+      "url": "https://mirror.xyz/0xBd55b361700c3349794aF68879B8a9E0921640Ed"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "ENS grant "
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 8000,
+      "description": "Gitcoin QF rounds "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x562c47bd4dd5e1967202c09d4dc2186b35cdc06bdbed50a3a5a841e6b54797dd",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 30,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

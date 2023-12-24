@@ -1,0 +1,112 @@
+{
+  "bio": "Industry-leading web3 security for industry-leading protocols",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Spearbit",
+  "websiteUrl": "https://spearbit.com",
+  "applicant": {
+    "address": {
+      "address": "0xAc756B59a9842aC384696170AC93E1E354F06AfE",
+      "resolvedName": {
+        "address": "0xAc756B59a9842aC384696170AC93E1E354F06AfE",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xAc756B59a9842aC384696170AC93E1E354F06AfE"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAc756B59a9842aC384696170AC93E1E354F06AfE.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xAc756B59a9842aC384696170AC93E1E354F06AfE.png",
+    "id": "OptimistProfile|0x70811db97e6be5ee40a0e9b3fc61d5de97af79574b0aa503e69fcaf6a96a65cb"
+  },
+  "impactDescription": "Through performing multiple high-priority security reviews for comprehensive bug coverage on core projects being built on Optimism as well as directly evaluating the security posture of the Optimism protocol itself, Spearbit has aided in securing 840M TVL at the time of reviews.\n\nSpearbit and its security researchers have reviewed over 10,000+ lines of complex and mission-critical code across the Optimism ecosystem. As a result, Spearbit and its security researchers have identified:\n\n\u2022 1 Critical\n\u2022 9 Highs\n\u2022 32 Mediums\n\nThere have been 0 exploits from Spearbit security reviews on reviewed portions of the Optimism protocol and relevant projects building on Optimism since the completion of Spearbit security assessments. ",
+  "contributionDescription": "Spearbit is dedicated to providing the absolute highest quality of security services to the Optimism ecosystem. \n\nWe\u2019ve worked directly with the OP team to review crucial components such as: \n\n\u2022 Drippie (OP's native trust-minimized conditional transaction system)\n\u2022 Optimism's RLP implementation\n\u2022 The Bedrock upgrade\n\nSpearbit has also provided security reviews for major protocols on OP such as:\n\n\u2022 BASE\n\u2022 Velodrome\n\nSpearbit has also performed a pro-bono security review of one of OP's most utilized libraries, Solady, which aims to provide gas-optimized Solidity utilities.\n\nIn line with our commitment to public goods like Solady, we promise to allocate all RetroPGF grants to future public goods security reviews in the OP ecosystem with the absolute best web3 security talent there is.\n\n\ud83d\udd34\u2728",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/spearbit/portfolio/raw/master/pdfs/Velodrome-Spearbit-Security-Review.pdf",
+      "description": "Velodrome Security Review"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Vectorized/solady/blob/main/audits/cantina-solady-report.pdf",
+      "description": "Solady Security Review"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/spearbit/portfolio/blob/e9098b7517b0bf2a5946b8b1219b8758f9fdf3ec/pdfs/OptimismDrippie-Spearbit-Security-Review.pdf",
+      "description": "Drippie Security Review"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://hackmd.io/@spearbit/BJXzIlwTq",
+      "description": "Spearbit vCISO Advisory on Optimism Bedrock Upgrade"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cantina.xyz/portfolio",
+      "description": "BASE Security Reviews - Currently Not Public"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/final-spearbit-immunefi-bug-bounty-program-for-large-protocols-building-on-optimism/6187",
+      "description": "Bug Bounty Partnership with Immunefi"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/spearbit/armory/tree/main",
+      "description": "Advanced Blockchain Security Education "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Exploits on Code Reviewed",
+      "number": "0",
+      "url": "https://rekt.news/"
+    },
+    {
+      "description": "Critical Findings",
+      "number": "1",
+      "url": "https://github.com/spearbit/portfolio"
+    },
+    {
+      "description": "High Findings",
+      "number": "9",
+      "url": "https://github.com/spearbit/portfolio"
+    },
+    {
+      "description": "Medium Findings",
+      "number": "32",
+      "url": "https://github.com/spearbit/portfolio"
+    },
+    {
+      "description": "TVL (Millions)",
+      "number": "840",
+      "url": "https://defillama.com/chain/Optimism"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 400000,
+      "description": "Season 4 RFG - https://gov.optimism.io/t/season-4-grants-rfg-roundup/6859"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100000,
+      "description": "Bug Bounty Program with Immunefi"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3acaf17ee604ba99a7900d7198c8e1cd17e518c6d316ed5520f56e360dbc20ce",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 32,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack development & research"
+}

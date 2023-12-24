@@ -1,0 +1,53 @@
+{
+  "bio": "Blog topic technology",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Teknologi",
+  "websiteUrl": "Https:teknologikomputer9.blogspot.com",
+  "applicant": {
+    "address": {
+      "address": "0x604aB2D1AD750F03CC06841F233c10146e79f0E2",
+      "resolvedName": {
+        "address": "0x604aB2D1AD750F03CC06841F233c10146e79f0E2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x604aB2D1AD750F03CC06841F233c10146e79f0E2"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x604aB2D1AD750F03CC06841F233c10146e79f0E2.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xa5b87351a447e8c590f353ecd60e19602235e98bef2a927b721855182302d1db"
+  },
+  "impactDescription": "Contributing by providing detailed explanations about the Optimism Network to users. This involves answering their questions about how the network operates, its benefits in enhancing Ethereum's scalability, and providing real-world use case examples. Additionally, I offer insights into the distinctions between Optimism and the original Ethereum, as well as how transactions and smart contracts function within this network. Throughout user interactions, I consistently strive to furnish accurate information and assist them in gaining a thorough understanding of this blockchain technology.",
+  "contributionDescription": "Contributing by providing detailed explanations about the Optimism Network to users. This involves answering their questions about how the network operates, its benefits in enhancing Ethereum's scalability, and providing real-world use case examples. Additionally, I offer insights into the distinctions between Optimism and the original Ethereum, as well as how transactions and smart contracts function within this network. Throughout user interactions, I consistently strive to furnish accurate information and assist them in gaining a thorough understanding of this blockchain technology.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/ethereum-optimism",
+      "description": "Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Down",
+      "number": "10",
+      "url": "https://github.com/ethereum-optimism"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x887fe36c17a54819f4398a91554dcbbf58e29ffa0acc83c1f32b664b4fbd6d4f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

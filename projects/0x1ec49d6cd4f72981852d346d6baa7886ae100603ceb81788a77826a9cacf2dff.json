@@ -1,0 +1,52 @@
+{
+  "bio": "Crypto learner",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Muhammad Arriezky Pratama",
+  "websiteUrl": "https://www.instagram.com/arriezkypratamaa/?hl=en",
+  "applicant": {
+    "address": {
+      "address": "0x7600ce0Ca8f14cC84709992d06ff6200dB7ba9AB",
+      "resolvedName": {
+        "address": "0x7600ce0Ca8f14cC84709992d06ff6200dB7ba9AB",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x7600ce0Ca8f14cC84709992d06ff6200dB7ba9AB"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x17955edea12c276aa2564f0c45dbf79fba17d3eb6ea0e5731dd6cbdff262e926"
+  },
+  "impactDescription": "well i think i\u2019m just a big user on Optimism chain. I do lot of tx on Optimism. I buy lots of nfts and sold them as well. Sadly i never get on round 1 and 2 but it\u2019s ok, I never have problem with that. Probably it just misunderstood. I did a little bit of stacking so yeah i think i have lots of contribution tu this chain",
+  "contributionDescription": "I really want to be participate in this great work. Please count me in. I\u2019m a great crypto enthusiast. And i know optimistic had great chain. Still alive and bigger. I\u2019m so curious for what happening next. I didn\u2019t expect what contribution i will receive later, but i love how this crypto world never stop amaze me. Thanks. I hope you count me in.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.instagram.com/arriezkypratamaa/?",
+      "description": "I\u2019m a crypto enthusiast and still learning"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0xa0c5fe75d174b7bf3105ddedea9d16adbdb4474a#tokentxnsErc721"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I don\u2019t know why i didn\u2019t receive anything til this day"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x1ec49d6cd4f72981852d346d6baa7886ae100603ceb81788a77826a9cacf2dff",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

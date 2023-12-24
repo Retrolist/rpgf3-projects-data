@@ -1,0 +1,45 @@
+{
+  "bio": "i like cute girls",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Cakra",
+  "websiteUrl": "https://twitter.com/AdrialinNajib",
+  "applicant": {
+    "address": {
+      "address": "0x1295947FeFbd38124e783Dd78e4cD7f40a1519Da",
+      "resolvedName": {
+        "address": "0x1295947FeFbd38124e783Dd78e4cD7f40a1519Da",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x1295947FeFbd38124e783Dd78e4cD7f40a1519Da"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1295947FeFbd38124e783Dd78e4cD7f40a1519Da.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1295947FeFbd38124e783Dd78e4cD7f40a1519Da.png",
+    "id": "OptimistProfile|0x30e6252e0a8a760f2920a19973ac2e8b77a3df2cf4e3224cf29adddbc4c561b2"
+  },
+  "impactDescription": "This means public goods funding is a critical growth strategy. For Optimism, well-funded public goods means better developer tooling, widespread user education, safer infrastructure, and industry-leading research. It means Optimism can last and thrive.\nOnce we show that this model can drive a successful economy for the Optimism Collective, we can scale the principle of impact = profit to the world!",
+  "contributionDescription": "To realize this vision, we are committed to creating an open, transparent process to classify the projects. We'll engage projects to collect additional data, publicly share all collected data, conduct community reviews of our categorizations, and actively collaborate with the Pairwise team to integrate with their application. Our focus on strong project categorization, combined with the effective integration of technology and community engagement, aims to enhance the overall user experience and the efficacy of the voting process but, most importantly, it is an optional, experimental flow that will not be required for the use of the application.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/cakrakahn",
+      "description": "ahoy"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "ahahahahhano",
+      "number": "10",
+      "url": "https://twitter.com/AdrialinNajib"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x1a5e6955798de068a5e5e59aa8bde459f947e5b708e785fb3f755066aca6ddf9",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

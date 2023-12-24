@@ -1,0 +1,2673 @@
+{
+  "bio": "Optimism Community Governance Calls and other Community Events",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Optimism Community Governance Calls (Michael)",
+  "websiteUrl": "https://gov.optimism.io/t/optimism-community-call-recaps-thread/6937/4",
+  "applicant": {
+    "address": {
+      "address": "0x6EdA5aCafF7F5964E1EcC3FD61C62570C186cA0C",
+      "resolvedName": {
+        "address": "0x6EdA5aCafF7F5964E1EcC3FD61C62570C186cA0C",
+        "name": "opmichael.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x6EdA5aCafF7F5964E1EcC3FD61C62570C186cA0C"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6EdA5aCafF7F5964E1EcC3FD61C62570C186cA0C.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6EdA5aCafF7F5964E1EcC3FD61C62570C186cA0C.png",
+    "id": "OptimistProfile|0xaf7a815836918136a1714f832ad6fb813bb5bbab6fbae40ff065ac3f5077ca28"
+  },
+  "impactDescription": "These calls have become a pillar of Optimism Governance infrastructure, and have had an outsized impact as the main place where governance decisions are made and important updates and announcements are shared. Many impactful decisions were facilitated by these calls; for example a large number of improvements to missions being implemented in Season 5 stemmed directly from community feedback on call #23. In addition, these calls have helped transition many delegates from new to active-and-contributing by being the go-to place for onboarding. The pitch session for mission proposals aided delegates in making better voting decisions for the batch of missions. The speed-networking for badgeholders fostered connection amongst a diverse group of individuals centered around Optimism.",
+  "contributionDescription": "This submission is for a) Optimism\u2019s official bi-weekly community calls and b) other organized community events including mission pitch sessions, discord discussions, and badgeholder speed networking events. The community calls have provided a central place for updates, discussion, decision-making, and onboarding of new governance members. The additional events have filled communication needs for the community as they have surfaced. The mission pitch session allowed for a rapid display of mission proposals. The badgeholder speed networking provided a necessary medium for badgeholders to network and grow community around their shared commitment to the OP Collective.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/optimism-community-call-recaps-thread/6937",
+      "description": "Link to Community Call Recaps and Records"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/optimism-badgeholder-speed-networking-event/6924",
+      "description": "Link to Badgeholder Speed Networking Annoucement"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Community Call Testimonials",
+      "number": "0",
+      "url": "https://docs.google.com/document/d/10WoFfTG8WbrSk_-C8Di-gmwTtzMvKtUlbb1TWgWaNkY/edit?usp=sharing"
+    },
+    {
+      "description": "Community Call Recap Thread Views",
+      "number": "4659",
+      "url": "https://docs.google.com/spreadsheets/d/1XmG_8N-_k14eET0ORXzEwxJUhov0lP_zokOkLb7OwcM/edit?usp=sharing"
+    },
+    {
+      "description": "Mission Pitch Session Participants",
+      "number": "39",
+      "url": "https://docs.google.com/spreadsheets/d/1DH_rVTT1Uk33DTYQW5vnr_Phe_H-S3NglN_5PBWRI0g/edit#gid=0"
+    },
+    {
+      "description": "Speed Networking Testimonials",
+      "number": "0",
+      "url": "https://docs.google.com/document/d/1ZBORfxogQd9LdvdZkbRiGkGcutbIsArnofqW6Euvi6A/edit"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 56300,
+      "description": "This included calls until March & my youtube channel"
+    }
+  ],
+  "lists": [
+    {
+      "_id": "655a358057edcab14543c990",
+      "listName": "Community Building",
+      "listDescription": "Evaluating Community Building projects categorized by Pairwise",
+      "impactEvaluationInput": "I think community-related projects should receive an average OP allocation",
+      "impactEvaluationDescription": "I think community-related projects should receive an average OP allocation\n\nCreated by chomtana.town using RetroList with \"Grant Council's Growth Rubric\" rubric.",
+      "impactEvaluationLink": "",
+      "impactEvaluationType": "rubric",
+      "listContent": [
+        {
+          "RPGF3_Application_UID": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+          "OPAmount": 77793,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543c992"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543c993"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543c994"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543c995"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543c996"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543c997"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543c998"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c999"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c99a"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": -1,
+              "comment": "",
+              "_id": "655a358057edcab14543c99b"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c99c"
+            }
+          },
+          "_id": "655a358057edcab14543c991"
+        },
+        {
+          "RPGF3_Application_UID": "0x8785599241f957b73e9e24576741bb3e02943bfbd38570135566a1cc61134168",
+          "OPAmount": 29172,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543c99e"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c99f"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543c9a0"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543c9a1"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543c9a2"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9a3"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9a4"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9a5"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9a6"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9a7"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9a8"
+            }
+          },
+          "_id": "655a358057edcab14543c99d"
+        },
+        {
+          "RPGF3_Application_UID": "0x4227de0db7d9388d6c08f297043098cb2de64c8ecc89d08b6bef8b71d4493e47",
+          "OPAmount": 46189,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543c9aa"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9ab"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543c9ac"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543c9ad"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543c9ae"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543c9af"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9b0"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9b1"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9b2"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9b3"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9b4"
+            }
+          },
+          "_id": "655a358057edcab14543c9a9"
+        },
+        {
+          "RPGF3_Application_UID": "0xe5bdbe7427fa9a86f70ede69c07f4a14ad6d2af60658b84ac2134b77c6f53845",
+          "OPAmount": 24310,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9b6"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9b7"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543c9b8"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543c9b9"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9ba"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9bb"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9bc"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9bd"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9be"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": -2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9bf"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9c0"
+            }
+          },
+          "_id": "655a358057edcab14543c9b5"
+        },
+        {
+          "RPGF3_Application_UID": "0xf16d4e5a02c22a3c903a56d614b049b5d83bf9d6705f811b1cd1f4464f5b4ed1",
+          "OPAmount": 60775,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543c9c2"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543c9c3"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9c4"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543c9c5"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543c9c6"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543c9c7"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543c9c8"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9c9"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9ca"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": -1,
+              "comment": "",
+              "_id": "655a358057edcab14543c9cb"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9cc"
+            }
+          },
+          "_id": "655a358057edcab14543c9c1"
+        },
+        {
+          "RPGF3_Application_UID": "0xc372b8138f712875d1b7e852d7b78d58a6655caf672692565a310ae8d2405017",
+          "OPAmount": 53482,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9ce"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543c9cf"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9d0"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9d1"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543c9d2"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543c9d3"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543c9d4"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9d5"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9d6"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9d7"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9d8"
+            }
+          },
+          "_id": "655a358057edcab14543c9cd"
+        },
+        {
+          "RPGF3_Application_UID": "0x8cce00b421d2f19c829d484b423a49f311d41355238c5c5a73b72d62c5c63f56",
+          "OPAmount": 43758,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9da"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9db"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9dc"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543c9dd"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9de"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543c9df"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543c9e0"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9e1"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9e2"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9e3"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9e4"
+            }
+          },
+          "_id": "655a358057edcab14543c9d9"
+        },
+        {
+          "RPGF3_Application_UID": "0x4bb60c496de67ce58a23e11e2778c03a65efe0f93421c45c85532bd8e30111c4",
+          "OPAmount": 31603,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9e6"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543c9e7"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543c9e8"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543c9e9"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9ea"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9eb"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9ec"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9ed"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9ee"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9ef"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9f0"
+            }
+          },
+          "_id": "655a358057edcab14543c9e5"
+        },
+        {
+          "RPGF3_Application_UID": "0xfed9d3effec10a210a6c15f27f3d6c23ee6b4a1c305a1cfeab84207ccd85ce33",
+          "OPAmount": 70499,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9f2"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543c9f3"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543c9f4"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543c9f5"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543c9f6"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543c9f7"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543c9f8"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9f9"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9fa"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9fb"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543c9fc"
+            }
+          },
+          "_id": "655a358057edcab14543c9f1"
+        },
+        {
+          "RPGF3_Application_UID": "0x8f6fc027d996489f020e2b5591374f2c97833fe20cab3124e1c7377f5b7e583f",
+          "OPAmount": 55913,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543c9fe"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543c9ff"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca00"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543ca01"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543ca02"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543ca03"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543ca04"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca05"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca06"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca07"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca08"
+            }
+          },
+          "_id": "655a358057edcab14543c9fd"
+        },
+        {
+          "RPGF3_Application_UID": "0xe7d4cf0cda38c0f0b1ac0853ccaaa23d7c0569412604935edfa57cbb1ec7077b",
+          "OPAmount": 38896,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca0a"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543ca0b"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca0c"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca0d"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca0e"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca0f"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543ca10"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca11"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca12"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca13"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca14"
+            }
+          },
+          "_id": "655a358057edcab14543ca09"
+        },
+        {
+          "RPGF3_Application_UID": "0x5b2334a091551c558e2b1d27983273f581927a32335c82effcd4173f3861dd98",
+          "OPAmount": 48620,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca16"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca17"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543ca18"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543ca19"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca1a"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543ca1b"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca1c"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca1d"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca1e"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca1f"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca20"
+            }
+          },
+          "_id": "655a358057edcab14543ca15"
+        },
+        {
+          "RPGF3_Application_UID": "0x2e014c80dabfa93ba83bb6ccab23904dc5c3e9b5d40d367d54d0cad0dd67eda7",
+          "OPAmount": 31603,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca22"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca23"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca24"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca25"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 1,
+              "comment": "Links are broken",
+              "_id": "655a358057edcab14543ca26"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543ca27"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 1,
+              "comment": "Links are broken",
+              "_id": "655a358057edcab14543ca28"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca29"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca2a"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca2b"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca2c"
+            }
+          },
+          "_id": "655a358057edcab14543ca21"
+        },
+        {
+          "RPGF3_Application_UID": "0x9f5ccc80778dc01dbe8e31eace95372221028dbc18182da6262ee195cf98faca",
+          "OPAmount": 38896,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca2e"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca2f"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca30"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca31"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca32"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543ca33"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca34"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca35"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca36"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca37"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca38"
+            }
+          },
+          "_id": "655a358057edcab14543ca2d"
+        },
+        {
+          "RPGF3_Application_UID": "0xab0941c9ef197d36e31a3d4ffedc02977300b8703d3ba2a68cfe27fa899ddd1a",
+          "OPAmount": 31603,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca3a"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca3b"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca3c"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca3d"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca3e"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543ca3f"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca40"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca41"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca42"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca43"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca44"
+            }
+          },
+          "_id": "655a358057edcab14543ca39"
+        },
+        {
+          "RPGF3_Application_UID": "0x8d4f23ea1a585585107476fc214f0b4ec14e3e5c5c406318b4a6fa47ac5f6049",
+          "OPAmount": 31603,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca46"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca47"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca48"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca49"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca4a"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543ca4b"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca4c"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca4d"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca4e"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca4f"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca50"
+            }
+          },
+          "_id": "655a358057edcab14543ca45"
+        },
+        {
+          "RPGF3_Application_UID": "0x83acb708e662400cbe8f8e9ec313f26d40e78e789577bce3e895d16eea8b5fbc",
+          "OPAmount": 63206,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca52"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543ca53"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543ca54"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543ca55"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543ca56"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543ca57"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543ca58"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca59"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca5a"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": -1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca5b"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca5c"
+            }
+          },
+          "_id": "655a358057edcab14543ca51"
+        },
+        {
+          "RPGF3_Application_UID": "0x92b9a280afb2c683301bdbb5c065e0fdb0507656c4378caf1df8505327e21782",
+          "OPAmount": 41327,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca5e"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca5f"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca60"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca61"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca62"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543ca63"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543ca64"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca65"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca66"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca67"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca68"
+            }
+          },
+          "_id": "655a358057edcab14543ca5d"
+        },
+        {
+          "RPGF3_Application_UID": "0x99d9058b2dc841fb614fa9351f3a93df1718e5f38b14e396ba764d53450924ab",
+          "OPAmount": 21879,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca6a"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca6b"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca6c"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca6d"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca6e"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca6f"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca70"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca71"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca72"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca73"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca74"
+            }
+          },
+          "_id": "655a358057edcab14543ca69"
+        },
+        {
+          "RPGF3_Application_UID": "0xd8954972d3580199658bcc9ac03298b4f689ef06fc6f505c853851aa4ca25c41",
+          "OPAmount": 41327,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca76"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca77"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca78"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca79"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca7a"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543ca7b"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543ca7c"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca7d"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca7e"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca7f"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca80"
+            }
+          },
+          "_id": "655a358057edcab14543ca75"
+        },
+        {
+          "RPGF3_Application_UID": "0xb1d2ac44fceeb0e41d2c402ec88652ad4eeaa3e601fc3bd7f86bb88e86cb38fe",
+          "OPAmount": 48620,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca82"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca83"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca84"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca85"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 4,
+              "comment": "Fractal vision is actively engaged in the governance",
+              "_id": "655a358057edcab14543ca86"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543ca87"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 4,
+              "comment": "Fractal vision is actively engaged in the governance",
+              "_id": "655a358057edcab14543ca88"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca89"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca8a"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca8b"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca8c"
+            }
+          },
+          "_id": "655a358057edcab14543ca81"
+        },
+        {
+          "RPGF3_Application_UID": "0x278f45939b63b7b5c84fb0a81701aca4a1153fc8a6a7c35af87cebe1fad70d55",
+          "OPAmount": 68068,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543ca8e"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543ca8f"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca90"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543ca91"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543ca92"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543ca93"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543ca94"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca95"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca96"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca97"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543ca98"
+            }
+          },
+          "_id": "655a358057edcab14543ca8d"
+        },
+        {
+          "RPGF3_Application_UID": "0x74c9135b2ca59c277d93942e535f02777d2779f1fee5b88c9ff76ff20cdcd8b8",
+          "OPAmount": 36465,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca9a"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca9b"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543ca9c"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca9d"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543ca9e"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543ca9f"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543caa0"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543caa1"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543caa2"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543caa3"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543caa4"
+            }
+          },
+          "_id": "655a358057edcab14543ca99"
+        },
+        {
+          "RPGF3_Application_UID": "0x33fcfbefe71202245fd492bd9b161dfe49dc2119edc7a42a0b8a9e5936a416d5",
+          "OPAmount": 53482,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543caa6"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543caa7"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543caa8"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543caa9"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543caaa"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543caab"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543caac"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543caad"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543caae"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": -2,
+              "comment": "",
+              "_id": "655a358057edcab14543caaf"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cab0"
+            }
+          },
+          "_id": "655a358057edcab14543caa5"
+        },
+        {
+          "RPGF3_Application_UID": "0x490ad76a69ed6e4999c570bf5b7eb2336ff8e31906a3df6bf88b9144558acccf",
+          "OPAmount": 58344,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cab2"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cab3"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cab4"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cab5"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cab6"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cab7"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cab8"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 0,
+              "comment": "Choose ARB for decentralized system instead of OP",
+              "_id": "655a358057edcab14543cab9"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543caba"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": -5,
+              "comment": "Listed on binance",
+              "_id": "655a358057edcab14543cabb"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cabc"
+            }
+          },
+          "_id": "655a358057edcab14543cab1"
+        },
+        {
+          "RPGF3_Application_UID": "0xd2591c94e8666a5f1cf11b49d6ce9e85a970f48606316300793b8fed927ca94b",
+          "OPAmount": 55913,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543cabe"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cabf"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cac0"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cac1"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cac2"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cac3"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cac4"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cac5"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cac6"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": -1,
+              "comment": "",
+              "_id": "655a358057edcab14543cac7"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cac8"
+            }
+          },
+          "_id": "655a358057edcab14543cabd"
+        },
+        {
+          "RPGF3_Application_UID": "0xca03ef0df923533c97e92b994c20e36d11d5d465321b79b6692c4df3ab2a40fd",
+          "OPAmount": 36465,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543caca"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cacb"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cacc"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cacd"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cace"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543cacf"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cad0"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cad1"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cad2"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cad3"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": -5,
+              "comment": "",
+              "_id": "655a358057edcab14543cad4"
+            }
+          },
+          "_id": "655a358057edcab14543cac9"
+        },
+        {
+          "RPGF3_Application_UID": "0xb013f320dfc52223d553455adbec3dad79691698c85b5ea8c27e81c46fd014b5",
+          "OPAmount": 55913,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543cad6"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cad7"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cad8"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cad9"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cada"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543cadb"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cadc"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cadd"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cade"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cadf"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cae0"
+            }
+          },
+          "_id": "655a358057edcab14543cad5"
+        },
+        {
+          "RPGF3_Application_UID": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+          "OPAmount": 58344,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543cae2"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cae3"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cae4"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cae5"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cae6"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cae7"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cae8"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cae9"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543caea"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": -1,
+              "comment": "",
+              "_id": "655a358057edcab14543caeb"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543caec"
+            }
+          },
+          "_id": "655a358057edcab14543cae1"
+        },
+        {
+          "RPGF3_Application_UID": "0x73b6ff6fb7a5bb5f271b1636a1baa24a327e144e45195a53b9645fcb659a48d3",
+          "OPAmount": 34034,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543caee"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543caef"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543caf0"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543caf1"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543caf2"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543caf3"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543caf4"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543caf5"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543caf6"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": -2,
+              "comment": "",
+              "_id": "655a358057edcab14543caf7"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543caf8"
+            }
+          },
+          "_id": "655a358057edcab14543caed"
+        },
+        {
+          "RPGF3_Application_UID": "0x166b7be374825b11dc2af89b61ef1d66b5b45487b97ea3dd569e62f2f7b7b41e",
+          "OPAmount": 51051,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cafa"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cafb"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cafc"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cafd"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cafe"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543caff"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cb00"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb01"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cb02"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": -5,
+              "comment": "Listed on binance",
+              "_id": "655a358057edcab14543cb03"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb04"
+            }
+          },
+          "_id": "655a358057edcab14543caf9"
+        },
+        {
+          "RPGF3_Application_UID": "0xe4fb6e52ad970ebb6ea9252ec6e9967e4b4b88d52e5067b980c68515cde43f29",
+          "OPAmount": 36465,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb06"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543cb07"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb08"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb09"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb0a"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb0b"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb0c"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb0d"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb0e"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb0f"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb10"
+            }
+          },
+          "_id": "655a358057edcab14543cb05"
+        },
+        {
+          "RPGF3_Application_UID": "0x3049e55f433120f538188df5837e7c3a15063e4cba01f14f1ca4181bbe6f5cfe",
+          "OPAmount": 68068,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cb12"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cb13"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cb14"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543cb15"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cb16"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cb17"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cb18"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb19"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb1a"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": -1,
+              "comment": "",
+              "_id": "655a358057edcab14543cb1b"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb1c"
+            }
+          },
+          "_id": "655a358057edcab14543cb11"
+        },
+        {
+          "RPGF3_Application_UID": "0x139a8104b57871d4e40cbdf973d3fd8f65ad4910f1433196b6a2ed7ff37227a7",
+          "OPAmount": 65637,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543cb1e"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cb1f"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cb20"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cb21"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cb22"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cb23"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 4,
+              "comment": "",
+              "_id": "655a358057edcab14543cb24"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb25"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb26"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": -2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb27"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb28"
+            }
+          },
+          "_id": "655a358057edcab14543cb1d"
+        },
+        {
+          "RPGF3_Application_UID": "0x0c85937f85dae88febd296c6f519f496063cff8970dc90bac38f25908f788fac",
+          "OPAmount": 48620,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cb2a"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb2b"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb2c"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb2d"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb2e"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 5,
+              "comment": "",
+              "_id": "655a358057edcab14543cb2f"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb30"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb31"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb32"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb33"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb34"
+            }
+          },
+          "_id": "655a358057edcab14543cb29"
+        },
+        {
+          "RPGF3_Application_UID": "0x20ad2beff4abc349f688ae23c2beeeddcd5d52698a93bd43d615b3d6a75ab2dc",
+          "OPAmount": 24310,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543cb36"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb37"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb38"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb39"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb3a"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543cb3b"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cb3c"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb3d"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb3e"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": -3,
+              "comment": "",
+              "_id": "655a358057edcab14543cb3f"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb40"
+            }
+          },
+          "_id": "655a358057edcab14543cb35"
+        },
+        {
+          "RPGF3_Application_UID": "0x943ba99bcd3068656d3510832a537db683d7c7b8946609c1ef86737f0142d266",
+          "OPAmount": 41327,
+          "evaluation": {
+            "655655826c12116f8fc9b1ce": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb42"
+            },
+            "655655826c12116f8fc9b1cf": {
+              "score": 1,
+              "comment": "",
+              "_id": "655a358057edcab14543cb43"
+            },
+            "655655826c12116f8fc9b1d0": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb44"
+            },
+            "655655826c12116f8fc9b1d1": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cb45"
+            },
+            "655655826c12116f8fc9b1d2": {
+              "score": 3,
+              "comment": "",
+              "_id": "655a358057edcab14543cb46"
+            },
+            "655655826c12116f8fc9b1d3": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb47"
+            },
+            "655655826c12116f8fc9b1d4": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb48"
+            },
+            "655655826c12116f8fc9b1d5": {
+              "score": 2,
+              "comment": "",
+              "_id": "655a358057edcab14543cb49"
+            },
+            "655655826c12116f8fc9b1d6": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb4a"
+            },
+            "655655826c12116f8fc9b1d7": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb4b"
+            },
+            "655655826c12116f8fc9b1d8": {
+              "score": 0,
+              "comment": "",
+              "_id": "655a358057edcab14543cb4c"
+            }
+          },
+          "_id": "655a358057edcab14543cb41"
+        }
+      ],
+      "walletAddress": "0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27",
+      "domainName": "chomtana.town",
+      "twitter": "Chomtana",
+      "discord": "chomtana",
+      "isBadgeholder": false,
+      "attestationUid": "0xd8f9ef21e5a728932974aebcc20ff15ea2e2c59e8dc524878b5330bdf76123c8",
+      "approvalAttestationUid": null,
+      "forkedFrom": null,
+      "rubricId": "6548f9a5e5695aaff03a28c4",
+      "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION"
+      ],
+      "projectIds": [
+        "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+        "0x8785599241f957b73e9e24576741bb3e02943bfbd38570135566a1cc61134168",
+        "0x4227de0db7d9388d6c08f297043098cb2de64c8ecc89d08b6bef8b71d4493e47",
+        "0xe5bdbe7427fa9a86f70ede69c07f4a14ad6d2af60658b84ac2134b77c6f53845",
+        "0xf16d4e5a02c22a3c903a56d614b049b5d83bf9d6705f811b1cd1f4464f5b4ed1",
+        "0xc372b8138f712875d1b7e852d7b78d58a6655caf672692565a310ae8d2405017",
+        "0x8cce00b421d2f19c829d484b423a49f311d41355238c5c5a73b72d62c5c63f56",
+        "0x4bb60c496de67ce58a23e11e2778c03a65efe0f93421c45c85532bd8e30111c4",
+        "0xfed9d3effec10a210a6c15f27f3d6c23ee6b4a1c305a1cfeab84207ccd85ce33",
+        "0x8f6fc027d996489f020e2b5591374f2c97833fe20cab3124e1c7377f5b7e583f",
+        "0xe7d4cf0cda38c0f0b1ac0853ccaaa23d7c0569412604935edfa57cbb1ec7077b",
+        "0x5b2334a091551c558e2b1d27983273f581927a32335c82effcd4173f3861dd98",
+        "0x2e014c80dabfa93ba83bb6ccab23904dc5c3e9b5d40d367d54d0cad0dd67eda7",
+        "0x9f5ccc80778dc01dbe8e31eace95372221028dbc18182da6262ee195cf98faca",
+        "0xab0941c9ef197d36e31a3d4ffedc02977300b8703d3ba2a68cfe27fa899ddd1a",
+        "0x8d4f23ea1a585585107476fc214f0b4ec14e3e5c5c406318b4a6fa47ac5f6049",
+        "0x83acb708e662400cbe8f8e9ec313f26d40e78e789577bce3e895d16eea8b5fbc",
+        "0x92b9a280afb2c683301bdbb5c065e0fdb0507656c4378caf1df8505327e21782",
+        "0x99d9058b2dc841fb614fa9351f3a93df1718e5f38b14e396ba764d53450924ab",
+        "0xd8954972d3580199658bcc9ac03298b4f689ef06fc6f505c853851aa4ca25c41",
+        "0xb1d2ac44fceeb0e41d2c402ec88652ad4eeaa3e601fc3bd7f86bb88e86cb38fe",
+        "0x278f45939b63b7b5c84fb0a81701aca4a1153fc8a6a7c35af87cebe1fad70d55",
+        "0x74c9135b2ca59c277d93942e535f02777d2779f1fee5b88c9ff76ff20cdcd8b8",
+        "0x33fcfbefe71202245fd492bd9b161dfe49dc2119edc7a42a0b8a9e5936a416d5",
+        "0x490ad76a69ed6e4999c570bf5b7eb2336ff8e31906a3df6bf88b9144558acccf",
+        "0xd2591c94e8666a5f1cf11b49d6ce9e85a970f48606316300793b8fed927ca94b",
+        "0xca03ef0df923533c97e92b994c20e36d11d5d465321b79b6692c4df3ab2a40fd",
+        "0xb013f320dfc52223d553455adbec3dad79691698c85b5ea8c27e81c46fd014b5",
+        "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+        "0x73b6ff6fb7a5bb5f271b1636a1baa24a327e144e45195a53b9645fcb659a48d3",
+        "0x166b7be374825b11dc2af89b61ef1d66b5b45487b97ea3dd569e62f2f7b7b41e",
+        "0xe4fb6e52ad970ebb6ea9252ec6e9967e4b4b88d52e5067b980c68515cde43f29",
+        "0x3049e55f433120f538188df5837e7c3a15063e4cba01f14f1ca4181bbe6f5cfe",
+        "0x139a8104b57871d4e40cbdf973d3fd8f65ad4910f1433196b6a2ed7ff37227a7",
+        "0x0c85937f85dae88febd296c6f519f496063cff8970dc90bac38f25908f788fac",
+        "0x20ad2beff4abc349f688ae23c2beeeddcd5d52698a93bd43d615b3d6a75ab2dc",
+        "0x943ba99bcd3068656d3510832a537db683d7c7b8946609c1ef86737f0142d266"
+      ],
+      "histories": [],
+      "createdAt": "2023-11-19T16:19:12.120Z",
+      "updatedAt": "2023-12-02T07:55:13.907Z",
+      "__v": 0,
+      "attestationBlock": 112405998,
+      "attestationDate": "2023-11-19T16:19:33.000Z",
+      "approval": [
+        {
+          "_id": "6558ea4ce5695aaff07fc718",
+          "domainName": "chomtana.town",
+          "__v": 0,
+          "createdAt": "2023-11-18T16:46:02.426Z",
+          "status": "qualified",
+          "updatedAt": "2023-11-18T16:46:08.331Z"
+        }
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+          "bio": "Support NERDs provide moderation and onboarding services to the Optimism Discord",
+          "displayName": "Support NERDs",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF7159DEAc43C0efe1Dd50b10eFfA6299e694918D.png"
+        },
+        {
+          "id": "0x8785599241f957b73e9e24576741bb3e02943bfbd38570135566a1cc61134168",
+          "bio": "SpaghettETH is the umbrella collective of the italian ETH communities.",
+          "displayName": "SpaghettETH",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3F6e18b429b6BAf1bD31B1E504aee7827C7AAb5.png"
+        },
+        {
+          "id": "0x4227de0db7d9388d6c08f297043098cb2de64c8ecc89d08b6bef8b71d4493e47",
+          "bio": "Elevating Ethereum events worldwide. ",
+          "displayName": "Duct Tape ",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCD465b3998917c42D5296d9234488A7D3148AB82.png"
+        },
+        {
+          "id": "0xe5bdbe7427fa9a86f70ede69c07f4a14ad6d2af60658b84ac2134b77c6f53845",
+          "bio": "Collective of people from Berlin: Protocol Berg, Goerli Testnet.",
+          "displayName": "Department of Decentralization",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x59cc3Fc56B8B2988F259EC1E6f3446907130f728.png"
+        },
+        {
+          "id": "0xf16d4e5a02c22a3c903a56d614b049b5d83bf9d6705f811b1cd1f4464f5b4ed1",
+          "bio": "The largest web3 community in Mexico. Since 2020, 220 episodes, + 16 IRL meetups",
+          "displayName": "Espacio Cripto",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE800Bafa84F3194960d79C13169fFfba2E444dBc.png"
+        },
+        {
+          "id": "0xc372b8138f712875d1b7e852d7b78d58a6655caf672692565a310ae8d2405017",
+          "bio": "Advocating accessible Optimism governance, amplifying voices in \ud83c\uddf2\ud83c\uddfd and beyond.",
+          "displayName": "Brichis",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B.png"
+        },
+        {
+          "id": "0x8cce00b421d2f19c829d484b423a49f311d41355238c5c5a73b72d62c5c63f56",
+          "bio": "Reef scientist integrating public goods, DeSci, and web3, based in Latam \u00dc",
+          "displayName": "Rodrigo Nu\u00f1\u039ez",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4D5B28d08e8c00e041053b0dc584e00e6997Daa3.png"
+        },
+        {
+          "id": "0x4bb60c496de67ce58a23e11e2778c03a65efe0f93421c45c85532bd8e30111c4",
+          "bio": "social media persona with focus on OP with focus on Velodrome",
+          "displayName": "FA40Ziv",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5cACae1b51d643CD1bc976cCa9B5E05837a6Bb35.jpeg"
+        },
+        {
+          "id": "0xfed9d3effec10a210a6c15f27f3d6c23ee6b4a1c305a1cfeab84207ccd85ce33",
+          "bio": "Highlighting my additional contributions in the TechNERDs project.",
+          "displayName": "simple8720",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x770d6DC750d50c6a1E237f9a6F0fA75acF7546aC.png"
+        },
+        {
+          "id": "0x8f6fc027d996489f020e2b5591374f2c97833fe20cab3124e1c7377f5b7e583f",
+          "bio": "Impact Focused conference, hackathon and festival in Barcelona-Spain",
+          "displayName": "ETHBarcelona",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB605745f67e8027ffe2df603b67529421c717EE8.png"
+        },
+        {
+          "id": "0xe7d4cf0cda38c0f0b1ac0853ccaaa23d7c0569412604935edfa57cbb1ec7077b",
+          "bio": "The CCA promotes the development of Crypto Commons, through events and research.",
+          "displayName": "Crypto Commons Association",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb013701563Fe41358c9308C3020B8DDD71225CB8.png"
+        },
+        {
+          "id": "0x5b2334a091551c558e2b1d27983273f581927a32335c82effcd4173f3861dd98",
+          "bio": "Bress is an alternative client for browsing Mirror articles",
+          "displayName": "Bress",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x629898596DC5f16c31aF69382AB7985654332e78.png"
+        },
+        {
+          "id": "0x2e014c80dabfa93ba83bb6ccab23904dc5c3e9b5d40d367d54d0cad0dd67eda7",
+          "bio": "Public Goods maxi growing the collective through impact onboarding + regen2degen",
+          "displayName": "Carlos Melgar",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEFEdaf9c07E6eB56BB8F82f30018e4461B1c5F4c.png"
+        },
+        {
+          "id": "0x9f5ccc80778dc01dbe8e31eace95372221028dbc18182da6262ee195cf98faca",
+          "bio": "OurNetwork is the leading crypto analytics newsletter and community.",
+          "displayName": "OurNetwork",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9C159121CEEBF937E9bad98fd0c895d7f6038bd4.png"
+        },
+        {
+          "id": "0xab0941c9ef197d36e31a3d4ffedc02977300b8703d3ba2a68cfe27fa899ddd1a",
+          "bio": "Crypto enthusiast Moderator and helper on a French community discord",
+          "displayName": "MaitreSarce",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x45C3707c25eCe1e4705a5d708685f0a77Dc18cD1.png"
+        },
+        {
+          "id": "0x8d4f23ea1a585585107476fc214f0b4ec14e3e5c5c406318b4a6fa47ac5f6049",
+          "bio": "A content writer with full influence and goal to onboard new users to Optimism. ",
+          "displayName": "Syke",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfbDABb319055cc18114ee052ab0dA6a2Ef6e913e.png"
+        },
+        {
+          "id": "0x83acb708e662400cbe8f8e9ec313f26d40e78e789577bce3e895d16eea8b5fbc",
+          "bio": "AW house is an Public Good Ecosystem for Autonomous World builders. ",
+          "displayName": "AW House/Komorebi's Hacker House",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1626Cc835842C480c1689A0A69AA419B9F761a4e.png"
+        },
+        {
+          "id": "0x92b9a280afb2c683301bdbb5c065e0fdb0507656c4378caf1df8505327e21782",
+          "bio": "A dashboard collections that built with BASE and Optimism data",
+          "displayName": "arabianhorses",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf23F9C10D1559885dABEE67c59c4554E6152697b.png"
+        },
+        {
+          "id": "0x99d9058b2dc841fb614fa9351f3a93df1718e5f38b14e396ba764d53450924ab",
+          "bio": "Golden Boys is a DeFi community of builders creating new products on Base.",
+          "displayName": "Golden Boys (GOLD)",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x82Fe5244335D3D91BF2241199A116AAF97102D3B.png"
+        },
+        {
+          "id": "0xd8954972d3580199658bcc9ac03298b4f689ef06fc6f505c853851aa4ca25c41",
+          "bio": "Learning and sharing",
+          "displayName": "daboyshine",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4CDD7811CCEdB0fFd3808B586bcafD6AB0ACb313.png"
+        },
+        {
+          "id": "0xb1d2ac44fceeb0e41d2c402ec88652ad4eeaa3e601fc3bd7f86bb88e86cb38fe",
+          "bio": "Fractal Visions impact initiative platform highlighting PUBLIC GOODS builders.",
+          "displayName": "Fractal Visions",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC4FC57Dedd2463314A3fD2DBadB86B4404C257e5.jpeg"
+        },
+        {
+          "id": "0x278f45939b63b7b5c84fb0a81701aca4a1153fc8a6a7c35af87cebe1fad70d55",
+          "bio": "Optimism Ambassador, Project advisors",
+          "displayName": "Subli",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x018C8a81cb02cA1a327BaefD400f75f57ea57ba2.jpeg"
+        },
+        {
+          "id": "0x74c9135b2ca59c277d93942e535f02777d2779f1fee5b88c9ff76ff20cdcd8b8",
+          "bio": "Helping Latin American artists launch their NFTs with fun on-chain raffles \ud83c\udfb0",
+          "displayName": "Randomness Ceremony",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFe568475CFc25563B5A5E9769f56b61dF85e7Dec.png"
+        },
+        {
+          "id": "0x33fcfbefe71202245fd492bd9b161dfe49dc2119edc7a42a0b8a9e5936a416d5",
+          "bio": "Jessy\u2019s Hacker House supports a strong community of builders",
+          "displayName": "Jessy's Hacker House",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9.png"
+        },
+        {
+          "id": "0x490ad76a69ed6e4999c570bf5b7eb2336ff8e31906a3df6bf88b9144558acccf",
+          "bio": "The Graph organizes and makes usable web3 data for dapps via GraphQL. ",
+          "displayName": "Edge & Node / The Graph",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0xd2591c94e8666a5f1cf11b49d6ce9e85a970f48606316300793b8fed927ca94b",
+          "bio": "Cryptotesters is a community of crypto power users.",
+          "displayName": "Cryptotesters",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9340d7Cabb81E95a8CAC60e997E97543D2371aDd.png"
+        },
+        {
+          "id": "0xca03ef0df923533c97e92b994c20e36d11d5d465321b79b6692c4df3ab2a40fd",
+          "bio": "Lore helps communities form capital and coordinate at internet scale. ",
+          "displayName": "Lore",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x266B650F92753FD7Be17B7487C8CC3Bd05EFab8A.png"
+        },
+        {
+          "id": "0xb013f320dfc52223d553455adbec3dad79691698c85b5ea8c27e81c46fd014b5",
+          "bio": "Passionate about blockchain and the positive impact it can have on the globe.",
+          "displayName": "Cardo",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbC1500dAafF721f626Ef1a4F1a8C4e333648c5A4.png"
+        },
+        {
+          "id": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+          "bio": "Translators make Optimism accessible to non-English speakers over 27 languages!",
+          "displayName": "Optimism Translators",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9138051E95425610Eae7a0784F9138df485fb698.png"
+        },
+        {
+          "id": "0x73b6ff6fb7a5bb5f271b1636a1baa24a327e144e45195a53b9645fcb659a48d3",
+          "bio": "Zuzalu creates pop-up city experiments to help human flourish and tech progress",
+          "displayName": "Zuzalu",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x510e221C48ee37DAfc0d3802b43679Cf5d78561f.png"
+        },
+        {
+          "id": "0x166b7be374825b11dc2af89b61ef1d66b5b45487b97ea3dd569e62f2f7b7b41e",
+          "bio": "Galxe is the leading platform for building web3 communities.",
+          "displayName": "Galxe",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x638b91852B7459BE5158646bD0FAEcB7BAC4fca2.png"
+        },
+        {
+          "id": "0xe4fb6e52ad970ebb6ea9252ec6e9967e4b4b88d52e5067b980c68515cde43f29",
+          "bio": "Translate official OP Friday Threads from 1 Sep to 20 Oct into 20+ languages",
+          "displayName": "OP Friday Twitter Thread Translation Contest",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5F4BCCcb5C2CBB01c619F5CFED555466e31679b6.png"
+        },
+        {
+          "id": "0x3049e55f433120f538188df5837e7c3a15063e4cba01f14f1ca4181bbe6f5cfe",
+          "bio": "Optimism Community Governance Calls and other Community Events",
+          "displayName": "Optimism Community Governance Calls (Michael)",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6EdA5aCafF7F5964E1EcC3FD61C62570C186cA0C.png"
+        },
+        {
+          "id": "0x139a8104b57871d4e40cbdf973d3fd8f65ad4910f1433196b6a2ed7ff37227a7",
+          "bio": "Ambassadors are decentralized marketing arm of the Optimism Collective",
+          "displayName": "Optimism Ambassadors",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x50b6a381993834C623b2Bded6825824C936E48bB.png"
+        },
+        {
+          "id": "0x0c85937f85dae88febd296c6f519f496063cff8970dc90bac38f25908f788fac",
+          "bio": "\u00b4m KManuS88, committed to fostering adoption into web3",
+          "displayName": "KManuS88",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEdd9701C99a17Bf8Ab54f160217Da55aBe9C56FF.png"
+        },
+        {
+          "id": "0x20ad2beff4abc349f688ae23c2beeeddcd5d52698a93bd43d615b3d6a75ab2dc",
+          "bio": "European Crypto Initiative is a non-profit crypto advocacy organisation",
+          "displayName": "European Crypto Initiative",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd12ad1237897C1d9A658eF879278750e2434aa06.png"
+        },
+        {
+          "id": "0x943ba99bcd3068656d3510832a537db683d7c7b8946609c1ef86737f0142d266",
+          "bio": "Optiland Quests - onboarding users to Optimism",
+          "displayName": "Optiland Quests",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa6028b948dea97B7Fb0E472e19c9D4E160ed2902.png"
+        }
+      ],
+      "status": "qualified"
+    }
+  ],
+  "id": "Project|0x3049e55f433120f538188df5837e7c3a15063e4cba01f14f1ca4181bbe6f5cfe",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 49,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Optimism Governance Contributions"
+}

@@ -1,0 +1,53 @@
+{
+  "bio": "crypto hunter",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "wiss",
+  "websiteUrl": "https://twitter.com/ink_photobucket",
+  "applicant": {
+    "address": {
+      "address": "0xc9a5098A1f39218C58b9BA33971B6d35aA59c881",
+      "resolvedName": {
+        "address": "0xc9a5098A1f39218C58b9BA33971B6d35aA59c881",
+        "name": "wiss7.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xc9a5098A1f39218C58b9BA33971B6d35aA59c881"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc9a5098A1f39218C58b9BA33971B6d35aA59c881.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x7d97b4d91ca06c0a2385764c20efcb6ae8f53f36daee1934d7281187defa63b5"
+  },
+  "impactDescription": "Optimism recently announced its second round of $OP rewards! If you participated in our last Quest with Boardroom or any of our Quests on Optimism, you might have just been eligible for this airdrop! \n\n\ud83d\udca1 In this Quest, we'll analyze the strategy behind this Airdrop, some ideas on what to do with $OP, and ways to continue exploring the Optimism ecosystem.",
+  "contributionDescription": "Education :\ndid the testnet , trying the blockchain and give awareness to the community about OP and how great it is for crypto world .\ncompleted many tasks and tried most of the bridges and gave a feedback to my community and crypto community in my channels , youtube and twitter \nOptimism recently announced its second round of $OP rewards! If you participated in our last Quest with Boardroom or any of our Quests on Optimism, you might have just been eligible for this airdrop!   ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.youtube.com/watch?v=JoxlwBzdXcs",
+      "description": "Rollups are central to the vision for scaling Ethereum,"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Deploying Contract and Delegation ",
+      "number": "80",
+      "url": "https://studio.youtube.com/video/_RQzjsUQdlg/edit"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 88,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3291ecbcdb25485ada2f55e53edde9d581ac5a8ebfd01472c4186b1e4538f567",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

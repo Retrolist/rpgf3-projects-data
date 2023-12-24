@@ -1,0 +1,130 @@
+{
+  "bio": "Ceo KeepCalm DAO, youtube and telegram channels",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "KeepCalm",
+  "websiteUrl": "https://www.youtube.com/channel/UCEJ7jP2FySoJ4T5g6xF5WkQ",
+  "applicant": {
+    "address": {
+      "address": "0xDfEe6525Affca9144c51C1B307D1fba75b8277C3",
+      "resolvedName": {
+        "address": "0xDfEe6525Affca9144c51C1B307D1fba75b8277C3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xDfEe6525Affca9144c51C1B307D1fba75b8277C3"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDfEe6525Affca9144c51C1B307D1fba75b8277C3.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xf7ee31b1d0abc29a0d6ef8554f28d9527e734dd07cc8bebfb646b7bf6cf84947"
+  },
+  "impactDescription": "I've done videos on quests run by the optimism team and helped more people get in touch and try to interact with the optimism network. I also often touch on different technical aspects of the network and notify about new events in my other videos, as well as daily podcasts in my Telegram channel.\nBelow I will attach links to videos with metrics, first there will be a video only on Optimism quests, and then videos in which Optimism was mentioned, as well as morning podcasts, where the topic was also Optimism.",
+  "contributionDescription": "I am the owner of Russian-language media, which allows our listeners to immerse themselves in the innovative technologies of the web-3 world, as well as to familiarize themselves with the latest events. \nYoutube: https://www.youtube.com/c/KeepCalm_crypto (14,4k subscribers)\nTelegram: https://t.me/keep_calm_official (10,1k subscribers)",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/c/KeepCalm_crypto",
+      "description": "Youtube channel"
+    },
+    {
+      "type": "OTHER",
+      "url": " https://t.me/keep_calm_official",
+      "description": "Telegram channel"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Youtube metrics overall",
+      "number": "1",
+      "url": "https://prnt.sc/94DjQdosDgl0"
+    },
+    {
+      "description": "Youtube video metric 1",
+      "number": "2",
+      "url": "https://prnt.sc/QN0j6IjPUt50"
+    },
+    {
+      "description": "Telegram podcast metric 1",
+      "number": "3",
+      "url": "https://prnt.sc/DBELpNH7fdTg"
+    },
+    {
+      "description": "Telegram podcast metric 2",
+      "number": "4",
+      "url": "https://prnt.sc/O9jy8Nq7X-Q6"
+    },
+    {
+      "description": "Telegram podcast metric 3",
+      "number": "5",
+      "url": "https://prnt.sc/Vf9f1KTE-IJB"
+    },
+    {
+      "description": "Telegram podcast metric 4",
+      "number": "6",
+      "url": "https://prnt.sc/mYZYR1dmweFS"
+    },
+    {
+      "description": "Telegram podcast metric 5",
+      "number": "7",
+      "url": "https://prnt.sc/dz0T6S8I-Yqs"
+    },
+    {
+      "description": "Telegram podcast metric 6",
+      "number": "8",
+      "url": "https://prnt.sc/M8XNf5LIR1D7"
+    },
+    {
+      "description": "Telegram podcast metric 7",
+      "number": "9",
+      "url": "https://prnt.sc/o-rB52l9dlQB"
+    },
+    {
+      "description": "Telegram podcast metric 8",
+      "number": "10",
+      "url": "https://prnt.sc/xkPYk94hMlhF"
+    },
+    {
+      "description": "Telegram podcast metric 9",
+      "number": "11",
+      "url": "https://prnt.sc/IQY70JPhTd4F"
+    },
+    {
+      "description": "Telegram podcast metric 10",
+      "number": "12",
+      "url": "https://prnt.sc/4X4mP_1myHeF"
+    },
+    {
+      "description": "Telegram podcast metric 11",
+      "number": "13",
+      "url": "https://prnt.sc/fQIJxRb3u4JU"
+    },
+    {
+      "description": "Telegram podcast metric 12",
+      "number": "14",
+      "url": "https://prnt.sc/fZ19-HEmIUgf"
+    },
+    {
+      "description": "Telegram podcast metric 13",
+      "number": "15",
+      "url": "https://prnt.sc/WkiEtPXlZMr8"
+    },
+    {
+      "description": "Telegram podcast metric 14",
+      "number": "16",
+      "url": "https://prnt.sc/EpBG_b6m28om"
+    },
+    {
+      "description": "Youtube metric 3",
+      "number": "17",
+      "url": "https://prnt.sc/e6mtlZnscZZY"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x08996e04730303bd981fca765055b18858c85c17d7717d4ece3e8c104c260b01",
+  "prelimResult": "Remove",
+  "reportReason": "Not sure this is within the retropgf scope"
+}

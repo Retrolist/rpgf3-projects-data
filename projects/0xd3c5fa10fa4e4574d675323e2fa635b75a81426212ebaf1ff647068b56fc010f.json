@@ -1,0 +1,45 @@
+{
+  "bio": "Detopia, an experimental decentralized utopia on OP network.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Detopia",
+  "websiteUrl": "https://detopia.city/",
+  "applicant": {
+    "address": {
+      "address": "0x87731e3ac4A5AfeAE1D8C7f08c434998393B0cAC",
+      "resolvedName": {
+        "address": "0x87731e3ac4A5AfeAE1D8C7f08c434998393B0cAC",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x87731e3ac4A5AfeAE1D8C7f08c434998393B0cAC"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x87731e3ac4A5AfeAE1D8C7f08c434998393B0cAC.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x87731e3ac4A5AfeAE1D8C7f08c434998393B0cAC.png",
+    "id": "OptimistProfile|0x28ce6e07916a44f006af873f71f3805f1a8504ae50657cea146d810d7aca4229"
+  },
+  "impactDescription": "Phase 1 of the houses of the city was 1000 cool digital houses and was dropped to optimism NFT community free. we gave whitelist of this collection to top 4 optimism NFT collections in all-time volume. the map of the city which its houses is tradeable is a unique experience for NFT enthusiasts on optimism.",
+  "contributionDescription": "Detopia is a web3 project which develop an onchain city on optimism. the houses of the city are NFTs which dropped to optimism NFT community free. The city has its map on our website which house holders can find their houses in the map and buy or sell them and houses holders can attach their social links in their houses as their ID. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x749eac1562fb3ec5470e15c0c2dfd157afd8611e",
+      "description": "Detopia economic houses contract"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Supply of Detopia Phase 1 houses ",
+      "number": "1000",
+      "url": "https://optimistic.etherscan.io/address/0x749eac1562fb3ec5470e15c0c2dfd157afd8611e"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd3c5fa10fa4e4574d675323e2fa635b75a81426212ebaf1ff647068b56fc010f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

@@ -1,0 +1,55 @@
+{
+  "bio": "Individual dev",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Ibnu Fals",
+  "websiteUrl": "https://twitter.com/IbnuFals0",
+  "applicant": {
+    "address": {
+      "address": "0x01238bA1B264777c87Bc8e0d1dA19E923A5E178E",
+      "resolvedName": {
+        "address": "0x01238bA1B264777c87Bc8e0d1dA19E923A5E178E",
+        "name": "ibnufals.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x01238bA1B264777c87Bc8e0d1dA19E923A5E178E"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x01238bA1B264777c87Bc8e0d1dA19E923A5E178E.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x01238bA1B264777c87Bc8e0d1dA19E923A5E178E.png",
+    "id": "OptimistProfile|0xf04bb075ccd5234f67339e66b80c1e93da2687f3ed71ba67ceea3010be137e48"
+  },
+  "impactDescription": "I hope I can have a positive impact on developers to continue to advance the Optimism network and reach more users. and I also hope that the contributions of all developers, both individuals and teams, can provide progress for all Optimism Network users. I'm sure of that",
+  "contributionDescription": "I am an Optimism network user, I think I will be very enthusiastic about joining this program. I hope my contribution as a user can strengthen the Optimism network and Optimism rollup in the future. and also, I can invite more users to try the power, security and speed of the optimism network",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x296f55f8fb28e498b858d0bcda06d955b2cb3f97",
+      "description": "I I hope everything I send can have a positive impact"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Hello world",
+      "number": "450",
+      "url": "https://optimistic.etherscan.io/token/0x296f55f8fb28e498b858d0bcda06d955b2cb3f97"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x44e4ba8a0242f4c816b88cb7b74cdfbe3f31c27832293f196ff342391f055371",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

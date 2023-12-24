@@ -1,0 +1,117 @@
+{
+  "bio": "DeFi Aggregator with multi-input and multi-output swaps.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Odos",
+  "websiteUrl": "https://app.odos.xyz",
+  "applicant": {
+    "address": {
+      "address": "0x6De9109a2333845A15ddE1f2F0c020b37421e1f5",
+      "resolvedName": {
+        "address": "0x6De9109a2333845A15ddE1f2F0c020b37421e1f5",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6De9109a2333845A15ddE1f2F0c020b37421e1f5"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De9109a2333845A15ddE1f2F0c020b37421e1f5.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6De9109a2333845A15ddE1f2F0c020b37421e1f5.png",
+    "id": "OptimistProfile|0xdffcd1f331cea28b9f33a3c35f6e5554bdf3304f6e0d5a9968593bcced612de9"
+  },
+  "impactDescription": "On user experience and adoption impact, Odos currently provides swapping services to over 50k monthly users doing almost $100M in monthly volume across Base and optimism. In addition to normal swapping, Odos offers convenient multi-input and multi-output swaps, as well as easy access to lots of DeFi applications.\n\nOn the developer ecosystem side of things, the Odos API provides developers an easy and free way to efficiently and effectively access all of the applications in Optimism's DeFi ecosystem. It is the sole swap solution for 5 distinct Optimistic DeFi UIs (listed above), as well as many meta-aggregation platforms. Additionally, integrated DeFi apps can benefit from additional volume for providing good prices without having to attract users directly.",
+  "contributionDescription": "Odos provides optimal routing through and access to over 53 DeFi apps on Base Mainnet and 39 DeFi apps on Optimism Mainnet. This provides users with a massively improved UX where they can specify a desired swap and/or DeFi interaction (e.g. deposit liquidity into Curve) and get access to the best place(s) to execute this action. \n\nAmong Odos' unique tools and contributions are native multi-input and multi-output swaps, efficient complex routing that exports volume across all DEXs on Optimism, and easy access to more advanced DeFi applications like lending protocols, yield optimizers, CDPs, and liquidity provisioning in DEXs. All of this is accessible through Odos' intuitive dApp, as well as through its free public API that is leveraged in many applications across the Optimism ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.odos.xyz/",
+      "description": "(Optimism & Base) Main Odos dApp"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://api.odos.xyz/",
+      "description": "(Optimism & Base) Main Odos API for interacting with any DeFi app"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.overnight.fi/swap",
+      "description": "(Optimism & Base) Overnight Finance dApp leveraging Odos API"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.angle.money/",
+      "description": "(Optimism) Angle dApp leveraging Odos API"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://baseswap.fi/swap",
+      "description": "(Base) BaseSwap dApp leveraging Odos API"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.dackieswap.xyz/swap?chain=base",
+      "description": "(Base) DackieSwap dApp leveraging Odos API"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://base.kokonutswap.finance/",
+      "description": "(Base) Kokonut dApp leveraging Odos API"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of V2 swaps on Base",
+      "number": "206874",
+      "url": "https://basescan.org/address/0x19ceead7105607cd444f5ad10dd51356436095a1"
+    },
+    {
+      "description": "# of V1 swaps on Optimism",
+      "number": "554714",
+      "url": "https://optimistic.etherscan.io/address/0x69dd38645f7457be13571a847ffd905f9acbaf6d"
+    },
+    {
+      "description": "# of V2 swaps on Optimism",
+      "number": "46998",
+      "url": "https://optimistic.etherscan.io/address/0xca423977156bb05b13a2ba3b76bc5419e2fe9680"
+    },
+    {
+      "description": "Optimism Millions of volume (30D)",
+      "number": "23",
+      "url": "https://dappradar.com/dapp/odos"
+    },
+    {
+      "description": "Base Millions of volume (30D)",
+      "number": "70",
+      "url": "https://dappradar.com/dapp/odos"
+    },
+    {
+      "description": "Optimism 30D UAW",
+      "number": "11880",
+      "url": "https://dappradar.com/dapp/odos"
+    },
+    {
+      "description": "Base 30D UAW",
+      "number": "41920",
+      "url": "https://dappradar.com/dapp/odos"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 2619.19,
+      "description": "Nominated for RetroPGF 2 and received a small funding allocation"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb109e7bbedcc8e7b6d89619dae850b707ba071923532899ff2aa4b472af64049",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 35,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

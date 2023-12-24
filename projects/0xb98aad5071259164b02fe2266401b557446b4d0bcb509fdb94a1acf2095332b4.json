@@ -1,0 +1,71 @@
+{
+  "bio": "Open Source, Permissionless & privacy conscious DeFi portfolio tracker",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "LlamaFolio",
+  "websiteUrl": "https://llamafolio.com",
+  "applicant": {
+    "address": {
+      "address": "0x2cd0ac587Fc0E6FBcF8A47A449971649E7dab835",
+      "resolvedName": {
+        "address": "0x2cd0ac587Fc0E6FBcF8A47A449971649E7dab835",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2cd0ac587Fc0E6FBcF8A47A449971649E7dab835"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2cd0ac587Fc0E6FBcF8A47A449971649E7dab835.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2cd0ac587Fc0E6FBcF8A47A449971649E7dab835.png",
+    "id": "OptimistProfile|0x59545899795f43f8642a6c4c321ea2356cbeb4723588d75b1318d32145b63710"
+  },
+  "impactDescription": "- LlamaFolio supports 38 DeFi protocols on Optimism for a cumulative TVL of $577m (according to DefiLlama).\n- Our API is being used by LlamaSwap (DEX aggregator) to retrieve users tokens balances (>$726m volume on Optimism and Base).\n- Open sourced our API (http://github.com/llamafolio/llamafolio-api) (8 contributors)\n- Open sourced a registry of popular tokens (https://github.com/llamafolio/llamafolio-tokens) (~4k download on npm)\n- Open sourced an EVM indexer (compatible with Optimism)(https://github.com/llamafolio/evm-indexer) (20+ forks on github)",
+  "contributionDescription": "LlamaFolio is a portfolio tool to help users track their on-chain assets.\n\nAt a high level, end users can check (for any wallet address):\n- Wallet positions: ERC20 balances\n- DeFi positions: lending/borrowing, farming, staking, claimable rewards, health factors, stable vs volatile distribution and more\n- Transactions history: transactions from/to, tokens sent/received, gas used\n- Calendar: important upcoming events like ENS expiration, DAO proposals of tokens they're invested in, tokens vest/unlock\n\nLlamaFolio is open source and accepts contributions from all developers to help gather the most accurate on-chain info and be as transparent as possible.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://llamafolio.com",
+      "description": "LlamaFolio website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://api.llamafolio.com",
+      "description": "LlamaFolio API"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/llamafolio",
+      "description": "LlamaFolio open source organization"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of protocols supported",
+      "number": "38",
+      "url": "https://llamafolio.com/protocols"
+    },
+    {
+      "description": "cumulative TVL of protocols supported",
+      "number": "577000000",
+      "url": "https://llamafolio.com/protocols"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 8246.43,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb98aad5071259164b02fe2266401b557446b4d0bcb509fdb94a1acf2095332b4",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 24,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Portfolio Tracker"
+}

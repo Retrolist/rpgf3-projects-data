@@ -1,0 +1,47 @@
+{
+  "bio": "Interested in crypto...",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "najme",
+  "websiteUrl": "https://www.najme.com",
+  "applicant": {
+    "address": {
+      "address": "0x4CCb200a6389296c9baef15F4D41DfA9F42a1061",
+      "resolvedName": {
+        "address": "0x4CCb200a6389296c9baef15F4D41DfA9F42a1061",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x4CCb200a6389296c9baef15F4D41DfA9F42a1061"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4CCb200a6389296c9baef15F4D41DfA9F42a1061.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x5719b8bf9845d511f9ef46af90984b38ac8c2b8b871185f3226b24c237fd6a52"
+  },
+  "impactDescription": "Hello\nMy familiarity with the crypto field is with the Optimiz project, and that is why it is my favorite project, and compared to other projects, it obviously has a professional team and a strong structure, which is very necessary for users to work in this field, and also It has high security, which is one of the most important issues for users. On this basis, I would like to participate in various projects and platforms of Optimiz, and in this regard, I will introduce this popular project to all my friends who are active in the field of crypto. Thanks to the professional and expert team of Optimiz.",
+  "contributionDescription": "Hello\nMy familiarity with the crypto field is with the Optimiz project, and that is why it is my favorite project, and compared to other projects, it obviously has a professional team and a strong structure, which is very necessary for users to work in this field, and also It has high security, which is one of the most important issues for users. On this basis, I would like to participate in various projects and platforms of Optimiz, and in this regard, I will introduce this popular project to all my friends who are active in the field of crypto. Thanks to the professional and expert team of Optimiz.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/najme15174433",
+      "description": "1"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "twitter",
+      "number": "1",
+      "url": "https://twitter.com/najme15174433"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x075f5a0f41dd503a452a79c191a2866b95cdd5487a7d36d0a109de4ccef0841e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

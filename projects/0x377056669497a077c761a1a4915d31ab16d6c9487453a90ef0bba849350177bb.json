@@ -1,0 +1,54 @@
+{
+  "bio": "I am crypto user, investor.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Protocol Guild",
+  "websiteUrl": "https://app.optimism.io/retropgf-discovery/0x4C0a466DF0628FE8699051b3Ac6506653191cc21",
+  "applicant": {
+    "address": {
+      "address": "0x7a2f8D3e7FAb55D6F1CeCA737004f0cD9C3729d7",
+      "resolvedName": {
+        "address": "0x7a2f8D3e7FAb55D6F1CeCA737004f0cD9C3729d7",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x7a2f8D3e7FAb55D6F1CeCA737004f0cD9C3729d7"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7a2f8D3e7FAb55D6F1CeCA737004f0cD9C3729d7.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xed52c1d13b92daf1e481516e2521052fa953c55422f1d4d6ba8fd782b1d3c6ad"
+  },
+  "impactDescription": "I am working on promotion among friends and family, by spreading educational materials, videos and tutorials. I actively participate in crypto presentations and webinars on the Internet and in universities. I believe that crypto currencies will one day replace standard FIAT currencies and we will be freer.",
+  "contributionDescription": "My favorite RetroPGF is Protocol Guild.\nMain goals of this project are:\n1) A collective of Ethereum contributors\n2) working to boost the incentives around stewarding the core protocol\n3) by maintaining an onchain registry of its membership\n4) which allows ecosystem sponsors to directly fund the membership, their work, the public good.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://protocol-guild.readthedocs.io/en/latest/",
+      "description": "Main web of Guild Protocol"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "OP",
+      "number": "10",
+      "url": "https://optimism.mirror.xyz/wiHMKqsbAQnK51Se3MraSnvf0blwRzS9jguojEmKKVc"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x377056669497a077c761a1a4915d31ab16d6c9487453a90ef0bba849350177bb",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

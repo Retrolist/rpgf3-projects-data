@@ -1,0 +1,55 @@
+{
+  "bio": "Where tech meets web3",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Junipero",
+  "websiteUrl": "https://juniperotoken.com",
+  "applicant": {
+    "address": {
+      "address": "0xa017aeF15a6EFcb0585955f5BC17a0b067Ac712b",
+      "resolvedName": {
+        "address": "0xa017aeF15a6EFcb0585955f5BC17a0b067Ac712b",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa017aeF15a6EFcb0585955f5BC17a0b067Ac712b"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa017aeF15a6EFcb0585955f5BC17a0b067Ac712b.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x105ad17bb6b6a1a7c577554b097d205df3f17b6e2938e30830fbe5da7ee47e3d"
+  },
+  "impactDescription": "I'm a crypto developer working tirelessly to explore the optimism evm,where technology meets web3,I'm a community moderate,social media influencer,lover of Defi and and investor,I would love to explore the op ecosystem and help build and bring out that which op has through RetroPGF",
+  "contributionDescription": "I'm a crypto developer working tirelessly to explore the optimism evm,where technology meets web3,I'm a community moderate,social media influencer,lover of Defi and and investor,I would love to explore the op ecosystem and help build and bring out that which op has through RetroPGF",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://etherscan.com",
+      "description": "In this badge holders can be able to find out my contributions"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#16",
+      "number": "10",
+      "url": "https://etherscan.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3e5afdbbc70bb1a81f85f0bb093d22d450e8d933ba41b2675e49a4ec7c45397d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

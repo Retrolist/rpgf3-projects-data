@@ -1,0 +1,69 @@
+{
+  "bio": "Empowering projects and users to operate across any chain.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Archly",
+  "websiteUrl": "https://archly.fi",
+  "applicant": {
+    "address": {
+      "address": "0x0c5D52630c982aE81b78AB2954Ddc9EC2797bB9c",
+      "resolvedName": {
+        "address": "0x0c5D52630c982aE81b78AB2954Ddc9EC2797bB9c",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0c5D52630c982aE81b78AB2954Ddc9EC2797bB9c"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0c5D52630c982aE81b78AB2954Ddc9EC2797bB9c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0c5D52630c982aE81b78AB2954Ddc9EC2797bB9c.png",
+    "id": "OptimistProfile|0xdbbe32eff2d005b113f8ba152c537f9dd601f422fffafb476a274b7d2307cfda"
+  },
+  "impactDescription": "- The Rainbow Road has enabled users to migrate Arc tokens to and from Base and Optimism.\n\n- Worked with team at Chainlink to open lanes between Base and Optimism for the Rainbow Road as well as other chains supported by Chainlink's CCIP and Archly.\n\n- Enabled the ability to bring products and services from remote chains to Optimism and Base, such as Chainlink's Automation.",
+  "contributionDescription": "We built the Rainbow Road that allows for resources/data to be exchanged between chains in a fully permissionless and decentralized way. The Rainbow Road does this by abstracting away the needed integration with message passing protocols/services such as Chainlink CCIP, Axelar GMP, and LayerZero to provide a reliable, robust, and scalable platform to accomplish tasks across any chain.  This enables projects and users to:\n\n- Transfer tokens to and from chains, like Base and Optimism\n- Leverage services like Chainlink's Automation, VRF, Data Feeds on any chain\n- Execute actions on remote chains\n\nBy lowering the barrier to go and operate cross-chain through the reduction of development costs, any project can bring their token(s) to Base or Optimism growing their community.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x339dec659aD3ccCB45F298365749AA96a66CD80D#code",
+      "description": "Remotely executed contract to mint Arc for weekly emissions from any chain."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://polygonscan.com/tx/0x203361fa76b5eb4731b5111d0f163008b672f0c7748bfb57f1774dfe142ad4cc",
+      "description": "Chainlink Automation on Polygon initiating execution of remote contract on Base."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://axelarscan.io/gmp/0x203361fa76b5eb4731b5111d0f163008b672f0c7748bfb57f1774dfe142ad4cc:202",
+      "description": "Execution passing through Axelar and invoking the remote contract on Base."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/tx/0xb5bb515b4e4e654266d40ba4b40ef42310340f055206e1c3bc414dcc36dfad1e",
+      "description": "Resultiing actions taken on Base from Chainlink Automation started on Polygon."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of txs on Base since launch on 10/19",
+      "number": "12",
+      "url": "https://basescan.org/address/0x03a2bc8c6bCEBf3E1de4cFDfb92E859FcFbeF2B0#events"
+    },
+    {
+      "description": "# of txs on OP since launch on 10/19",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0x03a2bc8c6bCEBf3E1de4cFDfb92E859FcFbeF2B0#events"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xca4751a5419a9e32f31487355d8180652b8205bb8e583fde65bbca93722ad2d5",
+  "prelimResult": "Keep",
+  "reportReason": "I would appreciate someone looked into the legitamacy of this",
+  "includedInBallots": 32,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

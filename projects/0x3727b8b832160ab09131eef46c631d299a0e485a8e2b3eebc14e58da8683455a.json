@@ -1,0 +1,63 @@
+{
+  "bio": "Writing including interviews, analysis & deep dives about tech & events in web3",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Papajams",
+  "websiteUrl": "http://paragraph.xyz/@papajams.eth",
+  "applicant": {
+    "address": {
+      "address": "0x55A5705453Ee82c742274154136Fce8149597058",
+      "resolvedName": {
+        "address": "0x55A5705453Ee82c742274154136Fce8149597058",
+        "name": "papajams.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x55A5705453Ee82c742274154136Fce8149597058"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x55A5705453Ee82c742274154136Fce8149597058.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x55A5705453Ee82c742274154136Fce8149597058.png",
+    "id": "OptimistProfile|0x2411f6216b08b22878c694c1b249894b208cd10457369919ba606090f0902c19"
+  },
+  "impactDescription": "The impact will be meaningful to both native and new/beginner users. A cross platform approach to music releasing was backed by us cataloging every step to make it easier for others (mirror.xyz) and leveraging collectibles has helped on board new musicians/artists to the space.",
+  "contributionDescription": "I write articles unpacking the virtues, tools, tech, people, & ethos underpinning web3. From decentralised dispute resolution to DAO governance - I tell stories, undertake analysis, & share learning. I would like to continue to do so, expanding the scope and scale of interviews as well as topics covered.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://paragraph.xyz/@papajams.eth",
+      "description": "Writing educational content e.g. smart contract development and self custody"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/papajams.eth/l2PlHqLkIZJw9fA6x708AZSK0vlu8pNEFItqSndnCc0",
+      "description": "Releasing music on Zora and sound xyz "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of reading subscribers",
+      "number": "3400",
+      "url": "https://medium.com/@papajams"
+    },
+    {
+      "description": "Optimism Transactions",
+      "number": "442",
+      "url": "https://optimistic.etherscan.io/address/0x55a5705453ee82c742274154136fce8149597058"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "Original (and subsequent) OP Airdrop"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3727b8b832160ab09131eef46c631d299a0e485a8e2b3eebc14e58da8683455a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

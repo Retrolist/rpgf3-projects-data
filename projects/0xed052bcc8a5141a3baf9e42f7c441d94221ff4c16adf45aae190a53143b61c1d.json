@@ -1,0 +1,102 @@
+{
+  "bio": "Hop DAO governs Hop Protocol and accelerates growth of the cross-chain ecosystem",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Hop DAO",
+  "websiteUrl": "https://hop.exchange/",
+  "applicant": {
+    "address": {
+      "address": "0x9f8d2dafE9978268aC7c67966B366d6d55e97f07",
+      "resolvedName": {
+        "address": "0x9f8d2dafE9978268aC7c67966B366d6d55e97f07",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9f8d2dafE9978268aC7c67966B366d6d55e97f07"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9f8d2dafE9978268aC7c67966B366d6d55e97f07.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9f8d2dafE9978268aC7c67966B366d6d55e97f07.png",
+    "id": "OptimistProfile|0xb17e85d9449193259f294f6a765423a8d3c2b4bd0541128ffcdc3262b92ef64e"
+  },
+  "impactDescription": "Impact has been in the form of measurable value, technical contributions, and less-tangible efforts:\n\n* ~$2.5 million (~1% of airdrop #1) OP reallocated from sybil hunters to real Optimism users with Hop DAOs sybil repo.\n* Established standards for cross-chain bridging and messaging. Provided insights, feedback, and code to be reused in L2 systems. Co-authored EIP-5164 to help developers easily integrate with L2s.\n* Over $700 million and 325k unique users onboarded into the Optimism ecosystem.\n* Over 1 million txs made on Optimism chains, translating to 250+ ETH in fees paid to secure Optimism.\n* Gave feedback to Optimism about the code and SDK and offered suggestions.\n* Distributed 250k OP with a novel mechanism for token distribution, adopted by other teams for onboarding into Optimism.",
+  "contributionDescription": "Hop Protocol has created an L2 bridge experience that has helped over 300k users onboard more than $725 million into the Optimism ecosystem and has accounted for over 1 million transactions on Optimism chains. Hop has supported Optimism and Base since day 1 of their public launches, as well as their respective testnets.\n\nHop has established standards for cross-chain bridging and messaging. These contributions have provided valuable insights that have influenced the design and growth of the L2 ecosystem & created EIP-5164.\n\nOn the non-technical side, Hop developed a Sybil detection framework used by Optimism, filtering out over 2k Sybil hunters from Optimism Airdrop\u00a0#1. Hop also introduced a novel mechanism for OP token distribution, adopted by other teams to boost onboarding into Optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://volume.hop.exchange/",
+      "description": "Hop Protocol volume statistics for users bridging into Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/gf-phase-0-proposal-hop-protocol/944",
+      "description": "A novel mechanism for OP distribution by refunding users of Optimism"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/hop-protocol/hop-airdrop",
+      "description": "Hop airdrop repo used to remove ~2k sybil addresses from OP Airdrop #1"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/HopProtocol/status/1572379006686887938",
+      "description": "Supported Optimism usage via the Optimism Quests"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://eips.ethereum.org/EIPS/eip-5164",
+      "description": "Advanced cross-chain messaging standards to enable broader L2 usage"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Addresses removed from OP Airdrop #1",
+      "number": "2000",
+      "url": "https://gov.optimism.io/t/tooling-utilities-nominations-for-rpgf2/4639/76?u=jonas"
+    },
+    {
+      "description": "Dollars onboarded into Optimism chains",
+      "number": "700000000",
+      "url": "https://volume2.hop.exchange/cumulative/"
+    },
+    {
+      "description": "Num accts bridged into Optimism chains",
+      "number": "325000",
+      "url": "https://explorer.hop.exchange/"
+    },
+    {
+      "description": "OP incentives distributed to users",
+      "number": "250000",
+      "url": "https://optimistic.etherscan.io/address/0x45269f59aa76bb491d0fc4c26f468d8e1ee26b73#tokentxns"
+    },
+    {
+      "description": "Num Hop Protcol txs on Optimism chains",
+      "number": "1000000",
+      "url": "https://dune.com/queries/3128782"
+    },
+    {
+      "description": "EIP Number coauthored to grow L2s",
+      "number": "5164",
+      "url": "https://eips.ethereum.org/EIPS/eip-5164"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000000,
+      "description": "Introduced novel mechanism for partner token distribution as refunds on Optimism"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xed052bcc8a5141a3baf9e42f7c441d94221ff4c16adf45aae190a53143b61c1d",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 50,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

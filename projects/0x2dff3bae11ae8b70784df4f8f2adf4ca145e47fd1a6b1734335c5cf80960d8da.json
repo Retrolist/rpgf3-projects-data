@@ -1,0 +1,53 @@
+{
+  "bio": "DeFi trader. I make educational content in Web3 and how to make the best of it.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Ssge",
+  "websiteUrl": "https://x.com/web3sage_",
+  "applicant": {
+    "address": {
+      "address": "0xA5F03C8f253bFF10EdDf5059d0796CfF5A3f539a",
+      "resolvedName": {
+        "address": "0xA5F03C8f253bFF10EdDf5059d0796CfF5A3f539a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xA5F03C8f253bFF10EdDf5059d0796CfF5A3f539a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA5F03C8f253bFF10EdDf5059d0796CfF5A3f539a.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA5F03C8f253bFF10EdDf5059d0796CfF5A3f539a.png",
+    "id": "OptimistProfile|0x8270606258c23a99d9be95d41f8e640cb7489d9d83de67b51096d13cd69010c9"
+  },
+  "impactDescription": "The contents I write has gotten quite the number of reach, bringing new users not only in the defi space but into using the OPTIMISM later 2 chain. So with this I guess it's safe to say that my contribution has;\n\nOnboarded new users into the OPTIMISM chain.\n\nI wish to still do more in the future and I hope to get the grant not only as a form of encouragement but as a source to produce more onboarding user content I to OP stack.",
+  "contributionDescription": "I am a DeFi researcher, as I always engage myself in different optimism campaigns, trying out different protocol application of optimism. I staked on Velodrome during the Taho campaign, minted NFTs and did other things on-chain. But mostly, I would like to receive the RetroPGF for an optimism onboarding content I wrote: \n\nA detailed guide on HOW TO GET INTO OPTIMISM with Metamask.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/web3sage_/status/1638945389876224012?t=VjNFR5W-Fh4iaZZ5SpPr5A&s=19",
+      "description": "My thread on how to get into Optimism as a Newbie"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of Bookmarks",
+      "number": "20",
+      "url": "https://twitter.com/web3sage_/status/1638945389876224012?t=VjNFR5W-Fh4iaZZ5SpPr5A&s=19"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10,
+      "description": "Optimism x OmniBTC swap campaign"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2dff3bae11ae8b70784df4f8f2adf4ca145e47fd1a6b1734335c5cf80960d8da",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

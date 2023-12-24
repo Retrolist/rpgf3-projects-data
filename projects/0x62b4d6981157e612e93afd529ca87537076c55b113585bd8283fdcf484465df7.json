@@ -1,0 +1,79 @@
+{
+  "bio": "Engineer-Trader",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "cakir",
+  "websiteUrl": "https://github.com/mstfo",
+  "applicant": {
+    "address": {
+      "address": "0x979651d89420431eD2Db5712ef93475c77167969",
+      "resolvedName": {
+        "address": "0x979651d89420431eD2Db5712ef93475c77167969",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x979651d89420431eD2Db5712ef93475c77167969"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x979651d89420431eD2Db5712ef93475c77167969.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x979651d89420431eD2Db5712ef93475c77167969.jpeg",
+    "id": "OptimistProfile|0x6be8ea3bb1e84b71aa1c4b46be537619c63d0bea56b077943599de214b547d56"
+  },
+  "impactDescription": "I can introduce optimism to new users and mentor them, explaining how they can deal with problems                                                                                                                                                                    ",
+  "contributionDescription": "I can introduce optimism to new users and mentor them, explaining how they can deal with problems                                                                                                                                                                    ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/mstfo",
+      "description": "."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "1",
+      "url": "https://github.com/mstfo"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 100000,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 100000,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 100000,
+      "description": ""
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 100000,
+      "description": ""
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x62b4d6981157e612e93afd529ca87537076c55b113585bd8283fdcf484465df7",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

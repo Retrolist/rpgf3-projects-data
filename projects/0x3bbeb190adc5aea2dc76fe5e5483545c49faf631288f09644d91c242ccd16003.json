@@ -1,0 +1,83 @@
+{
+  "bio": "hacking the op stack",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Diego",
+  "websiteUrl": "https://github.com/0xfuturistic",
+  "applicant": {
+    "address": {
+      "address": "0xe3d8E58551d240626D50EE26FAFF2649e1EEE3cb",
+      "resolvedName": {
+        "address": "0xe3d8E58551d240626D50EE26FAFF2649e1EEE3cb",
+        "name": "antidiego.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xe3d8E58551d240626D50EE26FAFF2649e1EEE3cb"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe3d8E58551d240626D50EE26FAFF2649e1EEE3cb.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe3d8E58551d240626D50EE26FAFF2649e1EEE3cb.png",
+    "id": "OptimistProfile|0x7e3a0149c37cb8ee61884aaba1598212dc7756d7024b4c3c0efe7d291be65238"
+  },
+  "impactDescription": "Many of the projects were research proofs of concept that introduced original ideas, so the impact lies on the research value rather than on seeking for immediate adoption. For example, the project Sequencer Commitments addressed the lack of programmability at the sequencer level in rollups. The framework enables programmable sequencing policies, new MEV mitigation techniques, and more general sequencing services, directly embedded into the Stack. The software was used as foundational research on Protocol-enforced Proposer Commitments (PEPC).",
+  "contributionDescription": "I developed several hacks for the OP Stack, introducing concepts such as sequencer commitments, recursive rollups, and the tokenization of the OP Stack proposer. These hacks were modifications directly on the repo, with a few being developed at hackathons and most being developed as research side-projects.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xfuturistic/sequencer-commitments",
+      "description": "A hack for the OP Stack pioneering sequencer commitments"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/cairoeth/restaking",
+      "description": "A protocol for restaking ERC20 tokens to power recursive rollups on the OP Stack"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xfuturistic/tokenized_proposers",
+      "description": "Tokenization of the proposer of the OP Stack"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xfuturistic/nounish-rollup",
+      "description": "Nouns-style auctions for the proposer rights of the OP Stack"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xfuturistic/vrgda-rollup",
+      "description": "Minting of proposer opportunities of the OP Stack with VRGDAs"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Clones",
+      "number": "88",
+      "url": "https://github.com/0xfuturistic/nounish-rollup/graphs/traffic"
+    },
+    {
+      "description": "Clones",
+      "number": "85",
+      "url": "https://github.com/0xfuturistic/vrgda-rollup/graphs/traffic"
+    },
+    {
+      "description": "Clones",
+      "number": "28",
+      "url": "https://github.com/0xfuturistic/sequencer-commitments/graphs/traffic"
+    },
+    {
+      "description": "Bookmarks",
+      "number": "37",
+      "url": "https://twitter.com/0xfuturistic/status/1702020988962226332"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x3bbeb190adc5aea2dc76fe5e5483545c49faf631288f09644d91c242ccd16003",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 41,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack development & research"
+}

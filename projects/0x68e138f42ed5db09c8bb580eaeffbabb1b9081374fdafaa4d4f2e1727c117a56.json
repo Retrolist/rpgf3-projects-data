@@ -1,0 +1,45 @@
+{
+  "bio": "crypto adopter ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "denassr",
+  "websiteUrl": "https://twitter.com/DenaSSR",
+  "applicant": {
+    "address": {
+      "address": "0x929a5b2c3150FB31ba8f6aD8E5136aab71a645F7",
+      "resolvedName": {
+        "address": "0x929a5b2c3150FB31ba8f6aD8E5136aab71a645F7",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x929a5b2c3150FB31ba8f6aD8E5136aab71a645F7"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x929a5b2c3150FB31ba8f6aD8E5136aab71a645F7.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x45f1c20cf21c9f82d961d2282fd6638a03bcf91c78739d780e62f90114a31ac0"
+  },
+  "impactDescription": "i am optimism user\nllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll                                                             ",
+  "contributionDescription": "i am optimisn early user, i have liquidity on optimism chain and i will always use optimism chain, in the future i have a plan to grow my liquidity on optimism chain. \nllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/DenaSSR",
+      "description": "1"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "420",
+      "url": "https://twitter.com/DenaSSR"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x68e138f42ed5db09c8bb580eaeffbabb1b9081374fdafaa4d4f2e1727c117a56",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

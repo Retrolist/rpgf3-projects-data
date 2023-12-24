@@ -1,0 +1,48 @@
+{
+  "bio": "A weekly newsletter dedicated to delivering news about the Optimism Superchain.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "The Optimism Superchain Roundup",
+  "websiteUrl": "https://theopsuperchainroundup.substack.com/",
+  "applicant": {
+    "address": {
+      "address": "0x8D535b97111A4EF2dE51cb7bc5d0D4B95DF1A9A5",
+      "resolvedName": {
+        "address": "0x8D535b97111A4EF2dE51cb7bc5d0D4B95DF1A9A5",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x8D535b97111A4EF2dE51cb7bc5d0D4B95DF1A9A5"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8D535b97111A4EF2dE51cb7bc5d0D4B95DF1A9A5.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8D535b97111A4EF2dE51cb7bc5d0D4B95DF1A9A5.png",
+    "id": "OptimistProfile|0x372fb2b8afa82142c5f3c3657c9f97c10a6c9674cb3c5dd50b5a9b088ef963dd"
+  },
+  "impactDescription": "\"The OP Superchain Roundup\" newsletter has impacted the Optimism Collective in the following ways:\n\nNews Updates: The newsletter delivers regular updates on significant events, launches, partnerships, and advancements within the Optimism Ecosystem. These updates are presented in a concise and easily understandable format, ensuring that subscribers stay well-informed and engaged with the latest developments.\n\nEcosystem Insights: In addition to news updates, the newsletter provides valuable insights, analysis, and commentary on key topics within the Optimism Ecosystem. It covers important discussions such as the competition between Layer 2 stacks, Optimism Governance Seasons, and the app-chain debate. These insights spark meaningful discussions among community members.",
+  "contributionDescription": "The Optimism Superchain Roundup is a weekly newsletter focused on bringing readers the latest updates and developments happening within the Optimism ecosystem.\n\nEach issue covers multiple topics from that past week across the technical, economic and community aspects of Optimism. Past topics covered include governance updates, protocol launches/upgrades, grants/funding announcements, adoption metrics, collaboration news and more. For example, we have extensively covered the recent competition for adoption between different Layer 2 stacks. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://theopsuperchainroundup.substack.com/",
+      "description": "The Optimism Superchain Roundup Newsletter Page"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Subscriber Count",
+      "number": "103",
+      "url": "https://substack.com/profile/167392684-the-op-superchain-roundup/posts"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x23e8758d25a0b7e8d40da7506e696c539174e69c80d0490ac0bd8a8094dd1d2e",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 14,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

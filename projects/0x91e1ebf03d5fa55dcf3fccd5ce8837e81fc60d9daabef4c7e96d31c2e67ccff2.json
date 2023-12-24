@@ -1,0 +1,54 @@
+{
+  "bio": "I am a Blockchain user, NFT Holder, token, coin..",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Vtcking",
+  "websiteUrl": "https://www.sound.xyz/user/vtcking.eth",
+  "applicant": {
+    "address": {
+      "address": "0x1014d57aDa2F05b967578Beb253e28Fa31172C39",
+      "resolvedName": {
+        "address": "0x1014d57aDa2F05b967578Beb253e28Fa31172C39",
+        "name": "vtcking.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x1014d57aDa2F05b967578Beb253e28Fa31172C39"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1014d57aDa2F05b967578Beb253e28Fa31172C39.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xadec8ed2687c386a62fec75d5e36f92f5ad240157a82faf1adaed68fa68e4dca"
+  },
+  "impactDescription": "Optimism Collective - I purchased NFTs and stored them in my blockchain wallet. I have participated in #Op's 18 Quest campaign, I have made fee transactions to brige an NFT from Ether mainet via OP mainet, I have been supporting NFT music on platforms like Soundxyz, opensea.. . mint and save us... we have joined responsible dog communities like Camel Venture to promote NFT music projects on #OP",
+  "contributionDescription": "I want to receive a worthy reward for the effort and dedication I have put into supporting the project and I would be very grateful if I receive those rewards, which shows the fairness and recognition of the project. project with my contributions. Reward is a reward and also a measure and motivation for a blockchain community to develop, which makes us come closer together and work together better.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x1014d57ada2f05b967578beb253e28fa31172c39",
+      "description": "Find them in my wallet on the blockchain ledger, I've left them above."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "NFT Music",
+      "number": "73",
+      "url": "https://www.sound.xyz/user/vtcking.eth"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x91e1ebf03d5fa55dcf3fccd5ce8837e81fc60d9daabef4c7e96d31c2e67ccff2",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

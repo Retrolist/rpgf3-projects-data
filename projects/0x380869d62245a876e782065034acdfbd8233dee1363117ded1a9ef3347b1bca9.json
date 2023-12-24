@@ -1,0 +1,63 @@
+{
+  "bio": "Grateful is a Web3 recurring payment method that empowers a global gift economy",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Grateful",
+  "websiteUrl": "https://imgrateful.io",
+  "applicant": {
+    "address": {
+      "address": "0xfF284BADB6f6030C726782767fe45770570Ca381",
+      "resolvedName": {
+        "address": "0xfF284BADB6f6030C726782767fe45770570Ca381",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xfF284BADB6f6030C726782767fe45770570Ca381"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfF284BADB6f6030C726782767fe45770570Ca381.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xfF284BADB6f6030C726782767fe45770570Ca381.png",
+    "id": "OptimistProfile|0x04bb6d3501802a73126f2044c15a38145a641a0c78b8f4163b26d4ee400e8d01"
+  },
+  "impactDescription": "Grateful's primary impact on the Optimism Collective is providing the entire community of projects, creators, and individuals within the Optimism ecosystem with a seamless method for recurring payments. This initiative fosters financial stability, enabling sustainable growth and fostering a thriving ecosystem. Additionally, Grateful promotes a culture of gratitude, enhancing collaboration and mutual support among community members. By facilitating predictable revenue streams, Grateful empowers contributors, ensuring their continuous dedication to the collective's growth and innovation.",
+  "contributionDescription": "Grateful addresses the global challenge of monetization for diverse entities like projects, individuals, communities, creators, and DAOs, often struggling to monetize their contributions. Traditional solutions rely on sponsors or donations, rarely incorporating gratitude or recurring payments.\n\nEmphasizing the importance of recurring payments (subscriptions), Grateful establishes a predictable economic model, ensuring consistent support. The core lies in balancing giving and receiving. Grateful operates as a public good, charging 0% fees to both creators and subscribers. Sustainability is maintained through its own subscriptions, aligning with the model advocated for others.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xa503A55eb196AAaE0Baa6AE68A4710A4e990df09",
+      "description": "Contract"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Grateful-protocol/grateful-contracts",
+      "description": "Smart Contracts"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://usecannon.com/packages/grateful/latest/10-main",
+      "description": "Deployment"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Profiles Created",
+      "number": "80",
+      "url": "https://opensea.io/collection/grateful-protocol-profile-1"
+    },
+    {
+      "description": "Active subscriptions",
+      "number": "50",
+      "url": "https://opensea.io/collection/grateful-payments"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x380869d62245a876e782065034acdfbd8233dee1363117ded1a9ef3347b1bca9",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 27,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

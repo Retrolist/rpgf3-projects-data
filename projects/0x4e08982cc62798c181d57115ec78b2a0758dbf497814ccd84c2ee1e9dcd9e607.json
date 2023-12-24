@@ -1,0 +1,127 @@
+{
+  "bio": "Empowering the Portuguese-speaking community with education about web3.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Modular Crypto",
+  "websiteUrl": "https://modularcrypto.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0x0AF52E01F87fCE46caf4c5B4C03e879c3441a19F",
+      "resolvedName": {
+        "address": "0x0AF52E01F87fCE46caf4c5B4C03e879c3441a19F",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0AF52E01F87fCE46caf4c5B4C03e879c3441a19F"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0AF52E01F87fCE46caf4c5B4C03e879c3441a19F.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0AF52E01F87fCE46caf4c5B4C03e879c3441a19F.png",
+    "id": "OptimistProfile|0x8e1d2ce2ee0a3f681fc1e4801fbe5fe27320bd28e837df5acabf8028c4a3f788"
+  },
+  "impactDescription": "Modular Crypto is one of the largest sources of original content from Optimism in Portuguese. We\u2019ve created podcasts, articles, guides, workshops, threads and virtual events to spread the Optimistic vision and educate people.\n\nWith more than 130 podcasts and interviews published, 27 articles posted about Optimism/Ethereum ecosystem, and, in total, more than 50 content dedicated to Optimism, OP Stack and OP Chains, we believe that we have positively influenced the OP ecosystem, especially with regard to adoption by the Brazilian crypto community.\n\nFurthermore, we recently created a guide of projects that are using the OP Stack, consisting of 4 articles dedicated to exploring OP Chains and OP Forks, and also a visual map of this, to facilitate the understanding.\n\nAnd all this 100% free.",
+  "contributionDescription": "Modular Crypto is delivering credible Portuguese content about crypto & web3. Through shows like \"The State of Ethereum,\" \"The State of DeFi\", the daily \"Modular News\" podcast, and an insightful newsletter, we simplify Optimism for Portuguese speakers, especially in Brazil, fostering engagement.\n\nWith 3,000+ subscribers and 5,000+ monthly listeners, we educate and facilitate adoption within the Portuguese crypto community, significantly contributing to awareness and understanding of Optimism, the OP Stack, and crypto in general.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://newsletter.modularcrypto.xyz/s/optimism",
+      "description": "Newsletters about Optimism & OP Stack Projects Guide"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.figma.com/file/L4K2JqyYgsqzaPIm80p97z/Guia-de-Projetos-Utilizando-o-OP-Stack-by-Modular-Crypto?type=whiteboard&node-id=55%3A456&t=NL2V5Uxtbg46YFub-1",
+      "description": "Map of projects using OP Stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/playlist?list=PLB68IQJOr29AJZKPRsTCOlCo4ZFvfJchL",
+      "description": "Weekly \"State of Ethereum\" covering news about Optimism & OP Stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://modularcrypto.xyz/modular-news",
+      "description": "More than 100 episodes of daily podcast about web3 news"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=fMeng_Nsats&t=2s",
+      "description": "Interview with Optimism Espan\u00f5l talking about Governance & Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ModularCrypto/status/1710743043052392670?s=20",
+      "description": "Workshop: Intro to DeFi "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/playlist?list=PLB68IQJOr29BWSWDuDGPz21bnWQ7_4Mdw",
+      "description": "Biweekly \"State of DeFi\" podcast"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.instagram.com/modularcrypto/",
+      "description": "Instagram content about web3 & Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://newsletter.modularcrypto.xyz/",
+      "description": "Newsletter "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://modularcrypto.xyz/",
+      "description": "Website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Impressions (All of our metrics)",
+      "number": "1156000",
+      "url": "https://docs.google.com/spreadsheets/d/1Q0xesKJRzdGqRZ_6b9Bl0arwJA1vJfW67drxf9WcpAM/edit?usp=sharing"
+    },
+    {
+      "description": "Tweets and Threads Views",
+      "number": "8200",
+      "url": "https://docs.google.com/spreadsheets/d/1wWZApkraAzAzDn0ZPQX2pXzB0mntQUBWKB8tucwZWZk/edit?usp=sharing"
+    },
+    {
+      "description": "Newsletter Views",
+      "number": "7578",
+      "url": "https://docs.google.com/spreadsheets/d/1PcK-k3--VpqzR3v6L8xySyIfbRZBD7HXzk77LozDkro/edit?usp=sharing"
+    },
+    {
+      "description": "Youtube/Podcast Episodes",
+      "number": "131",
+      "url": "https://docs.google.com/spreadsheets/d/18HqMZHDOzQiDM-H5T1VmpnvdmaKkKVzpTMfSFZDGKNA/edit?usp=sharing"
+    },
+    {
+      "description": "Instagram Views",
+      "number": "8260",
+      "url": "https://docs.google.com/spreadsheets/d/1HyAJlnyHTx3StUwRsh155hOFUVyWBq5if8_x23j5tb0/edit?usp=sharing"
+    },
+    {
+      "description": "People Reached Virtual Events",
+      "number": "1720",
+      "url": "https://docs.google.com/spreadsheets/d/1nRr9wQFdEyM4SN0_pvblwlv2poiBJg7kfZimwhmFLUo/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 193,
+      "description": "Gitcoin Grants Round 18"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4e08982cc62798c181d57115ec78b2a0758dbf497814ccd84c2ee1e9dcd9e607",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 50,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

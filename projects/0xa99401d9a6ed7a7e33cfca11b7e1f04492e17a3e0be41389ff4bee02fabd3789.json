@@ -1,0 +1,72 @@
+{
+  "bio": "Crypto Enthusiast, Investor",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Mike",
+  "websiteUrl": "https://twitter.com/MoonDolphinn",
+  "applicant": {
+    "address": {
+      "address": "0x6b31B3487eBC37e4c6c730cD1E1f9b45afEF5D0F",
+      "resolvedName": {
+        "address": "0x6b31B3487eBC37e4c6c730cD1E1f9b45afEF5D0F",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6b31B3487eBC37e4c6c730cD1E1f9b45afEF5D0F"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6b31B3487eBC37e4c6c730cD1E1f9b45afEF5D0F.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6b31B3487eBC37e4c6c730cD1E1f9b45afEF5D0F.jpeg",
+    "id": "OptimistProfile|0xde098465cf2f5f6dfea2acb4306da51580e475b43994214c4a37fd52ef3eddb2"
+  },
+  "impactDescription": "Of course I will contribute to expanding community participation through social media platforms, for example Twitter / X app, then I will introduce optimism that one of the best layer 2 protocols is suitable for very long-term assets and is also very useful for daily transaction needs, so Layer 2 protocol products will become the norm. Therefore, I also want to invest in optimism as a very long-term asset, and also carry out daily transactions with optimism because optimism has the advantage of low gas fees. So everyone knows the advantages of OP, and definitely really likes optimism products. ",
+  "contributionDescription": "I hope that optimism continues to grow and create useful projects for the future. Apart from that, it also builds and maintains the solidarity among young people's communities to create positive change in society so that they can grow into a strong force in achieving common goals and making positive contributions to a better future. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://pluang.com/",
+      "description": "moondolphinn"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.tokocrypto.com/",
+      "description": "UID : 2055430"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "tokocrypto",
+      "number": "2055430",
+      "url": "https://www.tokocrypto.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5500,
+      "description": "Asset Locked"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 3300,
+      "description": "Long Term Invesment"
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 1700,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa99401d9a6ed7a7e33cfca11b7e1f04492e17a3e0be41389ff4bee02fabd3789",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

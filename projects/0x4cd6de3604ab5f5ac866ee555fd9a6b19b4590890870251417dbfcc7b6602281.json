@@ -1,0 +1,174 @@
+{
+  "bio": "The NumbaNERDs program ensures the collective has quality analytics available.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "NumbaNERDs",
+  "websiteUrl": "https://community.optimism.io/docs/contribute/contribution-path/numbaNERDs/",
+  "applicant": {
+    "address": {
+      "address": "0x96765919BA04726C19816ade7dA30eBC084f48A1",
+      "resolvedName": {
+        "address": "0x96765919BA04726C19816ade7dA30eBC084f48A1",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x96765919BA04726C19816ade7dA30eBC084f48A1"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x96765919BA04726C19816ade7dA30eBC084f48A1.png",
+    "id": "OptimistProfile|0xbf2cea3aa31a8503ef1fceedc1a7d2c7de80628a5d254572355f82eaa6cb91ae"
+  },
+  "impactDescription": "The NumbaNERDs program has had a significant impact on governance-related analytics, data infrastructure, and transparency within the Optimism ecosystem, fostering growth and informed decision-making.Through collective contribution coming from our NumbaNERDs community, Optimism data excels any other protocol in the blockchain ecosystem. ",
+  "contributionDescription": "The NumbaNERDs program created deep dives on various grant recipient projects, improved data accessibility (by contributing to open source data infrastructure including Dune Spellbook and OP Analytics) and created mappings for deployers, improving the Optimism analytics ecosystem as a whole.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.dework.xyz/optimism-community/main-space-35638",
+      "description": "List of completed and ongoing tasks by NumbaNERDs."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# bounties completed and deep dives",
+      "number": "19",
+      "url": "https://gov.optimism.io/t/numbanerd-program-season-4-highlights/6861"
+    },
+    {
+      "description": "Testimonial",
+      "number": "1",
+      "url": "https://twitter.com/hildobby_/status/1707019485230530990"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 75000,
+      "description": "S4 Governance Mission Proposal: S4 Governance Mission Proposal"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "Payouts go directly to NumbaNERDs"
+    }
+  ],
+  "lists": [
+    {
+      "_id": "656abf9ac417afa156a74985",
+      "listName": "OP Contribution Path",
+      "listDescription": "A list of official Optimism Contribution Path all badgeholders should vote for",
+      "impactEvaluationInput": "",
+      "impactEvaluationDescription": "Created by chomtana.town using RetroList with \"Categorization Only\" rubric.",
+      "impactEvaluationLink": "",
+      "impactEvaluationType": "rubric",
+      "listContent": [
+        {
+          "RPGF3_Application_UID": "0x127bdc6d776fb958f986cd2059b43e917a2d74e912c0b360316f77a05b30087b",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656abf9ac417afa156a74986"
+        },
+        {
+          "RPGF3_Application_UID": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656abf9ac417afa156a74987"
+        },
+        {
+          "RPGF3_Application_UID": "0x139a8104b57871d4e40cbdf973d3fd8f65ad4910f1433196b6a2ed7ff37227a7",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656abf9ac417afa156a74988"
+        },
+        {
+          "RPGF3_Application_UID": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656abf9ac417afa156a74989"
+        },
+        {
+          "RPGF3_Application_UID": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656abf9ac417afa156a7498a"
+        }
+      ],
+      "walletAddress": "0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27",
+      "domainName": "chomtana.town",
+      "twitter": "Chomtana",
+      "discord": "chomtana",
+      "isBadgeholder": false,
+      "attestationUid": "0x61e92585ba636c0b2ac37a66034f1415045b7137660e56d3afad59e15f4727c8",
+      "approvalAttestationUid": null,
+      "forkedFrom": null,
+      "rubricId": "65695f889c41a3dbb680a30c",
+      "categories": [],
+      "projectIds": [
+        "0x127bdc6d776fb958f986cd2059b43e917a2d74e912c0b360316f77a05b30087b",
+        "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+        "0x139a8104b57871d4e40cbdf973d3fd8f65ad4910f1433196b6a2ed7ff37227a7",
+        "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+        "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1"
+      ],
+      "histories": [],
+      "createdAt": "2023-12-02T05:24:42.261Z",
+      "updatedAt": "2023-12-02T07:55:13.908Z",
+      "__v": 0,
+      "attestationBlock": 112947964,
+      "attestationDate": "2023-12-02T05:25:05.000Z",
+      "approval": [
+        {
+          "_id": "6558ea4ce5695aaff07fc718",
+          "domainName": "chomtana.town",
+          "__v": 0,
+          "createdAt": "2023-11-18T16:46:02.426Z",
+          "status": "qualified",
+          "updatedAt": "2023-11-18T16:46:08.331Z"
+        }
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0x127bdc6d776fb958f986cd2059b43e917a2d74e912c0b360316f77a05b30087b",
+          "bio": "Technical support specialists assisting developers building on the OP Stack.",
+          "displayName": "TechNERD Program",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5EfF4B8c042AA6003cBDA6E32C4aA23657d3b6AF.png"
+        },
+        {
+          "id": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+          "bio": "The NumbaNERDs program ensures the collective has quality analytics available.",
+          "displayName": "NumbaNERDs",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x139a8104b57871d4e40cbdf973d3fd8f65ad4910f1433196b6a2ed7ff37227a7",
+          "bio": "Ambassadors are decentralized marketing arm of the Optimism Collective",
+          "displayName": "Optimism Ambassadors",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x50b6a381993834C623b2Bded6825824C936E48bB.png"
+        },
+        {
+          "id": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+          "bio": "Support NERDs provide moderation and onboarding services to the Optimism Discord",
+          "displayName": "Support NERDs",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF7159DEAc43C0efe1Dd50b10eFfA6299e694918D.png"
+        },
+        {
+          "id": "0xe97f58b3c9ba77ea09f9df85da3d606d913c435aff077a1782390b86477c0bc1",
+          "bio": "Translators make Optimism accessible to non-English speakers over 27 languages!",
+          "displayName": "Optimism Translators",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9138051E95425610Eae7a0784F9138df485fb698.png"
+        }
+      ],
+      "status": "qualified"
+    }
+  ],
+  "id": "Project|0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 44,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

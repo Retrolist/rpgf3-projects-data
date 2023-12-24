@@ -1,0 +1,45 @@
+{
+  "bio": "I am enthusiastic about Web 3 and the crypto as a whole. Focusing on nodes now",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Jahbless",
+  "websiteUrl": "https://twitter.com/Affprofessor",
+  "applicant": {
+    "address": {
+      "address": "0xA605751c358d7ee8B9FE172166f38D8A7d937D35",
+      "resolvedName": {
+        "address": "0xA605751c358d7ee8B9FE172166f38D8A7d937D35",
+        "name": "nwokoro.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xA605751c358d7ee8B9FE172166f38D8A7d937D35"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA605751c358d7ee8B9FE172166f38D8A7d937D35.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA605751c358d7ee8B9FE172166f38D8A7d937D35.png",
+    "id": "OptimistProfile|0x313a0983df6ac46c058b3067dbc3569118340dabf2a261040a6ab1386382da92"
+  },
+  "impactDescription": "I have been using the OP chain for most transactions from minting NFTS to bridging.\nI find it very optimized and cheap for user with low funds.\nI introduced Most students in my small whatsapp group for airdrop tasks to using the Optimism chain for most of their blockchain and Airdrop transactions due to cost save, ease and speed as against other chains.",
+  "contributionDescription": "I have been using the OP chain for most transactions from minting NFTS to bridging.\nI find it very optimized and cheap for user with low funds.\nI introduced Most students in my small whatsapp group for airdrop tasks to using the Optimism chain for most of their blockchain and Airdrop transactions due to cost save, ease and speed as against other chains.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xa605751c358d7ee8b9fe172166f38d8a7d937d35",
+      "description": "Just my chain activities "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Transactions",
+      "number": "148",
+      "url": "https://optimistic.etherscan.io/address/0xa605751c358d7ee8b9fe172166f38d8a7d937d35"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4a1bd358b4cc0c4b6d07a3ff85e76467f1608357db99716f7769b456c850276f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,87 @@
+{
+  "bio": "I explore the intersection of crypto and politics.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Josh | The Blockchain Socialist",
+  "websiteUrl": "https://theblockchainsocialist.com/",
+  "applicant": {
+    "address": {
+      "address": "0xc2fB4B3EA53E10c88D193E709A81C4dc7aEC902e",
+      "resolvedName": {
+        "address": "0xc2fB4B3EA53E10c88D193E709A81C4dc7aEC902e",
+        "name": "theblockchainsocialist.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xc2fB4B3EA53E10c88D193E709A81C4dc7aEC902e"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc2fB4B3EA53E10c88D193E709A81C4dc7aEC902e.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc2fB4B3EA53E10c88D193E709A81C4dc7aEC902e.png",
+    "id": "OptimistProfile|0x377afb5fd3a2e04f4da28a67be794e053767810b3a8e311dc1347b8ffbe126e0"
+  },
+  "impactDescription": "I believe the impact my contributions have taken include educating thousands of people working in crypto on political theory as well as to people outside of the space who are less interested in speculating on the benefits of the technology. This was shown to me when I was invited to speak at Zuzalu in May about my work with Primavera De Filippi on Coord-Nations, receiving multiple Ethereum Foundation Impact Gifts from those working on the core infrastructure of Ethereum thanking me for my work, and being asked to write my book Blockchain Radicals which came out this year and was praised by Vitalik Buterin.",
+  "contributionDescription": "The Blockchain Socialist is a platform going on 4 years for exploring the intersection of crypto and politics through blogs, podcasts, and videos that are freely available to anyone. The funding of public goods in crypto acknowledges that there is necessary work to be done to create a crypto space that does not only reward financial speculation and how this is done is a political question. The vast majority of my content is freely available to allow for a space for those working in the crypto space to be able to understand the political implications of their work and to be able to apply political theory to crypto. My conversations with figures like Vitalik Buterin, Amir Taaki, etc. have been educating thousands over the internet on the fundamentals of the technology and its politics.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://theblockchainsocialist.com/",
+      "description": "The Blockchain Socialist website with all content available"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@theblockchainsocialist6121",
+      "description": "YouTube channel"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://theblockchainsocialist.buzzsprout.com/",
+      "description": "Podcast Feed"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Podcast downloads",
+      "number": "125000",
+      "url": "https://theblockchainsocialist.buzzsprout.com/"
+    },
+    {
+      "description": "YouTube Subscribers",
+      "number": "1420",
+      "url": "https://www.youtube.com/@theblockchainsocialist6121"
+    },
+    {
+      "description": "YouTube videos",
+      "number": "157",
+      "url": "https://www.youtube.com/@theblockchainsocialist6121"
+    },
+    {
+      "description": "Followers on X",
+      "number": "10700",
+      "url": "https://www.twitter.com/TBSocialist"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Patreon"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Ethereum Foundation Impact Gifts"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xc0a7ad67a880112ceab61959e4b4c69d08624dfafb666061b246c98c73fbbc54",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 31,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Optimism Governance Contributions"
+}

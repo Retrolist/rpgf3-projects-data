@@ -1,0 +1,90 @@
+{
+  "bio": "BMX is a perpetual DEX built on Base with unique tokenomics.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "BMX by Morphex",
+  "websiteUrl": "https://bmx.morphex.trade/",
+  "applicant": {
+    "address": {
+      "address": "0xB1dD2Fdb023cB54b7cc2a0f5D9e8d47a9F7723ce",
+      "resolvedName": {
+        "address": "0xB1dD2Fdb023cB54b7cc2a0f5D9e8d47a9F7723ce",
+        "name": "morphexftm.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xB1dD2Fdb023cB54b7cc2a0f5D9e8d47a9F7723ce"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB1dD2Fdb023cB54b7cc2a0f5D9e8d47a9F7723ce.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB1dD2Fdb023cB54b7cc2a0f5D9e8d47a9F7723ce.png",
+    "id": "OptimistProfile|0x4c5c2b68ace64a2b221838c2c9326573369219c1e668de0eaf6b69802d278b5a"
+  },
+  "impactDescription": "BMX by Morphex launched on BASE in September, 2023. Since then, we have onboarded 550+ users, almost $500k liquidity in BLT, and $330k+ in wBLT. Trading volume has surpassed $4.7mm+ with over $8k+ in revenue. wBLT-(OtherAsset) liquidity pools have surpassed $530k+ TVL. Liquidity providers of protocols like Yearn Finance and Ethos Reserve have deployed wBLT-YFI and wBLT-stERN liquidity pools on Velocimeter. Instead of pairing wETH-YFI or USDC-stERN, wBLT allows bluechip capital to be put to work and earn additional revenue for the LP/protocol in addition to pool2 rewards. wBLT as a paired asset composed of multiple bluechips and stablecoins may also reduce single-asset price volatility risk. The features of BMX by Morphex and use-cases of wBLT introduce unique reasons to bridge to BASE.",
+  "contributionDescription": "BMX by Morphex is a derivative trading platform that uniquely improves capital efficiency by allowing liquidity providers access to their underlying market-making liquidity (BLT). This is achieved through our auto-compounding wrapper (wBLT), which is transferable. Our native protocol liquidity is wBLT-BMX, demonstrating that wBLT can be paired with any asset and continue to earn wBLT rewards. wBLT can also be collateralized. LPing is inherently complex, to support user education, we intentionally named our liquidity after a sandwich, for the meme and for the concept of multiple ingredients (assets) combined to form one sandwich (token). In our documentation, we dive deep into user education, benefits/risks, and concept modeling as we believe onboarding users from CEX to DEX depends on it!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://bmx.morphex.trade/",
+      "description": "Our website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.morphex.trade/BMX",
+      "description": "Our documentation"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x4E74D4Db6c0726ccded4656d0BCE448876BB4C7A",
+      "description": "wBLT contract address"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "wBLT-(Asset) liquidity pools TVL in $",
+      "number": "530000",
+      "url": "https://bmx.morphex.trade/images/retropgf/wblt_pools.png"
+    },
+    {
+      "description": "Total users",
+      "number": "591",
+      "url": "https://bmx-analytics.morphex.trade/"
+    },
+    {
+      "description": "Total volume (in $)",
+      "number": "4771851",
+      "url": "https://bmx-analytics.morphex.trade/"
+    },
+    {
+      "description": "Total revenue (in $)",
+      "number": "8351",
+      "url": "https://bmx-analytics.morphex.trade/"
+    },
+    {
+      "description": "BLT liquidity (in $)",
+      "number": "497310",
+      "url": "https://bmx-analytics.morphex.trade/"
+    },
+    {
+      "description": "wBLT liquidity (in $)",
+      "number": "342851",
+      "url": "https://bmx.morphex.trade/wrapper"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 8351,
+      "description": "Revenue from spot and margin trading as well as minting/burning BLT"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x39d1825ce239c5125f84e5269af4c692a71a93f651dd40e813f0aabaf016b5fd",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 28,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

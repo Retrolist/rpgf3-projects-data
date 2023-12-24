@@ -1,0 +1,100 @@
+{
+  "bio": "COLLECT \u2013 OWN \u2013 BELONG",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "anotherblock",
+  "websiteUrl": "https://anotherblock.io/",
+  "applicant": {
+    "address": {
+      "address": "0xD8A7d1E1e7e7B35280001180a95e5013E54d1310",
+      "resolvedName": {
+        "address": "0xD8A7d1E1e7e7B35280001180a95e5013E54d1310",
+        "name": "anotherblock.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xD8A7d1E1e7e7B35280001180a95e5013E54d1310"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD8A7d1E1e7e7B35280001180a95e5013E54d1310.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD8A7d1E1e7e7B35280001180a95e5013E54d1310.png",
+    "id": "OptimistProfile|0x8d5ebd37e9f57b311aad6496e939de7d608537fe7ed9971272126d815069a147"
+  },
+  "impactDescription": "Music is the perfect vessel to generate mainstream interest in web3. We aim to maximize this adoption effect by bringing in the biggest name in music and making it accessible through the OP stack.\n\n-Moving from ETH Mainnet to BASE with our contract factory and the latest drops\n-Deploying superfluid on BASE\n-Educational content to generate interest in the space\n-Royalty payouts to our holders on Optimism\n-ABT Soulbound, Loyalty and engagement token streamed to all holders.\n-Campaigns: Onchainsummer+Themultichain\n-Privy and ERC-4337 were implemented for the seamless onboarding of new users\n-Gas sponsoring via Biconomy for our first royalty payout for gasless royalty claiming\n-Participants in the European Blockchain Sandbox project where we aim to push legislators to embrace web3 principles.\n",
+  "contributionDescription": "We\u2019ve paid out 17673 USDC in royalties to 1535 holders who own tracks from artists such as Rihanna, The Weeknd, Offset and others, proving that you can own music and receive royalties onchain. We\u2019ve also distributed permissionless loyalty token, ABT,  to holders based on the number of tokens and how long they have been held. ABT total: 1242 streams with 474709 ABT streamed.Partnering with Base for their launch, as the first music project to go live on onchainsummer.xyz, accumulating 29323 minters, with a total of 55439 NFTs minted with the artists Laidback Luke, Boys Noize, and Kleerup. The latest contributions have been https://themultichain.xyz/, where we were a part of taking LNRZ & Coop Records music across Optimism, Zora, and Base, as well as selling rights to Justin Bieber\u2019s-Company.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x5C244464341389e718Dab21869B1f87d77896131",
+      "description": "Royalty payout contract, a total of 17673 USDC paid out to 1535 holders"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Anotherblock/contracts-v2",
+      "description": "All of anotherblock contracts"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/ericzakariasson/anotherblock",
+      "description": "overview of anotherblock metrics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.anotherblock.io/",
+      "description": "overview and implementation guide of contracts"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/superfluid-finance/protocol-monorepo/pull/1528",
+      "description": "deployment of Superfluid on BASE mainnet"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Royalties paid out",
+      "number": "17673",
+      "url": "https://optimistic.etherscan.io/address/0x5C244464341389e718Dab21869B1f87d77896131"
+    },
+    {
+      "description": "New holders on BASE",
+      "number": "29323",
+      "url": "https://dune.com/ericzakariasson/anotherblock"
+    },
+    {
+      "description": "Streams of ABT",
+      "number": "1242",
+      "url": "https://console.superfluid.finance/optimism-mainnet/supertokens/0x167832BAF36D1AC0aF9e8d8aD329Fa418BeD5cD9?tab=streams"
+    },
+    {
+      "description": "Mints",
+      "number": "674",
+      "url": "https://themultichain.xyz/"
+    },
+    {
+      "description": "Total mints on onchainsummer",
+      "number": "55439",
+      "url": "https://dune.com/queries/2853685/4770751"
+    },
+    {
+      "description": "Number of episodes and interviews ",
+      "number": "22",
+      "url": "https://open.spotify.com/show/7s2zyuUVXWSdkwlzPiZVcs?si=07d983622b2748aa"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 15000,
+      "description": "Superfluid Builder Grants for Optimism in February 2022 "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xc15f111484081470f19dfc3881788a82c8190a130e85b68d5fbce1cc650d1416",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 33,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

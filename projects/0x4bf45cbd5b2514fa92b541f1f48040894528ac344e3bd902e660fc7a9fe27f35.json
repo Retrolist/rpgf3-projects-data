@@ -1,0 +1,45 @@
+{
+  "bio": "A solidity developoor",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Anaya Kapoor",
+  "websiteUrl": "https://twitter.com/anayakapoor437",
+  "applicant": {
+    "address": {
+      "address": "0x53607dcF5E15657D81825C14b6a90f717418DCdA",
+      "resolvedName": {
+        "address": "0x53607dcF5E15657D81825C14b6a90f717418DCdA",
+        "name": "euromonei.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x53607dcF5E15657D81825C14b6a90f717418DCdA"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x53607dcF5E15657D81825C14b6a90f717418DCdA.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x99f4f75b5b4f400f2a8bccbf409382bbe748e8b8f377a58d7d3df03d6c763944"
+  },
+  "impactDescription": "Ensure blockspace remains homogeneous, neutral and open: A commitment to the Law of Chains is a commitment to the protection of a chain\u2019s users, developers, and other stakeholders. Chains large and small, if part of the Superchain, can credibly demonstrate the homogenous, neutral and open properties of their blockspace, backed by Optimism Governance.\n\nBenefit from constant improvement: Shared upgrades mean that chains can always get the best tech, without having to worry about maintenance themselves.\n\nEnable better, more available infrastructure: Because all chains in the Superchain are credibly committed to a standard, they can work together to ensure the availability and affordability of key services like indexing and sequencing.",
+  "contributionDescription": "Ensure blockspace remains homogeneous, neutral and open: A commitment to the Law of Chains is a commitment to the protection of a chain\u2019s users, developers, and other stakeholders. Chains large and small, if part of the Superchain, can credibly demonstrate the homogenous, neutral and open properties of their blockspace, backed by Optimism Governance.\n\nBenefit from constant improvement: Shared upgrades mean that chains can always get the best tech, without having to worry about maintenance themselves.\n\nEnable better, more available infrastructure: Because all chains in the Superchain are credibly committed to a standard, they can work together to ensure the availability and affordability of key services like indexing and sequencing.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/",
+      "description": "Performance"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Performance",
+      "number": "3",
+      "url": "https://optimistic.etherscan.io/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4bf45cbd5b2514fa92b541f1f48040894528ac344e3bd902e660fc7a9fe27f35",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

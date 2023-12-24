@@ -1,0 +1,53 @@
+{
+  "bio": "moderator french youtube cryptomage",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "carpentier",
+  "websiteUrl": "https://m.youtube.com/c/CryptoMage",
+  "applicant": {
+    "address": {
+      "address": "0xdF8b970454FF568bEBa2526B2FBe455A75F84F64",
+      "resolvedName": {
+        "address": "0xdF8b970454FF568bEBa2526B2FBe455A75F84F64",
+        "name": "nugge7s.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xdF8b970454FF568bEBa2526B2FBe455A75F84F64"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdF8b970454FF568bEBa2526B2FBe455A75F84F64.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x767ca7f80a38b9fd5892a2438228b7e199c980aa1717a43f86f712e96b1c3f15"
+  },
+  "impactDescription": "ps: I am copying and pasting because I have summarized all our actions here\n\nour contribution to OP is very important through the channel we highlight OP in videos that we share with a ready community of 10,000 members on Discord and more than 2,000 followers on Twitter.\n\nwe explain to the community all the projects revolving around OP and participate in the mutual aid of the members who are present.\n\nevery request is handled personally and we help because it is our passion\n\nsubjects: mint/blocked transaction ect",
+  "contributionDescription": "our contribution to OP is very important through the channel we highlight OP in videos that we share with a ready community of 10,000 members on Discord and more than 2,000 followers on Twitter.\n\nwe explain to the community all the projects revolving around OP and participate in the mutual aid of the members who are present.\n\nevery request is handled personally and we help because it is our passion\n\nsubjects: mint/blocked transaction ect",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/cryptomage_yt?s=21&t=rs1zHo7TG5Yr0A09ccT1ag",
+      "description": "account X"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://m.youtube.com/c/CryptoMage",
+      "description": "youtube"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "youtube",
+      "number": "1",
+      "url": "https://m.youtube.com/c/CryptoMage"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xfc46cce7b5eba4c9439d2e84b26b94e6899e44469bedb42ad0690d1b6b516dbc",
+  "prelimResult": "Remove",
+  "reportReason": "['.']"
+}

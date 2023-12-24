@@ -1,0 +1,46 @@
+{
+  "bio": "Lucky guy \u2b50",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "mootion",
+  "websiteUrl": "https://twitter.com/Tzr1_",
+  "applicant": {
+    "address": {
+      "address": "0xbD7DBd5AbEBB79F899c8D74a03855181F9BEAe37",
+      "resolvedName": {
+        "address": "0xbD7DBd5AbEBB79F899c8D74a03855181F9BEAe37",
+        "name": "mootion.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xbD7DBd5AbEBB79F899c8D74a03855181F9BEAe37"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbD7DBd5AbEBB79F899c8D74a03855181F9BEAe37.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xbD7DBd5AbEBB79F899c8D74a03855181F9BEAe37.jpeg",
+    "id": "OptimistProfile|0x583c67e9c611a61dc49e30c38bdf1e53d3d3c32fe4bb16effba56f35049914a1"
+  },
+  "impactDescription": "Start and set community action goals and respond to feedback. In addition, the distribution of information and news for community development of optimism, in voting or expressing opinions, is a way to participate in recommendations or guidelines in which direction the community will go, which is why we chose this path.",
+  "contributionDescription": "Start and set community action goals and respond to feedback. In addition, the distribution of information and news for community development of optimism, in voting or expressing opinions, is a way to participate in recommendations or guidelines in which direction the community will go, which is why we chose this path.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xbD7DBd5AbEBB79F899c8D74a03855181F9BEAe37",
+      "description": "-"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "-",
+      "number": "100",
+      "url": "https://twitter.com/Tzr1_"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xc44670975099488cd348806e189635fc7bcc47fcdd1aa640b292f4a2b36ef3c9",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

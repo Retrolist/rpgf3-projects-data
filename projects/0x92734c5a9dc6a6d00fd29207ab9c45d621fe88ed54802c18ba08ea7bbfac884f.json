@@ -1,0 +1,62 @@
+{
+  "bio": "Airdrop news website since 2017,take new user into web3!",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "TokenairdropOrg",
+  "websiteUrl": "https://www.tokenairdrop.org",
+  "applicant": {
+    "address": {
+      "address": "0xcc63Befb6fEB1b5358696C86fFec056618385e1d",
+      "resolvedName": {
+        "address": "0xcc63Befb6fEB1b5358696C86fFec056618385e1d",
+        "name": "tokenairdrop.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xcc63Befb6fEB1b5358696C86fFec056618385e1d"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcc63Befb6fEB1b5358696C86fFec056618385e1d.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xcc63Befb6fEB1b5358696C86fFec056618385e1d.png",
+    "id": "OptimistProfile|0xb331c4a9d709bae9c6ed8fdd1237fb9be5a7bb08d23ef87e25c50351bfb4fb11"
+  },
+  "impactDescription": "We guide multilingual users to experience Dapps on Optimism and get airdrops. Actively participate in beneficial governance, not just Farming airdrops, continue to be active and experience more Optimism DAPPs. Wrote corresponding tutorials and actively interacted and promoted on Twitter",
+  "contributionDescription": "This website has updated many early DAPPs on Optimism, guiding many individual users to experience and obtain airdrops.\nWe intentionally guide users to use the Optimism network, and place the Optimism network switching button on the homepage of the website and the corresponding information page as soon as the mainnet goes online.\nWrote OP's governance tutorial and posted it on Mirror and Twitter to guide users in participating in Optimism's governance.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/tokenairdrop.eth/sIjZ8F3KRpKZt0j0UlItX6EcOZ5KAVWWhCNVNlIpFaQ",
+      "description": "We released&promoted a tutorial on participating in Optimism governance in Feb"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/TokenairdropOrg/status/1625957601123991574",
+      "description": "Promotion of governance tutorials on X, Mirror included by many other bloggers"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tokenairdrop.com",
+      "description": "Promoted many DAPPs on Optimism & added network switching buttons to guide users"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Bilingual Governance Tutorial",
+      "number": "1",
+      "url": "https://mirror.xyz/tokenairdrop.eth/sIjZ8F3KRpKZt0j0UlItX6EcOZ5KAVWWhCNVNlIpFaQ"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x92734c5a9dc6a6d00fd29207ab9c45d621fe88ed54802c18ba08ea7bbfac884f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

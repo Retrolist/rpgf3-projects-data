@@ -1,0 +1,75 @@
+{
+  "bio": "Music NFTs collector",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "SoSul",
+  "websiteUrl": "https://twitter.com/_So_Sul",
+  "applicant": {
+    "address": {
+      "address": "0x9235E63508e8d27e0CC858D059c752f8De4733C2",
+      "resolvedName": {
+        "address": "0x9235E63508e8d27e0CC858D059c752f8De4733C2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9235E63508e8d27e0CC858D059c752f8De4733C2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3264f9e23fd482d91fde72a4466742d43ae1b53caadaf069c81b49afea09bc40"
+  },
+  "impactDescription": "My minting of music NFTs and Twitter promotions played a pivotal role in community growth, economic empowerment, platform visibility, education, and fostering creativity within the Optimism Collective. These impacts collectively contributed to the collective's development and expansion.",
+  "contributionDescription": "My contributions, minting music NFTs and promoting them on Twitter, had a profound impact on Optimism.\nTangibly, they generated revenue for both myself and the Sound.xyz platform, supporting its sustainability and expansion. The increased visibility on Twitter attracted more artists to join Sound.xyz, diversifying its ecosystem.\nIntangibly, my active Twitter presence nurtured a community of music NFT enthusiasts, raised awareness about music NFTs, and fueled innovation in music projects. This benefited Optimists who found inspiration, artists who gained exposure and income, Sound.xyz by growing its user base, and investors with expanded opportunities. Overall, my contributions enriched Optimism as a hub for creative expression and innovation.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/user/0x9235e63508e8d27e0cc858d059c752f8de4733c2",
+      "description": "My Sound.xyz profile"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/_So_Sul",
+      "description": "My Twitter profile"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#31 top curator mint driven of all time",
+      "number": "31",
+      "url": "https://www.sound.xyz/charts/top/curators/all/mints"
+    },
+    {
+      "description": "Artists backed on Sound.xyz",
+      "number": "23",
+      "url": "https://www.sound.xyz/user/0x9235e63508e8d27e0cc858d059c752f8de4733c2"
+    },
+    {
+      "description": "Music NFTs collected on Sound.xyz ",
+      "number": "61",
+      "url": "https://www.sound.xyz/user/0x9235e63508e8d27e0cc858d059c752f8de4733c2"
+    },
+    {
+      "description": "Sound.xyz profile followers",
+      "number": "32",
+      "url": "https://www.sound.xyz/user/0x9235e63508e8d27e0cc858d059c752f8de4733c2"
+    },
+    {
+      "description": "Twitter posts about music NFTs",
+      "number": "100",
+      "url": "https://twitter.com/_So_Sul"
+    },
+    {
+      "description": "Views of the post about @NvakCollective",
+      "number": "157",
+      "url": "https://x.com/_So_Sul/status/1700035002522841312?s=20"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xc382706674ec81f5ba7fe079d5d9352d333695989855c49270e1ceb97020aab6",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

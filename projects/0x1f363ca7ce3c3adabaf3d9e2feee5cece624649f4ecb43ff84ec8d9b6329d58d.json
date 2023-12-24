@@ -1,0 +1,63 @@
+{
+  "bio": "I'm a music composer and animator.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Truong Khanh",
+  "websiteUrl": "https://www.youtube.com/@KAAKTUN",
+  "applicant": {
+    "address": {
+      "address": "0xE4747F53aCc2175236C5977b25DcEe16a4558d8a",
+      "resolvedName": {
+        "address": "0xE4747F53aCc2175236C5977b25DcEe16a4558d8a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE4747F53aCc2175236C5977b25DcEe16a4558d8a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE4747F53aCc2175236C5977b25DcEe16a4558d8a.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE4747F53aCc2175236C5977b25DcEe16a4558d8a.png",
+    "id": "OptimistProfile|0x19e400e221465bd87644c9bd6fd297c98e2d44cd736fe3bb42a208e32af18031"
+  },
+  "impactDescription": "I will write extensively about NFT music and encourage my friends to invest in this new field together. Additionally, I will compose captivating music and promote it on web 2 platforms, where my fans can participate and learn more about OP. They can also hold OP tokens and potentially profit from the next growth cycle.",
+  "contributionDescription": "I'm a huge music lover and have been a member of sound.xyz since the early days. I want to contribute my own music and knowledge to help elevate the NFT music culture. You can see that I've written posts on Twitter about NFT music. I'm also a supporter of OP by purchasing and holding them, and my friends often mention OP, which is why I signed up.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/truongkhanh",
+      "description": " Compose music"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/TruongKhanh0203",
+      "description": "Write content about NFT music"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": " My music is sold over",
+      "number": "116",
+      "url": "https://www.sound.xyz/truongkhanh/sao"
+    },
+    {
+      "description": "Collector NFT music",
+      "number": "113",
+      "url": "https://www.sound.xyz/truongkhanh"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 1500,
+      "description": " Compose music"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x1f363ca7ce3c3adabaf3d9e2feee5cece624649f4ecb43ff84ec8d9b6329d58d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

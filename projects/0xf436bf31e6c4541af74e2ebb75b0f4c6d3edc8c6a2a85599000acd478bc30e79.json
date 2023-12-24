@@ -1,0 +1,58 @@
+{
+  "bio": "OP lover",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "excelpic",
+  "websiteUrl": "https://link3.to/readyfirstplayer",
+  "applicant": {
+    "address": {
+      "address": "0xe52DA775afFBE83acC6814dbE4A18c8A58161aad",
+      "resolvedName": {
+        "address": "0xe52DA775afFBE83acC6814dbE4A18c8A58161aad",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xe52DA775afFBE83acC6814dbE4A18c8A58161aad"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x6fc6c68f1005ba2f7d8c85b4f49f67932d47e14045e3ce7cee749ffa36941153"
+  },
+  "impactDescription": "I can contribute towards the collective in a million different ways, and there is no way we could make processes for all of these contributions. Nor would we want to! However, getting from 0 to 1 is the hardest step. So we have made a few ways to get you up to speed and contributing in no time!",
+  "contributionDescription": "RetroPGF is a core part of Optimism\u2019s vision. If done right, it will form the backbone for a new type of economy. As with any complex system, though, this new process can\u2019t be centrally planned or designed all at once. The only way to build it well is to build it together. This journey will require care, open-mindedness, patience, and, of course, optimism!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xe52DA775afFBE83acC6814dbE4A18c8A58161aad",
+      "description": "This is my address"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Mypage",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0xe52DA775afFBE83acC6814dbE4A18c8A58161aad"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf436bf31e6c4541af74e2ebb75b0f4c6d3edc8c6a2a85599000acd478bc30e79",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

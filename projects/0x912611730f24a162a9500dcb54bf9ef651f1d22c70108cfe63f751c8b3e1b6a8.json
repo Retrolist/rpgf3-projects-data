@@ -1,0 +1,63 @@
+{
+  "bio": "An open source tool that empowers  community  to vet projects on OP ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Token Checker ",
+  "websiteUrl": "https://divinecare.my.canva.site/token-checker",
+  "applicant": {
+    "address": {
+      "address": "0x1dAdaaF4d817eBcBBd9B0F9fC1b463152950630F",
+      "resolvedName": {
+        "address": "0x1dAdaaF4d817eBcBBd9B0F9fC1b463152950630F",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x1dAdaaF4d817eBcBBd9B0F9fC1b463152950630F"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1dAdaaF4d817eBcBBd9B0F9fC1b463152950630F.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3d118d9245d2628781d2fdca8205abe67ec3e0960938e76f2458c5b710629538"
+  },
+  "impactDescription": "Reduce fraud: By providing accurate and up-to-date information about liquidity, our project can make it more difficult for fraudsters to manipulate the market. This will create a more secure and reliable environment for users and developers.\nAttract new users and developers: By making it easier for users to track liquidity, our project can make the network more accessible to a wider audience. This will attract new users and developers to the ecosystem, which can help it grow.\n\nImprove overall user experience: By providing a user-friendly interface and accurate information about liquidity, our project can make it easier for users to get the most out of the Optimism network. This will improve the overall user experience and make the network more attractive to users.",
+  "contributionDescription": "We envision building of trust and confidence on projects lunched on OP ecosystem. That is why we are building an open source tool that will help investors, Data analysts like us, researchers and academia make proper decisions on projects that are launched on optimism. which will boost confidence and trust in the optimism ecosystem. This app is a dashboard and will be a \u201cgo to\u201d for optimism users who want to verify and monitor any project liquidity\u00a0 launch on optimism. We trust OP to help us to fund and launch this FREE public good tool for all.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://divinecare.my.canva.site/token-checker",
+      "description": "A prototype of what we want to build"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of searches/day: ",
+      "number": "200",
+      "url": "https://tokenchecker.dovepad.xyz/metric"
+    },
+    {
+      "description": "Traffic/Months",
+      "number": "20000",
+      "url": "https://tokenchecker.dovepad.xyz/metric"
+    },
+    {
+      "description": "Most Data points Searched/Month",
+      "number": "5",
+      "url": "https://tokenchecker.dovepad.xyz/metric"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 7000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x912611730f24a162a9500dcb54bf9ef651f1d22c70108cfe63f751c8b3e1b6a8",
+  "prelimResult": "Remove",
+  "reportReason": "claims future work, impact unclear"
+}

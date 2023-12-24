@@ -1,0 +1,149 @@
+{
+  "bio": "An open-source, framework-agnostic JavaScript library to onboard users to web3.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Blocknative | Web3 Onboard",
+  "websiteUrl": "https://Onboard.blocknative.com ",
+  "applicant": {
+    "address": {
+      "address": "0xf14613626f1287600d97cBf55AEDd924B62c2af6",
+      "resolvedName": {
+        "address": "0xf14613626f1287600d97cBf55AEDd924B62c2af6",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xf14613626f1287600d97cBf55AEDd924B62c2af6"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf14613626f1287600d97cBf55AEDd924B62c2af6.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf14613626f1287600d97cBf55AEDd924B62c2af6.png",
+    "id": "OptimistProfile|0x57440b5172a7e87f1741b1a89304429c90e7cf92ab4a2b02a7b6876ea6fbbd97"
+  },
+  "impactDescription": "Web3 Onboard, one of the oldest and best maintained open source libraries, has wide adoption with 500,000+ user wallets connected, 130+ contributors, and 300+ community PRs. Web3 Onboard is used by Curve, Zapper, Compound, Iron Vank, Valk, Synthetix, Beefy, and many others. With native Optimism support added in 2022, users of 80+ wallets can transition effortlessly to and from Optimism when transacting on the most popular dapps in the ecosystem. \n\nWeb3 Onboard ensures users have an intuitive, multi-wallet, multi-chain option for connecting to their any dapps from any wallet. We want all end users to feel comfortable playing games, interacting with defi, and connecting wallets. Optimism is natively integrated so any of the 500,000+ connected user wallets can switch to Optimism with a click.",
+  "contributionDescription": "Web3 Onboard is Blocknative\u2019s answer to delivering the best experience for developers and end users as they connect and engage across blockchains. Launched in 2019, it is the easiest way to add multi-wallet, multi-chain support to any project. With built-in modules for over 80 unique hardware, software, and browser wallets, Web3 Onboard saves time related to the UI and logic of connecting wallets to dapps throughout the EVM.  \n\nWeb3 Onboard is open-source, framework-agnostic JavaScript library accessible on Github. Developers can seamlessly connect users\u2019 wallets to dapps, track wallet states, and match the UI of specific dapps. Transaction preview, an integrated feature, previews unsigned Ethereum transactions, which can help with testing and debugging transactions committed on-chain. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://onboard.blocknative.com/ ",
+      "description": "Access Web3 Onboard"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/blocknative/web3-onboard",
+      "description": "Github for Web3 Onboard (130+ contributions and 300+ community PRs)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/blocknative/web3-onboard/pulls",
+      "description": "Pull Request Documentation"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://onboard.blocknative.com/docs/overview/introduction",
+      "description": "Documentation"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://onboard.blocknative.com/docs/resources/resources",
+      "description": "Useful Videos and Resources"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/blocknative/web3-onboard/tree/develop/examples",
+      "description": "Web3 Onboard Repo Examples"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/blocknative/react-demo",
+      "description": "React demo (116 stars, 83 forks) has Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://reactdemo.blocknative.com/ ",
+      "description": "Live react demo"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.loom.com/share/d7483156765d4562b30824b4b1220907?sid=acee5365-d142-490c-ae2d-24dd8ccce078",
+      "description": "Demo connecting wallet to Web3 Onboard & switching between networks to Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.loom.com/share/4d4c86f055434f05888f6b298d028d23?sid=8aea8a01-b735-4f9b-a3d9-945b532393f1 ",
+      "description": "Sonne, Synthetix, Curve, Beefy support"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Forks of the open source software",
+      "number": "404",
+      "url": "https://github.com/blocknative/web3-onboard "
+    },
+    {
+      "description": "Github stars",
+      "number": "688",
+      "url": "https://github.com/blocknative/web3-onboard "
+    },
+    {
+      "description": "Github contributors",
+      "number": "130",
+      "url": "https://github.com/blocknative/web3-onboard "
+    },
+    {
+      "description": "Community PRs",
+      "number": "300",
+      "url": "https://github.com/blocknative/web3-onboard "
+    },
+    {
+      "description": "Wallets connected (see pull requests)",
+      "number": "80",
+      "url": "https://github.com/blocknative/web3-onboard/pulls "
+    },
+    {
+      "description": "EVM chain support since",
+      "number": "2019",
+      "url": "https://onboard.blocknative.com/docs/modules/core#chains "
+    },
+    {
+      "description": "Native Optimism support since",
+      "number": "2022",
+      "url": "https://github.com/blocknative/web3-onboard/pull/917/files#diff-6552eacdc0f4378c00e24a96877df8352eeb0db006852dfdcf511f59d9b781aeR116"
+    },
+    {
+      "description": "Sonne users 30 day UAW count as proxy",
+      "number": "28720",
+      "url": "https://dappradar.com/dapp/sonne-finance "
+    },
+    {
+      "description": "UAW - top 4 dapps (30 day)",
+      "number": "34819",
+      "url": "https://docs.google.com/spreadsheets/d/1pSRY5P_zUi4ir-sgD7zjpyVJSacghXYpUKXc0UCaRCc/edit?usp=sharing"
+    },
+    {
+      "description": "Volume - top 4 dapps (30 day)",
+      "number": "162609290",
+      "url": "https://docs.google.com/spreadsheets/d/1pSRY5P_zUi4ir-sgD7zjpyVJSacghXYpUKXc0UCaRCc/edit?usp=sharing"
+    },
+    {
+      "description": "Balance - top 4 dapps (30 day)",
+      "number": "21720320",
+      "url": "https://docs.google.com/spreadsheets/d/1pSRY5P_zUi4ir-sgD7zjpyVJSacghXYpUKXc0UCaRCc/edit?usp=sharing "
+    },
+    {
+      "description": "Transactions - top 4 dapps (30 day)",
+      "number": "38869",
+      "url": "https://docs.google.com/spreadsheets/d/1pSRY5P_zUi4ir-sgD7zjpyVJSacghXYpUKXc0UCaRCc/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xbdf3e582179cedbd19e3c14d94e1936b5855653242054c3c4170d0b340700f4d",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 44,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

@@ -1,0 +1,64 @@
+{
+  "bio": "Secure, handy, cost-effective hardware wallet for crypto holders",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Keyring",
+  "websiteUrl": "https://keyring.so/",
+  "applicant": {
+    "address": {
+      "address": "0x7fD0030D3D21d17Fb4056DE319faD67A853b3C20",
+      "resolvedName": {
+        "address": "0x7fD0030D3D21d17Fb4056DE319faD67A853b3C20",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x7fD0030D3D21d17Fb4056DE319faD67A853b3C20"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7fD0030D3D21d17Fb4056DE319faD67A853b3C20.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7fD0030D3D21d17Fb4056DE319faD67A853b3C20.png",
+    "id": "OptimistProfile|0x44c81222d9a1909c8ffee139323151a90b0661d54b71bb4a08d01bc938ff73d7"
+  },
+  "impactDescription": "1. Traditional users who are not familiar with crypto hardware wallets choose Keyring for holding their assets on Ethereum and Optimism, because of our security, similar debit card experience, and lower costs.\n2. Crypto users in Optimism Collective get an alternative solution to self-custodian their on-chain assets and interact with dApps. \n3. Application developers review our code and learn about how to use smart card to integrate with blockchains.",
+  "contributionDescription": "Self-custodian is important for existing blockchain users, Keyring provides a secure and cost-effective hardware wallet for Optimism ecosystem.\nPeople are already familiar with the traditional debit/credit card, Keyring uses the similar solution for hardware wallet, which improves the user experience when onboarding traditional users to blockchain.\nKeyring brings this financial card experience to Optimism, features include transfer and receive ETH and ERC20, interact with dApps. Demo video: https://youtu.be/MpCItSCYDTY",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/keyring-so/keyring-desktop",
+      "description": "Open source code for Keyring wallet desktop application"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/MpCItSCYDTY",
+      "description": "Showcase video for the Keyring wallet features "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of Request Volume",
+      "number": "2505",
+      "url": "https://bafybeicqtomn2wdj73zhviboimvjdtqf4j7rxroupdts4qt62axacwsbxe.ipfs.w3s.link/infura_activity.png"
+    },
+    {
+      "description": "# of WalletConnect Message",
+      "number": "143",
+      "url": "https://bafybeibnhpequlykvkiy3734alhfqb5xhfv476ltu4bek7h4reom4jmnku.ipfs.w3s.link/wallet_connect_activities.png"
+    },
+    {
+      "description": "# of Code Commits",
+      "number": "195",
+      "url": "https://github.com/keyring-so/keyring-desktop"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4a55121a4d6e6e6f70a7a117793940ad6709c14e6339e2b0906315677e4dacf1",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 22,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Wallets"
+}

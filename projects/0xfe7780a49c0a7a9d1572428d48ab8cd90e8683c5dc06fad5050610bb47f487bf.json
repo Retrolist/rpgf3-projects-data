@@ -1,0 +1,52 @@
+{
+  "bio": "I am a staker, I am a learner",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "hexaw\u00f8lf88",
+  "websiteUrl": "https://hexawolf88.my.id/",
+  "applicant": {
+    "address": {
+      "address": "0x9a2270b2F51423D0434ED10b7a55531374881f4D",
+      "resolvedName": {
+        "address": "0x9a2270b2F51423D0434ED10b7a55531374881f4D",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9a2270b2F51423D0434ED10b7a55531374881f4D"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9a2270b2F51423D0434ED10b7a55531374881f4D.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9a2270b2F51423D0434ED10b7a55531374881f4D.png",
+    "id": "OptimistProfile|0x35f7588ee90bd0bf26da17cb1bdcbb7e2f31f3b4b678dd9a1ddf5df0a6eea57a"
+  },
+  "impactDescription": "Maybe my staking will help the circulation of this optimism token. and can maintain market prices. and imagine what if 90% of these optimistic users did the same thing, this would maintain the supply of that optimism. but this is just my personal view, despite the current economic market not being good. but I hope someday. The world economy will recover again",
+  "contributionDescription": "I can only help in terms of HOLD / Stake tokens / Add LP. because I am a farmer. but my investment amount will not be as big as someone else's, maybe my allocation will only be 50 ~ 100 USD. and I will allocate the other part to CEX. that makes me quite calm about the security of my assets",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x9a2270b2F51423D0434ED10b7a55531374881f4D",
+      "description": "Maybe my on chain activity is very little"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "I don't really understand this metric",
+      "number": "88",
+      "url": "https://optimistic.etherscan.io/address/0x9a2270b2F51423D0434ED10b7a55531374881f4D"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10,
+      "description": "I got this from several projects running in the optimism network layer."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xfe7780a49c0a7a9d1572428d48ab8cd90e8683c5dc06fad5050610bb47f487bf",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,53 @@
+{
+  "bio": "We creates guides, instructional videos, and technical support about staking.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "EthStaker",
+  "websiteUrl": "https://ethstaker.cc",
+  "applicant": {
+    "address": {
+      "address": "0xD165df4296C85e780509fa1eace0150d945d49Fd",
+      "resolvedName": {
+        "address": "0xD165df4296C85e780509fa1eace0150d945d49Fd",
+        "name": "ethstaker.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xD165df4296C85e780509fa1eace0150d945d49Fd"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png",
+    "id": "OptimistProfile|0x0e71230bac82021ee15c76ed3c23f81ed038395581f96870bb64873889dac557"
+  },
+  "impactDescription": "While we may not contribute directly to Optimism, we feel that without a secure and decentralized Ethereum mainnet, Optimism could not succeed in it's mission. Without Optimism Ethereum is much less useful. EthStaker's and Optimism's values, goals, and incentives are aligned. ",
+  "contributionDescription": "EthStaker's goal is to keep Ethereum decentralized. We do this by creating educational materials and by offering technical support to encourage people to run their own nodes and to stake at home. To keep Ethereum decentralized we need a diverse set of many people to run different combinations of execution and consensus clients all around the world. If too much of the Ethereum network is controlled by a small amount of people this damages Ethereum's credible neutrality and it could no longer serve effectively as the base layer for projects like Optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.ethstaker.cc/ethstaker-knowledge-base/",
+      "description": "A collection of useful information and concepts about Ethereum staking."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/eth-educators/",
+      "description": "EthStaker github"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Client Diversity",
+      "number": "0",
+      "url": "https://clientdiversity.org/#distribution"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 54,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

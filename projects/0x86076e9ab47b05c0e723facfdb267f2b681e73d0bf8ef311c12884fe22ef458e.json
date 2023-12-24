@@ -1,0 +1,55 @@
+{
+  "bio": "Cryptodevs are the largest Crypto dev community",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Cryptodevs",
+  "websiteUrl": "https://discord.gg/P4tFhzJM",
+  "applicant": {
+    "address": {
+      "address": "0x133722ed7899f578Ba7aBAE2259898b18a3252c7",
+      "resolvedName": {
+        "address": "0x133722ed7899f578Ba7aBAE2259898b18a3252c7",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x133722ed7899f578Ba7aBAE2259898b18a3252c7"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x8c67ad9b419d434182f5760e7eee45741e014f601ebff19a10c3c976cc5830a9"
+  },
+  "impactDescription": "We have helped developers from every ecosystem to have their contracts reviewed, helped with support to build tools, design systems, network, get careers and grow their projects. We are a general developer community to support new devs in the space. We currently have 14k developers, 1k visitors a week to the Discord as well as 15k users on the subreddit.\n\nWe have constantly maintained channels for support specifically with Solidity. We aim to run more events and hackathons to be able to further increase awareness for projects, onboard more devs into the space and help build more tools for users.",
+  "contributionDescription": "Cryptodevs are the largest Crypto developer community in the space. We are completely free, with a pure volunteer team, and aim to bring developers up to standard for Ethereum, Optimism as well as all other networks as a completely network agnostic and neutral space. We help new devs with any support they need, provide connections to careers through partners, help to give developers a platform to grow and build the next gen of dApps and core protocols.\n\nCryptodevs is a community that's 13k developers strong. We have helped developers go from unknowns to core developers at protocols such as Polygon, Opensea, Prysm and more through support, networking and a general environment to build in a no shill, completely free and open space.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://discord.gg/fkTp5Jxv4q",
+      "description": "Discord"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://reddit.com/r/cryptodevs",
+      "description": "Reddit"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Developers on the reddit",
+      "number": "15000",
+      "url": "https://reddit.com/r/cryptodevs"
+    },
+    {
+      "description": "Discord users",
+      "number": "14000",
+      "url": "https://discord.gg/fkTp5Jxv4q"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x86076e9ab47b05c0e723facfdb267f2b681e73d0bf8ef311c12884fe22ef458e",
+  "prelimResult": "Remove",
+  "reportReason": "['Discord invite link is invalid, Reddit group is a private community, not possible to verify claims']"
+}

@@ -1,0 +1,53 @@
+{
+  "bio": "I am a crypto lover",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "ajrony",
+  "websiteUrl": "https://twitter.com/Ajrony2",
+  "applicant": {
+    "address": {
+      "address": "0x383b0ddAA84E9488600a59d965e1BEA37719F806",
+      "resolvedName": {
+        "address": "0x383b0ddAA84E9488600a59d965e1BEA37719F806",
+        "name": "0x0ab.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x383b0ddAA84E9488600a59d965e1BEA37719F806"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3b48d80a01480edeffc0da4d7730150e46ffec4932a881d4bf784b991cfb6f70"
+  },
+  "impactDescription": "The reputation of my wallet is growing up for my contribution in various projects such as GITCOIN, zora and many more projects. The transactions in op network is valuable. Nfts are so much important and impectful. I received some rewards also for transaction in op network.",
+  "contributionDescription": "I delegated op and continue make transaction in various projects. I am a gitcion donor. I recently donate 10+ projects in GITCOIN grant 18. I minted some valuable nfts in optimism. I love to make transaction in optimism network because of its low gas fees and availability. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x1449003b1d9083770fe848257eb8802539df59e8b5b0ee848c18ed9d0926b27c",
+      "description": "Gitcoin grant 18 "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Gitcoin Donation ",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/tx/0x1449003b1d9083770fe848257eb8802539df59e8b5b0ee848c18ed9d0926b27c"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x92aeda809697e45e09f29b3878cdc4047542ea93a4d0954791499469bccbe484",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

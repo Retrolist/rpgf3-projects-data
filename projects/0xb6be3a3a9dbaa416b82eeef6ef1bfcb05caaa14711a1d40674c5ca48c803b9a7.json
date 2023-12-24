@@ -1,0 +1,46 @@
+{
+  "bio": "Laongfong",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "Laongfong",
+  "websiteUrl": "https://twitter.com/La0ngFongz",
+  "applicant": {
+    "address": {
+      "address": "0x6c6cCE0796B426cF5D8693b01d2F1E284F69Df9a",
+      "resolvedName": {
+        "address": "0x6c6cCE0796B426cF5D8693b01d2F1E284F69Df9a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6c6cCE0796B426cF5D8693b01d2F1E284F69Df9a"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6c6cCE0796B426cF5D8693b01d2F1E284F69Df9a.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xd2b3968f28a340a5fbefa53eafd56be803f3c73173b3039bc46cdd7af8acda54"
+  },
+  "impactDescription": "So many because i have ever to participant to Dapp on chain Optimism since last year or 2022 I interesting to Defi or Lending plat form on Optimism Chain i hope if you give Chance we will do many thing together \n\nps. I hope i to be your chose me haha",
+  "contributionDescription": "So many because i have ever to participant to Dapp on chain Optimism since last year or 2022 I interesting to Defi or Lending plat form on Optimism Chain i hope if you give Chance we will do many thing together \n\nps. I hope i to be your chose me haha",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x6c6cCE0796B426cF5D8693b01d2F1E284F69Df9a",
+      "description": "many transection"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Laongfong",
+      "number": "2",
+      "url": "https://optimistic.etherscan.io/address/0x6c6cCE0796B426cF5D8693b01d2F1E284F69Df9a"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xb6be3a3a9dbaa416b82eeef6ef1bfcb05caaa14711a1d40674c5ca48c803b9a7",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

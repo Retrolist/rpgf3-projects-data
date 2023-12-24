@@ -1,0 +1,48 @@
+{
+  "bio": "I love Optimism",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "IMC",
+  "websiteUrl": "https://www.facebook.com/lydjons",
+  "applicant": {
+    "address": {
+      "address": "0xf9ea8B3dfcc0b55D759b48c58B34f71B1c4F7132",
+      "resolvedName": {
+        "address": "0xf9ea8B3dfcc0b55D759b48c58B34f71B1c4F7132",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xf9ea8B3dfcc0b55D759b48c58B34f71B1c4F7132"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf9ea8B3dfcc0b55D759b48c58B34f71B1c4F7132.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x5818db59a906931ef1baf4d7755e9eb248ec67163869480e7a06f1657ab26583"
+  },
+  "impactDescription": "Little Red Riding Hood promised to obey her mother. The grandmother lived out in the woods, a half hour from the village. When Little Red Riding Hood entered the woods a wolf came up to her. She did not know what a wicked animal he was, and was not afraid of him. \"Good day to you, Little Red Riding Hood.\" - \"Thank you, wolf.\" - \"Where are you going so early, Little Red Riding Hood?\" - \"To grandmother's.\" - \"And what are you carrying under your apron?\" - \"Grandmother is sick and weak, and I am taking her some cake and wine. We baked yesterday, and they should give her strength.\" - \"Little Red Riding Hood, just where does your grandmother live?\" - \"Her house is a good quarter hour from here in the woods, under the three large oak trees. ",
+  "contributionDescription": "Once upon a time there was a sweet little girl. Everyone who saw her liked her, but most of all her grandmother, who did not know what to give the child next. Once she gave her a little cap made of red velvet. Because it suited her so well, and she wanted to wear it all the time, she came to be known as Little Red Riding Hood. One day her mother said to her: \"Come Little Red Riding Hood. Here is a piece of cake and a bottle of wine. Take them to your grandmother. She is sick and weak, and they will do her well. Mind your manners and give her my greetings. Behave yourself on the way, and do not leave the path, or you might fall down and break the glass, and then there will be nothing for your sick grandmother.\"",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.facebook.com/lydjons",
+      "description": "Description"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "\u043b\u0434\u0432\u0434\u043b\u0434\u043b\u044b\u0432",
+      "number": "1",
+      "url": "https://www.facebook.com/lydjons"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x6c54651db04a239ed2e967871da8cd12f8351d9d2187f86d6cd51c3f7f821d8b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

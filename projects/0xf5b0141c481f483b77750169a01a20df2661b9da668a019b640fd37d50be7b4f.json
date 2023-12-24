@@ -1,0 +1,79 @@
+{
+  "bio": "DevRel Education Made Accessible",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "DevRel Uni",
+  "websiteUrl": "https://www.devreluni.com/",
+  "applicant": {
+    "address": {
+      "address": "0xE231408d7B3AEdf18fc6127Fa09538cD489c8C33",
+      "resolvedName": {
+        "address": "0xE231408d7B3AEdf18fc6127Fa09538cD489c8C33",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE231408d7B3AEdf18fc6127Fa09538cD489c8C33"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE231408d7B3AEdf18fc6127Fa09538cD489c8C33.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE231408d7B3AEdf18fc6127Fa09538cD489c8C33.png",
+    "id": "OptimistProfile|0x62c09bf7aada81f69b7e0ee3abf83c752a392ba98c4d2efad097635bef5810a7"
+  },
+  "impactDescription": "DevRel Uni empowers students to both learn and create valuable DevRel assets across various protocols, all while championing the growth of the web3 ecosystem. Our program is a valuable public good (https://bit.ly/46FKUWE) for the entire ecosystem. Although it doesn't exclusively target a specific protocol, the knowledge gained also seamlessly translates to Optimism",
+  "contributionDescription": "Developer Relations is essential for helping the web3 ecosystem grow. At DevRel Uni, we teach people how to start in DevRel, while also improving the overall developer experience for protocols such as Optimism. We provide education for free to students all over the world that equip them with the skills, knowledge, and experience they need to excel in DevRel, while helping protocols foster stronger relationships with their developer communities. \n\nSo far we have trained 4 cohorts, each of them of 30-35 in size, from over 916 applications. After the theoretical session that is delivered by a professional DevRel, our students solidify their knowledge with workshops and homework assignments where they get to work on real world tasks that a DevRel would face (https://bit.ly/3S7IeMY).",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.devreluni.com/testimonials",
+      "description": "testimonials from our students"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@devreluni",
+      "description": "description of our 4 programs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.devreluni.com/",
+      "description": "DevRel Uni website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# students trained",
+      "number": "130",
+      "url": "https://www.devreluni.com/testimonials"
+    },
+    {
+      "description": "Learning sessions",
+      "number": "23",
+      "url": "https://medium.com/@devreluni"
+    },
+    {
+      "description": "Substack subscribers",
+      "number": "300",
+      "url": "https://devreluni.substack.com/"
+    },
+    {
+      "description": "Discord members",
+      "number": "310",
+      "url": "https://discord.com/invite/TcAC7RVB7H"
+    },
+    {
+      "description": "Twitter Followers",
+      "number": "1232",
+      "url": "https://twitter.com/DevrelUni"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xf5b0141c481f483b77750169a01a20df2661b9da668a019b640fd37d50be7b4f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 12,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

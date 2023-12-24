@@ -1,0 +1,110 @@
+{
+  "bio": "ethOS is a free & open source mobile OS that embraces Ethereum",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "ethOS",
+  "websiteUrl": "https://www.ethosmobile.org",
+  "applicant": {
+    "address": {
+      "address": "0x12dC5fF4AB146D9f70e50bd5f9854114a115e6c9",
+      "resolvedName": {
+        "address": "0x12dC5fF4AB146D9f70e50bd5f9854114a115e6c9",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x12dC5fF4AB146D9f70e50bd5f9854114a115e6c9"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x12dC5fF4AB146D9f70e50bd5f9854114a115e6c9.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x61ed70def03c6cfcb7356505ee0b26ab381b7619fd8d64fd68d88c159c7c9e9b"
+  },
+  "impactDescription": "ethOS gives users of Ethereum & Optimism a first-class mobile experience. Our mission is the disruption of the iOS and Android ecosystems providing undeniable value and novel and superior use cases by leveraging the Ethereum protocol. We started with an OS for Ethereum enthusiasts that could be flashed on used Pixel devices. We now sell new Pixel 7a\u2019s preinstalled with ethOS, creating a viable \u201cdaily driver\u201d device for first adopters within the Ethereum community. By expanding the ethOS user-base, we created a distribution network for developers of Ethereum applications that increases resistance to censorship that developers and users have been experiencing on other mobile platforms. Sending ETH on the Optimism network in the native messaging app:https://www.youtube.com/watch?v=eUTBKjPKZUE",
+  "contributionDescription": "We are the Freedom Factory. We have built ethOS, a free and open source OS that embraces Ethereum. ethOS unlocks the full potential of Web3. It features an onboard Ethereum light node and a System-level wallet, allowing for direct interaction between mobile applications and Ethereum, seamless switching between L1 and L2s (including Optimism), and gives users more security and control over their assets by leveraging device biometrics and notifications. We released the first build of ethOS in 7/22, starting with a fork of Android that could be flash installed on Pixel3 devices. We launched ethOS v2.0 at ETH Denver 2023, and in 8/23 we sold out of 50 Pixel 7a devices that come preinstalled with ethOS v3. We develop fast, and have a long list of existing functionality and features of ethOS.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/EthereumPhone",
+      "description": "Open source ethOS Github repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.ethosmobile.org",
+      "description": "ethOS website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethosmobile.readme.io",
+      "description": "ethOS knowledge base"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethereumphone.notion.site/Whitepaper-8072ed650e2a4150b8d31e6f48ef54fc",
+      "description": "ethOS whitepaper"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.com/invite/FtVvK7B2KT",
+      "description": "ethOS community on Discord"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Community size on X",
+      "number": "6753",
+      "url": "https://x.com/ethereumphone "
+    },
+    {
+      "description": "Community size on Discord",
+      "number": "1396",
+      "url": "https://discord.com/invite/FtVvK7B2KT"
+    },
+    {
+      "description": "Balaji speaking about ethOS",
+      "number": "1",
+      "url": "https://x.com/ccarella/status/1660594952521367558"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1600,
+      "description": "ENS micro grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 64000,
+      "description": "Nouns grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 8000,
+      "description": "Impact gift from Evan Van Ness"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 16000,
+      "description": "Impact gift from mk"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "Impact gift from Marius Van Der Wijden"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xfdb49a44b3f75ed85a6f61f4c5a36a358ef8712b9b151050aedf65d4c2abae91",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 55,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

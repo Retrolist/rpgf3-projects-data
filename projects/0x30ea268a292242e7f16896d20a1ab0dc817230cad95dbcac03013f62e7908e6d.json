@@ -1,0 +1,46 @@
+{
+  "bio": "Amplifying your impact with strategic precision ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "ShubzyBaker",
+  "websiteUrl": "https://bio.link/shubzybaker",
+  "applicant": {
+    "address": {
+      "address": "0x02C435d8189D9a983CDBD77F2109fdd5663A33BB",
+      "resolvedName": {
+        "address": "0x02C435d8189D9a983CDBD77F2109fdd5663A33BB",
+        "name": "shubzybaker.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x02C435d8189D9a983CDBD77F2109fdd5663A33BB"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x02C435d8189D9a983CDBD77F2109fdd5663A33BB.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x02C435d8189D9a983CDBD77F2109fdd5663A33BB.jpeg",
+    "id": "OptimistProfile|0xa674be7ca353ca8941ec1242e2972272422b6c7d4304da742e5daf14b1773d81"
+  },
+  "impactDescription": "Check all updates here https://bio.link/shubzybaker\n\nI have been building my brand in Web3 for 2+ years, attending over 100 events since 2022 and speaking at most of them\n\nI have done events in the House of Parliments, House of Lords and across the world.",
+  "contributionDescription": "Joining and building relationships on X with the Cre8ors everyday. I will be building daily on X with them and I will be sharing the work they are doing. Also I will be attending IRL events to help push the branding and the word of Optimism as much as possible",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://bio.link/shubzybaker",
+      "description": "See what i do here"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Link to what I do daily",
+      "number": "1",
+      "url": "https://bio.link/shubzybaker"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x30ea268a292242e7f16896d20a1ab0dc817230cad95dbcac03013f62e7908e6d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

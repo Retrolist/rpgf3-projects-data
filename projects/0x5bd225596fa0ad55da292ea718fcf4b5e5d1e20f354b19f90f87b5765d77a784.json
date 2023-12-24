@@ -1,0 +1,81 @@
+{
+  "bio": "Explore fun rabbit holes generated LLMs using crypto micropayments",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "BunnyAI",
+  "websiteUrl": "https://bunnyai.vercel.app/",
+  "applicant": {
+    "address": {
+      "address": "0xAA371e26742290063d92F0Bd7197aC2D8d3aC4f1",
+      "resolvedName": {
+        "address": "0xAA371e26742290063d92F0Bd7197aC2D8d3aC4f1",
+        "name": "ezhong.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xAA371e26742290063d92F0Bd7197aC2D8d3aC4f1"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xf5e4ec5e44dc8437e7c65c30b26c210126019301098cb66cc056ebd876990c78"
+  },
+  "impactDescription": "We premiered this project during the EthGlobal NYC hackathon and were overwhelmed with support from those that we demo'ed and spoke to. Many of the people we talked to told us that they were surprised to learn that such a \u201cweb2\u201d like UX was already possible to achieve! Apps that bridge the knowledge gap between web2 and web3 are necessary for mass adoption \u2014 we just wanted to create a really fun LLM app while using crypto as the infrastructure, and we succeeded in doing so.\n\nWe also wanted to share just how great our developing experience was with other builders so we did a quick demo at the first Base Builders community session. We hope that other developers were inspired by our work!",
+  "contributionDescription": "We used Account Abstraction to solve the largest issue that new AI developers face today: getting paid for their work while preventing spam. They are overwhelmed by bots after releasing a new product and can't charge a monthly fee that users are not willing to pay.\n\nCrypto micropayments have not historically been possible due to high mainnet gas costs and slow, cumbersome transaction UX. However, we use embedded wallets and ERC4337 to allow new users to sign up via SMS, fund their account, and directly pay developers every time they use the app. No seed phrases, no transaction confirmation, no gas.\n\nOn an L2 like Optimism or Base, users can try out new AI apps for cents on the dollar and developers can bootstrap a user base without going broke.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://bunnyai.vercel.app/",
+      "description": "Live production frontend"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/justindomingue/bunnyai",
+      "description": "BunnyAI frontend repo"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/zhongeric/bunnyAI-contracts",
+      "description": "BunnyAI contracts"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x981C5b436121C75cf043A622d078988248Ef203d",
+      "description": "Deployment on Base mainnet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethglobal.com/showcase/bunnyai-mzkgn",
+      "description": "Project page from EthGlobal"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of sponsored userOps",
+      "number": "200",
+      "url": "https://basescan.org/token/0x981C5b436121C75cf043A622d078988248Ef203d"
+    },
+    {
+      "description": "Users",
+      "number": "55",
+      "url": "https://drive.google.com/file/d/1yW7C-bSZH0wxK-Bttkcx9DEiOHcqyTYm/view?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5500,
+      "description": "Prizes won at EthGlobal NYC 2023"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5bd225596fa0ad55da292ea718fcf4b5e5d1e20f354b19f90f87b5765d77a784",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 10,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,169 @@
+{
+  "bio": "REYIELD is an AI investment platform that simplifies the investment tools.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "REYIELD Finance",
+  "websiteUrl": "https://www.reyield.fi/",
+  "applicant": {
+    "address": {
+      "address": "0x68B431671938a4Be82907ebcD5661B9Df8d0AF69",
+      "resolvedName": {
+        "address": "0x68B431671938a4Be82907ebcD5661B9Df8d0AF69",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x68B431671938a4Be82907ebcD5661B9Df8d0AF69"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x68B431671938a4Be82907ebcD5661B9Df8d0AF69.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x68B431671938a4Be82907ebcD5661B9Df8d0AF69.png",
+    "id": "OptimistProfile|0x2bd74f41080868e31a66ee4ca6976a35b902f2645d718707013cdb15345e5053"
+  },
+  "impactDescription": "By integrating with the Uniswap V3 Optimism Pair, users can easily provide liquidity on Optimism through REYIELD Finance, enhancing the depth of the Optimism trading pool. Users can also understand the advantages of Optimism through our product. Apart from the low Gas Fee, the transaction speed is much faster than Ethereum's.",
+  "contributionDescription": "We've simplified complex DeFi investment tools and offer an AI personal financial assistant along with an automatic compound interest tool. We've integrated with the Optimism Pair on Uniswap V3. Leveraging Optimism's low gas fees, users can maximize their asset returns.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/reyield-finance/uniswap-v3-smart-vault",
+      "description": "REYIELD Finance Github Resource"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Registry",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0x621e848F39fb29843cf8b42c86Ff2558bCd6C327"
+    },
+    {
+      "description": "DiamondCutFacet ",
+      "number": "2",
+      "url": "https://optimistic.etherscan.io/address/0x8AfaC6A9C1643746DBE980E9f318e85c14cAdD9B"
+    },
+    {
+      "description": "RegistryAddressHolder",
+      "number": "3",
+      "url": "https://optimistic.etherscan.io/address/0xe5b481AFFFbfe1A61d762f42d4c630a5AAD388f9 "
+    },
+    {
+      "description": "UniswapAddressHolder",
+      "number": "4",
+      "url": "https://optimistic.etherscan.io/address/0x162Ff164B376fB1Fb0Ed657467123b262F25a985"
+    },
+    {
+      "description": "PositionManagerFactory",
+      "number": "5",
+      "url": "https://optimistic.etherscan.io/address/0x3332Ae0fC25eF24352ca75c01A1fCfd9fc33EAca"
+    },
+    {
+      "description": "StrategyProviderWalletFactory",
+      "number": "6",
+      "url": "https://optimistic.etherscan.io/address/0x8984A6a7d64B8D5558FFc5A93cF536f631C77d4F"
+    },
+    {
+      "description": "ClosePosition",
+      "number": "7",
+      "url": "https://optimistic.etherscan.io/address/0xE46ABe3f8b1Bc205dc24F431b025b73cd5FCA710"
+    },
+    {
+      "description": "IncreaseLiquidity",
+      "number": "8",
+      "url": "https://optimistic.etherscan.io/address/0xEFD5B5953DaD2bDf5abe5128345038Fda941f46d"
+    },
+    {
+      "description": "Mint",
+      "number": "9",
+      "url": "https://optimistic.etherscan.io/address/0xB45F87f2381ED5993BD08C9C0d806c55F39e5b10"
+    },
+    {
+      "description": "RepayRebalanceFee",
+      "number": "10",
+      "url": "https://optimistic.etherscan.io/address/0x3A4980cc52C11F6C4e89b9661D92223C14a1e975"
+    },
+    {
+      "description": "ReturnProfit",
+      "number": "11",
+      "url": "https://optimistic.etherscan.io/address/0xe5930CE185b70a034FC34d2DDC57bE125D36e0Cb"
+    },
+    {
+      "description": "ShareProfit",
+      "number": "12",
+      "url": "https://optimistic.etherscan.io/address/0xa43A376627cFA2f9Ada588d77997a46756dB4571"
+    },
+    {
+      "description": "SingleTokenIncreaseLiquidity",
+      "number": "13",
+      "url": "https://optimistic.etherscan.io/address/0x92De2ec547eE8B763b139283263A9facB1C92e06"
+    },
+    {
+      "description": "SwapToPositionRatio",
+      "number": "14",
+      "url": "https://optimistic.etherscan.io/address/0x9204ccE7E9FC1525472A4FACB74dEF6c3370D898"
+    },
+    {
+      "description": "ZapIn",
+      "number": "15",
+      "url": "https://optimistic.etherscan.io/address/0x9524503FD59F716271c43A99Be747d35E5c31140"
+    },
+    {
+      "description": "IdleLiquidityModule",
+      "number": "16",
+      "url": "https://optimistic.etherscan.io/address/0x928E7b3F3980f0008AcB44c074AaA8C00FAd0aF3"
+    },
+    {
+      "description": "DepositRecipes",
+      "number": "17",
+      "url": "https://optimistic.etherscan.io/address/0x32D939ca3351cC85054964fcbAc95af167996696"
+    },
+    {
+      "description": "IncreaseLiquidityRecipes",
+      "number": "18",
+      "url": "https://optimistic.etherscan.io/address/0x53112264b98D466062F36EB3f92EE5DE44821AAe"
+    },
+    {
+      "description": "WithdrawRecipes",
+      "number": "19",
+      "url": "https://optimistic.etherscan.io/address/0xF5CCEEa954bD2fa37d383650E0730Ce947c60B3C"
+    },
+    {
+      "description": "GovernanceRecipes",
+      "number": "20",
+      "url": "https://optimistic.etherscan.io/address/0x5652A51dA73873F1Bf5615C0fA5EaB77fc2e4510"
+    },
+    {
+      "description": "PositionHelper",
+      "number": "21",
+      "url": "https://optimistic.etherscan.io/address/0x76136A56963740b4992C5E9dA5bB58ECffC92ce3"
+    },
+    {
+      "description": "UniswapCalculator",
+      "number": "22",
+      "url": "https://optimistic.etherscan.io/address/0x0eE1Deb6e6ccAcCb157324c98A247Cc6440b335F"
+    },
+    {
+      "description": "ERC20Extended",
+      "number": "23",
+      "url": "https://optimistic.etherscan.io/address/0x86Ae132100eC35156A524911584069C34E68F9e2"
+    },
+    {
+      "description": "Timelock",
+      "number": "24",
+      "url": "https://optimistic.etherscan.io/address/0x9c0fBE88001ae2daCd7Dc28b920C16F99fE880b9"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6aaa29b7abeeef9374d78195a617d867d51ec37797cd70d8713861f14c5b9cc9",
+  "prelimResult": "Remove",
+  "reportReason": "Duplicate: https://vote.optimism.io/retropgf/3/application/0xdcc1d57caa3532337aa8209145ef65a4505911bbba1490c6ce336245e712aa4b"
+}

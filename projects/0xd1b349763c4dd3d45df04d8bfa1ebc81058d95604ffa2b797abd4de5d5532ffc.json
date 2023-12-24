@@ -1,0 +1,164 @@
+{
+  "bio": "Web3 Contributor,Content Creator, Developer and NFT Artist",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Moei",
+  "websiteUrl": "https://link3.to/morijuana",
+  "applicant": {
+    "address": {
+      "address": "0x63a370ABfC8Ed6132025f6dC8244DDF6205C174B",
+      "resolvedName": {
+        "address": "0x63a370ABfC8Ed6132025f6dC8244DDF6205C174B",
+        "name": "0xmoei.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x63a370ABfC8Ed6132025f6dC8244DDF6205C174B"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x63a370ABfC8Ed6132025f6dC8244DDF6205C174B.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x63a370ABfC8Ed6132025f6dC8244DDF6205C174B.png",
+    "id": "OptimistProfile|0xccb90b8a08b7ae7b0777db72f04cba7598bd29ab604b28a914ffa265d76494ef"
+  },
+  "impactDescription": "I am a content creator with a large audience on twitter. One of my best contributions that has greatly impacted my native Iranian community is my full airdrop strategy. I received very positive feedback from the community, as it helped them easily engage with various platforms and enhance their interactions. I have consistently created various types of content, covering news and events related to the Optimism and Opstack ecosystems. I have successfully onboarded numerous users and encouraged them to engage with the platforms. Moreover, I have been instrumental in motivating users to delegate their OP holdings and actively contribute to OP governance.",
+  "contributionDescription": "I created a comprehensive airdrop strategy, which includes the OP, Base, and PGN providing an organized end user interaction strategies documented in an excel file. Covering news, events, and campaigns of the Optimism Collective and Opstack reguarly. Posting various tweets to educate and onboard my audience about Optimism ecosystem.\nI can provide you with some of the links to check the engagements and impressions I have received for my contributions.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xMoei/status/1683498649396084736",
+      "description": "Full airdrop strategy tweet #2 (Updated) with over 10k link clicks & 150k views"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xMoei/status/1645122094974533633",
+      "description": "Full airdrop strategy tweet #1 with over 10k link clicks & 200k views"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xMoei/status/1664628562932932609",
+      "description": "Optimism Grant council Donation tweet"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/0xMoei/status/1694971009324220513",
+      "description": "Gitcoin Grant 18 Strategy on OP + PGN tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xMoei/status/1679899348920946689",
+      "description": "Soundxyz Airdrop Strategy on OP tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xMoei/status/1669783106075631636",
+      "description": "Gitcoin Citizen Round Donation on Optimism tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xMoei/status/1687431895510855680",
+      "description": "Onboarding to thirdweb OP testnet NFT tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xMoei/status/1701350594277994775",
+      "description": "Mint.Fun minting NFTs on OP/Base tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xMoei/status/1703846914372915493",
+      "description": "Optimism Airdrop#3 Analytics & News tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xMoei/status/1674121287013224453",
+      "description": "Shapeshift Optimism Campaign Tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xMoei/status/1695032258833367423",
+      "description": "Base + Optimism collaboration tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xMoei/status/1715188399093456975",
+      "description": "Infinex Tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xMoei/status/1697148733324947837",
+      "description": "Socket reward program tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xMoei/status/1684846799704502272",
+      "description": "Layer3 + Rabbithole Strategy on OP tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xMoei/status/1667125755011121152",
+      "description": "Bedrock commemorative NFT tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xMoei/status/1681418213706326017",
+      "description": "How to deploy a dapp on Base and try to qualify for Genesis NFT tweet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/0xMoei/status/1679855852424134656",
+      "description": "Base for builders NFT structures tweet"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/0xmoei/basedapp",
+      "description": "A token burner dapp on Base"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Link clicks",
+      "number": "9600",
+      "url": "https://drive.google.com/file/d/1ZM24Ea4ewZqp78shjAic7HhWlVTslXdF/view?usp=share_link"
+    },
+    {
+      "description": "Views",
+      "number": "152000",
+      "url": "https://drive.google.com/file/d/1GmaSyBshX1ZZHo-RXNtpOUm6QEI1YvmL/view?usp=share_link"
+    },
+    {
+      "description": "Views",
+      "number": "12900",
+      "url": "https://drive.google.com/file/d/1Ul_p9TPBFZ9teyU8TornMTLmIcx96kfg/view?usp=share_link"
+    },
+    {
+      "description": "Link clicks",
+      "number": "888",
+      "url": "https://drive.google.com/file/d/17E7fgnlzU4AqsDd1uk6PjPqO1UKj-00u/view?usp=share_link"
+    },
+    {
+      "description": "Views",
+      "number": "14600",
+      "url": "https://drive.google.com/file/d/1Sps7IaYZ0Q389u_XEBZ4dc7ftJDwQEm6/view"
+    },
+    {
+      "description": "Link clicks",
+      "number": "952",
+      "url": "https://drive.google.com/file/d/1K7kQo7GJgGBdosjfuu9HaT23WXUb5jRF/view?usp=share_link"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1200,
+      "description": "Airdrop 1 + 2"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd1b349763c4dd3d45df04d8bfa1ebc81058d95604ffa2b797abd4de5d5532ffc",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

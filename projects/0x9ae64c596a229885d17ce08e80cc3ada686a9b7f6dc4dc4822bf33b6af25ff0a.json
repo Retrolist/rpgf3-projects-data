@@ -1,0 +1,45 @@
+{
+  "bio": "Web2 dev by day, web3 dev in spare time. Pooltogether contributor",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "sliponit",
+  "websiteUrl": "https://david.pool.limo/",
+  "applicant": {
+    "address": {
+      "address": "0xa46B1d8fA98356a55395646Ca6094f152144F134",
+      "resolvedName": {
+        "address": "0xa46B1d8fA98356a55395646Ca6094f152144F134",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa46B1d8fA98356a55395646Ca6094f152144F134"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa46B1d8fA98356a55395646Ca6094f152144F134.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x0ec2dc00285ea3153996be17b84a9f195141b59f6d97e568bdf085c244b167c7"
+  },
+  "impactDescription": "This project was submitted for eth online 2023. I did not have time to promote it yet. I have asked around mainly in the pooltogether discord and it seems of interest. I plan to promote more the project on both twitter and farcaster and maybe other means too.",
+  "contributionDescription": "mint-to-atst: This project allows to issue an attestation from the deployer of a NFT smart contract to the minter of said NFT automatically.\n\nWe use a demo smart contract for NFT from thirdweb https://thirdweb.com/thirdweb.eth/OpenEditionERC721\n\nAlchemy is used for listening to the NFT smart contract mints and send a webhook to a cloudflare worker https://www.alchemy.com/custom-webhooks\n\nThe cloudflare worker receives mint events from the alchemy webhook. It does the atst creation from the contract deployer",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/sliponit/mint-to-atst",
+      "description": "Automatically issue an attestation to the minter of said NFT."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of likes on release tweet",
+      "number": "4",
+      "url": "https://x.com/td366/status/1716117286182965533?s=46&t=1Oy47c1K2psPtk8T91Ry1g"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x9ae64c596a229885d17ce08e80cc3ada686a9b7f6dc4dc4822bf33b6af25ff0a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

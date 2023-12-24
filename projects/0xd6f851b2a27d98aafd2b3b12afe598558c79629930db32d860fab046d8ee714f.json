@@ -1,0 +1,54 @@
+{
+  "bio": "Be Happy.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Narendra",
+  "websiteUrl": "https://twitter.com/Bravo74300723",
+  "applicant": {
+    "address": {
+      "address": "0x55c84f879DD31Be25b252009528D74b61bb342E0",
+      "resolvedName": {
+        "address": "0x55c84f879DD31Be25b252009528D74b61bb342E0",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x55c84f879DD31Be25b252009528D74b61bb342E0"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x55c84f879DD31Be25b252009528D74b61bb342E0.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x43a394bc46ebf13237ed7d646bdbc276f4dce226563061774c8b7ff0a3ef5a98"
+  },
+  "impactDescription": "Have Joined time to time social promotions. minted many optimisms network NFTS in many optimism projects. Help grow this project a little financially & more socially. this is a fine project. i have joined galaxy campaigns optimism campaigns. join campaigns through discord,twitter & telegram.",
+  "contributionDescription": "Help grow this project a little financially & more socially. this is a fine project. i have joined galaxy campaigns optimism campaigns .join campaigns through discord ,twitter & telegram. Have Joined time to time social promotions. minted many optimism network NFTS in many optimism projects.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Bravo74300723",
+      "description": "follow"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "social",
+      "number": "5",
+      "url": "https://twitter.com/Bravo74300723"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd6f851b2a27d98aafd2b3b12afe598558c79629930db32d860fab046d8ee714f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

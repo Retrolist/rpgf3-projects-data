@@ -1,0 +1,52 @@
+{
+  "bio": "stand with crypto",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "0xb4u",
+  "websiteUrl": "https://twitter.com/sollin8",
+  "applicant": {
+    "address": {
+      "address": "0x3B1925168A10632760C4fF9DDac7B6Ee7BD476ab",
+      "resolvedName": {
+        "address": "0x3B1925168A10632760C4fF9DDac7B6Ee7BD476ab",
+        "name": "05021977.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3B1925168A10632760C4fF9DDac7B6Ee7BD476ab"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3B1925168A10632760C4fF9DDac7B6Ee7BD476ab.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xafdccf082d35876116c86e992b643788d94441289d499347c0b9acea80a81862"
+  },
+  "impactDescription": "we are delegating OP token, we are minting the NFT of OP chain and doing transaction, we are observing and doing transactions on the Dapps, we are donating through https://passport.gitcoin.co, we are bridging, swapping, staking, sending token, adding liquidity pool ",
+  "contributionDescription": "we are delegating OP token, we are minting the NFT of OP chain and doing transaction, we are observing and doing transactions on the Dapps, we are donating through https://passport.gitcoin.co, we are bridging, swapping, staking, purchasing, adding liquidity pool ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xb133f081a6bcde8bb6f4eca29e1bbf52f58a86eb4f5e9a905dfa84f7d35e3e5d",
+      "description": "delegating "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": " #111046477",
+      "number": "484",
+      "url": "https://optimistic.etherscan.io/tx/0x820d404dadfbe6592849a8dbeac0b45758b499d000781aea79bf2522a6e0f79e"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb77d800685667bb287bcd2e2fd01b6879f46a3577945ba8e29b85fa14e815720",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

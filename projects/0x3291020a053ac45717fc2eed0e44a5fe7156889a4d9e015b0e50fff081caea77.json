@@ -1,0 +1,84 @@
+{
+  "bio": "Institutional-grade research collective focused on Ethereum & rollups.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Redacted Research",
+  "websiteUrl": "https://twitter.com/RedactedRes",
+  "applicant": {
+    "address": {
+      "address": "0xe179B39f819d55301762b5745c85F767d988aEbe",
+      "resolvedName": {
+        "address": "0xe179B39f819d55301762b5745c85F767d988aEbe",
+        "name": "redactedresearch.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xe179B39f819d55301762b5745c85F767d988aEbe"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe179B39f819d55301762b5745c85F767d988aEbe.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe179B39f819d55301762b5745c85F767d988aEbe.png",
+    "id": "OptimistProfile|0xbd53018ead2c6cbc7214cd54feb23cf09de7a4b147fe30a5a5bbbabc84d933f8"
+  },
+  "impactDescription": "Our holistic research educates & empowers users to understand Optimism's technology & ecosystem, familiarizing them with the big potential the tech bears, the limitations it faces & the trust assumptions users are subject to. \n\nBased on feedback received, this resulted in many new users joining the OP collective & existing users feeling more comfortable to actively interact with the network. \n\nAlso, the granular technical breakdown & ecosystem analysis have proven to resonate well with builders, as it introduces devs to the vast opportunities Optimism's technology & ecosystem provide. Based on talks with builders, our research has inspired a significant # of innovators to start building on OP Mainnet and/or OP Stack.\n\nThis profound impact is proven by the strong metrics of our X post(s)!",
+  "contributionDescription": "Uniting years of experience and deep expertise on infrastructure research & DeFi, we have dedicated 100s of hours towards holistically researching Optimism. Based on our research we have compiled the most comprehensive report that has ever been produced on Optimism, which we provide to the OP community for free as a public good.\n\nOn >100 pages we walk readers through:\n\n- Scaling Ethereum\n- Modular Thesis\n- Rollup Mechanics\n- OP Stack\n- Superchain\n- Key Metrics\n- Ecosystem & Community\n- Governance & Tokenomics\n- Team, Funding & Financials\n- Pumpamentals & Risks\n\nThe report had a profound impact on the community, educating existing users, inspiring new users to join the OP collective & encouraging developers to build on OP technology. Our impact is evidenced by the metrics of our posts on X!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://redactedres.substack.com/p/optimism-a-holistic-research?sd=pf",
+      "description": "Substack Post of our Holistic Research Report"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/RedactedRes/status/1715431066604028318",
+      "description": "TLDR Thread about the Research Report on X"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/zerokn0wledge_/status/1716155282257277221",
+      "description": "A Technical Breakdown of the OP Stack based on our Research Report"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/RedactedRes/status/1716161033260478806",
+      "description": "Additional Research Insights on the OP Stack's Positioning as a Public Good"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Louround_/status/1715443283869261914",
+      "description": "Announcement of Redacted Research OP Report on X (@Louround_)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/TheDeFISaint/status/1715783152738672708",
+      "description": "Announcement of Redacted Research OP Report on X (@TheDefiSaint)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/zerokn0wledge_/status/1715434163162255709",
+      "description": "Announcement of Redacted Research OP Report on X (@zerokn0wledge_)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/zerokn0wledge_/status/1716367441721528352",
+      "description": "Overview of OP Stack based chains based on Research Report"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of Views on X",
+      "number": "49155",
+      "url": "https://docs.google.com/spreadsheets/d/1DsIOOP8IkTlSo_UYWwXfvy8i7vhGp-jnhENMkj7HeLI/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x3291020a053ac45717fc2eed0e44a5fe7156889a4d9e015b0e50fff081caea77",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 22,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

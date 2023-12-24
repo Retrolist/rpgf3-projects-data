@@ -1,0 +1,48 @@
+{
+  "bio": "Im tester , for support develoving projects",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Adi Permana ",
+  "websiteUrl": "https://optimistic.etherscan.io/address/0xd98656735e2ba24aa705b41d026ea64069231e20",
+  "applicant": {
+    "address": {
+      "address": "0xd98656735E2BA24aA705b41d026eA64069231E20",
+      "resolvedName": {
+        "address": "0xd98656735E2BA24aA705b41d026eA64069231E20",
+        "name": "adi.robots.farm"
+      }
+    },
+    "id": "Delegate|Delegate|0xd98656735E2BA24aA705b41d026eA64069231E20"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd98656735E2BA24aA705b41d026eA64069231E20.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd98656735E2BA24aA705b41d026eA64069231E20.jpeg",
+    "id": "OptimistProfile|0xaad9412421878e5028a38e975aa3e4a77056752700cc6c391d71c57fd08625c6"
+  },
+  "impactDescription": "As a tester, it is definitely very useful for developing a project \nIm tester, Having a tester is definitely very useful for project development, before a project is launched to the public it must definitely go through a test. I hope to help in launching a project by testing the web, applications and so on",
+  "contributionDescription": "Im tester, Having a tester is definitely very useful for project development, before a project is launched to the public it must definitely go through a test. I hope to help in launching a project by testing the web, applications and so on, With testers, all bugs can be reported and handled",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xd98656735e2ba24aa705b41d026ea64069231e20",
+      "description": "Url for my address wallet"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Wallet address ",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0xd98656735e2ba24aa705b41d026ea64069231e20"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xe31ef13ea17e531c9ace3c362402c406da2f1e2d144ee4aa316553e15f89ac29",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

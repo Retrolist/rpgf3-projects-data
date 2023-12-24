@@ -1,0 +1,67 @@
+{
+  "bio": "Hello, I'm luckybird from Camel Ventures ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "luckybird",
+  "websiteUrl": "https://www.sound.xyz/user/anseta.eth",
+  "applicant": {
+    "address": {
+      "address": "0x6F7990bB203154bF15C45C6ba23E64a05cFcD98B",
+      "resolvedName": {
+        "address": "0x6F7990bB203154bF15C45C6ba23E64a05cFcD98B",
+        "name": "anseta.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x6F7990bB203154bF15C45C6ba23E64a05cFcD98B"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6F7990bB203154bF15C45C6ba23E64a05cFcD98B.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6F7990bB203154bF15C45C6ba23E64a05cFcD98B.png",
+    "id": "OptimistProfile|0x08b96dddcddb9d44e734f2fe860c43991b44a81dbcd73d856dc801f83932540a"
+  },
+  "impactDescription": "I am an active member of Camel Ventures, an organization regularly minting music NFTs and having a significant influence on sound.xyz. \nI frequently curate and enjoy high-quality music NFTs, especially recently, as minting music NFTs on the Optimism blockchain has made it more convenient for me to collect them. \nCamel Ventures is confident in promoting music NFTs widely to the current community and in the future.",
+  "contributionDescription": "I participated in donating to Gitcoin for Optimism and received an airdrop. I started participating in the system 509 days ago and have been active consistently. \nI've minted quite a few music NFTs on the sound.xyz platform. My collection features promising artists such as Rohki, Sarah Phillips, Reo Cragun, TK, Sadye, bloody white, and more.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x78237c690419f982158f542f2825dcae10589852184b6509a7c79470c5c07e2a",
+      "description": "OP token airdrop received"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xbe771aef740adfd0a7dd097365f79d97e63892bc75bd9230bea0cd7210610dd0",
+      "description": "DEMON music nft from Rohki collection"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x4a96d3f33aef84906577620be573fd46c8dd9e6a31cc81f104b3186cd140e279",
+      "description": "One of Sadye's songs."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x93d5539510fd3033f25fffef97d47510aab4188ac3b21f4feee2d8466182d2bb",
+      "description": "L\u1ea1c \u0110\u00e0 (Camel) music nft from Rohki collection"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Most of minting from Camel Ventures",
+      "number": "1940",
+      "url": "https://dune.com/queries/2654774/4412539"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 550,
+      "description": "OP token airdrop"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x758d963378c9b6a449946add55fdd1847b48a80559b3147577f103e84a5b9b2e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

@@ -1,0 +1,73 @@
+{
+  "bio": "Women led community increasing. curiosity in web3 to close the gender gap",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Metagals",
+  "websiteUrl": "https://www.instagram.com/metagals_/",
+  "applicant": {
+    "address": {
+      "address": "0xc165709Fb45bA0755AE8baB3541150A873866947",
+      "resolvedName": {
+        "address": "0xc165709Fb45bA0755AE8baB3541150A873866947",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xc165709Fb45bA0755AE8baB3541150A873866947"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc165709Fb45bA0755AE8baB3541150A873866947.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc165709Fb45bA0755AE8baB3541150A873866947.png",
+    "id": "OptimistProfile|0x8563b9e7f7a9e554ba4643849b45db2bd7ccaf7514d358228758998365c2c4f1"
+  },
+  "impactDescription": "One of the main challenges to onboarding women to web3 is creating a safe space to communicate, ask questions, and learn in a community-based way. We've onboarded more than 300 Mexican women to web3, acting as the initial point of contact with the technology\nMetagals is the initial bridge Gals have with crypto, and we offer the tools so that every Gal can build her path. We've collaborated with Espacio Cripto, Her DAO, WAGI LATAM, and other communities to help the Gals explore the ecosystem. If they want deeper knowledge or IRL events in Mexico City, we connect them with Espacio Cripto. If they want to go to hackathons, we connect them with Her DAO LATAM to get scholarships.\nWe've built Metagals as a women-centered public good; we have never charged the community for being part of the Gals",
+  "contributionDescription": "Metagals' objective is to onboard into newbie women in LATAM into crypto. We've seen how most communities in web3 are male-dominated or directed to a crypto-savvy person;  most don't feel like a safe space for women. Some of our contributions have been: \n- We gave grants for 9 women to go to Devcon in Bogot\u00e1 to represent our community and bring knowledge to share with the gals\n- We executed 9 IRL meetups (Drink & Learn) focused on onboarding women to web3 topics\n- We have a Telegram community with more than 270 women learning about web3\n- We've done more than 10 Twitter spaces to help newbie women understand web3\n- Continuous content production distributed through Instagram \n- We have more than 2,500 followers on our social media, where more than 98% are women",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.instagram.com/metagals_/",
+      "description": "Instagram is our main channel for educational content"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/+Bfel2g7_BDI4YzBh",
+      "description": "Telegram is where the community share ideas and is in touch"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/metagals_",
+      "description": "Twitter is where the virtual events and Twitter Spaces take place"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "real life events",
+      "number": "9",
+      "url": "https://www.instagram.com/metagals_/reels/"
+    },
+    {
+      "description": "Devcon scholarships",
+      "number": "9",
+      "url": "https://twitter.com/search?q=%40metagals_%20devcon&src=typed_query"
+    },
+    {
+      "description": "Twitter Spaces",
+      "number": "8",
+      "url": "https://twitter.com/search?q=metagals_%20ts&src=typed_query&f=live"
+    },
+    {
+      "description": "Virtual events",
+      "number": "4",
+      "url": "https://twitter.com/search?q=metagals_%20virtual&src=typed_query&f=live"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xcc390957c2ff178b14d378630b8e99765cba6f4dc5027b3c38e6a1e4e2f8a0da",
+  "prelimResult": "Keep",
+  "reportReason": "Choose \"End User Experience & Adoption\" category, but there doesn't seem to be any connection to Optimism",
+  "includedInBallots": 32,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

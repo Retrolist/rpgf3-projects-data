@@ -1,0 +1,52 @@
+{
+  "bio": "Crypto Enthusiast & Optimism Ambassador",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "OpLion",
+  "websiteUrl": "https://www.optimism.io/",
+  "applicant": {
+    "address": {
+      "address": "0xd3814dc9CE28F8388e6254aA48429a8f9BC08b95",
+      "resolvedName": {
+        "address": "0xd3814dc9CE28F8388e6254aA48429a8f9BC08b95",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xd3814dc9CE28F8388e6254aA48429a8f9BC08b95"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd3814dc9CE28F8388e6254aA48429a8f9BC08b95.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x5936e32439b6705d747f2f693d91094373fc4d30cea6023de90a31294f7ee297"
+  },
+  "impactDescription": "Through my humble contributions to the Optimism Collective, I've had the privilege of witnessing a noticeable positive impact. It's been heartwarming to see how my modest efforts to raise awareness and encourage adoption have resonated within my little sphere of influence. Slowly but surely, more individuals have become interested in Optimism, leading to a gentle expansion of its ecosystem.",
+  "contributionDescription": "Since becoming aware of Optimism, I have been promoting and advocating for the adoption of the Optimism layer 2 network within my crypto enthusiast community and beyond. Through informative discussions, educational materials, and community meetups, I have actively worked to raise awareness about the benefits and potential of Optimism. By consistently showcasing its advantages and facilitating its integration into our crypto ecosystem, I have encouraged my friends, fellow enthusiasts, and the broader community to embrace Optimism as a valuable solution, fostering its growth and adoption within the cryptocurrency space",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.optimism.io/",
+      "description": "n/a word of mouth with family and friends"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Friends aware of Optimism",
+      "number": "27",
+      "url": "https://www.optimism.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": "n/a no funding received & none really expected, I just love the project"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x67f2e548967b67b551ebd103dfb09b3417c3b7af2ae330e48b855318cb718caf",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

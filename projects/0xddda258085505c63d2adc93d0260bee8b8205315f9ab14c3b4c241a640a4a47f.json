@@ -1,0 +1,120 @@
+{
+  "bio": "Actionable analytics for Liquidity Providers (LPs) in AMM protocols ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Revert",
+  "websiteUrl": "https://revert.finance",
+  "applicant": {
+    "address": {
+      "address": "0x8cadb20A4811f363Dadb863A190708bEd26245F8",
+      "resolvedName": {
+        "address": "0x8cadb20A4811f363Dadb863A190708bEd26245F8",
+        "name": "revertfinance.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8cadb20A4811f363Dadb863A190708bEd26245F8"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8cadb20A4811f363Dadb863A190708bEd26245F8.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8cadb20A4811f363Dadb863A190708bEd26245F8.png",
+    "id": "OptimistProfile|0xad7cc7dcbaa82c82ffff1f3a8a3bfe1e5c3d2d7b06c83dac4ed3f0418fba6f41"
+  },
+  "impactDescription": "- Number of tx and users: \"Revert was surprisingly efficient in increasing both the number of transactions and the number of users. The program\u2019s retention rate of users and consistent gas fees were even more impressive. In the 30 days following the program\u2019s conclusion, the protocol averaged 4 more user addresses daily than during the program\" --Ryan, Messari\n- TVL on Auto-Compounder: \"TVL rose significantly once OP incentives began, peaking above $4 million in December, and sustained similar levels throughout the incentivized period. The highest TVL recorded was just over $6 million on Dec. 14, 2022.\"\n- Capital Auto-compounded on Optimism and Base: 3.6M\n- V3Utils volume: 550k USD volume Optimism & Base\n- OP Grant: 240k OP grant received, 100% was distributed, 235k already claimed\n",
+  "contributionDescription": "At Revert, we are bullish on the future of AMMs, envisioning them as fundamental pillars in all facets of financial markets, unveiling new investment avenues for retail investors. This underscores the necessity for open, transparent, and accessible tools to adeptly navigate and manage these investments. \n\nIn line with this vision, our v3utils tool streamlined liquidity operations on Uniswap v3 within Optimism, easing range adjustments and liquidity additions. Our open-source backtester further alleviated liquidity management challenges. Additionally, our auto-compounder and its incentives onboarded liquidity to Optimism, thereby positively impacting the DeFi space on Optimism, and specifically helping users migrate liquidity from Mainnet to Optimism via targeted ads and tutorials. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xae8999da4d81cb81b42288b12176fe20d7ead578",
+      "description": "The V3Utils contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x5411894842e610c4d0f6ed4c232da689400f94a1",
+      "description": "Auto-Compounder contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x6d55aa15e84bd5847b13bab3245c06b05917d3da",
+      "description": "Auto-Exit contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x6ee80279c057f17a3c7d5a9aa3e52ac304861e71",
+      "description": "Auto-Range contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/retrospective-funding-analysis-revert-finance/6284",
+      "description": " Retrospective Funding Analysis: Revert Finance"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@revert_finance/presenting-the-initiator-3450f63d6b7e",
+      "description": "Presenting the Initiator/Backtester"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/revertfinance.eth/WenyNv6UJkt8veWRZGBKetONP6tssMxbi5lh9J3zwYw",
+      "description": "Atomic Swaps into v3positions"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/revertfinance/status/1653832099118317568",
+      "description": "Presenting Move-Range for v3positions"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/revertfinance.eth/OpeiVCne7xsCAIYFwWTYPtBDAoMdb4JjLP8ixtvCbfM",
+      "description": "Introducing Auto-Exit and Auto-Renge"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://revert.finance/#/optimism-incentives/migrate-tutorial",
+      "description": "Tutorial for migrating liquidity from Mainnet to Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Daily Transactions",
+      "number": "662",
+      "url": "https://gov.optimism.io/t/retrospective-funding-analysis-revert-finance/6284"
+    },
+    {
+      "description": "Daily Unique Addreses",
+      "number": "118",
+      "url": "https://gov.optimism.io/t/retrospective-funding-analysis-revert-finance/6284"
+    },
+    {
+      "description": "V3utils volume",
+      "number": "550000",
+      "url": "https://dune.com/queries/3094258"
+    },
+    {
+      "description": "OP grant distributed",
+      "number": "240000",
+      "url": "https://gov.optimism.io/t/retrospective-funding-analysis-revert-finance/6284"
+    },
+    {
+      "description": "Total Value Compounded",
+      "number": "3651600",
+      "url": "https://dune.com/queries/3094136"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 240000,
+      "description": "100% distributed to incentivize liquidity on OP, not for the team"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xddda258085505c63d2adc93d0260bee8b8205315f9ab14c3b4c241a640a4a47f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 25,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Portfolio Tracker"
+}

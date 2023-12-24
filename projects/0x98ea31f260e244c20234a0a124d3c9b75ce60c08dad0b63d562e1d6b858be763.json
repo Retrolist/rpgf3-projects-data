@@ -1,0 +1,53 @@
+{
+  "bio": "Our team develops and maintains \"Nitro\" state channel protocol.",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "State Channels",
+  "websiteUrl": "https://statechannels.org",
+  "applicant": {
+    "address": {
+      "address": "0x223060E066EeA8f58D4ed0cbabc627967d3acE6C",
+      "resolvedName": {
+        "address": "0x223060E066EeA8f58D4ed0cbabc627967d3acE6C",
+        "name": "georgeknee.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x223060E066EeA8f58D4ed0cbabc627967d3acE6C"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x223060E066EeA8f58D4ed0cbabc627967d3acE6C.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x223060E066EeA8f58D4ed0cbabc627967d3acE6C.png",
+    "id": "OptimistProfile|0x8d285fd0555cf733608343730a4872aef135d9ccc592c68244b3e3aff1ed4762"
+  },
+  "impactDescription": "We understand clabby (who has written recently on the latest modular approach to dispute games) found our repo most helpful. If his work is a continuation of ours, even in a small way, we feel that our efforts have certainly increased the efficiency and security of the OP Stack. By writing about the work on our blog, we have increased awareness of the OP Stack and its provenance.",
+  "contributionDescription": "State channels research has long been central to the development of layer 2 scaling solutions, of which Optimism represents one of the foremost promising examples. In the last couple of years, our team completed a scheme of work relating to the \"dispute game\" mechanism which is central to the security and therefore the success of Optimism. This was approximately 18 developer weeks of effort and resulted in a github repo (https://github.com/statechannels/dispute-game) containing a detailed design of a \"dissection\" approach, and implementations in Typescipt and Solidity which were optimized for gas. \n\nWe have recently written about this work on our blog https://blog.statechannels.org/dispute-game/.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/statechannels/dispute-game",
+      "description": "Dispute Game design and implementation in Solidity and Typescript"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.statechannels.org/dispute-game/",
+      "description": "Blog post on our work on the dispute game"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Commits",
+      "number": "153",
+      "url": "https://github.com/statechannels/dispute-game/graphs/contributors?from=2021-08-22&to=2023-10-20&type=a"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x98ea31f260e244c20234a0a124d3c9b75ce60c08dad0b63d562e1d6b858be763",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 30,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack development & research"
+}

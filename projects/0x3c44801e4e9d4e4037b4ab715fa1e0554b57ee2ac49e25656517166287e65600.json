@@ -1,0 +1,70 @@
+{
+  "bio": "Simplifying crypto news for everyone - one byte at a time",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Polynomial Bytes",
+  "websiteUrl": "https://www.instagram.com/polynomial_bytes/",
+  "applicant": {
+    "address": {
+      "address": "0xa5A0CE7D84025f986568356475451E31714B4C95",
+      "resolvedName": {
+        "address": "0xa5A0CE7D84025f986568356475451E31714B4C95",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa5A0CE7D84025f986568356475451E31714B4C95"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa5A0CE7D84025f986568356475451E31714B4C95.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa5A0CE7D84025f986568356475451E31714B4C95.png",
+    "id": "OptimistProfile|0x95d4c113de19a64dd0c33cfdcc8fa6d0f17d8cf92eed7ecf1abf03d414e1da65"
+  },
+  "impactDescription": "Our educational videos have simplified Web3's complex facets for a broader audience.\n\nIncreased Awareness:\nThe initial video on Optimism\u2019s scaling enhanced understanding, making Optimism's contributions more accessible.\n\nEnhanced Engagement:\nSharing on popular platforms fostered discussions around Web3 & Optimism\u2019s initiatives, enabling more people to engage.\n\nBroadened Reach:\nWith 15,000+ views, we've extended Optimism Collective's reach to new audiences.\n\nBeneficiaries:\nProjects like Curve, Lido, Rocketpool, Frax, and Coinbase have potentially benefited from increased visibility.\n\nIntangible Impact:\nOur series has nurtured a culture of curiosity, open discussion, and continuous learning within the crypto community.",
+  "contributionDescription": "We noticed many find Web3 daunting initially due to its complexity and the constant, intriguing developments within. So, we launched a channel offering one-minute videos, unraveling these topics in an engaging, simple manner. Our first four videos have covered Optimism's role in reducing gas fees, the lucrative MEV bot JaredfromSubway, Michael Egorov's near-fall due to a coding bug, and an insight into Liquid Staking Derivatives easing fund access from staking. Posted across Instagram, Twitter, Shorts, and TikTok, our videos have garnered over 15,000 views, sparking discussions and fostering a curious, informed community around Web3. The journey has just begun; our upcoming videos will continue demystifying the geeky, enriching minds, and making crypto a fun, accessible venture for all.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.instagram.com/polynomial_bytes/",
+      "description": "Our Instagram channel"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Polynomialbytes",
+      "description": "Our Twitter channel"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/channel/UCOL0Dkzs4SpXxaV4DYV6klA",
+      "description": "Our Youtube channel"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.tiktok.com/@polynomial_bytes",
+      "description": "Our Tiktok channel"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Impact Metrics - Sheet",
+      "number": "5",
+      "url": "https://polynomialfi.notion.site/Polynomial-Bytes-Impact-Metric-18beab99a6334543a9d5db0885852050?pvs=4"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 4800,
+      "description": "Grant Received - for Polynomial Bytes through Polynomial's GF Phase 0 Proposal"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3c44801e4e9d4e4037b4ab715fa1e0554b57ee2ac49e25656517166287e65600",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 27,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

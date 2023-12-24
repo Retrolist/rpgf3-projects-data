@@ -1,0 +1,55 @@
+{
+  "bio": "crypto trader",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "praizmek",
+  "websiteUrl": "https://twitter.com/Praizmek",
+  "applicant": {
+    "address": {
+      "address": "0x916dC39953922C671C1ba0424167F2BeA4022838",
+      "resolvedName": {
+        "address": "0x916dC39953922C671C1ba0424167F2BeA4022838",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x916dC39953922C671C1ba0424167F2BeA4022838"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb746f53113d35c5faf2bce0cc545105618a7352d517942e9e2295231b1dad10f"
+  },
+  "impactDescription": "\n\nOur shelter's mission is to rescue, rehabilitate, and rehome animals, ensuring they find loving and forever homes. We rely on the generosity of individuals like you to keep our doors open and continue our work.\n\nYour contribution can make a significant difference in the lives of these animals. Here are a few ways you can help:\n\nOne-time Donation: You can make a one-time monetary contribution to our shelter. Every dollar counts and goes directly toward animal care, vaccinations, food, and shelter maintenance.\n\n Monthly Pledges:Consider becoming a monthly donor to provide stable, ongoing support. Monthly pledges help us plan for the long-term care of our animals.\n\n",
+  "contributionDescription": "Help Support \n\nDear Friends and Supporters,\n\nWe hope this message finds you well. As many of you know, our local animal shelter has been a safe haven for abandoned and mistreated animals in our community for over a decade. We are writing to request your support in our fundraising efforts to continue providing care and shelter to these animals in need.\n\nWith gratitude,\npraizmek",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x916dc39953922c671c1ba0424167f2bea4022838",
+      "description": "from bio"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "10",
+      "number": "10",
+      "url": "https://optimistic.etherscan.io/address/0x916dc39953922c671c1ba0424167f2bea4022838"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0e295fe8769079ad83a8d466e7f163ae154ec5768c825dbd0a81711bf484e1e5",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

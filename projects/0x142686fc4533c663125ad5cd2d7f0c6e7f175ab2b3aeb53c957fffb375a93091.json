@@ -1,0 +1,69 @@
+{
+  "bio": "Unleash the creativity with Optimism AI natively for optimism blockchain & eco.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Optimism AI",
+  "websiteUrl": "http://op-ai.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0x6087470D55109Fc34802A50a01982b9d0C0B8668",
+      "resolvedName": {
+        "address": "0x6087470D55109Fc34802A50a01982b9d0C0B8668",
+        "name": "asharib.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x6087470D55109Fc34802A50a01982b9d0C0B8668"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6087470D55109Fc34802A50a01982b9d0C0B8668.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6087470D55109Fc34802A50a01982b9d0C0B8668.png",
+    "id": "OptimistProfile|0x3d2569381d7cde57c30862a9ad5cbaa702c08c59bb6609fe766b480a2fb3ece7"
+  },
+  "impactDescription": "Our chatbots were a game-changer for Optimism. In just a week, over 300 people, including newcomers, pros, developers, researchers, and enthusiasts, turned to us. We made finding answers easy, kindling a bright spark of enthusiasm within the Optimism Collective.",
+  "contributionDescription": "We have created special chatbots for the Optimism blockchain, finely tuned to its details. We aim to simplify complex blockchain technology for everyone in the Optimism community, from beginners to experts. These chatbots guide users, answer questions, and make using Optimism easier for everyone, all at no cost. They also assist developers, making blockchain development smoother and fostering growth in the Optimism community.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/AsharibAli/op-ai-web",
+      "description": "GH repository contains the code for the OAI website with first trained chatbot."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/AsharibAli/optimism-chatbot-ai",
+      "description": "OAI chatbot trained/fine-tuned using data from the optimism blockchain eco."
+    },
+    {
+      "type": "OTHER",
+      "url": "http://op-ai.xyz/",
+      "description": "The official website of Optimism AI project with a chatbot."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://chat.op-ai.xyz/",
+      "description": "Optimism AI's second product, featuring a full version chatbot."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "7 Days Website Visitors",
+      "number": "382",
+      "url": "https://ibb.co/tqN4nN4"
+    },
+    {
+      "description": "7 Days Product Site Visitors",
+      "number": "269",
+      "url": "https://ibb.co/k17qp68"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x142686fc4533c663125ad5cd2d7f0c6e7f175ab2b3aeb53c957fffb375a93091",
+  "prelimResult": "Keep",
+  "reportReason": "Seems sus",
+  "includedInBallots": 7,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

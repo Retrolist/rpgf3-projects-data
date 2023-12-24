@@ -1,0 +1,67 @@
+{
+  "bio": "A meme creation tool. ( Creat memes more easily)",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "MEMEFUN",
+  "websiteUrl": "http://www.memefun.xyz",
+  "applicant": {
+    "address": {
+      "address": "0xA88d3F1D117C59245FEC63E5b4979726947e8D5a",
+      "resolvedName": {
+        "address": "0xA88d3F1D117C59245FEC63E5b4979726947e8D5a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xA88d3F1D117C59245FEC63E5b4979726947e8D5a"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA88d3F1D117C59245FEC63E5b4979726947e8D5a.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA88d3F1D117C59245FEC63E5b4979726947e8D5a.png",
+    "id": "OptimistProfile|0xa98fe91efdae13c704e6621b175434c6138bfc31a24637589e2c5df687080513"
+  },
+  "impactDescription": "For OP Collective, MEMEFUN not only serves existing OP communities(include NFT and token) for quick interaction and creation but also attracts other communities to expand their brand on OP. \nAdditionally, All project owners can attract MEMEFUN users to create great amount of memes through rewards task, it will active the entire creator ecosystem, allow everyone to become a creator, and enabe each creator to earn rewards through their creations. ",
+  "contributionDescription": "MEMEFUN is a meme creation tool. which can make memes more fun and easily.\nNow we have finished the first part: GIF creation. Users can Intelligently,easily add text and replace avatar. \nEspecially the nft communities and members, they can load their wallet and replace the avatars of gifs with their nft avatars to show their own memes. Then they can download the gifs and share on social media.\nIf other users have seen some interesting and perfect creations, they can click like or share to let more people to see it. \nAdditionly, if users really like the creation, they can click tip and transfer crypto to express how much they like it.\nWe want to use MEMEFUN to let more people to participate in creating interesting content and  let excellent creators get the rewards they deserve.\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/josephHai/ArtifyMotion",
+      "description": " MEMEFUN front-end code"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.memefun.xyz",
+      "description": "MEMEFUN website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of gifs generate",
+      "number": "200000",
+      "url": " https://admin.memefun.xyz"
+    },
+    {
+      "description": "# of users(IP)",
+      "number": "10000",
+      "url": " https://admin.memefun.xyz"
+    },
+    {
+      "description": "# of rewards (transations)",
+      "number": "50000",
+      "url": " https://admin.memefun.xyz"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 75000,
+      "description": "seed round"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x267dcdc1ee31811331c75d140beae6a89461f688dd9dd425beb00fa40fb36ca2",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,55 @@
+{
+  "bio": "i am student",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Abdullah All Ranim",
+  "websiteUrl": "https://twitter.com/abdullahranim0",
+  "applicant": {
+    "address": {
+      "address": "0x343d232420201Fe901E11feF638d74Cd5b148913",
+      "resolvedName": {
+        "address": "0x343d232420201Fe901E11feF638d74Cd5b148913",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x343d232420201Fe901E11feF638d74Cd5b148913"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x343d232420201Fe901E11feF638d74Cd5b148913.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x343d232420201Fe901E11feF638d74Cd5b148913.jpeg",
+    "id": "OptimistProfile|0x42eba707a38ef1593836da30face6d8c84c29f6f5adc4b291159f733f2e925aa"
+  },
+  "impactDescription": "Optimism is a layer 2 chain, meaning it functions on top of Ethereum mainnet (layer 1). Transactions take place on Optimism, but the data about transactions get posted to mainnet where they are validated. It\u2019s like driving in a less crowded side street while benefiting from the security of a highway.\nOptimism is the second-largest Ethereum layer 2 with a total of $313 million locked into its smart contracts, as of this writing, according to Defi Llama. Arbitrum comes first with $1.32 billion.",
+  "contributionDescription": "Optimism is a layer 2 chain, meaning it functions on top of Ethereum mainnet (layer 1). Transactions take place on Optimism, but the data about transactions get posted to mainnet where they are validated. It\u2019s like driving in a less crowded side street while benefiting from the security of a highway.\nOptimism is the second-largest Ethereum layer 2 with a total of $313 million locked into its smart contracts, as of this writing, according to Defi Llama. Arbitrum comes first with $1.32 billion.\n\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x343d232420201Fe901E11feF638d74Cd5b148913",
+      "description": "great"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Ranim",
+      "number": "2",
+      "url": "https://optimistic.etherscan.io/address/0x343d232420201Fe901E11feF638d74Cd5b148913"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0.001,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x21ab0e9954a4ca58203c6a04b0066c3be8239361aaed360adc012b618e6cfa66",
+  "prelimResult": "Remove",
+  "reportReason": "irrelevant answers & unrelated impact metrics and contribution links.; It is not a project application. An individual has submitted his work on optimismscan as a contribution., Copied default text from Optimism's webpage for contribution and impact; It is not a project application. An individual has submitted his work on optimismscan as a contribution."
+}

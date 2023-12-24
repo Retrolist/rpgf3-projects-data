@@ -1,0 +1,48 @@
+{
+  "bio": "Law Student | Campus Law Centre Aligarh muslim university",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Nabiya Khan",
+  "websiteUrl": "https://twitter.com/Nabila83330099",
+  "applicant": {
+    "address": {
+      "address": "0x5ff00Af932B4E48eC5242Cc8A42d6012AB6b2489",
+      "resolvedName": {
+        "address": "0x5ff00Af932B4E48eC5242Cc8A42d6012AB6b2489",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5ff00Af932B4E48eC5242Cc8A42d6012AB6b2489"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5ff00Af932B4E48eC5242Cc8A42d6012AB6b2489.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5ff00Af932B4E48eC5242Cc8A42d6012AB6b2489.png",
+    "id": "OptimistProfile|0xef90e4735a7fe3580d6c19f6a905e9a975ddc6ccd6dbca782042e469d4f1761d"
+  },
+  "impactDescription": "I'd like to take a moment to reflect on the impact my contributions have had on the Optimism Collective.\nI've had the privilege of witnessing and being part of a positive transformation within our community. One of my significant contributions has been the creation and maintenance of a dedicated support and mentoring channel, where I've been actively helping fellow members navigate their challenges, share advice, & provide a listening ear during their tough times.\n\nThis mentoring initiative has led to noticeable increase in the sense of unity and optimism within our community. Many members have expressed their gratitude for the support and guidance they've received & I've seen firsthand how these interactions have boosted their spirits & contributed to an overall atmosphere of positivity.",
+  "contributionDescription": "I'm excited to share with you my contributions to the cause of optimism and why I'm seeking Retroactive Public Goods Funding.\nOver the past few months, I've actively participated in discussions, events, and initiatives within our community aimed at spreading positivity and fostering a welcoming atmosphere. I've made it my mission to uplift the spirits of our fellow members, offering words of encouragement, support. While I may not be as actively involved in discussions or events, I've been contributing in my own way through periodic transactions within our community. These transactions have often taken the form of donations, contributions to community projects\nThank you for considering my request, and I look forward to continuing our journey of optimism together.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x628e9988813e57e80930e4b5a5ed53f16fbb833e0a20b1d7c869c97cf653f316",
+      "description": "eg"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Eg",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/tx/0xf2ca4e7587fdc802ededb4bbc0cbd4768a3ea95b53e69d3904248ffdb4998447"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x88a83d3923cf38741e9a092503debc8148b803b233c869e3ee2c91b51abdbb6f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

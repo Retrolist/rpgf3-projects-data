@@ -1,0 +1,52 @@
+{
+  "bio": "Creative Director helping creators bring ideas to life",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Jamee Cornelia",
+  "websiteUrl": "https://www.jcclub.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0x8962B4ebe444f2fa4eF74e631a084726Ad9BDc3D",
+      "resolvedName": {
+        "address": "0x8962B4ebe444f2fa4eF74e631a084726Ad9BDc3D",
+        "name": "jameecornelia.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8962B4ebe444f2fa4eF74e631a084726Ad9BDc3D"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x94fd717cfb9eab7a83695fc8679a4cac78bc769e244773d3be69b41865c2a4b5"
+  },
+  "impactDescription": "Through my work at glass before the company eventually dissolved we we added Optimism to our rebuilt platform. Although I believe our internal model of Video distribution needed improvement Optimism was my favorite blockchain to build on because of its ease of use for new users. I believe incorporating that with other Freelance and distribution service industries would be the smoothest and most stable out of all the block chains",
+  "contributionDescription": "I am looking to expand my creative direction and marketing services to creators developers and builders on Optimism so that we can expand outside our current community. Through years of Marketing experience in and out of web3 I am able to see where web3 fails to connect with the people and that is through lack of convenience and easily digestible marketing and culturally centered experiences with ROI in mind for BOTH sides. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://glass.xyz/",
+      "description": "Formally worked for a Video Distribution Service "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Users",
+      "number": "50",
+      "url": "https://glass.xyz/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x21a3da365a629f3d317292d835c6ecc1e513ee1caca3c24237a349ec707c97d7",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

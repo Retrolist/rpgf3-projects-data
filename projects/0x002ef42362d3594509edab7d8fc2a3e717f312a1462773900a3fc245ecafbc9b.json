@@ -1,0 +1,46 @@
+{
+  "bio": "no",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "nghi",
+  "websiteUrl": "https://twitter.com/tdf500",
+  "applicant": {
+    "address": {
+      "address": "0x5bcEFC8E6439A3cA90723E870BcfD03134D3C8b7",
+      "resolvedName": {
+        "address": "0x5bcEFC8E6439A3cA90723E870BcfD03134D3C8b7",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5bcEFC8E6439A3cA90723E870BcfD03134D3C8b7"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5bcEFC8E6439A3cA90723E870BcfD03134D3C8b7.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5bcEFC8E6439A3cA90723E870BcfD03134D3C8b7.png",
+    "id": "OptimistProfile|0x2b3349f5fd03553f1d224371d2bff726e2d4bb1ca784965c6e95da0d22496a71"
+  },
+  "impactDescription": "no,...............................................................,..,.,.,.,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,..,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,",
+  "contributionDescription": "swap ,brigde,.........................................................                                                                                                                                                                                                            ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/tdf500",
+      "description": "q"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "sdfsdf",
+      "number": "43",
+      "url": "https://twitter.com/tdf500"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x002ef42362d3594509edab7d8fc2a3e717f312a1462773900a3fc245ecafbc9b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

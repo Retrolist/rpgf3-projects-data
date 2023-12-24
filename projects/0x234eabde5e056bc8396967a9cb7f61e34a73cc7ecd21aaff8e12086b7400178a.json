@@ -1,0 +1,46 @@
+{
+  "bio": "when opportunity meets ability it is more than luck",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "Agya Firdani",
+  "websiteUrl": "https://twitter.com/wesiyowesi69",
+  "applicant": {
+    "address": {
+      "address": "0x00024eACb7936b04ba5E07eDDFd7Fe701E7c66e0",
+      "resolvedName": {
+        "address": "0x00024eACb7936b04ba5E07eDDFd7Fe701E7c66e0",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x00024eACb7936b04ba5E07eDDFd7Fe701E7c66e0"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x831f9fbf3f2dca7325677706d8e49707395ad0db8416cef80402fa3e2f4fc368"
+  },
+  "impactDescription": "Through my contribution to the optimism community, I enhance the various events held and utilize the optimism network in order to ensure that transactions are conducted efficiently. Moreover, I help to resolve any bugs or problems in the optimism network.",
+  "contributionDescription": "In addition to participating in various events, my contribution to the optimism community is only to enliven them and to use the optimism network since it is the most optimistic in regards to facilitating transactions. Additionally, I assist in responding to problems or bugs within the optimism network.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/wesiyowesi69",
+      "description": "when opportunity meets ability it is more than luck"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "downloads",
+      "number": "10",
+      "url": "https://twitter.com/wesiyowesi69"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x234eabde5e056bc8396967a9cb7f61e34a73cc7ecd21aaff8e12086b7400178a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

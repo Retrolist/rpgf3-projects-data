@@ -1,0 +1,75 @@
+{
+  "bio": "Layer2 Tutorials with Funny and Easy-to-understand Diagrams and Animation.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "MyFirstLayer2",
+  "websiteUrl": "https://layer2.myfirst.io/",
+  "applicant": {
+    "address": {
+      "address": "0xAcb4313910574b69e8116617105b97993ED8319d",
+      "resolvedName": {
+        "address": "0xAcb4313910574b69e8116617105b97993ED8319d",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xAcb4313910574b69e8116617105b97993ED8319d"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAcb4313910574b69e8116617105b97993ED8319d.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xAcb4313910574b69e8116617105b97993ED8319d.png",
+    "id": "OptimistProfile|0x0a16ed346c633544667421eb0b129a8972e2e41f1aefc3e6f2e70cdb9ca2f1b3"
+  },
+  "impactDescription": "Education:\nOur Layer 2 project includes a chapter on Optimistic Rollup, enhancing comprehension of Optimism technologies among developers and blockchain enthusiasts, thereby fostering a technically informed community within the Optimism Collective.\n\nCommunity Growth:\nOur accessible educational content fosters an informed and engaged community, enriching the Optimism Collective ecosystem.\n\nTechnology Adoption:\nThrough education, we inspire more developers and organizations to adopt Optimism solutions, expanding its reach and application.\n\nCertification:\nPost-course, participants receive NFT \u201cgraduation certificates\u201d minted on the Optimism Goerli Testnet, showcasing Optimism's practical application and adding value to their learning experience.",
+  "contributionDescription": "MyFirstLayer2 serves as an educational platform geared towards novices eager to explore and engage with Layer2 technologies. \n\nAs suggested by our name, we cater to beginners who are keen on acquiring knowledge and delving into projects associated with Layer2, like optimistic rollup. And beginners also can mint a NFT in Optimism network after completed the tutorial.\n\nOur approach involves the use of humorous and easily comprehensible diagrams and animations to elucidate Layer2 concepts in a fun and engaging manner.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/lxdao-official/myfirstlayer2-frontend",
+      "description": "Repository of the MyFirstLayer2 front-end project"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/lxdao-official/myfirstlayer2-contract",
+      "description": "Repository of the MyFirstLayer2 contracts project"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Last 3 Months Board Users",
+      "number": "277",
+      "url": "https://docs.google.com/spreadsheets/d/1ZkKUFDD8jROlsWxsCfhsJ0bu61dx9VTPDiAvQ2ouMyU/edit#gid=0"
+    },
+    {
+      "description": "Last a Month Course Completed",
+      "number": "47",
+      "url": "https://docs.google.com/spreadsheets/d/1ZkKUFDD8jROlsWxsCfhsJ0bu61dx9VTPDiAvQ2ouMyU/edit#gid=0"
+    },
+    {
+      "description": "MyFirstLayer2 core contributors",
+      "number": "9",
+      "url": "https://github.com/lxdao-official/myfirstlayer2-frontend"
+    },
+    {
+      "description": "Twitter fans impact",
+      "number": "694",
+      "url": "https://twitter.com/myfirst_io/media"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 15000,
+      "description": "Ethereum Foundation"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2f75e5c1fce8a95703eff8dbecda9d426edcca1db1b69628e151b57b21bfa25c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 24,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

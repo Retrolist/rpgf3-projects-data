@@ -1,0 +1,58 @@
+{
+  "bio": "Crowdfunding application that uses an innovative funding mechanism",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "JustCause",
+  "websiteUrl": "https://justcause.finance",
+  "applicant": {
+    "address": {
+      "address": "0x78726673245fdb56425c8bd782f6FaA3E447625A",
+      "resolvedName": {
+        "address": "0x78726673245fdb56425c8bd782f6FaA3E447625A",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x78726673245fdb56425c8bd782f6FaA3E447625A"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x78726673245fdb56425c8bd782f6FaA3E447625A.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x78726673245fdb56425c8bd782f6FaA3E447625A.png",
+    "id": "OptimistProfile|0x66805981611c469f3dea603bea0f7c9de69817cdac4bb06c041cb520b8a4a406"
+  },
+  "impactDescription": "JustCause is a state-of-the-art crowdfunding app that allows users to contribute to public goods, important charitable organizations, community projects, and numerous other causes, all while confidently preserving their initial deposit and fostering community goodwill.",
+  "contributionDescription": "We launched our new version on Optimism and have pool to earn donations for Coin Center, The Protocol Guild, and Gitcoin Grants. Contributors deposit tokens into JustCause Pools which in turn deposit them into lending protocols. The interest earned is donated to the cause associated with the Pool. When Contributors need access to their funds they simply withdraw their original deposit and the interest accrued is left behind for the cause. We have almost $30k USD deposited in our first few weeks. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x9ff20439a4f5e315a48e5714d0f989f18de77684",
+      "description": "main contract on OP"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/smeee23/just_cause",
+      "description": "app front end repo"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/smeee23/justcause_contracts",
+      "description": "contract repo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Amount deposited (on frontend)",
+      "number": "28000",
+      "url": "https://justcause.finance"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xcba0c3ad859a1c164a9a300b587abe5544cdc98e97f6a3e67fb31000e781b803",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 16,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,46 @@
+{
+  "bio": "Decentralized protocol for private transactions coming soon to Kava and Optimism",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "PrivCash",
+  "websiteUrl": "https://priv.cash/",
+  "applicant": {
+    "address": {
+      "address": "0xb84590A64BEAEA3cEAF8c32566c850e72be6617B",
+      "resolvedName": {
+        "address": "0xb84590A64BEAEA3cEAF8c32566c850e72be6617B",
+        "name": "charmanders.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xb84590A64BEAEA3cEAF8c32566c850e72be6617B"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x7ceedf490ef88901626bab280296cbc81d92bc8bccdccf10afa5de1f9effc889"
+  },
+  "impactDescription": "Increase privacy on the optimism network, this project will be helping increase the privacy on Optimism with the help of technology that helps users break the on chain link with their main wallet address and the wallet address they would like the funds to be on. ",
+  "contributionDescription": "Increase privacy on the optimism network, this project will be helping increase the privacy on Optimism with the help of technology that helps users break the on chain link with their main wallet address and the wallet address they would like the funds to be on. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ShadeCash",
+      "description": "Previous project "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "N/A",
+      "number": "2000",
+      "url": "https://github.com/ShadeCash"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x367dbd417a601c354a57f1e241f112c8b8d7575468b7c3df06d20855c2e15181",
+  "prelimResult": "Remove",
+  "reportReason": "Not live yet on Optimism (\"coming soon\"), website link broken"
+}

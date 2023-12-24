@@ -1,0 +1,81 @@
+{
+  "bio": "Chronicle Protocol provides decentralized and verifiable Oracle infrastructure",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Chronicle Labs",
+  "websiteUrl": "https://chroniclelabs.org/",
+  "applicant": {
+    "address": {
+      "address": "0x9b7DF3A2DF61E72dF5C4d565A0E017D7C5c6E532",
+      "resolvedName": {
+        "address": "0x9b7DF3A2DF61E72dF5C4d565A0E017D7C5c6E532",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9b7DF3A2DF61E72dF5C4d565A0E017D7C5c6E532"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9b7DF3A2DF61E72dF5C4d565A0E017D7C5c6E532.png",
+    "id": "OptimistProfile|0xade8a18d8f42f728ea66f3c443ac70143774cb7f378e965fff41c1de8563ca9d"
+  },
+  "impactDescription": "The development of a canonical DAI bridge following the launch of Optimism offered an important technical improvement for Optimism users as the 7 day fraud-proof waiting requirements were able to be bypassed for the first time. Bridging of a fully composable, top stablecoin like DAI, instead of relying on wrapped versions and non native bridges, aimed to provide better security and a frictionless experience on Optimism. Since the deployment of Teleport (with an initial $1M debt ceiling for DAI mint/burn set by governance), Maker governance has voted to change its multi-chain product roadmap, resulting in the pausing of Teleport. However, Chronicles research, development and deployment of Teleport demonstrate a considerable amount of time and commitment to supporting Optimism.  \n\n\n",
+  "contributionDescription": "\nChronicle labs, formerly the Maker Oracle team, along with the Maker Protocol Engineering team developed a native DAI bridge named \"Teleport\" in 2022. The infrastructure allowed for \"fast withdrawals\" of DAI from L2 to L1 for the first time. The first deployments went live on Optimism and Arbitrum in November 2022 allowing Optimism users to transfer DAI from L2 to L1 instantaneously. Teleport utilized off-chain Oracle Feeds to communicate between L1 and L2, providing cross chain communication messaging. Significant engineering time and resources (6 months/1,920 hours) from the Chronicle Oracle team contributed to the development of the first, trustless Dai bridge, providing users with the advantage to withdraw L2 funds near instantly by avoiding the need to wait for fraud proofs. \n\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/makerdao/dss-teleport",
+      "description": "Dai Teleport "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x18d2CF2296c5b29343755E6B7e37679818913f88",
+      "description": "Optimism Teleport Contract "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.coindesk.com/tech/2022/11/16/defi-giant-makerdao-speeds-up-dai-transactions-and-withdrawals-expands-to-arbitrum-osmosis/",
+      "description": "Coindesk article about Teleport "
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/chronicleprotocol/oracle-suite/commit/3fc70c1d1a0299a49c05c3801a444c194e50fec5",
+      "description": "Core work for Teleport (originally named wormhole)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/chronicleprotocol/oracle-suite/commit/4eed6bcfc59b7eefba171dcc0ae3f4b7188ebb4e",
+      "description": "Core work for Teleport"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/chronicleprotocol/oracle-suite/commit/8b871f004b532ad4b2d6dded9fc0b1c81db1576b",
+      "description": "Core work for Teleport "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Dai debt ceiling for Teleport ",
+      "number": "999999",
+      "url": "https://mips.makerdao.com/mips/details/MIP69#authorization"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Chronicle has not received any grants or financial funds from Optimism"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x71e4915fe3b20feeb949e572cfa4204ab8e0a62ae385a0cbb8474071fb86eb80",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 32,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

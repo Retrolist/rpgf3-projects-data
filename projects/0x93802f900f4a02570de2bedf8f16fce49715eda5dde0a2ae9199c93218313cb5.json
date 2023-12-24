@@ -1,0 +1,46 @@
+{
+  "bio": "Automation Platform for The Blockchain",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Deltaport",
+  "websiteUrl": "https://deltaport.io",
+  "applicant": {
+    "address": {
+      "address": "0x29bca92D522D5a87B0f65E1208980262F235A423",
+      "resolvedName": {
+        "address": "0x29bca92D522D5a87B0f65E1208980262F235A423",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x29bca92D522D5a87B0f65E1208980262F235A423"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29bca92D522D5a87B0f65E1208980262F235A423.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x29bca92D522D5a87B0f65E1208980262F235A423.png",
+    "id": "OptimistProfile|0xcd89573292d4ae2d34f663eb02f91315fc41c020d78f445dc63ae83ba36db6a4"
+  },
+  "impactDescription": "Crypto traders and other users utilising Optimism network over other higher cost networks, bringing Optimism token value up by executing transactions, swaping tokens, automating games, locking value in smart contracts hosted and partenerd with Optimism Collective.",
+  "contributionDescription": "Deltaport, a platform renowned for its trading and automation tools, has recently announced the integration of Optimism wallets and network to its ecosystem. This strategic move aligns with the company\u2019s objective to broaden its horizons and deliver an efficient, seamless, and versatile trading experience to its vast user base.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Deltaport-io/deltaport",
+      "description": "Deltaport platform main repository"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Downloads",
+      "number": "1624",
+      "url": "https://github.com/Deltaport-io/deltaport/releases"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x93802f900f4a02570de2bedf8f16fce49715eda5dde0a2ae9199c93218313cb5",
+  "prelimResult": "Remove",
+  "reportReason": "Consultants?"
+}

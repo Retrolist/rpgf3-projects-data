@@ -1,0 +1,52 @@
+{
+  "bio": "Let Go",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "brianha",
+  "websiteUrl": "https://twitter.com/Teacup507",
+  "applicant": {
+    "address": {
+      "address": "0x4103CFcb300599dFcB31dBc95d919592619B4EAc",
+      "resolvedName": {
+        "address": "0x4103CFcb300599dFcB31dBc95d919592619B4EAc",
+        "name": "0x9699.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x4103CFcb300599dFcB31dBc95d919592619B4EAc"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xa2da52e68d1ed15ffe15acc24b33070fdfe322a8b61bf76c48bd203cf851fd36"
+  },
+  "impactDescription": "I learned about Op quite late. In recent times OP has made great strides, especially in issues such as processing speed and transaction fees. As someone who regularly trades on OP, I feel very satisfied about this. Hope you will improve more and more!",
+  "contributionDescription": "I learned about Op quite late. In recent times OP has made great strides, especially in issues such as processing speed and transaction fees. As someone who regularly trades on OP, I feel very satisfied about this. Hope you will improve more and more!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x4103CFcb300599dFcB31dBc95d919592619B4EAc",
+      "description": "Txns"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Txns",
+      "number": "717",
+      "url": "https://optimistic.etherscan.io/address/0x4103CFcb300599dFcB31dBc95d919592619B4EAc"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50,
+      "description": "0x4103CFcb300599dFcB31dBc95d919592619B4EAc"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x500f36518b3ab46aeca104132392ffd6d804a238baa5418435614ab442d13311",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,56 @@
+{
+  "bio": "Artemis is the institutional data platform for digital assets",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Artemis Analytics",
+  "websiteUrl": "https://app.artemis.xyz",
+  "applicant": {
+    "address": {
+      "address": "0x301c2cfca20189988292eE03312f43Adf541CB20",
+      "resolvedName": {
+        "address": "0x301c2cfca20189988292eE03312f43Adf541CB20",
+        "name": "jzheng.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x301c2cfca20189988292eE03312f43Adf541CB20"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x678fbdc1cec459a28f23a17b7521ae76581442eb222ab5dbbeac6c48122f51ff"
+  },
+  "impactDescription": "Our work has helped highlight the top categories and applications that have developed on Optimism (e.g. Perp Protocol, Worldcoin, Kwenta) while also providing a standardized way for developers and applications to understand activity on Optimism vs. other EVM compatible chains",
+  "contributionDescription": "Artemis has built a comprehensive data platform providing a fundamental look at application level activity on the Optimism platform. We track daily active addresses, transactions, gas usage, application level stats (activity by category) and developer activity, and standardize the data so its comparable against other blockchain networks. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://app.artemis.xyz/activity-monitor/composition?chain=optimism&category=&application=&datePicker=monthly&showAsPercentShare=false&showBreakdown=false&showUnlabeled=false&selectedMetric=activeAddresses&preSelectBreakdown=chain&preSelectTab=1",
+      "description": "Application level activity (gas usage, txns, daily active addresses) on Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Page views (unique monthly visitors)",
+      "number": "10000",
+      "url": "https://plausible.io/app.artemis.xyz"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "Have not received anything from OP"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x613f763a7000491408631468515429375f3240d42c542954693dff62b76df7b9",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 16,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

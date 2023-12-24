@@ -1,0 +1,54 @@
+{
+  "bio": "I'm a positive, hardworking person who is very happy to hang out with people",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "cgxuanyu",
+  "websiteUrl": "https://twitter.com/lxg86861",
+  "applicant": {
+    "address": {
+      "address": "0x4EE809D0e7b4Ab90474C515329E1409F16Ed9a26",
+      "resolvedName": {
+        "address": "0x4EE809D0e7b4Ab90474C515329E1409F16Ed9a26",
+        "name": "cgxuanyu2056.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x4EE809D0e7b4Ab90474C515329E1409F16Ed9a26"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4EE809D0e7b4Ab90474C515329E1409F16Ed9a26.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4EE809D0e7b4Ab90474C515329E1409F16Ed9a26.png",
+    "id": "OptimistProfile|0x5923b669faa9af3b2d20727d8ef4d7872f1b653f6121267eeaa312fd35f302a5"
+  },
+  "impactDescription": "Promote optimism, let more people know about OP and get involved, participate in collective governance, make the data more fair, transparent and democratic, submit a suggestion after interacting with the program and the program might do something about it.",
+  "contributionDescription": "I am actively involved in projects on Optimism and participate in collective governance. optimism is very rich in projects and I have had interactive experiences with trading, pledging, NFTs, contracts and more! It's a great program and I hope that optimism will grow and more and more people will participate in it!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x4EE809D0e7b4Ab90474C515329E1409F16Ed9a26",
+      "description": "It contains a wealth of records"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "onchain contracts",
+      "number": "1288",
+      "url": "https://optimistic.etherscan.io/address/0x4EE809D0e7b4Ab90474C515329E1409F16Ed9a26"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 918,
+      "description": "Roughly 900 incentives received."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0b5a2d64f0627db0ef56efc257bd5c2c9dd2b163f6f79fa545ea9a6ab306ab43",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,45 @@
+{
+  "bio": "Hi,This is Rocky.I am from Bangladesh & I am a freelancer. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Rocky",
+  "websiteUrl": "https://twitter.com/Rocky291903?t=U709R9z2zZmcrQolLrWdrw&s=09",
+  "applicant": {
+    "address": {
+      "address": "0x9c3f12CBfDAd4A9056A6863f1aD92504ee7Fc2C0",
+      "resolvedName": {
+        "address": "0x9c3f12CBfDAd4A9056A6863f1aD92504ee7Fc2C0",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9c3f12CBfDAd4A9056A6863f1aD92504ee7Fc2C0"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9c3f12CBfDAd4A9056A6863f1aD92504ee7Fc2C0.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9c3f12CBfDAd4A9056A6863f1aD92504ee7Fc2C0.png",
+    "id": "OptimistProfile|0xc07a29631ff707d46e68b5926841f256cf2eadc2b15eecf4c8c843b6f3e86c6e"
+  },
+  "impactDescription": "\n\nWe provided over 100 OP News updates to our audience of 2,000 podcast listeners and 230 newsletter subscribers. In the fast-changing Optimism Collective, we play a crucial role in keeping users well-informed. OP News is a series of Optimism-related updates featured within our Ethereum News flash briefing in a dedicated segment called Optimism Highlights.",
+  "contributionDescription": "We provided over 100 OP News updates to our audience of 2,000 podcast listeners and 230 newsletter subscribers. In the fast-changing Optimism Collective, we play a crucial role in keeping users well-informed. OP News is a series of Optimism-related updates featured within our Ethereum News flash briefing in a dedicated segment called Optimism Highlights.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": " https://twitter.com/Rocky291903?t=U709R9z2zZmcrQolLrWdrw&s=09",
+      "description": "Very good project "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Nope",
+      "number": "34857",
+      "url": "https://twitter.com/Rocky291903?t=U709R9z2zZmcrQolLrWdrw&s=09"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xc7717eaf1635302d867ef6013c95edb50248b7de2b66e0e541561ac791143db6",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

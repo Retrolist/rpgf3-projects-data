@@ -1,0 +1,63 @@
+{
+  "bio": "Blue Norva is a gamefi project on the Optimism network.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Blue Norva",
+  "websiteUrl": "https://bluenorva.io",
+  "applicant": {
+    "address": {
+      "address": "0xb1c290787c03142E4696B67dA31606e2482a6559",
+      "resolvedName": {
+        "address": "0xb1c290787c03142E4696B67dA31606e2482a6559",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xb1c290787c03142E4696B67dA31606e2482a6559"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb1c290787c03142E4696B67dA31606e2482a6559.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb1c290787c03142E4696B67dA31606e2482a6559.png",
+    "id": "OptimistProfile|0xd03b0ea534c21592fda093b5dc008e58cec4c1533bbd72527cef12a7ad8d104d"
+  },
+  "impactDescription": "As a GameFi project utilizing NFTs, we have successfully devised an engaging approach to introduce more individuals to the world of NFTs and staking. We have generated value in the area of entertainment, allowing players to earn while they unwind.\n\nAdditionally, we have introduced a considerable number of first-time NFT minters to the NFT space within the Optimism ecosystem, effectively introducing new users to Optimism and its innovations. These efforts have resulted in increased fees and trade volume for the network.",
+  "contributionDescription": "Although only the first phase of BlueNorva has been released, we have successfully attracted a considerable number of players who have minted our NFTs and traded the project token. This has increased the volume of trades on the Optimism network, consequently generating more fees.\n\nOur project has also attracted players who wish to participate in our game to the Optimism network, as we are exclusively native to this platform. This has served as a means of introducing the network to those who have never used it before.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x2e1d6149dbeb8b4c4cd4f18e744568a2244f0332",
+      "description": "BlueNorva treasury wallet address"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@bluenorva/blue-norva-a-new-way-for-gamers-to-earn-b85f9ae7e0bf",
+      "description": "Medium article about the project and the value it creates for end users"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of unique holders",
+      "number": "2015",
+      "url": "https://optimistic.etherscan.io/token/0xa50b23cdfb2ec7c590e84f403256f67ce6dffb84"
+    },
+    {
+      "description": "Number of transactions",
+      "number": "84575",
+      "url": "https://optimistic.etherscan.io/token/0xa50b23cdfb2ec7c590e84f403256f67ce6dffb84"
+    },
+    {
+      "description": "Number of minted NFTs",
+      "number": "74",
+      "url": "https://optimistic.etherscan.io/token/0xac16e8e35874dc3ec4bcc5b3d8b3762a7107f326"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xcc6eced5cb10ded4e141ba2cb6a4d73a9392ff57123e8f3f5e0ffdebd4f7177b",
+  "prelimResult": "Keep",
+  "reportReason": "Not sure about this one",
+  "includedInBallots": 7,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

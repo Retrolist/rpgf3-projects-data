@@ -1,0 +1,52 @@
+{
+  "bio": "Optimism community building through education ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Chitty ",
+  "websiteUrl": "https://blockcash.finance",
+  "applicant": {
+    "address": {
+      "address": "0xE32F096Db0EB9A0600b0cBEb7CEDB37f21690ed7",
+      "resolvedName": {
+        "address": "0xE32F096Db0EB9A0600b0cBEb7CEDB37f21690ed7",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE32F096Db0EB9A0600b0cBEb7CEDB37f21690ed7"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE32F096Db0EB9A0600b0cBEb7CEDB37f21690ed7.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xf961e6aa85e970de74a8c78a3b1eac17c324b9f42febd1178c2035b0286c5739"
+  },
+  "impactDescription": "Contributions to the community in India through by nurturing a community of well-informed crypto enthusiasts, these training programs can stimulate innovation and entrepreneurship in the blockchain space. Participants may be inspired to develop blockchain-based solutions, contributing to India's technological advancement.\n\nLastly, such initiatives can also attract global investments and collaborations, as a well-educated and informed crypto community can be seen as a stable and promising ecosystem for investment.\n\nIn conclusion, training programs for the crypto community in India are instrumental in fostering informed, responsible, and innovative participation in the crypto space. ",
+  "contributionDescription": "crypto community in India through training programs hold significant potential for fostering responsible and informed participation in the world of cryptocurrencies. Crypto, as a decentralized and rapidly evolving space, requires a well-educated and aware community. training programs for the crypto community in India are instrumental in fostering informed, responsible, and innovative participation in the crypto space. By providing knowledge, emphasizing security, promoting compliance, and stimulating innovation, these initiatives have the potential to strengthen India's position in the global crypto landscape while safeguarding the interests of its citizens.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.canva.com/design/DAFxWheVLiU/L7Eds19_28pFrm5qnlazKQ/view?utm_content=DAFxWheVLiU&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel",
+      "description": "Training photo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Training programs",
+      "number": "100",
+      "url": "https://www.canva.com/design/DAFxWheVLiU/L7Eds19_28pFrm5qnlazKQ/view?utm_content=DAFxWheVLiU&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4ede3f335b8704b3cc3c910fb5328e82c74f6306f22710b4e83381213429a935",
+  "prelimResult": "Remove",
+  "reportReason": "hard to verify if contribution true"
+}

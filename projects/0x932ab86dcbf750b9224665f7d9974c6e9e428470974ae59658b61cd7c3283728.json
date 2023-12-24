@@ -1,0 +1,56 @@
+{
+  "bio": "RPC, Snapshot, & Indexing services with top performance, at market-low prices.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Nodies DLB",
+  "websiteUrl": "https://nodies.app",
+  "applicant": {
+    "address": {
+      "address": "0x24372Ba79203e2c68bB7615032A172E3DAed6991",
+      "resolvedName": {
+        "address": "0x24372Ba79203e2c68bB7615032A172E3DAed6991",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x24372Ba79203e2c68bB7615032A172E3DAed6991"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x24372Ba79203e2c68bB7615032A172E3DAed6991.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x24372Ba79203e2c68bB7615032A172E3DAed6991.jpeg",
+    "id": "OptimistProfile|0xab2595315d52cdaf55a1d1e5a132ab04a0d75bb8bd4fb92393f7a72ecaf4da80"
+  },
+  "impactDescription": "We began supporting Optimism in August 2022, BASE in July 2023, and Optimism Sepolia in September 2023; public endpoints are now available on nodies.app for all 3. We integrated these chains free of charge, and have served over 4 billion RPC requests to date. In all, we have served over 85 billion requests, across 19 networks, and we are constantly growing. Looking ahead, we believe the Superchain will have a wide-reaching impact on the Etheruem at large, and we are committed to investing into the future of Optimism, and we look forward to supporting all OPstack-based L2\u2019s (Zora and Public Goods Network) as soon as they become publicly available.",
+  "contributionDescription": "Since August 2022, Nodies DLB has supported development and usage of the Optimism Stack by integrating Optimism, Optimism Sepolia, and BASE blockchain into our RPC services. To ensure optimal performance across worldwide, we run load-balanced nodes in multiple geographic regions. Instead confusing Compute Units pricing, we offer a simple per request pricing that is lowest in the industry while having a decentralized and centralized offering ensuring the highest QoS in terms of latency, redundancy.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://nodies.app",
+      "description": "Users can get free public endpoints for all OP-stacked chains on our site."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total RPC Requests",
+      "number": "3480345039",
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQKjbKlImaKxtL3PfYU_mgdATRn1yh-kbUUHgQZza0kgC2tWbZHvl6qBrrSaErUy_ghEmiJwh9zmyCy/pubhtml"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1,
+      "description": "We've been bootstrapping our RPC operations via grants & revenue outside of OP."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x932ab86dcbf750b9224665f7d9974c6e9e428470974ae59658b61cd7c3283728",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 11,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

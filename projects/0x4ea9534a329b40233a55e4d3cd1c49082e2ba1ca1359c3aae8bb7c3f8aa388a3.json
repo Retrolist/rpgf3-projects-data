@@ -1,0 +1,53 @@
+{
+  "bio": "Vibrant NFT platform merging Postcard vibes and blockchain magic.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Onchain Postcard",
+  "websiteUrl": "https://www.onchainpostcard.com/",
+  "applicant": {
+    "address": {
+      "address": "0xB491c205a8663c1678C30e7d18d60844Dba62440",
+      "resolvedName": {
+        "address": "0xB491c205a8663c1678C30e7d18d60844Dba62440",
+        "name": "0xunholy.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xB491c205a8663c1678C30e7d18d60844Dba62440"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB491c205a8663c1678C30e7d18d60844Dba62440.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x546d7aeae1be4c1e35bea54bfa6b7747a201fef8c04c3e9b77dab33a99134ec0"
+  },
+  "impactDescription": "I've illustrated the tangible impact of Optimism technology through OnchainPostcard. This platform serves as a real-world application, showcasing the scalability and efficiency of the Optimism blockchain. Users in the Optimism Collective now enjoy a seamless, high-performance application, benefiting from reduced transaction costs and accelerated confirmation times. Particularly noteworthy is the positive reception, as people appreciate the platform's ease in crafting and minting postcards on the Optimism stack, fostering a community that spreads love through creative expression. This actively encourages innovation and adoption within the Optimism Collective.",
+  "contributionDescription": "I built a robust platform on the Optimism stack blockchain, leveraging its efficiency and scalability. My project, is successfully deployed and operational. I designed and implemented key features, ensuring seamless integration with the underlying optimism blockchain. Contributions encompass smart contract development, optimizing transaction throughput, and enhancing overall system performance. The platform harnesses the unique advantages of Optimism, such as reduced transaction costs and faster confirmation times. My goal is to receive RetroPGF for contributions in scalability, reliability, and efficient utilization for the future of OnchainPostcard.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.onchainpostcard.com/",
+      "description": "website of dapp working now on base testnet"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/B-Naoufal/onchainpostcard",
+      "description": "the code source of the project"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of Votes From Community",
+      "number": "298",
+      "url": "https://prop.house/base/onchain-summer/6721"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4ea9534a329b40233a55e4d3cd1c49082e2ba1ca1359c3aae8bb7c3f8aa388a3",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 7,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

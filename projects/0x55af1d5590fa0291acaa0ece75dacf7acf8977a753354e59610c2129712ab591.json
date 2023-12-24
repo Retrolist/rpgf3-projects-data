@@ -1,0 +1,60 @@
+{
+  "bio": "FairSharing aims to create a new way of collaboration and resource allocation.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "FairSharing",
+  "websiteUrl": "https://fairsharing.xyz/list",
+  "applicant": {
+    "address": {
+      "address": "0x3c19bb31f6b162dc0Ed1A907832b6850f0416729",
+      "resolvedName": {
+        "address": "0x3c19bb31f6b162dc0Ed1A907832b6850f0416729",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3c19bb31f6b162dc0Ed1A907832b6850f0416729"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3c19bb31f6b162dc0Ed1A907832b6850f0416729.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3c19bb31f6b162dc0Ed1A907832b6850f0416729.png",
+    "id": "OptimistProfile|0x0f19b81b9cbc81f98560f3dfe6c7f15cad9e8b8da87e5b287ef8b000b003adb5"
+  },
+  "impactDescription": "FairSharing has leveraged the Web3 native protocol EAS (Ethereum Attestatioin Service). By deeply collaborating with DAOstar, FairSharing is pushing forward the EAS standard formulation as public goods among DAOs and projects, which drives wider awareness and adoption of EAS (Attestation on OP).\n\nAs a public goods tool itself, FairSharing not only makes it easier for individuals to record, measure and show their contribution in a more transparent way, but also facilitates DAOs & projects to track & monitor contribution from each contributor and allocate resources & rewards equitably.\n\nFairSharing is able and willing to be further integrated into Optimism Collective to track & monitor the contribution progress and builder participation of grants-winning projects.",
+  "contributionDescription": "FairSharing aims to reshape the way human collaborate and distribute rewards within a decentralized, remote-first, digital era.\n\nDeployed on Optimism Mainnet and Testnet (Optimism Goerli), FairSharing is able to support various projects & DAOs in the Optimism ecosystem to ensure that contributions are transparently visible and rewards are distributed equitably.\n\nEach individual contributor will also own their contributions fully on-chain, which in terms can enhance their willingness of participation.\n\nOverall, FairSharing could foster a more transparent, equal, and trusted culture of decentralized collaboration.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/lxdao-official/fairsharing-contract",
+      "description": "Github contract"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/lxdao-official/fairsharing-frontend",
+      "description": "Frontend"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/lxdao-official/fairsharing-backend/",
+      "description": "Backend"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/lxdao-official/fairsharing-contract",
+      "description": "12 Contracts addresses"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "FairSharing impact",
+      "number": "1037",
+      "url": "https://docs.google.com/spreadsheets/d/1JZjqjcVnmLjFAnA6thqlSUrqSqJjE9akulOm-tIecHM/edit#gid=0"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x55af1d5590fa0291acaa0ece75dacf7acf8977a753354e59610c2129712ab591",
+  "prelimResult": "Remove",
+  "reportReason": "The project seems to have been deployed on Optimism on Oct 22 and hasn't seen any usage"
+}

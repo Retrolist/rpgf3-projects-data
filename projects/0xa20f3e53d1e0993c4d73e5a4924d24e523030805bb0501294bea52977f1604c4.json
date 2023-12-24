@@ -1,0 +1,97 @@
+{
+  "bio": "Web 3 wanderer and opportunist",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "pizzle",
+  "websiteUrl": " https://x.com/jpeglet",
+  "applicant": {
+    "address": {
+      "address": "0x3E7038Ff57Fe61A6c3d5A09Aaec21C82BC48b44d",
+      "resolvedName": {
+        "address": "0x3E7038Ff57Fe61A6c3d5A09Aaec21C82BC48b44d",
+        "name": "harri5.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3E7038Ff57Fe61A6c3d5A09Aaec21C82BC48b44d"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3E7038Ff57Fe61A6c3d5A09Aaec21C82BC48b44d.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x56ccd4fc05721040415502f46e7de9a80116b47dc2bf6bbe4e0f49012eaa849b"
+  },
+  "impactDescription": "Encouraging my web3 peers to participate fostered a supportive and engaged community, which is vital for the long-term success of Optimism Collective projects. My actions contribute to the expansion and sustainability of the Optimism ecosystem, attracted more users and by demonstrating my belief in Optimism,I  inspire trust and confidence among others, further solidifying the OP's reputation.",
+  "contributionDescription": "I have contributed using my  OP assets, donating them in different projects. These projects I know that has potentials  and partnered with successful Web 3 projects. I have also gathered my web3peers to take part of the ecosystem because I believe in OPtimism. It's not all about the funds I have contributed but the family gathered here for this one. I know that community is always the key for a Project to work ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x0911255748a0bfef8d4e03e8c92c74b7e6f6886fb94a3d31294513c649d73d52",
+      "description": "Donated to AgroForest Dao via Giveth"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xd2e314a7e74c651399805d54b7642d2b7bb97fd93bab59363e91c24196a20c1f",
+      "description": "Donated to Emprende Dao via Giveth"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xb8755300f4e8726c8fdd03911e065bf26a16e9178ac14f50420cf07a8ec864b4",
+      "description": "Donated to GoodDollar via IDRISS"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x88e270c0f98ae65339690e99e0ae6687075d6229fa6359ace8e7f78cd61ecfe0",
+      "description": "Donated to GiveETH via IDRISS"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xca7cc7a546656155af81661de072ae260d580c553494c82ca3bdfaae292d8b80",
+      "description": "Donated to Metafam Metagame via IDRISS"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x587d5938d0035a3f16ac34623a2a43fb66920b436c0eb3494a59e28bb9804d94",
+      "description": "Donated to ITU Blockchain via Git"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xa5f4403ac207fc7c75e68901f511c4e62c9601791a5f2a3af16f8352db9b0e4d",
+      "description": "Donated to ITU Blockchain via Git"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x3abb32e827c5d9a96a4b0290281e8b98c323ae327a5e7b33a1442966b708a5dc",
+      "description": "Minted mirror: Cloudbase x NFTFeed"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x92b71a0f1362d5e8e05db9d9c722ce0023707e0b66b37bf154b2280683261a24",
+      "description": "Minted mirror: Dackieswap"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x7df2d0e6641a4fdfe0659f1c388b5b9ca7b0e3735b79932e1cacece4ed1bee94",
+      "description": "Minted mirror: Dackieswap"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x37ee43146d7dab5fb1384f1751ca5b847884ecd329c9379ee427e53c1bbc5256",
+      "description": "Minted mirror: Linea"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "6",
+      "number": "6",
+      "url": "https://optimistic.etherscan.io/address/0x3e7038ff57fe61a6c3d5a09aaec21c82bc48b44d"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xa20f3e53d1e0993c4d73e5a4924d24e523030805bb0501294bea52977f1604c4",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

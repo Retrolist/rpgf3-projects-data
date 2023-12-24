@@ -1,0 +1,76 @@
+{
+  "bio": "Designed for developers to step into blockchain DAPP development. ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Dapp-Learning",
+  "websiteUrl": "https://dapplearning.org/",
+  "applicant": {
+    "address": {
+      "address": "0x1F7b953113f4dFcBF56a1688529CC812865840e1",
+      "resolvedName": {
+        "address": "0x1F7b953113f4dFcBF56a1688529CC812865840e1",
+        "name": "dapplearning.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x1F7b953113f4dFcBF56a1688529CC812865840e1"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1F7b953113f4dFcBF56a1688529CC812865840e1.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xd6a29d446537eda9002db2e83aa8867336fff89c196f550e9c9e70709ff3e8d2"
+  },
+  "impactDescription": "Radiant to 10K Chinese language developers from the mainland and overseas.   We help to promote the op stack and op fraud-proof system to developers to get to know Optimism. Our dao also deploys the dao reward contract on OP mainnet.  Our dao members can claim their reward and bonus on Op. \n",
+  "contributionDescription": "Promote Optimism technology in the Chinese-speaking community and introduce the technical architecture and dapp development of  Optimism in detail.  Our content present both by video and github, radianting to more than 5K Chinese language developers. We provide not only code tutorial but also video course for developer to know the Op stack development.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Dapp-Learning-DAO/Dapp-Learning/tree/main/basic/28-optimism-layer2",
+      "description": "teach developer how to build on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/playlist?list=PLgPVMJY4tnFPMivSNCnj9_1LnVyaYMg6V",
+      "description": "teach developer the  Optimism Bedrock and fault proof system of OP Stack"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xdbeb213b3c8b08c240013f38122dc154f70e6422",
+      "description": "our dao rewards for contributor  are distributed by this  redpacket contract.   "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "youtube subscribers",
+      "number": "4040",
+      "url": "https://www.youtube.com/playlist?list=PLgPVMJY4tnFPMivSNCnj9_1LnVyaYMg6V"
+    },
+    {
+      "description": "bilibili subscribers ",
+      "number": "2700",
+      "url": "https://space.bilibili.com/2145417872/channel/collectiondetail?sid=1211777"
+    },
+    {
+      "description": "github stars",
+      "number": "4212",
+      "url": "https://github.com/Dapp-Learning-DAO/Dapp-Learning"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 21626,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4aa2191cde4ef94ed2bab5b0964b9fb219e7b306563ed809a7ec6aa3191e0618",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 45,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

@@ -1,0 +1,48 @@
+{
+  "bio": "Apple My favourite",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Apple",
+  "websiteUrl": "https://nowebsite.com",
+  "applicant": {
+    "address": {
+      "address": "0x08DC8489c7CB11010210Ffe7acA543e2DB18DEaf",
+      "resolvedName": {
+        "address": "0x08DC8489c7CB11010210Ffe7acA543e2DB18DEaf",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x08DC8489c7CB11010210Ffe7acA543e2DB18DEaf"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x08DC8489c7CB11010210Ffe7acA543e2DB18DEaf.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x08DC8489c7CB11010210Ffe7acA543e2DB18DEaf.jpeg",
+    "id": "OptimistProfile|0x806bb62ff03226bb963228eb0727393abcd4503524b1ae4a29be5ef7d33d179c"
+  },
+  "impactDescription": "The OP token gives holders participation rights in The Optimism Collective, a two-tier governance system composed of Token House and Citizens\u2019 House. Citizens\u2019 House will come live later in 2022. Token House, which is already active, governs technical decisions related to Optimism, such as software upgrades. The Citizens\u2019 House governs public-goods funding decisions. In its early days, Optimism itself raised funds on Gitcoin, a major public-goods funding platform.",
+  "contributionDescription": "The OP token gives holders participation rights in The Optimism Collective, a two-tier governance system composed of Token House and Citizens\u2019 House. Citizens\u2019 House will come live later in 2022. Token House, which is already active, governs technical decisions related to Optimism, such as software upgrades. The Citizens\u2019 House governs public-goods funding decisions. In its early days, Optimism itself raised funds on Gitcoin, a major public-goods funding platform.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://nosite.com",
+      "description": "0x08DC8489c7CB11010210Ffe7acA543e2DB18DEaf"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Downloads",
+      "number": "461",
+      "url": "https://nosite.com"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x2019503804b1c1d39c6cecd1c7d40bfce38c9d95d56226bf89e9316b406c805e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

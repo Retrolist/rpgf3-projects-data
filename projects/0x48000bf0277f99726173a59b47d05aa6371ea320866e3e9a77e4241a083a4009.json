@@ -1,0 +1,69 @@
+{
+  "bio": "Smart contract devtool for Pythonistas, Data Scientists & Security Professionals",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "ApeWorX LTD",
+  "websiteUrl": "https://apeworx.io",
+  "applicant": {
+    "address": {
+      "address": "0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69",
+      "resolvedName": {
+        "address": "0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69",
+        "name": "fubuloubu.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1C277bD41A276F87D3E92bccD50c7364aa2FFc69.png",
+    "id": "OptimistProfile|0xe21d102baa915ff08bd22f7c27d448f5e635fb3bef6c9cd4f6b801a8e0d6633d"
+  },
+  "impactDescription": "We've supported a large portion of our developer community that uses or interactions with Optimism frequently, one of our most widely-used ecosystem plugins (outside of Ethereum). Major projects are using it for production capabilties, including Yearn and Curve.",
+  "contributionDescription": "Ape maintains an Optimism plugin, which allows developers using our framework to interact with Optimism and OP Stack-based networks easily, safely, and reliably. We will continue to maintain the Optimism plugin, improving it's functionality to make it as useful as possible for our community, including supporting our own product activities where Optimism is our primary deployment network.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x3543faeeddb7babcbbb216b3627f9c5e0c39ce41#code",
+      "description": "Deployment of our ApePay StreamManager, where users can pay for our products"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ApeWorX/ape-optimism",
+      "description": "Ecosystem plugin for Optimism"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ApeWorX/ape-base",
+      "description": "Ecosystem plugin for Base (an OP stack chain)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ApeWorX/ape",
+      "description": "The core Ape Framework repository"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Downloads per Month",
+      "number": "4576",
+      "url": "https://pypistats.org/packages/ape-optimism"
+    },
+    {
+      "description": "Projects using Ape",
+      "number": "230",
+      "url": "https://github.com/ApeWorX/ape/network/dependents"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x48000bf0277f99726173a59b47d05aa6371ea320866e3e9a77e4241a083a4009",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 63,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

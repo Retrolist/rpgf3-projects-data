@@ -1,0 +1,52 @@
+{
+  "bio": "on-chain community tool",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Popula",
+  "websiteUrl": "https://popula.io",
+  "applicant": {
+    "address": {
+      "address": "0x9E8779a144f0734adEfD6f7e5265347054E4FC7F",
+      "resolvedName": {
+        "address": "0x9E8779a144f0734adEfD6f7e5265347054E4FC7F",
+        "name": "edz93.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x9E8779a144f0734adEfD6f7e5265347054E4FC7F"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9E8779a144f0734adEfD6f7e5265347054E4FC7F.png",
+    "id": "OptimistProfile|0x8c4dd1741eb64b197c421146e970d6e7f01c027c9b11af1f57872b609b94fa16"
+  },
+  "impactDescription": "A web3 community-led social platform would allow members to own their communities by making meaningful contributions and own the platform by helping it to reach milestones. Web2 community social platforms like Reddit provide online solutions for communities to create and interact. However, all data generated on the platform including content, activities, and social graphs do not belong to users. This lack of data ownership creates strong censorship and locks users in the moat the platform built to generate revenue for the company stakeholders. We propose a solution to address this web2 data ownership problem, as well as a novel in-community reputation system to boost contribution, foster community growth, and facilitate community management.",
+  "contributionDescription": "Any communities on any chain can launch on-chain communities on Popula. Although Popula is built on NEAR protocol, which means NEAR is the DA layer. However, users can log into Popula using metamask, which means users do not need to register a NEAR wallet using third party wallet provider, Popula handles all these troubles.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/orgs/beepopula/repositories",
+      "description": "Popula repo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "standard",
+      "number": "1",
+      "url": "https://popula.io"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf33fd3c7e55f99377ad8a1f04b48f400e612432616b2e18f28d964e61e789b7f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

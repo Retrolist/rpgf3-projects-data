@@ -1,0 +1,53 @@
+{
+  "bio": "Building Fast and reliable crypto transfers across networks.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Zakaria yahiaoui",
+  "websiteUrl": "https://twitter.com/Zackxzackx",
+  "applicant": {
+    "address": {
+      "address": "0xFaaBdFEcC4CEB7c069357558d503465177DBB8A1",
+      "resolvedName": {
+        "address": "0xFaaBdFEcC4CEB7c069357558d503465177DBB8A1",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xFaaBdFEcC4CEB7c069357558d503465177DBB8A1"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFaaBdFEcC4CEB7c069357558d503465177DBB8A1.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFaaBdFEcC4CEB7c069357558d503465177DBB8A1.png",
+    "id": "OptimistProfile|0x38b16b653e43c59e84bf39430409a7925edd3a73643ea295c91e391f6dfa3dd9"
+  },
+  "impactDescription": "The introduction of this smart contract on the Optimism network has several significant impacts on the Optimism Collective. It brings increased efficiency and cost savings, reducing transaction costs for users. This makes DeFi activities more accessible and appealing. Developers now have a powerful tool to create automated trading strategies, integrate with DeFi platforms, provide liquidity, and explore arbitrage opportunities. This expands the range of applications within the ecosystem.\nThe contract's ability to provide liquidity to Uniswap v3 pools enhances overall trading experiences, reducing slippage. Customizable trading logic allows for innovation in DeFi strategies, tailoring solutions to specific market conditions.",
+  "contributionDescription": "hi \nin breef i built this smart contract on base blockchain to contribute to optimisme ecosystem by providing :\n1) Automated Trading Strategies:\nDevelopers can build automated trading strategies using this contract. For example, they can program it to perform specific trades under certain conditions or market events.\nIntegrations with DeFi Platforms:\nThis contract could be integrated into a larger decentralized finance (DeFi) platform. It could serve as a component for users to execute trades within the platform.  \n2) Liquidity Provision:\nThe contract could be used to provide liquidity to Uniswap v3 pools. Liquidity providers can utilize the functions to efficiently manage their positions.\n3) Arbitrage Opportunities 4) Customized Trading Logic 5) gas efficiency.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/address/0xb8f08e5a2c6f8051310cfbfb81457d21939ab3e8#code",
+      "description": " providing operations functions to interact on Uniswap v3 pools."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "number of users",
+      "number": "1463",
+      "url": "https://uniswap.org/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa76d07e271c9fcb4f0b0944fd1fbb47bdb85f31d7b2f67846f16a2ab558635c2",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

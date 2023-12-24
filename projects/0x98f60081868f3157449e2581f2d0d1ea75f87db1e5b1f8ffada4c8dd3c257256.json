@@ -1,0 +1,153 @@
+{
+  "bio": "A collective of Ethereum's active core protocol contributors",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Protocol Guild",
+  "websiteUrl": "https://protocol-guild.readthedocs.io",
+  "applicant": {
+    "address": {
+      "address": "0xE5bC420a8845542C2A46E76233418dEA8eEb9d0F",
+      "resolvedName": {
+        "address": "0xE5bC420a8845542C2A46E76233418dEA8eEb9d0F",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE5bC420a8845542C2A46E76233418dEA8eEb9d0F"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5bC420a8845542C2A46E76233418dEA8eEb9d0F.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE5bC420a8845542C2A46E76233418dEA8eEb9d0F.png",
+    "id": "OptimistProfile|0x9a97812e43935290e4554069cfd67b31495906b1bc5a73fcae7e54e2df035fdb"
+  },
+  "impactDescription": "- Optimism can rely on Ethereum for settlement & security assurances, in no small part due to the research & implementation work that went into migrating to Proof-of-Stake, which helped make Ethereum the most secure & decentralized smart-contract platform\n- Guild members' efforts to reduce rollup fees through proto-danksharding & danksharding will expand Optimism's use-cases and user base\n- Optimism\u2019s execution engine is a fork of Go Ethereum aka Geth, which is maintained by Guild members\n- Optimism leverages the Ethereum Virtual Machine with its EVM-equivalent architecture, making Optimism's ecosystem more accessible to builders\n- Ethereum's core protocol development has played a key role in establishing Ethereum's prominent reputation, lending credibility & legitimacy to Optimism as well",
+  "contributionDescription": "As a rollup, Optimism leverages Ethereum for settlement & security assurances. It also uses several core infrastructure components (client implementations, specifications, test suites, etc) developed and maintained by Protocol Guild contributors over the years. Optimism also directly benefits from protocol upgrades such as proto-danksharding (EIP-4844), which will reduce the fees its users need to pay.\n\nAll of this work supports a mutual relationship;\n- Ethereum provides an infrastructural foundation with particular characteristics (eg social, political, technical, economic) that only it can provide\n- Optimism produces lower-cost blockspace, while still inheriting some of Ethereum's characteristics, but at the same time allowing for more experimentation",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum",
+      "description": "Main repository for Ethereum\u2019s core protocol development"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/xISUVbyJp6k",
+      "description": "Podcast deep dive on why something like Protocol Guild needs to exist"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=YE30D6F2k28",
+      "description": "EthCC prez covering the past, present & future of Protocol Guild"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#qualifications",
+      "description": "Guild member eligibility framework (requires 6+ months of core protocol work) "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethereum-magicians.org/t/eip-4844-shard-blob-transactions/8430",
+      "description": "EIP for proto-danksharding, which will significantly scale Ethereum\u2019s L2s"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://notes.ethereum.org/@dankrad/new_sharding",
+      "description": "Research work for danksharding, to scale L2s by orders of magnitude"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://notes.ethereum.org/@ipsilon/mega-eof-specification",
+      "description": "EOF spec, enabling opcodes for more efficient & secure development on Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Gas savings factor on OP vs Ethereum",
+      "number": "59",
+      "url": "https://dune.com/queries/347708/662048"
+    },
+    {
+      "description": "Total Protocol Guild members",
+      "number": "152",
+      "url": "https://protocol-guild.readthedocs.io/en/latest/9-membership.html#member-list"
+    },
+    {
+      "description": "Total gas spent by OP to settle on L1",
+      "number": "726932878962",
+      "url": "https://dune.com/queries/3123406"
+    },
+    {
+      "description": "ETH saved / day on OP (7-Day MA)",
+      "number": "21500",
+      "url": "https://dune.com/queries/347708/710045"
+    },
+    {
+      "description": "Total years contributed by Guild members",
+      "number": "510",
+      "url": "https://twitter.com/ProtocolGuild/status/1715366817969942852"
+    },
+    {
+      "description": "Avg hard fork upgrades per year",
+      "number": "2.5",
+      "url": "https://twitter.com/christine_dkim/status/1651999278997417998"
+    },
+    {
+      "description": "# of client teams",
+      "number": "10",
+      "url": "https://ethereum.org/en/developers/docs/nodes-and-clients/"
+    },
+    {
+      "description": "Transactions on Ethereum",
+      "number": "2130000000",
+      "url": "https://dune.com/queries/650258/1208540"
+    },
+    {
+      "description": "Smart contracts created on Ethereum",
+      "number": "64700000",
+      "url": "https://dune.com/queries/650188/1208455"
+    },
+    {
+      "description": "Post-merge carbon footprint reduction %",
+      "number": "99.992",
+      "url": "https://ethereum.org/en/energy-consumption/#carbon-debt"
+    },
+    {
+      "description": "Staked ETH securing Ethereum (USD)",
+      "number": "43519385796",
+      "url": "https://mainnet.beaconcha.in/"
+    },
+    {
+      "description": "Total value secured on Ethereum (USD)",
+      "number": "340000000000",
+      "url": "https://ultrasound.money/#tvs"
+    },
+    {
+      "description": "OP onchain value secured by Ethereum USD",
+      "number": "2710000000",
+      "url": "https://dune.com/queries/346015/662177"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 557301,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 12000000,
+      "description": "~$12mm raised from 5k donations: https://dune.com/protocolguild/protocol-guild"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x98f60081868f3157449e2581f2d0d1ea75f87db1e5b1f8ffada4c8dd3c257256",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 96,
+  "primaryCategory": "OP Stack",
+  "recategorization": "Ethereum Development & Maintanance"
+}

@@ -1,0 +1,55 @@
+{
+  "bio": "Thanks for  team #Optimism",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Gomadop",
+  "websiteUrl": "https://twitter.com/Gomkt007",
+  "applicant": {
+    "address": {
+      "address": "0xD0B576fCF06BAaddb9b3AC154762F5c7Dd1B3028",
+      "resolvedName": {
+        "address": "0xD0B576fCF06BAaddb9b3AC154762F5c7Dd1B3028",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xD0B576fCF06BAaddb9b3AC154762F5c7Dd1B3028"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD0B576fCF06BAaddb9b3AC154762F5c7Dd1B3028.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD0B576fCF06BAaddb9b3AC154762F5c7Dd1B3028.png",
+    "id": "OptimistProfile|0xe7ba0da6c3c9374a606edd475abf9d3a2e135ee0a16c1dadfb7e2651cfe8f1fe"
+  },
+  "impactDescription": "great progress has been shown! went perfectly thanks to a great team, I am very enthusiastic and want to continue to be a part of this community. providing feedback and input to the team, related to the products made is important for us together later. I love all the features that are here ",
+  "contributionDescription": "great progress has been shown! went perfectly thanks to a great team, I am very enthusiastic and want to continue to be a part of this community. providing feedback and input to the team, related to the products made is important for us together later. I love all the features that are here .",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Gomkt007",
+      "description": "Very team "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#gomadop",
+      "number": "170793",
+      "url": "https://twitter.com/Gomkt007"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100,
+      "description": "Very cool"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2c2521333151e44af4cfc7d9c25c439d2f7d28162bb8df81571b8b787da4da0e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

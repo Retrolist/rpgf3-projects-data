@@ -1,0 +1,60 @@
+{
+  "bio": "Proxcity is a city simulator game built on the BASE Chain",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Proxcity",
+  "websiteUrl": "https://proxcity.xyz",
+  "applicant": {
+    "address": {
+      "address": "0xeE334345eeAfF1C984f0685F66EF9548E7B75674",
+      "resolvedName": {
+        "address": "0xeE334345eeAfF1C984f0685F66EF9548E7B75674",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xeE334345eeAfF1C984f0685F66EF9548E7B75674"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb9d3ab9eb00cbf96a2c6ec1223eb2c41d74e857c49d8ad556622d36781c32b46"
+  },
+  "impactDescription": "We are brining new users into the Base ecosystem by building fun, addictive, and engaging experience's with a clean user interface. After connecting their wallet users have the opportunity to be airdroped NFTs without ever leaving the game. This is all done free of cost to the user in order to get them familiar with NFTs and the blockchain. The year long development of this project has been entirely funded by the founders.",
+  "contributionDescription": "We have released our demo on the Base chain recently and have attracted over 140 unique players to experience blockchain gaming. This involves users signing in via their preferred wallet and receiving achievements, that are NFTs for completing tasks. The goal of the demo was to make a very easy and fun experience for those new to blockchain technology. They learn the basics of connecting their wallet and then being able to interact with their NFTs on their preferred marketplace. On top of this players are having a blast managing their cities that require upkeep daily that brings them back.\n\nThere are many plans for the future to keep the game engaging but also attract new users to the Base chain powered by Optimism. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0xfb411afad0a7c05b831d0677aac44288c0fd4492",
+      "description": "Contract for game achievements"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://proxcity.xyz/game/",
+      "description": "Link to check out the game and play it for free"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of Players",
+      "number": "143",
+      "url": "https://proxcity.xyz/"
+    },
+    {
+      "description": "Total Transactions",
+      "number": "56",
+      "url": "https://basescan.org/address/0xfb411afad0a7c05b831d0677aac44288c0fd4492"
+    },
+    {
+      "description": "Dapradar Rank ",
+      "number": "475",
+      "url": "https://dappradar.com/dapp/proxcity-2"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x17fb819feaaa7cabcb067b5861c14a7e7eb496b74bac650fbabe07f8860301c7",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

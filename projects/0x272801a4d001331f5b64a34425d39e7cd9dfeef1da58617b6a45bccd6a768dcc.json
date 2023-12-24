@@ -1,0 +1,74 @@
+{
+  "bio": "The DAO for Builders from KIT Alumnis",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "KITKryptoDAO",
+  "websiteUrl": "https://kitkryptodao.gitbook.io/",
+  "applicant": {
+    "address": {
+      "address": "0xd02722722615935330252bD616bF4D0590840563",
+      "resolvedName": {
+        "address": "0xd02722722615935330252bD616bF4D0590840563",
+        "name": "hannesgao.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xd02722722615935330252bD616bF4D0590840563"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd02722722615935330252bD616bF4D0590840563.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd02722722615935330252bD616bF4D0590840563.png",
+    "id": "OptimistProfile|0xf2261da355995f726d8d2d078c117df75ab625fb3059d05522d470010d87f764"
+  },
+  "impactDescription": "By contributing as described above, we become an evangelist for the OP Stack and related knowledge, and cultivate more forward-thinking and solid hands-on experience for the OP Collective and the OP ecosystem with well-educated and technically inclined developers from KIT alumnis.",
+  "contributionDescription": "We unite KIT alumni who are already deeply involved in the blockchain industry and have rich experience in the industry and practical experience in projects. Through the regular internal events of KITKryptoDAO (e.g. Saturday Crypto Meetings, which has been successfully held for 4 consecutive weeks), we provide members who do not yet have sufficient knowledge and practical experience with the opportunities for theoretical learning and knowledge exchanges, technical practice (e.g. Solidity Live Coding, which is in the process of being organized), and in-depth understanding of blockchain-related industries. We use OP Mainnet as well as Testnet for our practices and Live Coding events, and our DAO initiator Zion Zhan is a experienced OP Stack developer and core team member of Orderly Network.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://kitkryptodao.gitbook.io/",
+      "description": "Gitbook of KITKrypto DAO"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of current DAO Members",
+      "number": "18",
+      "url": "https://t.me/kit_krypto_dao"
+    },
+    {
+      "description": "# of current DAO Events",
+      "number": "5",
+      "url": "https://kitkryptodao.gitbook.io/main/educational-content/topic-cache#0x02-solidity-live-coding"
+    },
+    {
+      "description": "# of DAO Treasury SAFE (Base)",
+      "number": "1",
+      "url": "https://basescan.org/address/0xE031e06e87daEaC44B5429BfA4F65b797Acc2E20"
+    },
+    {
+      "description": "# of DAO Treasury SAFE (OP)",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0xDC808D9c1430939AC7039F7904bDb3737f78473a"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100,
+      "description": "Donations from the DAO initiator Zion Zhan"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100,
+      "description": "Donations from the DAO Co-Host Hannes Gao"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x272801a4d001331f5b64a34425d39e7cd9dfeef1da58617b6a45bccd6a768dcc",
+  "prelimResult": "Remove",
+  "reportReason": "impact unclear"
+}

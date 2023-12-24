@@ -1,0 +1,53 @@
+{
+  "bio": "I'm just optimistic ecosystem perfect user! ;)",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "mihasha",
+  "websiteUrl": "https://twitter.com/MrMihasha",
+  "applicant": {
+    "address": {
+      "address": "0xd3300E1Aa7D8F99b47038e6b53Bc36407edee9D7",
+      "resolvedName": {
+        "address": "0xd3300E1Aa7D8F99b47038e6b53Bc36407edee9D7",
+        "name": "mihasha.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xd3300E1Aa7D8F99b47038e6b53Bc36407edee9D7"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd3300E1Aa7D8F99b47038e6b53Bc36407edee9D7.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd3300E1Aa7D8F99b47038e6b53Bc36407edee9D7.png",
+    "id": "OptimistProfile|0x1d3713b566fd75ce4a09d451adcc166acce70896e21584001e20f92f8d4fabee"
+  },
+  "impactDescription": " By regularly using and testing the Optimism ecosystem, I am contributing to its growth and improvement. My actions help identify any issues, bugs, or vulnerabilities, which can be addressed and resolved by the development team.\n\nDonating USDC to support ecosystem projects provides them with the financial resources needed for development, research, and maintenance. This financial contribution is crucial for the sustainability and growth of the ecosystem.",
+  "contributionDescription": "I regularly use and test the Optimism ecosystem and donate to USDC to support ecosystem projects. \n\nBy actively using the Optimism ecosystem, I am not only help test its functionality but also demonstrate its practical applications. This usage provides valuable feedback to the development teams, which can lead to improvements and refinements in the platform.\n\nAnd of course, I'm everytime engaged in Optimism Agora!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/",
+      "description": "Meow?"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "2",
+      "number": "3",
+      "url": "https://optimistic.etherscan.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe63606e6fb8bf0d7865bd42d1f02eec715c88a2b8f8236848cc3eef41f0b18d5",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

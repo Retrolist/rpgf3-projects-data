@@ -1,0 +1,55 @@
+{
+  "bio": "My team developed a Data Availability Commitee in the OP Stack",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "DAC on OP Stack",
+  "websiteUrl": "https://cometh.io/",
+  "applicant": {
+    "address": {
+      "address": "0xAC9ba72fb61aA7c31A95df0A8b6ebA6f41EF875e",
+      "resolvedName": {
+        "address": "0xAC9ba72fb61aA7c31A95df0A8b6ebA6f41EF875e",
+        "name": "jdetychey.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xAC9ba72fb61aA7c31A95df0A8b6ebA6f41EF875e"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAC9ba72fb61aA7c31A95df0A8b6ebA6f41EF875e.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xAC9ba72fb61aA7c31A95df0A8b6ebA6f41EF875e.png",
+    "id": "OptimistProfile|0x98bad244cdacb4979acace76c3ac8d6401a4a88218c59ca48cd285814a3a8c19"
+  },
+  "impactDescription": "Improve the OP Stack by giving it access to a flexible DAC. Our contribution largely overclock Optimism Bedrock: in our benchmark, the DAC allow to spend 115 Bn Gas on an OPL2 for ~$300. It opens the OP design space to many usecases, notably on key choices like:\nWhere is the history of what happened on the L2 stored? Several cost saving solutions (Swarm?) alternative to the Mainnet.\nHow available is this data? Can I get a sample? Yes, forever (potentially and always).\nHow does the cost of storing this data impact the costs of the L2? It\u2019s minimal.\nWhat happens if the whole L2 goes offline but the DAC stays on? It\u2019s as good as Optimism.",
+  "contributionDescription": "DAC for OP Stack (similar to Arbitrum's Anytrust)\nDA client able to:\n1 Post a batch. This method returns what we call a batch reference. A batch reference contains enough information to retrieve the original payload. It's also serializable to an L1 transaction.\n- In the basic rollup mode this is a no-op. The reference is the payload itself.\n- In the DAC mode it will upload the payload to the DAC and return all the information required 2- to verify signatures and fetch the payload later.\n2 Retrieve a batch. From a serialized batch reference, it returns the associated payload.\n- In the basic rollup mode it means returning the reference itself, because the reference is the payload.\n- In the DAC mode, it means deserialize the batch reference and query the DAC to get the payload back.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/alembic-tech/optimism/tree/dac/da",
+      "description": "github code"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://hackmd.io/@H3xZHPoWT4KVAcOp7FNRpQ/ryJsKIB53",
+      "description": "description"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "none",
+      "number": "300",
+      "url": "https://www.youtube.com/watch?v=Iv98J-tZTVc"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xaf72f298c070d96e72345b7f99ee16da493018914aaac00a1db76fda08f5e9f9",
+  "prelimResult": "Keep",
+  "reportReason": "cool experiment but impact unclear",
+  "includedInBallots": 44,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

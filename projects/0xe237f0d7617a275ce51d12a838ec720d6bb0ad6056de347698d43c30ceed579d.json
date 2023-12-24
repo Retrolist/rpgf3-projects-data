@@ -1,0 +1,170 @@
+{
+  "bio": "Digital Laboratory building public goods for cities",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "zenbit.eth",
+  "websiteUrl": "https://zenbit.mx",
+  "applicant": {
+    "address": {
+      "address": "0xeCB4C1245665e8A1F43826355aaB0Dd6bF336e05",
+      "resolvedName": {
+        "address": "0xeCB4C1245665e8A1F43826355aaB0Dd6bF336e05",
+        "name": "zenbit.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xeCB4C1245665e8A1F43826355aaB0Dd6bF336e05"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCB4C1245665e8A1F43826355aaB0Dd6bF336e05.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xeCB4C1245665e8A1F43826355aaB0Dd6bF336e05.png",
+    "id": "OptimistProfile|0x9c90e59b5bcb63161ad542154ec2ab88444b477f45a119dcae4ff916a5672b2e"
+  },
+  "impactDescription": "- 21 members in zenbit discord server\n- more than 38k USD distributed among talent and zenbit operation expenses\n- 471 Gitcoin Beta Projects analyzed \n- 19 projects voted in Gitcoin Beta Mainrounds\n- 111 ReFi dao projects analyzed\n- Zenbit.eth is now officially registered as a commercial entity in Mexico.\n- 4 IP projects have been registered as trademarks in Mexico.",
+  "contributionDescription": "Since 2020, zenbit.eth has undertaken an extensive collaborative research and development initiative with 27 talented individuals with a diverse skill set, from around the world. Together, they have developed over 25 public Open Source Projects, primarily at ETH Global hackathons.\n\nThese digital solutions encompass seven categories, leveraging advanced Ethereum technologies to address cities\u00b4 challenges like transparency, efficiency, and coordination. Our main contribution is the development of over 60 Solidity contracts deployed across multiple EVMs, with \u224828% of these contracts tested on the Optimism mainnet or Op Goerli networks. This has resulted in gas fee expenditure of  .116 ETH, bridging \u224810 ETH to the OP mainnet, and locking \u22484k USD in 2 OP chains until 2026.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/orgs/zenbitETH/repositories",
+      "description": "Zenbit.eth OSS repositories"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0x2204a410be3085cba25b8a71017cb7870519d76d#code",
+      "description": "Faucet contract for onboarding events (Education)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://mirror.xyz/zenbit.eth",
+      "description": "Zenbit Report in Mirror (spa & eng)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0xd2D9De2c40D1A49f7247165284cea27a1BEAa272#code",
+      "description": "Quiz Contract for crosschain atestation (Education)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimism-goerli-bedrock.easscan.org/schema/view/0x0d6ecbd5000b1713c21e28296f6ed8bfa8e0e5f5d8ee4b354276ba65c8b2c188",
+      "description": "Crosschain attestation in Optimism Goerli (Education)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ccip.chain.link/msg/0x9be2f2e094403fa1527e72cfaf651a1b3757890fb0bd0bdea3258ef7d7452ff3",
+      "description": "Chainlink CCIP for crosschain attestation (Education)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0x82ddff634B673136d9dB515E9aFA8B2F691e573c",
+      "description": "Decentralized Commerce Store NFT contract (Urban Gaming)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/tx/0x70f3c9c8d2565165adb0bf7a1d89d5f094d7c48f83ff5f81054be84d1c0cf88d",
+      "description": "Value bridged to Optimism"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://debank.com/profile/0xecb4c1245665e8a1f43826355aab0dd6bf336e05",
+      "description": "Locked value in OP chains"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zenbiteth.notion.site/7b78f741d22a45469326077e534865cc?v=33d54bf2e42949a7921541172fb897cf&pvs=4",
+      "description": "zenbit.eth projects details"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zenbiteth.notion.site/2f25b0f1e88c41abb6780242d4a1abc3?v=0acb684a9d2049ffa15174ea3f8455b0&pvs=4",
+      "description": "zenbit.eth talent details"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=lI2wMFjLR0Q&list=PLV3ZkoJsTJ_ngEF29jSSvgOVO9xG5iKTo",
+      "description": "Digital Economy workshop 2020"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Tx made by zenbit.eth in optimism",
+      "number": "875",
+      "url": "https://optimistic.etherscan.io/address/0xeCB4C1245665e8A1F43826355aaB0Dd6bF336e05"
+    },
+    {
+      "description": "Active developers",
+      "number": "21",
+      "url": "https://discord.gg/njMDG5xUr"
+    },
+    {
+      "description": "USD payed to talent and zenbit operation",
+      "number": "38000",
+      "url": "https://zenbiteth.notion.site/2e748aec424d45708cddd66a14812c5c?v=656dce35ccbe4c0cb96b6b61b18fcbc5&pvs=4"
+    },
+    {
+      "description": "Gitcoin Beta projects analysis ",
+      "number": "471",
+      "url": "https://zenbiteth.notion.site/de3c8319ef86463abae12b9fce4257bb?v=faa287d804d3420494f4e1530ca81e7c"
+    },
+    {
+      "description": "Projects voted in Gitcoin Beta Rounds",
+      "number": "19",
+      "url": "https://x.com/zenbitMX/status/1655301368100290561?s=20"
+    },
+    {
+      "description": "ReFi dao projects analysis",
+      "number": "111",
+      "url": "https://refi-dao.notion.site/Collaboration-and-2023-planning-a51f01e6bdaa4ed1a85ae55e3f016c85"
+    },
+    {
+      "description": "Zenbit registered as commercial entity",
+      "number": "1",
+      "url": "https://bafkreigonvfhwrssfgvzmg6hatidejiva4fiq6h5olagcr3pu37y6boyuq.ipfs.nftstorage.link/"
+    },
+    {
+      "description": "IP projects registered as trademarks",
+      "number": "4",
+      "url": "https://marcia.impi.gob.mx/marcas/search/result?s=4a72eccf-3999-4396-a9e7-5cd658a42ae2&m=l"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Filecoin Next Step Grant (August 2022)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 38450,
+      "description": "CLR fund QF @ devcon 2022 (November 2022)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 478.75,
+      "description": "Gitcoin QF beta round: web3 OSS (May 2023)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 519.66,
+      "description": "Gitcoin QF beta round: metacrisis (May 2023)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 840,
+      "description": "CLR fund QF round 9 (June 2023)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe237f0d7617a275ce51d12a838ec720d6bb0ad6056de347698d43c30ceed579d",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 11,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

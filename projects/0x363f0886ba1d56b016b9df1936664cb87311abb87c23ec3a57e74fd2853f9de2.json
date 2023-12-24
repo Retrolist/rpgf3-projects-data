@@ -1,0 +1,52 @@
+{
+  "bio": "https://twitter.com/kurtali38617727",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "kurt",
+  "websiteUrl": "https://twitter.com/kurtali38617727",
+  "applicant": {
+    "address": {
+      "address": "0xd4726114bEB61a0239d9C0CD935De170BddbbB7E",
+      "resolvedName": {
+        "address": "0xd4726114bEB61a0239d9C0CD935De170BddbbB7E",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xd4726114bEB61a0239d9C0CD935De170BddbbB7E"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd4726114bEB61a0239d9C0CD935De170BddbbB7E.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x8fa68ff6a9dd42de1b390cbe967b3a74db7ba438e6221716df9b82b33699a4f9"
+  },
+  "impactDescription": "k\u0131sacas\u0131 \u00e7ok be\u011fendi\u011fim ve \u00e7ok merak etti\u011fim bir proje bende elimden geldi\u011fince \u00f6\u011frenmeye \u00e7al\u0131\u015f\u0131yorum ve yat\u0131r\u0131m yamak i\u00e7in daha \u00e7ok i\u00e7ine girmeye \u00e7al\u0131\u015f\u0131yorum     0xd4726114bEB61a0239d9C0CD935De170BddbbB7E k\u00f6pr\u00fc kullan\u0131yorum nft mint liyorum ger\u00e7ekten \u00e7ok ho\u015fuma gidiyor hem h\u0131zl\u0131 hem ucuz bir a\u011f.",
+  "contributionDescription": "k\u0131sacas\u0131 \u00e7ok be\u011fendi\u011fim ve \u00e7ok merak etti\u011fim bir proje bende elimden geldi\u011fince \u00f6\u011frenmeye \u00e7al\u0131\u015f\u0131yorum ve yat\u0131r\u0131m yamak i\u00e7in daha \u00e7ok i\u00e7ine girmeye \u00e7al\u0131\u015f\u0131yorum     0xd4726114bEB61a0239d9C0CD935De170BddbbB7E k\u00f6pr\u00fc kullan\u0131yorum nft mint liyorum ger\u00e7ekten \u00e7ok ho\u015fuma gidiyor hem h\u0131zl\u0131 hem ucuz bir a\u011f.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/kurtali38617727",
+      "description": "0xd4726114bEB61a0239d9C0CD935De170BddbbB7E"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "11",
+      "number": "10",
+      "url": "https://twitter.com/kurtali38617727"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x363f0886ba1d56b016b9df1936664cb87311abb87c23ec3a57e74fd2853f9de2",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,49 @@
+{
+  "bio": "Head od Design",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Marko",
+  "websiteUrl": "https://markoprljic.com/",
+  "applicant": {
+    "address": {
+      "address": "0x6D97d65aDfF6771b31671443a6b9512104312d3D",
+      "resolvedName": {
+        "address": "0x6D97d65aDfF6771b31671443a6b9512104312d3D",
+        "name": "markoprljic.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x6D97d65aDfF6771b31671443a6b9512104312d3D"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6D97d65aDfF6771b31671443a6b9512104312d3D.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6D97d65aDfF6771b31671443a6b9512104312d3D.png",
+    "id": "OptimistProfile|0x25d0eef4ff47ec913ae0c349c31bec7550c1b5bbb4c56ccb9674209d2c79b4a1"
+  },
+  "impactDescription": "A good app UX may influence people to use other OP Mainnet apps.\nUX Audits help application developers better serve their target audience.\nEvery audit includes suggestions to improve the Web3 experience of the DApp, developers and product owners can use this information to provide better experiences to their users, increase traffic and DApp usage, which should also reflect to positive user adoption. ",
+  "contributionDescription": "Conducted an expert review of user experience audit based on Web3 usability guidelines and expert review checkpoints for the following DApps: Curve Finance, Beefy Finance, Velodrome and KyberSwap.\n\nThe aim was to assess the platform's alignment with industry best practices, ensuring a seamless and user-centric experience for all users interacting with Web3 technologies.\nThe review focused on evaluating critical aspects such as platform accessibility, navigation, search functionality, user education, error handling, and the integration of Web3 wallet functionalities. Through a meticulous assessment, several areas were identified that require immediate attention to enhance the overall user experience.\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/ecosystem-contributions/issues/70",
+      "description": "Application UX Research"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "UX audits completed",
+      "number": "4",
+      "url": "https://github.com/GeneralMagicio/ux-audits"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4a9fce27c66e104b86ebb868d1811b3c4b3b66d4332eba4a83c50838ba231c99",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 18,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

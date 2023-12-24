@@ -1,0 +1,55 @@
+{
+  "bio": "Ok",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "FebryDz",
+  "websiteUrl": "https://twitter.com/febrydz7",
+  "applicant": {
+    "address": {
+      "address": "0xB9007730f3779a854A6FCF00332645fE5BfE35Fe",
+      "resolvedName": {
+        "address": "0xB9007730f3779a854A6FCF00332645fE5BfE35Fe",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xB9007730f3779a854A6FCF00332645fE5BfE35Fe"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB9007730f3779a854A6FCF00332645fE5BfE35Fe.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB9007730f3779a854A6FCF00332645fE5BfE35Fe.png",
+    "id": "OptimistProfile|0xc6ba81eb1d700e9746503b5ade30c851fcf7557cde3745cf7ebba7c5e4c8d72c"
+  },
+  "impactDescription": "I'm so happy to have tried and used your app/dapps what a great experience to be one of the people to try this! we hope what happens here will be a success on mainnet and all the hard working team i really appreciate your efforts. impressed and good I like the features offered by the team, as a user I feel very comfortable and confident that this project can reach the expected point together!",
+  "contributionDescription": "I'm so happy to have tried and used your app/dapps what a great experience to be one of the people to try this! we hope what happens here will be a success on mainnet and all the hard working team i really appreciate your efforts. impressed and good I like the features offered by the team, as a user I feel very comfortable and confident that this project can reach the expected point together!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x2e126c17daa2d9913bf1fdd57fd6b348ce853fbcba4741eed3ce8d9f505a7260",
+      "description": "Love OP"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "i.e 147",
+      "number": "147",
+      "url": "https://twitter.com/febrydz7"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0.01,
+      "description": "Yeah"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9d30e1a990477a7fe6e7c78b8bf2b04ef5d7531f6afff871eac03c44a0460986",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

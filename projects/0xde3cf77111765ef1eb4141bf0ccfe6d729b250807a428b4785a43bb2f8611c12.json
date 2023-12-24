@@ -1,0 +1,46 @@
+{
+  "bio": "I am an early adopter of optimism and a follower of the crypto world",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Timur",
+  "websiteUrl": "https://twitter.com/Timur34936393",
+  "applicant": {
+    "address": {
+      "address": "0x9ef9c73d7D8239b93Fe48b35A6974292C2Ff1E1c",
+      "resolvedName": {
+        "address": "0x9ef9c73d7D8239b93Fe48b35A6974292C2Ff1E1c",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9ef9c73d7D8239b93Fe48b35A6974292C2Ff1E1c"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x678a9e81aeb97d5e50877cb97e1cf446c4af39bfc852b337e35f0d64a1e14789"
+  },
+  "impactDescription": "I actively promote the principles of optimism among my friends and colleagues, help and teach my followers how to work and interact with the network. I delegate my coins to participate in voting and government life optimism! I believe in a bright, innovative future, optimism and the crypto world!",
+  "contributionDescription": "I am an early adopter of optimism and a follower of the crypto world. I actively participated in all optimism activities, completed all quests, received retrodrops 1 and 2, interacted with various protocols and applications, constantly use optimism as the main network on the air for buying and transferring stablecoins, I am the owner of an early user NFT and a lot of other NFTs on the network optimism.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/txs?a=0x9ef9c73d7d8239b93fe48b35a6974292c2ff1e1c",
+      "description": "contracts with which there was interaction online optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "number of NFTs on optimism",
+      "number": "25",
+      "url": "https://opensea.io/account?search[chains][0]=OPTIMISM"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xde3cf77111765ef1eb4141bf0ccfe6d729b250807a428b4785a43bb2f8611c12",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

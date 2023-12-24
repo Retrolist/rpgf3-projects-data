@@ -1,0 +1,52 @@
+{
+  "bio": "Crypto is my heart, without it I will never be alive.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "JAYSON",
+  "websiteUrl": "https://twitter.com/Jaysonv73511810",
+  "applicant": {
+    "address": {
+      "address": "0x58fB42964105931A5B5872B6034660191b32b51c",
+      "resolvedName": {
+        "address": "0x58fB42964105931A5B5872B6034660191b32b51c",
+        "name": "jayson2381.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x58fB42964105931A5B5872B6034660191b32b51c"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x58fB42964105931A5B5872B6034660191b32b51c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x58fB42964105931A5B5872B6034660191b32b51c.png",
+    "id": "OptimistProfile|0x57fae471a00057c12f82c172640d0b30bce29fd06e4e97f895ec9a2cba0cdefe"
+  },
+  "impactDescription": "My contributions to optimism is that i used it on bridging and minting nfts. With its low gas fees, I can easily interact with different NFT projects and bridging funds. Its super fast and I really love it. Soon, it will surpass etherium and will solve its scalability challenges.",
+  "contributionDescription": "My contributions to optimism is that i used it on bridging and minting nfts. With its low gas fees, I can easily interact with different NFT projects and bridging funds. Its super fast and I really love it. Soon, it will surpass etherium and will solve its scalability challenges.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x58fB42964105931A5B5872B6034660191b32b51c",
+      "description": "etherscan"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "BRIDGING",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0x58fB42964105931A5B5872B6034660191b32b51c"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 24077260.506579876,
+      "description": "RetroPGF 3"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0df24c2dfd1a95aa52d81bcafc266a5a4f080f29cbbc067c97c056e130443498",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,55 @@
+{
+  "bio": "dying today, so i can get flowers tomorrow",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "rama aditya putra",
+  "websiteUrl": "https://twitter.com/rrmadityapu",
+  "applicant": {
+    "address": {
+      "address": "0x405eD99e12dAf1ee89dBDd1d0D4fD933D63Eb13d",
+      "resolvedName": {
+        "address": "0x405eD99e12dAf1ee89dBDd1d0D4fD933D63Eb13d",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x405eD99e12dAf1ee89dBDd1d0D4fD933D63Eb13d"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x405eD99e12dAf1ee89dBDd1d0D4fD933D63Eb13d.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xf6988ed1e0469ef6f6c71c7c4dbd80bb80af5593bacd1ffa2e4e989296d96dbe"
+  },
+  "impactDescription": "i have made transactions on Optimism. it's totally cool cause Optimism have a low fees. when i made a transfer to my binance account, my amount was landed so fast. and you have great competence to create something new in the crypto world. I believe this will happen one day.",
+  "contributionDescription": "i have made transactions on Optimism. it's totally cool cause Optimism have a low fees. when i made a transfer to my binance account, my amount was landed so fast. and you have great competence to create something new in the crypto world. I believe this will happen one day.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://github.com/Ram-05107",
+      "description": "this is my github account"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "rama",
+      "number": "1997",
+      "url": "https://optimistic.etherscan.io/address/0x405eD99e12dAf1ee89dBDd1d0D4fD933D63Eb13d"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xfc660de9b0ced0b070b2f4fe8499135e76bb5ea46e3ab308167c96a0941823b7",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

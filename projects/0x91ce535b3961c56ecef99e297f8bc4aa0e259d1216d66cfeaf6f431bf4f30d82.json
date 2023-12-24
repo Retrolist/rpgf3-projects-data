@@ -1,0 +1,54 @@
+{
+  "bio": "Optimeme  creates and promote optimism and superchain related memes.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Optimeme",
+  "websiteUrl": "https://twitter.com/Opti_Memes?t=tqFdfWLVfhJVDWRXjCminQ&s=09",
+  "applicant": {
+    "address": {
+      "address": "0x19518907a104666906296977C72f9c54a06258Da",
+      "resolvedName": {
+        "address": "0x19518907a104666906296977C72f9c54a06258Da",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x19518907a104666906296977C72f9c54a06258Da"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x19518907a104666906296977C72f9c54a06258Da.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x19518907a104666906296977C72f9c54a06258Da.png",
+    "id": "OptimistProfile|0x8a04149806147af00e6c0e88dfb220c12c2319440cc7c7cace5ccb51d9f1d51d"
+  },
+  "impactDescription": "Through our relentless dedication to creating and promoting optimism and superchain-related memes, we've had a significant impact on both individuals and the broader online community.\n\nOn the superchain front, our mission is to educate and inspire people about the immense potential of blockchain technology. We've seen a growing interest and awareness in the transformative power of superchains, as our meme content has helped demystify complex concepts and made them more accessible to a wider audience.\n\nOur impact can be measured in engagement metrics, as well. Our memes have reached vast audience   across various social media platforms, sparking discussions, sharing knowledge, and creating a sense of community among those interested in both optimism and blockchain technology.",
+  "contributionDescription": "Optimeme was created to spread positivity, optimism, and foster a sense of community through the creative and engaging medium of memes. We firmly believe in the power of humor and relatability and it use case in onboarding more users to the optimism ecosystem.\n\n1. Meme Creation:  We curate a diverse range of memes that are both humorous and educative. Our team of creative minds work to craft content that resonates with a broad audience of optimism ecosystem. \n\n2. Meme Promotion: Our team employs strategic and ethical methods to share these memes across various social media platforms and communities.\n\n3. Superchain-Related Memes:  In addition to spreading optimism, we also have a special focus on optimism \"superchain\" related content.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Opti_Memes?t=tqFdfWLVfhJVDWRXjCminQ&s=09",
+      "description": "Twitter page for optimeme "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Tweet impression ",
+      "number": "10000",
+      "url": "https://twitter.com/Opti_Memes?t=tqFdfWLVfhJVDWRXjCminQ&s=09"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x91ce535b3961c56ecef99e297f8bc4aa0e259d1216d66cfeaf6f431bf4f30d82",
+  "prelimResult": "Remove",
+  "reportReason": "This application was flagged by the Contributions team for double-counting contributions"
+}

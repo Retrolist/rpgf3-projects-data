@@ -1,0 +1,52 @@
+{
+  "bio": "NFT Project MOD, IT Engineer",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "rainyx",
+  "websiteUrl": "https://rainysweb.com/",
+  "applicant": {
+    "address": {
+      "address": "0x28322C3D6b8E9AF82A12533DC0aC3f5421a7E704",
+      "resolvedName": {
+        "address": "0x28322C3D6b8E9AF82A12533DC0aC3f5421a7E704",
+        "name": "rainyx.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x28322C3D6b8E9AF82A12533DC0aC3f5421a7E704"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x28322C3D6b8E9AF82A12533DC0aC3f5421a7E704.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x5b9c34925bb2bc2f5e581e27927a43be8711f51e34036a96ec864e744699ded6"
+  },
+  "impactDescription": "I MINTed many NFTs at Base's on-chain summer and told them how great NEF is.\nIt also holds NFTs for many OPs. I will continue to share the beauty of OP's NFTs with many people.I have also done mods on many NFT projects. I would be happy to assist you with anything you need. I can speak Japanese and English.",
+  "contributionDescription": "I MINTed many NFTs at Base's on-chain summer and told them how great NEF is.\nIt also holds NFTs for many OPs. I will continue to share the beauty of OP's NFTs with many people.I have also done mods on many NFT projects. I would be happy to assist you with anything you need. I can speak Japanese and English.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x28322C3D6b8E9AF82A12533DC0aC3f5421a7E704",
+      "description": "Scan"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "11",
+      "number": "3",
+      "url": "https://twitter.com/LuireSnow"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "Never received one."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa79ad021936b5a5c1990b84f231b44981d139858eed173847fa36ab6162a50a7",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

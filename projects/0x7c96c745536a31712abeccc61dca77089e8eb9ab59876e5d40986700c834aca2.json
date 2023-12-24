@@ -1,0 +1,100 @@
+{
+  "bio": "ERC1155 bridge that allows interoperability of ERC1155 tokens to and from OP. ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "ERC1155 Bridge",
+  "websiteUrl": "https://github.com/BootNodeDev/optimism",
+  "applicant": {
+    "address": {
+      "address": "0xBE2Aa441CBa8EBB9a42B8321513014e9a010EFd9",
+      "resolvedName": {
+        "address": "0xBE2Aa441CBa8EBB9a42B8321513014e9a010EFd9",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xBE2Aa441CBa8EBB9a42B8321513014e9a010EFd9"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBE2Aa441CBa8EBB9a42B8321513014e9a010EFd9.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x787298dcfeda5d0c7d9cbab6ef00fbbc2153af607a70f7a913fa3c859f239933"
+  },
+  "impactDescription": "We could not track the impact of this contribution. However,  we believe that by  having an standard ERC1155 bridge we will reduce the barriers for any project that is working with ERC1155 tokens and is willing to operate on the Optimism ecosystem.  In addition, having an standard ERC1155 bridge and not one created by individual teams will foster standardization, mass adoption and makes Optimism more accessible, developer friendly and valuable, compared to other networks.\n",
+  "contributionDescription": "New smart contracts for an ERC1155 bridge. Following the structure of the ERC721, Standard bridge and used CrossDomainMessenger, and IOptimismMintableERC1155  for the implementation:  OptimismMintableERC1155 ,IOptimismMintableERC1155,  ERC1155Bridge, L1ERC1155Bridge , L2ERC1155Bridge",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/BootNodeDev/optimism/blob/erc1155bridge/packages/contracts-bedrock/contracts/universal/OptimismMintableERC1155.sol",
+      "description": "OptimismMintableERC1155 contract with  minting and burning capabilities. "
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/BootNodeDev/optimism/blob/erc1155bridge/packages/contracts-bedrock/contracts/universal/IOptimismMintableERC1155.sol",
+      "description": " Interface for contracts that are compatible with OptimismMintableERC1155"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/BootNodeDev/optimism/blob/erc1155bridge/packages/contracts-bedrock/contracts/universal/ERC1155Bridge.sol",
+      "description": "For L1 and L2 ERC1155 bridges with logic to pass messages to other networks"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/BootNodeDev/optimism/blob/erc1155bridge/packages/contracts-bedrock/contracts/L1/L1ERC1155Bridge.sol",
+      "description": "Escrow for ERC1155 tokens deposited into L2. Works with the L2 ERC1155 bridge"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/BootNodeDev/optimism/blob/erc1155bridge/packages/contracts-bedrock/contracts/L2/L2ERC1155Bridge.sol",
+      "description": " OptimismMintableERC1155 tokens  minter, listening deposits into L1ERC1155bridge"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Forks on our repo",
+      "number": "0",
+      "url": "https://github.com/BootNodeDev/optimism"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "No OP received for the contribution."
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "No OP received for the contribution."
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 0,
+      "description": "No OP received for the contribution."
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 0,
+      "description": "No OP received for the contribution."
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "No OP received for the contribution."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7c96c745536a31712abeccc61dca77089e8eb9ab59876e5d40986700c834aca2",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 12,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

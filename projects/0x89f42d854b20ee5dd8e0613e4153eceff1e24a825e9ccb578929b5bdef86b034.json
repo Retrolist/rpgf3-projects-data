@@ -1,0 +1,48 @@
+{
+  "bio": "hodl more get more",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "ari setiawan",
+  "websiteUrl": "https://twitter.com/DaokiAomine",
+  "applicant": {
+    "address": {
+      "address": "0xF5f846fe547B14632e0e894C50f3Ab1F02EF1D3a",
+      "resolvedName": {
+        "address": "0xF5f846fe547B14632e0e894C50f3Ab1F02EF1D3a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xF5f846fe547B14632e0e894C50f3Ab1F02EF1D3a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF5f846fe547B14632e0e894C50f3Ab1F02EF1D3a.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF5f846fe547B14632e0e894C50f3Ab1F02EF1D3a.png",
+    "id": "OptimistProfile|0x4801a14f90d9cf616eb7c1dc4b5d3233380e4e5a6c473ee75f4afce5ac7cc2b8"
+  },
+  "impactDescription": "membangun setiap project yang membutuhkan bantuan di setiap langkah dan harapan yang ingin di tuju untuk meraih kesuksesan. berharap juga bisa mencapai tujuan nya dengan komunitas yang baik juga. selain itu juga saya berharap bisa membangun di setiap project yang membutuhkan bantuan.",
+  "contributionDescription": "membangun setiap project yang membutuhkan bantuan di setiap langkah dan harapan yang ingin di tuju untuk meraih kesuksesan. berharap juga bisa mencapai tujuan nya dengan komunitas yang baik juga. selain itu juga saya berharap bisa membangun di setiap project yang membutuhkan bantuan.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xee68175f06662d801914a7448714e3f74a19bf2d333cf5505ba1c4add9212dfc",
+      "description": "Optimism Subscriber NFTs"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Optimism Subscriber NFTs ",
+      "number": "0",
+      "url": "https://optimistic.etherscan.io/tx/0xee68175f06662d801914a7448714e3f74a19bf2d333cf5505ba1c4add9212dfc"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x89f42d854b20ee5dd8e0613e4153eceff1e24a825e9ccb578929b5bdef86b034",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

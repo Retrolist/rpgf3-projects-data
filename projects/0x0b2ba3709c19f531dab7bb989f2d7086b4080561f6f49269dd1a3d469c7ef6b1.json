@@ -1,0 +1,116 @@
+{
+  "bio": "A censorship resistant web3 events platform and media company",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "StreamETH",
+  "websiteUrl": "https://streameth.org",
+  "applicant": {
+    "address": {
+      "address": "0xA93950A195877F4eBC8A4aF3F6Ce2a109404b575",
+      "resolvedName": {
+        "address": "0xA93950A195877F4eBC8A4aF3F6Ce2a109404b575",
+        "name": "pablov.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xA93950A195877F4eBC8A4aF3F6Ce2a109404b575"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA93950A195877F4eBC8A4aF3F6Ce2a109404b575.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA93950A195877F4eBC8A4aF3F6Ce2a109404b575.png",
+    "id": "OptimistProfile|0xa0471bf837fac4309e9dfb3f2212c3508115f23888317bfa68bebc44c4ece013"
+  },
+  "impactDescription": "Over the past year, we supported over 20 different communities from four different continents in decentralising their content distribution and created permanent archives on-chain for 11 of them.\n\nWe distributed on-chain over 1.5k workshops, talks and panels and archived over 500 of them. From keynotes to workshops we archived the best minds in the space discussing topics that range from entry-level difficulty to blockchain specialist.\n\nOur livestreams and archives have been watched over 25k times and will forever be available to the Ethereum community, permissionless.\n\nThe RetroPGF interviews counted 148.4k views, 91 comments, 41 bookmarks on Twitter. \n\nThe opensourced StreamETH platform has been fully self funded by reinvesting the revenue generated through the AV services we offer.",
+  "contributionDescription": "StreamETH is a OSS, Web3 powered virtual event platform that enables censorship-resistant live streaming and hosts an immutable video content archive onchain.\n\nThroughout the past year, we've amplified and brought onchain 20+ major industry events such as Devcon 6, Devconnect, Zuzalu, and more. By streaming these events, we\u2019ve exposed Ethereum's developments to global audiences, highlighting topics like L2s, Technical Decentralisation, ZK, and DAO Governance, while simultaneously eliminating traditional attendance barriers.\n\nBy bringing workshops and presentations onchain, we've ensured their immutability, free from political censorship, bans, or other restrictions.\n\nIn addition, we crafted four interviews about RetroPGF2\u2019s impact to boost engagement and registrations for RetroPGF3.\n\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/efdevcon/streameth",
+      "description": "StreamETH platfrom v1, v2 repo"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/streamethorg/streameth-platform",
+      "description": "StreamETH platform v3 repo"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.streameth.org",
+      "description": "StreamETH archive, where you can find all of the events we have supported"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://streameth.org",
+      "description": "StreamETH website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1VBa_cZE1ERze_pKkJO_WJedJY7vdXATdtt5HcVFcfO0/edit?usp=sharing",
+      "description": "RetroPGF interviews"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Events that used StreamETH",
+      "number": "20",
+      "url": "https://docs.google.com/spreadsheets/d/1RobA8moRNrL_zOEyxuTFEwCsWj9RNPuCw_SN8pzCNNQ/edit#gid=0"
+    },
+    {
+      "description": "Events archived on StreamETH ",
+      "number": "11",
+      "url": "https://app.streameth.org/"
+    },
+    {
+      "description": "Unique livestream viewers (pre May)",
+      "number": "3461",
+      "url": "https://snapshots.raintank.io/dashboard/snapshot/VdWQx5r8M3Y1evectunb6TirspzeIhub"
+    },
+    {
+      "description": "Unique livestream viewers (post May)",
+      "number": "15345",
+      "url": "https://snapshots.raintank.io/dashboard/snapshot/czh7zzwlHgZuPADjTZuAP5rg4c0viaU9"
+    },
+    {
+      "description": "Live video hours delivered (pre May)",
+      "number": "457",
+      "url": "https://snapshots.raintank.io/dashboard/snapshot/VdWQx5r8M3Y1evectunb6TirspzeIhub"
+    },
+    {
+      "description": "Live video hours delievered (post May)",
+      "number": "1272",
+      "url": "https://snapshots.raintank.io/dashboard/snapshot/czh7zzwlHgZuPADjTZuAP5rg4c0viaU9"
+    },
+    {
+      "description": "Hours of video stored onchain",
+      "number": "537",
+      "url": "https://docs.google.com/spreadsheets/d/1eJx6Kx6iOL5nB1utfx53CzC4Ch-YD_cqgs5CtnoNRHI/edit#gid=2022856952"
+    },
+    {
+      "description": "RetroPGF interviews videos total views ",
+      "number": "160000",
+      "url": "https://docs.google.com/spreadsheets/d/1VBa_cZE1ERze_pKkJO_WJedJY7vdXATdtt5HcVFcfO0/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 3125,
+      "description": "Grant payment for the RetroPGF explainer videos"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 65000,
+      "description": "Revenue after tax and expenses for the AV services provided to our customers."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0b2ba3709c19f531dab7bb989f2d7086b4080561f6f49269dd1a3d469c7ef6b1",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 38,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Conferences, Events & Hackathons"
+}

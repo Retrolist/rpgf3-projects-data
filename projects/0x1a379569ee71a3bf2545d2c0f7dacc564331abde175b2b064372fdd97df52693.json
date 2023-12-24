@@ -1,0 +1,52 @@
+{
+  "bio": "My crypto child https://t.me/+fBPlpmaz9kIwZTUy",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "ih8y",
+  "websiteUrl": "https://twitter.com/DmitriyUngarov",
+  "applicant": {
+    "address": {
+      "address": "0xF72131e357295dDBED1C478096Bb81D90eFf0c19",
+      "resolvedName": {
+        "address": "0xF72131e357295dDBED1C478096Bb81D90eFf0c19",
+        "name": "ih8y.00200202.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xF72131e357295dDBED1C478096Bb81D90eFf0c19"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF72131e357295dDBED1C478096Bb81D90eFf0c19.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF72131e357295dDBED1C478096Bb81D90eFf0c19.png",
+    "id": "OptimistProfile|0x0b86bcd5b6fbdafb68d30eaee87d15b364f030a5cb2d1f3e7ec157c5bd8b7558"
+  },
+  "impactDescription": "Inviting new users first of all and also spreading and reminding old users, OP is my favourite L2 so i am very bullish. In our world we need always remind and reward users, thats why i do my job as i can. It will be very helpfull if you review this application.",
+  "contributionDescription": "To spread web3 more to East Europe community especially Ukraine & Russian. Inviting new users first of all and also spreading and reminding old users, OP is my favourite L2 so i am very bullish. In our world we need always remind and reward users, thats why i do my job as i can. It will be very helpfull if you review this application.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://t.me/diamondhaunter",
+      "description": "My public where i talk about Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "https://t.me/diamondhaunter",
+      "number": "10",
+      "url": "https://t.me/diamondhaunter"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": "This fund for marketing and spreading, cause withot money it is difficault."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x1a379569ee71a3bf2545d2c0f7dacc564331abde175b2b064372fdd97df52693",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

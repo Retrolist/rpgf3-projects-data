@@ -1,0 +1,57 @@
+{
+  "bio": "Optimism University: Engage, Educate, and Elevate in the World of Optimism.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Optimism University",
+  "websiteUrl": "https://optimism.university",
+  "applicant": {
+    "address": {
+      "address": "0x5794e3BA7391b2b9806B738b20c3F2099e16Dd5d",
+      "resolvedName": {
+        "address": "0x5794e3BA7391b2b9806B738b20c3F2099e16Dd5d",
+        "name": "dodao-academy.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x5794e3BA7391b2b9806B738b20c3F2099e16Dd5d"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5794e3BA7391b2b9806B738b20c3F2099e16Dd5d.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5794e3BA7391b2b9806B738b20c3F2099e16Dd5d.png",
+    "id": "OptimistProfile|0xa895714ed4e1701c2f11d03143bb23d8794c63427379616f6f77ae3b52e8e2d8"
+  },
+  "impactDescription": "Our creation, Optimism University, has a big positive effect on the Optimism Collective. By setting up this educational platform, we made it much easier for people to learn about Optimism. We provided different types of content, like detailed guides, quick tidbits, and interactive demos, catering to various learning preferences. This variety means that everyone can find a way to learn that suits them best.\n\nAs people can understand Optimism better, they're more likely to take part in its activities and discussions. Additionally, with more individuals getting to know about Optimism through the University, it helps raise the collective's trustworthiness.",
+  "contributionDescription": "Starting with Optimism can be challenging, which is why we created Optimism University. This platform makes learning about Optimism engaging and interactive. We cover all the essential topics in various formats, allowing the community to choose and interact with their preferred content.\n\nOur educational materials are highly interactive. We offer guides that delve deeply into each topic and can be completed in 5-10 minutes. We also have 'tidbits' that highlight key points and can be finished in just 30 seconds, as well as simulations such as clickable demos, timelines, and courses.\n\nOptimism University aims to:\n\n1) Increase community involvement.\n2) Broaden awareness of Optimism, leading to greater adoption.\n3) Establish lasting trust and a strong reputation for Optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimism.university",
+      "description": "Link to all content"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Platform Ratings (not just OP Uni)",
+      "number": "3184",
+      "url": "https://drive.google.com/file/d/1KsXZvji-swicxDgF5cznI8xh8SQD8c4C/view?usp=drive_link"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "None"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x557bf27e3e62e0f9cefaf40b9a36e24440ff5eca45d73f3a85072cf18b04ee57",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 35,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

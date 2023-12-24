@@ -1,0 +1,76 @@
+{
+  "bio": "Your one-stop-shop for news, takes, alpha, and research for onchain games.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "WASD",
+  "websiteUrl": "https://wasd.mirror.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xd2447C080C75205C91410AbBC11807eEB60Ac98a",
+      "resolvedName": {
+        "address": "0xd2447C080C75205C91410AbBC11807eEB60Ac98a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xd2447C080C75205C91410AbBC11807eEB60Ac98a"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd2447C080C75205C91410AbBC11807eEB60Ac98a.png",
+    "id": "OptimistProfile|0x383210c2398656a8f0e42c82dc6f424c54d2a4df12a41bd30401a723e2542f06"
+  },
+  "impactDescription": "WASD has helped educate and onboard users into onchain games within the Optimism ecosystem.\n\nWe've been among the first publications to cover many of these projects, helping provide them with a spotlight from which they have been able to grow their communities and player bases. \n\nOur events (described in the previous section) have further assisted with this process by helping get these games directly into the hands of players.\n\nFinally, our use of Mirror and writing NFTs has helped bring users directly onto OP Stack networks and contributed to the adoption of Optimism based onchain media.",
+  "contributionDescription": "WASD has provided research and educational content for dozens of onchain games and their supporting infrastructure.\n\nThese include projects building on OP Stack networks like Sky Strife, OP Craft, Words3, Network States, Primodium, Bochamon, Kamigotchi, Autochessia, Battle for Blockchain, Netherscape, and Gaul. We have also written extensively about Lattice's MUD framework and the role OP Stack is playing in the onchain gaming/AW ecosystem.\n\nIn addition to producing content about onchain games within the Optimism ecosystem, WASD also hosted community events including a Sky Strife tournament and a Primodium game night. \n\nFinally, WASD has released all of its written content on Mirror. Every WASD article is collectible as an NFT on an OP Stack network (OP Mainnet and Base).",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://wasd.mirror.xyz/",
+      "description": "This is the link to the WASD newsletter on Mirror where we publish our content."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/WASD_0x",
+      "description": "This is the link to our Twitter account."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Mints",
+      "number": "574",
+      "url": "https://docs.google.com/spreadsheets/d/1uxjTGHTYmIomaI7m73pJdnm7pjOH2CMA9Pu0dJqhZKk/edit?usp=sharing"
+    },
+    {
+      "description": "Twitter Followers",
+      "number": "614",
+      "url": "https://twitter.com/WASD_0x"
+    },
+    {
+      "description": "Sky Strife tournament participants",
+      "number": "8",
+      "url": "https://wasd.mirror.xyz/oTfldNRss_cnxYK9lYwDhZYkD-iRNrfjuu3xJQ14XBU"
+    },
+    {
+      "description": "Discord Community members",
+      "number": "84",
+      "url": "https://discord.com/invite/76sm5KEb6G"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 100,
+      "description": "We've generated about $100 in revenue from NFT mints and trading royalties."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3522b543586e652743d839b52fc9a5c6f84a80c8deaefb9bb0185a09ebbc94fe",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 38,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

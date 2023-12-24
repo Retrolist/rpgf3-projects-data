@@ -1,0 +1,53 @@
+{
+  "bio": "Web3 Social Media On Optimism and arbitrum",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Coindaocap",
+  "websiteUrl": "https://coindaocap.com",
+  "applicant": {
+    "address": {
+      "address": "0x96c9ec696D4a44c1E6221638d0B9A27eF0b4A160",
+      "resolvedName": {
+        "address": "0x96c9ec696D4a44c1E6221638d0B9A27eF0b4A160",
+        "name": "ethpop.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x96c9ec696D4a44c1E6221638d0B9A27eF0b4A160"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x96c9ec696D4a44c1E6221638d0B9A27eF0b4A160.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x96c9ec696D4a44c1E6221638d0B9A27eF0b4A160.png",
+    "id": "OptimistProfile|0x382bdb7a5586a5ed78ac2cb40508943e597747dd7127c80df230b3ffe5ced2e3"
+  },
+  "impactDescription": "Regular Voting on all proposal because voting is important to make wise decision and better for the ecosystem thats what we do we we encourage them to participate in every event on optimism whether it's voting,new project launch we also arrage hackathons to keep optimism network secure",
+  "contributionDescription": "attract more web3 users towards optimism ecosystem into the defi swap, nfts ,governance voting , engaging on social medias to build a mass community for optimism projects my contribution will always we impactful for the whole op ecosystem thank you for supporting small projects ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/coindaocap",
+      "description": "Where we engage with web3 communities"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of web3 users join monthly",
+      "number": "1000",
+      "url": "https://twitter.com/coindaocap"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x01394b46f08162b82aa4975797ef24b2f906b313233c0222b9b8bee9c0f71525",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

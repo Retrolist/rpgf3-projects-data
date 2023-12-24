@@ -1,0 +1,81 @@
+{
+  "bio": "A reputation system using NFT badges to represent Web3 achievements.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "EtherScore",
+  "websiteUrl": "https://etherscore.network/",
+  "applicant": {
+    "address": {
+      "address": "0x713A95B5923FAEe8Dc32593Ff9c0A30a3818D978",
+      "resolvedName": {
+        "address": "0x713A95B5923FAEe8Dc32593Ff9c0A30a3818D978",
+        "name": "etherscoredao.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x713A95B5923FAEe8Dc32593Ff9c0A30a3818D978"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x713A95B5923FAEe8Dc32593Ff9c0A30a3818D978.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x713A95B5923FAEe8Dc32593Ff9c0A30a3818D978.png",
+    "id": "OptimistProfile|0x477c7ea429dfcdb0680343478a53f4f7935a4dd05ae24eb440740883bb991f4e"
+  },
+  "impactDescription": "Out of our total badges, 16% are related to the OP Stack, accounting for 18% of the 687k minted badges.\n\nUser Onboarding and Education: We've incentivized and facilitated new user adoption, promoting actions like utilizing the official bridge and participating in DAO governance.\n\nUser Experience: EtherScore simplifies on-chain activity summaries, enhancing the user experience and making it easier for users to monitor their achievements within the Optimism ecosystem.\n\nSybil Resistance Tool: Our tool has applications such as reputation-based governance and fair reward distribution, promoting inclusivity and fairness.\n\nIn addition, our EtherScore badge collection recognizes and rewards user contributions within the Optimism ecosystem (details of badges with their stats in spreadsheet).",
+  "contributionDescription": "EtherScore is a reputation system that uses NFTs to represent Web3 achievements. The system provides badges based on user interactions such as voting in DAOs, swapping or lending coins/NFTs, etc. Users can collect badges to improve their on-chain reputation and build their EtherScore profile. On top of this, Dapps can develop services that require a reputation system, such as curated social networks, fair airdrops/ICOs, DeFi, DAO governance etc. Chainlink and The Graph are used for decentralization and verifiability of our solution.\n\nThe alpha version of EtherScore is live on Mumbai testnet and offers more than 80 badges for users of the most popular Dapps and chains. Of these 80 badges, 13 are related to the Optimism ecosystem, cumulating to 120,000 mints (details in the Impact section).",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://etherscore.network/",
+      "description": "Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mumbai.polygonscan.com/token/0xEa072EB2c7FBC875DcB1B58F240fAF8755399f7e",
+      "description": "Blockchain explorer (number of badges and holders)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.etherscore.network/",
+      "description": "Documentation"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of EtherScore users",
+      "number": "105175",
+      "url": "https://mumbai.polygonscan.com/token/0xEa072EB2c7FBC875DcB1B58F240fAF8755399f7e"
+    },
+    {
+      "description": "# of badges concerning OP eco",
+      "number": "13",
+      "url": "https://docs.google.com/spreadsheets/d/1dQzzEdvDxIDrOcGqr_XW5e7zhIXEDzHsS9NL6wB6YsE/edit?usp=sharing"
+    },
+    {
+      "description": "# of badges minted related to OP eco",
+      "number": "123163",
+      "url": "https://docs.google.com/spreadsheets/d/1dQzzEdvDxIDrOcGqr_XW5e7zhIXEDzHsS9NL6wB6YsE/edit?usp=sharing"
+    },
+    {
+      "description": "# of badges minted (any topic)",
+      "number": "687000",
+      "url": "https://mumbai.polygonscan.com/token/0xEa072EB2c7FBC875DcB1B58F240fAF8755399f7e"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 21000,
+      "description": "Gitcoin round 18 participation ($7k donations + $15k from Gitcoin)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xde0c87250368f7cf922f4b559724bc9ad9ac61387bb3166788cf49b08c1ae997",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 39,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

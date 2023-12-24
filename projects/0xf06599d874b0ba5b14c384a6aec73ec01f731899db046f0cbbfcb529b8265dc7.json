@@ -1,0 +1,90 @@
+{
+  "bio": "Educational Hub for Decentralized Finance and CryptoEconomics.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Definomics labs",
+  "websiteUrl": "https://www.definomicslabs.com/",
+  "applicant": {
+    "address": {
+      "address": "0x9390fA8656A161442928b442300358D82bEC28b0",
+      "resolvedName": {
+        "address": "0x9390fA8656A161442928b442300358D82bEC28b0",
+        "name": "edfernandezg.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x9390fA8656A161442928b442300358D82bEC28b0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9390fA8656A161442928b442300358D82bEC28b0.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9390fA8656A161442928b442300358D82bEC28b0.png",
+    "id": "OptimistProfile|0xf30e96323752f41c2ce85dfc669535e4192df7da27aa92ce8d8af6e4ae975eb7"
+  },
+  "impactDescription": "Since we founded Definomics Labs, our focus has been on impacting two objectives:\n\n1. Transforming the DeFi sector by guiding talent from Web2 to Web3 and boosting their expertise in DeFi and tokenomics.\n\n2. Empowering individuals and organizations to stay current with rapidly evolving DeFi technologies through tailored in-house training.\n\nOur approach is straightforward, designed to surmount language and technical barriers prevalent in this ecosystem.\n\nOur members actively engage in Optimism's governance, participating in forums and delegating OP tokens to regional representatives to advance governance.\n\nWe remain committed to maintaining an optimistic spirit as we tirelessly work toward democratizing education, making DeFi knowledge accessible to every corner of LATAM.",
+  "contributionDescription": "Definomics Labs professionalizes and certifies education in Decentralized Finance and Tokenomics. Among our activities are the translation of articles and papers, certified programs, the creation of educational threads, participation as speakers at universities and blockchain events in LATAM. \n\nIn this year, we have developed two programs with more than 200 studens, focused on DEFI and Layers 2, both covering topics such as blockchain and money, DeFi vs. TradFi, swaps, lending and borrowing, layer 2, bridges, scalability benefits, governance, and security. Each program included a session dedicated to Optimism, the optimistic vision, and its impact on Ethereum scalability.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.definomicslabs.com/",
+      "description": "Definomics Labs Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cursos.definomicslabs.com/courses/superchain-op",
+      "description": "Superchain OP - Course"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cursos.definomicslabs.com/",
+      "description": "Definomics Labs Courses"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@edwin.fernandezgrau/convocatoria-de-aplicaci%C3%B3n-para-defi-l2-bootcamp-2023-finanzas-en-blockchain-fce8b797120",
+      "description": "DeFi L2 Bootcamp"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# Educational Content",
+      "number": "65",
+      "url": "https://docs.google.com/spreadsheets/d/1VpXH_EZlKjOlE2gTJjievCaO4MmYnMCl/edit?usp=share_link&ouid=106291754171366831421&rtpof=true&sd=true"
+    },
+    {
+      "description": "# Views Educational Content",
+      "number": "17848",
+      "url": "https://docs.google.com/spreadsheets/d/1tH5mak2p56j_zBDuLDCcuu8dudGFwye3/edit?usp=share_link&ouid=106291754171366831421&rtpof=true&sd=true"
+    },
+    {
+      "description": "# Students",
+      "number": "232",
+      "url": "https://docs.google.com/spreadsheets/d/1Km3yCLWhcuvmnu6yzQL0p6ZL68Gt1Xrc/edit?usp=share_link&ouid=106291754171366831421&rtpof=true&sd=true"
+    },
+    {
+      "description": "# Onchain tasks",
+      "number": "40",
+      "url": "https://docs.google.com/spreadsheets/d/1GPEaVQp4p5KBIDQL02W9MRQNpv1DVsza/edit?usp=share_link&ouid=106291754171366831421&rtpof=true&sd=true"
+    },
+    {
+      "description": "# Events Participations",
+      "number": "20",
+      "url": "https://docs.google.com/spreadsheets/d/1lVax5KY4NorQ6551ENYG5uAW_4RGB3X6/edit?usp=share_link&ouid=106291754171366831421&rtpof=true&sd=true"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 317,
+      "description": "Gitcoin GG18"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf06599d874b0ba5b14c384a6aec73ec01f731899db046f0cbbfcb529b8265dc7",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 31,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

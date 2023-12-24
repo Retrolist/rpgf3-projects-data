@@ -1,0 +1,144 @@
+{
+  "bio": "Social surveys for the next generation of thinkers",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Ponder",
+  "websiteUrl": "https://weponder.io",
+  "applicant": {
+    "address": {
+      "address": "0x64Ff33b653B26edCb4644E27d3720F3C653F8371",
+      "resolvedName": {
+        "address": "0x64Ff33b653B26edCb4644E27d3720F3C653F8371",
+        "name": "benadamsky.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x64Ff33b653B26edCb4644E27d3720F3C653F8371"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x64Ff33b653B26edCb4644E27d3720F3C653F8371.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x64Ff33b653B26edCb4644E27d3720F3C653F8371.png",
+    "id": "OptimistProfile|0x971e339bbac74fe92a1eec9bde62c91068f0ba79a1056db8a33f515e58d1a5cb"
+  },
+  "impactDescription": "Ponder, which utilizes Optimism (through Farcaster) & Base (for passes/rewards), has:\n\n- Facilitated public discussions among builders on topics that help them grow their products\n\n- Engaged over 1,000 unique respondents, who are now accumulating reputation for their answers\n\n- Driven significant activity on the Farcaster protocol, serving as a space for users to voice their thoughts and understand the broader community's perspective\n\n- Created new active contracts and transactions with accelerating usage week over week\n",
+  "contributionDescription": "The web3 community has no efficient way to survey the thoughts of thinkers, builders and users at scale. Additionally, there are only a few ways to organically build knowledge-based reputation on chain.\n\nPonder currently solves both of these issues by deploying social surveys on Farcaster (Optimism), then rewarding respondents with reputation and tokens (Base) based upon the quality and frequency of responses. These surveys enable users to ask important questions of the community, build their personal reputation by answering, and earn rewards while they\u2019re at it.\n\nWe\u2019ve deployed over 95 surveys in 8 months, and have nearly 500 monthly active users.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://weponder.io",
+      "description": "Ponder Web App: Used to track participation and survey history"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ponder-surveys/farcaster-survey-bot",
+      "description": "Ponder Survey Distribution Bot: An open-source tool for Farcaster integration"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://paragraph.xyz/@ponder/introducing-ponder-the-platform-for-social-surveys",
+      "description": "Article: Introducing Ponder - The platform for social surveys"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/address/0xd45eb7e5f0d3cfc357f30daedb20673a3274c3d7",
+      "description": "The Ponder Pass NFT (Base Mainnet): Required to earn PNDR tokens"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://goerli.basescan.org/address/0xADa31Ff8ec6e6d287c0C500209D2f83b00FF871D",
+      "description": "PNDR Token Distribution Contract (Base Goerli): Issued weekly for responses"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://warpcast.com/survey",
+      "description": "Surveycaster (Farcaster): Our primary survey distribution account"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://warpcast.com/ponder",
+      "description": "Ponder (Farcaster): Our new rewards & comms account"
+    },
+    {
+      "type": "OTHER",
+      "url": "http://52.201.234.46/public/dashboards/Gdzng15rX6FvdM1mONwmoRq5pZCs9K5m6aqwYNcc?org_slug=default",
+      "description": "Analytics Dashboard: Current metrics on usage over time"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total Users",
+      "number": "1050",
+      "url": "http://52.201.234.46/public/dashboards/Gdzng15rX6FvdM1mONwmoRq5pZCs9K5m6aqwYNcc?org_slug=default"
+    },
+    {
+      "description": "Monthly Active Users (MAU)",
+      "number": "490",
+      "url": "http://52.201.234.46/public/dashboards/Gdzng15rX6FvdM1mONwmoRq5pZCs9K5m6aqwYNcc?org_slug=default"
+    },
+    {
+      "description": "Surveys Conducted",
+      "number": "86",
+      "url": "https://www.weponder.io/surveys"
+    },
+    {
+      "description": "Unique Responses",
+      "number": "1880",
+      "url": "http://52.201.234.46/public/dashboards/Gdzng15rX6FvdM1mONwmoRq5pZCs9K5m6aqwYNcc?org_slug=default"
+    },
+    {
+      "description": "Rewarded Actions",
+      "number": "9941",
+      "url": "http://52.201.234.46/public/dashboards/Gdzng15rX6FvdM1mONwmoRq5pZCs9K5m6aqwYNcc?org_slug=default"
+    },
+    {
+      "description": "Pass Holders",
+      "number": "164",
+      "url": "https://zora.co/collect/base:0xd45eb7e5f0d3cfc357f30daedb20673a3274c3d7/activity"
+    },
+    {
+      "description": "Tokens Distributed",
+      "number": "273768",
+      "url": "https://goerli.basescan.org/address/0xADa31Ff8ec6e6d287c0C500209D2f83b00FF871D"
+    },
+    {
+      "description": "Farcaster Followers",
+      "number": "1947",
+      "url": "https://warpcast.com/survey"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 500,
+      "description": "Farcaster Retroactive Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1550,
+      "description": "Purple DAO Prop House Retroactive Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 3000,
+      "description": "Onchain Summer Grant (100 Builders)"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 5735,
+      "description": "Total NFT Sales"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x051b47e31196729a4acc8aac69a69dec2112bfec9812b5bb4d6e085f9681b1f6",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 39,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

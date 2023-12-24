@@ -1,0 +1,81 @@
+{
+  "bio": "Your ENS identity on Optimism. Zero registration & renewal fees.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "OptiNames | ENS on Optimism \ud83d\udd34",
+  "websiteUrl": "https://optinames.xyz",
+  "applicant": {
+    "address": {
+      "address": "0x7dc20f310De2fC1B8163F27551544c52eBDB0D30",
+      "resolvedName": {
+        "address": "0x7dc20f310De2fC1B8163F27551544c52eBDB0D30",
+        "name": "fundpublicgoods.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x7dc20f310De2fC1B8163F27551544c52eBDB0D30"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7dc20f310De2fC1B8163F27551544c52eBDB0D30.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7dc20f310De2fC1B8163F27551544c52eBDB0D30.png",
+    "id": "OptimistProfile|0x6b237ed8676e903f270b5d84d21a64dc5ae28f3c7e37f2bc964d5d2eb85f0b34"
+  },
+  "impactDescription": "1. A substantial 7,615 Optimism users have successfully acquired ENS names via Optinames.\n\n2. Optinames has played a pivotal role in facilitating the registration of a remarkable 25,357 ENS names on OP Mainnet.\n\nThese statistics highlight the tangible impact of Optinames in making ENS names accessible and widely adopted on the Optimism network, enhancing the user experience and contributing to the growth of the ecosystem.\n",
+  "contributionDescription": "Optinames has leveraged CCIP Read (ERC-3668) to successfully expand ENS on L2 (Optimism), resulting in a significantly more cost-effective method for acquiring ENS domains compared to Eth mainnet.\n\nSince August 10, 2022, OP-Mainnet users have been able to acquire ENS names without any associated costs, marking a significant departure from mainnet fees. Our strategy ensures a fee-free experience (zero registration fees and no renewals) while keeping initial registration gas costs to a minimum in contrast to Ethereum. Furthermore, these subnames are seamlessly integrated with the ENS infrastructure and are fully compatible with a wide array of popular wallets, including Metamask, Coinbase Wallet, Trust Wallet, Uniswap Wallet, Rainbow Wallet, as well as libraries such as Web3.js and ethers.js",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optinames.xyz",
+      "description": "Client Application"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x9fb848300e736075ed568147259bf8a8eefe4fef#code",
+      "description": "ENS Subdomain contract on OP-Mainnet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.ens.domains/name/nick.ecc.eth/details",
+      "description": "Example Domain on ENS App"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/address/0x9fb848300e736075ed568147259bf8a8eefe4fef#code",
+      "description": "Deployed Optinames ENS Offchain Resolver"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "OP Mainnet users",
+      "number": "7615",
+      "url": "https://optimistic.etherscan.io/token/0x9fb848300e736075ed568147259bf8a8eefe4fef#balances"
+    },
+    {
+      "description": "ENS names registered on OP Mainnet",
+      "number": "25357",
+      "url": "https://optimistic.etherscan.io/token/0x9fb848300e736075ed568147259bf8a8eefe4fef"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 13930.17,
+      "description": "RetroPGF 2"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "ENS Ecosystem Grants"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd9185ba7e5adee4ac634b2ef3f516a872b6307272f058d526a61a7a622c9c0fd",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 42,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,58 @@
+{
+  "bio": "designer, writter, and i like cats",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Abdul Syukur",
+  "websiteUrl": "https://medium.com/@cozyness",
+  "applicant": {
+    "address": {
+      "address": "0x694200f3298d80e966d7230B1cEbE4Fd264491a3",
+      "resolvedName": {
+        "address": "0x694200f3298d80e966d7230B1cEbE4Fd264491a3",
+        "name": "cozyness.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x694200f3298d80e966d7230B1cEbE4Fd264491a3"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x694200f3298d80e966d7230B1cEbE4Fd264491a3.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xc1d5259802d2c80ed8892f5698c0672c7cc1f8a78651427477d466b83187b9d8"
+  },
+  "impactDescription": "no like other Optimism contributors, i'm just a designer and writter, and i like making memes, i invites people to know more about Optimism with my skill, and with skills that i have, i believe i have made people learning and more interested in knowing about Optimimism.",
+  "contributionDescription": "hello! first of all, let me introduce my self. im Abdul Syukur, from Indonesia. I have skills as a designer and writer, and I also love making memes. My hope is that if I get this grant, I will contribute more with optimism even if only in the form of articles, designs or memes.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@cozyness/how-optimisms-will-shape-the-future-of-ethereum-546c713fc82d",
+      "description": "Medium article"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/drive/folders/1S7I1ur2339GFVyHU-oAfiVFrd2K_kize",
+      "description": "some Optimism memes :3"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Medium article",
+      "number": "389",
+      "url": "https://medium.com/@cozyness/how-optimisms-will-shape-the-future-of-ethereum-546c713fc82d"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "meme creator on Zetachain "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9dc2727e3e77e3363dd48977ad3330d87f2eca02fbdbeb16ec63e025ee220f40",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

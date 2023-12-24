@@ -1,0 +1,48 @@
+{
+  "bio": "Blockchain developer",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Perelyn",
+  "websiteUrl": "https://github.com/Perelyn-sama",
+  "applicant": {
+    "address": {
+      "address": "0xBD885c21185b09207A0cCC06F0498e7D47F1660D",
+      "resolvedName": {
+        "address": "0xBD885c21185b09207A0cCC06F0498e7D47F1660D",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xBD885c21185b09207A0cCC06F0498e7D47F1660D"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x1f5aeaae95c625bd880caa41abc0382b7f746ebef53fb203c0a0f848f005b041"
+  },
+  "impactDescription": "The tangible impact of this project would be evident in the form of a well-informed community equipped with the necessary knowledge to drive further innovations in the Ethereum and Optimism ecosystems. By fostering a deep understanding of blockchain engineering principles, we can expect a surge in the quality and quantity of decentralized applications, infrastructure developments, and novel solutions catering to real-world problems.",
+  "contributionDescription": "I am driven by the commitment to bridge the knowledge gap in the blockchain ecosystem, specifically in the realm of blockchain engineering. Despite the increasing interest in this field, there is a noticeable scarcity of comprehensive educational resources that span from foundational knowledge to intricate concepts. To that end, I've envisioned a project dedicated to delivering blockchain engineering knowledge, making it accessible to anyone keen on diving into this domain.\n\nMy contributions to the Ethereum ecosystem and the Optimism Collective are already evident through my writings and educational repositories, notably the 'Yul by Example' GitHub repo. This repository serves as an educational guide and has already garnered appreciation from many: Yul by Example.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Perelyn-sama/yul_by_example",
+      "description": "Code examples in Yul"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Stars",
+      "number": "236",
+      "url": "https://github.com/Perelyn-sama/yul_by_example"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x79c3f88b4adb9b32ba1ba2c460097f7f2b43bc1a591e4a6a555f052087724197",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 7,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

@@ -1,0 +1,172 @@
+{
+  "bio": "Community-curated crypto media dapp & open source P2P protocol",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Kiwi News",
+  "websiteUrl": "https://kiwinews.xyz",
+  "applicant": {
+    "address": {
+      "address": "0xee324c588ceF1BF1c1360883E4318834af66366d",
+      "resolvedName": {
+        "address": "0xee324c588ceF1BF1c1360883E4318834af66366d",
+        "name": "timdaub.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xee324c588ceF1BF1c1360883E4318834af66366d"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xee324c588ceF1BF1c1360883E4318834af66366d.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xee324c588ceF1BF1c1360883E4318834af66366d.png",
+    "id": "OptimistProfile|0x4cb089b0274891b2c176a38ceb9731ad068fdff1e4e6c51d06b7e47432525301"
+  },
+  "impactDescription": "UX: \nWe separate signals from noise. We are a trusted news source for builders, hence, we\u2018re strengthening the ecosystem. We had 5300+ unique visitors. We have around 80 monthly curators and 1,200 monthly readers.\n\nOP Stack:\nOur p2p protocol helps scale ETH. We use NFTs to authorize who can upvote/submit. We implement identity, i.e., FC and ENS. We store 4700 EIP-712 upvotes on our \u201cside p2p network,\" to minimize onchain storage. We\u2019ve delegated 123 keys to improve UX. We help to scale OP.\n\nDX:\n4 people (including us) have been shipping on Kiwi since April: Kiwi Search, kiwinews.lol and us. Delegator2 is a web3 UX breakthrough. We\u2019ve co-organized DeSo meetups in Denver, Paris & Berlin. We gave talks at Protocol Berg, and Broadcast Summit. We\u2019re growing DeSo on OP.",
+  "contributionDescription": "Kiwi helps crypto builders find the best content without social media noise. Our community consumes hundreds of sources a month to handpick and upvote top content for crypto founders & developers. From tweets, through essays, up to Dune dashboards and GitHub repos.\n\nWe a use P2P architecture - similar to Farcaster - so that most heavy data is stored offchain and only the most important elements, such as delegations & NFTs are stored onchain. The architecture promotes credible neutrality as it lets users run p2p nodes or clients with their own UI & moderation rules, such as kiwinews.lol run by our contributor, freeatnet or Kiwi News Search by matallo.\n\nWe are 100% Open Source. Our R&D on scaling ETH via the P2P protocol and OP key delegation  can be reused by others.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=WujtU15yAyk",
+      "description": "4 minute pitch about what Kiwi News is and why we are building it"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://news.kiwistand.com",
+      "description": "Kiwi News Main Site"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/address/0xebb15487787cbf8ae2ffe1a6cca5a50e63003786",
+      "description": "\"Kiwi Pass\" contract that determines who can upvote or submit new links"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x08b7ECFac2c5754ABafb789c84F8fa37c9f088B0",
+      "description": "Delegator2 contract to help delegating to an emphemeral frontend key for web2 UX"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/attestate/kiwistand",
+      "description": "Kiwi News Protocol implementation"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://attestate.com/kiwistand/main/protocol-guide.html",
+      "description": "Docs how Kiwi News Protocol works under the hood (set reconciliation)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=i6RmoO5fSO4",
+      "description": "timdaub's talk on set reconciliation algorithm at Protocol Berg 2023 (audio=bad)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/attestate/awesome-kiwinews",
+      "description": "awesome-kiwinews ecosystem GitHub that lists all on-going projects"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/attestate/delegator2#readme",
+      "description": "Delegator2 Key authority event log for Kiwi News Protocol"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of upvotes stored on side p2p network",
+      "number": "4700",
+      "url": "https://news.kiwistand.com/stats"
+    },
+    {
+      "description": "# of unique visitors",
+      "number": "5300",
+      "url": "https://www.dropbox.com/scl/fi/wfefuq3vkoijijq2yeeym/Kiwi-Google-Analytics.pdf?rlkey=8om6y5qjugzq23d6h8mv4mdap&dl=0"
+    },
+    {
+      "description": "Nice Testimonials on Farcaster abt Kiwi",
+      "number": "12",
+      "url": "https://docs.google.com/spreadsheets/d/1kr_zU5yhZEkrnwWTr4_S2dnri0X__XyQBDeMHVZFcHY/edit"
+    },
+    {
+      "description": "# of monthly active curators",
+      "number": "80",
+      "url": "https://news.kiwistand.com/stats"
+    },
+    {
+      "description": "# of NFT holders on Optimism",
+      "number": "230",
+      "url": "https://optimistic.etherscan.io/token/0x66747bdc903d17c586fa09ee5d6b54cc85bbea45"
+    },
+    {
+      "description": "Delegegations to improve web3 signing UX",
+      "number": "123",
+      "url": "https://optimistic.etherscan.io/txs?a=0x08b7ECFac2c5754ABafb789c84F8fa37c9f088B0"
+    },
+    {
+      "description": "Monthly active readers (30-day active)",
+      "number": "1200",
+      "url": "https://www.dropbox.com/scl/fi/wfefuq3vkoijijq2yeeym/Kiwi-Google-Analytics.pdf?rlkey=8om6y5qjugzq23d6h8mv4mdap&dl=0"
+    },
+    {
+      "description": "Independent project: Kiwi News frontend",
+      "number": "1",
+      "url": "https://kiwinews.lol/"
+    },
+    {
+      "description": "Independent project: Kiwi News Search",
+      "number": "1",
+      "url": "https://kiwinews.phyles.app"
+    },
+    {
+      "description": "Total revenue lags behind the rev goal",
+      "number": "14155.32",
+      "url": "https://docs.google.com/spreadsheets/d/18ZJT1k97J25q7DW6J9VuYOo9wheVReca0qp0SzPpX1U/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 5119.85,
+      "description": "NFT sales"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 3000,
+      "description": "PurpleDAO Retro Active Public Goods funding (2x winner)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2000,
+      "description": "Impact Gift from Ethereum Foundation employee"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1197.3,
+      "description": "Gitcoin Grants Round 18"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1500,
+      "description": "Warpcast Ecosystem Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "VC funding: NONE! We are 100% bootstrapped and wanna stay that way"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xc72bc291e1063c2981475f586b6b62ba77eb05b8acca3501c80839659fbf3ad3",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 34,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

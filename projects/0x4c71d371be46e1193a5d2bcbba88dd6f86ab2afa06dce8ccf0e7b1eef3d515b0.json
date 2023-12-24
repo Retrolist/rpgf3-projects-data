@@ -1,0 +1,82 @@
+{
+  "bio": "The first and largest portal and aggregator for Autonomous Worlds and FOCGs",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Composable Hub",
+  "websiteUrl": "https://www.composablelabs.io/",
+  "applicant": {
+    "address": {
+      "address": "0x3b5418282282F75adC2992B63e518a0C763935E6",
+      "resolvedName": {
+        "address": "0x3b5418282282F75adC2992B63e518a0C763935E6",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3b5418282282F75adC2992B63e518a0C763935E6"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x13297667b4c06de56f5a9292cf6eb26ab4aa3b9eb28651c854bd03645a7ac7e6"
+  },
+  "impactDescription": "1. Twitter account followers is about 400.\n2. Avg. daily user views of the website in Oct. is about 255, Avg. DAU is about 20.\n3. help with Lattice playtest tweet views is about 4700.\n4. help introduce primodium tweet views is about 2400\n5. Our website includes all FOCGs on Optimism, rn is 5.\n",
+  "contributionDescription": "Composable Hub is the first and largest portal and aggregator for Autonomous Worlds(AWs) and Fully Onchain Games(FOCGs). The aggregator part is currently supporting Ethereum and Optimism only. \n\nCurrently, FOCGs are in a very early stage, but many believe they have the greatest potential in the future. \n\nMany FOCG developers in this field need more user traffic. We have listed over 40 FOCG projects on our website, of which about 15% are on Optimism. We help them arrange their basic information, social media, asset data, and more, making it easier for players to find and understand.\n\nWe have also assisted many FOCG projects in playtests or tournaments, receiving very positive feedback in the community, thus we have established good relationships with many FOCG projects, including Lattice.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x1466ceE94D903e4F445030C862d4ddDB13f01cD4",
+      "description": "Composable Hub NFT Native Exchange"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x82c0C37E42c4db4ca324d25f4a2dE0B7a946f027",
+      "description": "Composable Hub NFT Aggregator Exchange"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.composablelabs.io/games",
+      "description": "List of FOCG games on Composable Hub"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "twitter followers",
+      "number": "400",
+      "url": "https://twitter.com/Composablelabs"
+    },
+    {
+      "description": "Avg. daily user views of Oct.",
+      "number": "255",
+      "url": "https://postimg.cc/tnNk2W7M"
+    },
+    {
+      "description": "help with Lattice playtest tweet views",
+      "number": "4700",
+      "url": "https://twitter.com/latticexyz/status/1705201036003029352"
+    },
+    {
+      "description": "help introduce primodium tweet views",
+      "number": "2400",
+      "url": "https://twitter.com/Composablelabs/status/1714219753831837713"
+    },
+    {
+      "description": "filter choose optimism, FOCGs",
+      "number": "5",
+      "url": "https://app.composablelabs.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "we've received any yet"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4c71d371be46e1193a5d2bcbba88dd6f86ab2afa06dce8ccf0e7b1eef3d515b0",
+  "prelimResult": "Remove",
+  "reportReason": "Both contracts linked have less than 10 txs"
+}

@@ -1,0 +1,55 @@
+{
+  "bio": "Time is money",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Edogalih",
+  "websiteUrl": "https://x.com/Cuan98144566?t=1iidILZVXjC-ojQfHqDNiA&s=09",
+  "applicant": {
+    "address": {
+      "address": "0x6cb0Ba1D0D5B9f4AD34D04910Ff82C1E1870d9Bd",
+      "resolvedName": {
+        "address": "0x6cb0Ba1D0D5B9f4AD34D04910Ff82C1E1870d9Bd",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6cb0Ba1D0D5B9f4AD34D04910Ff82C1E1870d9Bd"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6cb0Ba1D0D5B9f4AD34D04910Ff82C1E1870d9Bd.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6cb0Ba1D0D5B9f4AD34D04910Ff82C1E1870d9Bd.png",
+    "id": "OptimistProfile|0x40dd58164a82116ce096f1e7cc2d055d032b699090df4d98f27a5b8f3b3e9fd1"
+  },
+  "impactDescription": "I hope I can participate in this opportunity. On the first occasion I regretted not being able to participate until I finally heard that there was an announcement on Twitter that there was round 3. Without thinking for a long time I immediately registered. To be honest, I am very jealous of other applicants who may have received a surprise in round 1. I hope that on this occasion I will be the lucky one",
+  "contributionDescription": "I hope I can participate in this opportunity. On the first occasion I regretted not being able to participate until I finally heard that there was an announcement on Twitter that there was round 3. Without thinking for a long time I immediately registered. To be honest, I am very jealous of other applicants who may have received a surprise in round 1. I hope that on this occasion I will be the lucky one",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x1c9d73bcc02930f5dd15df83967186c7abbd838726d5ebb8c95eb3035f3533a4",
+      "description": "My transaction"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#captain",
+      "number": "2525",
+      "url": "https://optimistic.etherscan.io/tx/0x1c9d73bcc02930f5dd15df83967186c7abbd838726d5ebb8c95eb3035f3533a4"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x060487f3905f43e7c769dbe675ab492bf3df78153b072f9dfc097547fd9ea35e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

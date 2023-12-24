@@ -1,0 +1,92 @@
+{
+  "bio": "Everything you need to find/know about OP Chains.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "OPChainList",
+  "websiteUrl": "https://opchainlist.com/",
+  "applicant": {
+    "address": {
+      "address": "0xe50f414e24e4132Df617Bd74Ea5e04bb9364d181",
+      "resolvedName": {
+        "address": "0xe50f414e24e4132Df617Bd74Ea5e04bb9364d181",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xe50f414e24e4132Df617Bd74Ea5e04bb9364d181"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe50f414e24e4132Df617Bd74Ea5e04bb9364d181.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe50f414e24e4132Df617Bd74Ea5e04bb9364d181.png",
+    "id": "OptimistProfile|0x0eea3d8344555c4698e71b44c164b35aab3a43fe3751f64f967abdc214d4e88a"
+  },
+  "impactDescription": "Problem Addressed:\nThe lack of centralized, curated information on OP Stack built blockchains was hindering the growth and understanding of the OPtimism community. OPChainList emerged as a solution to bridge this crucial information gap.\n\nBeneficiaries:\n\nNew users seeking information about OP Stack built blockchains\nEmerging OP Stack built blockchains in need of exposure and support\nExisting OPtimism community members seeking a reliable resource to navigate the complex world of OP chains\n\nImpact:\n\nTangible: 120 new users from 22 countries within a short time frame\nIntangible: Strengthened community trust and knowledge sharing among OPtimists\n\nMetrics:\n\n20 OP blockchains listed\n120 new users from 22 countries within the last 15 days\n3 interviews conducted, fostering community engagement",
+  "contributionDescription": "OPChainList provides vital information on OP Stack built blockchains, serving all users regardless of blockchains' phase. Our dedication revolves around effectively introducing the community to all OP Stack built blockchains.\n\nKey Features:\nInclusive listing of all OP Stack built blockchains\nSafety measures through dedicated social media buttons, protecting the OPtimism community from potential scams\n\"Interviews\" section providing insights into blockchain jobs like DevRel and promoting blockchain teams within the OPtimism community\n\"Apps\" section customized for each blockchain page, fostering growth in emerging ecosystems\n\nAccomplishments:\n20 OP blockchains listed\nAttracted 120 new users from 22 countries, including the USA, UAE, Turkey, France, Nigeria, Canada, within the last 15 days.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://opchainlist.com/1",
+      "description": "Base"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opchainlist.com/2",
+      "description": "Mantle (we have 20 blockchains listed)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opchainlist.com/interviews/15",
+      "description": "Mode Interview (we have 3 interviews at the moment)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1AE60bzB0u4OgAl9mWVr8a8oZURWx-FOGsbS7nVPRgDo/edit?usp=sharing",
+      "description": "Safety buttons for every blockchains, preventing scams"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Last 15 days new users",
+      "number": "120",
+      "url": "https://docs.google.com/document/d/1K3R0rt2jl7__hQ8iEjl62B0Nft90QYz3hNU8MtDmabw/edit?usp=sharing"
+    },
+    {
+      "description": "Worldwide different countries",
+      "number": "22",
+      "url": "https://docs.google.com/document/d/1R78Bz1SLFpTe8z9BjHaWqpxDIHrv4MHh2fCeF3nuFA4/edit?usp=sharing"
+    },
+    {
+      "description": "Listed blockchains/interviews",
+      "number": "23",
+      "url": "https://opchainlist.com/"
+    },
+    {
+      "description": "Everyday we are gaining 4-5 new users",
+      "number": "5",
+      "url": "https://docs.google.com/document/d/1D9sVJ_QMbFdOwEfeyPVeHPZoJVfNKMw2sf_0bOLRoMY/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x429fdc971ff256533f64251d95766289867dd85973a54b52805c524b34e9643a",
+  "prelimResult": "Keep",
+  "reportReason": "This seems like something quickly put together to receive RetroPGF",
+  "includedInBallots": 19,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

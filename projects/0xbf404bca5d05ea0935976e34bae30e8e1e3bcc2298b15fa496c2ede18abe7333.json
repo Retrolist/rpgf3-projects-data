@@ -1,0 +1,81 @@
+{
+  "bio": "far.quest helped over 100,000 people learn about Farcaster, built on Optimism",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "far.quest",
+  "websiteUrl": "https://far.quest",
+  "applicant": {
+    "address": {
+      "address": "0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e",
+      "resolvedName": {
+        "address": "0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e",
+        "name": "jcdenton.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e.png",
+    "id": "OptimistProfile|0xa0574215bc30759a2c58cd91e0bbc9dde8c7c29860ff25514b113572b4982725"
+  },
+  "impactDescription": "We helped over 100,000 unique people learn about Farcaster, and contributed to over 2,000 onchain Optimism transactions in 11 days once Farcaster went permissionless.\n\nWe also helped people build on Farcaster through our free open-source Farcaster APIs, and through our tutorials on how to run a Farcaster hub for half the cost of the official guides.",
+  "contributionDescription": "far.quest helped over 100,000 unique people around the world learn about Farcaster, a decentralized social network built on Optimism (https://farcaster.xyz).\n\nWhen our users registered on Farcaster through us, or logged in through our client at https://far.quest/cast, they interacted directly with Optimism.\n\nWe also helped developers build on Farcaster, we offered free and open-source Farcaster APIs (https://docs.wield.co/farcaster/api), and teached users how to run a Farcaster hub for half the cost of the official guides (https://docs.wield.co/farcaster/hubs).",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0334298070a1276bab2de5307916c676f23fdf9b",
+      "description": "Our Proxy Contract for Farcaster Accounts: ~2,100 OP transactions in 11 days"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://far.quest",
+      "description": "far.quest's landing page, promoted Farcaster which heavily utilizes Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.wield.co/farcaster/api",
+      "description": "We provided Free Open-Source Farcaster APIs running on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.wield.co/farcaster/hubs",
+      "description": "We teached people how to run Farcaster Hubs running on Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Optimism Transactions",
+      "number": "2062",
+      "url": "https://optimistic.etherscan.io/address/0x0334298070a1276bab2de5307916c676f23fdf9b"
+    },
+    {
+      "description": "far.quest unique users in 2023Q3",
+      "number": "94045",
+      "url": "https://i.imgur.com/3cI9mXy.png"
+    },
+    {
+      "description": "far.quest unique users in 2023Q4 so far",
+      "number": "18313",
+      "url": "https://i.imgur.com/ISTj7qi.png"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 2539,
+      "description": "Revenue on Optimism, Farcaster Proxy Contract"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xbf404bca5d05ea0935976e34bae30e8e1e3bcc2298b15fa496c2ede18abe7333",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 25,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

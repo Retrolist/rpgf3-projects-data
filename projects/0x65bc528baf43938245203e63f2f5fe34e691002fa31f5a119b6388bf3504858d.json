@@ -1,0 +1,52 @@
+{
+  "bio": "Musician and salesman. I want to sell things for crypto. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "JamesCamsHouse ",
+  "websiteUrl": "https://spotify.link/sbtUP8aSnDb",
+  "applicant": {
+    "address": {
+      "address": "0x72365e20475Ca0Ac6423F71b5Da97dbEB8Bb6c20",
+      "resolvedName": {
+        "address": "0x72365e20475Ca0Ac6423F71b5Da97dbEB8Bb6c20",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x72365e20475Ca0Ac6423F71b5Da97dbEB8Bb6c20"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72365e20475Ca0Ac6423F71b5Da97dbEB8Bb6c20.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x03d68cfc7ca40869d21cfd8a300d99b5221d9ac565a5cb6fc95ef749bf7f3977"
+  },
+  "impactDescription": "I\u2019m just a wannabe influencer. Iv onboarded several people into crypto. I reminded my buddy he had the last drop made sure he did not miss out lol. I really just retweet for the most part. I just want to take part. I honestly didn\u2019t realize this was for a grant when I started. I just try to get involved with the blockchain.",
+  "contributionDescription": "I have not contributed much. I have interacted with the chain. However if given an opportunity to have access to some of these spaces. Finances being the biggest barrier for me. I know I can meet the people who can help me get more artists selling music on optimism. Find a way for companies like carmax or caravan to accept crypto through there online delivery apps. Imagine buying a car without ever seeing a salesperson all with your air drop you spent months farming for. All without ever touching fiat. I want to build that space.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://spotify.link/Cuymp5gTnDb",
+      "description": "Very optimistic music."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Spotify 15 monthly users ",
+      "number": "15",
+      "url": "https://spotify.link/Cuymp5gTnDb"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x65bc528baf43938245203e63f2f5fe34e691002fa31f5a119b6388bf3504858d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

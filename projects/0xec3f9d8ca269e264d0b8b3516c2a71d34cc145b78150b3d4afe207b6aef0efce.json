@@ -1,0 +1,130 @@
+{
+  "bio": "The largest core development group in Web3",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Wonderland",
+  "websiteUrl": "https://defi.sucks",
+  "applicant": {
+    "address": {
+      "address": "0x36143ebA6D522FBe2c7884B011feA558c203856C",
+      "resolvedName": {
+        "address": "0x36143ebA6D522FBe2c7884B011feA558c203856C",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x36143ebA6D522FBe2c7884B011feA558c203856C"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x36143ebA6D522FBe2c7884B011feA558c203856C.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x36143ebA6D522FBe2c7884B011feA558c203856C.png",
+    "id": "OptimistProfile|0x104211bb557207741d423a5c0a60ce7fb3901d6e08cc3c6c19fe98308dcb9d14"
+  },
+  "impactDescription": "Our contributions have had a positive impact on builders scene, being used by developers on Ethereum, Optimism, and any other EVM ecosystem.\n\nWe have built great utilities such as our Solidity Hardhat Boilerplate to public good protocols such as Sidechain Oracles; but our list extends to 12 projects and tools ready to use.\n\nWe are proud that several of our repositories reach hundreds of stars and dozens of forks, as well as dozens and hundreds of dependencies from our libraries, which motivates us to continue pursuing what the future of finance and Web3 should be: permissionless, open-source, and decentralized.\n\nMore details are in our Notion page, attached to this application.",
+  "contributionDescription": "We are a team of researchers and developers, dedicated to the Ethereum ecosystem. We are recognized for having partnered with some of the most successful and promising projects operating on Optimism, such as Yearn, Connext and HAI; and have collaborated closely with the Optimism team for several projects (Smock and our soon-TBA Prophet).\n\nWe believe that true DeFi should be open, permissionless, and decentralized. To realize this vision, we have contributed to the creation of public goods over time. For retroPGF3, we're submitting our set (12) of freely available open-source libraries and tools that facilitate the secure process of creating protocols for permissionless finance. These tools meet the highest security standards and industry best practices.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://defi-wonderland.notion.site/Public-Goods-by-Wonderland-6aa62bf49064416c9cd7e2d9d37ca275",
+      "description": "Public Goods by Wonderland [Readable Version]"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/defi-wonderland/solidity-foundry-boilerplate",
+      "description": "Solidity Foundry Boilerplate"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/defi-wonderland/solidity-hardhat-boilerplate",
+      "description": "Solidity Hardhat Boilerplate"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/defi-wonderland/web3-react-boilerplate",
+      "description": "Web3 React Boilerplate"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/defi-wonderland/smock",
+      "description": "Smock: The Solidity Mocking Library"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/defi-wonderland/sidechain-oracles",
+      "description": "Sidechain Oracles: Uniswap V3 Pool's price history for every chain"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/defi-wonderland/check-crypto-action",
+      "description": "Check Crypto Action"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/defi-wonderland/gnosis-safe-proposor",
+      "description": "Gnosis Safe Proposor"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/defi-wonderland/solhint-plugin",
+      "description": "Solhint Plugin"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/defi-wonderland/foundry-mock-generator",
+      "description": "Foundry Mock Generator"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/defi-wonderland/crypto-husky-checks",
+      "description": "Crypto Husky Checks"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/defi-wonderland/tenderly-monitor-utils",
+      "description": "Tenderly Monitor Utils"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.notion.so/defi-wonderland/RPC-Request-Batching-Easily-10x-your-requests-performance-1b4a5f557c034b5482007965fa8dc5da",
+      "description": "RPC Request Batching: Easily 10x your requests performance"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#Total dependencies",
+      "number": "1329",
+      "url": "https://defi-wonderland.notion.site/Impact-made-by-Wonderland-s-Public-Goods-5ffb444ff12341269bc80690225fb139"
+    },
+    {
+      "description": "#Total stars",
+      "number": "598",
+      "url": "https://defi-wonderland.notion.site/Impact-made-by-Wonderland-s-Public-Goods-5ffb444ff12341269bc80690225fb139"
+    },
+    {
+      "description": "#Total forks",
+      "number": "85",
+      "url": "https://defi-wonderland.notion.site/Impact-made-by-Wonderland-s-Public-Goods-5ffb444ff12341269bc80690225fb139"
+    },
+    {
+      "description": "#Total watchers",
+      "number": "23",
+      "url": "https://defi-wonderland.notion.site/Impact-made-by-Wonderland-s-Public-Goods-5ffb444ff12341269bc80690225fb139"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 13684.13,
+      "description": "Only for Smock"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xec3f9d8ca269e264d0b8b3516c2a71d34cc145b78150b3d4afe207b6aef0efce",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 40,
+  "primaryCategory": "OP Stack",
+  "recategorization": "Ethereum Development & Maintanance"
+}

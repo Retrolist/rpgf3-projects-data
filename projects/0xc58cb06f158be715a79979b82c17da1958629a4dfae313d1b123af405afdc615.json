@@ -1,0 +1,139 @@
+{
+  "bio": "Local Bloom hubs build food security, relationship repair, and local economies.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Bloom Network",
+  "websiteUrl": "https://bloomnetwork.earth",
+  "applicant": {
+    "address": {
+      "address": "0x5219ffb88175588510e9752A1ecaA3cd217ca783",
+      "resolvedName": {
+        "address": "0x5219ffb88175588510e9752A1ecaA3cd217ca783",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5219ffb88175588510e9752A1ecaA3cd217ca783"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5219ffb88175588510e9752A1ecaA3cd217ca783.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5219ffb88175588510e9752A1ecaA3cd217ca783.png",
+    "id": "OptimistProfile|0x55a53a9096cc76d6022fede0fb6791e155695353370b1a5dd1744c1300214efd"
+  },
+  "impactDescription": "Bloom Network has been developing the social and governance architecture to run a global federated DAO impact economy since 2008. Our 16 years of R&D has landed in the bounties contracts, the core of our financial system. It opens the door for millions of non-technical users to onboard and successfully intercooperate on real world challenges.",
+  "contributionDescription": "Bloom Network, in collaboration with Inverter Network, developed a regenerative action bounties system that rewards grassroots participants for doing real world climate actions. Bounty claims are reviewed by an approved regional verifier who has relationships with people on the ground, and tokens are then automatically issued. This on-chain system can integrate with other impact certification tools such as Hypercerts, to boost visibility of local economic sovereignty work to potential funders and supporters. Bloom designed a token engineering model so tokens can additionally be used as a community currency to circulate forms of surplus in cash-poor communities. Grants and profits from Bloom\u2019s social network can flow into local small scale impact projects, in a trusted, transparent way.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://bloomnetwork.earth",
+      "description": "Our social media site that aggregates impact stories from Local Bloom coalitions"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.inverter.network/post/bloom-x-inverter-building-a-regenerative-action-bounty-system-for-local-communities",
+      "description": "Collaboration with Inverter Network, OP grant recipient, as their first client"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli.etherscan.io/address/0x4FB5adc63fB08c7E7864Ce3f77714af6B8B50D9f#readContract",
+      "description": " An autonomous payout system for impact work. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.loom.com/share/b8e2230398c64034b7514838bcf6e8ac",
+      "description": "Walk-through of the members features of Bloom, like LinkedIn for regens"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=ZfB99leZ1Uo",
+      "description": "Impact Bounties walkthrough video"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Users of our reporting network prototype",
+      "number": "100",
+      "url": "https://bloomnetwork.earth"
+    },
+    {
+      "description": "Members participating on the ground ",
+      "number": "30000",
+      "url": "https://bloomnetwork.earth/engage/localBlooms"
+    },
+    {
+      "description": "Local gardens and farms started",
+      "number": "300",
+      "url": "https://lbfresh.org/"
+    },
+    {
+      "description": "Businesses and projects incubated",
+      "number": "2000",
+      "url": "https://giveth.io/project/Diamante-Bridge-Collective-0"
+    },
+    {
+      "description": "Regional economic networks started",
+      "number": "4",
+      "url": "https://bloomnetwork.earth/view/community-sustaining-art-and-agroecology-3fff039bb089"
+    },
+    {
+      "description": "Regenerative Actions Mapped",
+      "number": "600",
+      "url": "https://docs.google.com/spreadsheets/d/1h5KWim-Fj-NIgxhs0XOoeV5VjU_JO-p31Br2RrPbmME/edit#gid=0"
+    },
+    {
+      "description": "Research insights: Optimism training",
+      "number": "4",
+      "url": "https://bloomnetwork.earth/view/research-summary-web-adoption-491c8b0de8a4"
+    },
+    {
+      "description": "Hypercerts Minted",
+      "number": "2",
+      "url": "https://hypercerts.org/app/view#claimId=0x822f17a9a5eecfd66dbaff7946a8071c265d1d07-18019312457931375394239538961941853869441024"
+    },
+    {
+      "description": "Bioregional governance system developed",
+      "number": "1",
+      "url": "https://drive.google.com/file/d/1xZFoS7EHlmPfnAKAOHdbK0FTHBMSrItO/view"
+    },
+    {
+      "description": "Kampala farmers implemented permaculture",
+      "number": "1300",
+      "url": "https://giveth.io/project/broadfield-enterprises-uganda"
+    },
+    {
+      "description": "Kampala pupils learning permaculture",
+      "number": "70000",
+      "url": "https://giveth.io/project/broadfield-enterprises-uganda"
+    },
+    {
+      "description": "Texas: watershed restoration structures",
+      "number": "110",
+      "url": "https://www.linkedin.com/posts/will-m-5053b316_landscape-rehydration-ephemeral-activity-7065362673101651968-Hsu3?utm_source=share&utm_medium=member_desktop"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 127000,
+      "description": "Gitcoin and Giveth: This built our social platform"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "No compensation yet for the smart contracts or 16 years of global R&D"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 3100,
+      "description": "Lush Re:Fund for Local Bloom members to write how-to templates for regen actions"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xc58cb06f158be715a79979b82c17da1958629a4dfae313d1b123af405afdc615",
+  "prelimResult": "Remove",
+  "reportReason": "Out of scope"
+}

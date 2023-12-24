@@ -1,0 +1,337 @@
+{
+  "bio": "DOUBLETOP is crypto media which produces useful content for the community",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "DOUBLETOP",
+  "websiteUrl": "https://doubletop.io/",
+  "applicant": {
+    "address": {
+      "address": "0x81D94B973862CBEe5Bd19Ab0DA3F015F3F0D53e9",
+      "resolvedName": {
+        "address": "0x81D94B973862CBEe5Bd19Ab0DA3F015F3F0D53e9",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x81D94B973862CBEe5Bd19Ab0DA3F015F3F0D53e9"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x81D94B973862CBEe5Bd19Ab0DA3F015F3F0D53e9.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x81D94B973862CBEe5Bd19Ab0DA3F015F3F0D53e9.png",
+    "id": "OptimistProfile|0x0b3085f2cb39a0d645d3dfc9e7a62a2bcbd4abd1d66932a12a61a385d550db9c"
+  },
+  "impactDescription": "DOUBLETOP is one of the biggest crypto community in Eastern Europe and every year we set each year narratives. From the beginning of the 2nd half of 2021 Optimism as well as other L2s on ETH took huge half of our narrative. We have made positive, both direct and indirect impact on overall level of understanding and knowledge of Optimism and other ETH L2s.  \n\nIn regards to impact, we are part of Optimism community and impacted adoption in various ways. The easiest way to measure the impact is probably views for us, however one should also look through likes/comments/activity/quality of the content/quality of the community etc. For that one would need to go directly to the piece of content and look it through. Sometimes even translate.",
+  "contributionDescription": "Throughout all of our social media platforms, including Telegram, YouTube, Twitter, Instagram etc. we are frequently debating about ETH L2s including Optimism. Optimism has been DOUBLETOP tier-1 project and ecosystem from the beginning of 2023 since we had included it to our overall narrative. \n\nWe have published posts, tweets, videos, guides, translations, conducted community support about, within and for Optimism, Optimism ecosystem protocols, OP Stack chains + held huge L2 narrative in our community from the very beginning. Needless to say, everyone in our team and most of our community have interacted with Optimism both onchain and on community side at least once. \n\nThanks to all that, the level of Optimism and L2 ETH knowledge has definitely risen significantly.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/5778",
+      "description": "Post in DOUBLETOP Telegram channel about AEVO with research about AEVO"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.notion.so/2top/AEVO-3826086bfb4c4ddd849b4fb6e02ff056",
+      "description": "Research about AEVO published on DOUBLETOP Telegram channel"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/5825",
+      "description": "Post featuring video published on DOUBLETOP YouTube channel about AEVO "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=-0Kj3-vagDU",
+      "description": "Video about AEVO published on DOUBLETOP YouTube channel"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/5529",
+      "description": "Post about pSTAKE liquid staking on Optimism "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/5371",
+      "description": "Post about new L2 opBNB built on OP Stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/5154",
+      "description": "Post about Cashmere Labs Testnet on different networks including Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/4864",
+      "description": "Post about new L2 Base built on OP Stack + guide with activities"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://2top.notion.site/Base-33950263dc0741c1a8cdfb72a6abc574",
+      "description": "Guide about activities on Base"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/4808",
+      "description": "Post about Optimism Airdrop #2"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/4607",
+      "description": "Post about active users in different networks including Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/4581",
+      "description": "Post about DOUBLETOP narrative for 2023. L2s are prio1 "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/4498",
+      "description": "Post about Optimism with guide about quests on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://2top.notion.site/Optimism-545c38c8f91a432db760f6a3a6cb8360",
+      "description": "Guide published on DOUBLETOP Telegram channel about quests on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/4411",
+      "description": "Post about the most perspective web3 projects - Optimism is one of these"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/4392",
+      "description": "Post about Optimism and Optimism quests"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/4216",
+      "description": "Post featuring job application for Optimism Head of Security"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/4190",
+      "description": "Post about Optimism - prio1 project with good utility for users"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/4043",
+      "description": "Post featuring Optimism TVL month by month increase + OP Summer Incentives"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/3852",
+      "description": "Post about about Synthetix with guide-overview"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://2top.notion.site/Synthetix-2a94b7decc01418b86e80282252ca3c2",
+      "description": "Full guide and research about Synthetix. Published on DOUBLETOP Telegram"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/3843",
+      "description": "Post featuring dApps on Optimism with infographics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/3818",
+      "description": "Post about pools on Velodrome + Lyra + Thales "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/3722",
+      "description": "Post with guide to Optimism we have translated "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://teletype.in/@markusrichardofficial/beginnersguidetooptimism",
+      "description": "The guide to Optimism we translated and published on our TG channel "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/doubletop/2749",
+      "description": "Post featuring Uniswap adding Optimism network"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/doubletop_io/status/1685218915238965248",
+      "description": "Tweet about pSTAKE liquid staking on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/doubletop_io/status/1667199520864624640",
+      "description": "Tweet about Optimism upgrade and fees reduction"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/doubletop_io/status/1624743312312750082",
+      "description": "Tweet featuring all the important features people need to know about OP airdrop"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/doubletop_io/status/1664563002324971520",
+      "description": "Tweet about Optimism network upgrade and its effects"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/doubletop_io/status/1661749281987133440",
+      "description": "Tweet about Optimism NFT Quests + guide"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://2top.notion.site/Optimism-NFTs-Quests-Guide-a9cc67ada1bf4692b89d45ec072b0abd",
+      "description": "Optimism Quests guide we published on our Twitter channel"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": "11100",
+      "url": "https://t.me/doubletop/5778"
+    },
+    {
+      "description": "Views",
+      "number": "8640",
+      "url": "https://t.me/doubletop/5825"
+    },
+    {
+      "description": "Views",
+      "number": "1700",
+      "url": "https://www.youtube.com/watch?v=-0Kj3-vagDU"
+    },
+    {
+      "description": "Views",
+      "number": "10700",
+      "url": "https://t.me/doubletop/5529"
+    },
+    {
+      "description": "Views",
+      "number": "12500",
+      "url": "https://t.me/doubletop/5371"
+    },
+    {
+      "description": "Views",
+      "number": "14000",
+      "url": "https://t.me/doubletop/5154"
+    },
+    {
+      "description": "Views",
+      "number": "13500",
+      "url": "https://t.me/doubletop/4864"
+    },
+    {
+      "description": "Views",
+      "number": "13000",
+      "url": "https://t.me/doubletop/4808"
+    },
+    {
+      "description": "Views",
+      "number": "11900",
+      "url": "https://t.me/doubletop/4607"
+    },
+    {
+      "description": "Views",
+      "number": "12100",
+      "url": "https://t.me/doubletop/4581"
+    },
+    {
+      "description": "Views",
+      "number": "14700",
+      "url": "https://t.me/doubletop/4498"
+    },
+    {
+      "description": "Views",
+      "number": "12700",
+      "url": "https://t.me/doubletop/4411"
+    },
+    {
+      "description": "Views",
+      "number": "16600",
+      "url": "https://t.me/doubletop/4392"
+    },
+    {
+      "description": "Views",
+      "number": "13400",
+      "url": "https://t.me/doubletop/4216"
+    },
+    {
+      "description": "Views",
+      "number": "19700",
+      "url": "https://t.me/doubletop/4190"
+    },
+    {
+      "description": "Views",
+      "number": "17800",
+      "url": "https://t.me/doubletop/4043"
+    },
+    {
+      "description": "Views",
+      "number": "17400",
+      "url": "https://t.me/doubletop/4035"
+    },
+    {
+      "description": "Views",
+      "number": "17600",
+      "url": "https://t.me/doubletop/3852"
+    },
+    {
+      "description": "Views",
+      "number": "19700",
+      "url": "https://t.me/doubletop/3843"
+    },
+    {
+      "description": "Views",
+      "number": "20900",
+      "url": "https://t.me/doubletop/3818"
+    },
+    {
+      "description": "Views",
+      "number": "37500",
+      "url": "https://t.me/doubletop/3722"
+    },
+    {
+      "description": "Views",
+      "number": "11300",
+      "url": "https://t.me/doubletop/2749"
+    },
+    {
+      "description": "Views",
+      "number": "1900",
+      "url": "https://twitter.com/doubletop_io/status/1685218915238965248"
+    },
+    {
+      "description": "Views",
+      "number": "780",
+      "url": "https://twitter.com/doubletop_io/status/1667199520864624640"
+    },
+    {
+      "description": "Views",
+      "number": "889",
+      "url": "https://twitter.com/doubletop_io/status/1624743312312750082"
+    },
+    {
+      "description": "Views",
+      "number": "614",
+      "url": "https://twitter.com/doubletop_io/status/1664563002324971520"
+    },
+    {
+      "description": "Views",
+      "number": "574",
+      "url": "https://twitter.com/doubletop_io/status/1661749281987133440"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "We have not received any grants and there are no funding sources. "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x88f30d4bea5c59624c8d99b967ea34559f7bcadf9783e1d6ac2849cf3a4fd843",
+  "prelimResult": "Remove",
+  "reportReason": "Not sure this is within the retropgf scope"
+}

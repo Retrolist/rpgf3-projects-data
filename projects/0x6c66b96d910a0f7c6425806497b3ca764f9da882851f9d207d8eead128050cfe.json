@@ -1,0 +1,61 @@
+{
+  "bio": "NFT artist and collector",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "888Vigilantes",
+  "websiteUrl": "https://opensea.io/collection/888vigilantes",
+  "applicant": {
+    "address": {
+      "address": "0xE240CaE95866BEE29a0d94B2030096B6Fe0446E0",
+      "resolvedName": {
+        "address": "0xE240CaE95866BEE29a0d94B2030096B6Fe0446E0",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE240CaE95866BEE29a0d94B2030096B6Fe0446E0"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE240CaE95866BEE29a0d94B2030096B6Fe0446E0.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE240CaE95866BEE29a0d94B2030096B6Fe0446E0.png",
+    "id": "OptimistProfile|0xe853722fc7749d85f1f44860c624ea120df7a6503d24aa1a232f297aa6a8d9f3"
+  },
+  "impactDescription": "Delegated and bought NFT collection\nDetailed document explaining your thoughts on the standard template (looking at this issue as an example)\nHighlighted key points of improvement overall\nHighlighted key points for additional information\nThoughts on structure and ease of access to required materials\nA better contributor experience means more tasks get done\nMore tasks get done means more work gets done\nMore work gets done means more RPGF for everyone!",
+  "contributionDescription": "Detailed document explaining your thoughts on the standard template (looking at this issue as an example)\nHighlighted key points of improvement overall\nHighlighted key points for additional information\nThoughts on structure and ease of access to required materials\nA better contributor experience means more tasks get done\nMore tasks get done means more work gets done\nMore work gets done means more RPGF for everyone!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x9ac4d33662db47f906b875221c9f1b610c8ab23c4158f9c813470ceba469d254",
+      "description": "NFT project"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "ATTEST",
+      "number": "10",
+      "url": "https://optimistic.etherscan.io/tx/0x0ea129f14b7b39d1572d5a0cbb9e2ebe41794fb2a12f3649e11bdb823d6a3254"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 999,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10001,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6c66b96d910a0f7c6425806497b3ca764f9da882851f9d207d8eead128050cfe",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

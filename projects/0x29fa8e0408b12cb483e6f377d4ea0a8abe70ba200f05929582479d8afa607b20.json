@@ -1,0 +1,54 @@
+{
+  "bio": "I am a 36 years old budding Research Scholar Physicist boy.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Kuntal Kumar Ghosh",
+  "websiteUrl": "https://de.fi/account/0x8Fe90E1618b97f30E043107ACe36aF91AcD1a1A3",
+  "applicant": {
+    "address": {
+      "address": "0x8Fe90E1618b97f30E043107ACe36aF91AcD1a1A3",
+      "resolvedName": {
+        "address": "0x8Fe90E1618b97f30E043107ACe36aF91AcD1a1A3",
+        "name": "kuntal-kumar-ghosh-1987.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8Fe90E1618b97f30E043107ACe36aF91AcD1a1A3"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8Fe90E1618b97f30E043107ACe36aF91AcD1a1A3.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x5108379d21b479df3270368c2c6becc26f3ba61eb6f0f994846a4a2ca733393d"
+  },
+  "impactDescription": "1. My public tweets on twitter about various Optimism based Proposals and Projects brought about my public awareness and popularity of the Optimism Ecosystem.\n\n2. By directly participating in the Governance of the Optimism Ecosystem through my voting, I have impacted the various policies of the Optimism Collective very much.\n\n3. By spending a lot of Gas Fees on various Dapps, DEXes, etc. in the Optimism Ecosystem, I have contributed to Optimism Collective's Revenue generations extensively.",
+  "contributionDescription": "My Wallet Address used by me to explore Optimism Environment is as follows:-\n\n\"0x8Fe90E1618b97f30E043107ACe36aF91AcD1a1A3\".\n\n1. I have extensively participated in the voting of most of the Optimism Proposals since it was first publicly launched. \n\n2. I have extensively checked out various Optimism based Dapps so far, be it several DEXes or DeFi Protocols and so on. I am a heavy user on various Optimism Protocols, Services and Dapps spending lots of Gas Fees. Thus, I help in the running of the ecosystem smoothly by testing out Dapps and DEXes, etc. \n\n3. I have also collected so many important NFTs in Optimism, some of which belong to the Optimism Collective while the rest are connected to the Token House. I have performed important Layer3 website tasks related to Optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://de.fi/account/0x8Fe90E1618b97f30E043107ACe36aF91AcD1a1A3",
+      "description": "The URL shows amount of funds that I hold on and how I interact with Optimism."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "> 1",
+      "number": "0",
+      "url": "https://twitter.com/exploretoknow"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 4157,
+      "description": "I received around 4157 OP Tokens in total from Optimism Foundation Airdrops."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x29fa8e0408b12cb483e6f377d4ea0a8abe70ba200f05929582479d8afa607b20",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

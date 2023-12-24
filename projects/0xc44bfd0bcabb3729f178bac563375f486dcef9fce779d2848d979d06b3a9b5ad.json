@@ -1,0 +1,48 @@
+{
+  "bio": "American Indian lead protocol integrating trusts with DAOs ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Copper Protocol",
+  "websiteUrl": "https://coppernetwork.io",
+  "applicant": {
+    "address": {
+      "address": "0x3D9dA641741447784298a2D58DB0ee5801dCabbd",
+      "resolvedName": {
+        "address": "0x3D9dA641741447784298a2D58DB0ee5801dCabbd",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3D9dA641741447784298a2D58DB0ee5801dCabbd"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3D9dA641741447784298a2D58DB0ee5801dCabbd.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3D9dA641741447784298a2D58DB0ee5801dCabbd.png",
+    "id": "OptimistProfile|0x8bee782811bde7dd9106de165833962b17dc0582ded62f3432212380af78dbc3"
+  },
+  "impactDescription": "Our forthcoming contributions mark the beginning of a valuable partnership with the Optimism Collective. We're eager to expand the ecosystem, attract new participants, and enhance Optimism's efficiency and cost-effectiveness. Together, we'll make a positive impact.\n",
+  "contributionDescription": "Contribution(s) to Optimism:\n\nWhile we are a new protocol and have not yet deployed on Optimism, we are excited to bring our innovative technology to this Layer 2 solution. Our plans include seamless integration with Optimism to provide enhanced benefits to its growing user base.\n\nBenefits to Optimism:\n\nBy integrating our protocol with Optimism, we aim to contribute to its ecosystem by attracting new users and projects. This partnership will expand Optimism's offerings, making it a more attractive choice for users seeking efficient and cost-effective solutions.\n\nRetroPGF Allocation:\n\nTo kickstart our collaboration, we kindly request a RetroPGF allocation of 25,000 OP tokens. These tokens will facilitate our deployment on Optimism and contribute to the growth of the ecosystem. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Copper-Protocol",
+      "description": "Our github repositiory"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "N/A",
+      "number": "0",
+      "url": "https://github.com/Copper-Protocol"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xc44bfd0bcabb3729f178bac563375f486dcef9fce779d2848d979d06b3a9b5ad",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

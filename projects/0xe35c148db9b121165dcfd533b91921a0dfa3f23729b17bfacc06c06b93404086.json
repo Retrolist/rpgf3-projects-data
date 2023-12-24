@@ -1,0 +1,64 @@
+{
+  "bio": "Dreamer, artist envisioning twin flame life, exploring for hope in a creativity.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Chardkac",
+  "websiteUrl": "https://instagram.com/chardkac/",
+  "applicant": {
+    "address": {
+      "address": "0xaDbc604e3d03e9a1Cc42Bc6Bd6055cAB15304dA2",
+      "resolvedName": {
+        "address": "0xaDbc604e3d03e9a1Cc42Bc6Bd6055cAB15304dA2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xaDbc604e3d03e9a1Cc42Bc6Bd6055cAB15304dA2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xaDbc604e3d03e9a1Cc42Bc6Bd6055cAB15304dA2.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xaDbc604e3d03e9a1Cc42Bc6Bd6055cAB15304dA2.jpeg",
+    "id": "OptimistProfile|0xf09b09e4dc0d3bed3ed2f4b1a9866c518531d46daa3660b141b7dc1ecada2b28"
+  },
+  "impactDescription": "I'm relatively new to the crypto scene, so I'm not a seasoned pro. Nonetheless, my contributions to Optimism have positively impacted the end user experience and adoption within the Collective. I've focused on making the platform more user-friendly and accessible, particularly for individuals like myself on the autism spectrum.In addition, my efforts in building a welcoming community have helped introduce newcomers to the Optimism Collective. By creating an inclusive environment, I've contributed to expanding the user base and making Optimism more inviting to a wider audience.In summary, while I may not be a crypto expert, my work has made a difference in improving the user experience and bringing new users into the fold at Optimism.",
+  "contributionDescription": "As a free-spirited hippie, traveler, and dreamer, my unique journey intersects with the Optimism network. It's essential to mention that I am on the autism spectrum, and I find solace and effective communication primarily through the internet. Within this digital realm, I've forged a vision of existence shared with a twin flame in a rustic cabin, while embarking on a transformative exploration of the crypto landscape. Through my contributions to Optimism, I strive to cultivate hope for a new, creative, and open community on this new earth we collectively envision. My role within this network is not only technical but also deeply philosophical, driven by a desire to foster a harmonious existence that transcends the boundaries of traditional systems.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x867b32c8c09ee78fe50b5215739ecffb6393d3ba?a=1",
+      "description": "Start NFT"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x2335022c740d17c2837f9c884bfe4ffdbf0a95d5?a=991856332852425286913663741199436292904157466018",
+      "description": "My Avatar"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "buy nft",
+      "number": "5",
+      "url": "https://optimistic.etherscan.io/token/0x945dc9bd590482478fd2b7ff79a9217fd40bd726?a=102048"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 50,
+      "description": "From Coinbase Wallet quest. "
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 3,
+      "description": "Bought NFT"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe35c148db9b121165dcfd533b91921a0dfa3f23729b17bfacc06c06b93404086",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

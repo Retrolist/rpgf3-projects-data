@@ -1,0 +1,78 @@
+{
+  "bio": "Coinbold is a website where you can find news about different cryptocurrencies",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Coinbold",
+  "websiteUrl": "https://coinbold.io/",
+  "applicant": {
+    "address": {
+      "address": "0x9C8cc9735005A7424eBF868105fCC93adf6073b0",
+      "resolvedName": {
+        "address": "0x9C8cc9735005A7424eBF868105fCC93adf6073b0",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9C8cc9735005A7424eBF868105fCC93adf6073b0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9C8cc9735005A7424eBF868105fCC93adf6073b0.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9C8cc9735005A7424eBF868105fCC93adf6073b0.png",
+    "id": "OptimistProfile|0x70ab0efbf8c2c9dd235052be6684228c3de34a5df1dd04d3f25ca71a0c33e6f0"
+  },
+  "impactDescription": "We believe that by giving clear information about the project, our readers will be able to see it from a wider, more objective perspective. We believe that when information is presented completely and impartially rather than with bias, readers are more likely to choose to stick with the project.",
+  "contributionDescription": "Dear Optimism team,\n\nWe welcome you to our optimism journey. Our team strives to give readers the most insightful Optimism project updates. With 3000 to 5000 daily website visitors, we have built a vibrant community of engaged readers who are passionate about Optimism's transformative potential.\n\nPartnering with us gives you exposure and access to a growing audience. We can strengthen Optimism's impact and reach by building a long-term relationship. As our audience grows, we are committed to improving our efforts to make our collaboration with Optimism a beacon of innovation and inspiration.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://coinbold.io/optimism-mainet-set-to-upgrade-to-bedrock-on-june-6th/",
+      "description": "( blog ) Optimism Mainet set to Upgrade to Bedrock on June 6th"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://coinbold.io/farcasters-decentralized-social-media-moves-to-op-mainnet-layer-2-network/",
+      "description": "(Blog) Farcaster\u2019s Decentralized Social Media Moves to OP Mainnet Layer 2 Net..."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://coinbold.io/coinbase-ensures-robust-security-assessments-as-base-mainnet-launch-nears/",
+      "description": "(blog) Coinbase Ensures Robust Security Assessments as Base Mainnet Launch Nears"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://coinbold.io/op-stack-emerges-as-the-rising-star-in-layer-2-chain-development-attracting-3-billion-tvl/",
+      "description": "(blog) OP Stack Emerges as the Rising Star in Layer 2 ...."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://coinbold.io/circles-usdc-now-live-on-op-mainnet-and-base-a-smooth-ride-for-developers-and-users/",
+      "description": "(Blog) Circle\u2019s USDC Now Live on OP Mainnet and Base..."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://coinbold.io/optimism-announces-sale-of-116-million-op-tokens-what-to-expect/",
+      "description": "(Blog) Optimism Announces Sale of 116 Million OP Tokens: What to Expect"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Google Analytics",
+      "number": "1",
+      "url": "https://analytics.google.com/analytics/web/#/p302762696/reports/explorer?params=_u.dateOption%3Dlast90Days%26_u.comparisonOption%3Ddisabled%26_u..nav%3Dmaui%26_r.explorerCard..sortKey%3DscreenPageViews%26_r.explorerCard..selmet%3D%5B%22screenPageViews%22,%22userEngagementDurationPerUser%22%5D&r=all-pages-and-screens&ruid=all-pages-and-screens,life-cycle,engagement&collectionId=life-cycle"
+    },
+    {
+      "description": "Quick-view spreadsheets",
+      "number": "1",
+      "url": "https://docs.google.com/spreadsheets/d/1ZdC8H_9y8L26HDKkuQkkwUhVRp3rOYL6wabJ8SnL_qI/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7cf3ed5c483080c5b132ff4902b425e20d9cb4c8c737154cefa6005a7bfc12d5",
+  "prelimResult": "Keep",
+  "reportReason": "promises future work/impact",
+  "includedInBallots": 9,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

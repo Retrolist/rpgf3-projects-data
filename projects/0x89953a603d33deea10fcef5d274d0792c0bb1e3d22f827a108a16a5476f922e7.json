@@ -1,0 +1,52 @@
+{
+  "bio": "Hi, I'm the successful Optimism Collective",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "nikuyaki",
+  "websiteUrl": "https://twitter.com/SiscaChatalis",
+  "applicant": {
+    "address": {
+      "address": "0xb17e67ea75880420c4cf9Fdd4c57E28cBFf4C433",
+      "resolvedName": {
+        "address": "0xb17e67ea75880420c4cf9Fdd4c57E28cBFf4C433",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xb17e67ea75880420c4cf9Fdd4c57E28cBFf4C433"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb17e67ea75880420c4cf9Fdd4c57E28cBFf4C433.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb17e67ea75880420c4cf9Fdd4c57E28cBFf4C433.png",
+    "id": "OptimistProfile|0xfb93c9999171e42ae181c0d7018d9dd3910db4a55018acf28c2c6fef168ec476"
+  },
+  "impactDescription": "I want to help whatever it is, I have a lot of experience in the RetroPGF field. The Optimism Collective\u2019s third round of Retroactive Public Goods Funding (RetroPGF) will take place in fall of 2023. RetroPGF 3 will allocate 30m OP tokens to reward contributions that have supported the development and adoption of Optimism.\n\n",
+  "contributionDescription": "I want to help whatever it is, I have a lot of experience in the RetroPGF field. The Optimism Collective\u2019s third round of Retroactive Public Goods Funding (RetroPGF) will take place in fall of 2023. RetroPGF 3 will allocate 30m OP tokens to reward contributions that have supported the development and adoption of Optimism.\n\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/SiscaChatalis",
+      "description": "yes"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#download",
+      "number": "1",
+      "url": "https://twitter.com/SiscaChatalis"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": "yes"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x89953a603d33deea10fcef5d274d0792c0bb1e3d22f827a108a16a5476f922e7",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

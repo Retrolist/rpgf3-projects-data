@@ -1,0 +1,113 @@
+{
+  "bio": "Zonic is a \"Superchain-compatible\" NFT Marketplace made for optimal efficiency.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Zonic : The Superchain-compatible NFT Marketplace",
+  "websiteUrl": "https://zonic.app",
+  "applicant": {
+    "address": {
+      "address": "0xd3eFbc65713C307d3057b7E0979A996F6A9799AC",
+      "resolvedName": {
+        "address": "0xd3eFbc65713C307d3057b7E0979A996F6A9799AC",
+        "name": "zonicapp.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xd3eFbc65713C307d3057b7E0979A996F6A9799AC"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd3eFbc65713C307d3057b7E0979A996F6A9799AC.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd3eFbc65713C307d3057b7E0979A996F6A9799AC.png",
+    "id": "OptimistProfile|0xbcf30f0a9fc42c559f5d0df737de3efd9e0b9d2e2c7ea911261409f25e6c30f6"
+  },
+  "impactDescription": "Zonic has enriched the Optimism ecosystem through both B2C and B2B2C approaches. While our B2C initiatives are detailed elsewhere, we also support businesses leveraging the full OP stack.\n\nFor B2B2C, we guide entities looking to integrate an NFT marketplace within their blockchain using the OP stack.\n\nAnticipating the growth of Layer-2 networks, we understood that building a thriving ecosystem around them is challenging. Hence, Zonic introduced a \"Superchain-compatible\" NFT Marketplace, streamlining integration for businesses.\n\nRecently, we've quickly integrated blockchains like Base Goerli, Base Mainnet, and Zora. Notably, Base Goerli was incorporated just an hour after its launch, highlighting our proactive approach and the value we add to the OP stack ecosystem.",
+  "contributionDescription": "Zonic has significantly bolstered the Optimism network, becoming a frontrunner in the NFT arena. Our high-liquidity NFT marketplace serves as a central hub, simplifying exchanges for creators, traders, and artists. This eliminates the need for custom in-app NFT marketplaces, making the experience more user-friendly.\n\nWe've also championed artists, helping them display their work on Optimism, enriching the platform's diversity. This has spiked transaction volumes, energizing the ecosystem.\n\nBeyond just a marketplace, we've introduced captivating activities on Optimism, drawing more users and enhancing its stature among NFT aficionados.\n\nLastly, our dedicated Discord community stands ready to assist users, ensuring a smooth NFT journey on Optimism for everyone.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x11c9e50dfde606a864a25726d174faf947626f3d",
+      "description": "Our NFT Marketplace smart contract"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/zonicapp",
+      "description": "Our NFT Marketplace smart contract is open sourced"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zonic.app",
+      "description": "Main Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://testnet.zonic.app",
+      "description": "Testnet Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.gg/zonic",
+      "description": "Discord Server"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Optimism Trading Volume on Zonic (ETH)",
+      "number": "161.7056",
+      "url": "https://zonic.app/insights"
+    },
+    {
+      "description": "Base Trading Volume on Zonic (ETH)",
+      "number": "2.76",
+      "url": "https://zonic.app/insights"
+    },
+    {
+      "description": "Optimism total TX on Zonic",
+      "number": "7090",
+      "url": "https://optimistic.etherscan.io/address/0x11c9e50DFDE606a864a25726D174fAf947626f3d"
+    },
+    {
+      "description": "Base total TX on Zonic",
+      "number": "5787",
+      "url": "https://basescan.org/address/0xdc7d3F21132e7fa9df6602A6E87fcbD49183A728"
+    },
+    {
+      "description": "Optimism NFTs listed on Zonic",
+      "number": "4067",
+      "url": "https://zonic.app"
+    },
+    {
+      "description": "Base NFTs listed on Zonic",
+      "number": "14330",
+      "url": "https://zonic.app"
+    },
+    {
+      "description": "Optimism collection listed on Zonic",
+      "number": "307469",
+      "url": "https://zonic.app"
+    },
+    {
+      "description": "Base collection listed on Zonic",
+      "number": "145942",
+      "url": "https://zonic.app"
+    },
+    {
+      "description": "Optimism, Base unique wallet on Zonic",
+      "number": "10124",
+      "url": "https://zonic.app"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 6500,
+      "description": "We collected 2.5% marketplace fee for each sell made on the platform"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xc006760fd9e200525b623bdef2ad95baf217dff39971d05533d69af04f81e739",
+  "prelimResult": "Remove",
+  "reportReason": "Did not disclose RPGF2 funding from the launchpad built by this team. https://retropgfhub.com/archive/round2/Apetimism%20Launchpad"
+}

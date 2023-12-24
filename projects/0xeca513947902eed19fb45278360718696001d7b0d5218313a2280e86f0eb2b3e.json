@@ -1,0 +1,52 @@
+{
+  "bio": "i like travel on op mainnet",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "icooh",
+  "websiteUrl": "https://twitter.com/zhangshenghui7",
+  "applicant": {
+    "address": {
+      "address": "0x158970aB077aE060c96785E43E003926547B58f9",
+      "resolvedName": {
+        "address": "0x158970aB077aE060c96785E43E003926547B58f9",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x158970aB077aE060c96785E43E003926547B58f9"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x549ff442f77609697830d4ec3b65010b71448269f9d99ff6b1225730b372d129"
+  },
+  "impactDescription": "many users follow to use op mainnet.\ni                                          love \nFrom Austin: \"I think the thing I'm most Optimistic about is what's gonna happen on the application layer...[when] we have everything we need for people to start shipping applications on blockchain and start getting mainstream audiences to start engaging with these apps.\"\n\nBuidlGuidl helps onboard and educate new developers to the Ethereum ecosystem with teaching materials and tools to help them hit the ground running. It also provide mentoring and incentivize through its grant-giving arm.\n\ngovetnment\nfinish op 18 nft",
+  "contributionDescription": "5000op\ni just sign up before it end.\nYou are rewarding everyone , how long do you think untill they start leaving the chain? I already dumped all my OP and withdrew funds to Arbitrum.Announcing the first mainnet release of Taproot Assets \ud83e\udd55, a protocol for assets on #bitcoin and Lightning.\n\nWith this release, developers can issue financial assets on-chain in a scalable manner. \ud83d\udcb1",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/zhangshenghui7",
+      "description": "forever"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "gub",
+      "number": "2000",
+      "url": "https://twitter.com/zhangshenghui7"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1033,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xeca513947902eed19fb45278360718696001d7b0d5218313a2280e86f0eb2b3e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

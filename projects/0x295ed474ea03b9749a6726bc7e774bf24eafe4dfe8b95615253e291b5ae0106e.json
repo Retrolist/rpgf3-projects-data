@@ -1,0 +1,45 @@
+{
+  "bio": "in crypto since 2017, degen score holder",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Sergei",
+  "websiteUrl": "https://debank.com/profile/0xa77ce92a601d504a6d64af843eb5a3994616969c",
+  "applicant": {
+    "address": {
+      "address": "0xa77CE92A601D504a6D64af843EB5a3994616969c",
+      "resolvedName": {
+        "address": "0xa77CE92A601D504a6D64af843EB5a3994616969c",
+        "name": "play-casino.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xa77CE92A601D504a6D64af843EB5a3994616969c"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa77CE92A601D504a6D64af843EB5a3994616969c.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb0f72dd6e02d59d7eb9d5c9047d52a55f6a4917b3d90c46706db8c2256d3663b"
+  },
+  "impactDescription": "The Purpose of the \"Optimism Degenset\" Project:\n\nTo bring together \"Optimism\" network members interested in improving their financial knowledge and investment skills.\n\nTo develop and launch the \"Optimism Degenset\" web platform, offering the following features:\n\nWallet Ratings: Users will be able to evaluate and compare their investment portfolios, receiving feedback from the community.\n\nCollaborations: Mechanisms will be created to facilitate participation in joint investment projects and research.\n\nExclusive Bonuses: Users with high ratings will gain access to exclusive offers and bonuses from partners within the \"Optimism\" network.\n\nNFT Ratings: Wallet ratings will be represented as unique NFTs, making them even more appealing to participants.",
+  "contributionDescription": "We are reaching out to you with a request for a grant to realize our ambitious initiative \u2014 the creation of the \"Optimism Degenset\" platform. Our goal is to unite users within the \"Optimism\" network, providing them with opportunities to enhance their financial knowledge, participate in collaborative projects within the network, and improve their financial well-being by granting access to exclusive bonuses and privileges.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "http://degenset.io",
+      "description": "under construction"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "new users",
+      "number": "20000",
+      "url": "http://degenset.io"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x295ed474ea03b9749a6726bc7e774bf24eafe4dfe8b95615253e291b5ae0106e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,165 @@
+{
+  "bio": "Education brand helping people explore DeFi with relevant research and tutorials",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "The Rollup",
+  "websiteUrl": "https://www.therollup.co",
+  "applicant": {
+    "address": {
+      "address": "0xda9F0E0B550dD09A3751Ccb0f6c07Eea3E5264F3",
+      "resolvedName": {
+        "address": "0xda9F0E0B550dD09A3751Ccb0f6c07Eea3E5264F3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xda9F0E0B550dD09A3751Ccb0f6c07Eea3E5264F3"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xda9F0E0B550dD09A3751Ccb0f6c07Eea3E5264F3.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xda9F0E0B550dD09A3751Ccb0f6c07Eea3E5264F3.png",
+    "id": "OptimistProfile|0x5684b129f636b0ec0a6ae4eceeabbc02661ef26859636a62644a9b230f157600"
+  },
+  "impactDescription": "The Rollup contributes to Optimism by providing educational content, fostering community discussions, and promoting the project to a wider audience. These contributions can help increase the adoption of the project, attract new contributors, and provide valuable feedback to the project team. This platform adds an educational public good for the entire industry to benefit from and learn more about crypto. Our content has helped users navigate DeFi better, protocols receive awareness about their project, and further aimed to bring the entire Optimism community to light.\n",
+  "contributionDescription": "The Rollup is an educational hub acting as a public good that has addressed the need for reliable and accessible information in the rapidly evolving world of DeFi. It has primarily catered to power users, developers, builders, and early contributors to DeFi, providing them with a wealth of resources to stay updated and informed about the latest trends across Ethereum, Layer 2 solutions, and other innovative blockchains.\n\nThe Rollup has solved the problem of information overload and complexity in the DeFi space by offering a podcast, a newsletter, and a community platform. These resources provide easy to understand education and relevant research, training users to use onchain tools with confidence and gain an edge in their activities.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://therollup.co/%f0%9f%93%88-airdrop-hunt-fusionx-testnet-mantle-ecosystem-op-stack/",
+      "description": "We explore the exciting new ecosystem of Mantle, and their choice of OP Stack, "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://therollup.co/%f0%9f%93%88-optimism-controversial-airdrop-3-criteria-specifications-our-thoughts/",
+      "description": "Details on how to delegate and what to do to be eligible for the next airdrop"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://therollup.co/%f0%9f%92%ac-bridges-building-through-the-bear-and-optimism-ecosystem-with-hop-protocol/",
+      "description": "Discussing  the Optimism chain and how Hop Protocol is helping to boost TVL "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://therollup.co/%f0%9f%92%ac-unleashing-on-chain-options-w-vega-protocol/",
+      "description": "Unleashing On-Chain Options w Barney Mannerings, Co-Founder of Vega Protocol"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://therollup.co/%f0%9f%8e%99-defi-by-design-ep67-multichain-yield-optimization-with-beefy-finance/",
+      "description": "\ud83c\udf99 DeFi by Design EP67: Multichain Yield Optimization with Beefy Finance"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://therollup.co/wiretap-wednesday-best-yield-farming-opportunity-in-defi-2021/",
+      "description": "Wiretap Wednesday: BEST Yield Farming Opportunity In DeFi 2021!?!?"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://therollup.co/master-it-monday-using-backstop-protocol-to-increase-yield-on-makerdao-vaults/",
+      "description": "Master It Monday: Using Backstop Protocol to Increase Yield on MakerDAO Vaults"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://therollup.co/%f0%9f%8e%99defi-by-design-ep-106-exploring-the-sportsfi-vertical/",
+      "description": "\ud83c\udf99DeFi by Design EP 106: Exploring the SportsFi Vertical"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://therollup.co/%f0%9f%93%88-how-to-bet-with-tight-vigs-on-non-custodial-overtime-markets/",
+      "description": "\ud83d\udcc8 How to bet with tight vigs on non-custodial Overtime Markets"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1ULw4lLA6r4VuUSA7gfts_M8l7avVzjPvBnRGziifO6s/edit?usp=sharing",
+      "description": "Optimism Twitter(X) Content Google Doc "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://open.spotify.com/episode/1Tw40RZl8d5VtvnAkJiAhI?si=0f1977e144b144b6",
+      "description": "\ud83c\udf99DeFi by Design EP 106: Exploring the SportsFi Vertical"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://open.spotify.com/episode/7t1cdLWuE5gzefKCirlQ55?si=9e5e51ff33744d11",
+      "description": "\ud83c\udf99 DeFi by Design EP67: Multichain Yield Optimization with Beefy Finance"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ayyyeandy/status/1691150474768953410?s=20",
+      "description": "Video showing how to trade on overtime markets on optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ayyyeandy/status/1665816927103533060",
+      "description": "Video explaining Toros vaults "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ayyyeandy/status/1684157608049901568",
+      "description": "Long form post about opBNB and the importance of it"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ayyyeandy/status/1671616037492604933",
+      "description": "Optimism data via token terminal"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ayyyeandy/status/1695847473309184306",
+      "description": "OP tokenomics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/therollupco/status/1620873530396254208",
+      "description": "Popular tweet with large engagement about $OP valuation"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/therollupco/status/1700230159373107707",
+      "description": "Video on overtime markets explaining the OP rewards and how to use"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/therollupco/status/1697330381752594487",
+      "description": "Data analytics about Base, OP stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ayyyeandy/status/1714002470182039781",
+      "description": "Long form post about yields on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ayyyeandy/status/1692177561525354683",
+      "description": "long form educational post about rollups (optimism incl)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Impact Metrics Sheet",
+      "number": "1",
+      "url": "https://docs.google.com/document/d/10roiTFMkhEfWL557WqLJ_7tZRWMkgb5p6P69S-6gTdg/edit?usp=sharing"
+    },
+    {
+      "description": "The Rollup Analytics Sheet",
+      "number": "2",
+      "url": "https://docs.google.com/document/d/14P-D2_MRhqXhsbxHiKEmKz2muT8XAtm6/edit?usp=sharing&ouid=102910632857704929051&rtpof=true&sd=true"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "We have collected zero $OP or revenue from Optimism for these contributions."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x406c0658a67a02a00dfc381fe68c05f87de91c4d6238a6ce55d71463f4a77f79",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 22,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

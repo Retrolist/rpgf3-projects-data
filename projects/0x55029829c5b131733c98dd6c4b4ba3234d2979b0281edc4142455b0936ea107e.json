@@ -1,0 +1,53 @@
+{
+  "bio": "Blockchain Expert | Web3 Master | Digital Marketer | Certified Metaverse Expert",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "TheBigMave",
+  "websiteUrl": "https://linktr.ee/thebigmave",
+  "applicant": {
+    "address": {
+      "address": "0x2a239a0dd0d618930803bA540f1669c0e0766877",
+      "resolvedName": {
+        "address": "0x2a239a0dd0d618930803bA540f1669c0e0766877",
+        "name": "moonmaverick.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2a239a0dd0d618930803bA540f1669c0e0766877"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2a239a0dd0d618930803bA540f1669c0e0766877.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2a239a0dd0d618930803bA540f1669c0e0766877.png",
+    "id": "OptimistProfile|0x06e836bd0a5c24a88d03735a815770346f0b2137eb72f7f15432aa242e6809d0"
+  },
+  "impactDescription": "The utility token that facilitates transactions on the Creath Art Marketplace, enables platform governance and empowers its users. CGT holders play a beneficial role in the development of Creath by participating investment opportunities from staking and in decision-making processes.",
+  "contributionDescription": "The Creath Art Marketplace is built on the Ethereum Blockchain and designed to be a digital gallery for artists, curators, collectors, and art lovers. We connect creatives such as traditional artists, digital artists, photographers and sculptors with collectors.\nThe marketplace attracts a global target audience that will participate in the primary sales of our curated collections.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://art.creath.io/marketplace",
+      "description": "NFT Marketplace"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Analytics",
+      "number": "1000",
+      "url": "https://analytics.google.com/analytics/web/#/p387425223/reports/reportinghub?params=_u.comparisonOption%3Ddisabled%26_u..nav%3Dmaui%26_u.dateOption%3Dlast30Days"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 480,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x55029829c5b131733c98dd6c4b4ba3234d2979b0281edc4142455b0936ea107e",
+  "prelimResult": "Remove",
+  "reportReason": "relevant impact (NFTs) is not on Optimism"
+}

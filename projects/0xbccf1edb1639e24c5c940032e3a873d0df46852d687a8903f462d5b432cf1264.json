@@ -1,0 +1,48 @@
+{
+  "bio": "trainer-teacher at a sports school",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "vanadij75",
+  "websiteUrl": "https://twitter.com/vanadij75",
+  "applicant": {
+    "address": {
+      "address": "0x57D3017DB560Ea906E67cEeF0250348793C05053",
+      "resolvedName": {
+        "address": "0x57D3017DB560Ea906E67cEeF0250348793C05053",
+        "name": "vanadij75.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x57D3017DB560Ea906E67cEeF0250348793C05053"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x57D3017DB560Ea906E67cEeF0250348793C05053.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x57D3017DB560Ea906E67cEeF0250348793C05053.png",
+    "id": "OptimistProfile|0x7ac1b0005e702ddb0bef98304471fcad4e849b829d3a03e9ed7971032571eda4"
+  },
+  "impactDescription": "Thanks to you I learned a lot. I also delegated OR tokens to one delegate. You also give us the opportunity to earn money through various projects. Thanks to you, I also started meeting like-minded people on Telegram. I found out that there are such voting platforms as Snapshot.org and Tally.xyz",
+  "contributionDescription": "Thanks to you I got a small drop. I have also invested in various liquidity pools in projects such as Stargate, Velo and so on. As we know, crypto is the future, so I take an active part in various projects where there is an Optimism network. The Galxe.com site also showed itself on the positive side.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xa2be556fb590473eca30819796f4a42d6e2a75d563584e568337b4d3bc96ee4b",
+      "description": "RetroPGF #322"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#",
+      "number": "322",
+      "url": "https://optimistic.etherscan.io/tx/0xa2be556fb590473eca30819796f4a42d6e2a75d563584e568337b4d3bc96ee4b"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xbccf1edb1639e24c5c940032e3a873d0df46852d687a8903f462d5b432cf1264",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

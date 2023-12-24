@@ -1,0 +1,70 @@
+{
+  "bio": "The smart contract wallet made Ethereum safe and easy. #socialRecovery #4337",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Soul Wallet",
+  "websiteUrl": "https://www.soulwallet.io/",
+  "applicant": {
+    "address": {
+      "address": "0xf3F527B70aF6012F328D3edE7fCd3F5F3Ca6CBA2",
+      "resolvedName": {
+        "address": "0xf3F527B70aF6012F328D3edE7fCd3F5F3Ca6CBA2",
+        "name": "zengjiajun.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xf3F527B70aF6012F328D3edE7fCd3F5F3Ca6CBA2"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf3F527B70aF6012F328D3edE7fCd3F5F3Ca6CBA2.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf3F527B70aF6012F328D3edE7fCd3F5F3Ca6CBA2.png",
+    "id": "OptimistProfile|0x7a482bfa9722b7bceaf7af11ec5725aa01929e04457e7bd5b40871db6437cff1"
+  },
+  "impactDescription": "We don't have much data yet since we are going through a close beta testing period. We have deployed multi-testnet contracts, several hundred testnet transactions, and smart contract wallets on Optimism Goerli testnet work. Our team is continuously monitoring performance and gathering feedback. Upcoming updates will further refine the process.",
+  "contributionDescription": "- First asset / keystore separation architecture implementation on Optimism\n  - Which enables Optimism users to change their keys\n  - Sync across multi-networks, including mainnet, arbitrum, scroll, and others\n  - Receive and store tokens without needing to deploy the smart contract wallet\n- The earliest passkey wallet\n  - Create a wallet, send transaction with a face/touch ID\n  - Web-based. No need to download the plugin\n- Permissionless Social recovery with privacy built-in\n  - Your friends won't know your wallet address (until they perform social recovery)\n  - Add any Ethereum wallet addresses as guardian permissionless\n- Basic account abstraction features\n  - Pay gas fee on Optimism with stablecoin\n  - Free/Sponsored wallet creation",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/SoulWallet/soul-wallet-contract/tree/develop",
+      "description": "Project Github page"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0x84e349541369e988685e253ba77c822550eda7ef#code",
+      "description": "latest factory contract to create new wallet"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0xbc1e8c91494e3f62b916ff2f3229fdaa32a1e051#code",
+      "description": "read block hash on L1 to help user perform social recovery"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://hackmd.io/@i275DA5ZRjOAeSFUkffw5Q/H1rQQwY9n",
+      "description": "keystore solution walk through, Optimism as an example"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "N/A",
+      "number": "-1",
+      "url": "https://goerli-optimism.etherscan.io/address/0xbc1e8c91494e3f62b916ff2f3229fdaa32a1e051"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 20325,
+      "description": "Optimism Foundation grant"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x53cb6fdfffcd21aa5dfa3148f22fcbcfded49bafde4545047c2e43279fb0fbb6",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 39,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Wallets"
+}

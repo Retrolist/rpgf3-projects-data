@@ -1,0 +1,45 @@
+{
+  "bio": "DeFi degen ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Creat0r",
+  "websiteUrl": "https://twitter.com/ILikePool2",
+  "applicant": {
+    "address": {
+      "address": "0xF7401728edd23290d8099eD73f155101dCf8CC0C",
+      "resolvedName": {
+        "address": "0xF7401728edd23290d8099eD73f155101dCf8CC0C",
+        "name": "1on1.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xF7401728edd23290d8099eD73f155101dCf8CC0C"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF7401728edd23290d8099eD73f155101dCf8CC0C.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x24d33555552c93f6105ce7095f2b1281ccea0040542618543ffd68d34c9c7017"
+  },
+  "impactDescription": "Actively educating and promoting the Optimism blazing fast and secure network to DeFi end users via multiple channels. Actively trying new Optimism ecosystem projects and introduce those applications to DeFi community when i find the project useful. ",
+  "contributionDescription": "Actively educating and promoting the Optimism blazing fast and secure network to DeFi end users via multiple channels. Actively trying new Optimism ecosystem projects and introduce those applications to DeFi community when i find the project useful. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ILikePool2/status/1682241435930697729?s=20",
+      "description": "tweets"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of views",
+      "number": "2700",
+      "url": "https://x.com/ILikePool2/status/1682241435930697729?s=20"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x683cc066545682db16c429830ab0c77dc9cd70e95107c1bb618f67ff16447c62",
+  "prelimResult": "Remove",
+  "reportReason": "spam"
+}

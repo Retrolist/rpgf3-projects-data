@@ -1,0 +1,87 @@
+{
+  "bio": "Czech podcast about crypto, Ethereum and Layer2s focused on education",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "KryptoSpace",
+  "websiteUrl": " https://www.kryptospace.cz",
+  "applicant": {
+    "address": {
+      "address": "0x6F74d9151532F6faf740Cb1e5092e0D20e34c332",
+      "resolvedName": {
+        "address": "0x6F74d9151532F6faf740Cb1e5092e0D20e34c332",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6F74d9151532F6faf740Cb1e5092e0D20e34c332"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6F74d9151532F6faf740Cb1e5092e0D20e34c332.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6F74d9151532F6faf740Cb1e5092e0D20e34c332.png",
+    "id": "OptimistProfile|0xb9a27e7acd5d491fd5b511e43f2a7ab04fbef148cb158c8e93cc46c6cced81af"
+  },
+  "impactDescription": "Even though it covers crypto in general, the emphasis was always on decentralization and the ideas on which Ethereum was built. Ever since Layer 2s emerged, we have been talking about their advantages and encouraging listeners to start using them, with a big emphasis on Optimism and now the Superchain.\n\nAs its very hard to prove the numbers I am sharing with you the badge from my hosting service (Podbean) for reaching 100k+ listeners early October in Link 1.\n\nSince January 2023 the podcasts are also published on business daily www.e15.cz/kryptospace with short accompanying text to get better reach.",
+  "contributionDescription": "In it's 10 months of existence KryptoSpace has become the go to place if you want to learn something about Ethereum, DeFi or Layer2s in the Czech republic.\nI was a journalist in a Czech business daily trying to bring crypto news & ideas to mainstream media for years.\nTen months ago we started KryptoSpace. The first episode was published the day after the FTX collapsed so we couldn\u2019t have picked a better timing. But even with the bear market the podcast managed to reach over 100k plays in less than 1yr.\nWe have been encouraging listeners to use Layers 2s since 2021 while continuously educating them about all things crypto.\n\nWhat KS covers:\n- Ethereum\n- DeFi\n- L2s (OP, Arb, Base, Zks, Zora..)\n- Education\n- Ideas we build on\nand more\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://open.spotify.com/episode/66gCPn50NbYrVvoGvtAaQ5?si=4a7bcace4b384434",
+      "description": "Episode trying to help to orientate in L2s with big focus on OP,Base and Zora"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://open.spotify.com/episode/2pw6YSu0JVxfQIC9bFWYOV?si=da1d28dbe4ab4339",
+      "description": "Episode on Superchain"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://open.spotify.com/episode/77TOc4AETfh3bdWzJCjQZ4?si=ac24ff5dde2742d7",
+      "description": "Episode on Future of DeFi and Layer2s"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://open.spotify.com/episode/1iZxiBHaHUDRXqfurJB49l?si=a4298541d10d4f23",
+      "description": "Future of Ethereum, L2s, proto-danksharding and more"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Listeners",
+      "number": "105000",
+      "url": "https://www.podbean.com/podcast-downloads-achievements-9mEEVEF07ul1-100000 "
+    },
+    {
+      "description": "Readers",
+      "number": "91000",
+      "url": "https://docs.google.com/spreadsheets/d/1a7UHVI4C26xIRn3WCaJ9TJRgLPjxkWI6DzxbjdGYL8Q/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 3100,
+      "description": "in 10  months from supporters on HeroHero (czech patreon)"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 900,
+      "description": "share of add revenou from articles on E15 (jan-sept)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1500,
+      "description": "partner of the podcast jan-june 23"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xffadcc516ca998e9e94fbb00b9a912c3bcb9d6e1f8f2e87e3d411c61a7ddae40",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 22,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

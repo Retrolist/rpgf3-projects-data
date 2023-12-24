@@ -1,0 +1,71 @@
+{
+  "bio": "Based Nouns is a community-run DAO & NFT project on the Base network.  ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Based Nouns",
+  "websiteUrl": "https://thebasedao.com",
+  "applicant": {
+    "address": {
+      "address": "0xD3Dada2362b12D4fe52BeEBe0Bd0fA1a341F340D",
+      "resolvedName": {
+        "address": "0xD3Dada2362b12D4fe52BeEBe0Bd0fA1a341F340D",
+        "name": "snapintoaslimjim.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xD3Dada2362b12D4fe52BeEBe0Bd0fA1a341F340D"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD3Dada2362b12D4fe52BeEBe0Bd0fA1a341F340D.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x92480f097c1835102d4ae689d15ae99a1e5ee9946aba198e12d1ba1f6ba684fb"
+  },
+  "impactDescription": "We have onboarded many users onto the Base network from Layer 1. In doing so we have educated about the Base Network and in turn the OP stack.\nWe are only getting started but I believe our small contributions with onboarding have played a vital role and made an impact on advancing the Optimism network by onboarding, ecouraging participation, and investments on the Base Network.",
+  "contributionDescription": "To whom it may concern,\nI am applying on behalf of the Based Nouns project.We feel that we have been actively engaging and fostering growth within the Base Network powered by OP. \nOver the past few months we have attracted a substantial following on social media and a user base within our community.\nWe are very proud to say that we have (in collaboration with Nouns Builder) launched one of...if not the first DAO with daily auctions on BASE. We hope to recruit builders through this DAO and eventually fund projects through our treasury wich would further expand the ecosystem. We have also released  NFT collections with over 4K total holders as well as a socialFI DApp with Web3 domain identities. More to come soon!\nThank you for your time. Please see contract links and websites below.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.thebasdao.com",
+      "description": "DAO Website with daily auction"
+    },
+    {
+      "type": "OTHER",
+      "url": "http://www.basednames.xyz",
+      "description": "SocialFi DApp"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/address/0xAeb0c50A48c8355Ce46Ab696c02b9cdE2F30F1e3",
+      "description": "Community Soul Bound Token Contract address"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/address/0xe3c5Ef27B80481518a2363406e354a9361415556",
+      "description": "Lil Based Noun NFT Contract address"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#of community members",
+      "number": "3500",
+      "url": "https://basescan.org/address/0xAeb0c50A48c8355Ce46Ab696c02b9cdE2F30F1e3"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa35852733815089884475191afbbed7c67c94cf6cb3de86eb2cf4e1f136523d7",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 31,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

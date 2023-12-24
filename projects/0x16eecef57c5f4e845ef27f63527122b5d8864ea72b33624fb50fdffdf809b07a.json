@@ -1,0 +1,66 @@
+{
+  "bio": "Onboarding hackathon projects to Gitcoin Grants on OP mainnet",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Learning about OP through Gitcoin Grants",
+  "websiteUrl": "https://explorer.gitcoin.co/#/round/10/0xfb88676220d1dab3b068c86d1ca338794e1b48cf",
+  "applicant": {
+    "address": {
+      "address": "0x591a150574f49245E0D513901A72DaF005E6f997",
+      "resolvedName": {
+        "address": "0x591a150574f49245E0D513901A72DaF005E6f997",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x591a150574f49245E0D513901A72DaF005E6f997"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x591a150574f49245E0D513901A72DaF005E6f997.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x591a150574f49245E0D513901A72DaF005E6f997.png",
+    "id": "OptimistProfile|0xd6dbbb72605429e351b0738beddbf49a30b26477904997b145205f6922949271"
+  },
+  "impactDescription": "Notably, in the African context, where Optimism interactions are less common, this experience served as a valuable introduction to the ecosystem. For those accustomed to the Binance chain, the onboarding process was particularly enlightening. It bridged the gap between Binance's P2P transactions and obtaining OETH, showcasing the significantly reduced gas fees on Optimism. This firsthand experience was valuable in promoting Optimism's adoption within the community and highlighting its cost-efficiency.",
+  "contributionDescription": "By leading the way in onboarding projects as the first hackathon to experiment with Gitcoin Grants stack, I held multiple live sessions in order to introduce teams unfamiliar with Optimism to to the network. This interaction allowed participants to create wallets on the Optimism mainnet, make fund transfers, and create multisig wallets on Safe in order to engage with Gitcoin Grants.\n\nIn order to submit a project teams were asked to learn about how to deploy their hackathon project on Optimism. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.loom.com/share/8d4465f83516472aa0dbe19f095b2f81",
+      "description": "Onboarding video shared with SafariDAO Dev Community "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/1aUX7gGRcxs?si=xRaWbuSQFm82rqXN",
+      "description": "Helping the community transfer funds from Binance P2P to OETH & create multisig"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://taikai.network/ethsafari/hackathons/ethsafari/projects",
+      "description": "Hackathon projects for ETHSafari 2023, these projects deployed on the superchain"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of wallets created (+mutlisig wallets)",
+      "number": "41",
+      "url": "https://explorer.gitcoin.co/#/round/10/0xfb88676220d1dab3b068c86d1ca338794e1b48cf"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 6000,
+      "description": "In order to fund the Gitcoin Grant $6000 in pool was distributed to teams"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x16eecef57c5f4e845ef27f63527122b5d8864ea72b33624fb50fdffdf809b07a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 20,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

@@ -1,0 +1,57 @@
+{
+  "bio": "18+ Yrs Exp in Web3 & Web2 Digital Content Businesses & Partnerships ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Raj ",
+  "websiteUrl": "https://linktr.ee/gauravrajthakur",
+  "applicant": {
+    "address": {
+      "address": "0x0D7389C13e7B47821494db2De1EA13B8cA2A94D7",
+      "resolvedName": {
+        "address": "0x0D7389C13e7B47821494db2De1EA13B8cA2A94D7",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0D7389C13e7B47821494db2De1EA13B8cA2A94D7"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0D7389C13e7B47821494db2De1EA13B8cA2A94D7.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0D7389C13e7B47821494db2De1EA13B8cA2A94D7.png",
+    "id": "OptimistProfile|0x97dc4807fa71c6b46d30b4d7548dc94b258637cf9ff41d596cc9699367a25fbd"
+  },
+  "impactDescription": "I have induced new users via my NFT collection into the Optimism ecosystem.\nI will now get a million users to Optimism by the trivia platform we have created, with telco partnerships. \nQuizmatch is a blockchain and AI-powered GenZ knowledge-monetizing platform available on PC, mobile, and XR, gamified with rewards and digital asset ownership.\nQuizmatch solves the problem of the myriad of digital IPs (apps, games, social networks, websites) that fail to engage and retain users in a meaningful and cost-effective manner.\nOur mission is to fill in a vacuum, the deficiency of human knowledge in today's AI-powered, gaming-focused Gen Z.\nWe've been chosen as an ALPHA startup by Web Summit, the globally significant tech event making its Middle East debut.",
+  "contributionDescription": "I was one of the first creators of BASE NFTs during the OnChain Summer. My NFT collection also trended on OpenSea. Here is the collection link: https://opensea.io/collection/for-the-love-of-base\nI am currently working on a gaming project that will use Optimism as the blockchain and its native token. Here is the product deck for it.\nhttps://docsend.com/view/wmkg4hfmv9tryrj8\n\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/for-the-love-of-base",
+      "description": "This art was created and converted into on-chain art using BASE."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docsend.com/view/wmkg4hfmv9tryrj8",
+      "description": "Product Deck for the on-chain trivia gaming platform we have built on Optimism "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "NFT Purchases ",
+      "number": "9",
+      "url": "https://opensea.io/collection/for-the-love-of-base"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf91eb6db77cccef91ca4543237e230bfd74bdf944391b79eb1c92693c2854b35",
+  "prelimResult": "Remove",
+  "reportReason": "Future impact claim: \"I will now get a million users to Optimism by the trivia platform we have created, with telco partnerships."
+}

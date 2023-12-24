@@ -1,0 +1,52 @@
+{
+  "bio": "Be your self and never surrender",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "zulfa fauzan",
+  "websiteUrl": "https://twitter.com/Zulfafauzan93",
+  "applicant": {
+    "address": {
+      "address": "0x915D72Fd6Cf53c34D6b7C238be60a79d5214C452",
+      "resolvedName": {
+        "address": "0x915D72Fd6Cf53c34D6b7C238be60a79d5214C452",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x915D72Fd6Cf53c34D6b7C238be60a79d5214C452"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x1fa673c902acadc3c3aed64d315195addebd6b79b45b73759104238134c27c46"
+  },
+  "impactDescription": "Support the optimsm network to grow further in the future, be part of a clean community and always support projects developed by developers so that they can achieve common goals both as users, developers or investors. And of course this event is very exciting for me as a user of optimism. ",
+  "contributionDescription": "Fair contributions among all users, I as an optimism user really appreciate a community to develop in the future. with this event, I hope that developers will continue to innovate in the future because users will look forward to a surprise again. and hope that optimism can become its own blockchain, that's what to look forward to. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x915D72Fd6Cf53c34D6b7C238be60a79d5214C452",
+      "description": "This my address"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "NFT",
+      "number": "5270",
+      "url": "https://optimistic.etherscan.io/tx/0x0d4ac024521b0d85f9471178d32c822d146616de17d6a5d5ac3ce2f24328312c"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xdf30a6a2baee8fb61315d43d14b818ae1bb0c65dde90d1def62cffe230a8cfcf",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,55 @@
+{
+  "bio": "HELP HELP MASTER",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Cryptobog",
+  "websiteUrl": "https://twitter.com/_orangemandarin",
+  "applicant": {
+    "address": {
+      "address": "0x1F011c52aaD07A32ff5639A6f2F759b838B30FAB",
+      "resolvedName": {
+        "address": "0x1F011c52aaD07A32ff5639A6f2F759b838B30FAB",
+        "name": "cryptobog.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x1F011c52aaD07A32ff5639A6f2F759b838B30FAB"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1F011c52aaD07A32ff5639A6f2F759b838B30FAB.jpeg",
+    "id": "OptimistProfile|0xae6621ce8190ebc9c45b3756b09a266d0bff816a6fb7ac33050c724073a69440"
+  },
+  "impactDescription": "There are a lot of transactions on the optimism network, I also did tasks with NFT back in the winter.\nI hope you thank your users. \nI put a lot of effort into your NFTs.\nThere were a lot of tasks, and most of them were completed.\nVarious interactions with projects and platforms.\nThe optimism network showed the peak and how they can change fate",
+  "contributionDescription": "almost 500 transactions, very good network, the project needs to be expanded.\nWe also did tasks with NFT.\nThe network is very good and fast.\nThe commission is very small, for which thanks to optimism\nI like optimism. Good work. good job .The best project",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/_orangemandarin",
+      "description": "x"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "rgergre",
+      "number": "2",
+      "url": "https://twitter.com/_orangemandarin"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 54,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x90a826da0d950c882d1e46822a9e8e35905bf4b094fa87812c4a25e635be5860",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

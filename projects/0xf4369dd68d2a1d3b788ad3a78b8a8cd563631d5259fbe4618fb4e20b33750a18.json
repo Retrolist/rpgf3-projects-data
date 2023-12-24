@@ -1,0 +1,54 @@
+{
+  "bio": "Goal oriented ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Kingawo",
+  "websiteUrl": "https://yet-to-be-updated",
+  "applicant": {
+    "address": {
+      "address": "0x15CD1328b9fE4c05a9C668c2FF68A0D5A5D308E2",
+      "resolvedName": {
+        "address": "0x15CD1328b9fE4c05a9C668c2FF68A0D5A5D308E2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x15CD1328b9fE4c05a9C668c2FF68A0D5A5D308E2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xe0fcdbf374fbced96f9c12dda7fc23b1f9deb5eb3f7210d5afdaace9076e31a2"
+  },
+  "impactDescription": "Organised meet-ups to create awareness of crypto and optimism at large. \nHosted campaigns in various cities in my country, some of which included house to house, door to door, office to office, recreation to recreation centers.\nNot to forget, I also visited schools, college and university students who are ICT oriented and looking to explore the sphere of crypto and optimism network at large. \n\nThese are a few and more to come from me.\n\nThanks for the opportunity to do more",
+  "contributionDescription": "Organised meet-ups to create awareness of crypto and optimism at large. \nHosted campaigns in various cities in my country, some of which included house to house, door to door, office to office, recreation to recreation centers.\nNot to forget, I also visited schools, college and university students who are ICT oriented and looking to explore the sphere of crypto and optimism network at large. \n\nThese are a few and more to come from me.\n\nThanks for the opportunity to do more",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/KingAwo_/status/1714946783179137471?t=oETiBqmbqjoj1Z0z96ILow&s=19",
+      "description": "Op"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "5",
+      "number": "100",
+      "url": "https://twitter.com/KingAwo_/status/1714946783179137471?t=oETiBqmbqjoj1Z0z96ILow&s=19"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf4369dd68d2a1d3b788ad3a78b8a8cd563631d5259fbe4618fb4e20b33750a18",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

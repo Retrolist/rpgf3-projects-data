@@ -1,0 +1,52 @@
+{
+  "bio": "https://t.me/allofyourss",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Adlucaz",
+  "websiteUrl": "https://t.me/allofyourss",
+  "applicant": {
+    "address": {
+      "address": "0x50D81ed7F00614Bd221A417d52a6dB321b3eb83E",
+      "resolvedName": {
+        "address": "0x50D81ed7F00614Bd221A417d52a6dB321b3eb83E",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x50D81ed7F00614Bd221A417d52a6dB321b3eb83E"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x50D81ed7F00614Bd221A417d52a6dB321b3eb83E.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x70dbe577c5946df5ce78b988a2717c8bb5c7f12d07ab4b79f123e96a64d3d3a3"
+  },
+  "impactDescription": "Of course I chose the end user experience & adoption category, because it will have an impact on the situation, such as maybe because of fud or not having capital, and that will cause end users, but I will prove it and give my experience so that they trust it again for new users or old user",
+  "contributionDescription": "I want to contribute to the optimistic ecosystem and I am very interested and want to get rewards from RetroPGF, I really look forward to RetroPGF becoming more famous in the future, I also look forward to what tasks have to be done, I hope I can also get prizes from it, that's the reason I want to contribute in the optimism ecosystem, such as RetroPGF",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x50D81ed7F00614Bd221A417d52a6dB321b3eb83E",
+      "description": "LFG"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Social impact metrics",
+      "number": "44",
+      "url": "https://optimismbrewing.com/social-impact"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x063561c3705004075a14ec5f7298fb17ac2e79fb2ceb864d45926342c5f7547c",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

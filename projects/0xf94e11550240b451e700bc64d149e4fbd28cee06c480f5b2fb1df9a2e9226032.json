@@ -1,0 +1,55 @@
+{
+  "bio": "Hello World",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Cryptoproturk",
+  "websiteUrl": "https://t.me/cryptoproturk",
+  "applicant": {
+    "address": {
+      "address": "0xd2d96a74DB5f320708C0eA6280884878779AA75a",
+      "resolvedName": {
+        "address": "0xd2d96a74DB5f320708C0eA6280884878779AA75a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xd2d96a74DB5f320708C0eA6280884878779AA75a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd2d96a74DB5f320708C0eA6280884878779AA75a.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd2d96a74DB5f320708C0eA6280884878779AA75a.jpeg",
+    "id": "OptimistProfile|0xfe48d2c76a3569fd4339ab37026f96021fd41ec1e528a5aa9810af670510ff79"
+  },
+  "impactDescription": "Airdrop or project or comunity Airdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunity",
+  "contributionDescription": "Airdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunityAirdrop or project or comunity",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042?a=0xd2d96a74db5f320708c0ea6280884878779aa75a",
+      "description": "optimisim love you"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "optimisim",
+      "number": "240",
+      "url": "https://app.optimism.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 100000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf94e11550240b451e700bc64d149e4fbd28cee06c480f5b2fb1df9a2e9226032",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

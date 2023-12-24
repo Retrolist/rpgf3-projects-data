@@ -1,0 +1,48 @@
+{
+  "bio": "Try and try until success comes",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Gian Paul",
+  "websiteUrl": "https://facebook.com/atmygpab",
+  "applicant": {
+    "address": {
+      "address": "0x04D4c9c6F5984A472996402f6f61e45e8740aD6a",
+      "resolvedName": {
+        "address": "0x04D4c9c6F5984A472996402f6f61e45e8740aD6a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x04D4c9c6F5984A472996402f6f61e45e8740aD6a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x307c467063c9b428b5d45d15c72dea423b0adc789f253d1249e7e16ce80873e5"
+  },
+  "impactDescription": "Optimism can have a positive impact on a person's well-being, as it can lead to reduced stress, improved resilience, and a more hopeful attitude. It's important to note that while optimism is generally seen as a positive trait, it should be balanced with realism to make well-informed decisions.",
+  "contributionDescription": "Tangible Benefits:\nFinancial Rewards: Contributions can result in monetary gains, such as receiving payment for services rendered or generating income through investments.\n\nIntangible Benefits:\nSatisfaction: Many people find satisfaction in contributing to causes or projects they believe in, even if there are no immediate tangible benefits.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x04D4c9c6F5984A472996402f6f61e45e8740aD6a",
+      "description": "My Address"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "100",
+      "url": "https://optimistic.etherscan.io/address/0x04D4c9c6F5984A472996402f6f61e45e8740aD6a"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xca30a57faf68cbf75e9bdeec97ea43409e046453e52bd4651c9561c9f2ed38d4",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,624 @@
+{
+  "bio": "Digital inclusion of vulnerable LatAm communities via web3 education w/Optimism.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Proof of Integrity",
+  "websiteUrl": "https://www.proofofintegrity.org",
+  "applicant": {
+    "address": {
+      "address": "0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807",
+      "resolvedName": {
+        "address": "0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807",
+        "name": "tomerston.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png",
+    "id": "OptimistProfile|0x3dd5da4b0dcc2e92edc6d323ec366e90e61768a96b7b34edd60e0dc0c985b5b6"
+  },
+  "impactDescription": "User Base Growth: Through our #aPRENDOcripto program, we've educated and graduated underprivileged individuals who are now well-equipped to be active users in the Optimism ecosystem. They not only utilize the platform for their transactions and activities but also become advocates for Op within their communities, thereby contributing to organic growth.\n\nEcosystem Diversity: Our outreach in vulnerable communities brings new perspectives into the Optimism ecosystem. By incorporating these diverse viewpoints, Optimism becomes a more adaptable and inclusive platform.\n\nActive Engagement: Our #criptoIMPULSO learn2earn program serves as a catalyst for active interaction with Op. By offering financial incentives through the platform, we provide a real-world use-case for Optimism's solutions. ",
+  "contributionDescription": "1. Educational Outreach: Through our #aPRENDOcripto workshops, we\u2019ve educated over 330 individuals across 9 cities in 3 countries (Argentina, Uruguay, and Honduras) about blockchain and Optimism. We provide hands-on experience within vulnerable communities, directly contributing to Optimism's user base growth and diversity.\n\n2. #comunidadAPRENDO: Our post-graduate community where we provide ongoing support and learning within the Optimism ecosystem for our graduates.\n\n3. #criptoIMPULSO: We've created a \u2018learn2earn\u2019 program that provides financial incentives on Optimism.\n\n4. Showcase: We've hosted RetroPGF Projects Showcases events to spotlight Optimism RetroPGF2 projects.\n\n5. Governance: We participate in Optimism's governance and teach our graduates about it.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/file/d/12PMGIWbJTWpdHHbrzasu_5F3n61csBdj/view?usp=drive_link",
+      "description": "Annual Report: Yearly summary of PoI's initiatives and impact."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/proof_integrity/status/1660752550184845316",
+      "description": "#criptoIMPULSO first edition announcement"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/proof_integrity/status/1676354467342450690",
+      "description": "#criptoIMPULSO second edition announcement"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/proof_integrity/status/1702449164351689111",
+      "description": "#criptoIMPULSO third edition announcement"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.com/channels/667044843901681675/972069216343715860/1088264531454730301",
+      "description": "RPGF2 Project Showcase Summary. All recordings and projects that participated."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=8shEIahK9H8",
+      "description": "Optimism Governance talk to #comunidadAPRENDO members"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/drive/folders/1keyYHP8tVS5qljfsFP39LBHtNumBTz-b?usp=sharing",
+      "description": "Photos of an #aPRENDOcripto exercise to make as many transactions in OP Goerli."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli-optimism.etherscan.io/address/0xae24fc99CB3a32bcF141F680Ee9A0E8E15c3af65",
+      "description": "Example of a winner of our exercise of transfering ETH in OP Goerli"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/proof_integrity/status/1715116592177041896",
+      "description": "Summary of our contributions"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of #aPRENDOcripto Graduates",
+      "number": "329",
+      "url": "https://app.proofofintegrity.org/starknet"
+    },
+    {
+      "description": "Number of #aPRENDOcripto Editions",
+      "number": "24",
+      "url": "https://app.proofofintegrity.org/starknet"
+    },
+    {
+      "description": "Number of #criptoIMPULSO editions",
+      "number": "3",
+      "url": "https://docs.google.com/spreadsheets/d/1GOjG8X_4k8rF3l2EX5uvRd31hhVeQod-k-X3mm3IYQE/edit?usp=sharing"
+    },
+    {
+      "description": "Number #criptoIMPULSO beneficiaries",
+      "number": "28",
+      "url": "https://docs.google.com/spreadsheets/d/1GOjG8X_4k8rF3l2EX5uvRd31hhVeQod-k-X3mm3IYQE/edit?usp=sharing"
+    },
+    {
+      "description": "Number of RPGF Project Showcases edition",
+      "number": "6",
+      "url": "https://docs.google.com/spreadsheets/d/1EU4TfEJtLoO6bGgYTCjVjcVeNNQWGsbrNGgwOIEyxTA/edit?usp=sharing"
+    },
+    {
+      "description": "Number of projects in Showcases",
+      "number": "25",
+      "url": "https://docs.google.com/spreadsheets/d/1EU4TfEJtLoO6bGgYTCjVjcVeNNQWGsbrNGgwOIEyxTA/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 15732.3,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 45000,
+      "description": "Gitcoin Grants"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 18000,
+      "description": "Ethereum Foundation Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 60000,
+      "description": "2022 Devcon's Quadratic Funding"
+    }
+  ],
+  "lists": [
+    {
+      "_id": "6560e9f600a58cde3af91229",
+      "listName": "OP ambassadors  individual application",
+      "listDescription": "List of people who work much more than OP ambassador program's job description",
+      "impactEvaluationInput": "Their education content give end users both knowledge and awareness of OP ecosystem. \n\nI intentionally not score everyone and leave it to badgeholders decision.",
+      "impactEvaluationDescription": "Their education content give end users both knowledge and awareness of OP ecosystem. \n\nI intentionally not score everyone and leave it to badgeholders decision.\n\nCreated by gadgeteerth.town using RetroList with \"Educational, Research and Content Rubric\" rubric.",
+      "impactEvaluationLink": "",
+      "impactEvaluationType": "rubric",
+      "listContent": [
+        {
+          "RPGF3_Application_UID": "0x15e84020afaeea9626e882207ad748006bbd2fbdc45b313af4cf2414ae657c90",
+          "OPAmount": 34683,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 4,
+              "comment": "total 5,000,000 impressions",
+              "_id": "6560e9f600a58cde3af9122b"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9122c"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9122d"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 5,
+              "comment": "Both long blogs and threads are present.",
+              "_id": "6560e9f600a58cde3af9122e"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9122f"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91230"
+            }
+          },
+          "_id": "6560e9f600a58cde3af9122a"
+        },
+        {
+          "RPGF3_Application_UID": "0xb3cc6e59b9e60b3f57ac6ef65ec7db407c28d7f19b2587358e79228eb00a7fb0",
+          "OPAmount": 34683,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 4,
+              "comment": "142710 impressions.",
+              "_id": "6560e9f600a58cde3af91232"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91233"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91234"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91235"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91236"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91237"
+            }
+          },
+          "_id": "6560e9f600a58cde3af91231"
+        },
+        {
+          "RPGF3_Application_UID": "0xb5d1b7e987aaa73f07b7afa4a12880a6a55b46c21fb78f723137431a1872c7c2",
+          "OPAmount": 34683,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 4,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91239"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9123a"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9123b"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9123c"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9123d"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9123e"
+            }
+          },
+          "_id": "6560e9f600a58cde3af91238"
+        },
+        {
+          "RPGF3_Application_UID": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+          "OPAmount": 34683,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 4,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91240"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91241"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91242"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91243"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91244"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91245"
+            }
+          },
+          "_id": "6560e9f600a58cde3af9123f"
+        },
+        {
+          "RPGF3_Application_UID": "0x8a952a834ff9186399c06935ffcdff482fb38b38808a7419fc415ad307a2e69b",
+          "OPAmount": 34683,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 4,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91247"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91248"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91249"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9124a"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9124b"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9124c"
+            }
+          },
+          "_id": "6560e9f600a58cde3af91246"
+        },
+        {
+          "RPGF3_Application_UID": "0xe5caec525a57cf728ac3c3bc5d00814e036b46d54863affd671ee9475aee3185",
+          "OPAmount": 34683,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 4,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9124e"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9124f"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91250"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91251"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91252"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91253"
+            }
+          },
+          "_id": "6560e9f600a58cde3af9124d"
+        },
+        {
+          "RPGF3_Application_UID": "0xaa1ea2a6a67fcacd76ef8e24de0b32a6227314899a930eb8cbbc7fd5fcc5dd0d",
+          "OPAmount": 34683,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 4,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91255"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91256"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91257"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91258"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91259"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9125a"
+            }
+          },
+          "_id": "6560e9f600a58cde3af91254"
+        },
+        {
+          "RPGF3_Application_UID": "0xd8954972d3580199658bcc9ac03298b4f689ef06fc6f505c853851aa4ca25c41",
+          "OPAmount": 34683,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 4,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9125c"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9125d"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9125e"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9125f"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91260"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91261"
+            }
+          },
+          "_id": "6560e9f600a58cde3af9125b"
+        },
+        {
+          "RPGF3_Application_UID": "0x278f45939b63b7b5c84fb0a81701aca4a1153fc8a6a7c35af87cebe1fad70d55",
+          "OPAmount": 34683,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 4,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91263"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91264"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91265"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91266"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91267"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af91268"
+            }
+          },
+          "_id": "6560e9f600a58cde3af91262"
+        },
+        {
+          "RPGF3_Application_UID": "0xf66bd8a1b1a43d9e1411ffe4141d468b6177a7fd62692992e0f9b3b38d681479",
+          "OPAmount": 34683,
+          "evaluation": {
+            "655656736c12116f8fc9b252": {
+              "score": 4,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9126a"
+            },
+            "655656736c12116f8fc9b253": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9126b"
+            },
+            "655656736c12116f8fc9b254": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9126c"
+            },
+            "655656736c12116f8fc9b255": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9126d"
+            },
+            "655656736c12116f8fc9b256": {
+              "score": 5,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9126e"
+            },
+            "655656736c12116f8fc9b257": {
+              "score": 0,
+              "comment": "",
+              "_id": "6560e9f600a58cde3af9126f"
+            }
+          },
+          "_id": "6560e9f600a58cde3af91269"
+        }
+      ],
+      "walletAddress": "0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375",
+      "domainName": "gadgeteerth.town",
+      "twitter": "gadgeteerth",
+      "discord": "nanobro",
+      "isBadgeholder": false,
+      "attestationUid": "0xd5ddf13daca1db1cba00b2c2bd070dbbd3a04221c0d78e7d2a74232c5bc17c5a",
+      "approvalAttestationUid": null,
+      "forkedFrom": null,
+      "rubricId": "65565674e5695aaff05cd4a0",
+      "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION",
+        "DEVELOPER_ECOSYSTEM"
+      ],
+      "projectIds": [
+        "0x15e84020afaeea9626e882207ad748006bbd2fbdc45b313af4cf2414ae657c90",
+        "0xb3cc6e59b9e60b3f57ac6ef65ec7db407c28d7f19b2587358e79228eb00a7fb0",
+        "0xb5d1b7e987aaa73f07b7afa4a12880a6a55b46c21fb78f723137431a1872c7c2",
+        "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+        "0x8a952a834ff9186399c06935ffcdff482fb38b38808a7419fc415ad307a2e69b",
+        "0xe5caec525a57cf728ac3c3bc5d00814e036b46d54863affd671ee9475aee3185",
+        "0xaa1ea2a6a67fcacd76ef8e24de0b32a6227314899a930eb8cbbc7fd5fcc5dd0d",
+        "0xd8954972d3580199658bcc9ac03298b4f689ef06fc6f505c853851aa4ca25c41",
+        "0x278f45939b63b7b5c84fb0a81701aca4a1153fc8a6a7c35af87cebe1fad70d55",
+        "0xf66bd8a1b1a43d9e1411ffe4141d468b6177a7fd62692992e0f9b3b38d681479"
+      ],
+      "histories": [],
+      "createdAt": "2023-11-24T18:22:46.743Z",
+      "updatedAt": "2023-12-02T07:55:13.908Z",
+      "__v": 0,
+      "attestationBlock": 112625710,
+      "attestationDate": "2023-11-24T18:23:17.000Z",
+      "approval": [
+        {
+          "_id": "6562d8afebaee641136425b8",
+          "domainName": "gadgeteerth.town",
+          "__v": 0,
+          "createdAt": "2023-11-26T05:33:35.633Z",
+          "status": "qualified",
+          "updatedAt": "2023-11-26T05:33:35.633Z"
+        }
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0x15e84020afaeea9626e882207ad748006bbd2fbdc45b313af4cf2414ae657c90",
+          "bio": "Educator for OP users/contributors.  Trusted by 71 people for 19k voting power",
+          "displayName": "Gadgeteer (nanobro)",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375.jpeg"
+        },
+        {
+          "id": "0xb3cc6e59b9e60b3f57ac6ef65ec7db407c28d7f19b2587358e79228eb00a7fb0",
+          "bio": "Web-designer and digital-artist of the Optimism ecosystem",
+          "displayName": "Divergent",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5cB33476CF637f284744b0AD00eadC6388a7eCC5.png"
+        },
+        {
+          "id": "0xb5d1b7e987aaa73f07b7afa4a12880a6a55b46c21fb78f723137431a1872c7c2",
+          "bio": "\ud83d\udd34\u2728Optimistic Vision Vibes\ud83d\udd34\u2728",
+          "displayName": "DRAMA",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEfbC53e0AFdc9f649Bc1Ab692461df57E70A560f.png"
+        },
+        {
+          "id": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+          "bio": "Digital inclusion of vulnerable LatAm communities via web3 education w/Optimism.",
+          "displayName": "Proof of Integrity",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png"
+        },
+        {
+          "id": "0x8a952a834ff9186399c06935ffcdff482fb38b38808a7419fc415ad307a2e69b",
+          "bio": "I am an Optimism Ambassador (in training), a UI/UX designer, and a writer.",
+          "displayName": "AyohTunde",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbA8D6600F02CD4Abd93eC63Eb99463a18aC75004.png"
+        },
+        {
+          "id": "0xe5caec525a57cf728ac3c3bc5d00814e036b46d54863affd671ee9475aee3185",
+          "bio": "Optimism super ambassador, cryptoenthusiast, YouTube and Telegram blogger",
+          "displayName": "ruslanklinkov",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3e8aC233f02d13C1E299e47aE230C205E0177Ed.png"
+        },
+        {
+          "id": "0xaa1ea2a6a67fcacd76ef8e24de0b32a6227314899a930eb8cbbc7fd5fcc5dd0d",
+          "bio": "OP original content creator and educator for thai community since June 2022.",
+          "displayName": "Thesleeper.eth Thai OP Educator",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x00409fC839a2Ec2e6d12305423d37Cd011279C09.png"
+        },
+        {
+          "id": "0xd8954972d3580199658bcc9ac03298b4f689ef06fc6f505c853851aa4ca25c41",
+          "bio": "Learning and sharing",
+          "displayName": "daboyshine",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4CDD7811CCEdB0fFd3808B586bcafD6AB0ACb313.png"
+        },
+        {
+          "id": "0x278f45939b63b7b5c84fb0a81701aca4a1153fc8a6a7c35af87cebe1fad70d55",
+          "bio": "Optimism Ambassador, Project advisors",
+          "displayName": "Subli",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x018C8a81cb02cA1a327BaefD400f75f57ea57ba2.jpeg"
+        },
+        {
+          "id": "0xf66bd8a1b1a43d9e1411ffe4141d468b6177a7fd62692992e0f9b3b38d681479",
+          "bio": "The unique media about OP Superchain ",
+          "displayName": "The Opimist ",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03143EE031AA7bD7b6846750d066A27f18D39edd.png"
+        }
+      ],
+      "status": "qualified"
+    }
+  ],
+  "id": "Project|0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 34,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

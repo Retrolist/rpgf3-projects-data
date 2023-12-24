@@ -1,0 +1,96 @@
+{
+  "bio": "Graviton training on Optimism. Conflict management and trust creation in Web3. ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Gravity DAO",
+  "websiteUrl": "https://gravitydao.org/en/",
+  "applicant": {
+    "address": {
+      "address": "0x8E3a92f82EA855020BA714e68541192B9bd6c5B1",
+      "resolvedName": {
+        "address": "0x8E3a92f82EA855020BA714e68541192B9bd6c5B1",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x8E3a92f82EA855020BA714e68541192B9bd6c5B1"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8E3a92f82EA855020BA714e68541192B9bd6c5B1.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8E3a92f82EA855020BA714e68541192B9bd6c5B1.png",
+    "id": "OptimistProfile|0x59316e78b306c1912fb2d0b6f7969141a7c905866479b75ecb4d1d5e3a53c348"
+  },
+  "impactDescription": "We trained and supported the development of soft skills in active participants of the community. We are directly improving governance accessibility by supporting the design of alternatives to deal with conflicting cases and code of Conduct enforcement processes.",
+  "contributionDescription": "We had 18 live meetings between July and September, where we trained Nerds and active participants in the community on conflict management techniques. The calls were specially prepared by our team to deliver meaningful educational experiences with experts in diverse fields. \n\nWe tracked the assistance with POAPs, and certified as \"Gravitons\" those who claimed 5+ of the unique weekly badges.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/drive/folders/1PYr8PKJe_pGR2sxXb0hfuuGp89NiDzGx?usp=drive_link",
+      "description": "Recordings of the training. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/education-and-training-on-conflict-management-with-gravity-dao/6481",
+      "description": "Forum Post"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/ecosystem-contributions/issues/2",
+      "description": "RFP - Code of conduct enforcement solution design space"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/presentation/d/1FVETL_QZxYia819CGfIh6JiXv7OHCXVdpu_pRXiI3ms/edit#slide=id.g25fa6367006_1_239",
+      "description": "Slides used during the 6 week training"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "New Gravitons NFT",
+      "number": "14",
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/56688338385765413465179899398695718009741837431955041286206994489818656800788"
+    },
+    {
+      "description": "POAPs",
+      "number": "6",
+      "url": "https://poap.family/event/149769"
+    },
+    {
+      "description": "Miro Board",
+      "number": "1",
+      "url": "https://miro.com/app/board/uXjVMyje9GU=/?share_link_id=161826707746"
+    },
+    {
+      "description": "Facilitation of the training sessions",
+      "number": "18",
+      "url": "https://drive.google.com/drive/folders/1PYr8PKJe_pGR2sxXb0hfuuGp89NiDzGx?usp=drive_link"
+    },
+    {
+      "description": "New online course students",
+      "number": "25",
+      "url": "https://gravitydao.org/en/online-courses/uncategorized/graviton-introductory-course/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 36000,
+      "description": "RFP #2 - https://github.com/ethereum-optimism/ecosystem-contributions/issues/2"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "Cash milestone for costs associated to execution"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7bb5c5e64a2e1feb76c3d75acdd0ddae11b9851fc3843a303f56d20aa79f52f2",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 44,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Optimism Governance Contributions"
+}

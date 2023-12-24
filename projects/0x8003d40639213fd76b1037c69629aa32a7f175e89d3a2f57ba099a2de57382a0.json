@@ -1,0 +1,68 @@
+{
+  "bio": "Asset Management for the top blockchains with Optimism interface to Aave",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "EVM.Finance",
+  "websiteUrl": "https://evm.finance/",
+  "applicant": {
+    "address": {
+      "address": "0xF705b9ba1908cA505537F309B08E6949C1b8f31F",
+      "resolvedName": {
+        "address": "0xF705b9ba1908cA505537F309B08E6949C1b8f31F",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xF705b9ba1908cA505537F309B08E6949C1b8f31F"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF705b9ba1908cA505537F309B08E6949C1b8f31F.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF705b9ba1908cA505537F309B08E6949C1b8f31F.png",
+    "id": "OptimistProfile|0x31f95e3a50c654abb7f6090d99be65838ab95fd2e9e3fb3de32581ab66e5cf1b"
+  },
+  "impactDescription": "Our newest EVM.Finance product is the RFG-2.   We have implemented features of this previously for Aave and Uniswap interactions with conditional checks. Additionally or system supports this for multiple blockchains. \n\nThe newest version allows a user to select the ABI, Action, Method and Event. \n\nAdditionally our platform provides asset management for Optimism, in addition to support for Ethereum mainnet, Binance Smart Chain, XRPL, Polugon and others.",
+  "contributionDescription": "EVM.Finance is a one-stop DeFi asset management platform for multiple blockchains. Our platform provides user balances and transactions; a DeFi Screener; Interfaces for Uniswap trading and Aave lending; block readers; and detailed token pages. \n\nOptimism token pages with an Aave on Optimism lending interface, Uniswap trading interface, wallet balances, important token metrics and a price chart. Users like the side-by-side Aave and Uniswap interface when performing multiple steps creating Aave positions.\n\nAdded ABI contract interface based on RFG-2 request.\n\nEVM.Finance provides a user-friendly environment for  individuals to access balances and transactions for multiple blockchains, mitigating the DeFi fragmentation.\n\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://bitbucket.org/evm-finance/aave/src/master/",
+      "description": "This is our Github for EVM.finance"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://evm.finance/dynamic-abi",
+      "description": "RFG-2: UI for contracts: build a generalized UI for ABI contracts"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://evm.finance/portfolio/balances",
+      "description": "Asset Balances "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://evm.finance/portfolio/transactions",
+      "description": "Optimism Transactions - Select Optimism Mainnet tab"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://quantifycrypto.com/",
+      "description": "This is our web2 platform, "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Blockchains supported",
+      "number": "7",
+      "url": "https://evm.finance/portfolio/balances"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x8003d40639213fd76b1037c69629aa32a7f175e89d3a2f57ba099a2de57382a0",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 7,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

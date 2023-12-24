@@ -1,0 +1,115 @@
+{
+  "bio": "The central trading and liquidity marketplace on Base.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Aerodrome Finance",
+  "websiteUrl": "https://aerodrome.finance/",
+  "applicant": {
+    "address": {
+      "address": "0x2C4F3af64e1A832deb10D98aFAA71233794467F8",
+      "resolvedName": {
+        "address": "0x2C4F3af64e1A832deb10D98aFAA71233794467F8",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2C4F3af64e1A832deb10D98aFAA71233794467F8"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2C4F3af64e1A832deb10D98aFAA71233794467F8.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2C4F3af64e1A832deb10D98aFAA71233794467F8.png",
+    "id": "OptimistProfile|0x659fb448c1d4965fa6b34c64a695ce549ad46f9d87657021a025d9f0d8ecf998"
+  },
+  "impactDescription": "Aerodrome has been instrumental in accelerating builder and user adoption on Base. It has attracted $58M in TVL at a crucial period, supporting liquidity for 20 partner projects, 15 of which Aerodrome brought to Base for launch. Aerodrome allocated 31% of veAERO supply to support projects, core token liquidity and fund public goods initiatives. So far, it has provided $250k in incentives to projects and $150k in treasury to public goods. Our development team has worked closely with the OP Stack team to improve tooling for technical decentralization and performance by bringing open source software to Base and ensuring 3rd party applications such as Etherscan, Tenderly and Infura function optimally. ",
+  "contributionDescription": "Base is the Collective\u2019s first step towards the Superchain and requires a native liquidity layer to fuel its growth. Aerodrome is a public good for Base (having had no VC funding) that returns 100% of its revenue to the ecosystem. Aerodrome is Base's largest protocol, has already onboarded 20 new protocols to the ecosystem, and has generated over $7.5M in value in 7 weeks. It is designed to support public goods, as 21% of the protocol\u2019s voting power is dedicated to supporting key ecosystem liquidity pairs, with fees created from those pairs used to direct support to public goods on Base. Further, we have improved the developer ecosystem and decentralization by bringing best practices and ensuring 3rd-party development apps function on BASE.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/aerodrome-finance",
+      "description": "Aerodrome public GitHub repository "
+    },
+    {
+      "type": "OTHER",
+      "url": "ttps://defillama.com/chain/Base",
+      "description": "DefiLlama showing Aerodrome as top protocol and DEX on Base"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/queries/3136895/5232044",
+      "description": "Base DEX TVL Comparison "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/0xkhmer/aerodrome",
+      "description": "Dune dashboard showing 20 onboarded protocols and $2.5 million in incentives"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@aerodromefi/aerodrome-prepare-for-liftoff-3e08d1a02b9f",
+      "description": "Medium detailing Flight School partner rewards program"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/0x_danw/veaero-rewards-program",
+      "description": "Dune dashboard showing $250k+ in Flight School incentives distributed "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@aerodromefi/aerodrome-launch-tokenomics-30b546654a91",
+      "description": "Medium where we detail Aerdorome\u2019s public goods funding mechanism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://debank.com/profile/0x834c0da026d5f933c2c18fa9f8ba7f1f792fda52",
+      "description": "Wallet where we have accrued $150k in to be distributed public good funds"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/aerodrome-finance/sugar",
+      "description": "Sugar open source software to improve decentralization on BASE and OP Stack"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Protocols Onboarded",
+      "number": "20",
+      "url": "https://dune.com/0xkhmer/aerodrome"
+    },
+    {
+      "description": "TVL ($) ",
+      "number": "58000000",
+      "url": "https://dune.com/queries/3136895/5232044"
+    },
+    {
+      "description": "Total Ecosystem Rewards ($)",
+      "number": "7500000",
+      "url": "https://dune.com/queries/3130367/5222401"
+    },
+    {
+      "description": "Flight School Rewards Distroed ($)",
+      "number": "250000",
+      "url": "https://dune.com/0x_danw/veaero-rewards-program"
+    },
+    {
+      "description": "Public Goods Rewards Raised ($)",
+      "number": "150000",
+      "url": "https://debank.com/profile/0x834c0da026d5f933c2c18fa9f8ba7f1f792fda52"
+    },
+    {
+      "description": "Locked AERO Holders (Wallets)",
+      "number": "5206",
+      "url": "https://dune.com/0xkhmer/aerodrome"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x99ad2850c7cbda52a16676d6ab956b1434c64f4124d5f2108aa12fda5325205c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 51,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

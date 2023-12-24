@@ -1,0 +1,227 @@
+{
+  "bio": "The biggest arabic community that focused on teaching arabs about web3.0 ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "MrCrypto Arabic",
+  "websiteUrl": "https://missions.mrcrypto.be/",
+  "applicant": {
+    "address": {
+      "address": "0x519e9aa581E8A00cf4aa51ffc85B5E2BD2BECA75",
+      "resolvedName": {
+        "address": "0x519e9aa581E8A00cf4aa51ffc85B5E2BD2BECA75",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x519e9aa581E8A00cf4aa51ffc85B5E2BD2BECA75"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x519e9aa581E8A00cf4aa51ffc85B5E2BD2BECA75.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x519e9aa581E8A00cf4aa51ffc85B5E2BD2BECA75.jpeg",
+    "id": "OptimistProfile|0x1f8a585878880d726f360b3d3d0b0f27b58cb51cc96081427497241103a8ce92"
+  },
+  "impactDescription": "Our impact extends beyond theoretical knowledge. We actively participate in OP governance as a delegate for our community and onchain through our educational quests and activities. Our work also empowers community members to grow and become their own agents of change in the ecosystem. \n\nOur delegation wallet address : 0x6a5cC02b7dA4ad7db68688b92836aD10e053b1fE",
+  "contributionDescription": "Our goal is to educate the Arab speaking community about crypto, public goods and the Optimistic vision. By offering free educational content, we expose our community to the power of this innovative technology. Our efforts expand beyond content creation, we also gamify and reward the experience to encourage our community to take action onchain and learn by doing various tasks including swaps, bridging, minting, and participating in DeFi. This is important because the bans that exist in many Arab speaking countries limit access to this type of education and keep our community behind. We\u2019re proud to share that many of our community members have grown into devs, builders, and web3 educators. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://missions.mrcrypto.be/",
+      "description": "Missions event where people can mint badges on Optimism"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xA543008859dBEeC769B4C71fF9D6b33FC8eF7e0D",
+      "description": "NFT Badge #1"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x44d2EfAb1e56e65ebB9E3F8b4dfc0fff93Aa7E60",
+      "description": "NFT Badge #2"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x2716331F4F17967A0821C0C433677Dc459A0B5c2",
+      "description": "NFT Badge #3"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x7e68b3C9be70A171CE7AB70ee94D47dd19dBD45b",
+      "description": "NFT Badge #4"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtube.com/@mr.crypto",
+      "description": "Youtube channel"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/0x519e9aa581E8A00cf4aa51ffc85B5E2BD2BECA75",
+      "description": "Mirror Blog "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Mr_CryptoYT",
+      "description": "Twitter account MrCrypto "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/yahya_YT9",
+      "description": "Twitter account MrYahya"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/mrcryptoyyt",
+      "description": "Telegram official channel "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/mrcryptoytt",
+      "description": "Telegram official group"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://discord.gg/wbKqTUH6sA",
+      "description": "Our official discord channel"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://chat.mrcrypto.be/",
+      "description": "MrCrypto Ai chatbot | programmed to answer any onchain questions for free"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mrcrypto.be/",
+      "description": "MrCrypto main website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Youtube Video | Onboarding in to OP",
+      "number": "2600",
+      "url": "https://youtu.be/aTiL8RpPUQw"
+    },
+    {
+      "description": "Twitter Thread | Onboarding in to OP",
+      "number": "10000",
+      "url": "https://twitter.com/yahya_YT9/status/1689407722213568514"
+    },
+    {
+      "description": "Badge Mint | Onboarding in to Optimism ",
+      "number": "458",
+      "url": "https://optimistic.etherscan.io/address/0xA543008859dBEeC769B4C71fF9D6b33FC8eF7e0D"
+    },
+    {
+      "description": "Youtube Video | Dex's & bridges on OP",
+      "number": "1200",
+      "url": "https://www.youtube.com/watch?v=gwwAebgX5kw"
+    },
+    {
+      "description": "Twitter thread | all Dex's & bridges OP",
+      "number": "2000",
+      "url": "https://twitter.com/yahya_YT9/status/1693711290185757102"
+    },
+    {
+      "description": "Badge Mint | Dex's & bridges on OP",
+      "number": "479",
+      "url": "https://optimistic.etherscan.io/address/0x44d2EfAb1e56e65ebB9E3F8b4dfc0fff93Aa7E60"
+    },
+    {
+      "description": "Youtube Video | Deploy smartcontract OP",
+      "number": "1100",
+      "url": "https://youtu.be/cSt9HDKBc_M"
+    },
+    {
+      "description": "Badge Mint |  Create Token on OP",
+      "number": "43",
+      "url": "https://optimistic.etherscan.io/address/0x2716331F4F17967A0821C0C433677Dc459A0B5c2"
+    },
+    {
+      "description": "Mirror post | introducing Optimism ",
+      "number": "402",
+      "url": "https://mirror.xyz/0x519e9aa581E8A00cf4aa51ffc85B5E2BD2BECA75/Xv9hFTHNm69i_RxSEyVP6vlMi7qGxgMc-B_9bsUfd8s"
+    },
+    {
+      "description": "Twitter Thread | Optimism - VelodromeFi",
+      "number": "20000",
+      "url": "https://twitter.com/Mr_CryptoYT/status/1688595559525892104"
+    },
+    {
+      "description": "Twitter Thread | OpStack technology",
+      "number": "50000",
+      "url": "https://twitter.com/yahya_YT9/status/1691174168748814337"
+    },
+    {
+      "description": "Twitter Thread | All Optimism Dex's",
+      "number": "2100",
+      "url": "https://twitter.com/yahya_YT9/status/1694754864172028189"
+    },
+    {
+      "description": "Twitter Thread | How to vote for OP DAO ",
+      "number": "9652",
+      "url": "https://twitter.com/Mr_CryptoYT/status/1703869517628068348"
+    },
+    {
+      "description": "Twitter Thread | Donate on gitcion OP",
+      "number": "87600",
+      "url": "https://twitter.com/yahya_YT9/status/1686145237755052040"
+    },
+    {
+      "description": "Youtube Video | Gitcion passport on OP",
+      "number": "2300",
+      "url": "https://youtu.be/SqYQ1_9jCV4?si=O4Fj1Wn5n03_qD9z"
+    },
+    {
+      "description": "Twitter Post | Make a grand on OP ",
+      "number": "4271",
+      "url": "https://twitter.com/Mr_CryptoYT/status/1710777684794527931"
+    },
+    {
+      "description": "Twitter Thread | WorldCoin on OP P1",
+      "number": "23000",
+      "url": "https://twitter.com/yahya_YT9/status/1683515398770106385"
+    },
+    {
+      "description": "Twitter Thread | WorldCoin on OP P2",
+      "number": "21100",
+      "url": "https://twitter.com/Mr_CryptoYT/status/1683611293213704195"
+    },
+    {
+      "description": "Twitter Thread | Intoducing zkLink on OP",
+      "number": "4800",
+      "url": "https://x.com/yahya_YT9/status/1701457834540400872?s=20"
+    },
+    {
+      "description": "Twitter Post|OP socketscan refund fees ",
+      "number": "1750",
+      "url": "https://x.com/yahya_YT9/status/1710776585849119122?s=20"
+    },
+    {
+      "description": "Badge Mint |  Create contract on OP",
+      "number": "34",
+      "url": "https://optimistic.etherscan.io/address/0x7e68b3C9be70A171CE7AB70ee94D47dd19dBD45b"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 500,
+      "description": "Gitcoin grand GG18 "
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Sponsors on youtube | sharing knowledge about web3"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd6b9e67653ec0ddc766f8183c713c8cf31af292e3c36f26e5b9ca88330b2bc0f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 31,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

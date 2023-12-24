@@ -1,0 +1,56 @@
+{
+  "bio": "An Ethereum execution layer client",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "go-ethereum",
+  "websiteUrl": "https://github.com/ethereum/go-ethereum",
+  "applicant": {
+    "address": {
+      "address": "0x0000006916a87b82333f4245046623b23794C65C",
+      "resolvedName": {
+        "address": "0x0000006916a87b82333f4245046623b23794C65C",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0000006916a87b82333f4245046623b23794C65C"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xa853cfda1912cb69b64d5e54169cc264d9fb2a62cc89c12714c19ce61c1492e9"
+  },
+  "impactDescription": "Since the OP Stack is built on top of go-ethereum, every decision we make upstream affect the efficiency, security, and resilience of Optimism downstream. This is true in more ways than just the core protocol. \n\nOur team also develops and maintains the JSON-RPC interface used by many developers to interact with the OP Stack. Through this, it is fair to say that we have a large impact on the developer ecosystem.\n\nAnd finally, our work on the Ethereum protocol itself and future network upgrades has and will substantially impact end users of Optimism and the adoption of the OP Stack.",
+  "contributionDescription": "The go-ethereum team develops the software which the OP Stack is built on, contributes to Ethereum upgrades which benefit the OP Stack, and work with the Optimism team on occasion to upstream changes to the core code base.\n\nAlthough we are not the most active Optimism contributors day-to-day, we believe that we play a fundamental role in the OP Stack.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum/go-ethereum",
+      "description": "go-ethereum repo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Commits to op-geth by go-etherem team",
+      "number": "1337",
+      "url": "https://github.com/ethereum-optimism/op-geth/pulse/monthly"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 230500,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x853effbc5590961f4157c181e7f2e1c090d8434fd993b0fee10d58916c34e80a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 102,
+  "primaryCategory": "OP Stack",
+  "recategorization": "Ethereum Development & Maintanance"
+}

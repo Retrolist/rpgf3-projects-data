@@ -1,0 +1,72 @@
+{
+  "bio": "Most Used 4337 UserOp Explorer for Account Abstraction",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "JiffyScan",
+  "websiteUrl": "https://www.jiffyscan.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0x0d3bd71c76046Ab93E8D8e9BDa58879040cB13d0",
+      "resolvedName": {
+        "address": "0x0d3bd71c76046Ab93E8D8e9BDa58879040cB13d0",
+        "name": "artsofbaniya.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x0d3bd71c76046Ab93E8D8e9BDa58879040cB13d0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0d3bd71c76046Ab93E8D8e9BDa58879040cB13d0.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0d3bd71c76046Ab93E8D8e9BDa58879040cB13d0.png",
+    "id": "OptimistProfile|0xef97ba5760d3ed37d377a14372054d544ad273203ce329cd6e99f9a7eea919ee"
+  },
+  "impactDescription": "1.The tools is most helpful for developers to confirm the status of a UserOp and share it with their teammates or users, as no other tool currently supports search/lookup by a UserOp.\n2. The Explorer is actively used by the developers of the top teams empowering 4337.\n3. The explorer has seen a Cumulative Monthly Growth of 27% for the last 5 months in terms of page views, with the september hitting ~18k views. \n4. We have had 26 teams request for our APIs and are the most performant and rich historical UserOp lookup service out there",
+  "contributionDescription": "EIP 4337 introduced new abstracts entities called UserOps, Bundler, paymater and factory, which are not understood by the underlying ethereum protocol. \nThus no infrastructure component recognizes these entities unless specifically designed for it.\nJiffyscan is the only tool to let you explore details of a UserOp introduced by ERC-4337, just by giving the UserOp Hash.\nUsers can explore details across 16 different mainnets and testnets.\nThere's a data API available as well to query the details of a given UserOp, currently for free.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/jiffy-labs/jiffyscan-frontend",
+      "description": "Repositories empowering the Explorer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://jiffyscan.readme.io/",
+      "description": "APIs available for free for wallet developers building on 4337 ecosystem"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Explorer Page Views (in Q2 & Q3 2023)",
+      "number": "57684",
+      "url": "https://docs.google.com/spreadsheets/d/1kGAVvYli8TCtlCrtBJRwmkpT-7gw5g8GGpREQ__LuWE/edit?usp=sharing"
+    },
+    {
+      "description": "API requests served in September",
+      "number": "20771",
+      "url": "https://docs.google.com/spreadsheets/d/1kGAVvYli8TCtlCrtBJRwmkpT-7gw5g8GGpREQ__LuWE/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 18992,
+      "description": "Given for the initial version of the project"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 46000,
+      "description": "Builder Cycle Grant Locked for a year till May 2024"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x54c617b7842807a5d0a0806eed01bcf497adc62cf76c9f6e67ffd42daee5cada",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 44,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

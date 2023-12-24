@@ -1,0 +1,108 @@
+{
+  "bio": "A podcast and newsletter segment covering Optimism ecosystem news.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "ETH Daily (OP News)",
+  "websiteUrl": "https://ethdaily.io/tag/optimism/",
+  "applicant": {
+    "address": {
+      "address": "0xEB40A065854bd90126A4E697aeA0976BA51b2eE7",
+      "resolvedName": {
+        "address": "0xEB40A065854bd90126A4E697aeA0976BA51b2eE7",
+        "name": "ethdaily.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xEB40A065854bd90126A4E697aeA0976BA51b2eE7"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEB40A065854bd90126A4E697aeA0976BA51b2eE7.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xEB40A065854bd90126A4E697aeA0976BA51b2eE7.png",
+    "id": "OptimistProfile|0x251441a30c886c669dcfc4e0d29002487831e6823544db9d3d32f8465fbb1279"
+  },
+  "impactDescription": "ETH Daily boosts the Optimism Collective's brand awareness, reaching over 2,200 crypto enthusiasts. ETH Daily provides essential OP News coverage, keeping end-users, developers, journalists, and crypto security firms informed about network upgrades and new OP Stack chains. ETH Daily has even helped inspire news articles, like this one (bit.ly/op_inspire) published by The Block on Optimism Airdrop 3 after the journalist read the ETH Daily newsletter.\n\nInspire example: bit.ly/op_inspire\nOP News Stats: ethdaily.io/retropgf3",
+  "contributionDescription": "ETH Daily provided over 100 OP News updates to an audience of 2,200 podcast listeners and 230 newsletter subscribers. In the fast-changing Optimism Collective, ETH Daily plays a crucial role in keeping users well-informed. OP News is a series of Optimism-related updates featured in over 100 episodes in a segment called Optimism Highlights.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://ethdaily.io/tag/optimism/",
+      "description": "118 Blogs (OP News)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.podchaser.com/lists/op-news-11SKBxj5kH",
+      "description": "118 Podcast Episodes (OP News)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtube.com/playlist?list=PLlEo7A5q233cVc0pgsC-ZTyRuXbRRuRYk",
+      "description": "73 Videos (OP News)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Podcast Downloads",
+      "number": "52944",
+      "url": "https://drive.google.com/file/d/1N7qzb_BxykcvYMlK6GpNq6Mw927xqVC0/view?usp=sharing"
+    },
+    {
+      "description": "Twitter Impressions",
+      "number": "62411",
+      "url": "https://docs.google.com/spreadsheets/d/15_4h9yUErq73uhlf0_OeGUcF-sePBN8xiXDartlIvZA/htmlview"
+    },
+    {
+      "description": "YouTube Views",
+      "number": "2157",
+      "url": "https://docs.google.com/spreadsheets/d/15_4h9yUErq73uhlf0_OeGUcF-sePBN8xiXDartlIvZA/htmlview"
+    },
+    {
+      "description": "Subscribers & Followers",
+      "number": "10087",
+      "url": "https://docs.google.com/spreadsheets/d/15_4h9yUErq73uhlf0_OeGUcF-sePBN8xiXDartlIvZA/htmlview"
+    },
+    {
+      "description": "OP Mirror NFTs Minted",
+      "number": "253",
+      "url": "https://docs.google.com/spreadsheets/d/15_4h9yUErq73uhlf0_OeGUcF-sePBN8xiXDartlIvZA/htmlview"
+    },
+    {
+      "description": "OP Podcast NFTs Minted",
+      "number": "96",
+      "url": "https://docs.google.com/spreadsheets/d/15_4h9yUErq73uhlf0_OeGUcF-sePBN8xiXDartlIvZA/htmlview"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "No VC funding has been raised"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2000,
+      "description": "Donations and matching received across all Gitcoin and Giveth rounds."
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 1800,
+      "description": "April 2023 Podcast Sponsor"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": " Smallest growth grant - all tokens were given to end users."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6e8171d9b86fad4df6ec47eb9ef29fe2ed386d2485b26bd65e920e76e6f37de5",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 45,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

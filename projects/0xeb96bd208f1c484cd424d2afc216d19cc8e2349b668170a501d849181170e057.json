@@ -1,0 +1,55 @@
+{
+  "bio": "Believe in yourself",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "cahluweh",
+  "websiteUrl": "https://twitter.com/cahluweh91",
+  "applicant": {
+    "address": {
+      "address": "0x01869c8857691eF36Dc77c12284711c89630a088",
+      "resolvedName": {
+        "address": "0x01869c8857691eF36Dc77c12284711c89630a088",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x01869c8857691eF36Dc77c12284711c89630a088"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x01869c8857691eF36Dc77c12284711c89630a088.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x01869c8857691eF36Dc77c12284711c89630a088.png",
+    "id": "OptimistProfile|0x8b1e6b5a66eb9fcc01862ded3d1b1ca94d0adc47402399ce8396ba8c769575c8"
+  },
+  "impactDescription": "Become a supporter of optimism who always provides updates to the members and contributes together. \nThe awaited time has come, let's make our dreams come true together. Clear project and transparent work plan.\nSo, here are our choices for our future. ",
+  "contributionDescription": "New and unique ideas that are successfully created, this will bring progress in the future. Keep being the best. \nStay the best and be number one.\nI believe optimism is what prioritizes common welfare. So this will be a good Project for the future. \n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/cahluweh91",
+      "description": "0x01869c8857691eF36Dc77c12284711c89630a088"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#doenload",
+      "number": "123456",
+      "url": "https://twitter.com/cahluweh91"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 3000000,
+      "description": "Personal funds"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xeb96bd208f1c484cd424d2afc216d19cc8e2349b668170a501d849181170e057",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

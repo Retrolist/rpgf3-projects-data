@@ -1,0 +1,49 @@
+{
+  "bio": "A Dune dataset of rollup costs and revenues",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Rollup Economics Dune Spell",
+  "websiteUrl": "https://github.com/duneanalytics/spellbook/tree/main/models/rollup_economics/ethereum",
+  "applicant": {
+    "address": {
+      "address": "0xE7d1405C20A23a8e8f9F1BD572d1320c479233EE",
+      "resolvedName": {
+        "address": "0xE7d1405C20A23a8e8f9F1BD572d1320c479233EE",
+        "name": "niftytable.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xE7d1405C20A23a8e8f9F1BD572d1320c479233EE"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE7d1405C20A23a8e8f9F1BD572d1320c479233EE.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x098f732da288da4f8e511240f2d9f62547ebf7038dff1ccaaf979512e3a589b1"
+  },
+  "impactDescription": "This Dune Spell is an open-source model that makes it easy for analysts to surface useful rollup economics insights and share those with the community. \n\nIt's already being used by popular L2 Dune dashboards with more than 730 stars combined. For example, \n- https://dune.com/niftytable/rollup-economics (built by me)\n- https://dune.com/sealaunch/rollups-profits (built by the SeaLaunch team)\n\nThe open-source code is also being used by analytics platforms outside of Dune::\n\n\"At Artemis, we routinely use the roll-up economics spellbook as a reference to understand how to calculate profit across OP Mainnet, OP Stack chains, and other roll-ups in the Ethereum ecosystem.\"\n- Nirmal Krishnan\n  [Head of Engineering at Artemis.xyz]",
+  "contributionDescription": "\ud835\udde7\ud835\udddf\ud835\uddd7\ud835\udde5\nA Dune dataset that makes it easy to query revenues and costs for all OP stack rollups and other L2s\n\n\ud835\uddd7\ud835\uddf2\ud835\ude00\ud835\uddf0\ud835\uddff\ud835\uddf6\ud835\uddfd\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\nI created a Dune Spell table that has data on rollup \n- on-chain revenues (transaction fees)\n- costs (posting data to L1) \n- and raw materials (L1 calldata) of rollups\n\nIt automatically updates to support new OP stack rollups.\n\nHere is a demo showing how to query Base revenue using the new Spell\nhttps://youtu.be/T2_j_JlGeDQ\n\nThe dataset is a great tool that analysts can use to generate rollup business metrics for OP stack teams and their communities.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/duneanalytics/spellbook/commits/main/models/rollup_economics/ethereum",
+      "description": "Github history of the dataset. You can see that I created and updated the spell."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Dune Stars of dashboards using the spell",
+      "number": "739",
+      "url": "https://dune.com/browse/dashboards?q=rollup&order=favorites&time_range=all"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x319e92614fd4d193ae32199f9459862ba5def14978cf005b19343843ca2e0693",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 33,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

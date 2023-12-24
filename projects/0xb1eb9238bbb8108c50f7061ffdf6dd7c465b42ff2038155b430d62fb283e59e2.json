@@ -1,0 +1,93 @@
+{
+  "bio": "Clipper is a DEX built for blue-chip token swaps and sustainable LP returns.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Clipper",
+  "websiteUrl": "https://clipper.exchange/",
+  "applicant": {
+    "address": {
+      "address": "0xa9556c54ED92e46598716e313E94b22DD12B5657",
+      "resolvedName": {
+        "address": "0xa9556c54ED92e46598716e313E94b22DD12B5657",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa9556c54ED92e46598716e313E94b22DD12B5657"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa9556c54ED92e46598716e313E94b22DD12B5657.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa9556c54ED92e46598716e313E94b22DD12B5657.jpeg",
+    "id": "OptimistProfile|0xe1a2c2843ac1c877af720085c206c525a9eae71a06b698c7d33d5d1b6b9b3fb9"
+  },
+  "impactDescription": "Clipper has saved traders tons of money on slippage, gas, and fees with its fair prices, and generated significant above market yields for LPs during the time it\u2019s been on Optimism (33.3% APY in just the past month). \n\nClipper initially launched on Ethereum in 2021 and later went live on Optimism in early 2022. During the time between first launch and coming to Optimism, Clipper built a loyal userbase which it brought to Optimism through its community Adventures. Over 60k users participated in Clipper\u2019s past two Adventures, which included activities that required trading and LPing on Optimism. \n\nAs of Oct 1, there are over 125k traders and over 82k LPs on Clipper\u2019s Optimism deployment. Clipper has also brought over $104.6M in total *human* volume and >490k *human* transactions to Optimism.",
+  "contributionDescription": "Since launch, Clipper has aligned itself with Optimism users\u2019 best interests by delivering the best trading prices on major assets and the best LP returns. It is a shining star of sustainable DeFi on Optimism.\n\nClipper\u2019s pricing beats 0x API >90% of the time on at least one leg (see price study). It uses 15% less gas than Uniswap and has a customized Optimism-native deployment that further reduces gas use by optimizing call data sent to Ethereum. For LPs, Clipper has delivered above market returns compared to both HODLing and a perfectly rebalancing pool of assets. Unlike most DEXs, it has no impermanent loss and only executes trades that are profitable for LPs. \n\nClipper has also run a series of community campaigns called Adventures, which drove thousands of new active users to Optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://clipper.exchange/ ",
+      "description": "Website"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/shipyard-software",
+      "description": "Github"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x5130f6ce257b8f9bf7fac0a0b519bd588120ed40",
+      "description": "Etherscan"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/presentation/d/1QLYkVzOBrMvy8axKhID_ag0IVEaARIfN/edit#slide=id.p6 ",
+      "description": "Price study (performed on mainnet, but similarly applicable to Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.clipper.exchange/introduction/how-clipper-works#fmm-architecture",
+      "description": "How Clipper\u2019s novel architecture works"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.clipper.exchange/clipper-is-now-live-on-optimism/",
+      "description": "Clipper live on Optimism blog"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.clipper.exchange/how-to-use-clipper/community-adventures ",
+      "description": "Adventures"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Dune dashboards (all)",
+      "number": "0",
+      "url": "https://dune.com/shipyard_software/clipper-consolidated"
+    },
+    {
+      "description": "Total unique traders on Optimism",
+      "number": "125747",
+      "url": "https://dune.com/queries/3085072/5144257 "
+    },
+    {
+      "description": "Total unique LPs on Optimism",
+      "number": "82940",
+      "url": "https://dune.com/queries/3124735/5213710"
+    },
+    {
+      "description": "Clipper\u2019s data dashboard",
+      "number": "0",
+      "url": "https://clipper.exchange/data"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xb1eb9238bbb8108c50f7061ffdf6dd7c465b42ff2038155b430d62fb283e59e2",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 23,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

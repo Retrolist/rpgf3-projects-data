@@ -1,0 +1,52 @@
+{
+  "bio": "big project anthusias",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "amorfati80",
+  "websiteUrl": "https://www.amorfati.com",
+  "applicant": {
+    "address": {
+      "address": "0x3964F52Bee31b0Ed56C64FD83C050223D2149d9c",
+      "resolvedName": {
+        "address": "0x3964F52Bee31b0Ed56C64FD83C050223D2149d9c",
+        "name": "amorfati80.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3964F52Bee31b0Ed56C64FD83C050223D2149d9c"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3964F52Bee31b0Ed56C64FD83C050223D2149d9c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3964F52Bee31b0Ed56C64FD83C050223D2149d9c.png",
+    "id": "OptimistProfile|0x710b9a0fd4ff0849a3adf65caeba1c6db0117557ef648689c03c827c7c239402"
+  },
+  "impactDescription": "you are a very kind person, in giving gifts to everyone. so we are happy to be here. Don't forget our hope is that you are always enthusiastic, you will be successful if you continue to be enthusiastic. we are here and be at the forefront, and be the first to try to be here",
+  "contributionDescription": "Transactions with Optimism, mint NFT, earn on defi, stake Optimism.\nOptimism, we appreciate this project to be a useful project for everyone and we hope that in the future the project will bring a very big change for the community.\nOur hope is to become a project that is resistant to fudder and supports the project, so that it will be successful in the future.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x3964F52Bee31b0Ed56C64FD83C050223D2149d9c",
+      "description": "all transactions in Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Work that provided impact to end users",
+      "number": "100",
+      "url": "https://twitter.com/amorfati80"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": "my grants"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2372715f589f05acb1dae750b6059a5c13df157be052ca51065420d3aaaef974",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,45 @@
+{
+  "bio": "A Degen Paradist To all Chain",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Veeso",
+  "websiteUrl": "https://twitter.com/veeso__",
+  "applicant": {
+    "address": {
+      "address": "0xb4a4BB23bBD66a07a403c990f3C0F702686BBD12",
+      "resolvedName": {
+        "address": "0xb4a4BB23bBD66a07a403c990f3C0F702686BBD12",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xb4a4BB23bBD66a07a403c990f3C0F702686BBD12"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb4a4BB23bBD66a07a403c990f3C0F702686BBD12.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x71b54554e9c45550e3c93c9f3ccd78b0f00b1fb1f1df24b9c6587f34d886bc33"
+  },
+  "impactDescription": "make Art on OP or mmmm Join for make idea Art and stake NFT Highlight metrics to help badgeholders understand your impact. You can link to data dashboards, onchain contracts, spreadsheets, or any resources. Work that provided impact to application developers in the Optimism Collective, or helped bring new developers into the Collective",
+  "contributionDescription": "will make NFT on  op network or somethink , or i can make some token in Op network, staking , raid for projeck i fully support on OP network ,and voting , make meme join.join AMA , Airdrop or event on OP network.Work that provided impact to application developers in the Optimism Collective, or helped bring new developers into the Collective",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Pixel_islands",
+      "description": "this pixel on OPBNB"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Pixel Island Genesis NFT",
+      "number": "1",
+      "url": "https://twitter.com/Pixel_islands"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x48b1d2f0f5a9b05280ec0707265cd375bbdb251e1bbfabd91bed3b94b5012403",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

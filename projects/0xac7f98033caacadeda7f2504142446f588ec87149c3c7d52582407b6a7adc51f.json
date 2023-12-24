@@ -1,0 +1,52 @@
+{
+  "bio": "I'm an upcoming smart contract developer and a community builder/manager",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Stunspot",
+  "websiteUrl": "https://github.com/stunspotx",
+  "applicant": {
+    "address": {
+      "address": "0x866E1d019e56885d7f8A97fCE89D6C7C9792560b",
+      "resolvedName": {
+        "address": "0x866E1d019e56885d7f8A97fCE89D6C7C9792560b",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x866E1d019e56885d7f8A97fCE89D6C7C9792560b"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x866E1d019e56885d7f8A97fCE89D6C7C9792560b.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x866E1d019e56885d7f8A97fCE89D6C7C9792560b.png",
+    "id": "OptimistProfile|0xf33cd58fac38f7f433d09eb21af916bd178cf82efd9889f11a168c4b43e4ef6d"
+  },
+  "impactDescription": "I am an active holder of Velodrome and part of their governance system. I've minted a few NFTs on optimism and in love with what Optimism and every project in the ecosystem is building. I also have a community of over 10,000 people who are adopting this ecosystem in mass. This can spike the ecosystem's adoption rate.",
+  "contributionDescription": "I'm looking forward to building projects on the optimism ecosystem. As an upcoming smart contract developer, I need RetroPGF to acquire more gadgets that enables me to build and grow effectively and efficiently. This can give me the push I need as an individual developer meditating on several creative ideas and see how I can bring this huge vision to light on the Optimism ecosystem. My goal is to find a problem, create a team, bring a long lasting and scaling solution to the problem and build a business around it. This is the \n main reason why I wish to receive RetroPGF for.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/stunspotx",
+      "description": "A few things I built in the web2 space before onboarding to web3"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "1",
+      "url": "https://velodrome.finance/dash"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I haven't received any revenues"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xac7f98033caacadeda7f2504142446f588ec87149c3c7d52582407b6a7adc51f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

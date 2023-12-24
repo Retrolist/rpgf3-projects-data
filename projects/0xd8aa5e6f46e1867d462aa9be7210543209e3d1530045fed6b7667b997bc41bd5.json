@@ -1,0 +1,55 @@
+{
+  "bio": "Life-long learner. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Pixels Poet",
+  "websiteUrl": "https://pixels-poet.web.app",
+  "applicant": {
+    "address": {
+      "address": "0x76ce075e6CcB713099dEe965F4124fb204c741ab",
+      "resolvedName": {
+        "address": "0x76ce075e6CcB713099dEe965F4124fb204c741ab",
+        "name": "pixelspoet.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x76ce075e6CcB713099dEe965F4124fb204c741ab"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x76ce075e6CcB713099dEe965F4124fb204c741ab.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x899fbe82ca901ded014b50edacf4a3feb9e395a41147478171582149042edf76"
+  },
+  "impactDescription": "During its early days, my content was instrumental in spreading awareness and generating enthusiasm within the Thai community for Optimism. It served as an educational resource, helping Thai users become acquainted with the benefits of Layer 2 (L2) technology, particularly its cost-effective transaction capabilities. At that time, many Thai users were still unfamiliar with the concept of L2.",
+  "contributionDescription": "In early 2022, I created Thai content to introduce people to the Optimism ecosystem. I also crafted a detailed guide for completing Optimism quests in Galxe. My efforts played a vital role in building excitement and disseminating Optimism news within the Thai community during those early days.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/pixelspoet.eth/hOHH-PsMRqwvM1e8I3EUhE1wmu51Hxl3zVOTaQlmqgI",
+      "description": "Optimism Airdrop #2 - Explore the DEXes (Speculation)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/pixelspoet.eth/3xSGInM3hjRkDpuKOFRtIIgOeFEIGpRINQf-l3l0G-s",
+      "description": "Optimism Quests by Galxe (Thai Manual)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Likes, retweets and bookmarks",
+      "number": "144",
+      "url": "https://twitter.com/pixelspoet/status/1572806687983284224"
+    },
+    {
+      "description": "Mirror collected",
+      "number": "33",
+      "url": "https://mirror.xyz/pixelspoet.eth/3xSGInM3hjRkDpuKOFRtIIgOeFEIGpRINQf-l3l0G-s"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd8aa5e6f46e1867d462aa9be7210543209e3d1530045fed6b7667b997bc41bd5",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

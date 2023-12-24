@@ -1,0 +1,73 @@
+{
+  "bio": "A Public Goods DAO focused on education about Crypto and DeFi for Brazil.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Bankless Brasil DAO",
+  "websiteUrl": "https://banklessbr.com",
+  "applicant": {
+    "address": {
+      "address": "0xca8Ab405984cAc189bbEB05F453fE9A956E499C2",
+      "resolvedName": {
+        "address": "0xca8Ab405984cAc189bbEB05F453fE9A956E499C2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xca8Ab405984cAc189bbEB05F453fE9A956E499C2"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xca8Ab405984cAc189bbEB05F453fE9A956E499C2.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xca8Ab405984cAc189bbEB05F453fE9A956E499C2.png",
+    "id": "OptimistProfile|0x27c9d3935970cfd46c07b1b9bc06c21a7407e88838010e652b04c5054f4c0144"
+  },
+  "impactDescription": "About Collective Governance:\n\nOur content helped thousands of people to better understand the collective's governance system, and understand its values \u200b\u200band how to contribute.\n\nSimplifying onboarding in their own language.\n\nAbout End User Experience & Adoption:\n\nOur easy yet native content provided a better understanding of the role of layers 2 in the ethereum ecosystem, consensus systems and scalability. But not only conceptual understanding, it also helped in a practical way, by understanding how to access a wallet, add the network, make bridges and interact with DeFi protocols on-chain.",
+  "contributionDescription": "Since its inception, we have provided intense coverage, mainly written, on the development of the Optimism ecosystem for Portuguese readers. Simplifying and making technical knowledge accessible to the community in general. \n\nThe work consisted of research, translation, review and coordination of more than 10 people in maintaining this path of education.\n\nHere we have some examples of this educational content:",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://artigos.banklessbr.com/p/a-optimism-fortalece-o-mais-novo",
+      "description": "Dedicated Article about the Optimism Collective"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://artigos.banklessbr.com/p/a-optimism-e-os-nfts-metaverso",
+      "description": "Dedicated Article about the Optimism NFT ecosystem"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://artigos.banklessbr.com/p/guia-iniciante-para-a-optimism",
+      "description": "Translated Guide for the Optimism Ecosystem"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://artigos.banklessbr.com/p/o-estado-atual-do-optimistic-na-ethereum",
+      "description": "Dedicated Article on the actual state of the Optimism Ecosystem"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/live/mMaWQkOTzkI?si=IacdQCjUOQK3cWzx",
+      "description": "Youtube Live about Layer 2, where we included an introduction on Optimism "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Top 3 Dedicated Optimism Articles ",
+      "number": "2.722",
+      "url": "https://app.gemoo.com/share/image-annotation/575111415004684288?codeId=Pa1wYgYx0Z9Qg&origin=imageurlgenerator"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2940cd2c8266f4b4a49ff457565d9a2981572f272676d039080039475020147e",
+  "prelimResult": "Remove",
+  "reportReason": "The project falsely claimed 0 funding but had clear evidence of financial support from companies, NFT sales, and Giveth contributions, The project violated rules by not offering public goods, requiring payment for content and memberships, and lacking financial transparency."
+}

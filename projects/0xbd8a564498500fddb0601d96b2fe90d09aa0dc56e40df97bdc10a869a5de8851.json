@@ -1,0 +1,52 @@
+{
+  "bio": "Java dev",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Yx",
+  "websiteUrl": "https://twitter.com/Yx8080",
+  "applicant": {
+    "address": {
+      "address": "0x67C60C3F028eF4Ff82de53189f236388ca7A5f6A",
+      "resolvedName": {
+        "address": "0x67C60C3F028eF4Ff82de53189f236388ca7A5f6A",
+        "name": "444526.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x67C60C3F028eF4Ff82de53189f236388ca7A5f6A"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb57b8e5fe826fe1e91a1b6d044223b0c84e371be985c7f4cce6631afb57bfe8e"
+  },
+  "impactDescription": "\u7ed9\u670b\u53cb\u4ecb\u7ecd2\u5c42op\u516c\u94fe\u3001\u63a8\u8350\u670b\u53cb\u91c7\u75282\u5c42\u7684op\u7f51\u7edc\u3001\u64cd\u4f5c\u66f4\u4fbf\u6377\u3001\u6548\u7387\u66f4\u5feb\u3001\u522b\u7684\u4e1c\u897f\u6211\u6ca1\u4e5f\u6ca1\u6709\u505a\u4ec0\u4e48\u3001\u6211\u4e5f\u53ea\u662f\u60f3\u8981op\u7f51\u7edc\u7684\u7a7a\u6295\u3001\u6211\u53c8\u80fd\u6709\u4ec0\u4e48\u574f\u5fc3\u601d\u5462\u3001The Superchain token list is a list of tokens managed by the maintainers of this repo that have been deployed on Superchains including the OP Mainnet and Base. It serves as a source of truth for services such as the Optimism bridge UI.\n\nIt is worth noting that the Superchain Token List makes a distinction between token deployment / bridging and list curation. Tokens can be deployed / bridged in a permissionless manner, anyone can deploy / bridge a token on the Superchain.\n\nPlease note that by adding a token to the list we aren\u2019t making any claims about the token itself; tokens are not reviewed for their quality, merits, or soundness as investments.",
+  "contributionDescription": "The Superchain token list is a list of tokens managed by the maintainers of this repo that have been deployed on Superchains including the OP Mainnet and Base. It serves as a source of truth for services such as the Optimism bridge UI.\n\nIt is worth noting that the Superchain Token List makes a distinction between token deployment / bridging and list curation. Tokens can be deployed / bridged in a permissionless manner, anyone can deploy / bridge a token on the Superchain.\n\nPlease note that by adding a token to the list we aren\u2019t making any claims about the token itself; tokens are not reviewed for their quality, merits, or soundness as investments.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/2293397886",
+      "description": "1"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "420",
+      "url": "https://github.com/ethereum-optimism/ethereum-optimism.github.io"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xbd8a564498500fddb0601d96b2fe90d09aa0dc56e40df97bdc10a869a5de8851",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

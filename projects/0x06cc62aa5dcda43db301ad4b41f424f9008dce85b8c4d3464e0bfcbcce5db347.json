@@ -1,0 +1,48 @@
+{
+  "bio": "I am an Indonesian student who will educate other students about what crypto is",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Agung Prabowo",
+  "websiteUrl": "https://github.com/AgungPrabowo123",
+  "applicant": {
+    "address": {
+      "address": "0x16E3f269C3FB5dCC5844E0e5e7f8bF16270E9755",
+      "resolvedName": {
+        "address": "0x16E3f269C3FB5dCC5844E0e5e7f8bF16270E9755",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x16E3f269C3FB5dCC5844E0e5e7f8bF16270E9755"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x16E3f269C3FB5dCC5844E0e5e7f8bF16270E9755.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x02c18c46cba28af54f25fef59cbd9e38f89f8ce1d95b1091ac83d0b645e912b9"
+  },
+  "impactDescription": "for the impact of educating Indonesian students, I hope that there will be developments in my country and hopefully in the future there will be a parody of information systems and so on at universities there will be lessons about web3 and so on. By following retroGPF there is a possibility for future benefits. I hope that all my students teach can develop an optimistic network",
+  "contributionDescription": "My goal in the next 3 years is to become a student in Indonesia. I hope to learn about cryptocurrency and hopefully be able to educate Indonesian students about cryptocurrency. In this project I will encourage students to learn what Web3 is and other things that I hope for",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/AgungPrabowo123",
+      "description": "This is my new GitHub account to educate Indonesian students"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Learing web3 ",
+      "number": "2",
+      "url": "https://github.com/AgungPrabowo123"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x06cc62aa5dcda43db301ad4b41f424f9008dce85b8c4d3464e0bfcbcce5db347",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

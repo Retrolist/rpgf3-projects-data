@@ -1,0 +1,53 @@
+{
+  "bio": "Oioi",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "Isna",
+  "websiteUrl": "https://twitter.com/banimaru02",
+  "applicant": {
+    "address": {
+      "address": "0x0C8c73a772D9a2d05B6fDdD6F22A9e1268B75a81",
+      "resolvedName": {
+        "address": "0x0C8c73a772D9a2d05B6fDdD6F22A9e1268B75a81",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0C8c73a772D9a2d05B6fDdD6F22A9e1268B75a81"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0C8c73a772D9a2d05B6fDdD6F22A9e1268B75a81.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x914910f0944c6831b3dbb3097b731e714fc4799de60b46b7cbe2ff83fa83de12"
+  },
+  "impactDescription": "Maybe it won't have a big impact but I will try my best for your project, if I don't have an impact then please teach me to be more effective Maybe in the future I can be useful if guided by you. I also don't expect your guidance, I can learn autodidactically ",
+  "contributionDescription": "As an active member and able to develop the ecosystem, I will also be an active member in the community. If there are new members who join, I can help them as much as I can, and maybe I can also invite my friends to join here. I am also committed to being a useful member for everyone, I also invite betatesters so I can try your beta projects",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://github.com/blackid9/zetanymous",
+      "description": "My github"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "S",
+      "number": "449",
+      "url": "https://github.com/blackid9/zetanymous"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 500,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x62df9de8ccfd5713c6338c6746bf75d35147b01c5274b62da837ab6fa9c29247",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

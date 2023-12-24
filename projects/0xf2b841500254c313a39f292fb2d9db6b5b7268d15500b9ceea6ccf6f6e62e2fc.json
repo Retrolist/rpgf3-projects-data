@@ -1,0 +1,60 @@
+{
+  "bio": "success or failure depends on yourself",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "rikimaru",
+  "websiteUrl": "ttps://twitter.com/Haupham27",
+  "applicant": {
+    "address": {
+      "address": "0xa0C69f2768304468E884B2AeC603C9d277a8C13C",
+      "resolvedName": {
+        "address": "0xa0C69f2768304468E884B2AeC603C9d277a8C13C",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa0C69f2768304468E884B2AeC603C9d277a8C13C"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa0C69f2768304468E884B2AeC603C9d277a8C13C.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa0C69f2768304468E884B2AeC603C9d277a8C13C.png",
+    "id": "OptimistProfile|0x6d8e29c0e00be6888903a402ffca1dc3a72fee256b552d6b7415335f4068dd52"
+  },
+  "impactDescription": " I've been an early advocate for Music NFTs, recognizing their potential to revolutionize the music industry. Embracing this digital frontier, I've avidly collected these unique tokens, cherishing the fusion of art and technology they represent. The rewards for collectors of Music NFTs extend far beyond ownership; they offer a gateway to exclusive experiences, ranging from virtual concerts to personalized interactions with artists. This burgeoning ecosystem not only empowers musicians to regain control over their work but also creates a vibrant community of enthusiasts, united by a shared passion for innovation and artistic expression. As a trailblazer in this movement, I am excited to witness the transformative impact that Music NFTs will undoubtedly have on the future of music.",
+  "contributionDescription": "In the realm of digital innovation and artistic expression, I have proudly positioned myself at the forefront of supporting Music NFTs (Non-Fungible Tokens). As a fervent advocate for the convergence of technology and music, I recognized early on the transformative potential of NFTs in revolutionizing the way we value and consume musical artistry.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.sound.xyz/user/0xa0c69f2768304468e884b2aec603c9d277a8c13c/collection",
+      "description": "I come from camel venture and have made certain contributions to web3 artists  "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://x.com/Haupham27/status/1715660354225902008?s=20",
+      "description": "Hundreds of links sharing artists on sound"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "463",
+      "number": "10000",
+      "url": "https://www.sound.xyz/user/0xa0c69f2768304468e884b2aec603c9d277a8c13c"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": "https://www.sound.xyz/user/0xa0c69f2768304468e884b2aec603c9d277a8c13c"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf2b841500254c313a39f292fb2d9db6b5b7268d15500b9ceea6ccf6f6e62e2fc",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,63 @@
+{
+  "bio": "Explorer for the Farcaster network",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "prego",
+  "websiteUrl": "https://vasco.wtf",
+  "applicant": {
+    "address": {
+      "address": "0x4977A4b74D3a81dB4c462d9073E10796d0cEE333",
+      "resolvedName": {
+        "address": "0x4977A4b74D3a81dB4c462d9073E10796d0cEE333",
+        "name": "prego.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x4977A4b74D3a81dB4c462d9073E10796d0cEE333"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4977A4b74D3a81dB4c462d9073E10796d0cEE333.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3a4f5a8a3065a2f85ef56b7cf3a64b3101b232f8d729fba26d3c965c990028f0"
+  },
+  "impactDescription": "Making life easier for developers in the Farcaster network, actually ends up bringing more developers to the Optimism network, since their contracts are deployed there. By bringing more developers, there's more interest in the OP Collective and there's a growth in interactions with the network and so on. It's a snowball effect that brings positive yield to OP.",
+  "contributionDescription": "I built https://vasco.wtf \u2013 a farcaster explorer that allows users to more easily interact with farcaster data that lies both in the OP contracts, but also the hubs. This tool makes life easier for developers starting to build farcaster clients or apps. It also abstracts some of the complexity of OP smart contract interaction.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://vasco.wtf",
+      "description": "The main website for vasco"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/pedropregueiro/vasco",
+      "description": "Vasco open source github"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Referral",
+      "number": "1",
+      "url": "https://warpcast.com/manan/0x299d8e"
+    },
+    {
+      "description": "Referral",
+      "number": "1",
+      "url": "https://warpcast.com/varunsrin.eth/0xc4b027"
+    },
+    {
+      "description": "Visitors (last 30 days)",
+      "number": "379",
+      "url": "https://capture.dropbox.com/uHDmvYQefYbYwEfZ"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x352c6b7d6506710f5198c90c202a7571baf253e177876f43697521a15149220c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 15,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

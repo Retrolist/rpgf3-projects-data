@@ -1,0 +1,48 @@
+{
+  "bio": "https://app.optimism.io/",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "windc",
+  "websiteUrl": "https://app.optimism.io/",
+  "applicant": {
+    "address": {
+      "address": "0x66Ba4988156aBEF92Aa6Ef2f0E66776b826c5eF8",
+      "resolvedName": {
+        "address": "0x66Ba4988156aBEF92Aa6Ef2f0E66776b826c5eF8",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x66Ba4988156aBEF92Aa6Ef2f0E66776b826c5eF8"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x66Ba4988156aBEF92Aa6Ef2f0E66776b826c5eF8.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x5e6b0396eed2243752580ddde445feeaba3a29d235bf3bd21e44c4c11f1b6628"
+  },
+  "impactDescription": "Learning Opportunities: Airdrops often require participants to complete certain tasks like joining social media channels, referring friends, or providing feedback on the project's website or whitepaper. These activities provide valuable learning experiences about blockchain technology and its applications.",
+  "contributionDescription": "Early Access:target early adopters and supporters of new projects. By participating in an airdrop, individuals gain early access to new cryptocurrencies or blockchain-based platforms before they become widely available. Learning Opportunities: Airdrops often require participants to complete certain tasks like joining social media channels, referring friends, or providing feedback on the project's website or whitepaper. These activities provide valuable learning experiences about blockchain technology and its applications.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.optimism.io/",
+      "description": "Participating in an airdrop can offer several benefits to individuals."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "airdrop",
+      "number": "9",
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x3644a28e60c1c2fd59706eed298250cab8809162a492db21f34557b504ed6485",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

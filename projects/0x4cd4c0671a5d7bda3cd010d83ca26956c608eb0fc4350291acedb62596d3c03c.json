@@ -1,0 +1,61 @@
+{
+  "bio": "Kwenta is a perpetual futures exchange on Optimism",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Kwenta",
+  "websiteUrl": "https://kwenta.eth.limo/",
+  "applicant": {
+    "address": {
+      "address": "0xC065E02D562cc390F3569305990BFD13B17eEC6B",
+      "resolvedName": {
+        "address": "0xC065E02D562cc390F3569305990BFD13B17eEC6B",
+        "name": "kwenta.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xC065E02D562cc390F3569305990BFD13B17eEC6B"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xeade8b664a7b2aead2fbc27eb41ddf716e5f9129a72f774e97ff4de8750e32a9"
+  },
+  "impactDescription": "Through the onboarding of users, community developers, and ecosystem partners, Kwenta has contributed significantly to growth and activity on the Optimism chain, and participation in the wider ecosystem.\n\nOur commitment to building open source tools and our encouragement to other developers to share and build on collective work has helped give Optimism a reputation as one of the best places to innovate in the onchain derivatives space.\n\nWe facilitate thousands of trades per day in v2 alone, leading to millions of individual transactions on OP. ",
+  "contributionDescription": "Kwenta has grown to one of the largest perps DEXes by volume, and has helped onboard thousands of users, both large and small, to the Optimism ecosystem.\n\nAlthough we believe this contribution alone is valuable, we are particularly proud of Kwenta's work being published entirely open source, both backend and frontend. Our work has served as a blueprint for other builders in the space, including Rage Trade, a project which previously integrated only GMX on Arbitrum. Our open source Python SDK was cited as one of the tools they used to build their integration on Optimism. \n\nWe've also worked directly with integrators such as Tradao, STFX, and Copin to provide marketing, business development, and technical support to build the Optimism community.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Kwenta",
+      "description": "The Kwenta Github has the source for our frontend, python SDK, and governance"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of trades",
+      "number": "458000",
+      "url": "https://kwenta.io/stats/"
+    },
+    {
+      "description": "# of wallets",
+      "number": "14501",
+      "url": "https://kwenta.io/stats/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 791241.5635,
+      "description": "Current USD value of all SNX we have received, mostly staked by our treasury."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4cd4c0671a5d7bda3cd010d83ca26956c608eb0fc4350291acedb62596d3c03c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 47,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

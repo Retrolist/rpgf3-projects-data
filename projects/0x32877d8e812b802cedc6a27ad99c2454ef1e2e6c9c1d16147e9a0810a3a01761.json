@@ -1,0 +1,117 @@
+{
+  "bio": "3D Generative Art and PFPs ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Travenesia",
+  "websiteUrl": "https://www.aethernity.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xA49CEE842116A89299A721D831BCf0511E8F6A15",
+      "resolvedName": {
+        "address": "0xA49CEE842116A89299A721D831BCf0511E8F6A15",
+        "name": "aethernity.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xA49CEE842116A89299A721D831BCf0511E8F6A15"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA49CEE842116A89299A721D831BCf0511E8F6A15.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA49CEE842116A89299A721D831BCf0511E8F6A15.png",
+    "id": "OptimistProfile|0x919bd18e605cdce7bf3658a84f6a9dbf5673ca44625dc6bab5f20b254d32303a"
+  },
+  "impactDescription": "Travenesia's community now exceeds 5,000 hodlers across Optimism, Base, and Zora collections. We donate 50% of paid mint proceeds to public goods. In 2022, our Aethernity collection contributed over 5 ETH to Fund Public Goods on Gitcoin Grants, with 2.5 ETH aiding Optimism projects like QuestN, Wagmi.sh, and ethers.js, strengthening the Optimism blockchain community. We've become early supporters of these impactful projects.",
+  "contributionDescription": "Aethernity is an NFT project initiated by @Travenesia, a relatively small-scale endeavor. Its primary objective is to provide a gateway for new users, including Travenesia's followers and Ethereum-based NFT collectors, to access and explore a cost-effective blockchain alternative with significantly lower gas fees. Starting in June 2022, Travenesia has established multiple collections on both Optimism and Base. These collections enable users to acquire and engage with Travenesia's finest artistic creations while immersing themselves in the opportunities for studying and enhancing their web3 journey offered by the Optimism blockchain.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.aethernity.xyz/",
+      "description": "Aethernity Official Page"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/travenesia/Aethernity",
+      "description": "Dune Metrics "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.questn.com/aethernity",
+      "description": "Aethernity's Quest on QuestN"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.aethernity.xyz/",
+      "description": "Aethernity Genesis NFT Collection Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/aethernity",
+      "description": "Aethernity on Opensea"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/etherea-optimism",
+      "description": "Etherea on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/queendombase",
+      "description": "Queendom on Base"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.bonfire.xyz/travenesia/mint",
+      "description": "Etherea, Gwyn, Azura on Zora"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Unique Holders",
+      "number": "4523",
+      "url": "https://dune.com/travenesia/Aethernity"
+    },
+    {
+      "description": "Gitcoin GR14 Contributions (ETH)",
+      "number": "2.5",
+      "url": "https://twitter.com/travenesia/status/1544650881735331843"
+    },
+    {
+      "description": "QuestN & Lenster Contributions (ETH)",
+      "number": "0.3",
+      "url": "https://twitter.com/travenesia/status/1535904733369892864"
+    },
+    {
+      "description": "QuestN Questers",
+      "number": "37",
+      "url": "https://app.questn.com/aethernity"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 9482,
+      "description": "Aethernity Collection Paid Mint "
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 1566,
+      "description": "Etherea Collection Partial Paid Mint"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 956,
+      "description": "Queendom Collection Partial Paid Mint"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x32877d8e812b802cedc6a27ad99c2454ef1e2e6c9c1d16147e9a0810a3a01761",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 8,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

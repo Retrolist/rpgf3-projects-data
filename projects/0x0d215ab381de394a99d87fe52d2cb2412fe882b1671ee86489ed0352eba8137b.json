@@ -1,0 +1,48 @@
+{
+  "bio": "REKT",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "abdikonoha",
+  "websiteUrl": "https://twitter.com/hamma772",
+  "applicant": {
+    "address": {
+      "address": "0xbC51C21a260554031424580b431acbb0845DbC52",
+      "resolvedName": {
+        "address": "0xbC51C21a260554031424580b431acbb0845DbC52",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xbC51C21a260554031424580b431acbb0845DbC52"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbC51C21a260554031424580b431acbb0845DbC52.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xbC51C21a260554031424580b431acbb0845DbC52.png",
+    "id": "OptimistProfile|0x3216564782d5dec14f3343229c3910a39062f7db093007b4786fc3d8b865cbb2"
+  },
+  "impactDescription": "To be honest, I really admire the the uniqueness of this project. Like you have to proof to dev that you want to support him and not just receive the token. It's really a planned project and I believe it'll be success. Dev you're really smart to I must commend. ",
+  "contributionDescription": "with the opportunity to take part in this project, I am very enthusiastic because this is an excellent project, let's take it to the moon. am run node on tesnet, and to be active on optimism community and networking. I Think, this is very strong project\nThanks for shared this wonderful opportunity\nBest wishes for all team members",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x2da6336f39650e4A6734E1d440Ee5B78cd9fB05B",
+      "description": "token"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "OP Contract",
+      "number": "10000",
+      "url": "https://optimistic.etherscan.io/address/0x2da6336f39650e4A6734E1d440Ee5B78cd9fB05B"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x0d215ab381de394a99d87fe52d2cb2412fe882b1671ee86489ed0352eba8137b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

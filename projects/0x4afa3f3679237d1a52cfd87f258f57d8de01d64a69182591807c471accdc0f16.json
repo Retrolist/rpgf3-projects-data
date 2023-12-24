@@ -1,0 +1,48 @@
+{
+  "bio": "A Dune dashboard that presents data on the adoption of ERC4337 Smart Accounts",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "ERC4337 Smart Accounts Dune Dashboard",
+  "websiteUrl": "https://dune.com/niftytable/account-abstraction",
+  "applicant": {
+    "address": {
+      "address": "0x701E37643DADa13DE79e66A74E7d6187FC48faD2",
+      "resolvedName": {
+        "address": "0x701E37643DADa13DE79e66A74E7d6187FC48faD2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x701E37643DADa13DE79e66A74E7d6187FC48faD2"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x701E37643DADa13DE79e66A74E7d6187FC48faD2.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x701E37643DADa13DE79e66A74E7d6187FC48faD2.png",
+    "id": "OptimistProfile|0x9098a88aa297fc5044ceeee27098d8912228a66516a783412d919d37eb382edf"
+  },
+  "impactDescription": "190k+ ERC4337 accounts have been deployed on Optimism and Base, making the Superchain one of the top ecosystems for smart account activity. \n\nMost teams building ERC4337 infrastructure use the data from this dashboard to track the category's growth and inform their strategies.\n\n\ud835\udde7\ud835\uddf2\ud835\ude00\ud835\ude01\ud835\uddf6\ud835\uddfa\ud835\uddfc\ud835\uddfb\ud835\uddf6\ud835\uddee\ud835\uddf9\ud835\ude00\n\n\u201cKofi has substantially contributed to the excitement around Account Abstraction over the last months. Being able to transparently see the continued adoption of Smart Accounts via his Dune Dashboard clearly showed the community the progress this new ecosystem is making.\u201d\nLukas Schor\nFounder of Safe\n\n\u201cKofi has built the go-to dashboard for all ERC4337 data. I check it all the time!\u201d\nKristof Gazso\nCo-author of EIP4337\nFounder of Pimlico [ERC4337 Bundler and Paymaster provider]",
+  "contributionDescription": "\ud835\udde7\ud835\udddf\ud835\uddd7\ud835\udde5\nBuilt a Dune dashboard on ERC4337 Smart Accounts. Provides valuable insight for teams building smart account infrastructure.\n\n\ud835\uddd7\ud835\uddf2\ud835\ude00\ud835\uddf0\ud835\uddff\ud835\uddf6\ud835\uddfd\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\nThis dashboard breaks down \n- Overview statistics  (accounts deployed, monthly transactions .etc)\n- Bundler Performance (marketshare, revenue .etc)\n- Paymaster activity (marketshare, gas spend .etc)\n- Application usage by ERC4337 accounts \n\nIt is currently the most popular Dune dashboard for ERC4337 with 410+ stars. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/niftytable/account-abstraction",
+      "description": "Dashboard Link"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Stars",
+      "number": "423",
+      "url": "https://dune.com/niftytable/account-abstraction"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4afa3f3679237d1a52cfd87f258f57d8de01d64a69182591807c471accdc0f16",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 49,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

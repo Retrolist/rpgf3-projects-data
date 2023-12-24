@@ -1,0 +1,48 @@
+{
+  "bio": "Nothing",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "malghz.eth",
+  "websiteUrl": "https://medium.com/@malghzspsi",
+  "applicant": {
+    "address": {
+      "address": "0x95478Afa758A5693344506bEA10dD7cA95819dB5",
+      "resolvedName": {
+        "address": "0x95478Afa758A5693344506bEA10dD7cA95819dB5",
+        "name": "malghz.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x95478Afa758A5693344506bEA10dD7cA95819dB5"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x95478Afa758A5693344506bEA10dD7cA95819dB5.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xbd3a818432e8e7b3a2a9429402d21a9f53172d2b077f3da473900ab8a16df6b7"
+  },
+  "impactDescription": "Maybe it will bring in lots of new users on the Optimism Chain in the future, as well as provide education about the ecosystem that exists on the Optimism Chain, to people who don't understand what Optimism is, and in the future maybe I can participate in the upcoming bug bounty agenda at chain optimism.",
+  "contributionDescription": "I am an admin of an educational group about crypto, and I often recommend making transactions via the Optimism network because the fees are very cheap and the transaction speed is very fast. That way, maybe there will be many new people who will join the optimism network in the future, thank you.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Verifiedlabs",
+      "description": "Ok"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Github",
+      "number": "0",
+      "url": "https://github.com/Verifiedlabs"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd2ef63586f451c8ae6f046651e9d9f3940b9f01c7c0e936acaac2d4bd7109403",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,55 @@
+{
+  "bio": "Student ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Tausif Ansari",
+  "websiteUrl": "https://www.twitter.com/klever_op",
+  "applicant": {
+    "address": {
+      "address": "0x74Ef9A0BE1CD0939aDa5694817349843A37A40AF",
+      "resolvedName": {
+        "address": "0x74Ef9A0BE1CD0939aDa5694817349843A37A40AF",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x74Ef9A0BE1CD0939aDa5694817349843A37A40AF"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x74Ef9A0BE1CD0939aDa5694817349843A37A40AF.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x74Ef9A0BE1CD0939aDa5694817349843A37A40AF.png",
+    "id": "OptimistProfile|0x06ce4ef3a0e4ed28832db4c6be16720b4e5d31ed689942301aff2523438d22a2"
+  },
+  "impactDescription": "My work on the OVM has helped to make it a reliable and efficient platform for running Ethereum smart contracts. The OVM is now used by a wide range of projects, including some of the largest and most popular decentralized applications on Ethereum.\n\nMy work on the Optimism Sequencer has helped to improve the performance and scalability of the Optimism network. The Optimism Sequencer is now able to process thousands of transactions per second, making Optimism one of the fastest and most scalable Layer 2 scaling solutions for Ethereum.",
+  "contributionDescription": "Developing the Optimism Virtual Machine (OVM): The OVM is a new type of virtual machine that is specifically designed for running Optimistic Rollups. I helped to design and implement the OVM, which is a key component of the Optimism network.\nContributing to the Optimism Sequencer: The Optimism Sequencer is a piece of software that coordinates the execution of transactions on the Optimism network. I helped to develop and improve the Optimism Sequencer, which is essential for the smooth operation of the network.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x74Ef9A0BE1CD0939aDa5694817349843A37A40AF",
+      "description": "OPTISMISM"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": " op-challenger:  resolution (#7155)",
+      "number": "7155",
+      "url": "https://github.com/ethereum-optimism/optimism/commit/7fefff6e039d73bd395080ec8aa4dc426c7d14c7"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd77e6f2914a963e7fd8bb908881f30a5188c3fac58a054067f181bd624c5519f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

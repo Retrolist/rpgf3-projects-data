@@ -1,0 +1,52 @@
+{
+  "bio": "Interested in Music NFT",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Thuy Tran",
+  "websiteUrl": "https://www.sound.xyz/user/0x4b9923d488dc8831f6857fe45f2182d714257728",
+  "applicant": {
+    "address": {
+      "address": "0x4b9923D488DC8831F6857fe45f2182D714257728",
+      "resolvedName": {
+        "address": "0x4b9923D488DC8831F6857fe45f2182D714257728",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x4b9923D488DC8831F6857fe45f2182D714257728"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4b9923D488DC8831F6857fe45f2182D714257728.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4b9923D488DC8831F6857fe45f2182D714257728.png",
+    "id": "OptimistProfile|0x1964c6b0fbf0e1750923841ad7cff640e0f28c330921ac2c7d0c45d8c7949f9a"
+  },
+  "impactDescription": "My support help Artists have fun to continue their dream onchain, and help other people know about OP's NFTs and music NFTs and mint them. Also I joined many group about NFT music to support them and inspired other to mint NFTs. My journey has not end here, I will continue to support Artists and share NFT music to others.",
+  "contributionDescription": "Using OP as a main chain I active on, I had minted many NFT on Soundxyz as a collector, backed 15 artists and collect 207 NFT on it, top collector on some drops.\nI'm also act as a curator and share NFT on OP chain to other to mints, and top curator on some drops especially from Mija.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/user/0x4b9923d488dc8831f6857fe45f2182d714257728",
+      "description": "soundxyz profile"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of mints",
+      "number": "207",
+      "url": "https://www.sound.xyz/user/0x4b9923d488dc8831f6857fe45f2182d714257728"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4b8c6393b1b16d6e969e48c2ee60802ea6bc32035bf026a3432f006cb77ce159",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

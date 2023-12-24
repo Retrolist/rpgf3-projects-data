@@ -1,0 +1,83 @@
+{
+  "bio": "Hanging out on Farcaster",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Brian Kim",
+  "websiteUrl": "https://warpcast.com/brianjckim.eth",
+  "applicant": {
+    "address": {
+      "address": "0xa35156ca4294c13fe256B10091F3D6595E3Bf7d7",
+      "resolvedName": {
+        "address": "0xa35156ca4294c13fe256B10091F3D6595E3Bf7d7",
+        "name": "brianjckim.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xa35156ca4294c13fe256B10091F3D6595E3Bf7d7"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa35156ca4294c13fe256B10091F3D6595E3Bf7d7.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x851201bd8c066f9ac17eb404c0b67a3a9764f62fe1407a5b36f67be96fcbaaca"
+  },
+  "impactDescription": "Tiles was used by the Farcaster team to introduce the beta of their \"in-app purchases for onchain actions\" feature on the Warpcast iOS app. This is a huge unlock from a UX perspective for the crypto industry as users can now complete onchain actions without touching crypto at all. For instance, users can choose Apple Pay to purchase signers when they connect their accounts to other clients built on top of Farcaster. This extends to other onchain actions such as signing up for an account, recovering an account, and paying for storage. As many teams build consumer experiences on top of the Superchain ecosystem, this type of UX will be essential in onboarding the next wave of users who are new to the space and aren't as crypto-savvy.",
+  "contributionDescription": "I built an image-focused client for Farcaster, which recently migrated to OP Mainnet. Given that most of the existing Farcaster clients focus on \"words\", I wanted to provide a way for users to showcase all of their visual content on the Farcaster network. Users can view feeds of images sorted by Farcaster channels (which are like decentralized subreddits organized around an NFT) and by different users, including the ones they've liked. Although it's a relatively simple application, I've received great feedback from the community so far.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://tiles.cool",
+      "description": "Tiles website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://warpcast.com/brianjckim.eth/0x812f701b",
+      "description": "Tiles launch announcement"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.launchcaster.xyz/weekly/48",
+      "description": "Top three launch of the week"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://warpcast.com/antimofm.eth/0xd8654588",
+      "description": "User feedback #1"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://warpcast.com/entropybender/0x69401c2f",
+      "description": "User feedback #2"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://warpcast.com/ghostlinkz.eth/0xdcbf98bf",
+      "description": "User feedback #3"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://warpcast.com/chukwukaosakwe/0x5f795ec9",
+      "description": "User feedback #4"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of likes on beta feature announcement",
+      "number": "150",
+      "url": "https://warpcast.com/dwr.eth/0x247ccfbd"
+    },
+    {
+      "description": "# of unique users of beta feature",
+      "number": "71",
+      "url": "https://dune.com/queries/3072148/5117408"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x83b63f78793a42b790fc046ef62adc58f278b8555e6faed25c2fbcfa28122238",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 17,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,60 @@
+{
+  "bio": "I'm newbie, but i Will try",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Ramlan",
+  "websiteUrl": "https://www.bughats.online",
+  "applicant": {
+    "address": {
+      "address": "0x2E3a1d2cCe3618F276CF6e5e3e8F2B3a81fCeA7c",
+      "resolvedName": {
+        "address": "0x2E3a1d2cCe3618F276CF6e5e3e8F2B3a81fCeA7c",
+        "name": "puerperium.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2E3a1d2cCe3618F276CF6e5e3e8F2B3a81fCeA7c"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2E3a1d2cCe3618F276CF6e5e3e8F2B3a81fCeA7c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2E3a1d2cCe3618F276CF6e5e3e8F2B3a81fCeA7c.png",
+    "id": "OptimistProfile|0x5267a8e8459031a8fc28f603a7a509a52a7ea9381986a0be50ea05f6b41ca189"
+  },
+  "impactDescription": "This is definitely going to be HUGE!  as the team has been an inspiration in their innovative approaches towards achieving the project goals and visions , I am so glad to be part of this. \nI Think, this is very strong project\nThanks for shared this wonderful opportunity\nBest wishes for all team members",
+  "contributionDescription": "This project looks very interesting. I am interested, and I will support this project until it is successful according to the plan that has been set\n\nI have participated in following the guidelines and rules of this airdrop, I hope that many people will be lucky to get a prize from this airdrop.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.bughats.online",
+      "description": "Yes"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.bughats.online",
+      "description": "Ok"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Download",
+      "number": "550",
+      "url": "https://www.bughats.online"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf8fbc850514674e773252363aefa57d813b123694f6b8dfc9248f1b494885070",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

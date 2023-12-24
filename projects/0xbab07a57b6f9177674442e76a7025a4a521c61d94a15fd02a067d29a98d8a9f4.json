@@ -1,0 +1,54 @@
+{
+  "bio": "I'm a lady who loves Crypto so much, i like multiple incomesm",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Queenny ",
+  "websiteUrl": "https://updatesoncrypto.site",
+  "applicant": {
+    "address": {
+      "address": "0x8160684b00f59B8d2049C23c71bF42d6ea533c3c",
+      "resolvedName": {
+        "address": "0x8160684b00f59B8d2049C23c71bF42d6ea533c3c",
+        "name": "queenny.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8160684b00f59B8d2049C23c71bF42d6ea533c3c"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8160684b00f59B8d2049C23c71bF42d6ea533c3c.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xd6d2ec86c5cc60adbf51c33f3a56e5880b9f3c3320a8398546edd027ec010409"
+  },
+  "impactDescription": "My impact is on optimism project as a whole, the number 1 on chain contract that have been rewarding their users through retroactive Airdrops and other incentives, i like the way they carried and valued their users  and community unlike other L2 over they. Keep up the good work.",
+  "contributionDescription": "I'll contribute through GitHub repository on-chain contract and through Twitter, linkined an on my Blockchain update site so that the whole world will know what the RetroPGF is all about, Option is the most useful and active L2 that have rewards their users so far. Great project.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/CryptoQ44406880/status/1704434743100489731?t=-wlJFrwH0a22FbcGAVZTYw&s=19",
+      "description": "Twitter (X)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "260",
+      "url": "https://twitter.com/CryptoQ44406880/status/1704434743100489731?t=-wlJFrwH0a22FbcGAVZTYw&s=19"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 100000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xbab07a57b6f9177674442e76a7025a4a521c61d94a15fd02a067d29a98d8a9f4",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

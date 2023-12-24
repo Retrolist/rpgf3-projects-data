@@ -1,0 +1,48 @@
+{
+  "bio": "Crypto Enthusiast",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Suckers",
+  "websiteUrl": "https://morgaans.id",
+  "applicant": {
+    "address": {
+      "address": "0xFb6EFfd4528d7e03cC5c53880C15A7bb0C24f1f9",
+      "resolvedName": {
+        "address": "0xFb6EFfd4528d7e03cC5c53880C15A7bb0C24f1f9",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xFb6EFfd4528d7e03cC5c53880C15A7bb0C24f1f9"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFb6EFfd4528d7e03cC5c53880C15A7bb0C24f1f9.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb56541e701cfc38a654de89f245e18dde6adab61b820a4240dc0efb507b7b3a3"
+  },
+  "impactDescription": "I will fully support the optimism collective here, by joining here I will definitely be part of the optimism community, of course as a good community I will always support whatever the optimism party needs. Maybe that's all I can say, I hope I can contributed well to this project.",
+  "contributionDescription": "i optimism users i have many transaction in optimism network,and I joined here wanting to contribute more to the optimism project,and I think this project will be more successful in the future because it has a large community.I also really enjoy trading NFT on the Optimism Network, apart from that I have also tried several dexes on the Optimism Network",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/Renkaali",
+      "description": "this is my github profile "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "12",
+      "number": "200",
+      "url": "https://github.com/Renkaali"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x2407fc8e71820e92d758beda0b0d74dc8d59d916a3a5dec436f4d01e3a25ee9e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

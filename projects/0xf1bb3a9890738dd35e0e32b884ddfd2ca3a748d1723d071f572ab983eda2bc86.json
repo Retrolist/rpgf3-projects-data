@@ -1,0 +1,65 @@
+{
+  "bio": "Teaching Ukrainians how to use crypto and introducing them to the web3 world",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Basic course in blockchain and crypto literacy ",
+  "websiteUrl": "https://osvita.diia.gov.ua/en/courses/crypto-and-blockchain-module1 ",
+  "applicant": {
+    "address": {
+      "address": "0xff95a2f9bf8fe8019d1f705B5b1e3cb8a8F223C0",
+      "resolvedName": {
+        "address": "0xff95a2f9bf8fe8019d1f705B5b1e3cb8a8F223C0",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xff95a2f9bf8fe8019d1f705B5b1e3cb8a8F223C0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xce82b404b72377936098cb7ba0d373ae40180c9798f5927371b247857e1bff73"
+  },
+  "impactDescription": "The course consists of four modules. Each module features 9-14 lessons. Lessons consist of videos, text lectures, illustrations and diagrams, tests, additional materials, and practical cases. All tests and cases are compulsory and a student must finish every lesson and complete every task within a module in order to complete the module and receive a certificate.\n\nMaterials featuring Optimism are found in Module 01 in Lesson 9: \u201cBlockchain Layers. Sidechains,\u201d including a dedicated 6-minute video on Optimistic rollups & OP Stack, additional materials, and a test question. Materials on Optimism were developed with Rev Miller and CJ Hetherington from Atlantis World with CJ presenting the information in the video. Also, Optimism Foundation is positioned as a core partner in all communications.",
+  "contributionDescription": "Announced in December, on February 28, 2023, the Virtual Assets project office within Ukraine\u2019s Ministry of Digital Transformation launched an educational project on crypto literacy and blockchain that aims to teach Ukrainians how to proficiently use crypto assets and introduce them to the fundamentals of blockchain technology and the web3 world. The course comprises four modules and offers a total of 100 hours of theoretical and practical training. All modules are free and accessible for study on the national platform Diia.Osvita. Information on Optimism was included in the main syllabus from the outset in Module I and is compulsory for all the students. Besides, the Optimism Foundation has been mentioned in all communications on the same level as other core partners, 7M outreach.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://osvita.diia.gov.ua/en/courses/crypto-and-blockchain-module1 ",
+      "description": "Ukrainian national educational platform Diia.Osvita"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total students enrolled",
+      "number": "19718",
+      "url": "https://twitter.com/bccourse/status/1706233426137772100"
+    },
+    {
+      "description": "Students completed module 1",
+      "number": "2605",
+      "url": "https://osvita.diia.gov.ua/en/courses/crypto-and-blockchain-module1"
+    },
+    {
+      "description": "Total media outreach Dec 2022 \u2014 Jul 2023",
+      "number": "7000000",
+      "url": "https://zaxid.net/vzhe_18_tisyach_ukrayintsiv_priyednalisya_do_proyektu_z_kriptogramotnosti_vid_whitebit_ta_mintsifri_n1571908"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 4500,
+      "description": "As of RPGF2, we had 20k pre-sign ups and 2.6k students. Now we have 19k students"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf1bb3a9890738dd35e0e32b884ddfd2ca3a748d1723d071f572ab983eda2bc86",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 25,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

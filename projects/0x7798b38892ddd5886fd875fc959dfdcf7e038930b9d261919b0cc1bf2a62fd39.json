@@ -1,0 +1,67 @@
+{
+  "bio": "An adventure game to learn about Web3 in a fun way, without any technical jargon",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Revolte",
+  "websiteUrl": "https://www.revolte.app",
+  "applicant": {
+    "address": {
+      "address": "0xAC4DDaf8FBfFba0f1e8c7619720335FD4f03EaCD",
+      "resolvedName": {
+        "address": "0xAC4DDaf8FBfFba0f1e8c7619720335FD4f03EaCD",
+        "name": "antoinew.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xAC4DDaf8FBfFba0f1e8c7619720335FD4f03EaCD"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAC4DDaf8FBfFba0f1e8c7619720335FD4f03EaCD.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xAC4DDaf8FBfFba0f1e8c7619720335FD4f03EaCD.jpeg",
+    "id": "OptimistProfile|0x33ba38b0c3eb840aeb20b2f0bb2f697ac5d125041be3bff92e43f715147926e5"
+  },
+  "impactDescription": "Revolte, was introduced in March 2023, and within a short span until the end of September 2023, it has already facilitated the creation of more than 1600 new Web3 wallets. These wallets were instrumental in introducing users to the broader Web3 ecosystem, marking a significant milestone in our journey.\n\nHowever, it's important to emphasize that this is just the beginning of our impact. Our next endeavor is the launch of the upcoming chapter, which is dedicated to delving into the existing protocols on the mainnet. We aim to seamlessly integrate every interaction with these protocols into our narrative, ensuring that the experience remains captivating and engaging for our users.",
+  "contributionDescription": "Our contribution to Optimism involves the development of an educational project known as Revolte, which serves as a platform for individuals to gain knowledge about web3 technology. \nThis interactive adventure game commences with the setup of your initial digital wallet, guiding users through the process if they don't already possess one. To progress further in the game, participants are required to undertake essential actions, such as executing transactions on the Optimism network. It's important to note that, at present, Optimism is the exclusive network available for engagement within our game.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/pgrandne/revolte",
+      "description": "Our project's Github (Entirely OPEN SOURCE)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Growth sheet - Wallets created",
+      "number": "1680",
+      "url": "https://docs.google.com/spreadsheets/d/1NkP472MaclQgNEio_ZauCFpU1FoxtW5u/edit?usp=sharing&ouid=106633924830542856391&rtpof=true&sd=true"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 2800,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 4777,
+      "description": "Gitcoin Beta Round"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 724,
+      "description": "Gitcoin GG18"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7798b38892ddd5886fd875fc959dfdcf7e038930b9d261919b0cc1bf2a62fd39",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 21,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

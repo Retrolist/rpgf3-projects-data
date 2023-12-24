@@ -1,0 +1,48 @@
+{
+  "bio": "go for the goal",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "shandy1225",
+  "websiteUrl": "https://twitter.com/cryptoshandy",
+  "applicant": {
+    "address": {
+      "address": "0x1b2d294ab6ca449e34F946B86540cd342cF49100",
+      "resolvedName": {
+        "address": "0x1b2d294ab6ca449e34F946B86540cd342cF49100",
+        "name": "shandy1225.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x1b2d294ab6ca449e34F946B86540cd342cF49100"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1b2d294ab6ca449e34F946B86540cd342cF49100.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xff99929f6d0b598e9072d3fef1711c4372999ccff33ebbfcdc28ebdede9e9549"
+  },
+  "impactDescription": "crypto enthusiast, optimism user, optimism bridger, op stack, collective governance,  more airdrop, RetroPGF is an ongoing experiment. Each round, the Optimism Collective learns from and iterates on the previous round\u2019s system design. explores the design of the OP Stack\u2019s FPVM and how the full fault proof system advances both technical and social decentralization in the Optimism ecosystem.\n",
+  "contributionDescription": "crypto enthusiast, optimism user, optimism bridger, op stack, collective governance,  more airdrop, RetroPGF is an ongoing experiment. Each round, the Optimism Collective learns from and iterates on the previous round\u2019s system design. explores the design of the OP Stack\u2019s FPVM and how the full fault proof system advances both technical and social decentralization in the Optimism ecosystem.\n\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xb5c6ce13195da1227eee026101538c7a5bffd4ea59bc048c22aaa2d9afd61aca",
+      "description": "github"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "op",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/tx/0xb5c6ce13195da1227eee026101538c7a5bffd4ea59bc048c22aaa2d9afd61aca"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xa73fdf49cc8adc368b06c25ee6fdcec7a908a359ea6eaf208927989964207f99",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

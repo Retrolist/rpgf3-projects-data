@@ -1,0 +1,92 @@
+{
+  "bio": "5+ projects over 1.5 years, supporting consumers and developers on Farcaster",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Greg's Farcaster Projects",
+  "websiteUrl": "https://gregskril.com/farcaster",
+  "applicant": {
+    "address": {
+      "address": "0x179A862703a4adfb29896552DF9e307980D19285",
+      "resolvedName": {
+        "address": "0x179A862703a4adfb29896552DF9e307980D19285",
+        "name": "gregskril.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x179A862703a4adfb29896552DF9e307980D19285"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x179A862703a4adfb29896552DF9e307980D19285.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x179A862703a4adfb29896552DF9e307980D19285.png",
+    "id": "OptimistProfile|0x49b6de943b46be23a2ea75ca2ab9e2ebb0012e44e75bceee89364b98ac48bbac"
+  },
+  "impactDescription": "My projects have made it easier for dozens of developers to build applications (Searchcaster), dozens of artists to distribute their work (Fardrop), and tens of thousands of consumers to observe the network/take control of their decentralized social profiles (Searchcaster, Farcaster Network, fcstr.xyz, etc.). These tools are built to enhance the Farcaster ecosystem which is rooted in OP Mainnet.",
+  "contributionDescription": "Over the past year and a half, I've built over 5 standalone projects for the Farcaster ecosystem, a social protocol on OP Mainnet. These range from developer APIs to user-friendly frontends for smart contracts. The largest is Searchcaster, a free and open-source search engine that has served 75M API requests in the last 12 months and is used by some of the most popular apps that integrate Farcaster.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://searchcaster.xyz/",
+      "description": "Searchcaster (app and API), an open-source search engine for Farcaster"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/gskril/farcaster-indexer/",
+      "description": "Indexer that powers Searchcaster (open-source)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://recover.fcstr.xyz/",
+      "description": "Easiest way to set a recovery address for your Farcaster account (open-source)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gift.fcstr.xyz/",
+      "description": "Easiest way to gift a Farcaster account (open-source)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://fardrop.xyz/",
+      "description": "Easiest way to get a list of EVM addresses from a social graph"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://farcaster.network/",
+      "description": "Dashboard of important Farcaster analytics"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Unique Visitors",
+      "number": "65000",
+      "url": "https://gregskril.com/farcaster"
+    },
+    {
+      "description": "Searchcaster API Requests",
+      "number": "75000000",
+      "url": "https://searchcaster.xyz/docs"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "Warpcast retro grants"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Purple DAO grants"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x79619331d5996c793ac13edcd77c369de5e72344add6ebedac5977c0552067a0",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 36,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

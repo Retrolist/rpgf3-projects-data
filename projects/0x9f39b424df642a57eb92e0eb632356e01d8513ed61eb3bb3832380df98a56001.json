@@ -1,0 +1,45 @@
+{
+  "bio": "Just a zebra testing",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Zebra2",
+  "websiteUrl": "https://app.optimism.io",
+  "applicant": {
+    "address": {
+      "address": "0x2238ac9055150e268662D2398c4B671d386Db0d7",
+      "resolvedName": {
+        "address": "0x2238ac9055150e268662D2398c4B671d386Db0d7",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2238ac9055150e268662D2398c4B671d386Db0d7"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2238ac9055150e268662D2398c4B671d386Db0d7.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2238ac9055150e268662D2398c4B671d386Db0d7.png",
+    "id": "OptimistProfile|0x3d511098a6fd4985f1f82d8d847ffd30bcfaccaa72775b4c2c8a3f5d2873b53e"
+  },
+  "impactDescription": "Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. ",
+  "contributionDescription": "Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing. Just a zebra testing.  dasfsdaf",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/optimism",
+      "description": "Optimism monorepo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of stars",
+      "number": "420",
+      "url": "https://github.com/ethereum-optimism/optimism"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x9f39b424df642a57eb92e0eb632356e01d8513ed61eb3bb3832380df98a56001",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

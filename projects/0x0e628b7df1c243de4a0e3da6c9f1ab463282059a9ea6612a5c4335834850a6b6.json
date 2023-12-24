@@ -1,0 +1,61 @@
+{
+  "bio": "A portal to make the users Optimistic!",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "MakeMeOptimistic",
+  "websiteUrl": "http://makemeoptimistic.com/",
+  "applicant": {
+    "address": {
+      "address": "0xc51a422300Dcb1D0b5Ed539230E27DC082E7fe99",
+      "resolvedName": {
+        "address": "0xc51a422300Dcb1D0b5Ed539230E27DC082E7fe99",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xc51a422300Dcb1D0b5Ed539230E27DC082E7fe99"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc51a422300Dcb1D0b5Ed539230E27DC082E7fe99.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x2d65afe8569dc42ccd135583db4dd79732c2eed265028b76516c9cf6e8d2973b"
+  },
+  "impactDescription": "New users are getting optimistic! And existing users are becoming more optimistic!\nThousands of views and contributions in the game portal are proof that users have now knowledge about Optimism and the Optimism ecosystem, and have the experience to participate in governance and start using the Optimism network and its d\u0650Apps.",
+  "contributionDescription": "Many new users suffer from a lack of resources and difficulty in obtaining information about Blockchain, Web3, Optimism, etc.. in one place, and thus this makes them not optimistic.\nI present to you a comprehensive portal to make the new user optimistic and the existing user more optimistic.\nThe portal contains many articles that answer the questions \"What is..?\"\nand \"how to..?\"\nAs most users use these questions to search for information.\nIn addition to that, There is an educational portal based on the gamification system, where users participate in competitions and learn at the same time.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "http://makemeoptimistic.com/",
+      "description": "A portal to make users have knowledge about Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "http://quiz.makemeoptimistic.com/",
+      "description": "A quiz portal based on gamification about Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": " Registered users (quiz portal)",
+      "number": "500",
+      "url": "https://docs.google.com/document/d/1BMS3_U20fNsh83oeJynn7P0q_HmlU4ConbUAuNrGOLw/edit?usp=sharing"
+    },
+    {
+      "description": "Views",
+      "number": "10000",
+      "url": "https://docs.google.com/document/d/1BMS3_U20fNsh83oeJynn7P0q_HmlU4ConbUAuNrGOLw/edit?usp=sharing"
+    },
+    {
+      "description": "Event count",
+      "number": "26000",
+      "url": "https://docs.google.com/document/d/1BMS3_U20fNsh83oeJynn7P0q_HmlU4ConbUAuNrGOLw/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x0e628b7df1c243de4a0e3da6c9f1ab463282059a9ea6612a5c4335834850a6b6",
+  "prelimResult": "Remove",
+  "reportReason": "['makemeoptimistic.com domain created one month ago,and twitter has very less views.so the active users and website views might be faked']"
+}

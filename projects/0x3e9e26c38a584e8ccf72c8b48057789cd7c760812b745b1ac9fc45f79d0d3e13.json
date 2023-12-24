@@ -1,0 +1,55 @@
+{
+  "bio": " Hello! I am a fan of the artist",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Duong Viet Phuc",
+  "websiteUrl": "https://www.sound.xyz/user/0x5635388c4e0a2117fd1fe9501aa6e1fceb31cca6",
+  "applicant": {
+    "address": {
+      "address": "0x5635388c4E0a2117fd1Fe9501Aa6E1FCeb31cca6",
+      "resolvedName": {
+        "address": "0x5635388c4E0a2117fd1Fe9501Aa6E1FCeb31cca6",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5635388c4E0a2117fd1Fe9501Aa6E1FCeb31cca6"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xdce9d2ae63bc9757f8a31400f256e46d277a1dfabcde708a161087f552bec4f5"
+  },
+  "impactDescription": "I have linked 31 artists and own 254 collections for myself. So I want to be able to connect more with other artists in the future. Help many artists have motivation for better personal and community development. From there, it can attract more members and users to know about future music projects",
+  "contributionDescription": "Hello! I am a fan of the artist. Hopefully this small contribution will be a driving force for the NFT market to develop more. Artists and OP together achieve new achievements for the future. I hope to receive investment from the project to promote and support artists.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.sound.xyz/user/0x5635388c4e0a2117fd1fe9501aa6e1fceb31cca6",
+      "description": "I use OP as a payment tool to support artists."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "collections ",
+      "number": "254",
+      "url": "https://www.sound.xyz/user/0x5635388c4e0a2117fd1fe9501aa6e1fceb31cca6"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1500,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3e9e26c38a584e8ccf72c8b48057789cd7c760812b745b1ac9fc45f79d0d3e13",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

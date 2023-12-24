@@ -1,0 +1,76 @@
+{
+  "bio": " The fastest one-stop gas station for exploring L2's and upcoming testnets.   ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "nic",
+  "websiteUrl": "https://www.gas.zip",
+  "applicant": {
+    "address": {
+      "address": "0xD2A333009E5cEEF7EDfD6f82489005d1DC6ae9E8",
+      "resolvedName": {
+        "address": "0xD2A333009E5cEEF7EDfD6f82489005d1DC6ae9E8",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xD2A333009E5cEEF7EDfD6f82489005d1DC6ae9E8"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD2A333009E5cEEF7EDfD6f82489005d1DC6ae9E8.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xc612d0ecba8028df4cbd91b9e8b37881b23275a72bef3b5a38f65fed36e193cc"
+  },
+  "impactDescription": "- Deployed a novel product that solves a clear problem; encourages builders and explorers to use Optimism.\n- Product has accrued steady (quantifiable and monitored) user growth and traction over the last quarter since launch (unique users, transaction count etc).\n- Team behind product continues to develop and ship improvements, solicit reguarl user feedback.",
+  "contributionDescription": "Gas.Zip is a multi-chain bridge that currently supports 40+ mainnets and testnets via Optimism, Arbitrum and Ethereum. The team launched Gas.Zip in June. Since then, there has been very steady user growth, transaction volume.\n\nWe built Gas.Zip to make chain exploration easy. It is difficult for the majority of users and builders to explore new chains, ecosystems easily and quickly. Infrastructure like Gas.Zip solves this problem. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/address/0x9e22ebec84c7e4c4bd6d4ae7ff6f4d436d6d8390#code",
+      "description": "Contracts"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.gas.zip/",
+      "description": "Website"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/size-market/sybil-interface",
+      "description": "FE github"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/size-market/gas-zip-backend",
+      "description": "Backend github"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/address/0x9e22ebec84c7e4c4bd6d4ae7ff6f4d436d6d8390#codehttps://etherscan.io/address/0x9e22ebec84c7e4c4bd6d4ae7ff6f4d436d6d8390#code",
+      "description": "Contract"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Transactions",
+      "number": "3729",
+      "url": "https://size.retool.com/apps/44f2ff1c-3eb0-11ee-950e-0f155012eab1/Gas.Zip%20Dashboard%20-%20real"
+    },
+    {
+      "description": "Unique Users",
+      "number": "1509",
+      "url": "retoohttps://size.retool.com/apps/44f2ff1c-3eb0-11ee-950e-0f155012eab1/Gas.Zip%20Dashboard%20-%20reall above"
+    },
+    {
+      "description": "% Deposits via Optimism vs Eth vs Arb",
+      "number": "35",
+      "url": "retoohttps://size.retool.com/apps/44f2ff1c-3eb0-11ee-950e-0f155012eab1/Gas.Zip%20Dashboard%20-%20reall above"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x53f97287b63b1620d39ee5ef5626f87d334796962c4a3b524a59d576ff130bb7",
+  "prelimResult": "Remove",
+  "reportReason": ""
+}

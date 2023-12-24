@@ -1,0 +1,76 @@
+{
+  "bio": "Promote and create new educational opportunities in technology for Latam talent.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Andino - Talent in technology",
+  "websiteUrl": "https://andino.gitbook.io/andino/",
+  "applicant": {
+    "address": {
+      "address": "0x363cDaA139E1Fc64d308aa2129852745676bA680",
+      "resolvedName": {
+        "address": "0x363cDaA139E1Fc64d308aa2129852745676bA680",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x363cDaA139E1Fc64d308aa2129852745676bA680"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x363cDaA139E1Fc64d308aa2129852745676bA680.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x363cDaA139E1Fc64d308aa2129852745676bA680.jpeg",
+    "id": "OptimistProfile|0xa70dfaf11113e284447d663799554b75744a60f8c5b376ec4838682a15616830"
+  },
+  "impactDescription": "We conducted a full day workshop on the optimism ecosystem and its opportunities where participants were taught the benefits of using the optimism network to build Dapps, grant opportunities, grants and funding.\n\nWe were able to onboard new users with a small airdrop of 5$ in OP, to mine a NFT and have OP tokens. \n\nOn the other hand, we have conducted a university competition on business ideas and development of blockchain projects where 10 projects are using the Ethereum network and Optimism. \n\nWe are focused on onboarding new builders so we organize hackathons and collaborate with universities, coorporate, foundations to bring new projects on the network.\n\n",
+  "contributionDescription": "- We organize events about web3 and blockchain in universities, mention and invite new users to Optimism's public discord.\n\n- We organize technical workshops on blockchain, L2, Optimism for the developer community.\n\n- We create educational content about optimism, to understand more about its governance, op stack, tools to support more web3 creators.\n\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.tiktok.com/@andinodao/video/7251797193852505350?lang=en",
+      "description": "Optimism in-person event, workshop to create nfts in Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=DLesrkiRurY&t=21s",
+      "description": "Definitive Guide to Ethereum Scalability: Optimism "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.biwit.ai/es/embed/chat?chatbotId=ninoItiFv7KE",
+      "description": "Artificial intelligence chat bot to learn about Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# nfts minted in the optimism network",
+      "number": "8",
+      "url": "https://optimistic.etherscan.io/address/0x47a883b702f5dd844e2bd818d1204fa42433b430"
+    },
+    {
+      "description": "# onboarding on the optimism network ",
+      "number": "450",
+      "url": "https://app.biwit.ai/es/embed/chat?chatbotId=ninoItiFv7KE"
+    },
+    {
+      "description": "# attendees at the optimism conferences",
+      "number": "250",
+      "url": "https://twitter.com/andinodao/status/1668643534688210947"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 750,
+      "description": "Andino's co-founders contributed in equal shares"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x54090220e92626ad3d3cee164a9cd14f808abc69257217691a8b1f0b65e5f551",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 31,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Conferences, Events & Hackathons"
+}

@@ -1,0 +1,45 @@
+{
+  "bio": "We are Crypto",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "saxtnw_chaom",
+  "websiteUrl": "https://twitter.com/saxtnw_chaom",
+  "applicant": {
+    "address": {
+      "address": "0x9279492DC2123340aa00244987d4460d0e3cF070",
+      "resolvedName": {
+        "address": "0x9279492DC2123340aa00244987d4460d0e3cF070",
+        "name": "chaom.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x9279492DC2123340aa00244987d4460d0e3cF070"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9279492DC2123340aa00244987d4460d0e3cF070.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9279492DC2123340aa00244987d4460d0e3cF070.png",
+    "id": "OptimistProfile|0x74e31ca6e06a73f5174bbc054a73a946505309ab757b655bc73bcbc973f292ec"
+  },
+  "impactDescription": "People who do not know about Optimism. They received true information about Optimism. It is the big opportunity to invite and share new technolocy (L2) to person who never try. And in the mean time we can build the strong community which grow togerther with OP chain.",
+  "contributionDescription": "To contribute the pro of optimism chain and ECO system. And invite person who never use low gas and more security chian to try it. I always share update information and new and evet from Optimism team to our cummunuty. Discuss and make clear understand with OP chain.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/saxtnw_chaom",
+      "description": "I share all information on my X (Twitter)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Twitter",
+      "number": "1",
+      "url": "https://twitter.com/saxtnw_chaom"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x9b9c1c128459a1aa36f1a007a895ff9c89074d8a45abe2672eb1ed0d6dfadc4b",
+  "prelimResult": "Remove",
+  "reportReason": "spam"
+}

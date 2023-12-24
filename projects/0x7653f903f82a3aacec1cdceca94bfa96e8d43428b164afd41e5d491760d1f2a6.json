@@ -1,0 +1,46 @@
+{
+  "bio": "\u4fe1\u4ef0optimism\uff0c\u575a\u5b9a\u6301\u6709$op\uff0c\u79ef\u6781\u53c2\u4e0eoptimism\u5efa\u8bbe",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "Mr.ran",
+  "websiteUrl": "https://x.com/Ran63066731/status/1666465208557244419?s=20",
+  "applicant": {
+    "address": {
+      "address": "0x1274c6Be78F56BAbde0E546f3bb09e87eb4A0e9a",
+      "resolvedName": {
+        "address": "0x1274c6Be78F56BAbde0E546f3bb09e87eb4A0e9a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x1274c6Be78F56BAbde0E546f3bb09e87eb4A0e9a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1274c6Be78F56BAbde0E546f3bb09e87eb4A0e9a.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xf90501fd71a8af7f69f6296203e8a231890081677152636438f70c31fc85be50"
+  },
+  "impactDescription": "I often publicize optimism with friends around me, asking them to participate in the construction of this great project. Besides, I firmly hold $op and actively participate in the governance and construction. I will try my best to publicize optimism in the future and make my own modest contribution.",
+  "contributionDescription": "I often publicize optimism with friends around me, asking them to participate in the construction of this great project. Besides, I firmly hold $op and actively participate in the governance and construction. I will try my best to publicize optimism in the future and make my own modest contribution.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/Ran63066731/status/1666465208557244419?s=20",
+      "description": "X(Twitter)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "I love optimism",
+      "number": "1",
+      "url": "https://x.com/Ran63066731/status/1666465208557244419?s=20"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7653f903f82a3aacec1cdceca94bfa96e8d43428b164afd41e5d491760d1f2a6",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

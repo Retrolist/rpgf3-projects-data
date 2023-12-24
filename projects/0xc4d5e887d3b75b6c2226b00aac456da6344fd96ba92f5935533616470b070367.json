@@ -1,0 +1,63 @@
+{
+  "bio": "a 0-code launchpad/mintpad to facilitate the creation of dynamic NFT collections",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Tockable.xyz",
+  "websiteUrl": "https://tockable.xyz",
+  "applicant": {
+    "address": {
+      "address": "0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97",
+      "resolvedName": {
+        "address": "0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97",
+        "name": "tockable.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97.png",
+    "id": "OptimistProfile|0x72b8384c7371a431d4e9a9a0e22c3775f3ec263b53f8152a173299f9875bde37"
+  },
+  "impactDescription": "Talkable is a newly launched platform that is completing its testing stages and has not yet reached the mainnet stage. Hence, its impact on Optimism Collective has not yet been determined, and unfortunately, we cannot provide details in this regard at the moment.",
+  "contributionDescription": "Tockable is a zero-code platform that allows creators to create/test/publish their own **Dynamic** NFT minting dapps on OP, where minters can design and mint their desired tokens, instead of getting some random JPGs.\nIn Tockable, creators only upload their own image layers (instead of random PFPs). According to the layers, Tockable produces a suitable online-app that allows users to select and compose their desired design before minting.\nCurrently, the market of traditional NFTs (random-static jpgs) has no more demand. On the other hand, the creation of dynamic and creative NFTs is currently only limited to developers. Tockable intends to make this possibility more easily available to the public and creators\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://tockable.xyz",
+      "description": "Tockable platform website"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/tockable/contrarcts/blob/main/tockable-draft.sol",
+      "description": "Tockable dynamic NFT contract concept"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tockable.xyz/c/tock",
+      "description": "Tockable dynamic NFT test-mint on optimism-goerli"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/tockable/front",
+      "description": "Tockable front repository"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Active projects (testnet) at this moment",
+      "number": "1",
+      "url": "https://tockable.xyz/c/tock"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xc4d5e887d3b75b6c2226b00aac456da6344fd96ba92f5935533616470b070367",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 16,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

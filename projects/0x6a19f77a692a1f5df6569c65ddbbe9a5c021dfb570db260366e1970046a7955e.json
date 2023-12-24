@@ -1,0 +1,52 @@
+{
+  "bio": "A web3 enthusisast",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Roshni kadam",
+  "websiteUrl": "https://twitter.com/roshnikadam",
+  "applicant": {
+    "address": {
+      "address": "0x345157b915DdC5eC43bb9ce364c1dFbc70801E02",
+      "resolvedName": {
+        "address": "0x345157b915DdC5eC43bb9ce364c1dFbc70801E02",
+        "name": "mathura.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x345157b915DdC5eC43bb9ce364c1dFbc70801E02"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x345157b915DdC5eC43bb9ce364c1dFbc70801E02.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x345157b915DdC5eC43bb9ce364c1dFbc70801E02.png",
+    "id": "OptimistProfile|0xeee5facf025535d82fd0a90197c255539ee0c20ca760f98e293862fbb0a6c001"
+  },
+  "impactDescription": "Optimism was built to empower humanity through decentralized blockchain technology that enables unprecedented coordination of human intelligence across the globe, at scale. And there is a lot to celebrate: by our estimation, over the past two years, OP Mainnet has cumulatively saved users $2.69 billion in fees, 15.8 years of waiting for transaction confirmations, and currently secures $2.8 billion in onchain value.\n\nBut the reality is: nobody has truly scaled Ethereum. That includes us.\n\nIf Ethereum is to rival the goliaths of web2, and take software\u2019s next bite of the world, it needs internet-level scale. No single chain today can offer that.",
+  "contributionDescription": "Optimism was built to empower humanity through decentralized blockchain technology that enables unprecedented coordination of human intelligence across the globe, at scale. And there is a lot to celebrate: by our estimation, over the past two years, OP Mainnet has cumulatively saved users $2.69 billion in fees, 15.8 years of waiting for transaction confirmations, and currently secures $2.8 billion in onchain value.\n\nBut the reality is: nobody has truly scaled Ethereum. That includes us.\n\nIf Ethereum is to rival the goliaths of web2, and take software\u2019s next bite of the world, it needs internet-level scale. No single chain today can offer that.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/",
+      "description": "A"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "A",
+      "number": "0",
+      "url": "https://optimistic.etherscan.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6a19f77a692a1f5df6569c65ddbbe9a5c021dfb570db260366e1970046a7955e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

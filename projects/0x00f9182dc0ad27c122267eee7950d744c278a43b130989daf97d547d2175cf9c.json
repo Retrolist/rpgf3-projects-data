@@ -1,0 +1,46 @@
+{
+  "bio": "Exploring web3 apps. DAO maniac.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "Baustalla",
+  "websiteUrl": "https://optimistic.etherscan.io/address/0xe0278bc20a01494ccf0dc51aee9ad21b3ff5cd1a",
+  "applicant": {
+    "address": {
+      "address": "0xe0278bc20A01494cCf0Dc51AEe9ad21b3Ff5Cd1a",
+      "resolvedName": {
+        "address": "0xe0278bc20A01494cCf0Dc51AEe9ad21b3Ff5Cd1a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xe0278bc20A01494cCf0Dc51AEe9ad21b3Ff5Cd1a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x2bdc82118026178f7274e2ed63024db052fea8b6695b759a357e9eaa406e9a99"
+  },
+  "impactDescription": "Made many different transactions exploring different Dapps on the ecosystem. 100% Galxe badgeholder on OP. Voted on every proposal made and then delegating to maximise voting participation to the DAO. Made different bridging from different chains to prove the stability of the ecosystem. Thinking that Web3 could change the world and OP is the best way to do that.",
+  "contributionDescription": "Made many different transactions exploring different Dapps on the ecosystem. 100% Galxe badgeholder on OP. Voted on every proposal made and then delegating to maximise voting participation to the DAO. Made different bridging from different chains to prove the stability of the ecosystem. Thinking that Web3 could change the world and OP is the best way to do that.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xe0278bc20a01494ccf0dc51aee9ad21b3ff5cd1a",
+      "description": "Transactions and votes"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Transactions",
+      "number": "214",
+      "url": "https://optimistic.etherscan.io/address/0xe0278bc20a01494ccf0dc51aee9ad21b3ff5cd1a"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x00f9182dc0ad27c122267eee7950d744c278a43b130989daf97d547d2175cf9c",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

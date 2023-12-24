@@ -1,0 +1,64 @@
+{
+  "bio": "Eventcaster is the social calendar and meetups app built on Farcaster",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Eventcaster",
+  "websiteUrl": "https://eventcaster.xyz",
+  "applicant": {
+    "address": {
+      "address": "0x538527f3602acaD78596F17B422Fcf5613Af1409",
+      "resolvedName": {
+        "address": "0x538527f3602acaD78596F17B422Fcf5613Af1409",
+        "name": "mattkoch.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x538527f3602acaD78596F17B422Fcf5613Af1409"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x538527f3602acaD78596F17B422Fcf5613Af1409.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x2b2b68df328340453762ea334d2bc3d1df02c30483bca65c94b6e2a785f39669"
+  },
+  "impactDescription": "I've co-organized most of the meetups this year within the Farcaster community including the ETHDenver (400 ppl), NFT NYC (150 ppl), EthCC (200 ppl), ETHNY (100 ppl) as well as many dozens of smaller meetups in cities around the world.\n\nI've also helped raise more than $30k to fund meetups within the community. Some of them have been individual event crowdfunds, but about ~$10k of that is a small grants program for local meetups that I started and run.\n\nEventcaster was also one of the very first Farcaster apps and bots, and is still one of the most widely used ones. I've also helped a handful of other Farcaster builders think through their apps based on the learnings from Eventcaster.",
+  "contributionDescription": "Eventcaster is the social calendar and meetups app built on Farcaster. Farcasters use it to stay up-to-date one events shared through the app, as well as find and host Farcaster meetups in their city.\n\nThrough Eventcaster I co-organize many of the meetups in the community, and they have helped our community become strong. I also run a small grants program to fund local Farcaster meetups.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://crowdfi.withfabric.xyz/campaign/farcaster-meetup-fund-12vw1bash08hs",
+      "description": "Original Farcaster Meetup Fund Crowdfund"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://eventcaster.notion.site/Farcaster-Meetup-Fund-346aae26d2fe4db49e81058a8ebb9cc1",
+      "description": "Farcaster Meetup Fund Documentation"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.eventcaster.xyz/events/40443d09-280b-4408-b042-9a41a66b31b7",
+      "description": "Example of a meetup I hosted (ETHDenver 2023)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Events with attendances",
+      "number": "120",
+      "url": "https://warpcast.com/seanhart.eth/0x0ae98c36"
+    },
+    {
+      "description": "Attendees",
+      "number": "1500",
+      "url": "https://warpcast.com/seanhart.eth/0x0ae98c36"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4402871ae482fcae5ad8857dd1ef3c86495c1e7c66f807abcf98622db04debc6",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 37,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

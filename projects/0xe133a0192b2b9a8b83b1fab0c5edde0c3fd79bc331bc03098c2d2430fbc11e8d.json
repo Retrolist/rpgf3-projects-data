@@ -1,0 +1,86 @@
+{
+  "bio": "CryptoConexi\u00f3n is a hub for blockchain, crypto, Web3 & AI in Latin America. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "CryptoConexi\u00f3n",
+  "websiteUrl": "https://cryptoconexion.com/",
+  "applicant": {
+    "address": {
+      "address": "0xc4D286963cdED90E479F82495D75b739e1d831B1",
+      "resolvedName": {
+        "address": "0xc4D286963cdED90E479F82495D75b739e1d831B1",
+        "name": "cryptoconexion.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xc4D286963cdED90E479F82495D75b739e1d831B1"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc4D286963cdED90E479F82495D75b739e1d831B1.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc4D286963cdED90E479F82495D75b739e1d831B1.png",
+    "id": "OptimistProfile|0x2ea4734e2d758f6809a52c6c6e632c73b3af01a96201e84fd8298207d5869fed"
+  },
+  "impactDescription": "Our 100K+ users and 94K+ site visitors demonstrate our educational reach. Specific metrics include: 17K+ Optimism content impressions, 280+ vetted grants in our directory, and 284+ reviewed courses in Spanish, Portuguese & English. We held BIT Day Cuernavaca at Tec de Monterrey, directly connecting 100+ students. We also conducted a writing cohort with 12 women who received access to a Zora NFT. \n",
+  "contributionDescription": "Our 94K+ site users demonstrate our educational reach. Specific metrics include: 280+ vetted grants in our directory, and 284+ reviewed courses in Spanish, Portuguese & English. We held BIT Day Cuernavaca at Tec de Monterrey, directly connecting 100+ students. We also conducted a writing cohort with 12 women who received access to a Zora NFT, engaging them directly with the Optimism ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://cryptoconexion.com/",
+      "description": "Project Website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Impressions",
+      "number": "17000",
+      "url": " https://drive.google.com/file/d/1YXIZB6vJD0HaZwF3ivONOj-MGaa31A3t/view?usp=share_link"
+    },
+    {
+      "description": "Students reached",
+      "number": "100",
+      "url": "https://drive.google.com/file/d/1YXIZB6vJD0HaZwF3ivONOj-MGaa31A3t/view?usp=sharing"
+    },
+    {
+      "description": "Writing cohort",
+      "number": "12",
+      "url": "https://drive.google.com/file/d/1YXIZB6vJD0HaZwF3ivONOj-MGaa31A3t/view?usp=sharing"
+    },
+    {
+      "description": "Website users",
+      "number": "94000",
+      "url": "https://drive.google.com/file/d/1YXIZB6vJD0HaZwF3ivONOj-MGaa31A3t/view?usp=sharing"
+    },
+    {
+      "description": "Grants directory",
+      "number": "280",
+      "url": "https://cryptoconexion.com/directoriogrants/"
+    },
+    {
+      "description": "Course directory",
+      "number": "284",
+      "url": "https://cryptoconexion.com/cursos-web3/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1900,
+      "description": "Gitcoin grants "
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Pitch competition"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe133a0192b2b9a8b83b1fab0c5edde0c3fd79bc331bc03098c2d2430fbc11e8d",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 32,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

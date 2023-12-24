@@ -1,0 +1,45 @@
+{
+  "bio": "airdrop hunter",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Chester77",
+  "websiteUrl": "https://twitter.com/ChesterChee77",
+  "applicant": {
+    "address": {
+      "address": "0x8a1c05b50e354364B2F40bcC979Ed5507dF8b2c0",
+      "resolvedName": {
+        "address": "0x8a1c05b50e354364B2F40bcC979Ed5507dF8b2c0",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x8a1c05b50e354364B2F40bcC979Ed5507dF8b2c0"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8a1c05b50e354364B2F40bcC979Ed5507dF8b2c0.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x653e560c57450dbd6d5ea007b25c650cb2242f0fde572104e677b3a335c5d730"
+  },
+  "impactDescription": "i am optimism ecosystem user and actively using this chain for daily transaction and airdrop hunting. I am also actively testing new dapps on this chain and doing something like bridging activites. I also collected some NFT on mirror.  Also i like to tell my friend to use this chain",
+  "contributionDescription": "i am optimism ecosystem user and actively using this chain for daily transaction and airdrop hunting. I am also actively testing new dapps on this chain and doing something like bridging activites. I also collected some NFT on mirror. Very optimistic with this chain forward and looking more project to come on this chain.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0x8a1c05b50e354364b2f40bcc979ed5507df8b2c0",
+      "description": "LFG"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Chester",
+      "number": "77",
+      "url": "https://optimistic.etherscan.io/address/0x8a1c05b50e354364b2f40bcc979ed5507df8b2c0"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x93989177dc5a7ea77efeecaa5fee32c6ac78499eb445ddd8a9bdc0f9530b296c",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

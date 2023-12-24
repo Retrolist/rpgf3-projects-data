@@ -1,0 +1,76 @@
+{
+  "bio": "Cross-Chain Privacy Protocol",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Nata Network",
+  "websiteUrl": "https://natanetwork.io",
+  "applicant": {
+    "address": {
+      "address": "0x574755975ce360Bf70aa4960950A95AE3A2C0f92",
+      "resolvedName": {
+        "address": "0x574755975ce360Bf70aa4960950A95AE3A2C0f92",
+        "name": "natanetwork.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x574755975ce360Bf70aa4960950A95AE3A2C0f92"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x574755975ce360Bf70aa4960950A95AE3A2C0f92.jpeg",
+    "id": "OptimistProfile|0xbeed3578e8ef0863abb66a2f8c358ffa48b8a0a5fb20a8c030a8398a98457001"
+  },
+  "impactDescription": "Optimism's users have very little privacy focused application (only zkBOB?) to choose from natively on the rollup. Users on Optimism can bridge funds to Polygon to access Nata Network's privacy ZK-rollup, then bridge funds back to a new address on Optimism. ",
+  "contributionDescription": "Nata Network has been live on Mainnet since June 2023. The privacy focused ZK-rollup is a fork of Aztec deployed to Polygon POS, granting users fully private transactions at an affordable cost. The network has surpassed 10,000 unique addresses and has been optimizing the network for multiple chain support with a unified privacy set. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/shichiro-nakahara",
+      "description": "Open Source Repos"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Dune Dashboard",
+      "number": "11394",
+      "url": "https://dune.com/polyaztec/natanetwork"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 1819.85,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5cd5371140b69253a24153923acd6c638479205643e21316b3864dbd46338201",
+  "prelimResult": "Remove",
+  "reportReason": "Project is only deployed on Polygon POS, and not Optimism. This is out of scope."
+}

@@ -1,0 +1,75 @@
+{
+  "bio": "Author of \"Layer 2 Landscape\" threads, & manager of node infra at Infura.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Faina",
+  "websiteUrl": "https://twitter.com/bitsplaining",
+  "applicant": {
+    "address": {
+      "address": "0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90",
+      "resolvedName": {
+        "address": "0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90",
+        "name": "faina.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90.png",
+    "id": "OptimistProfile|0xb706423fa27a90795e4697e865b951981f5480ee0072263a6fbfc6dab8d2ef9d"
+  },
+  "impactDescription": "By regularly summarizing and explaining the importance of new developments in the L2 space, I lower the barrier to entry for community members who want to get involved. The speed at which the Ethereum scaling space moves can make people feel like they have \"already missed\" their chance to contribute, and my threads help people catch up and figure out where they can make the most impact. \n\nAdditionally, writing these threads has allowed me to synthesize the information and provide additional education to the community, like my 2023 L2 predictions thread and my Lightning Talk at DevCon on themes and trends in Layer 2.",
+  "contributionDescription": "My \"Layer 2 Landscape\" threads are a labor of love intended as a public good & educational resource. My threads focus on protocol updates, writings around difficult questions such as prover architecture, & educational materials written by the amazing giga-brains in our niche of the Ethereum world. By the time voting begins on this round, I will have written over 70 threads.\n\nI've also made contributions to the Optimism ecosystem in my role at Consensys. At Truffle, I built the Optimism Truffle Box & lead the Optimism Bridge Box as a starting point for developers. Now as an Engineering Manager at Infura, I'm responsible for the operation of Infura\u2019s nodes, including Optimism & Base. Further, I continue to educate my colleagues about Layer 2 & how we can best support Ethereum scaling.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/bitsplaining/status/1698416223615099195",
+      "description": "A recent Twitter thread as an example of my work."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/bitsplaining",
+      "description": "My Twitter profile, where you can see the threads I have published. "
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/truffle-box/optimism-box",
+      "description": "Optimism Truffle Box, providing initial configuration and a detailed readme. "
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/truffle-box/optimism-bridge-box",
+      "description": "Optimism Bridge Box, focused on documenting/experimenting w/ Optimism bridging."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://archive.devcon.org/archive/watch/6/major-trends-in-the-layer-2-ecosystem-where-we-are-and-likely-upcoming-themes/?playlist=Layer%202s&tab=YouTube",
+      "description": "DevCon Talk on Themes in Layer 2, synthesized from my threads."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of followers (began with ~150 in 2021)",
+      "number": "3793",
+      "url": "https://twitter.com/bitsplaining"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 25407.48,
+      "description": "For Optimism Truffle Boxes. I mentioned my threads in accepting the nomination."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x708fb4bb4efcfdf20a0ef673daf2df7944f0f2f91f0b607069a2ff822e2cd871",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 34,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

@@ -1,0 +1,45 @@
+{
+  "bio": "NFT Maximalist - Ape by Nature",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "kennythebutcher",
+  "websiteUrl": "https://twitter.com/K3nnyth3Butch3r",
+  "applicant": {
+    "address": {
+      "address": "0xddEaEC88e4a183F5aCC7d7cFd6f69e300Bb6D455",
+      "resolvedName": {
+        "address": "0xddEaEC88e4a183F5aCC7d7cFd6f69e300Bb6D455",
+        "name": "kennythebutcher.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xddEaEC88e4a183F5aCC7d7cFd6f69e300Bb6D455"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xddEaEC88e4a183F5aCC7d7cFd6f69e300Bb6D455.png",
+    "id": "OptimistProfile|0xc601ee56832b347cde3013124cd747f49b1895d999940cdde6bc611145876a89"
+  },
+  "impactDescription": "With my technical proficiency in blockchain and cryptocurrency, I can offer comprehensive solutions for the project's development, ensuring efficient and secure protocols. By leveraging my adeptness in community management, I can cultivate an active and dedicated user base, fostering trust and loyalty. Additionally, my adeptness in crafting compelling marketing content and strategies can elevate brand visibility and drive adoption, thereby enhancing the project's market presence and long-term viability.",
+  "contributionDescription": "I am excited to express my interest in contributing to your new crypto project. With my extensive technical expertise in blockchain technology and my proven track record in fostering community engagement, I am confident in my ability to drive growth and sustainability for your project.\n\nMy experience in developing and implementing innovative crypto solutions, combined with my passion for creating engaging content and spearheading effective marketing strategies, make me an ideal candidate for supporting your project's success.\n\nI look forward to the opportunity to discuss how my skills and experience can align with your project's goals. Thank you for considering my application.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xddEaEC88e4a183F5aCC7d7cFd6f69e300Bb6D455",
+      "description": "kennythebutcher"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "-",
+      "number": "409",
+      "url": "https://optimistic.etherscan.io/address/0xddEaEC88e4a183F5aCC7d7cFd6f69e300Bb6D455"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xa015a4a665f834fd11e71bf368ae33857180d76c818d9ea202cde974115e2fc8",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

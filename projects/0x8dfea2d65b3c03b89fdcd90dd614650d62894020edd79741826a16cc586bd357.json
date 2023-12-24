@@ -1,0 +1,52 @@
+{
+  "bio": "It's always darkest just before the dawn",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "undefeated",
+  "websiteUrl": "https://x.com/banebreak_?s=21",
+  "applicant": {
+    "address": {
+      "address": "0x9DfEe19fa2bFc78265D106e7DacA0B6E66555872",
+      "resolvedName": {
+        "address": "0x9DfEe19fa2bFc78265D106e7DacA0B6E66555872",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9DfEe19fa2bFc78265D106e7DacA0B6E66555872"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x7e87ea17a4e5347a4f46c4e3ac62033ee1badf315e75572896150b43ec6b30b0"
+  },
+  "impactDescription": "onboard more users to bridge in and out of optimism when interacting with other protocols on layer 1 or layer 2. Optimism is the cheapest layer 2 network on gas and i've made many newbies know this and onboard a lot of user from web2 to web3. Optimism is the present and future.",
+  "contributionDescription": "My contributions  i wish to receive RetroPGF for can be found on twitter github and so many more. I have been a fan and active user of optimism since day 1 and i hope to remain a part of this eco system for the long term. Optimism have helped me in the management of gas fee and i've shared it to so many people too.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://x.com/banebreak_?s=21",
+      "description": "twitter shout out"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "shoutout",
+      "number": "1",
+      "url": "https://x.com/banebreak_?s=21"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0.001,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x8dfea2d65b3c03b89fdcd90dd614650d62894020edd79741826a16cc586bd357",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

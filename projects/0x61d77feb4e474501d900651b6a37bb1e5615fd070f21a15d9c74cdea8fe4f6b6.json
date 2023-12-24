@@ -1,0 +1,73 @@
+{
+  "bio": "Earn crypto by shopping at your favorite online stores!",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Moso",
+  "websiteUrl": "https://moso.xyz",
+  "applicant": {
+    "address": {
+      "address": "0xc22d2Ee59A228DFA5d2286D41CC6B09F77016201",
+      "resolvedName": {
+        "address": "0xc22d2Ee59A228DFA5d2286D41CC6B09F77016201",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xc22d2Ee59A228DFA5d2286D41CC6B09F77016201"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc22d2Ee59A228DFA5d2286D41CC6B09F77016201.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc22d2Ee59A228DFA5d2286D41CC6B09F77016201.png",
+    "id": "OptimistProfile|0xe4f78a77fd61f2e16bf0cb0b016e18ebf447e675faeb654d1468a324f4dff5c0"
+  },
+  "impactDescription": "Moso has enriched the Optimism Collective by simplifying crypto earning. Our users effortlessly earn crypto through everyday purchases, turning ordinary shopping into crypto micro-investments. Partnering with major retailers ensures variety and accessibility, encouraging broader participation. \n\nFurthermore, Moso\u2019s feature of recording shopping activities fosters trust and reliability in the onchain environment, enhancing the community\u2019s overall security. In essence, Moso has made crypto earning accessible and trustworthy, amplifying the vibrancy and integrity of the Optimism Collective.",
+  "contributionDescription": "Moso has always had a lofty goal: to make cryptocurrency accessible for everyone. We've made it part of daily shopping. With partners like Walmart and eBay, and over 2,000 other top stores, people have a tremendous amount of choices to shop online and earn crypto.\n\nWe've also incorporated extra elements to build onchain trust and reputation. We added a special feature that works quietly while people shop, which records a record of where and when people shop online. This is currently live on Base!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/address/0x3427087ba2f43e3d767db1185d7590b5be826e7c",
+      "description": "Base onchain contract (Basescan)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of Downloads",
+      "number": "6250",
+      "url": "https://chrome.google.com/webstore/devconsole/2d85613b-d6db-44fa-b60f-cf9f8c3b8901/ajkifnllfhikkjbjopkhmjoieikeihjb/edit?hl=en-US"
+    },
+    {
+      "description": "Merchant Partners",
+      "number": "2200",
+      "url": "https://moso.xyz"
+    },
+    {
+      "description": "Rewards",
+      "number": "4600",
+      "url": "https://docs.google.com/spreadsheets/d/1bXib4b8vo8BxQNyZbmpPYsGCocM27B169sWBVSZnHeo/edit#gid=1363154520"
+    },
+    {
+      "description": "Gross Merchandise Value",
+      "number": "160000",
+      "url": "https://docs.google.com/spreadsheets/d/1bXib4b8vo8BxQNyZbmpPYsGCocM27B169sWBVSZnHeo/edit#gid=1363154520"
+    },
+    {
+      "description": "Dropdown Impressions",
+      "number": "60000",
+      "url": "https://docs.google.com/spreadsheets/d/1bXib4b8vo8BxQNyZbmpPYsGCocM27B169sWBVSZnHeo/edit#gid=1363154520"
+    },
+    {
+      "description": "Dropdown Activations",
+      "number": "5400",
+      "url": "https://docs.google.com/spreadsheets/d/1bXib4b8vo8BxQNyZbmpPYsGCocM27B169sWBVSZnHeo/edit#gid=1363154520"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x61d77feb4e474501d900651b6a37bb1e5615fd070f21a15d9c74cdea8fe4f6b6",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 30,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,52 @@
+{
+  "bio": "NFT Enthusiast ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "kardhus",
+  "websiteUrl": "https://twitter.com/nft_kard",
+  "applicant": {
+    "address": {
+      "address": "0x75b286d43D4F29783337d769C9F0047F4c0c73C7",
+      "resolvedName": {
+        "address": "0x75b286d43D4F29783337d769C9F0047F4c0c73C7",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x75b286d43D4F29783337d769C9F0047F4c0c73C7"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x75b286d43D4F29783337d769C9F0047F4c0c73C7.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x07558f59cfeaf0092455960d348c6ae6a218cdb13c8aed21777ba85e18c3c4d5"
+  },
+  "impactDescription": "I'm real good advisor with a good connects and followers along all blockchain ecosystem. \n\nI'm very happy with the work done by the Optimism team and that is why I am applying as an advertiser to promote the latest network updates and projects. \n\nAlso the adoption of the network is massive, and add the good track record of the $OP token. ",
+  "contributionDescription": "I'm real good advisor with a good connects and followers along all blockchain ecosystem. \n\nI'm very happy with the work done by the Optimism team and that is why I am applying as an advertiser to promote the latest network updates and projects. \n\nAlso the adoption of the network is massive, and add the good track record of the $OP token. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/nft_kard",
+      "description": "Me"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "805 followers ",
+      "number": "805",
+      "url": "https://twitter.com/nft_kard"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xbfcc5de9d3e7355097b94061f8795524e3680a6c95617a1863bba3cb10c74fd5",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,462 @@
+{
+  "bio": "Bankless Publishing is driving adoption, education, & awareness of web3.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Bankless Publishing",
+  "websiteUrl": "https://banklesspublishing.com/",
+  "applicant": {
+    "address": {
+      "address": "0x3df13B9bd79158f0cccDDd0833cF774178e3d2e9",
+      "resolvedName": {
+        "address": "0x3df13B9bd79158f0cccDDd0833cF774178e3d2e9",
+        "name": "mashal.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3df13B9bd79158f0cccDDd0833cF774178e3d2e9"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3df13B9bd79158f0cccDDd0833cF774178e3d2e9.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3df13B9bd79158f0cccDDd0833cF774178e3d2e9.png",
+    "id": "OptimistProfile|0xaaee9081d067a88edb6bcab454b610405a192abba99badbd7a04a8c86f415e86"
+  },
+  "impactDescription": "We've published 32 on-chain articles in our Crypto Basics Series, demystifying layer 2 complexities, leading to informed choices for projects building on Optimism. By minting NFTs of this series on Optimism, we\u2019ve demonstrated OP's scalability and utility, enticing developers and users alike. Our outreach has extended to a global scale with over 3 million reads (on all our BP content) across 168 countries, boosting Optimism's brand recognition and usage worldwide. The hOPe Series, available as free mints on Optimism, has enriched our community\u2019s understanding of the ecosystem\u2019s nuances, accelerating its adoption. Optimism-focused newsletters further supported this objective. Beneficiaries range from novice users to developers and orgs contemplating L2 solutions.",
+  "contributionDescription": "We've addressed the scarcity of accessible and credible web3 resources by crafting educational series specific to Optimism's layer 2 solutions, making it easier for users and developers to make informed choices. To combat the issue of centralized information, our comprehensive and unbiased articles offer a well-rounded view of Optimism's capabilities and ecosystem. Lastly, our outreach has been instrumental in raising awareness and accelerating the adoption of Optimism, ensuring that a wider audience understands its transformative potential. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/yOh0Xsxz7LYPurKCc1xQAj7CygX7AUGpYEEAelhGbzs ",
+      "description": "Crypto Basics Series: Distributed Ledger Technology 101"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x37fBd5197767a6B8091F627F7Cd0B1b00B69e6dB ",
+      "description": "Contract for Crypto Basics Series: Distributed Ledger Technology 101"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/kybvv9asZ0NccO1QuMBox4C5jt-nB55alDvFg2ewv_w",
+      "description": "Crypto Basics Series: The 101 on NFTs, A Briefing"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x5aE9b562C8642127B8A5F16364a0ca9BedB3dcB4",
+      "description": "Contract for Crypto Basics Series: The 101 on NFTs, A Briefing"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/LwiMzQ-G6iHjy_xVECUf94I7usm5bj6bfEMGcW-F89o",
+      "description": "Crypto Basics Series: 4 Simple Steps To Join a DAO"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x1ae886A3d681416aF35Da1053d6057EFe5626cA5",
+      "description": "Contract for Crypto Basics Series: 4 Simple Steps To Join a DAO"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/GkGHtKAH_AIiQQqQIakfXEXJbg4OP50x029AHISbf7Q ",
+      "description": "Crypto Basics Series: Towards Better Token Distribution"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x01D4dBBCbA2371ede946Df1A3290F4785Fc4B83e",
+      "description": "Contract for Crypto Basics Series: Towards Better Token Distribution"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/iEMsEBIahDw1a37hEMlQbkd4cL_S_lx49-ujrPeAgB4",
+      "description": "Crypto Basics Series: Cryptocurrency Wallets 101"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x87d524Bd7d6d76B5ED16b6b74847FB40617C1FF1",
+      "description": "Contract for Crypto Basics Series: Cryptocurrency Wallets 101"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/HcxZe6vXQm3ki-_N9JJk05dbcO5bEGOydJAWMT2ZgMY ",
+      "description": "Crypto Basics Series: How To Learn Solidity"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xeC5a334188297643dfd67898AEBe61bF7d1d2647",
+      "description": "Contract for Crypto Basics Series: How To Learn Solidity"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/BK_SBQvqwVYCkYbm5P9ladKhCDowz8mChAmS9BIyEYw ",
+      "description": "Crypto Basics Series: Ultimate NFT Red Flag Checklist"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xC73233ee44261f92f5F38EdD1f2adF8E911635e2",
+      "description": "Contract for Crypto Basics Series: Ultimate NFT Red Flag Checklist"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/V1ixPvs34JtA32PYwa_JWqnfwid6DITxRMcsD0gjXFM ",
+      "description": "Crypto Basics Series: Four Factors That Make a DAO Sticky"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x7ef2BB568EB8694D4d8ed2D9Ad63489435095B93",
+      "description": "Contract for Crypto Basics Series: Four Factors That Make a DAO Sticky"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/B0gMeHkZ79_TneGfrvuYCh9R4195v5ZO4b8vLcpkpB0",
+      "description": "Crypto Basics Series: 14 Blockchain Basics"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x4E11c75Ca1d35c7Caf12664299cc853Fc5C6F281",
+      "description": "Contract for Crypto Basics Series: 14 Blockchain Basics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/j6SRdOJpGp0al8G4aHub40T3P1B13kGXhNcvYVcWlAE ",
+      "description": "Crypto Basics Series: The Beginner\u2019s Guide to Promoting NFTs"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x3B7D7eC938220f57CA3ee959aD193F5bf5bAd5Fb",
+      "description": "Contract for Crypto Basics Series: The Beginner\u2019s Guide to Promoting NFTs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/dU9u_smPyOD_xyDSAm4LqU94tnkHMZBAQoHbMiCGsck",
+      "description": "Crypto Basics Series: DAO Governance Primer"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x5DC6811F722cdA9784E5508DDa76A5bC3774B759",
+      "description": "Contract for Crypto Basics Series: DAO Governance Primer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/lbEEFn2MKpORm0z-0KASzrEF8vRo8Q2Aw8ZOKI2L3Fk",
+      "description": "Crypto Basics Series: The Three Pillars of Discord"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xce481037CB933f14196E383dc9dBA78960977174",
+      "description": "Contract for Crypto Basics Series: The Three Pillars of Discord"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/4TlES9LhRaOPQLNRRm3eYkr6OI6FIEoUrK4XJxhWkBU ",
+      "description": "Crypto Basics Series: DEX Aggregator Basics"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xAB76A9Acee6B4e3cd79C1Db5Ace9cF6c4b932De5",
+      "description": "Contract for Crypto Basics Series: DEX Aggregator Basics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/V81I-Jd3kGmdzNsVdCiF1-p1KbRxp7b35bZt2T9Dg7A ",
+      "description": "Crypto Basics Series: A Beginner-Friendly Approach to Evaluating NFTs"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x56c6CF71f78dCBdAf19e2999fbE390394EE59286",
+      "description": "Contract Crypto Basics Series: A Beginner-Friendly Approach to Evaluating NFTs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/lkRyR8ih53HCcgWPe3EOHUt3epw4JEWPgP4oFsctEXQ ",
+      "description": "Crypto Basics Series: 7 Tips for Avoiding DAO Burnout"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x406aC2C78087bA6ee7a752c18E02B18976258581",
+      "description": "Contract for Crypto Basics Series: 7 Tips for Avoiding DAO Burnout"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/7VC4LLDkKMgf48ZEv85T4rZJS3GAHJjlyCoSBC17UFk ",
+      "description": "Crypto Basics Series: The Importance of Self Custody"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x8B5121F879A2aC17B2DC79Fc71349fbc4af70beb",
+      "description": "Contract for Crypto Basics Series: The Importance of Self Custody"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/AACBXMq_8OVi8q8u2IKQvayHoAeJvPrWybOjJXlERYc ",
+      "description": "Crypto Basics Series: DAI a Different Stablecoin"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xCb77D6Fc5eD25F9DdcbC21ED11Ad847272C34C24",
+      "description": "Contract for Crypto Basics Series: DAI a Different Stablecoin"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/Coppip_r4ewQR0Ys1OJ7Jl5JUAWprxkivRa_6E3J3yY ",
+      "description": "Crypto Basics Series: 7 Etherscan Basics"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x42bdB6BF1B7C1928F1CFeF181d17247734F44B97",
+      "description": "Contract for Crypto Basics Series: 7 Etherscan Basics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/dt-FvNht5i-gr0l1PhKVD1oP9XYqFY65xDN1G6aPq8c ",
+      "description": "Crypto Basics Series: DAOs Are Playgrounds for Growth and Development"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x73e4Eb203f31B22768E914fF19c5c52d9f894Aa1",
+      "description": "Contract Crypto Basics Series: DAOs Are Playgrounds for Growth and Development"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/-5CojNiAlObK2Ak355mx6RsPn35WDhuyh6oYm-qhHUo ",
+      "description": "Crypto Basics Series: Analyzing DAO Treasuries"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x46fa07a9E731d62bF7Fe40ffF67D9212f104F3E8",
+      "description": "Contract for Crypto Basics Series: Analyzing DAO Treasuries"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/YlrVVV4-BcQfOWv607Rg7wydAWt69tojLtO4vsntb3Y",
+      "description": "Crypto Basics Series: How Web3 Writers Do Research"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x3e541d599232515766631a626682d25848916145",
+      "description": "Crypto Basics Series: How Web3 Writers Do Research"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/US0pto-Eje_1kjvnBOpM4dnKuJka_AOLhTbWduSD3uk ",
+      "description": "Crypto Basics Series: The Core of Crypto Is Punks and Principles"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xA66af02EA5BfF6BcB56daEFe73d921165137547E",
+      "description": "Contract for The Core of Crypto Is Punks and Principles"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/YwMRf2_Ja2s3XzgTaAEauh9XqCz51r-eKkn8kPZjSxc ",
+      "description": "Crypto Basics Series: DAOs Unlock How We\u2019re Made to Work"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x845Ade06f05100E19Cc91F6532297E5b5Da5bCa1",
+      "description": "Contract for Crypto Basics Series: DAOs Unlock How We\u2019re Made to Work"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/o77APzoYIbeIRACQobem8qOKOIilqrnVE48avBtk8R0 ",
+      "description": "The Byzantine Generals Problem, 51% Attacks, and Proof-of-Work"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0cC64377586599E0dcEffB70e29E88C198e4A556",
+      "description": "Contract for The Byzantine Generals Problem, 51% Attacks, and Proof-of-Work"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/lERTlV4Wl-Z4hSXifOYTWjQx_Du_5B2iR61Fpzo60iA ",
+      "description": "The hOPe Series: Optimism Powers Crypto\u2019s Newest Collective"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x7e7f04e1abD8380DEf611124A58de6D286d6333D",
+      "description": "Contract for The hOPe Series: Optimism Powers Crypto\u2019s Newest Collective"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/hAasqwY7wqgu-BZHZa-pt5_MRGZNhJCUUy8Sneh6aew",
+      "description": "The hOPe Series: Optimism\u2019s Governance Is Tuned Into Community"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x91d91040f7AEB60af39dA92E878C1Ea20fdf8037",
+      "description": "Contract for The hOPe Series: Optimism\u2019s Governance Is Tuned Into Community"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/L3xEgIqa-TPfORumdS6bpigNz5V3s-h-uTpypgJcoO8",
+      "description": "The hOPe Series: What Is the Law of Chains?"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x4c49fdc5B4db004E31ad4aE8899d0B1421d2A4F7",
+      "description": "Contract for The hOPe Series: What Is the Law of Chains?"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/1dCJyj5dcTOItLLTd7HHoS93itmzgRlOez35Y-B8JFc ",
+      "description": "The hOPe Series: Optimism Provides a Shared Resource For DAOs"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xeFb3c85Cb5Cfc81b9E7A3E2B289fD2e27662611b",
+      "description": "Contract for The hOPe Series: Optimism Provides a Shared Resource For DAOs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/CeaR801lscKv9JrdX_7_99yosSN0x4wqHSpRztd_N3c ",
+      "description": "The hOPe Series: From the Ashes of Moloch, Ether\u2019s Phoenix Rises"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0db7fAa808AdE72d993a1d84ac8D1301197Fff70",
+      "description": "Contract for The hOPe Series: From the Ashes of Moloch, Ether\u2019s Phoenix Rises"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/9D9g69XA6VEctL18Whfin_GpQL9GoPNiylZXX-wqIWw ",
+      "description": "The hOPe Series: Optimism Synthesizes a New Economic Paradigm"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x1C5D57cd51902728E7150703c94A4ec4DAEe918D",
+      "description": "Contract for The hOPe Series: Optimism Synthesizes a New Economic Paradigm"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/Tk4vbkuC8MDbI_qpoxIaT0BLigN0b4YLlrjGIw3LNRw",
+      "description": "The hOPe Series: OP Grants Stack"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x96A11949106A96Cdb1e620a25806556E8CFCA6bE",
+      "description": "Contract for The hOPe Series: OP Grants Stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.mirror.xyz/4FfhIH6JvWIVYr-qMxBUi25NM1tWYNr-f1-l0Xy7Oyk ",
+      "description": "The hOPe Series: The Optimism Collective\u2019s RetroPGF Learning Journey"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x9BFD04C9D97C6a199C652bC808e375374FCfA6e6",
+      "description": "Contract: The hOPe Series: The Optimism Collective\u2019s RetroPGF Learning Journey"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.substack.com/p/optimism-powers-cryptos-newest-collective ",
+      "description": " State of the DAOs Newsletter: Optimism Powers Crypto\u2019s Newest Collective"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.substack.com/p/the-optimism-collectives-retropgf  ",
+      "description": "Layer 2 Review Newsletter: The Optimism Collective\u2019s RetroPGF Learning Journey"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.substack.com/p/optimism-synthesizes-a-new-economic",
+      "description": "Layer 2 Review Newsletter: Optimism Synthesizes a New Economic Paradigm"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.substack.com/p/from-the-ashes-of-moloch-ethers-phoenix ",
+      "description": "Layer 2 Review Newsletter: From the Ashes of Moloch, Ether\u2019s Phoenix Rises"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.substack.com/p/layer-2-summer-is-finally-here-really  ",
+      "description": "Layer 2 Review Newsletter: Layer 2 Summer Is Finally Here, Really!"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.substack.com/p/understanding-zk-evm-types-layer  ",
+      "description": "Layer 2 Review Newsletter: Understanding ZK-EVM Types"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklessdao.substack.com/p/bp-introduces-the-crypto-basics-series  ",
+      "description": " Bankless Publishing Recap Newsletter: BP Introduces the Crypto Basics Series"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://banklesspublishing.com/optimism-provides-a-shared-resource-for-daos/",
+      "description": "BP Article: Optimism Provides a Shared Resource For DAOs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklesspublishing.com/optimisms-governance-is-tuned-into-community/",
+      "description": "BP Article: Optimism\u2019s Governance Is Tuned Into Community "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklesspublishing.com/what-is-the-law-of-chains/",
+      "description": "BP Article: What Is the Law of Chains? "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklesspublishing.com/the-perpetual-protocol-l2-experiment/",
+      "description": "BP Article: The Perpetual Protocol L2 Experiment "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklesspublishing.com/teleport-from-layer-2-with-makers-dai/",
+      "description": "BP Article: Teleport From Layer 2 With Maker\u2019s DAI "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banklesspublishing.com/ethereum-scaling-solutions/",
+      "description": "BP Article: Ethereum Scaling Solutions "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/search?f=top&q=optimism%20(from%3Abanklesspub)&src=typed_query ",
+      "description": "Optimism-focused Social Media Content"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Newsletter Issues",
+      "number": "7",
+      "url": "https://docs.google.com/spreadsheets/d/1MtNkj3E8D6v6dTm2R5G4QcxgF1dZMB7U9jddEVmK4yM/edit#gid=1041122468"
+    },
+    {
+      "description": "Newsletter Views",
+      "number": "79360",
+      "url": "https://docs.google.com/spreadsheets/d/1MtNkj3E8D6v6dTm2R5G4QcxgF1dZMB7U9jddEVmK4yM/edit#gid=1041122468"
+    },
+    {
+      "description": "Crypto Basics Series Mirror Articles",
+      "number": "32",
+      "url": "https://banklessdao.mirror.xyz/"
+    },
+    {
+      "description": "Crypto Basics Series Mirror Mints",
+      "number": "230",
+      "url": "https://banklessdao.mirror.xyz/ "
+    },
+    {
+      "description": "Bankless Publishing (BP) Articles",
+      "number": "6",
+      "url": "https://docs.google.com/spreadsheets/d/1MtNkj3E8D6v6dTm2R5G4QcxgF1dZMB7U9jddEVmK4yM/edit#gid=0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 10026.8,
+      "description": "Bankless Publishing and BP News each received 5,013.4 OP"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf451d8a3046d53c14c1ccbeca4b8f082cc08b08434a510226efcc9d48a55c954",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 20,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

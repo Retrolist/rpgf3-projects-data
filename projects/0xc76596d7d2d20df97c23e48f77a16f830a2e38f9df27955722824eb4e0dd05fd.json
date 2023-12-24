@@ -1,0 +1,77 @@
+{
+  "bio": "Creating podcasts and documentaries exploring the World of Work in Web3.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "salmanneedsajob",
+  "websiteUrl": "https://salmanneedsajob.dra.gd/",
+  "applicant": {
+    "address": {
+      "address": "0x4DF83971f6f1bFD8D33a2E79584bDFDe75F4DF60",
+      "resolvedName": {
+        "address": "0x4DF83971f6f1bFD8D33a2E79584bDFDe75F4DF60",
+        "name": "salmanneedsajob.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x4DF83971f6f1bFD8D33a2E79584bDFDe75F4DF60"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4DF83971f6f1bFD8D33a2E79584bDFDe75F4DF60.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4DF83971f6f1bFD8D33a2E79584bDFDe75F4DF60.png",
+    "id": "OptimistProfile|0x033b96972d6fc3b7a57206868be20f56657b36007f48a760c28a79178d8aa60c"
+  },
+  "impactDescription": "The contributions I have submitted is an effort in documentation and enhancing the visibility and understanding of web3, furthering our goals in the Optimism Collective. Through various formats of storytelling, I seek to engage and inform the community what it is like to work in web3.",
+  "contributionDescription": "I am submitting my contributions in the form of onchain media, about web3, which was created within past 2 months, & minted on OP stack.\n1) 'The Onchain Summer Music Video', a fun entertaining video speaking to a number of people about their first onchain experiences.\n2) A mini-documentary 'Stand with Crypto'  making a case for how we're building a foundation for the future in web3.\n3) Short movies about Nouns Prop House minted on Zora Network.\n4) A blog that I have written on fulltimedao.com, a research project exploring the inner workings of about DAOs. The recent edition hosted on paragraph is available to mint on Base.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/address/0x2d8692b51d80deb9ff0157d5e2bb58bfd6e21b2a",
+      "description": "Stand with Crypto mini-documentary"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/address/0x6e35063d9862a46dabda14c424da4ed001dbff38",
+      "description": "Onchain Summer Music Video"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zora.co/collect/zora:0xb627ea537d996db3ae131dd2540d5b60f6ee2039",
+      "description": "Short movie about Prop House"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://fulltimedao.com/standwithcrypto",
+      "description": "Full Time DAO - Documentation about "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views - Stand with Crypto",
+      "number": "105",
+      "url": "https://youtu.be/mw8aoHMBl0E"
+    },
+    {
+      "description": "Views - Onchain Summer Music Video",
+      "number": "200",
+      "url": "https://youtu.be/6CIlOmt6CW4"
+    },
+    {
+      "description": "Views - Prop House Movie",
+      "number": "140",
+      "url": "https://youtu.be/VwJFVr3eUsc"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 4,
+      "description": "From the mints of The Onchain Summer Music Video"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xc76596d7d2d20df97c23e48f77a16f830a2e38f9df27955722824eb4e0dd05fd",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

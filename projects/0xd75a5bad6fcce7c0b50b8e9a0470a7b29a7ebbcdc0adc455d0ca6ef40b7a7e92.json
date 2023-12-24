@@ -1,0 +1,111 @@
+{
+  "bio": "OpenOcean is a leading DEX aggregator with best swap prices across 30+ chains. ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "OpenOcean",
+  "websiteUrl": "https://openocean.finance/",
+  "applicant": {
+    "address": {
+      "address": "0x31C31ea5D121A0aFD850AC6B553185333f8A160c",
+      "resolvedName": {
+        "address": "0x31C31ea5D121A0aFD850AC6B553185333f8A160c",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x31C31ea5D121A0aFD850AC6B553185333f8A160c"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x31C31ea5D121A0aFD850AC6B553185333f8A160c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x31C31ea5D121A0aFD850AC6B553185333f8A160c.png",
+    "id": "OptimistProfile|0x31b46fa01a2271dd7466146a70607f1e836830b02a0b96b2ff181d0dd07ed526"
+  },
+  "impactDescription": "OpenOcean collectively executed $64m+ volume on OP with 110k+ transactions\nOpenOcean has served 61k+ unique wallets on OP \nIntegrated 18 liquidity sources including Aave V3, BeethovenX, Clipper, Clipper RFQ, Curve, Hashflow, KyberSwap, Mummy, OPX, Overnight, SushiSwap, Synapse, Uniswap, Velodrome, Velodrome V2, Woofi, ZipSwap across the ecosystem, the most of any aggregator.\nPartnered with leading DeFi protocols in the ecosystem offering products from our swap and builders suite, such as MetaMask (most competitive price among all swap solution providers) , DeFiLlama Swap, Sonne Finance, OPX Finance, Mean Finance, Axelar, UniDEX, Interport, Li.Fi, XY Finance, Symbiosis.",
+  "contributionDescription": "DEX Aggregator: We integrated Optimism with 18 DEX liquidity sources, ensuring that end users can access these platforms efficiently and trade assets at the best price. This integration not only increased the trading volume on these DEXs but also attracted more users to the Optimism platform.\n\nCross-Chain Swap Aggregator: We developed a cross-chain swap aggregator that attracted users from 7 networks to Optimism. We integrated 4 widely used bridge solutions and utilized our own swap function to enable 1 click cross-chain swap at the best price.\n\nSwap Product Suite: We offered developers and projects on OP ecosystem a series of products to complete inner-protocol integration to offer swap features, including swap function API/SDK/Widget, limit order API/SDK, and cross-chain swap API. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.openocean.finance/CLASSIC#/OPTIMISM/ETH/USDC",
+      "description": "OpenOcean swap function UI"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x6352a56caadC4F1E25CD6c75970Fa768A3304e64",
+      "description": "OpenOcean Exchange Contract - Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.openocean.finance/cross",
+      "description": "OpenOcean cross-chain swap aggregator"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://openocean.finance/api",
+      "description": "OpenOcean API intro page"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/openocean-finance/openocean-api",
+      "description": "OpenOcean swap function API"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/openocean-finance/OpenOcean-swap-sdk",
+      "description": "OpenOcean swap function SDK"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/openocean-finance/Widget",
+      "description": "OpenOcean swap function Widget"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://docs.openocean.finance/dev/cross-chain-swap-api/cross-chain-api",
+      "description": "OpenOcean cross-chain swap API"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://docs.openocean.finance/dev/limit-order-api-and-sdk/limit-order-api",
+      "description": "OpenOcean limit order API"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/openocean-finance/OpenOcean-limit-orderhttps://github.com/openocean-finance/OpenOcean-limit-order",
+      "description": "OpenOcean limit order SDK"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Cumulative Volume ($) ",
+      "number": "64456429",
+      "url": "https://dune.com/frank_gaia/openoceans-optimism-dashboard"
+    },
+    {
+      "description": "Cumulative Users",
+      "number": "61190",
+      "url": "https://dune.com/frank_gaia/openoceans-optimism-dashboard"
+    },
+    {
+      "description": "Cumulative Transaction",
+      "number": "110152",
+      "url": "https://dune.com/frank_gaia/openoceans-optimism-dashboard"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Swap to users is free. Positive slippage is untraceable and very little."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd75a5bad6fcce7c0b50b8e9a0470a7b29a7ebbcdc0adc455d0ca6ef40b7a7e92",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 28,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

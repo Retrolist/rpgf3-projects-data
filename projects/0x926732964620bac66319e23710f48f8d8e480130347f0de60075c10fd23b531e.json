@@ -1,0 +1,106 @@
+{
+  "bio": "Web3 Identity management platform supercharging ENS utility.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Namespace",
+  "websiteUrl": "https://namespace.ninja",
+  "applicant": {
+    "address": {
+      "address": "0x035eBd096AFa6b98372494C7f08f3402324117D3",
+      "resolvedName": {
+        "address": "0x035eBd096AFa6b98372494C7f08f3402324117D3",
+        "name": "thecap.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x035eBd096AFa6b98372494C7f08f3402324117D3"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x035eBd096AFa6b98372494C7f08f3402324117D3.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x035eBd096AFa6b98372494C7f08f3402324117D3.png",
+    "id": "OptimistProfile|0x08f0f112ddac5ddb2d023bab0cc7b5eacefbf8d99914b1fe625b56b9717f1dca"
+  },
+  "impactDescription": "Subname Customization:\nWe've provided the Ethereum ecosystem with a structured naming system, offering 54 unique listed names at an average listing price of 0.16 ETH.\n\nEconomic Impact:\nOur platform has facilitated the minting of 178 subnames, generating a total of 23.10 ETH. This not only adds economic value but also utility to the ethereum ecosystem.\n\nUser Engagement:\nThe average spend per wallet for minting is 0.075 ETH, and the average earning is 0.14 ETH, promoting both user engagement and economic activity within the community.\n",
+  "contributionDescription": "Namespace is a subname management platform that brings customized solutions for ENS name owners (DAOs, collections, communities, individuals, etc.) and offers features that customize the subname managing and selling experience. \n\nOur platform has started expanding to the Optimism network, aiming to leverage its low-cost environment to mint ENS subnames effectively and store minting preferences on the OP chain by incorporating Chainlink's CCIP, with an option for klaster.io CCIP, to ensure a seamless experience.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://op.namespace.ninja/",
+      "description": "Namespace OP"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://staging_app.namespace.ninja/",
+      "description": "Namespace on Goerli"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.namespace.ninja/",
+      "description": "Namespace on Mainnet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.loom.com/share/49918d607ed44ca6988df3bb34fee6f2?sid=5c07e53d-a901-404b-8b3b-44b14d42a76f",
+      "description": "Loom Demo - How to List and Issue Subnames with Namespace"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Unique listed names",
+      "number": "54",
+      "url": "https://docs.google.com/document/d/1DKeoy1DTzY1lBCX8W6zxhFx8z76YWQjtKqK2EjZlJzg/edit"
+    },
+    {
+      "description": "Average listing price in ETH",
+      "number": "0.16",
+      "url": "https://docs.google.com/document/d/1DKeoy1DTzY1lBCX8W6zxhFx8z76YWQjtKqK2EjZlJzg/edit"
+    },
+    {
+      "description": "Total minted subnames",
+      "number": "178",
+      "url": "https://docs.google.com/document/d/1DKeoy1DTzY1lBCX8W6zxhFx8z76YWQjtKqK2EjZlJzg/edit"
+    },
+    {
+      "description": "Unique parent names with minted subnames",
+      "number": "33",
+      "url": "https://docs.google.com/document/d/1DKeoy1DTzY1lBCX8W6zxhFx8z76YWQjtKqK2EjZlJzg/edit"
+    },
+    {
+      "description": "Total minted amount in ETH",
+      "number": "23.1",
+      "url": "https://docs.google.com/document/d/1DKeoy1DTzY1lBCX8W6zxhFx8z76YWQjtKqK2EjZlJzg/edit"
+    },
+    {
+      "description": "Average ETH spent on minting per wallet",
+      "number": "0.075",
+      "url": "https://docs.google.com/document/d/1DKeoy1DTzY1lBCX8W6zxhFx8z76YWQjtKqK2EjZlJzg/edit"
+    },
+    {
+      "description": "Average ETH earned on minting per wallet",
+      "number": "0.14",
+      "url": "https://docs.google.com/document/d/1DKeoy1DTzY1lBCX8W6zxhFx8z76YWQjtKqK2EjZlJzg/edit"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "ENS Ecosystem Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 20000,
+      "description": "Startup Yard Accelerator"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x926732964620bac66319e23710f48f8d8e480130347f0de60075c10fd23b531e",
+  "prelimResult": "Keep",
+  "reportReason": "Namespace OP is \"coming soon",
+  "includedInBallots": 15,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

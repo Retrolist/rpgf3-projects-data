@@ -1,0 +1,55 @@
+{
+  "bio": "I'm an independent trader, educator and researcher.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "ferrer",
+  "websiteUrl": "https://beta.talentprotocol.com/u/andyferrer",
+  "applicant": {
+    "address": {
+      "address": "0x0D24969D26177f813771ecA05F819fb3e00210F8",
+      "resolvedName": {
+        "address": "0x0D24969D26177f813771ecA05F819fb3e00210F8",
+        "name": "seneel.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x0D24969D26177f813771ecA05F819fb3e00210F8"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0D24969D26177f813771ecA05F819fb3e00210F8.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0D24969D26177f813771ecA05F819fb3e00210F8.png",
+    "id": "OptimistProfile|0x6a14b2076da06bc4a9d4b80fa36a2dbf40eed9e2fe50c37fb8739386b77a9607"
+  },
+  "impactDescription": "This is a great news and potential opportunity to all contributions outer and ah big thanks for giving  us a chance to join and  work to optimsm collective  we are very sure that we helped improve the project and meet other people to encourage them to the project ",
+  "contributionDescription": "Become an Optimism Ambassador\nHello everyone! I am andyferrer an independent trader, educator and researcher. I help traders develop their trading psychology and trading strategies. Creator in the Blockchain Ecosystem. I have 4 years of experience creating blockchain-related content and I have been in the blockchain space since 2018.\n\nI have experience in Insured Finance as Social Media Manager and it helped me to improve myself in marketing area and having networks. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://beta.talentprotocol.com/u/andyferrer?tab=updates",
+      "description": "My goal is to build Blockchain ,bridge across multichain"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "1",
+      "url": "https://x.com/seneel12?t=bWiLMunbzsCUqGBOptkCnw&s=09"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2f74f8283aa86772d71ca5206545deddaaba12829e8cf630d0e6a7dcd66ba8c3",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

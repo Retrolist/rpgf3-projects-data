@@ -1,0 +1,45 @@
+{
+  "bio": "optimistic",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "mik0007",
+  "websiteUrl": "https://mirror.xyz/mik07.eth/vM6vZpqr7cZyN2HkotmxZGG1kMACwzTonvGeRjKE2aE",
+  "applicant": {
+    "address": {
+      "address": "0x616b8248a78Ba31c04f769242060d0D16913c04D",
+      "resolvedName": {
+        "address": "0x616b8248a78Ba31c04f769242060d0D16913c04D",
+        "name": "mik07.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x616b8248a78Ba31c04f769242060d0D16913c04D"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x616b8248a78Ba31c04f769242060d0D16913c04D.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xdffee97ed076b3369fc1482d569fba901b4ae258fde7bfbb55f7ebd1d4b7ec81"
+  },
+  "impactDescription": "life chanching \nOP is a fast, stable, and scalable L2 blockchain built by Ethereum developers, for Ethereum developers. Built as a minimal extension to existing Ethereum software, OP Mainnet's EVM-equivalent architecture scales your Ethereum apps without surprises. If it works on Ethereum, it works on OP Mainnet at a fraction of the cost.",
+  "contributionDescription": "any OP contributions is good OP  contributions \nthe best airdrop ever \nOP  is a fast, stable, and scalable L2 blockchain built by Ethereum developers, for Ethereum developers. Built as a minimal extension to existing Ethereum software, OP Mainnet's EVM-equivalent architecture scales your Ethereum apps without surprises. If it works on Ethereum, it works on OP Mainnet at a fraction of the cost.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://mirror.xyz/mik07.eth/vM6vZpqr7cZyN2HkotmxZGG1kMACwzTonvGeRjKE2aE",
+      "description": "optimistic"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "op",
+      "number": "1000000",
+      "url": "https://mirror.xyz/mik07.eth/vM6vZpqr7cZyN2HkotmxZGG1kMACwzTonvGeRjKE2aE"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x9198e2e48bc0dd715673e1bcf589b10d1ecc713c75b4f574896b7a4329a06456",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

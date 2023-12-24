@@ -1,0 +1,62 @@
+{
+  "bio": "\ud83d\udc97 MOTOKO HOLDER \ud83d\udc97 #ROHKI Season Final holder #Camelventure member #OPsupporter",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Hoang Thi Thuy Nga",
+  "websiteUrl": "https://twitter.com/hoangnga0388",
+  "applicant": {
+    "address": {
+      "address": "0x67C7be15BBc60701A586614013a61f04C8Dd26D2",
+      "resolvedName": {
+        "address": "0x67C7be15BBc60701A586614013a61f04C8Dd26D2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x67C7be15BBc60701A586614013a61f04C8Dd26D2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x67C7be15BBc60701A586614013a61f04C8Dd26D2.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x67C7be15BBc60701A586614013a61f04C8Dd26D2.png",
+    "id": "OptimistProfile|0x19ddb8c1a0d3094254cc86447737ec2693c8c5d8bfc56c6dd017d686da7cbab9"
+  },
+  "impactDescription": "As I mentioned above, using the OP platform to make buying and selling transactions is my contribution to growing the OP network. As an individual, I don't have too much influence on the development of OP mainet but as a member of the Camel community, we have made a significant impact on the community especially is a music loving community through creating a mint NFT music wave on Sound.",
+  "contributionDescription": "The first thing I want to mention is: Using OP Mainet. I use OP mainet to buy and sell tokens and mint NFT music. To be honest, using the ETH mainet network with expensive gas fees is one of the big problems for people with limited financial resources like me. Optimism Mainet helped me solve this problem\nThe second thing is: Testing and feedback: Use applications, games... on the OP platform, identify any game issues, bugs or usability issues and provide valuable feedback to help improve the Apps.\nThe third thing is Community Building: Interacting with the community, individuals on X platform, telegram..., answering questions, promoting a positive and harmonious community environment import.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x67C7be15BBc60701A586614013a61f04C8Dd26D2",
+      "description": "This is my wallet address. I use to mint NFT music on the Sound platform"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://x.com/hoangnga0388/status/1690047219930718208?s=20",
+      "description": "This is one of the times I used X to promote the OP"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Mint NFT music on Sound",
+      "number": "15",
+      "url": "https://optimistic.etherscan.io/address/0x67C7be15BBc60701A586614013a61f04C8Dd26D2"
+    },
+    {
+      "description": "Promote OP on X, telegram...",
+      "number": "25",
+      "url": "https://x.com/hoangnga0388/status/1690047219930718208?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "I haven't received any OP yet"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x08aa14327f3f4ae93625db807c8fe5fe99118a260047a9dd3894c1a39ee1f0e4",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

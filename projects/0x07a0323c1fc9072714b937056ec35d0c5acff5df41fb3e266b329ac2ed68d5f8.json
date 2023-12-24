@@ -1,0 +1,154 @@
+{
+  "bio": "TypeScript Interfaces for Ethereum",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Wagmi / Viem",
+  "websiteUrl": "https://github.com/wagmi-dev",
+  "applicant": {
+    "address": {
+      "address": "0xd2135CfB216b74109775236E36d4b433F1DF507B",
+      "resolvedName": {
+        "address": "0xd2135CfB216b74109775236E36d4b433F1DF507B",
+        "name": "wagmi-dev.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xd2135CfB216b74109775236E36d4b433F1DF507B"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd2135CfB216b74109775236E36d4b433F1DF507B.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd2135CfB216b74109775236E36d4b433F1DF507B.png",
+    "id": "OptimistProfile|0xd0b95e3af7a08b1edd5ddf8425741a44ec5795e8514eac2281bac894979b7b51"
+  },
+  "impactDescription": "Wagmi + Viem enabled Dapps, Wallets, and Libraries to integrate with OP Stack chains: \n\n- friend.tech (Dapp): Marketplace for friends on Base, powered by Wagmi + Viem\n- Zora (Dapp):  Discover/mint NFTs on OP Stack chains, powered by Wagmi + Viem\n- mint.fun (Dapp): Discover/mint NFTs on OP Stack chains, powered by Wagmi + Viem\n- Sushi (Dapp): Swap on OP Stack chains, powered by Wagmi + Viem\n- Official Optimism/Coinbase Base bridges (Dapp): Bridging, powered by Wagmi + Viem\n- RetroPGF (Dapp): Application submission + voting, powered by Wagmi + Viem\n- Rainbow Extension (Wallet): Ethereum Wallet, OP Stack compatible, powered by Wagmi\n- Web3Modal, ConnectKit, RainbowKit (Library): \"Connect Wallet\" UI modal, powered by Wagmi + Viem\n- op-viem (Library): Viem extensions for the OP Stack\n- ++ more!",
+  "contributionDescription": "The Wagmi and Viem libraries are used in production today by popular Dapps, Wallets, and Libraries that integrate with OP Stack chains: Optimism, ENS, Shopify Blockchain, Coinbase + Base, Zora, WalletConnect, PancakeSwap, Sushi, Friend.tech, Rainbow, and more. Submitting and voting on RetroPGF applications even uses Wagmi + Viem!\n\nWagmi and Viem are the abstraction and connection between the \"Interface Layer\" and the \"Network/Protocol Layer\" for Dapps, Wallets, APIs, scripts, and more. \n\nViem is a low-level TypeScript Interface that provides lightweight, composable, and type-safe building blocks for Ethereum.\n\nWagmi is a higher-level TypeScript Interface that provides React Hooks, Vanilla JS Actions, and other reactive primitives for building applications on Ethereum.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/wagmi-dev/viem",
+      "description": "Viem: TypeScript Interface for Ethereum"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/wagmi-dev/wagmi",
+      "description": "Wagmi: Reactivity for Ethereum apps"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "(Viem) Downloads Per Month",
+      "number": "844188",
+      "url": "https://npm.im/viem"
+    },
+    {
+      "description": "(Wagmi) Downloads Per Month",
+      "number": "540016",
+      "url": "https://www.npmjs.com/package/wagmi"
+    },
+    {
+      "description": "(Viem) GitHub Stars",
+      "number": "1500",
+      "url": "https://github.com/wagmi-dev/viem"
+    },
+    {
+      "description": "(Wagmi) GitHub Stars",
+      "number": "4943",
+      "url": "https://github.com/wagmi-dev/wagmi"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 6793.04,
+      "description": "Gitcoin Round 18 Match - 8/29/23"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1790,
+      "description": "Gitcoin Round 18 - 8/29/23"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 3989.5591,
+      "description": "Gitcoin Beta Round Match - 7/10/23"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 50000,
+      "description": "ENS Public Goods Large Grant - 7/9/23"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 591.49,
+      "description": "Gitcoin Beta Round - 5/9/23"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 17019.35,
+      "description": "Gitcoin Alpha Round Match - 3/31/23"
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 156463.05,
+      "description": "RetroPGF 2 - 3/10/23"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 4075.01,
+      "description": "Gitcoin Alpha Round - 1/31/23"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 22319,
+      "description": "Gitcoin Round 15 Match - 10/18/22"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 6152,
+      "description": "Gitcoin Round 15 - 9/22/22"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 30163,
+      "description": "Gitcoin Round 14 Match - 7/15/22"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 16157,
+      "description": "Gitcoin Round 14 - 6/23/22"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 466,
+      "description": "Gitcoin Round 13 Match - 4/15/22"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1560,
+      "description": "Gitcoin Round 13 - 3/24/22"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x07a0323c1fc9072714b937056ec35d0c5acff5df41fb3e266b329ac2ed68d5f8",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 89,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

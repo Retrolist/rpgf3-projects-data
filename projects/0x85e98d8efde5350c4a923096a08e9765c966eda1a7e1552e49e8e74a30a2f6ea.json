@@ -1,0 +1,45 @@
+{
+  "bio": "Web3 explorer, Crypto addict and Interesting on NFT",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "rizeuzz",
+  "websiteUrl": "https://twitter.com/riyankurniaone",
+  "applicant": {
+    "address": {
+      "address": "0x4bcDA99E537561662e00CB76295B9fFa0861ADf5",
+      "resolvedName": {
+        "address": "0x4bcDA99E537561662e00CB76295B9fFa0861ADf5",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x4bcDA99E537561662e00CB76295B9fFa0861ADf5"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4bcDA99E537561662e00CB76295B9fFa0861ADf5.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xa9f8218abf3f9ef755eaffeedd8da197c8badf662786ecce734ffbcff2c93f82"
+  },
+  "impactDescription": "Improved User Experience: If I developed open-source tools or made technical contributions to the Optimism codebase, I could have significantly improved the user experience. For example, by optimizing transaction speeds, reducing costs, or improving the interface, I'm made Optimism more user-friendly and accessible. This directly impacts end-user experience as it makes interacting with Optimism a smoother and more enjoyable process.\n\nIncreased Adoption: My educational content and community-building efforts could have played a crucial role in driving the adoption of Optimism. By creating educational materials, I'm helped users understand how to use Optimism, thereby reducing barriers to entry. ",
+  "contributionDescription": "1. Development of Open-Source Tools: I developed open-source tools that facilitate the use of Optimism. This could include libraries, plugins, or other software that makes it easier for developers to build on Optimism.\n\n2. Educational Content: I created educational content that helps others understand and use Optimism. This could be in the form of blog posts, video tutorials, online courses, or other educational materials.\n\n3. Community Building: I organized events or initiatives that helped to build and strengthen the Optimism community. This could include meetups, hackathons, online forums, or other community-building activities.\n\n4. Technical Contributions: I made significant technical contributions to the Optimism codebase.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/rizeuzz",
+      "description": "Web3 explorer, Crypto addict and Interesting on NFT"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "3",
+      "url": "https://github.com/rizeuzz"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x85e98d8efde5350c4a923096a08e9765c966eda1a7e1552e49e8e74a30a2f6ea",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

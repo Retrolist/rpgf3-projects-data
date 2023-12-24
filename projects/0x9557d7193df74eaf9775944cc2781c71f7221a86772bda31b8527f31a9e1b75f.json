@@ -1,0 +1,52 @@
+{
+  "bio": "Research",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "xtee",
+  "websiteUrl": "https://linktr.ee/0Xtee3",
+  "applicant": {
+    "address": {
+      "address": "0xdb32940b576125cecB7C38401A2D068669001f82",
+      "resolvedName": {
+        "address": "0xdb32940b576125cecB7C38401A2D068669001f82",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xdb32940b576125cecB7C38401A2D068669001f82"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdb32940b576125cecB7C38401A2D068669001f82.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb10a89c985d19c52c4086b12e6829c288e8263c54de9af91683bb38d3a9a63f5"
+  },
+  "impactDescription": "impact on Optimism Collective governance participants, or help bring new governance participants into the Collective.Active in the community to increase traffic,provide community education about the optimism network,to understand more about this network,and many more.one of them is always active in sharing information about the latest projects at Optimism.and educate the community on how to use this network",
+  "contributionDescription": "Active in the community to increase traffic,provide community education about the optimism network,to understand more about this network,and many more.one of them is always active in sharing information about the latest projects at Optimism.and educate the community on how to use this network",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/AirdropJacks/18723",
+      "description": "information about the project"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "community",
+      "number": "15000",
+      "url": "https://t.me/AirdropJacks/18723"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 500,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9557d7193df74eaf9775944cc2781c71f7221a86772bda31b8527f31a9e1b75f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

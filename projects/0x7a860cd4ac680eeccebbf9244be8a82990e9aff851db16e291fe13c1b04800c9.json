@@ -1,0 +1,45 @@
+{
+  "bio": "\ud83c\udfe1Exploring Web3 real estate opportunities. Earn while you hold. Rentable Airbnb",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Digital Estates",
+  "websiteUrl": "https://twitter.com/Digital3states",
+  "applicant": {
+    "address": {
+      "address": "0xBb13C0560C8A8354E6A914f1f2b873CEfE0dF9F7",
+      "resolvedName": {
+        "address": "0xBb13C0560C8A8354E6A914f1f2b873CEfE0dF9F7",
+        "name": "alphaminer.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xBb13C0560C8A8354E6A914f1f2b873CEfE0dF9F7"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBb13C0560C8A8354E6A914f1f2b873CEfE0dF9F7.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x9e631d51122221fd8841ec0bb19f4fd9ea213ae52f7327f93f24eac7dd8138e6"
+  },
+  "impactDescription": "To be honest i'm still looking for a chain to launch this business. This won't be a mint to flip type of Jpeg project so i don't see many people being bothered by gas fees however we are all conscious about them and try to save them wherever we can.. If you guys give us grant it would solidify us to use this chain.. I like Optimism and like that its still an L2 of ETH.. \n\nIf this is successful and we can mint out our project and collect the minimal amount we strive to sell 3-4 homes per year doing this method.. Id like to mint a new home every few months but first my goals are to sell 1 and get it up and running so we have a model to follow and then we can go from there. ",
+  "contributionDescription": "Hello and good morning,\n\nI'm launching a real estate investment opportunity leveraging my 20 years of experience building homes with my father. Together, we bring over 40 years of expertise in crafting custom homes.\n\nWe're seeking $500-650K USD to:\n1.) Purchase land\n2.) Construct the home\n3.) Furnish it\n\nOnce completed, the property joins our rental program, generating income for investors. With our housing background, investors should recoup their investment by year 5.\n\nAfterward, we sell the home and share the profits. Investors can also use the property, akin to a timeshare but without pesky fees. This property pays you back over time, and we never charge maintenance fees.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Digital3states",
+      "description": "Not much info out yet but discord is where all the info will be shared.."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Personal account",
+      "number": "1",
+      "url": "https://twitter.com/AlphaminerETH"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7a860cd4ac680eeccebbf9244be8a82990e9aff851db16e291fe13c1b04800c9",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

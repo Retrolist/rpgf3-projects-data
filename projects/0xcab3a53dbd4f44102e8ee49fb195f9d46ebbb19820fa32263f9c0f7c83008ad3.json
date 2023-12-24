@@ -1,0 +1,57 @@
+{
+  "bio": "im roif from indonesia im translator crowdin artikel in web and blog",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Roif",
+  "websiteUrl": "https://crowdin.com/profile/roifnaufal21",
+  "applicant": {
+    "address": {
+      "address": "0xa87EC1DbBdbcD8b18902DCBC694A9ee58999c16f",
+      "resolvedName": {
+        "address": "0xa87EC1DbBdbcD8b18902DCBC694A9ee58999c16f",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa87EC1DbBdbcD8b18902DCBC694A9ee58999c16f"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa87EC1DbBdbcD8b18902DCBC694A9ee58999c16f.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa87EC1DbBdbcD8b18902DCBC694A9ee58999c16f.jpeg",
+    "id": "OptimistProfile|0xbaf22513010e201b39174f078ed60dd63ae943ac8aa399c4a6e7ddba9e58be63"
+  },
+  "impactDescription": "I want to contribute in the field of translators, so far I have translated various optimism articles both on the web, blogs and crowdin\nthat way I hope to help people, especially Indonesians who want to join the optimism ecosystem so that in the future optimism can have more members from various countries that make optimism can continue to grow and be global.",
+  "contributionDescription": "I want to contribute in the field of translators, so far I have translated various optimism articles both on the web, blogs and crowdin\nthat way I hope to help people, especially Indonesians who want to join the optimism ecosystem so that in the future optimism can have more members from various countries that make optimism can continue to grow and be global.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@roifnaufal843",
+      "description": "I posted my translation on my medium page"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://crowdin.com/profile/roifnaufal21",
+      "description": "I have also translated on crowdin optimism."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "crowdin project",
+      "number": "1",
+      "url": "https://crowdin.com/project/optimism-help-center/reports/top-members"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1800,
+      "description": "to creat article,translate everyting article about optimism and post it"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xcab3a53dbd4f44102e8ee49fb195f9d46ebbb19820fa32263f9c0f7c83008ad3",
+  "prelimResult": "Remove",
+  "reportReason": "Violating the contribution path rule. All of his contribution has already been included in the Translator program."
+}

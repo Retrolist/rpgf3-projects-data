@@ -1,0 +1,53 @@
+{
+  "bio": "web3 enthusiastic",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "ramafadillah",
+  "websiteUrl": "https://medium.com/@ramafadillah9876",
+  "applicant": {
+    "address": {
+      "address": "0xBe236b156768801CCAF59d3AeE864f51133aeEee",
+      "resolvedName": {
+        "address": "0xBe236b156768801CCAF59d3AeE864f51133aeEee",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xBe236b156768801CCAF59d3AeE864f51133aeEee"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xBe236b156768801CCAF59d3AeE864f51133aeEee.png",
+    "id": "OptimistProfile|0x6f19584d2b1590ba117f40e37055d176c4e240d89fe2c73aae2ff1383a1b0723"
+  },
+  "impactDescription": "I always share information on social media or personal channels such as my personal Medium and Telegram channels, and some explanations about this OP program. through all the information available on the official page, so that people participate and understand about OP's other great programs",
+  "contributionDescription": "I always share information on social media or personal channels such as my personal Medium and Telegram channels, and some explanations about this OP program. through all the information available on the official page, so that people participate and understand about OP's other great programs",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://t.me/signalxairdrop/9304",
+      "description": "I provide information about retropgf via the Telegram channel"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "s",
+      "number": "3",
+      "url": "https://t.me/signalxairdrop/9304"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xcfcc2d5d3738b68e997dc80b4ab2a8340ef851bc96f7715861347d0a8215243f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,95 @@
+{
+  "bio": "IPFS is an open system to manage content-addressed data without a central server",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "IPFS",
+  "websiteUrl": "https://ipfs.tech/",
+  "applicant": {
+    "address": {
+      "address": "0x8b7f5aD25d9d2ce47217060ebDA80D74f33b4E63",
+      "resolvedName": {
+        "address": "0x8b7f5aD25d9d2ce47217060ebDA80D74f33b4E63",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x8b7f5aD25d9d2ce47217060ebDA80D74f33b4E63"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8b7f5aD25d9d2ce47217060ebDA80D74f33b4E63.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8b7f5aD25d9d2ce47217060ebDA80D74f33b4E63.png",
+    "id": "OptimistProfile|0x06ebe0954ff71c1c03dbb823a6e43a2e47ea84a6cb046bfb702ed0313b5bce47"
+  },
+  "impactDescription": "IPFS is a system for moving data across decentralized networks, with >11M weekly users and 250K public p2p nodes. Highlights:\n\n1. Off-chain storage. IPFS provides verifiable, off-chain storage, often used to reduce on-chain needs in Ethereum & Optimism. Examples: TrueBlocks (local IPFS-based index for EVM chains, built with grants from OP & EF), Snapshot (IPFS-based off-chain voting).\n\n2. Go-to distribution network for fully decentralized third-party app frontends (for gaming, DeFi, & more). We run gateway services that serve 900M requests/wk, and added native IPFS support to browsers like Chromium & Brave.\n\n3. NFT metadata gold standard. Over 115M NFTs are stored on IPFS, including leading platforms OpenSea (which supports Optimism NFTs), Rarible, and Zora.\n",
+  "contributionDescription": "- Development and maintenance of the IPFS protocols and specifications.\n- Operation of two major IPFS gateways.\n- Production of one major IPFS implementation (kubo).\n- Advocacy, governance work, and clear specifications with an open and legitimate process to support the wider community.\n- Documentation and code examples to help people use IPFS.\n- Bringing IPFS to browsers, browser engines, and in cURL so as to support better dApps and bridge web2 over.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://ipfs.tech/",
+      "description": "The IPFS Protocol"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.ipfs.tech/case-studies/snapshot/#overview",
+      "description": "Snapshot voting"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.ipfs.tech/concepts/ipfs-gateway/#gateway-providers",
+      "description": "IPFS/HTTP Gateways"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ipfs/",
+      "description": "Multiple IPFS implementations"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://specs.ipfs.tech/ ",
+      "description": "Community governance of IPFS standards"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ipld.io/",
+      "description": "IPLD"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ipld/",
+      "description": "IPLD implementations"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/multiformats/",
+      "description": "Multiformats"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Weekly active users",
+      "number": "11000000",
+      "url": "https://probelab.io/"
+    },
+    {
+      "description": "Public DHT nodes",
+      "number": "250000",
+      "url": "https://probelab.io/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1500000,
+      "description": "Protocol Labs + Filecoin Foundation granted this in the IPFS Implementation Fund"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf60aa7b567c5deb1a6c8f3b4867d77c99e97619ad3701028db4415f367ae4eab",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 78,
+  "primaryCategory": "OP Stack",
+  "recategorization": "Ethereum Development & Maintanance"
+}

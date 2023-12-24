@@ -1,0 +1,78 @@
+{
+  "bio": "CrossAngle is a data & intelligence platform offering gateway to Web3 adoption. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "CrossAngle (\u201cXangle\u201d)",
+  "websiteUrl": "https://xangle.io/en",
+  "applicant": {
+    "address": {
+      "address": "0x5f80dbFEE26af9aBb7749831255312d5b676b9be",
+      "resolvedName": {
+        "address": "0x5f80dbFEE26af9aBb7749831255312d5b676b9be",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5f80dbFEE26af9aBb7749831255312d5b676b9be"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5f80dbFEE26af9aBb7749831255312d5b676b9be.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5f80dbFEE26af9aBb7749831255312d5b676b9be.png",
+    "id": "OptimistProfile|0x169d2514a850dd7a97bf7e73a3bef8219f4ae71d0cfd4457dea915e4ef817192"
+  },
+  "impactDescription": "We've significantly expanded OP's brand awareness and educated both Web3 and Web2 B2B users. With a strong reputation in traditional industries, Xangle has introduced OP to both B2C & B2B users.\n-On-chain Analytics: Has attracted 1.3k+ users monthly since APR 2023, emphasizing Optimism's importance.\n-Research: Our reports have reached many users through Xangle and various media & channel partners. Some reports garnered 86k+ views.\n-Base Explorer: While we offer advisory to major Web2s, we emphasized our capability to support an explorer for companies entering to Base, positioning Base as a mainnet partner, thereby encouraging widespread adoption to OP Stack.\n-Event: We've covered 39 OP ecosystem key events with an average of 0.6k views per event, reaching 23.4k general Web3 and B2B users.",
+  "contributionDescription": "Xangle has reinforced Optimism's presence in APAC. We have provided an on-chain analytics dashboard, distributed research, tracked and announced milestones, and built a block explorer for Base. These efforts enhance OP's visibility and value proposition comprehension. Xangle aims to encourage Web2 companies to consider OP as a key player.\n-On-chain analytics: a publicly accessible dashboard with OP\u2019s data, emphasizing its importance to Korean users.\n-Research: institution-grade reports distributed widely, increasing awareness through media channels.\n-Base Block Explorer: an enterprise-grade explorer ensuring transparency and credibility for Base and the OP Stack.\n-Xangle Events: displaying key updates on the OP ecosystem through a publicly available 'Event' service, maximizing usability.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://base.xangle.io/",
+      "description": "Base Explorer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://xangle.io/en/analytics/Chains/OP/indicator?tab=token",
+      "description": "Optimism On-chain analytics dashboard"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://xangle.io/en/project/OP/key-info",
+      "description": "Optimism's Profile Page:  List of Past & Upcoming Key Events"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://xangle.io/en/project/OP/live-watch",
+      "description": "Optimism's Profile Page: Circulating Supply Tracker"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://xangle.io/en/research/detail/1544",
+      "description": "Research Article - \"Xangle X Republic Crypto: Rollup Investment Guide Part1\""
+    },
+    {
+      "type": "OTHER",
+      "url": "https://xangle.io/en/research/detail/1175",
+      "description": "Research Article - \"The Past, Present, and Future of Optimism vs Arbitrum\""
+    },
+    {
+      "type": "OTHER",
+      "url": "https://xangle.io/en/research/detail/1192",
+      "description": "Research Article - \"Web3 Airdrop Playbook (Feat. Optimism vs. Arbitrum)\""
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Xangle Research (# of Views)",
+      "number": "255150",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vRDitSHVBCf3FXi_MfaH-8W3UJUzAI9JUEsBGgWK6UNFu_JYBnw94Dpz9Igmy2Z7nnrG-SFqCvXsUZx/pub"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7b0c961a1f892f654adce33bab1235bffacec1c02069b66490f91fc66765dcf9",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 17,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

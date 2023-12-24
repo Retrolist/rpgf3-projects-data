@@ -1,0 +1,57 @@
+{
+  "bio": "hey, im from Camel ventures, we love Music NFTs on soundxyz...",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "vietcong6868",
+  "websiteUrl": "https://twitter.com/vietcong6868",
+  "applicant": {
+    "address": {
+      "address": "0x8d29052d697afc7f6C07c045de6F43727EA0bd60",
+      "resolvedName": {
+        "address": "0x8d29052d697afc7f6C07c045de6F43727EA0bd60",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x8d29052d697afc7f6C07c045de6F43727EA0bd60"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8d29052d697afc7f6C07c045de6F43727EA0bd60.png",
+    "id": "OptimistProfile|0xb782878719643ec03b85ef898b80f21f466583f6cc3d6323a315aa09f90fc7b0"
+  },
+  "impactDescription": "I bought 155 tracks from 33 artists, maybe not a lot but I thought I would contribute a little to the OP network and soundxyz. Why did I buy so much?  in the bear market, most people are scared and hold money , but I took the risk to buy music nft using op network. I want to be a little ant building on OP spirit, I don't know if I can get anything? But I believe OP, because OP's spirit is to move forward together, not ARB)) . Below is my address, you can check it . .",
+  "contributionDescription": "That's great to hear! I have been following and contributing to artists on soundxyz along with Camel Ventures. Camel Ventures is Top 1 viral on soundxyz ( 15-8-2023 )\nI have purchased 155 music NFTs from 33 artists, with a special focus on ROHKI NFTs through Camel Ventures' referral link. I started buying NFTs with ETH on the OP network and ETH main from 29-3 -2023. I'm very happy to contribute to OP and soundxyz. I also tweet and share mint music nft in my twitter.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x673a03a0692a2301fb94b1bf79c0c41b9432ba69b003f5a7ea0e5343a468e6fb",
+      "description": "V Buterin music nft minted - my first nft minted eth OP network"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/vietcong6868/status/1694013842878284286?s=20",
+      "description": "Proof photo camel ventures was top1 viral on soundxyz"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "number of songs minted",
+      "number": "155",
+      "url": "https://optimistic.etherscan.io/address/0x8d29052d697afc7f6C07c045de6F43727EA0bd60"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 800,
+      "description": "The optimistic spirit of OP."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x41c00fe0ec58d38e9eab79f0c131d56f6df6c8741278d7f042effa6e8cf10f06",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

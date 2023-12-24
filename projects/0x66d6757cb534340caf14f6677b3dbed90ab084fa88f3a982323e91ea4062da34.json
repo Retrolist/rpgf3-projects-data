@@ -1,0 +1,58 @@
+{
+  "bio": "I'm an web3 influencer with over 20.000 followers",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "HinkoK",
+  "websiteUrl": "https://t.me/HinkoK",
+  "applicant": {
+    "address": {
+      "address": "0x43584Dc82a8077d8558B7c8374918Fc939574539",
+      "resolvedName": {
+        "address": "0x43584Dc82a8077d8558B7c8374918Fc939574539",
+        "name": "hinkok.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x43584Dc82a8077d8558B7c8374918Fc939574539"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x18eb16fab7e4e70ee48da2c74971b4e6acf105df66f30ef903c8b2855cd01f2c"
+  },
+  "impactDescription": "A lot of people started using Optimism ecosystem after I made posts about OP quests, after second airdrop, and I've made post about importance of delegating tokens and actively participating in the governance. So my main countribution is attracting new users to the OP ecosystem.",
+  "contributionDescription": "I've made posts about Optimism and delegating tokens. I think that my posts helped Optimism ecosystem because many people started to delegate their tokens and actively participate in the governance.\n\nhttps://t.me/HinkoK/1442\nhttps://t.me/HinkoK/1550\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/HinkoK/1442",
+      "description": "Post in telegram"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/HinkoK/1550",
+      "description": "Post in telegram"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "My post viewed more than 6000 people",
+      "number": "6000",
+      "url": "https://t.me/HinkoK/1442"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I haven't received any yet"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x66d6757cb534340caf14f6677b3dbed90ab084fa88f3a982323e91ea4062da34",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

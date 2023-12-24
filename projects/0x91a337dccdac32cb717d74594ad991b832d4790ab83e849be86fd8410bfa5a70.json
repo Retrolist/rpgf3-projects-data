@@ -1,0 +1,89 @@
+{
+  "bio": "Leading onchain music distributor",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "LNRZ",
+  "websiteUrl": "https://www.lnrz.xyz",
+  "applicant": {
+    "address": {
+      "address": "0x2acCcdaBc0aCf92D670d430AaEC6b440311cC7a5",
+      "resolvedName": {
+        "address": "0x2acCcdaBc0aCf92D670d430AaEC6b440311cC7a5",
+        "name": "lnrz.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2acCcdaBc0aCf92D670d430AaEC6b440311cC7a5"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x4e7103603f38dcf8ca74874e05dbd2465ccd767814bb924d7da2d6cba83fb4f2"
+  },
+  "impactDescription": "Our contributions and projects on the OP Superchain have onboarded both artists and collectors alike into the ecosystem. Additionally, we started releases on ETH Mainnet originally and made a complete transition to OP Stack because we believe this is where creators will flourish. We have been a beacon for other artists switching off of Mainnet.",
+  "contributionDescription": "LNRZ was created by artists, for artists. We are a distribution vessel that gets great music heard, and great artists paid.\n\nOver the past 7 months, we\u2019ve been a leading curator of exciting onchain music drops, having partnered with 60+ artists and multiple companies, including OP Collective, Base, and Zora Network.\n\nOur efforts have been successful in bringing visibility to emerging talent and their incredible music.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://themultichain.xyz/",
+      "description": "First cross-chain music project on OP, Base, and Zora Network"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://onchainsummer.xyz/bonfire",
+      "description": "LNRZ x Bonfire for Base Onchain Summer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/lnrz",
+      "description": "Weekly curated drops with artists, music released on OP"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Editions minted on OP Superchain",
+      "number": "3112",
+      "url": "https://lnrz.xyz/"
+    },
+    {
+      "description": "Editions minted on OP Superchain",
+      "number": "1851",
+      "url": "https://www.sound.xyz/lnrz"
+    },
+    {
+      "description": "Editions minted on OP Superchain",
+      "number": "674",
+      "url": "https://anotherblock.io/drops/lnrz-out-of-breath"
+    },
+    {
+      "description": "Editions minted on OP Superchain",
+      "number": "358",
+      "url": "https://zora.co/collect/zora:0xba49d20bf32aa028d3ee27d8a4010522ddbe1d7f"
+    },
+    {
+      "description": "Songs released on OP Superchain",
+      "number": "13",
+      "url": "https://www.sound.xyz/"
+    },
+    {
+      "description": "ETH raised on OP for Artists",
+      "number": "25",
+      "url": "https://www.sound.xyz/lnrz"
+    },
+    {
+      "description": "Unique collectors on OP Superchain",
+      "number": "4000",
+      "url": "https://lnrz.xyz/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x91a337dccdac32cb717d74594ad991b832d4790ab83e849be86fd8410bfa5a70",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 7,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

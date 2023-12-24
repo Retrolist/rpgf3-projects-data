@@ -1,0 +1,45 @@
+{
+  "bio": "We believe in the power of cryptocurrency bringing opportunities to all of us.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Crypto Kingdom",
+  "websiteUrl": "https://www.cryptokingdomwork.com/",
+  "applicant": {
+    "address": {
+      "address": "0xf99D5eE251872549dA31DbC5882D0920cbAF80AF",
+      "resolvedName": {
+        "address": "0xf99D5eE251872549dA31DbC5882D0920cbAF80AF",
+        "name": "ckingdom.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xf99D5eE251872549dA31DbC5882D0920cbAF80AF"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf99D5eE251872549dA31DbC5882D0920cbAF80AF.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf99D5eE251872549dA31DbC5882D0920cbAF80AF.png",
+    "id": "OptimistProfile|0x93b724371ea8d84b63f9a18d50ccc48032c76087388d30a7a295115ce64eb809"
+  },
+  "impactDescription": "I believe in the power of cryptocurrency and the opportunities of freedom it provides and Optimism is one of those ways. While I may not be a developer, I am trying to use influence and high quality content, including relationship building, to bring a greater awareness of crypto around the world. And I believe it's a good work we can do across the board to better us as a society. And I hope that continues to build within the collective.",
+  "contributionDescription": "I have been around the Crypto space as a whole now for about 4 years. In that time I've learned a lot, been scammed (like all of us pretty much), invested, gone down the rabbit hole, and have joined some amazing communities along the way that are like family. \n\nI believe in the power of cryptocurrency and the opportunities of freedom it provides and Optimism is one of those ways. While I may not be a developer, I am trying to use influence and high quality content, including relationship building, to bring a greater awareness of crypto around the world. And I believe it's a good work we can do across the board to better us as a society. \n\nI'll be continuing to do that with our without help but I sure would love help and support along the way so I'm trying to make a statement for that here.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/CryptoKingdom6967",
+      "description": "Github"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Discord Servers of Involvement",
+      "number": "135",
+      "url": "https://github.com/CryptoKingdom6967"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x02a9c34a468d33bc28a5f434f7116eb92137e65e34d75ab1ceab0aa3c67c65ab",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,72 @@
+{
+  "bio": "Artist ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "0xen",
+  "websiteUrl": "https://warpcast.com/0xen",
+  "applicant": {
+    "address": {
+      "address": "0x333d0EBc54707c0a9D92caC749B3094c28a0E111",
+      "resolvedName": {
+        "address": "0x333d0EBc54707c0a9D92caC749B3094c28a0E111",
+        "name": "0xen.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x333d0EBc54707c0a9D92caC749B3094c28a0E111"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x333d0EBc54707c0a9D92caC749B3094c28a0E111.png",
+    "id": "OptimistProfile|0xb76b19aef0d4a549295b52dfc4b57039b0c9c3732e21d43d9b57ad19d8d15fb9"
+  },
+  "impactDescription": "Created artwork with over two thousand NFTs minted in support of Farcaster and the Farcaster ecosystem. Created art for first Nouns style DAO not on Mainnet for ENERGY DAO on the ZORA network.  Creator of Purple DAO season two artwork for Farcaster's public good DAO. ",
+  "contributionDescription": "Created main token art for Energy, a public goods, creative tech and arts DAO on Zora Network. \n\nCreated main token art for Purple Season two for Farcaster's Purple DAO. \n \nCreated multiple promotional NFTs for Farcaster via the Zora Network and Base.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://nouns.build/dao/zora/0x32297B7416294B1ACF404b6148a3C58107ba8afd",
+      "description": "ENERGY DAO"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nouns.build/dao/ethereum/0xa45662638e9f3bbb7a6fecb4b17853b7ba0f3a60/vote/0x24826cf19023ce12fab9b27810d2a8495864451a6084ef3ffcbd43df3868fce3",
+      "description": "Purple Season 2 "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zora.co/collect/zora:0xa9ce39db99bec277a782a1ede4309e1c9edc753a/1",
+      "description": "Farcaster, Permissionless "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Mints",
+      "number": "2106",
+      "url": "https://zora.co/collect/zora:0xa9ce39db99bec277a782a1ede4309e1c9edc753a/1"
+    },
+    {
+      "description": "Mints",
+      "number": "747",
+      "url": "https://zora.co/collect/zora:0xa928c4fdfa48777c81f7cc367c4dce55088938bd"
+    },
+    {
+      "description": "Mints",
+      "number": "329",
+      "url": "https://zora.co/collect/base:0x2b34e8fa3f96fa146a3c7b6d05a7aec67cb0c3f2"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x94102ff78bd85aaf9f0e113720be12b18aff3a47f8bd313387c4a78d687ac330",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

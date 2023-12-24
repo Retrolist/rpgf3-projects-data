@@ -1,0 +1,55 @@
+{
+  "bio": "Love Crypto",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Muhammad Saqib",
+  "websiteUrl": "https://twitter.com/TrustNow3",
+  "applicant": {
+    "address": {
+      "address": "0x95e9ffc26Cb33FA701A56862cd6E2b4c96Cb444e",
+      "resolvedName": {
+        "address": "0x95e9ffc26Cb33FA701A56862cd6E2b4c96Cb444e",
+        "name": "airdropsalert.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x95e9ffc26Cb33FA701A56862cd6E2b4c96Cb444e"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x95e9ffc26Cb33FA701A56862cd6E2b4c96Cb444e.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x71419fc9e400ef740a73f00e52108efba89d45e1b52e9427654c506113799af2"
+  },
+  "impactDescription": "As part of the OVM 2.0 upgrade, the Optimism fault proof mechanism had to be temporarily disabled. This means that users of the OP Mainnet network currently need to trust the Sequencer node (run by Optimism Foundation) to publish valid state roots to Ethereum. You can read more about our security model ",
+  "contributionDescription": "Currently, the Optimism Foundation runs the sole sequencer on OP Mainnet. This does not mean that Optimism can censor user transactions. However, it is still desirable to decentralize the sequencer over time, eliminating Optimism's role entirely so that anyone can participate in the network as a block producer.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/TrustNow3",
+      "description": "Love Crypto"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "69",
+      "number": "69",
+      "url": "https://twitter.com/TrustNow3"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5fb5dbbe2a974a788720983b21d66188f92d9ad3d97b2192d14916d976af9ac7",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

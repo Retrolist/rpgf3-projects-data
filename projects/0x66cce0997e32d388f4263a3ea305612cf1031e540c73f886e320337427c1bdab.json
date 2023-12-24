@@ -1,0 +1,74 @@
+{
+  "bio": "Data Analyst ,Core contributor,Instructor, Content creator,Community moderator",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Mrfti",
+  "websiteUrl": "https://flipsidecrypto.xyz/Mrfti",
+  "applicant": {
+    "address": {
+      "address": "0x3722a8b1E2674FbBA7081C84E39A5cE738B8159D",
+      "resolvedName": {
+        "address": "0x3722a8b1E2674FbBA7081C84E39A5cE738B8159D",
+        "name": "lordofthecoins.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3722a8b1E2674FbBA7081C84E39A5cE738B8159D"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3722a8b1E2674FbBA7081C84E39A5cE738B8159D.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3722a8b1E2674FbBA7081C84E39A5cE738B8159D.jpeg",
+    "id": "OptimistProfile|0x0e7d7550a4da727367c05a335efe787fbc80688da7c5170b31ecde8c7eca6a53"
+  },
+  "impactDescription": "I'll give you an example:\n\n* An overview into Gyroscope E-CLP on Beethoven Optimism:\nGyroscope protocol was very popular due to its eclp pools and its high TVL which was increasing every day...they announced that they will launch their next eclp for wETH/wstETH pair about beethoven (source: https://x.com/GyroStable/status/1676610455010263040?s=20 ) which was launched on July 20 (source: https://x.com/GyroStable/status/1682043945990393858?s=20 )\nThen I created this dashboard to show that this new LST-based pool has high capital efficiency and users can trust it... (source: https://x.com/Mrfti_plus/status/1691527576416645120?s=20 \nand https://x.com/Mrfti_plus/status/1691528693842104322?s=20 )\nTVL grew so quickly from $20,000 (original TVL) to $5 million (at the time of writing)\n\n\n\n",
+  "contributionDescription": "I have analyzed several optimism projects, which I will describe in more detail in the individual sections below:\nAlso, there are some things that aren't registerable and I only add the cases I think are valuable enough to be mentioned here (ignore the cases that seem to be usual for me)",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://flipsidecrypto.xyz/Mrfti/optimism-de-xs-analysis-optimism-de-xs-analysis-_HNYJV",
+      "description": "Deep overview into Optimism DEXs"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://flipsidecrypto.xyz/Mrfti/%F0%9F%94%A5-gg-18-full-analysis-%F0%9F%94%A5-gg18-full-analysis-Xd1_fD",
+      "description": "an overview of Gitcoin 18th round of donations on optimism"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://flipsidecrypto.xyz/Mrfti/op-delegation-op-delegation-8qXcZB",
+      "description": "a dashboard to check your delegations and analyze optimism airdrop round 3!"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://flipsidecrypto.xyz/Mrfti/w-eth-wst-eth-e-clp-weth-wsteth-e-clp-wzXRXY",
+      "description": "An overview into Gyroscope E-CLP on Beethoven Optimism"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://flipsidecrypto.xyz/Mrfti/quixotic-nft-dashboard-quixotic-nft-dashboard-Jxd8oY",
+      "description": "dashboard for NFT sales on Quixotic, NFT marketplace on Optimism"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://flipsidecrypto.xyz/Mrfti/kucoin-kyc-kucoin-kyc-g3M15R",
+      "description": "Analyze whether or not the KYC requirement made the funds out of Kucoin"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "The dashboard itself do analysis",
+      "number": "5000000",
+      "url": "https://flipsidecrypto.xyz/Mrfti/w-eth-wst-eth-e-clp-weth-wsteth-e-clp-wzXRXY"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x66cce0997e32d388f4263a3ea305612cf1031e540c73f886e320337427c1bdab",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 24,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

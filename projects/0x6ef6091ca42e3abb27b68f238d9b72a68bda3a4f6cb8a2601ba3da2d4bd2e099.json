@@ -1,0 +1,45 @@
+{
+  "bio": "Front end optimizer for governance and advanced share management using Hat's.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Senechal",
+  "websiteUrl": "https://dao.silverdoor.ai",
+  "applicant": {
+    "address": {
+      "address": "0x5117856736E109aD021f0D0A2C23A3Bb99D5b072",
+      "resolvedName": {
+        "address": "0x5117856736E109aD021f0D0A2C23A3Bb99D5b072",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5117856736E109aD021f0D0A2C23A3Bb99D5b072"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x89bbf24871c430f36ead8903808e2ffc931a991794bd31ce3b04a4a3e8cd4504"
+  },
+  "impactDescription": "We have built a tool which offers the ability to manage shares in a DAO much like a traditional organization would through options. The impact is far reaching and allows any DAO community using DAOHaus v3 to manage their organization to operate with better visibility and less friction.",
+  "contributionDescription": "Senechal revolutionizes the way blockchain communities manage their governance structures. We built a whitelabel front end that streamlines the process of proposals, approvals, claims, and significantly enhances the efficiency and transparency for communities.\n\nSenechal\u2019s use of The Hat\u2019s protocol for role management clearly define responsibilities within the community and leads to better accountability and coordination among members.\n\nSenechal serves as a catalyst for more organized, and efficient DAO communities. Its impact extends beyond individual communities to influence industry-wide best practices for blockchain governance.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/silverdoor-ai/kazoku",
+      "description": "Kazoku is the name for family and it the code-name for our DAO management tool."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Organizations Using Hat's",
+      "number": "276",
+      "url": "https://app.hatsprotocol.xyz/trees/420"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x6ef6091ca42e3abb27b68f238d9b72a68bda3a4f6cb8a2601ba3da2d4bd2e099",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

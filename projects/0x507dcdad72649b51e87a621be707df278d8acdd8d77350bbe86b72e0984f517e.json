@@ -1,0 +1,55 @@
+{
+  "bio": "The all in one web3 onboarding platform",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "TokenHunters",
+  "websiteUrl": "https://tokenhunters.xyz",
+  "applicant": {
+    "address": {
+      "address": "0x5FBA920A9Bb31f90074756ca737aCbB2d9C9AFD6",
+      "resolvedName": {
+        "address": "0x5FBA920A9Bb31f90074756ca737aCbB2d9C9AFD6",
+        "name": "womansworld.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x5FBA920A9Bb31f90074756ca737aCbB2d9C9AFD6"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5FBA920A9Bb31f90074756ca737aCbB2d9C9AFD6.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5FBA920A9Bb31f90074756ca737aCbB2d9C9AFD6.png",
+    "id": "OptimistProfile|0x11851e9c1622600e64ff88b58e493b866ef3ad6751e70f3896fb284560d50db0"
+  },
+  "impactDescription": "Promotion and education about optimism through TokenHunters the web3 onboaring dapp for everybody! The dapp will launch in Q4 2023 but we still need funds to optimise the Dapp and future expansion. We want to use OP and OP Stack. We would love to get in touch so we can explain more and talk about the possibilities to use Optimism network to the max. (TokenHunters might do an application themselfs)",
+  "contributionDescription": "Promotion and education about optimism through TokenHunters the web3 onboaring dapp for everybody! The dapp will launch in Q4 2023 but we still need funds to optimise the Dapp and future expansion. We want to use OP and OP Stack. We would love to get in touch so we can explain more and talk about the possibilities to use Optimism network to the max. The contributions would be a full OP Stack dapp on Optimism Network (TokenHunters might do an application themselfs)",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://tokenhunters.xyz",
+      "description": "The contracts are not live yet."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "first target (6month) 100k users",
+      "number": "100000",
+      "url": "https://tokenhunters.xyz"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": "App optimalisation get it (optimismalisation ;) )"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x507dcdad72649b51e87a621be707df278d8acdd8d77350bbe86b72e0984f517e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

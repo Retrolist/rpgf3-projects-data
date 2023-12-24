@@ -1,0 +1,52 @@
+{
+  "bio": "Who is the artist? Can we be called artists cause we made this collection? ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Psychotic Robots by Midjourney (AI)",
+  "websiteUrl": "https://opensea.io/collection/psychoticrobots",
+  "applicant": {
+    "address": {
+      "address": "0xceA9F9e08954c2696058c327feDae2ac0Ec0DDae",
+      "resolvedName": {
+        "address": "0xceA9F9e08954c2696058c327feDae2ac0Ec0DDae",
+        "name": "ademnedyor.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xceA9F9e08954c2696058c327feDae2ac0Ec0DDae"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xceA9F9e08954c2696058c327feDae2ac0Ec0DDae.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xceA9F9e08954c2696058c327feDae2ac0Ec0DDae.png",
+    "id": "OptimistProfile|0x622ca5ce4bb98d163a9a85cad9ac6800df62922bb0e6be15b75168bcb6af023c"
+  },
+  "impactDescription": "\u201cArt\u201dificial Intelligence What if we told you, Artificial Intelligence (Midjourney) drew this collection?Who is the artist? Can we be called artists cause we made this collection? Of course we gave the AI the command. We gave them to it and it designed it. So who is the artist? Us or the AI?As two young people trying to make art, we feel the difficulties of this path inside us every day and our psychology has deteriorated like our collection.",
+  "contributionDescription": "This is a new advertising opportunity for everyone. For the optimism network too! If we can our dreams come true, it will be huge for that space. This is our dream:\nIt is impossible to make art while thinking about how to feed ourselves. That is why we need to create this collection. When the project is completely sold out, we want to shoot a movie in the Metaverse with the characters that will be created in the continuation of the project.So you can have an NFT drawn by an AI for the first time and be one of the first people to be involved in an avant-garde film!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/psychoticrobots",
+      "description": "Psychotic Robots by Midjourney (AI)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "nope",
+      "number": "420",
+      "url": "https://opensea.io/collection/psychoticrobots"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 420,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xafe18c59c8f8afe1ea23c2d088357bf010e33aaf89f72b0b1a834284225014b5",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

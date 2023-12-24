@@ -1,0 +1,62 @@
+{
+  "bio": "Myself; a enthousiastic crypto user. Project; a mashup of creative ideas for OP",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Strawberryking",
+  "websiteUrl": "https://app.openxswap.exchange/",
+  "applicant": {
+    "address": {
+      "address": "0xC9eebecb1d0AfF4fb2B9978516E075A33639892C",
+      "resolvedName": {
+        "address": "0xC9eebecb1d0AfF4fb2B9978516E075A33639892C",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xC9eebecb1d0AfF4fb2B9978516E075A33639892C"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC9eebecb1d0AfF4fb2B9978516E075A33639892C.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xc009167919b4f8c411c8d460f40744acb2e7e7ea34edfc65b8bcc50d3721954a"
+  },
+  "impactDescription": "- moving capital from major multichain projects to OpenX which is a small Optimism dedicated project, both for the vaults as for the (ve)NFT market. \n- creating a decentral liquid wrapper for veVelo which allows especially major MarketCap or Ecosystem project to effectively build a base APR rate on velodrome.",
+  "contributionDescription": "contribution for Smerdyakov from OpenX team. Trough his thinking the OpenX team delivered cool OP native products. OpenX is a small team committed to Optimism, making public decentralized goods there. top products;\n\n- (ve)NFT market; dedicated interface for veNFT trading moving traffic from OpenSea to OpenX (OP Native) Unique innovations: 1) trade in any NFT for any ERC token, 2) displaying discount %'s of veNFT vs market rate, 3) only 1% trading fee, only to cover bare cost\n\n- opxvelo is now a decentralized liquid wrapper of vevelo where the voting power is committed to those who LP with it (1opxvelo in LP = 1 vevelo vote). This makes it effective a decentralized liquid wrapper, and allows ecosystem projects to get a certain baseline of APR without bribing and regardless of TVL in LP.\n\n\n\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.openxswap.exchange/",
+      "description": "app"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "$ TVL in vaults",
+      "number": "77",
+      "url": "https://app.openxswap.exchange/Vaults/"
+    },
+    {
+      "description": "(ve)NFT Market volume YTD $",
+      "number": "750",
+      "url": "https://app.openxswap.exchange/NFTMarket"
+    },
+    {
+      "description": "Total opxvelo LP TVL in velodrome in $",
+      "number": "320",
+      "url": "https://app.velodrome.finance/liquidity?query=opxvelo"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xad0cdf5986a9518f5fa2c5e09ca3be46281ce63d82bb12b984934b1ee58d3726",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

@@ -1,0 +1,55 @@
+{
+  "bio": "Grooming Web3 developer in Africa for global contribution ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Web3bridge",
+  "websiteUrl": "https://www.web3bridge.com/",
+  "applicant": {
+    "address": {
+      "address": "0x067ca205aaF09A8B724Cadd2f70A38f9AF2d150A",
+      "resolvedName": {
+        "address": "0x067ca205aaF09A8B724Cadd2f70A38f9AF2d150A",
+        "name": "thatnaijaguy.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x067ca205aaF09A8B724Cadd2f70A38f9AF2d150A"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x067ca205aaF09A8B724Cadd2f70A38f9AF2d150A.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xfe349bc5b2c7efe720999905ef55bf2bc66d56db439ef9f65eeba7719069caf6"
+  },
+  "impactDescription": "Web3bridge, as a Web3 development bootcamp has been directly and indirectly responsible for a large number of developers building on various chains (Optimism inclusive) from Africa. Web3bridge has run Eight (8) successful cohorts with cohort IX presently in session, also Web3bridge has supported over five (5) other boot camps in Africa training Web3 developers with curriculum and mentors to ensure that the African ecosystem produce developers who are able to work in and build dapps for the ecosystem across chains.\n\n\nWeb3bridge has also across various cohorts introduced the developers to Optimism while learning in the cohorts and generally working to make sure that there is a growing number of developers in the ecosystem to support adoption and dev onboarding to various chains",
+  "contributionDescription": "Web3bridge has in the last 4years introduced over 4,000 Africans across six (6) countries (Nigeria, Ghana, Kenya, Uganda, South Africa, Zimbabwe) to Web3 development and graduated one hundred and fifty (150) Web3 developers with twenty-seven (27) currently in the ongoing cohort.\n\nWeb3bridge run a cohort-based online and in-person boot camp with a facility in Lagos where developers are groomed to contribute to the ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "http://iamsuperman.pythonanywhere.com/",
+      "description": "The link shows on-chain activities of developers from Web3bridge."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Developers trained ",
+      "number": "150",
+      "url": "https://drive.google.com/file/d/1d9kXh4Fl3jKpN0Rq8GvFPAMHY6b5PYgm/view?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 50000,
+      "description": "Received grants from other sources different from Optimism"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x07cdfb60650fd3060411253b3c91abdab2739c0b122047ab6d014436fe912282",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 36,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

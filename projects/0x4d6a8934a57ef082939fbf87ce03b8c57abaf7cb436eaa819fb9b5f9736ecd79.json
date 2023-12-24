@@ -1,0 +1,66 @@
+{
+  "bio": "Hildr is an OP Stack rollup client written in latest Java with GraalVM native.",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "grapebaba",
+  "websiteUrl": "https://github.com/optimism-java/hildr",
+  "applicant": {
+    "address": {
+      "address": "0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c",
+      "resolvedName": {
+        "address": "0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c",
+        "name": "grapebaba.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x9a7bbeec37b7718b7e1ede455a2aa78710701046face9bd19e9b6848800eeab8"
+  },
+  "impactDescription": "AFAIK OP stack is the first L2 rollup which support and encourage client diversity, which is important for decentralized. A16Z team build Magi which is the first non official client written   in Rust. Then we build Hildr which is the second non official client written in Java. Hildr and Magi makes OP stack client diversity far ahead of other L2 teams.",
+  "contributionDescription": "For OP rollup client diversity, I created Hildr project which implemented OP rollup client with Java. It already supported Bedrock mainnet, testnet and Base mainnet, testnet. It is the third rollup client implementation besides the official Go version and a16z Rust version.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/optimism-java/hildr",
+      "description": "Hildr is an OP Stack rollup client written in latest Java with GraalVM native."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "stars from devs from several OP teams",
+      "number": "16",
+      "url": "https://github.com/optimism-java/hildr"
+    },
+    {
+      "description": "liked by devs from several OP teams",
+      "number": "18",
+      "url": "https://twitter.com/GrapeBaBa/status/1670312850680840193"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 25000,
+      "description": "cycle 13 builder grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 240,
+      "description": "GCG18"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4d6a8934a57ef082939fbf87ce03b8c57abaf7cb436eaa819fb9b5f9736ecd79",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 36,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack development & research"
+}

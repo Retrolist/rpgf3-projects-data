@@ -1,0 +1,55 @@
+{
+  "bio": "Awesome OP Repository",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Abhinav",
+  "websiteUrl": "https://www.woodstockfund.com",
+  "applicant": {
+    "address": {
+      "address": "0x23583685Ff8d24cD53B9809D2686fB03746E069e",
+      "resolvedName": {
+        "address": "0x23583685Ff8d24cD53B9809D2686fB03746E069e",
+        "name": "abhinavpathak.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x23583685Ff8d24cD53B9809D2686fB03746E069e"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x904d9880e9031bc130c1bfd3a729b240167842ab8cfb6614f08759858f4226d8"
+  },
+  "impactDescription": "\u2022 Provides a centralized resource for developers and enthusiasts to discover projects in the Optimism ecosystem.\n\u2022 Encourages open-source contributions and fosters a stronger community around Optimism.\n\u2022 Offers visibility and recognition for projects contributing to the Optimism ecosystem.",
+  "contributionDescription": "Ecosystem Project Idea: Awesome Optimism Repository #94. The 'Awesome Optimism' repository, akin to the widely popular 'awesome X' repositories found throughout GitHub aims to showcase the vibrant open-source contributions happening within the Optimism ecosystem, including notable projects like Magi, op-erigon, and others.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/abhinav-woodstock/awesome-optimism/blob/main/README.md",
+      "description": "Initial Repo"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/lucas-op/awesome-optimism/blob/main/README.md",
+      "description": "Merged repo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Stars",
+      "number": "3",
+      "url": "https://github.com/lucas-op/awesome-optimism/blob/main/README.md"
+    },
+    {
+      "description": "Watchers",
+      "number": "1",
+      "url": "https://github.com/lucas-op/awesome-optimism/blob/main/README.md"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x60d1a3be5209ce4a6cc0dc63e0847b7c7210112ad0b370cdec42b85daf1b221b",
+  "prelimResult": "Remove",
+  "reportReason": "Claiming to be a person he's not., Miscommunication resulting in duplicate applications. The actual application is named \"Awesome Optimism\". Reach out if you have questions."
+}

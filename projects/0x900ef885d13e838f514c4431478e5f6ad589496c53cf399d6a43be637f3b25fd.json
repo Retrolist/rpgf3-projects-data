@@ -1,0 +1,52 @@
+{
+  "bio": "optimism project is awesome",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Mamsky86",
+  "websiteUrl": "https://twitter.com/mamsky8619",
+  "applicant": {
+    "address": {
+      "address": "0x3c28CAEF950AE11973A007440929d0689d8eaD8D",
+      "resolvedName": {
+        "address": "0x3c28CAEF950AE11973A007440929d0689d8eaD8D",
+        "name": "mamsky86.ecc.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3c28CAEF950AE11973A007440929d0689d8eaD8D"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3c28CAEF950AE11973A007440929d0689d8eaD8D.jpeg",
+    "id": "OptimistProfile|0x0f64e67461d1d508886ca6d8dc237df2bf017829f26782cae7257097c7559cf5"
+  },
+  "impactDescription": "i want to explore optimism ecosystem and improve op stack in RetroPGF \nRetroPGF is already having a huge impact in the ecosystem and changing the way people think about public goods\n\nThe Optimism Collective is executing on the core values that brought us to crypto in the first place: creating a self-sustaining ecosystem, where rewards are redistributed to the people directly responsible for growing and scaling the technology and values that power it. We're accomplishing this by rewarding contributions to the greater good through Retroactive Public Goods Funding\u2013the mechanism used to reward past demonstrable positive impact to the Optimism Collective.",
+  "contributionDescription": "i want to explore optimism ecosystem and improve op stack in RetroPGF \nRetroPGF is already having a huge impact in the ecosystem and changing the way people think about public goods\nThe Optimism Collective is executing on the core values that brought us to crypto in the first place: creating a self-sustaining ecosystem, where rewards are redistributed to the people directly responsible for growing and scaling the technology and values that power it. We're accomplishing this by rewarding contributions to the greater good through Retroactive Public Goods Funding\u2013the mechanism used to reward past demonstrable positive impact to the Optimism Collective.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/mamsky861940929d0689d8eaD8D",
+      "description": "0x3c28CAEF950AE11973A007440929d0689d8eaD8D"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "https://twitter.com/mamsky8619",
+      "number": "1",
+      "url": "https://twitter.com/mamsky8619"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 16.64,
+      "description": "i contributed on web3 such as Defillama, Privx, Synpress, Mirror and Revoke.cash"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x900ef885d13e838f514c4431478e5f6ad589496c53cf399d6a43be637f3b25fd",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

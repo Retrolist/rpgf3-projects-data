@@ -1,0 +1,48 @@
+{
+  "bio": "On the path to Optimistic Enlightenment.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Bodhisphere",
+  "websiteUrl": "https://twitter.com/Bodhisphere_",
+  "applicant": {
+    "address": {
+      "address": "0x48538A4804593E9E3996065083280F9b43d8DAAD",
+      "resolvedName": {
+        "address": "0x48538A4804593E9E3996065083280F9b43d8DAAD",
+        "name": "bodhisphere.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x48538A4804593E9E3996065083280F9b43d8DAAD"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x48538A4804593E9E3996065083280F9b43d8DAAD.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x48538A4804593E9E3996065083280F9b43d8DAAD.png",
+    "id": "OptimistProfile|0xd2761ce30ed97f1ef263916719d8cba626d3d5514e3501b7adec6bfb2804a113"
+  },
+  "impactDescription": "My contributions to the Optimism ecosystem have been vital for the growth and success of this Layer 2 scaling solution for Ethereum. These contributions have come in various forms:  Development; DApps; Security Audits; Documentation and Education; Community Engagement; Integration; Research; and Advocacy and Adoption",
+  "contributionDescription": "My contributions to the Optimism ecosystem have been vital for the growth and success of this Layer 2 scaling solution for Ethereum. These contributions have come in various forms:  Development; DApps; Security Audits; Documentation and Education; Community Engagement; Integration; Research; and Advocacy and Adoption",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/address/0x48538A4804593E9E3996065083280F9b43d8DAAD",
+      "description": " "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": " ",
+      "number": "0",
+      "url": " https://github.com/Bodhisphere"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xbbc0e9a4f0b77045483b4f03a51c9ba6de6317ba051eb0690bce96bcf08c04c4",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

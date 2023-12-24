@@ -1,0 +1,144 @@
+{
+  "bio": "Connecting web3 projects with the best analysts for data insights.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "MetricsDAO",
+  "websiteUrl": "https://metricsdao.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xa0F00e59ef57D82449ACcB05b9512A47b264374b",
+      "resolvedName": {
+        "address": "0xa0F00e59ef57D82449ACcB05b9512A47b264374b",
+        "name": "mar1na.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xa0F00e59ef57D82449ACcB05b9512A47b264374b"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa0F00e59ef57D82449ACcB05b9512A47b264374b.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa0F00e59ef57D82449ACcB05b9512A47b264374b.png",
+    "id": "OptimistProfile|0x987ef611b868fa56834d1f8701578a0fd87bcffc7ff7ab5ca1aa1fcca170e9aa"
+  },
+  "impactDescription": "- Over 200 OP and Superchain analytics dashboards created by our community.\n- Base dashboards garnered 18,000 social media impressions.\n- Over 11,000 YouTube views on Blockchain Data 101 (our most popular series). 1,800+ registered participants in our free education courses. By training web3 analysts, MetricsDAO has grown the pool of data builders who can create tools for OP projects and educate users.\n- 100 views and counting on the OP webinar to educate the MetricsDAO community on the Optimism Collective. \n- Overall, an engaged community of 5,000 members, among them over 1,000 active blockchain analysts, who have already created 8,000+ total dashboards at MetricsDAO, and can continue to actively participate in the OP ecosystem and publish insights.",
+  "contributionDescription": "A provider-agnostic hub for onchain data analytics, MetricsDAO has created impact in the Optimism ecosystem through publicly available insights, education, and other support for multiple types of ecosystem participants: end users, project builders, data providers & highly skilled blockchain data analysts.\n1. Data analytics. Metrics App has hosted analytics bounties and our community created dashboards providing insights to end users and project teams on Optimism and the Superchain including Base.\n2. Our free educational courses graduated analysts and data builders to participate in the OP ecosystem. We also hosted a dedicated workshop covering the Optimism Collective.\n3. Our data partnerships have trained users for other organizations that offer Optimism data, builder tools & education.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://legacy.metricsdao.xyz/showcase",
+      "description": "OP analytics in MetricsDAO analytics bounties (search for \"Optimism)."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/12b--nHpUt5KZtL4Pi8abSK7pQgbVd9__czB_P8KjX3I/edit?usp=sharing",
+      "description": "Optimism and Superchain dashboards on the Metrics App."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/MetricsDAO/xyz",
+      "description": "Repo for the Metrics App, where all 2023 analytics bounties incl Base launched."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@MetricsDAO/playlists",
+      "description": "Recordings of free blockchain data courses and data tool workshops. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=sdJ5GPhMKY0",
+      "description": "MetricsDAO Optimism webinar."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# OP dashboards (search \"Optimism) ",
+      "number": "207",
+      "url": "https://legacy.metricsdao.xyz/showcase"
+    },
+    {
+      "description": "# Superchain (Base) dashboards",
+      "number": "9",
+      "url": "https://docs.google.com/document/d/12b--nHpUt5KZtL4Pi8abSK7pQgbVd9__czB_P8KjX3I/edit?usp=sharing"
+    },
+    {
+      "description": "# dashboard impressions on X (Twitter) ",
+      "number": "18000",
+      "url": "https://docs.google.com/document/d/1UVo6MpAjgJoktpGZHiJwC_naLGLbBvnG8rNVWO2rwbQ/edit?usp=sharing "
+    },
+    {
+      "description": "# Season 3 education badge owners",
+      "number": "1562",
+      "url": "https://opensea.io/collection/metricsdao-academy"
+    },
+    {
+      "description": "# Season 4 education badge owners",
+      "number": "319",
+      "url": "https://opensea.io/collection/metricsdao-education-season-4"
+    },
+    {
+      "description": "# Blockchain Data 101 course views",
+      "number": "11000",
+      "url": "https://www.youtube.com/watch?v=Icx8jJLrUA8&list=PLipRrejEgf21JZiMGi8OCwrQJuc9urLds&index=1"
+    },
+    {
+      "description": "# MetricsDAO Optimism webinar viewers",
+      "number": "100",
+      "url": "https://www.youtube.com/watch?v=sdJ5GPhMKY0"
+    },
+    {
+      "description": "# YouTube subscribers",
+      "number": "1240",
+      "url": "https://www.youtube.com/@MetricsDAO"
+    },
+    {
+      "description": "# Twitter followers",
+      "number": "8926",
+      "url": "https://twitter.com/metricsdao"
+    },
+    {
+      "description": "# Discord members",
+      "number": "5018",
+      "url": "https://discord.com/invite/p3GMjK2zAr"
+    },
+    {
+      "description": "# Data analysts ",
+      "number": "1026",
+      "url": "https://opensea.io/assets/matic/0xc2A033f075843a71680e4ad2bca414342DFF243a/4"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100004,
+      "description": "Primary seed funding from Flipside Crypto."
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 250000,
+      "description": "Runway loan from Flipside Crypto."
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 110000,
+      "description": "Monthly revenue in Q2 2023 (none in Q3 onwards)."
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1996,
+      "description": "Gitcoin GG18 round grant."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6093215024946600fa2f854f941d918ea3a7f11283cb4e430969c36937b39e66",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 34,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

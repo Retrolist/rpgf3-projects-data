@@ -1,0 +1,48 @@
+{
+  "bio": "happy jester",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Vitalik ",
+  "websiteUrl": "https://twitter.com/VitalikSerbina",
+  "applicant": {
+    "address": {
+      "address": "0x9BB0301B970B182A273Ecb380027E4BE0Efd5553",
+      "resolvedName": {
+        "address": "0x9BB0301B970B182A273Ecb380027E4BE0Efd5553",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9BB0301B970B182A273Ecb380027E4BE0Efd5553"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9BB0301B970B182A273Ecb380027E4BE0Efd5553.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9BB0301B970B182A273Ecb380027E4BE0Efd5553.jpeg",
+    "id": "OptimistProfile|0xf194c048228d6e78722187273ebafc89f8b0b7710a62f6cb299c162b15bf3f04"
+  },
+  "impactDescription": "                                                                                                                                                                                                    n                                                                      ",
+  "contributionDescription": "bridge                                                                                                                                                                                                                                               \n                        ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/address/0x9BB0301B970B182A273Ecb380027E4BE0Efd5553",
+      "description": "gm"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "76",
+      "number": "1",
+      "url": "https://etherscan.io/address/0x9BB0301B970B182A273Ecb380027E4BE0Efd5553"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xde88233494951d96e3089f0faa5eff00b55eb129f41b268b6991c4fd738c663a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

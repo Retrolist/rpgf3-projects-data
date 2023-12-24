@@ -1,0 +1,66 @@
+{
+  "bio": "Building composable tools to measure, evaluate, and certify impact.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Spark",
+  "websiteUrl": "https://spark.eco/",
+  "applicant": {
+    "address": {
+      "address": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+      "resolvedName": {
+        "address": "0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610",
+        "name": "jonruth.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe3F4F3aD70C1190EC480554bbc3Ed30285aE0610.png",
+    "id": "OptimistProfile|0x103f128a4d669e8008399f5f98e10ac94157cdcd54e3cd3a324fc81b721c3270"
+  },
+  "impactDescription": "We are building on Optimism because we believe our evaluation tools could be used as a part of future rounds of the RetroPGF program. Based on talking with some badge holders the review process evolves each round. While our protocol has yet to be fully deployed to mainnet, we are targeting a launch before the end of the year. We have employed six developers who are now building on Optimism. We are working closely with Hypercerts Protocol to become the evaluation layer for Hypercerts, a Claim of Impact. We are talking to Gitcoin and other grantmakers who can use our tools to verify grantee impact. We are designing funding mechanisms for the impact certificates to drive additional users to OP. Receiving RetroPGF will support our team as we continue to add value to Optimism.",
+  "contributionDescription": "We are launching ImpactScribe, a permissionless protocol for minting Impact Certificates. ImpactScribe allows users to mint ERC-721 NFT Impact Certificates with ERC-6551 token bound accounts. Users can generate Claims of Impact (Hypercerts) and Proof of Impact NFTs stored in the token bound account. Deresy & Insightful are a composable set of tools to measure and evaluate quantitative and qualitative impact. Deresy is a review and evaluation protocol that generates Proof of Impact attestations on EAS and mints these evaluations as NFTs. It can be used to provide written evaluations of projects and images, video, audio or other documents. Insightful connects IoT devices and data streams to NFT dashboards to quantify impact using w3bstream, zk proofs and ceramic.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ImpactScribe",
+      "description": "ImpactScribe protocol and Insightful repositories"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/chimi-co",
+      "description": "Deresy repositories"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ecodapp.vercel.app/explore",
+      "description": "ImpactScribe UI"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://deresy-dev.web.app/",
+      "description": "Deresy UI"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of developers onboarded",
+      "number": "4",
+      "url": "https://github.com/chimi-co"
+    },
+    {
+      "description": "# of developers onboarded",
+      "number": "2",
+      "url": "https://github.com/ImpactScribe"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x9359577504bc54685070e27e7da2343605e1ec520ee78ee1f81096e0408089a7",
+  "prelimResult": "Remove",
+  "reportReason": "Impact unclear"
+}

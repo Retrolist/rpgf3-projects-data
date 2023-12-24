@@ -1,0 +1,55 @@
+{
+  "bio": "My name is Andriy Vlasenko! Kyiv, Ukraine! Crypto, BJJ, work and family!",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Andrii",
+  "websiteUrl": "https://twitter.com/AndriiVlas",
+  "applicant": {
+    "address": {
+      "address": "0xEB496550A39D37D00DE91EFeBeCCeCba0FeC43Ec",
+      "resolvedName": {
+        "address": "0xEB496550A39D37D00DE91EFeBeCCeCba0FeC43Ec",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xEB496550A39D37D00DE91EFeBeCCeCba0FeC43Ec"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEB496550A39D37D00DE91EFeBeCCeCba0FeC43Ec.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3aa8462cb1125af198e152304b0a1de1f80e7277017c85992ecf0c453540b5dc"
+  },
+  "impactDescription": "Thanks to me, many people learned about the Optimism network! Someone passed it on to their loved ones and someone started using Optimism and cryptocurrency in general, which generally affects the development of both the Optimism network and the cryptocurrency market as a whole!",
+  "contributionDescription": "I have been using the Optimism network for a little less than a year and will continue to use it!\nI help the community on Twitter with my activity!!!\nI promote Optimism to my friends and employees at work!\nEveryone who knows me knows that I believe and appreciate the Optimism network!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xeb496550a39d37d00de91efebeccecba0fec43ec",
+      "description": "My wallet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/AndriiVlas",
+      "description": "Twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Twitter",
+      "number": "100",
+      "url": "https://twitter.com/AndriiVlas"
+    },
+    {
+      "description": "optimistic etherscan",
+      "number": "85",
+      "url": "https://optimistic.etherscan.io/address/0xeb496550a39d37d00de91efebeccecba0fec43ec"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x62e4db16b6f593d51cebdd89595cadf1657ef80d22ea28fa1794f6e66f6d873f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

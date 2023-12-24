@@ -1,0 +1,52 @@
+{
+  "bio": "Soulcial is an AI-driven DeSocial Protocol to Redefining SocialFi to Empower All",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Soulcial",
+  "websiteUrl": "https://soulcial.network/",
+  "applicant": {
+    "address": {
+      "address": "0x9791B7a69E5Fa8F9fe7F07b4817b815A89abEF5C",
+      "resolvedName": {
+        "address": "0x9791B7a69E5Fa8F9fe7F07b4817b815A89abEF5C",
+        "name": "semix.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x9791B7a69E5Fa8F9fe7F07b4817b815A89abEF5C"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9791B7a69E5Fa8F9fe7F07b4817b815A89abEF5C.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9791B7a69E5Fa8F9fe7F07b4817b815A89abEF5C.png",
+    "id": "OptimistProfile|0x4775d01663f4b098594c6d315e10afdb2ec526b913f7a1d57b780e09d0004bb5"
+  },
+  "impactDescription": "We aim to attract over 50,000 users to use our dapp within 3 months, and 500,000 in a year. Every user can generate their exclusive social assets and connect to more soulmates in our project.\n\nWith a vision to revolutionize social networks, we have redefined the way social value is measured and rewarded, creating a groundbreaking social value indicator.\n\nRather than competing with existing SocialFi projects, we position ourselves as a complementary aid, facilitating content creators' passive growth of their social network and helping non-content creators gain the recognition they deserve for their value. We pledge to reward everyone for their unique roles and contributions to the Web 3 community.",
+  "contributionDescription": "Our protocol aims at web3 massive adoption, and based on the existing ecosystem and AI open-source models, we have already implemented the following product features.\n\nSoulcial provides a multi-dimensional social evaluation model(SBTI) that creates your on-chain Soul Index, a digital reflection of your unique identity in the metaverse.\n\nOur AI transforms your Social Behavior Trait Indicator (SBTI) into SoulCast NFTs. These NFTs represent your digital essence and can be seen as living stories.\n\nContent creators can leverage their existing networks to enhance their SBTI without the need to produce additional content, while content consumers will find their diverse contributions to the Web 3 space reflected in their SBTI.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xB39c5896A94287B9c0Bce736e505234b685c0E02",
+      "description": "Genesis SoulCast NFT Launch"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of users",
+      "number": "50000",
+      "url": "https://soulcial.network/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6ecdfca90e94ecc3205d3bb4525e74ef694394411e35c85a7bc3832744b1a980",
+  "prelimResult": "Remove",
+  "reportReason": "Linked contract has 0 users, claims future impact \"we expect to have 50k users"
+}

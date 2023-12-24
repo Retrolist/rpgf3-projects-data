@@ -1,0 +1,1037 @@
+{
+  "bio": "Bored Town, a nurturing ecosystem where creativity meets innovation.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Bored Town NFT art community",
+  "websiteUrl": "https://www.bored.town/",
+  "applicant": {
+    "address": {
+      "address": "0x9D63038e7f74bc089eb38e61Be8Da937918900D6",
+      "resolvedName": {
+        "address": "0x9D63038e7f74bc089eb38e61Be8Da937918900D6",
+        "name": "boredtown.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x9D63038e7f74bc089eb38e61Be8Da937918900D6"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9D63038e7f74bc089eb38e61Be8Da937918900D6.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9D63038e7f74bc089eb38e61Be8Da937918900D6.png",
+    "id": "OptimistProfile|0x03210cbe4695994185612d2b081c3c40fcf2d25fed53594224a862e010a228af"
+  },
+  "impactDescription": "Our progress so far includes 46,000 followers on X, 18,700 Discord members, and over 20 collections across various blockchains, primarily on Optimism, engaging with 28,800+ wallets.\n\nWe maintain strong partnerships with protocols like Galxe, Guild.xyz, Clique, QuestN, and Opti.domains. We offer support to around 200 artists from our art contest, with several successfully launching their debut NFT collections on Optimism and OP Stack through our launchpad, receiving exceptional community support.\n\nTo date, we've nurtured 8 collections, each with a supply of up to 35k, all minted in less than 2 hours during public events. Our community members consistently receive rewards for minting, holding NFTs, and participating in art contest voting. ",
+  "contributionDescription": "Bored Town is not just an NFT art community; it's a hub of innovation, support, and artistic growth. With a solid commitment to fostering talent and nurturing the world of NFT art, we've embarked on an exciting journey of empowerment. Thanks to a recent governance grant, we've hosted an exceptional art contest and established our launchpad to showcase participating artists' works.\n\nOur unique approach involves incubating artists from the ground up, regardless of their technical know-how. We provide the knowledge, tools, and nurturing environment for them to thrive. This creates a supportive and safe space for both artists and art enthusiasts within our community. In Bored Town, our members can explore the potential of Optimism Stack while enjoying high-quality art from genuine creators.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x8e56343adafa62dac9c9a8ac8c742851b0fb8b03",
+      "description": "Bored Town collection, 5555 NFTs created on Optimism since June 2022."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.questn.com/quest/771346858070622591",
+      "description": "Bored Town x Optimism Art Contest with 723 questers and 200 winners."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/bored-town-art-contest",
+      "description": "Collection of 200 NFTs from the 1st round on Bored Town x Optimism Art Contest."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1695823785319133355?s=20",
+      "description": "A link on X to announce Bored Town x Optimism art contest winners"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1702173749808881708?s=20",
+      "description": "A link on X to promote the collection featuring 100+ artists on Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://boredtown.app/checkeligible/",
+      "description": "A claim page to reward our art contest voters"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1716048811557335391?s=20",
+      "description": "A link on X to promote art contest voters rewards"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://boredtown.app/launch/base-of-bored/",
+      "description": "Base of Bored, the first free mint collection on Base, deployed on our platform."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.bored.town/launchpad",
+      "description": "Free mint NFT collections deployed on our launchpad."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1711026943678963835?s=20",
+      "description": "A link on X to promote Sono Crew project (Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1709959644188471682?s=20",
+      "description": "A link on X to promote Base Camp project (Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1704500298499108947?s=20",
+      "description": "A link on X to promote Tripster x Wally project (Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1703809780563972469?s=20",
+      "description": "A link on X to promote Tripster x Wally project (Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1691456401615486976?s=20",
+      "description": "A link on X to promote the 1st Tripster Wally project (Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1691089543682822145?s=20",
+      "description": "A link on X to promote Bas(e)tination project (Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1690701118727430144?s=20",
+      "description": "A link on X to promote Catz Warrior project (Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1688715617921388544?s=20",
+      "description": "A link on X to promote Base of Bored collection (Base)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/BoredTownNFT/status/1688448843472650240?s=20",
+      "description": "A link on X to promote P3P3 the Club project (Base)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Optimistically Bored NFT distribution",
+      "number": "4090",
+      "url": "https://app.questn.com/quest/733193479261843951"
+    },
+    {
+      "description": "Bored Town x Optimism Art Contest",
+      "number": "723",
+      "url": "https://app.questn.com/quest/771346858070622591"
+    },
+    {
+      "description": "Art contest voters",
+      "number": "3917",
+      "url": "https://snapshot.org/#/boredtown.eth"
+    },
+    {
+      "description": "Transections from Sono Crew project",
+      "number": "1363",
+      "url": "https://basescan.org/token/0x5dd89771b6589228dbfaa8ecfc5bdc2e4652e78f"
+    },
+    {
+      "description": "Transections from Base Camp project",
+      "number": "10448",
+      "url": "https://basescan.org/token/0x9adae68e13da61543c6ef4695617daa03f07a05d"
+    },
+    {
+      "description": "Transections from Tripster x Wally (OP)",
+      "number": "3493",
+      "url": "https://optimistic.etherscan.io/token/0x3c8ac104dcbf03ae12c9ac80aa830e1b39609e97"
+    },
+    {
+      "description": "TX from Tripster x Wally (BASE)",
+      "number": "3640",
+      "url": "https://basescan.org/token/0x3e81538278d6f43b5ea0bdf1728530a64ebee4e1"
+    },
+    {
+      "description": "TX from the 1st Tripster Wally (BASE)",
+      "number": "11389",
+      "url": "https://basescan.org/token/0x89f72926f4fec36e8cb376e6f5b7df8e1c9a4726"
+    },
+    {
+      "description": "Transections from Bas(e)tination (BASE)",
+      "number": "2200",
+      "url": "https://basescan.org/token/0x2a578ca45fb1f16997ebd93a38accd8451b803e2"
+    },
+    {
+      "description": "Transections from Catz Warrior (BASE)",
+      "number": "5284",
+      "url": "https://basescan.org/token/0xde59b5fc65369e1dd0f0191ac03e8ba8fcb7510d"
+    },
+    {
+      "description": "Transections from Base of Bored (BASE)",
+      "number": "10303",
+      "url": "https://basescan.org/token/0x90fb81ca2fec713c9c6b4b2694eded668b85d5ed"
+    },
+    {
+      "description": "Transections from P3P3 the Club (BASE)",
+      "number": "5677",
+      "url": "https://basescan.org/token/0x8b559fba48051ca930a646493ca3fcf1c7fe1bf9"
+    },
+    {
+      "description": "X followers",
+      "number": "45274",
+      "url": "https://twitter.com/BoredTownNFT"
+    },
+    {
+      "description": "QuestN questers",
+      "number": "60374",
+      "url": "https://app.questn.com/boredtown"
+    },
+    {
+      "description": "Guild.xyz members",
+      "number": "23000",
+      "url": "https://guild.xyz/boredtown"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 4109.12,
+      "description": ""
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50000,
+      "description": " We have received 20,000 OP and are currently awaiting an additional 30,000 OP."
+    }
+  ],
+  "lists": [
+    {
+      "_id": "6560cbae00a58cde3af90e54",
+      "listName": "NFT Ecosystem",
+      "listDescription": "List of NFT Dapps on Optimism",
+      "impactEvaluationInput": "Projects are evaluated based their impact in the Optimism ecosystem",
+      "impactEvaluationDescription": "Projects are evaluated based their impact in the Optimism ecosystem\n\nCreated by cryptofox-nft.town using RetroList with \"NFT, DAO, and Artist Community Rubric\" rubric.",
+      "impactEvaluationLink": "",
+      "impactEvaluationType": "rubric",
+      "listContent": [
+        {
+          "RPGF3_Application_UID": "0x943ba99bcd3068656d3510832a537db683d7c7b8946609c1ef86737f0142d266",
+          "OPAmount": 611076,
+          "evaluation": {
+            "655656656c12116f8fc9b243": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e56"
+            },
+            "655656656c12116f8fc9b244": {
+              "score": 4,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e57"
+            },
+            "655656656c12116f8fc9b245": {
+              "score": 4,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e58"
+            },
+            "655656656c12116f8fc9b246": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e59"
+            },
+            "655656656c12116f8fc9b247": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e5a"
+            },
+            "655656656c12116f8fc9b248": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e5b"
+            },
+            "655656656c12116f8fc9b249": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e5c"
+            }
+          },
+          "_id": "6560cbae00a58cde3af90e55"
+        },
+        {
+          "RPGF3_Application_UID": "0xd227bad1198d45803505d562482b21f683b14208a59ceb8a463f03db5e46c926",
+          "OPAmount": 488860,
+          "evaluation": {
+            "655656656c12116f8fc9b243": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e5e"
+            },
+            "655656656c12116f8fc9b244": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e5f"
+            },
+            "655656656c12116f8fc9b245": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e60"
+            },
+            "655656656c12116f8fc9b246": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e61"
+            },
+            "655656656c12116f8fc9b247": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e62"
+            },
+            "655656656c12116f8fc9b248": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e63"
+            },
+            "655656656c12116f8fc9b249": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e64"
+            }
+          },
+          "_id": "6560cbae00a58cde3af90e5d"
+        },
+        {
+          "RPGF3_Application_UID": "0xcbb4c5eb3789d11832b4f96d36e7eb38797d948d5f086df686a1f218a132385b",
+          "OPAmount": 274984,
+          "evaluation": {
+            "655656656c12116f8fc9b243": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e66"
+            },
+            "655656656c12116f8fc9b244": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e67"
+            },
+            "655656656c12116f8fc9b245": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e68"
+            },
+            "655656656c12116f8fc9b246": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e69"
+            },
+            "655656656c12116f8fc9b247": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e6a"
+            },
+            "655656656c12116f8fc9b248": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e6b"
+            },
+            "655656656c12116f8fc9b249": {
+              "score": 0,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e6c"
+            }
+          },
+          "_id": "6560cbae00a58cde3af90e65"
+        },
+        {
+          "RPGF3_Application_UID": "0x709f25d1796c2f33da8e7855f600a3ac5d10a1adf55a5a7ad3b1bfc7a71c6db8",
+          "OPAmount": 366645,
+          "evaluation": {
+            "655656656c12116f8fc9b243": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e6e"
+            },
+            "655656656c12116f8fc9b244": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e6f"
+            },
+            "655656656c12116f8fc9b245": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e70"
+            },
+            "655656656c12116f8fc9b246": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e71"
+            },
+            "655656656c12116f8fc9b247": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e72"
+            },
+            "655656656c12116f8fc9b248": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e73"
+            },
+            "655656656c12116f8fc9b249": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e74"
+            }
+          },
+          "_id": "6560cbae00a58cde3af90e6d"
+        },
+        {
+          "RPGF3_Application_UID": "0x52f7491efe1ee24db5a3d2f6a988d7f575e4818666e7c1e86133d6975de2a255",
+          "OPAmount": 519414,
+          "evaluation": {
+            "655656656c12116f8fc9b243": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e76"
+            },
+            "655656656c12116f8fc9b244": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e77"
+            },
+            "655656656c12116f8fc9b245": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e78"
+            },
+            "655656656c12116f8fc9b246": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e79"
+            },
+            "655656656c12116f8fc9b247": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e7a"
+            },
+            "655656656c12116f8fc9b248": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e7b"
+            },
+            "655656656c12116f8fc9b249": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e7c"
+            }
+          },
+          "_id": "6560cbae00a58cde3af90e75"
+        },
+        {
+          "RPGF3_Application_UID": "0x5ab273fbce7d49486b42feb2048a7746d7ccf19bde5507c55b17dc5ca00d3f15",
+          "OPAmount": 305538,
+          "evaluation": {
+            "655656656c12116f8fc9b243": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e7e"
+            },
+            "655656656c12116f8fc9b244": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e7f"
+            },
+            "655656656c12116f8fc9b245": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e80"
+            },
+            "655656656c12116f8fc9b246": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e81"
+            },
+            "655656656c12116f8fc9b247": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e82"
+            },
+            "655656656c12116f8fc9b248": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e83"
+            },
+            "655656656c12116f8fc9b249": {
+              "score": 0,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e84"
+            }
+          },
+          "_id": "6560cbae00a58cde3af90e7d"
+        },
+        {
+          "RPGF3_Application_UID": "0x83bf88e9bcfd3145bc29b9e866863d9247d24df5ef5f1b66ab2c00c3171269cb",
+          "OPAmount": 336091,
+          "evaluation": {
+            "655656656c12116f8fc9b243": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e86"
+            },
+            "655656656c12116f8fc9b244": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e87"
+            },
+            "655656656c12116f8fc9b245": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e88"
+            },
+            "655656656c12116f8fc9b246": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e89"
+            },
+            "655656656c12116f8fc9b247": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e8a"
+            },
+            "655656656c12116f8fc9b248": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e8b"
+            },
+            "655656656c12116f8fc9b249": {
+              "score": 0,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e8c"
+            }
+          },
+          "_id": "6560cbae00a58cde3af90e85"
+        },
+        {
+          "RPGF3_Application_UID": "0x351cfe61628239f979f88da463f81b6feaeff65bfbeeed489041a44fef1b6293",
+          "OPAmount": 336091,
+          "evaluation": {
+            "655656656c12116f8fc9b243": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e8e"
+            },
+            "655656656c12116f8fc9b244": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e8f"
+            },
+            "655656656c12116f8fc9b245": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e90"
+            },
+            "655656656c12116f8fc9b246": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e91"
+            },
+            "655656656c12116f8fc9b247": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e92"
+            },
+            "655656656c12116f8fc9b248": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e93"
+            },
+            "655656656c12116f8fc9b249": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e94"
+            }
+          },
+          "_id": "6560cbae00a58cde3af90e8d"
+        },
+        {
+          "RPGF3_Application_UID": "0xb1d2ac44fceeb0e41d2c402ec88652ad4eeaa3e601fc3bd7f86bb88e86cb38fe",
+          "OPAmount": 427753,
+          "evaluation": {
+            "655656656c12116f8fc9b243": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e96"
+            },
+            "655656656c12116f8fc9b244": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e97"
+            },
+            "655656656c12116f8fc9b245": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e98"
+            },
+            "655656656c12116f8fc9b246": {
+              "score": 1,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e99"
+            },
+            "655656656c12116f8fc9b247": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e9a"
+            },
+            "655656656c12116f8fc9b248": {
+              "score": 2,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e9b"
+            },
+            "655656656c12116f8fc9b249": {
+              "score": 3,
+              "comment": "",
+              "_id": "6560cbae00a58cde3af90e9c"
+            }
+          },
+          "_id": "6560cbae00a58cde3af90e95"
+        }
+      ],
+      "walletAddress": "0xFF1F0Db809b728919BF0ED9FD7A14AfC1a251dBe",
+      "domainName": "cryptofox-nft.town",
+      "twitter": "cryptofox_nft",
+      "discord": "firefox1201",
+      "isBadgeholder": false,
+      "attestationUid": "0xb42721bb05b4e5a11835aad344806ba99744e7b0331ec8218e09a0bd84a5b845",
+      "approvalAttestationUid": null,
+      "forkedFrom": null,
+      "rubricId": "65565665e5695aaff05cc9b8",
+      "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION",
+        "COLLECTIVE_GOVERNANCE"
+      ],
+      "projectIds": [
+        "0x943ba99bcd3068656d3510832a537db683d7c7b8946609c1ef86737f0142d266",
+        "0xd227bad1198d45803505d562482b21f683b14208a59ceb8a463f03db5e46c926",
+        "0xcbb4c5eb3789d11832b4f96d36e7eb38797d948d5f086df686a1f218a132385b",
+        "0x709f25d1796c2f33da8e7855f600a3ac5d10a1adf55a5a7ad3b1bfc7a71c6db8",
+        "0x52f7491efe1ee24db5a3d2f6a988d7f575e4818666e7c1e86133d6975de2a255",
+        "0x5ab273fbce7d49486b42feb2048a7746d7ccf19bde5507c55b17dc5ca00d3f15",
+        "0x83bf88e9bcfd3145bc29b9e866863d9247d24df5ef5f1b66ab2c00c3171269cb",
+        "0x351cfe61628239f979f88da463f81b6feaeff65bfbeeed489041a44fef1b6293",
+        "0xb1d2ac44fceeb0e41d2c402ec88652ad4eeaa3e601fc3bd7f86bb88e86cb38fe"
+      ],
+      "histories": [],
+      "createdAt": "2023-11-24T16:13:34.271Z",
+      "updatedAt": "2023-12-02T07:55:13.908Z",
+      "__v": 0,
+      "attestationBlock": 112621828,
+      "attestationDate": "2023-11-24T16:13:53.000Z",
+      "approval": [
+        {
+          "_id": "6562d8a1ebaee64113641920",
+          "domainName": "cryptofox-nft.town",
+          "__v": 0,
+          "createdAt": "2023-11-26T05:33:21.859Z",
+          "status": "qualified",
+          "updatedAt": "2023-11-26T05:33:21.859Z"
+        }
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0x943ba99bcd3068656d3510832a537db683d7c7b8946609c1ef86737f0142d266",
+          "bio": "Optiland Quests - onboarding users to Optimism",
+          "displayName": "Optiland Quests",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa6028b948dea97B7Fb0E472e19c9D4E160ed2902.png"
+        },
+        {
+          "id": "0xd227bad1198d45803505d562482b21f683b14208a59ceb8a463f03db5e46c926",
+          "bio": "The #1 NFT community on Optimism!",
+          "displayName": "OptiChads",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x10850762bAc0dc6660630c1EfFe188A7cbFDdc88.png"
+        },
+        {
+          "id": "0xcbb4c5eb3789d11832b4f96d36e7eb38797d948d5f086df686a1f218a132385b",
+          "bio": "An NFT project committed to establishing a genuine business framework.",
+          "displayName": "Apetimism",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x16ac527d938c36Caec5A6b0665ef7b456C22f7D2.png"
+        },
+        {
+          "id": "0x709f25d1796c2f33da8e7855f600a3ac5d10a1adf55a5a7ad3b1bfc7a71c6db8",
+          "bio": "Apetimism Launchpad is our No-Code, Superchain-compatible NFT Launchpad",
+          "displayName": "Apetimism Launchpad",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF0974C239B7d08b7240b690B69EC3dD8aE783EFC.png"
+        },
+        {
+          "id": "0x52f7491efe1ee24db5a3d2f6a988d7f575e4818666e7c1e86133d6975de2a255",
+          "bio": "Contributing to the growth of non-fungible technology on L2.",
+          "displayName": "NFTEarth",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD131F1BcDd547e067Af447dD3C36C99d6be9FdEB.png"
+        },
+        {
+          "id": "0x5ab273fbce7d49486b42feb2048a7746d7ccf19bde5507c55b17dc5ca00d3f15",
+          "bio": "The NFT artist introducing Optimism blockchain to Layer1 and Web2 business.",
+          "displayName": "sorryvrerror",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6fF5723435b7dfC2371B57Fb5cB4c373E5995C78.png"
+        },
+        {
+          "id": "0x83bf88e9bcfd3145bc29b9e866863d9247d24df5ef5f1b66ab2c00c3171269cb",
+          "bio": "Bored Town, a nurturing ecosystem where creativity meets innovation.",
+          "displayName": "Bored Town NFT art community",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9D63038e7f74bc089eb38e61Be8Da937918900D6.png"
+        },
+        {
+          "id": "0x351cfe61628239f979f88da463f81b6feaeff65bfbeeed489041a44fef1b6293",
+          "bio": "Instant ENS sub-domains for NFT communities on the Superchain. ",
+          "displayName": "Wildcards Protocol",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1208a26FAa0F4AC65B42098419EB4dAA5e580AC6.png"
+        },
+        {
+          "id": "0xb1d2ac44fceeb0e41d2c402ec88652ad4eeaa3e601fc3bd7f86bb88e86cb38fe",
+          "bio": "Fractal Visions impact initiative platform highlighting PUBLIC GOODS builders.",
+          "displayName": "Fractal Visions",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC4FC57Dedd2463314A3fD2DBadB86B4404C257e5.jpeg"
+        }
+      ],
+      "status": "qualified"
+    },
+    {
+      "_id": "656185ab00a58cde3af91765",
+      "listName": "Thailand OP contributors",
+      "listDescription": "Despite small population, Thailand is one of the most enthusiasm community that provided big impact for OP ecosystem.",
+      "impactEvaluationInput": "",
+      "impactEvaluationDescription": "Created by gadgeteerth.town using RetroList with \"Educational, Research and Content Rubric\" rubric.",
+      "impactEvaluationLink": "",
+      "impactEvaluationType": "rubric",
+      "listContent": [
+        {
+          "RPGF3_Application_UID": "0x1a1bdc52701cf3b33ef4d4169a3ff001f866aaf4294ef7b9398f01c5e2e00637",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656185ab00a58cde3af91766"
+        },
+        {
+          "RPGF3_Application_UID": "0x15e84020afaeea9626e882207ad748006bbd2fbdc45b313af4cf2414ae657c90",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656185ab00a58cde3af91767"
+        },
+        {
+          "RPGF3_Application_UID": "0x7aa5c6b5ae2a379986944609e9c2486f58a0f5f0c50c5355633bcd470934c486",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656185ab00a58cde3af91768"
+        },
+        {
+          "RPGF3_Application_UID": "0xaa1ea2a6a67fcacd76ef8e24de0b32a6227314899a930eb8cbbc7fd5fcc5dd0d",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656185ab00a58cde3af91769"
+        },
+        {
+          "RPGF3_Application_UID": "0x4583d4badbcbcb617f049f7751b5ab45a378f52ff5022ba689df741fe3339b59",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656185ab00a58cde3af9176a"
+        },
+        {
+          "RPGF3_Application_UID": "0xe6e5586ce9589f408344fe0ded216e5fc64bd4ab20d39057820d5923c9d936ae",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656185ab00a58cde3af9176b"
+        },
+        {
+          "RPGF3_Application_UID": "0x6886a3d5da589ee9fc5528548edca61cbefa640ff7b11d7d545281d3423cfd93",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656185ab00a58cde3af9176c"
+        },
+        {
+          "RPGF3_Application_UID": "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656185ab00a58cde3af9176d"
+        },
+        {
+          "RPGF3_Application_UID": "0xd8954972d3580199658bcc9ac03298b4f689ef06fc6f505c853851aa4ca25c41",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656185ab00a58cde3af9176e"
+        },
+        {
+          "RPGF3_Application_UID": "0x5ab273fbce7d49486b42feb2048a7746d7ccf19bde5507c55b17dc5ca00d3f15",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656185ab00a58cde3af9176f"
+        },
+        {
+          "RPGF3_Application_UID": "0x83bf88e9bcfd3145bc29b9e866863d9247d24df5ef5f1b66ab2c00c3171269cb",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656185ab00a58cde3af91770"
+        },
+        {
+          "RPGF3_Application_UID": "0x709f25d1796c2f33da8e7855f600a3ac5d10a1adf55a5a7ad3b1bfc7a71c6db8",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656185ab00a58cde3af91771"
+        },
+        {
+          "RPGF3_Application_UID": "0xad533925a428c7a85a0c69be650285c01feecc1d6eaa75ab47f96be1d8db811c",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656185ab00a58cde3af91772"
+        },
+        {
+          "RPGF3_Application_UID": "0xf9da7eda8bb30b55c307cb95a5b4a1bff450f55b26ab42e8edf091551590a7d9",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656185ab00a58cde3af91773"
+        },
+        {
+          "RPGF3_Application_UID": "0x04fcef24af88ed2a4d9f1eda19581b46a1737ee12955810bbeb4870b7b5c4d50",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656185ab00a58cde3af91774"
+        },
+        {
+          "RPGF3_Application_UID": "0x94b31664bb5940536bffe71fb0a2eb3b2373061fe09324a737807fc2bfe88ff1",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656185ab00a58cde3af91775"
+        }
+      ],
+      "walletAddress": "0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375",
+      "domainName": "gadgeteerth.town",
+      "twitter": "gadgeteerth",
+      "discord": "nanobro",
+      "isBadgeholder": false,
+      "attestationUid": "0x41eb562b42db9ed8efd444db9b6a4528d5f4cbb5033885eedb2d7b9394052d56",
+      "approvalAttestationUid": null,
+      "forkedFrom": null,
+      "rubricId": "65565674e5695aaff05cd4a0",
+      "categories": [
+        "END_USER_EXPERIENCE_AND_ADOPTION",
+        "DEVELOPER_ECOSYSTEM"
+      ],
+      "projectIds": [
+        "0x1a1bdc52701cf3b33ef4d4169a3ff001f866aaf4294ef7b9398f01c5e2e00637",
+        "0x15e84020afaeea9626e882207ad748006bbd2fbdc45b313af4cf2414ae657c90",
+        "0x7aa5c6b5ae2a379986944609e9c2486f58a0f5f0c50c5355633bcd470934c486",
+        "0xaa1ea2a6a67fcacd76ef8e24de0b32a6227314899a930eb8cbbc7fd5fcc5dd0d",
+        "0x4583d4badbcbcb617f049f7751b5ab45a378f52ff5022ba689df741fe3339b59",
+        "0xe6e5586ce9589f408344fe0ded216e5fc64bd4ab20d39057820d5923c9d936ae",
+        "0x6886a3d5da589ee9fc5528548edca61cbefa640ff7b11d7d545281d3423cfd93",
+        "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
+        "0xd8954972d3580199658bcc9ac03298b4f689ef06fc6f505c853851aa4ca25c41",
+        "0x5ab273fbce7d49486b42feb2048a7746d7ccf19bde5507c55b17dc5ca00d3f15",
+        "0x83bf88e9bcfd3145bc29b9e866863d9247d24df5ef5f1b66ab2c00c3171269cb",
+        "0x709f25d1796c2f33da8e7855f600a3ac5d10a1adf55a5a7ad3b1bfc7a71c6db8",
+        "0xad533925a428c7a85a0c69be650285c01feecc1d6eaa75ab47f96be1d8db811c",
+        "0xf9da7eda8bb30b55c307cb95a5b4a1bff450f55b26ab42e8edf091551590a7d9",
+        "0x04fcef24af88ed2a4d9f1eda19581b46a1737ee12955810bbeb4870b7b5c4d50",
+        "0x94b31664bb5940536bffe71fb0a2eb3b2373061fe09324a737807fc2bfe88ff1"
+      ],
+      "histories": [],
+      "createdAt": "2023-11-25T05:27:07.737Z",
+      "updatedAt": "2023-12-02T07:55:13.908Z",
+      "__v": 0,
+      "attestationBlock": 112645640,
+      "attestationDate": "2023-11-25T05:27:37.000Z",
+      "approval": [
+        {
+          "_id": "6562d8afebaee641136425b8",
+          "domainName": "gadgeteerth.town",
+          "__v": 0,
+          "createdAt": "2023-11-26T05:33:35.633Z",
+          "status": "qualified",
+          "updatedAt": "2023-11-26T05:33:35.633Z"
+        }
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0x1a1bdc52701cf3b33ef4d4169a3ff001f866aaf4294ef7b9398f01c5e2e00637",
+          "bio": "I'm a Teacher love learning about Optimism ecosystem for educate my followers ",
+          "displayName": "Peter Priew Sommon",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1F27b0482ace1B82cf7A4f0c55dfc2A05dfCfD75.png"
+        },
+        {
+          "id": "0x15e84020afaeea9626e882207ad748006bbd2fbdc45b313af4cf2414ae657c90",
+          "bio": "Educator for OP users/contributors.  Trusted by 71 people for 19k voting power",
+          "displayName": "Gadgeteer (nanobro)",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375.jpeg"
+        },
+        {
+          "id": "0x7aa5c6b5ae2a379986944609e9c2486f58a0f5f0c50c5355633bcd470934c486",
+          "bio": " Empowering OP Collective with data-driven insights  \ud83d\udea9\ud83c\udf10",
+          "displayName": "OP Governance Analytics Dashboard",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x17296956b4E07Ff8931E4ff4eA06709FaB70b879.png"
+        },
+        {
+          "id": "0xaa1ea2a6a67fcacd76ef8e24de0b32a6227314899a930eb8cbbc7fd5fcc5dd0d",
+          "bio": "OP original content creator and educator for thai community since June 2022.",
+          "displayName": "Thesleeper.eth Thai OP Educator",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x00409fC839a2Ec2e6d12305423d37Cd011279C09.png"
+        },
+        {
+          "id": "0x4583d4badbcbcb617f049f7751b5ab45a378f52ff5022ba689df741fe3339b59",
+          "bio": "Wannabe Dev, Stay Optimistic! \ud83d\udd34\u2728",
+          "displayName": "ATK",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x80f8eFb44b3bbC088B3360266c29DAcEFf1a8C3F.jpeg"
+        },
+        {
+          "id": "0xe6e5586ce9589f408344fe0ded216e5fc64bd4ab20d39057820d5923c9d936ae",
+          "bio": "Simplifying Web3, Layer-2, and airdrop guides for 11K+ Thai followers",
+          "displayName": "CryptoDuck",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB0d37023043099797dfbD2bAefc20f930279dC21.png"
+        },
+        {
+          "id": "0x6886a3d5da589ee9fc5528548edca61cbefa640ff7b11d7d545281d3423cfd93",
+          "bio": "RetroPGF Rubric-based List Creation UI opening to public crowdsourcing",
+          "displayName": "Retrolist | RetroPGF Rubric-based List Creation UI",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x73F4e6132Cd9E4a3945d9CA6E98e5985BBe16d2D.png"
+        },
+        {
+          "id": "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
+          "bio": "RetroPGF Hub is the place to explore, discover, and awareness about RetroPGF.",
+          "displayName": "RetroPGF Hub",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065.png"
+        },
+        {
+          "id": "0xd8954972d3580199658bcc9ac03298b4f689ef06fc6f505c853851aa4ca25c41",
+          "bio": "Learning and sharing",
+          "displayName": "daboyshine",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4CDD7811CCEdB0fFd3808B586bcafD6AB0ACb313.png"
+        },
+        {
+          "id": "0x5ab273fbce7d49486b42feb2048a7746d7ccf19bde5507c55b17dc5ca00d3f15",
+          "bio": "The NFT artist introducing Optimism blockchain to Layer1 and Web2 business.",
+          "displayName": "sorryvrerror",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6fF5723435b7dfC2371B57Fb5cB4c373E5995C78.png"
+        },
+        {
+          "id": "0x83bf88e9bcfd3145bc29b9e866863d9247d24df5ef5f1b66ab2c00c3171269cb",
+          "bio": "Bored Town, a nurturing ecosystem where creativity meets innovation.",
+          "displayName": "Bored Town NFT art community",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9D63038e7f74bc089eb38e61Be8Da937918900D6.png"
+        },
+        {
+          "id": "0x709f25d1796c2f33da8e7855f600a3ac5d10a1adf55a5a7ad3b1bfc7a71c6db8",
+          "bio": "Apetimism Launchpad is our No-Code, Superchain-compatible NFT Launchpad",
+          "displayName": "Apetimism Launchpad",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF0974C239B7d08b7240b690B69EC3dD8aE783EFC.png"
+        },
+        {
+          "id": "0xad533925a428c7a85a0c69be650285c01feecc1d6eaa75ab47f96be1d8db811c",
+          "bio": "Cryptomind Research, one of the leading crypto researchers in Thailand",
+          "displayName": "Cryptomind Research",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x20958ed81d32f79FCA6eda9A5364AE7908a60D5D.png"
+        },
+        {
+          "id": "0xf9da7eda8bb30b55c307cb95a5b4a1bff450f55b26ab42e8edf091551590a7d9",
+          "bio": "Thailand's Largest cryptocurrency media and community",
+          "displayName": "BitcoinAddict Thailand ",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCf2DA4D6e7C5B51D1affeCba0a43F583d928dE0c.png"
+        },
+        {
+          "id": "0x04fcef24af88ed2a4d9f1eda19581b46a1737ee12955810bbeb4870b7b5c4d50",
+          "bio": "I'm doing the ETH and DeFi educational contents for Thais",
+          "displayName": "0xDeFiTH",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x94b31664bb5940536bffe71fb0a2eb3b2373061fe09324a737807fc2bfe88ff1",
+          "bio": "Maintaining my fork of simple-optimism-node, an OP Node Deployment open source.",
+          "displayName": " simple-optimism-node (Maintaining my own fork)",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27.png"
+        }
+      ],
+      "status": "qualified"
+    },
+    {
+      "_id": "656b682c2a10f91def7509a8",
+      "listName": "NFT Communities on Optimism ",
+      "listDescription": "\"The Big 3\" Optimism NFT builders that have high volume, a large community, and have been consistently building since before and after the Quix marketplace shutdown. ",
+      "impactEvaluationInput": "",
+      "impactEvaluationDescription": "Created by dicaso5.town using RetroList with \"Categorization Only\" rubric.",
+      "impactEvaluationLink": "",
+      "impactEvaluationType": "rubric",
+      "listContent": [
+        {
+          "RPGF3_Application_UID": "0xd227bad1198d45803505d562482b21f683b14208a59ceb8a463f03db5e46c926",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656b682c2a10f91def7509a9"
+        },
+        {
+          "RPGF3_Application_UID": "0x83bf88e9bcfd3145bc29b9e866863d9247d24df5ef5f1b66ab2c00c3171269cb",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656b682c2a10f91def7509aa"
+        },
+        {
+          "RPGF3_Application_UID": "0xcbb4c5eb3789d11832b4f96d36e7eb38797d948d5f086df686a1f218a132385b",
+          "OPAmount": 0,
+          "evaluation": {},
+          "_id": "656b682c2a10f91def7509ab"
+        }
+      ],
+      "walletAddress": "0x10850762bAc0dc6660630c1EfFe188A7cbFDdc88",
+      "domainName": "dicaso5.town",
+      "twitter": "Dicaso5",
+      "discord": "dicaso",
+      "isBadgeholder": false,
+      "attestationUid": "0x87cc7a96ec553395da1d42d6d1d32a767cf772a7193ba732eccda3cc6a9ab314",
+      "approvalAttestationUid": null,
+      "forkedFrom": null,
+      "rubricId": "65695f889c41a3dbb680a30c",
+      "categories": [],
+      "projectIds": [
+        "0xd227bad1198d45803505d562482b21f683b14208a59ceb8a463f03db5e46c926",
+        "0x83bf88e9bcfd3145bc29b9e866863d9247d24df5ef5f1b66ab2c00c3171269cb",
+        "0xcbb4c5eb3789d11832b4f96d36e7eb38797d948d5f086df686a1f218a132385b"
+      ],
+      "histories": [],
+      "createdAt": "2023-12-02T17:23:56.876Z",
+      "updatedAt": "2023-12-02T17:25:34.326Z",
+      "__v": 0,
+      "attestationBlock": 112969578,
+      "attestationDate": "2023-12-02T17:25:33.000Z",
+      "approval": [
+        {
+          "_id": "656fe91a9c41a3dbb6577a19",
+          "domainName": "dicaso5.town",
+          "__v": 0,
+          "createdAt": "2023-12-06T03:23:06.519Z",
+          "status": "qualified",
+          "updatedAt": "2023-12-06T03:23:06.519Z"
+        }
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0xd227bad1198d45803505d562482b21f683b14208a59ceb8a463f03db5e46c926",
+          "bio": "The #1 NFT community on Optimism!",
+          "displayName": "OptiChads",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x10850762bAc0dc6660630c1EfFe188A7cbFDdc88.png"
+        },
+        {
+          "id": "0x83bf88e9bcfd3145bc29b9e866863d9247d24df5ef5f1b66ab2c00c3171269cb",
+          "bio": "Bored Town, a nurturing ecosystem where creativity meets innovation.",
+          "displayName": "Bored Town NFT art community",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9D63038e7f74bc089eb38e61Be8Da937918900D6.png"
+        },
+        {
+          "id": "0xcbb4c5eb3789d11832b4f96d36e7eb38797d948d5f086df686a1f218a132385b",
+          "bio": "An NFT project committed to establishing a genuine business framework.",
+          "displayName": "Apetimism",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x16ac527d938c36Caec5A6b0665ef7b456C22f7D2.png"
+        }
+      ],
+      "status": "qualified"
+    }
+  ],
+  "id": "Project|0x83bf88e9bcfd3145bc29b9e866863d9247d24df5ef5f1b66ab2c00c3171269cb",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 20,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

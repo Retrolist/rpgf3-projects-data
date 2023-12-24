@@ -1,0 +1,48 @@
+{
+  "bio": "Articles about Blockchain and Optimism",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Blockchain_Space",
+  "websiteUrl": "https://medium.com/@Blockchain_Space",
+  "applicant": {
+    "address": {
+      "address": "0x90FF0a4078A91d6b79c4C34A2024EE3c34503333",
+      "resolvedName": {
+        "address": "0x90FF0a4078A91d6b79c4C34A2024EE3c34503333",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x90FF0a4078A91d6b79c4C34A2024EE3c34503333"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x90FF0a4078A91d6b79c4C34A2024EE3c34503333.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x13766cadc70623ee359cd91648e1aa9e10852cdec2632e0569e5fb5471d6a1b7"
+  },
+  "impactDescription": "Since the English language is a barrier for many people to understand blockchain or understand the Optimism project, I created a series of articles in Russian to make it easier for Russian speakers to learn about blockchain and the Optimism project.\nMy articles contribute to attracting new users.",
+  "contributionDescription": "Several articles aimed at Russian speakers.\nI have published several articles that talk about blockchain, the Optimims project, its features, and how it helps solve Ethereum\u2019s problems, such as high transaction costs and slow transactions..\nThe articles are full of information",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@Blockchain_Space",
+      "description": "Articles about Optimism and blockchain "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of article views",
+      "number": "300",
+      "url": "https://docs.google.com/document/d/1IzlLXjsLo1kKRTRCSZxw0PMztbn9M7Zjrbcg2I2YteU/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xb42650e6d0d01b2fb151765612c4219dbd50bf25739d043a6abe57d2983670e6",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 7,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

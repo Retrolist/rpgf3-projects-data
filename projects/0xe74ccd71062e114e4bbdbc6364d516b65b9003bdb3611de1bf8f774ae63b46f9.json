@@ -1,0 +1,76 @@
+{
+  "bio": "Facilitating data science on the Ethereum blockchain",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "EthereumETL",
+  "websiteUrl": "https://github.com/blockchain-etl",
+  "applicant": {
+    "address": {
+      "address": "0x9FD0C742D81B6f08817F3eF11D09Cb4a9f54eE5f",
+      "resolvedName": {
+        "address": "0x9FD0C742D81B6f08817F3eF11D09Cb4a9f54eE5f",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9FD0C742D81B6f08817F3eF11D09Cb4a9f54eE5f"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9FD0C742D81B6f08817F3eF11D09Cb4a9f54eE5f.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x0902ccfbeaf1ad694a75fa945d8dae8390bd084b730c7164a7f51cb29c8d8c8a"
+  },
+  "impactDescription": "Almost 2700 stars on our GitHub project show how many people use the tools we developed. They are used in OP Analytics repository https://github.com/ethereum-optimism/op-analytics#common-requirements and Optimism Gas Tracker dashboard https://optimism.io/gas-tracker ",
+  "contributionDescription": "- EthereumETL has been described as the most useful open-source project for facilitating data science on Ethereum data. Almost 2700 stars on our GitHub project show how many people use the tools we developed. \n- The same tools are available for analyzing Optimism data, with Optimism-specific fields added in this pull request: https://github.com/blockchain-etl/ethereum-etl/pull/446\n- Ethereum ETL powers the database behind the Optimism Gas Tracker, as confirmed here: https://twitter.com/MSilb7/status/1686823154713296897\n- Additionally, a public BigQuery Ethereum dataset, published in collaboration with Google and utilizing EthereumETL, has proven valuable to numerous companies and individuals by enabling research, data science, and the development of data-driven applications\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/blockchain-etl/ethereum-etl",
+      "description": "The open source tools for extracting blockchain data"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/blockchain-etl/ethereum-etl/pull/446",
+      "description": "A PR adding Optimism-specific fields to EthereumETL"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/MSilb7/status/1686783848703574029",
+      "description": "A post from Michael Silberling highlighting the use of EthereumETL"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of GitHub stars ",
+      "number": "2675",
+      "url": "https://github.com/blockchain-etl/ethereum-etl"
+    },
+    {
+      "description": "Number of reactions to a pull request",
+      "number": "6",
+      "url": "https://github.com/blockchain-etl/ethereum-etl/pull/446"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 31044.49,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 12000,
+      "description": "GitCoin grants"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe74ccd71062e114e4bbdbc6364d516b65b9003bdb3611de1bf8f774ae63b46f9",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 42,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

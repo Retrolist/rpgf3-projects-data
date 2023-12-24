@@ -1,0 +1,57 @@
+{
+  "bio": "Early Crypto Ecosystem",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "NonnoN",
+  "websiteUrl": "https://medium.com/@thanchanon.srifah",
+  "applicant": {
+    "address": {
+      "address": "0x28ECb498b2f34Dd717AEE529de358005E88669e5",
+      "resolvedName": {
+        "address": "0x28ECb498b2f34Dd717AEE529de358005E88669e5",
+        "name": "nonononon.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x28ECb498b2f34Dd717AEE529de358005E88669e5"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x28ECb498b2f34Dd717AEE529de358005E88669e5.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xbc2b3f1bb0a74b4aaf48e58b01060fa48761c9d9a76ba7b19d1d896836d16b18"
+  },
+  "impactDescription": "I firmly believe that informed decision-making is the cornerstone of effective governance. To contribute to this, I will meticulously research and analyze proposals, protocol changes, and community discussions. By staying well-informed, I aim to provide valuable insights and cast well-considered votes. and I will actively seek partnerships and collaboration opportunities with other projects and platforms to strengthen the Optimism ecosystem. and I wil prioritize the long-term health and sustainability of the Optimism ecosystem, making decisions that prioritize the best interests of the community and the broader blockchain space. ",
+  "contributionDescription": "1.Community Building and Engagement: I believe in fostering a vibrant and inclusive community. I plan to actively engage in discussions, forums, and social media channels, and offer support and knowledge-sharing to fellow community members.\n2.Collaborative Initiatives: I am keen on collaborating with other community members and projects to amplify our collective impact and drive innovation.\n3.Respect and Mentorship: I am committed to fostering a respectful and inclusive environment, and I am open to mentoring newer contributors to help them navigate the complexities of the project.\n4.Staying Informed and Adaptive: I understand the importance of aligning contributions with the project's evolving needs and priorities and am committed to staying informed about the project's roadmap.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/samesky0",
+      "description": "My X account "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@thanchanon.srifah",
+      "description": "My medium account"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#Nonnon",
+      "number": "0",
+      "url": "https://twitter.com/samesky0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x45234a05a27fe5cfb48292edb93c6e691c0b76f3158493ce68a6a88084b9893f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

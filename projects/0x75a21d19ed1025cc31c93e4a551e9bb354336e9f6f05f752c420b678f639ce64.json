@@ -1,0 +1,53 @@
+{
+  "bio": "token Governance",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "Dragon token",
+  "websiteUrl": "https://twitter.com/IantigerC",
+  "applicant": {
+    "address": {
+      "address": "0x8e25cDa79DE06b4ec1f0713A75cEC104621B8E72",
+      "resolvedName": {
+        "address": "0x8e25cDa79DE06b4ec1f0713A75cEC104621B8E72",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x8e25cDa79DE06b4ec1f0713A75cEC104621B8E72"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8e25cDa79DE06b4ec1f0713A75cEC104621B8E72.png",
+    "id": "OptimistProfile|0x60e8a773f6364c4f8b5fc421414aa0647879ad536dc1e04c4478f270a446eea1"
+  },
+  "impactDescription": "Improved user experience: I can help to improve the user experience of Optimism by providing educational resources and by helping to troubleshoot problems.\nImproved communication and collaboration: I can help to improve communication and collaboration within the Optimism Collective by providing a central repository of information and by facilitating discussions and debates.\nIncreased developer productivity: I can help to increase developer productivity by providing tools and resources that make it easier to develop and test applications on Optimism.",
+  "contributionDescription": "More decentralized governance: Optimism is governed by a decentralized community of stakeholders. This means that the future of Optimism is in the hands of its users and not a single entity. This can help to ensure that your token remains decentralized and fair.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/alextiger22",
+      "description": "-"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "https://github.com/alextiger22",
+      "number": "1",
+      "url": "https://github.com/alextiger22"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0.01,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x75a21d19ed1025cc31c93e4a551e9bb354336e9f6f05f752c420b678f639ce64",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

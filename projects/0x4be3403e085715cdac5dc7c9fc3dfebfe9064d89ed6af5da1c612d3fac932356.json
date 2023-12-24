@@ -1,0 +1,85 @@
+{
+  "bio": "Developed tool for devnet & bundler, contributed PRs to op-node, wrote articles.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "joohhnnn",
+  "websiteUrl": "https://github.com/joohhnnn",
+  "applicant": {
+    "address": {
+      "address": "0xf8E30C251AA7974aA0A2d9e452d863681f8B59Ac",
+      "resolvedName": {
+        "address": "0xf8E30C251AA7974aA0A2d9e452d863681f8B59Ac",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xf8E30C251AA7974aA0A2d9e452d863681f8B59Ac"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf8E30C251AA7974aA0A2d9e452d863681f8B59Ac.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf8E30C251AA7974aA0A2d9e452d863681f8B59Ac.png",
+    "id": "OptimistProfile|0x17101b39497606ca5ca1990749afcbbcc9843e43af4ccae477dff258f523a8c5"
+  },
+  "impactDescription": "Joined EPF, noticed Optimism's lead in ERC4337 adaptation across chains. Proposed a universal eth_sendRawTransactionConditional() method for mainnet & Layer 2 solutions.\nPost writing code flow articles, received recognition from advanced users including Opensea's vase. Discord mods often cite my articles for complex queries. Assisted curious developers.\nResolved a long-standing bundler issue in the Optimism repo, creating a tool easing future ERC4337 tests on Optimism devnet.\nActively addressing open issues in the Optimism repo, engaging in discussions with Proto.\nAssisted with developer inquiries and ecosystem products, earning unanimous acclaim.",
+  "contributionDescription": "Hi Optimism fans, I'm Joohhnnn, a big fan of Optimism just like you. I've been a developer for three years and have submitted some PRs to Geth, the Ethereum ecosystem, and op-node. I'm also part of EPF4 (Eth-Protocol-Fellows), and am working on the project \"Optimism-Sequencer-Support-for-ERC-4337-Bundlers\". Plus, I've written many articles for developers to explain how Optimism works. Additionally, I've created a tool to adapt Optimism's devnet and bundler, enhancing the workflow for developers.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/joohhnnn/Understanding-Optimism-Codebase/tree/main/sequencer",
+      "description": "Guide explains Optimism codebase to help newcomers start & understand code flow."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/joohhnnn/Understanding-Optimism-Codebase-CN",
+      "description": "Chinese version"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/joohhnnn/OPBundlerAutoConfig",
+      "description": "a tool for easy setup of Ethereum Bundler & Optimism's devnet."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/eth-protocol-fellows/cohort-four/blob/master/projects/Optimism-Sequencer-Support-for-ERC-4337-Bundlers.md",
+      "description": "Project improves RPC API for sequencer support on ERC 4337, adds validation."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.notion.so/oplabs/External-4337-Endpoint-Work-fe578e0064be4e1bb81b6b06b67be1d9",
+      "description": "co-work with Tynes"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/optimism/pull/7329",
+      "description": "solve the open issue in op-node repo"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.com/channels/667044843901681675/887914409207414785/1160263793062989986",
+      "description": "Answering more advanced dev questions on the Optimism Discord."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/JoohhnnnChase/status/1711813105452548542",
+      "description": "Promoting new Optimism-related items' principles and materials actively."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "hard for metrics",
+      "number": "0",
+      "url": "https://github.com/joohhnnn"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4be3403e085715cdac5dc7c9fc3dfebfe9064d89ed6af5da1c612d3fac932356",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 24,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack development & research"
+}

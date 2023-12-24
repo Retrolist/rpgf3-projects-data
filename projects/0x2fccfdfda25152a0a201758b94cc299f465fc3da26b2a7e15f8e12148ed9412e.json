@@ -1,0 +1,52 @@
+{
+  "bio": "Want to learn more about crypto.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Muhammad Imam Kurniawan ",
+  "websiteUrl": "https://twitter.com/MuhammadImamKu1",
+  "applicant": {
+    "address": {
+      "address": "0xCd5367827fc644E00db7d48f29A785D622Dd9E83",
+      "resolvedName": {
+        "address": "0xCd5367827fc644E00db7d48f29A785D622Dd9E83",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xCd5367827fc644E00db7d48f29A785D622Dd9E83"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCd5367827fc644E00db7d48f29A785D622Dd9E83.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x09c5321fae88ebf9b3f96d88d34da7ec78e368eafc6f1ca1f85c015b42e063d7"
+  },
+  "impactDescription": "New user of optimism. Work that increased the efficiency, security, resilience and awareness of the OP Stack.Work that provided impact to end users in the Optimism Collective, or helped bring new end users into the Collective. Work that provided impact to application developers in the Optimism Collective, or helped bring new developers into the Collective.",
+  "contributionDescription": "I want to make optimism familiar and easy use for people around the world. And also can be use to passive income. No doubt about it that optimism is Pioneer of life change. Where can badgeholders find out more about your contributions? Examples: a website, GitHub repository, on-chain contract.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimism.etherscan.com/0xd89dBBd35C24E07C7727BF1eF36cd1F02aEA158E",
+      "description": "NFT"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Length",
+      "number": "1828",
+      "url": "https://optimism.etherscan.com/Work that provided impact to application developers in the Optimism Collective, or helped bring new developers into the Collective"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2fccfdfda25152a0a201758b94cc299f465fc3da26b2a7e15f8e12148ed9412e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

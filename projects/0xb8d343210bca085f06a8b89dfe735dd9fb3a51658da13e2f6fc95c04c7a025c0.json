@@ -1,0 +1,48 @@
+{
+  "bio": "Crypto enthusiast",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Kishan patel",
+  "websiteUrl": "https://x.com/kishanpatel2902",
+  "applicant": {
+    "address": {
+      "address": "0x75232B3a9A500748356fB605297862Bb9cbdd53d",
+      "resolvedName": {
+        "address": "0x75232B3a9A500748356fB605297862Bb9cbdd53d",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x75232B3a9A500748356fB605297862Bb9cbdd53d"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x75232B3a9A500748356fB605297862Bb9cbdd53d.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x75232B3a9A500748356fB605297862Bb9cbdd53d.jpeg",
+    "id": "OptimistProfile|0x82788f257c188d3286789c6096b55ac5a52d87ef1176ab501adffe2455e38925"
+  },
+  "impactDescription": "\nContributing to the Optimism ecosystem is vital for the advancement of decentralized finance and blockchain technology. By actively participating in Optimism, whether through developing scalable applications, providing liquidity, or engaging in network governance, individuals play a crucial role in enhancing the platform's functionality and usability. Your contributions not only drive innovation but also help in creating a more efficient, low-cost, and accessible financial infrastructure for everyone. Together, these efforts contribute to the growth and sustainability of the Optimism ecosystem, fostering a decentralized future for the global economy.",
+  "contributionDescription": "\nContributing to the Optimism ecosystem is vital for the advancement of decentralized finance and blockchain technology. By actively participating in Optimism, whether through developing scalable applications, providing liquidity, or engaging in network governance, individuals play a crucial role in enhancing the platform's functionality and usability. Your contributions not only drive innovation but also help in creating a more efficient, low-cost, and accessible financial infrastructure for everyone. Together, these efforts contribute to the growth and sustainability of the Optimism ecosystem, fostering a decentralized future for the global economy.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x75232B3a9A500748356fB605297862Bb9cbdd53d",
+      "description": "Kishan patel"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Kishanpatel",
+      "number": "2902",
+      "url": "https://optimistic.etherscan.io/address/0x75232B3a9A500748356fB605297862Bb9cbdd53d"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xb8d343210bca085f06a8b89dfe735dd9fb3a51658da13e2f6fc95c04c7a025c0",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

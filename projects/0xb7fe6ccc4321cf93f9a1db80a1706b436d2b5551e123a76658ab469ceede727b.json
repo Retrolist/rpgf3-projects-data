@@ -1,0 +1,96 @@
+{
+  "bio": "A Dune wizard and data enthusiast from Cambodia \ud83c\uddf0\ud83c\udded",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "0xKhmer",
+  "websiteUrl": "https://twitter.com/0xKhmer",
+  "applicant": {
+    "address": {
+      "address": "0x2D8EA9BCf57A8456085947AB4752f3f9104FC7DB",
+      "resolvedName": {
+        "address": "0x2D8EA9BCf57A8456085947AB4752f3f9104FC7DB",
+        "name": "khmer.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2D8EA9BCf57A8456085947AB4752f3f9104FC7DB"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2D8EA9BCf57A8456085947AB4752f3f9104FC7DB.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xa28919de9e07f27fe59a8ee6fabbf43936c0184e13d247edfed3213a592204f4"
+  },
+  "impactDescription": "My Dune analytics dashboard provide Optimism community members with transparency information about Velodrome's Optimism grants which include distribution of OP to Velodrome veNFT locker, distribution of OP to Velodrome voter, distribution of OP Gov NFTs. Another contribution is the metric of Optimism biggest dex.",
+  "contributionDescription": "Since last year, I have been involved with Optimism community through Dune analytics dashboard. At the beginning of Velodrome, there was a lack of easily understandable information for general users like myself. Thus, I created a Dune account and shared my insights, queries and dashboards with the community.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/0xkhmer",
+      "description": "Dune Analytics profile where I share my queries and dashboard."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Favorite by users",
+      "number": "664",
+      "url": "https://dune.com/0xkhmer/velodrome-airdrop"
+    },
+    {
+      "description": "Favorite by users",
+      "number": "243",
+      "url": "https://dune.com/0xkhmer/velodrome"
+    },
+    {
+      "description": "Favorite by users",
+      "number": "173",
+      "url": "https://dune.com/0xkhmer/velodrome-vevelo-leaderboard"
+    },
+    {
+      "description": "Favorite by users",
+      "number": "59",
+      "url": "https://dune.com/0xkhmer/sonne-finance"
+    },
+    {
+      "description": "Favorite by users",
+      "number": "31",
+      "url": "https://dune.com/0xkhmer/velodrome-x-optimism"
+    },
+    {
+      "description": "Favorite by users",
+      "number": "20",
+      "url": "https://dune.com/0xkhmer/sushiswap-exploit"
+    },
+    {
+      "description": "Favorite by users",
+      "number": "5",
+      "url": "https://dune.com/0xkhmer/gas-spent-checker"
+    },
+    {
+      "description": "Favorite by users",
+      "number": "5",
+      "url": "https://dune.com/0xkhmer/bribes-war"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 3000,
+      "description": "Sponsor from Velodrome for two of the dashboard"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "Total donation by users"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb7fe6ccc4321cf93f9a1db80a1706b436d2b5551e123a76658ab469ceede727b",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 22,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

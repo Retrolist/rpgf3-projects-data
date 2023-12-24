@@ -1,0 +1,139 @@
+{
+  "bio": "ENS-based domain with social profile attestation connecting Web2 and Web3",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Opti.domains | Connecting Web2&3 with ENS + Attestation",
+  "websiteUrl": "https://opti.domains",
+  "applicant": {
+    "address": {
+      "address": "0x8b6c27ec466923fad66Ada94c78AA320eA876969",
+      "resolvedName": {
+        "address": "0x8b6c27ec466923fad66Ada94c78AA320eA876969",
+        "name": "optidomains.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8b6c27ec466923fad66Ada94c78AA320eA876969"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8b6c27ec466923fad66Ada94c78AA320eA876969.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8b6c27ec466923fad66Ada94c78AA320eA876969.png",
+    "id": "OptimistProfile|0xd7954fbe17ea63ebdde09da0db22d18d06b23ccf1c8802a9526d06aee250b3d6"
+  },
+  "impactDescription": "Since we require all our minters to link their Twitter and Discord accounts, WE ARE THE FIRST TO PROVIDE PUBLIC ACCESS TO THE WEB3 WALLET <-> WEB2 SOCIAL PROFILE CONNECTION DATA, AVAILABLE FOR PERMISSIONLESS QUERYING!\n\nAs of October 23rd, there are 11,861 attestations from 732 unique attestors, and 512 users have minted .town domain names.\n\nOpti.domains has made the connection data between the following entities available to the public:\n1. ETH Wallet Address\n2. Twitter\n3. Discord\n4. Google\n5. Microsoft\n6. GitHub\n7. LinkedIn\n8. Line\n9. Aptos Wallet\n10. Sui Wallet\n11. Freedom Wallet\n\nThis data is valuable and has various use cases, such as identifying a wallet address for a campaign on Twitter, providing Sybil protection, and verifying identities for the Optimism Citizen House.",
+  "contributionDescription": "We've launched Opti.domains, a singularity-interoperable domain linking every identity and wallet. We're collaborating with Bored Town for .town domain adoption.\n\nOpti.domains represents a breakthrough in ENS technology, being the first to integrate domain names with Ethereum Attestation Service (EAS) systems.\n\nAll of our domain name holders are HIGH-QUALITY users since they are required to link their Twitter and Discord to mint the domain name. These connections are attested publicly on EAS.\n\nULTIMATELY, WE'RE THE FIRST TO OFFER PUBLIC ACCESS TO THE WEB3 WALLET <-> WEB2 SOCIAL PROFILE CONNECTION DATA, OPEN FOR PERMISSIONLESS QUERYING!\n\nLastly, we have contributed to the adoption of ENS on the Layer 2 standard by forking and making contributions to core libraries.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://opti.domains",
+      "description": "Opti.Domains Landing Page"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://town.opti.domains",
+      "description": "Opti.Domains .town domains minting and management page"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0xB02ED980693e14E082F0A3A33060046Ae8495EB2",
+      "description": "Bored Town Domains (.town) Contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.opti.domains/contract-addresses",
+      "description": "List of contract addresses"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1aG-w5QAKq7El1ArxV1HW3XECblAP3XTzO-dQoiCajMg/edit?usp=sharing",
+      "description": "List of Ethereum Attestation Service (EAS) schemas"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Opti-domains/optidomains-ens-contract",
+      "description": "Opti.Domains ENS Contract Source Code"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Opti-domains/ens-lightweight-indexer",
+      "description": "Opti.Domains ENS Lightweight Indexer"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/wagmi-dev/wagmi/pull/2559",
+      "description": "Pull request to wagmi for supporting custom UniversalResolver for ENS resolution"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ensgrants.xyz/rounds/29/proposals/708",
+      "description": "ENS Small Grant: Add custom UniversalResolver support to Wagmi"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Attestations",
+      "number": "11861",
+      "url": "https://town.opti.domains/explorer"
+    },
+    {
+      "description": "Unique Attestors",
+      "number": "732",
+      "url": "https://town.opti.domains/explorer"
+    },
+    {
+      "description": "Unique Holders",
+      "number": "510",
+      "url": "https://optimistic.etherscan.io/token/0xB02ED980693e14E082F0A3A33060046Ae8495EB2"
+    },
+    {
+      "description": "QuestN Questers",
+      "number": "4200",
+      "url": "https://app.questn.com/optidomains"
+    },
+    {
+      "description": "QuestN Followers",
+      "number": "1300",
+      "url": "https://app.questn.com/optidomains"
+    },
+    {
+      "description": "Twitter Followers",
+      "number": "1950",
+      "url": "https://twitter.com/optidomains"
+    },
+    {
+      "description": "Discord Members",
+      "number": "1800",
+      "url": "https://guild.xyz/optidomains"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50000,
+      "description": "Cycle 11 Grantee"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "ENS Small Grant: Ecosystem Round 9"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 600,
+      "description": "Minting Fee (We use more on our campaigns)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x633cd3fb8c979e5a98b2fc44c86d0d2003bca6359600731fc0f6a0dd9c3e7981",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 22,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

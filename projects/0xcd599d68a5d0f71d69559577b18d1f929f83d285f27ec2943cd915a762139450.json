@@ -1,0 +1,46 @@
+{
+  "bio": "happy",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Luffy",
+  "websiteUrl": "https://twitter.com/Poor96751580",
+  "applicant": {
+    "address": {
+      "address": "0xc0f918e09399333bB4e4B77d9c205EfdAd34Eb2D",
+      "resolvedName": {
+        "address": "0xc0f918e09399333bB4e4B77d9c205EfdAd34Eb2D",
+        "name": "1234231.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xc0f918e09399333bB4e4B77d9c205EfdAd34Eb2D"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc0f918e09399333bB4e4B77d9c205EfdAd34Eb2D.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x2fd0df391981624d3e237d7e4c4a0232fc6c8171585e51f73d951508ecbd2380"
+  },
+  "impactDescription": "\nAs the ecosystem expands, new user growth is true, but will loyal users like me get many?. And I hope in the future I will receive a little reward from you through my small contributions. and in the future I hope Optimism will expand and develop further",
+  "contributionDescription": "I am a loyal user of Optimism with over 500 transactions treev my wallet address, and I am also actively participating in Quests on OP Mainnet with 14 completed quests but until now I have not received the airdrop Which from Optimism. I hope this RetroPGF Round 3 will have my name on it. Thank you!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xc0f918e09399333bB4e4B77d9c205EfdAd34Eb2D",
+      "description": "Here is my wallet address, hope you consider confirming the airdrop for me"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "0x2871742b184633f8dc8546c6301cbc2099450",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0xc0f918e09399333bB4e4B77d9c205EfdAd34Eb2D"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xcd599d68a5d0f71d69559577b18d1f929f83d285f27ec2943cd915a762139450",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

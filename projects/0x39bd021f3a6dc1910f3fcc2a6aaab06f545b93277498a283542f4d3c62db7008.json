@@ -1,0 +1,46 @@
+{
+  "bio": "Individual seeking financial freedom through blockchain and cryptocurrencies",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "EzWada",
+  "websiteUrl": "https://twitter.com/DLaunchpadKing",
+  "applicant": {
+    "address": {
+      "address": "0xE4369BE6dF50Aa406DB8212Ae00CF81917C848ea",
+      "resolvedName": {
+        "address": "0xE4369BE6dF50Aa406DB8212Ae00CF81917C848ea",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE4369BE6dF50Aa406DB8212Ae00CF81917C848ea"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE4369BE6dF50Aa406DB8212Ae00CF81917C848ea.jpeg",
+    "id": "OptimistProfile|0x73ed59daade7e271702f929b75c5d58ce3035935cbffbc97453fed69fc3489ab"
+  },
+  "impactDescription": "can be invaluable for improving the documentation and user guides for Optimism. Clear and comprehensive documentation is essential for developers looking to integrate their projects with Optimism.\n\nCommunity Building: My active participation in testnet phases and protocol interactions can contribute to building a supportive community around Optimism. Sharing my experiences and insights with others can help foster a collaborative environment and encourage more developers to get involved.\n\nScalability Testing: Interacting with various protocols on the testnet helps stress-test Optimism's scalability capabilities. This is crucial for ensuring that the Layer 2 solution can handle a high volume of transactions and smart contract interactions when deployed on the Ethereum mainnet.\n\n",
+  "contributionDescription": "My contribution to Optimism by helping with testnet phases and interacting with several protocols is an important and valuable role in the development and deployment of Layer 2 scaling solutions for Ethereum. Here's an elaboration on my contribution:\nTestnet Participation: My active involvement in testnet phases demonstrates my commitment to ensuring the robustness and reliability of Optimism's infrastructure. Testnets are essential for identifying and resolving issues before deploying to the Ethereum mainnet.Protocol Interaction: By interacting with several protocols, you play a crucial role in testing the compatibility and interoperability of Optimism with v\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0xE4369BE6dF50Aa406DB8212Ae00CF81917C848ea",
+      "description": "Wallet with transaction history showing protocol interaction and testnet use"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of transactions",
+      "number": "134",
+      "url": "https://optimistic.etherscan.io/address/0xE4369BE6dF50Aa406DB8212Ae00CF81917C848ea"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x39bd021f3a6dc1910f3fcc2a6aaab06f545b93277498a283542f4d3c62db7008",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

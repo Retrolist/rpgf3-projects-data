@@ -1,0 +1,67 @@
+{
+  "bio": "Just its me :D",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "romeji",
+  "websiteUrl": "https://twitter.com/R0meji",
+  "applicant": {
+    "address": {
+      "address": "0xF1D11d037344B14629fbCF094eA652ADe9f37A4a",
+      "resolvedName": {
+        "address": "0xF1D11d037344B14629fbCF094eA652ADe9f37A4a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xF1D11d037344B14629fbCF094eA652ADe9f37A4a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF1D11d037344B14629fbCF094eA652ADe9f37A4a.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF1D11d037344B14629fbCF094eA652ADe9f37A4a.jpeg",
+    "id": "OptimistProfile|0x965c21619fa2945912f5986a672efa550bed4d77b12872da2c9d4fff3d4366d8"
+  },
+  "impactDescription": "My job is to help new users understand Optimism's technology, I've translated over 40 blog articles into French and I've created several twitter threads, my content has allowed the French Optimism community who don't speak English well to understand and follow Optimism's evolution through the different translated blog articles. \n",
+  "contributionDescription": "I've translated about 42 articles from the Optimism blog, which you can read on my medium : \nhttps://medium.com/@Romeji/list/optimism-france-947c184fb663\n\nI've made a few twitter threads about optimism technology: https://x.com/R0meji/status/1703090598675104184?s=20",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@Romeji/list/optimism-france-947c184fb663",
+      "description": "Medium where I translated the Optimism articles"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/R0meji/status/1703090598675104184?s=20",
+      "description": "Twitter thread"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "translated blog posts ",
+      "number": "42",
+      "url": "https://medium.com/@Romeji/list/optimism-france-947c184fb663"
+    },
+    {
+      "description": "articles viewed since the beginning year",
+      "number": "286",
+      "url": "https://postimg.cc/kVnyndhL"
+    },
+    {
+      "description": "views ",
+      "number": "73",
+      "url": "https://twitter.com/R0meji/status/1703090598675104184"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1,
+      "description": "I've never had any income from my work"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x42973831828c000d6c8d01712c57be954f9510d5d5eb9785b2c9288093682394",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

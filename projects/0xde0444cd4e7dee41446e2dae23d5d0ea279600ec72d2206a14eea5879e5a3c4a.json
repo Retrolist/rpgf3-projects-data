@@ -1,0 +1,88 @@
+{
+  "bio": "Lodestar is a Typescript ecosystem for Ethereum consensus developed by ChainSafe",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "Lodestar",
+  "websiteUrl": "https://lodestar.chainsafe.io",
+  "applicant": {
+    "address": {
+      "address": "0xDaDd7c883288Cfe2E257B0A361865E5e9349808b",
+      "resolvedName": {
+        "address": "0xDaDd7c883288Cfe2E257B0A361865E5e9349808b",
+        "name": "philngo.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xDaDd7c883288Cfe2E257B0A361865E5e9349808b"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDaDd7c883288Cfe2E257B0A361865E5e9349808b.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xDaDd7c883288Cfe2E257B0A361865E5e9349808b.png",
+    "id": "OptimistProfile|0x7ed5c53166531dc2fbca2036aa6c0d03e3ceafedd0f4a92007b64bc021d30574"
+  },
+  "impactDescription": "- Project Manager Phil has been a badgeholder since RPGF Round 2 and contributed towards the governance, distribution and discussions relating to public goods funding\n- Lodestar strengthened Layer 1 client diversity in order to better secure layers dependent on Ethereum L1 such as Optimism\n- One of a few consensus clients implementing blob functionality to benefit L2 in the form of cheaper, scalable transactions/computation for stacks like Optimism\n- Actively involved in the design, testing and implementation of core Ethereum protocol\n- Actively maintaining the Ethereum Javascript ecosystem for protocol including js-libp2p, blst-ts, SSZ, discv5, c-kzg node bindings, etc.",
+  "contributionDescription": "Lodestar is a Typescript ecosystem for Ethereum consensus, developed by ChainSafe Systems. Our flagship products are our production-capable beacon chain and validator client. In addition, we maintain public repositories of useful tools for public use. Some of these libraries include BLS, SSZ, Discv5, Gossipsub, and Noise. \n\nActive work is being completed to support the OP Stack by enabling EIP-4844 blobs to benefit L2s like Optimism, reducing tx costs of L2 fees and increasing client diversity at the L1 protocol level. Additionally, some Lodestar team members have contributed to side projects such as Zipline Casper and to initiatives such as the Optimism Collective.\n\nWe fully support other teams in Protocol and projects which indirectly fund client team implementors such as Protocol Guild.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ChainSafe/lodestar",
+      "description": "Lodestar Repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://lodestar.chainsafe.io",
+      "description": "Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://chainsafe.github.io/Zipline-Casper/intro.html",
+      "description": "Zipline Casper"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/philngo.eth/",
+      "description": "Badgeholder Contributions"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Consensus Layer Staking Distribution",
+      "number": "1.2",
+      "url": "https://clientdiversity.org"
+    },
+    {
+      "description": "Holesky Testnet Validators",
+      "number": "100000",
+      "url": "https://github.com/eth-clients/holesky"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 79662.51,
+      "description": ""
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 71685,
+      "description": "Ethereum Foundation CIP Grants Revenue"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 768000,
+      "description": "Ethereum Foundation CIP Grant"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xde0444cd4e7dee41446e2dae23d5d0ea279600ec72d2206a14eea5879e5a3c4a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 84,
+  "primaryCategory": "OP Stack",
+  "recategorization": "Ethereum Development & Maintanance"
+}

@@ -1,0 +1,127 @@
+{
+  "bio": "I wish to contribute to the expansion of optimism in this world",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "AOF",
+  "websiteUrl": "https://twitter.com/the2108051426",
+  "applicant": {
+    "address": {
+      "address": "0x3a3CA9f09c8605c3d611A8E3b620d09e69df96B5",
+      "resolvedName": {
+        "address": "0x3a3CA9f09c8605c3d611A8E3b620d09e69df96B5",
+        "name": "porscheasia.ecc.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3a3CA9f09c8605c3d611A8E3b620d09e69df96B5"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3a3CA9f09c8605c3d611A8E3b620d09e69df96B5.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3a3CA9f09c8605c3d611A8E3b620d09e69df96B5.png",
+    "id": "OptimistProfile|0x856d4ec2d780923f7dea78aba05fe8bde4b90209e7c1c5cd5290c004488dfe38"
+  },
+  "impactDescription": "1. Reduce learning time by teaching people how to use new tools quickly and with familiarity.\n2. Discover tips for reducing expenses in many transactions, such as obtaining the ENS service domain from Optimism's technology at a reduced rate.\n3. Educate everyone how to develop an optimistic brand that will help both the community and them personally.\n4. Encourage others who have only recently entered the blockchain to enjoy themselves with Optimism's Era\n5. Protect community members from scammers.\n",
+  "contributionDescription": "I have been learning many projects of Optimism, including Dapp, DEX, and NFT, and sharing my understanding with people in my space. \nAdditionally, I joined the Thank You Optimism campaign, which is about sharing information and positive energy with people in the blockchain community while discussing many optimism ecosystems.\nIn terms of distribution, technology, and different tricks and methods for utilizing well-known Dapps, such as creating an extensive Twitter thread.\nIncluding doing research on NFT Projects that are very popular in Thailand.I promote how to be an Optimism ambassador through the Optimism Ambassador collection project on Youtube.\n.\nTo sum up, I have created a new learning curve for Thai teenagers who are interested in Blockchain and shortened the study period",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/the2108051426/status/1684208141972516864",
+      "description": "I explained how to use popular DeFi in detail on Optimism chain"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/the2108051426/status/1684212737444904961",
+      "description": "I explained the way to use Zapper.fi relate to watch overview of portfolio"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/the2108051426/status/1684216350443446273",
+      "description": "I explained the tool that help people avoid from scammers and protect his asset"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/the2108051426/status/1685235450779475969",
+      "description": "I shared trick how to spend a little cost to have ENS domain in the address"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/the2108051426/status/1685236860858355712?s=20",
+      "description": "I explained how to use Infinity Wallet in many details and easy to understand"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/the2108051426/status/1688262142846492672",
+      "description": "I share the famous Thai NFT project to the world and some details of NFT journey"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/the2108051426/status/1684211056648880128",
+      "description": "I shared trick how to save gas fee by using GasHawk"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1jJdMJmdUJCRCL7NE5TzwBQb46SgQyOgjNRDpBNi1Nis/edit?usp=sharing",
+      "description": "I researched Optiname the tool helping for people who need ENS with LOW cost"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1OfC3tda7NrntAlwVdayK2o5g5PC-ix3tkvalJumrskg/edit?usp=sharing",
+      "description": "I researched Thai NFT project that is popular in Thailand to be material for MKT"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=z0Mjex_uKAQ",
+      "description": "I created the video how to be an Optimism ambassador in deep detail  "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "View",
+      "number": "1100",
+      "url": "https://www.youtube.com/watch?v=z0Mjex_uKAQ"
+    },
+    {
+      "description": "View",
+      "number": "10700",
+      "url": "https://twitter.com/the2108051426/status/1684211056648880128"
+    },
+    {
+      "description": "View",
+      "number": "1308",
+      "url": "https://twitter.com/the2108051426/status/1684208141972516864"
+    },
+    {
+      "description": "View",
+      "number": "1220",
+      "url": "https://twitter.com/the2108051426/status/1684212737444904961"
+    },
+    {
+      "description": "View",
+      "number": "1082",
+      "url": "https://twitter.com/the2108051426/status/1684216350443446273"
+    },
+    {
+      "description": "View",
+      "number": "335",
+      "url": "https://twitter.com/the2108051426/status/1685235450779475969"
+    },
+    {
+      "description": "View",
+      "number": "228",
+      "url": "https://twitter.com/the2108051426/status/1688262142846492672"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 520,
+      "description": "(I have not received yet) Locked period : 1 year"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x988e06983c68bd53f4e41a1acb21a31fd42e2ef519d0ccede3a979ae1199ce1a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,116 @@
+{
+  "bio": "A cross-chain bridge for L2s & rollups secured by UMA's optimistic oracle",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Across Protocol",
+  "websiteUrl": "https://across.to/",
+  "applicant": {
+    "address": {
+      "address": "0x33DB27C21E0f7a2f3351A4C6DDceDFB9F713410b",
+      "resolvedName": {
+        "address": "0x33DB27C21E0f7a2f3351A4C6DDceDFB9F713410b",
+        "name": "brittm.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x33DB27C21E0f7a2f3351A4C6DDceDFB9F713410b"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33DB27C21E0f7a2f3351A4C6DDceDFB9F713410b.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x33DB27C21E0f7a2f3351A4C6DDceDFB9F713410b.png",
+    "id": "OptimistProfile|0x60e87c1329b8a281d94ff59d9db64d538906ad42ccec76a5f6fa6d4c3619ae61"
+  },
+  "impactDescription": "We are now consistently supporting around $2MM in daily bridge volume heading TO Optimism and have a cumulative volume bridged TO Optimism of $407,991,721. We've seen 89,977 unique users bridging TO Optimism with Across. \n\nIn a direct comparison of bridge fees between third-party bridges, Across saves users between 32 - 75%. This tweet thread by Across founder, Hart Lambur, describes how Across saves users by being extremely gas efficient in design (https://x.com/hal2001/status/1712839125051863252?s=20). \n\nAdditionally, Across consistently provides users with the fastest fill times. In fact, the only competitor that beats across in L2 - L2 fees has a huge time cost tradeoff, which can be seen in the spreadsheet provided in the metrics section below. ",
+  "contributionDescription": "Across is a cross-chain bridge that connects Optimism to other EVM chains, including Ethereum mainnet, Arbitrum One, Polygon, zkSync Era, and Base. Our unique architecture allows users to receive funds in less time and at a lower cost than many other bridges connected to Optimism, including the Optimism canonical bridge. We are also the largest 3rd party bridge in the Optimism ecosystem to use an optimistic settlement mechanism. Across is secured by UMA's Optimistic Oracle, and has withstood multiple attempted attacks without missing a beat. \n\nThe Across DAO also recently voted on Optimism as the second hub for our ACX token. This has led to nearly $500k in sticky TVL migrating to this pool in Velodrome:\nhttps://velodrome.finance/liquidity?query=ac  ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://velodrome.finance/liquidity?query=ac",
+      "description": "ACX liquidity hub on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.across.to/v/developer-docs/developers/contract-addresses/optimism-chain-id-10",
+      "description": "List of links to our OP contracts (docs site)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/across-protocol/contracts-v2",
+      "description": "Across contract repo"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.across.to/how-across-works/overview",
+      "description": "Overview on how Across works (docs site)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.across.to/how-across-works/security-model",
+      "description": "Overview of our security model (docs site)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/across-protocol/the-state-of-cross-chain-how-across-uses-capital-efficiency-to-save-users-money-bebd14180130",
+      "description": "Article - capital efficiency benefits for users"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/across-protocol/the-state-of-cross-chain-how-across-saves-on-gas-fees-and-why-that-matters-67757a4efc9a",
+      "description": "Article - lower gas fees for users"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/across-protocol/the-state-of-cross-chain-how-across-wins-on-speed-and-why-that-matters-cb38233d4a3b",
+      "description": "Article - faster speeds for users"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Cumulative volume bridged to Optimism",
+      "number": "407991721",
+      "url": "https://docs.google.com/spreadsheets/d/15gI2VPgcxW4gHEed7gVD3LrUuMv6Gz7J-f0QIqQ8yKA/edit?usp=sharing"
+    },
+    {
+      "description": "30D avg daily volume bridged to Optimism",
+      "number": "2067269",
+      "url": "https://docs.google.com/spreadsheets/d/15gI2VPgcxW4gHEed7gVD3LrUuMv6Gz7J-f0QIqQ8yKA/edit?usp=sharing"
+    },
+    {
+      "description": "cumulative users to Optimism",
+      "number": "89977",
+      "url": "https://docs.google.com/spreadsheets/d/15gI2VPgcxW4gHEed7gVD3LrUuMv6Gz7J-f0QIqQ8yKA/edit?usp=sharing"
+    },
+    {
+      "description": "Value of ACX pool on Optimism",
+      "number": "488414",
+      "url": "https://velodrome.finance/liquidity?query=ac"
+    },
+    {
+      "description": "gas premium of canonical bridge v Across",
+      "number": "1.3",
+      "url": "https://docs.google.com/spreadsheets/d/1oTAJgopKKPCnFVMVZ7mnhzgu_MlZeyI-NLhSCJLZZlE/edit#gid=1821487494"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 15038.62,
+      "description": ""
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 750000,
+      "description": "Incentives to distribute"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x91941c2cb8e8079a32813cfa72facb995b4803285685955ef4f4772cd525f50b",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 42,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,61 @@
+{
+  "bio": "Castle Capital provides research publications for the crypto space.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Castle Capital",
+  "websiteUrl": "https://www.castlecapital.vc/",
+  "applicant": {
+    "address": {
+      "address": "0x7ab066BCD945264e1B1C8d451CB3517c973e676c",
+      "resolvedName": {
+        "address": "0x7ab066BCD945264e1B1C8d451CB3517c973e676c",
+        "name": "atomist.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x7ab066BCD945264e1B1C8d451CB3517c973e676c"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7ab066BCD945264e1B1C8d451CB3517c973e676c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7ab066BCD945264e1B1C8d451CB3517c973e676c.png",
+    "id": "OptimistProfile|0xc4833716c51cb1aac46d176afc877cf208c9a97ab42811fe55e1d09aff921e29"
+  },
+  "impactDescription": "Our research publications educate and inform the space about many important topics, with a focus on both governance and technology helping to scale blockchains, allowing for new break-though applications. \n\nOur audience has been completely built in the bear market of 2023 meaning our reach is completely organic and made up of participants who have remained in the space this entire time.\n\nOur main objectives within the web3 space, which also applies to the Optimism ecosystem, are to provide educational insights, accountability, and transparency, and be an all-around valuable organization for the industry.",
+  "contributionDescription": "Besides covering Optimism related projects in our newsletter, we are midway through publishing a research series on Optimism RetroPGF Round 2:\n- Part 1: Breaking down the exact behavior of grant recipients (holding/selling/untraceable) and providing an open-source dashboard with their movements\n- Part 2: Diving into more detail for some of the recipients\n- Part 3: Our assessment of the RetroPGF and our recommendations for Optimism governance\n\nAdditionally, we have just kickstarted a research series on Modular Blockchain Architecture that breaks down the wider thesis on scaling blockchains, especially Ethereum. Find our initial intro piece here: https://chronicle.castlecapital.vc/p/modular-thesis-scaling-web3-rollups",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://chronicle.castlecapital.vc/",
+      "description": "Publication website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Publication Subscribers",
+      "number": "1388",
+      "url": "https://chronicle.castlecapital.vc/"
+    },
+    {
+      "description": "Twitter Followers",
+      "number": "4074",
+      "url": "https://twitter.com/Castle__Cap"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Our Research and Media arm runs completely on a voluntary basis as a public good"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x8dc985486bea3e55a0bf61a1622319985802a6a446a34b23d1c819811c10fb0f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 30,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

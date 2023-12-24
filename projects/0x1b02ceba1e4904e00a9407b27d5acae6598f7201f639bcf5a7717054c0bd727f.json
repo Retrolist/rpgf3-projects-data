@@ -1,0 +1,53 @@
+{
+  "bio": "hello all, Iam trader and investor",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "didikdwg",
+  "websiteUrl": "https://twitter.com/wahyudi9933",
+  "applicant": {
+    "address": {
+      "address": "0x9Ae3d7fFCfA14Df5C758bb895fAc23726779CF62",
+      "resolvedName": {
+        "address": "0x9Ae3d7fFCfA14Df5C758bb895fAc23726779CF62",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9Ae3d7fFCfA14Df5C758bb895fAc23726779CF62"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9Ae3d7fFCfA14Df5C758bb895fAc23726779CF62.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x62a1b6445cf38cb7ffd229a0e341a0a7fbc43ef6871c798c76fa1738c2a05289"
+  },
+  "impactDescription": "I want to be a solid community, involved in dao voting and other projects, helping the community develop while waiting for the bull market to come, that's my dream according to my hobby and work as a trader and investor, always involved in many new and old projects, because apart from my hobby I'm also a trader NFT, Optimism Quest is one of the NFTs that I have collected until now",
+  "contributionDescription": "I want to be a solid community, involved in dao voting and other projects, helping the community develop while waiting for the bull market to come, that's my dream according to my hobby and work as a trader and investor, always involved in many new and old projects, because apart from my hobby I'm also a trader NFT, Optimism Quest is one of the NFTs that I have collected until now",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/didikdwg",
+      "description": "0x9Ae3d7fFCfA14Df5C758bb895fAc23726779CF62"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "data in optimism scan",
+      "number": "99",
+      "url": "https://optimistic.etherscan.io/address/0x9Ae3d7fFCfA14Df5C758bb895fAc23726779CF62"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 26,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x1b02ceba1e4904e00a9407b27d5acae6598f7201f639bcf5a7717054c0bd727f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

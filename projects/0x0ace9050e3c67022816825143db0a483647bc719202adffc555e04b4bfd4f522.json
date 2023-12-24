@@ -1,0 +1,145 @@
+{
+  "bio": "The first bachelor-level study program based on Optimism NFT proofs.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Token Engineering Academy",
+  "websiteUrl": "https://tokenengineering.net",
+  "applicant": {
+    "address": {
+      "address": "0x3b067Af83F540cB827825a6Ee5480441a4237E77",
+      "resolvedName": {
+        "address": "0x3b067Af83F540cB827825a6Ee5480441a4237E77",
+        "name": "conectopia.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3b067Af83F540cB827825a6Ee5480441a4237E77"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3b067Af83F540cB827825a6Ee5480441a4237E77.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3b067Af83F540cB827825a6Ee5480441a4237E77.png",
+    "id": "OptimistProfile|0x5810bd69434978f9a08f517a90ef685983bfafa9c72c118cf572a9963e6b3236"
+  },
+  "impactDescription": "Since October 2022, TE Academy\u2019s comprehensive study programs have brought over 3000 active users to the Optimism Collective (A, B). \nAfter months of studying, students have minted 1000+ NFT proofs reflecting personal achievements. Students keep these account-bound NFTs forever (C).\nWe\u2019ve launched a new course in Sept 2023 specifically on Optimism NFTs & \u201cNFT-based Reputation in Web3\u201d (D).\nTE Academy brings diversity to the Optimism Collective by facilitating 46 peer-2-peer study groups across 14 languages (E).\nOur #TEWeeklyReads newsletter shares the most relevant token engineering developments with 5K+ subscribers with an 40% open rate, and features Optimism in every edition (F).\nOptimism ambassador Fuji AR\u2019s TE Academy feature was also awarded first place by the Optimism community (G).",
+  "contributionDescription": "Token Engineering (TE) is a new crypto-native discipline combining computer science, economics, game theory, data science, and more. It is relevant for any protocol or DApp aiming for a successful token network. In this early stage of the field, it\u2019s a problem for projects to find the right experts, and it\u2019s challenging for token engineers to acquire and prove expertise. \nSince October 2022, TE Academy has built a comprehensive study program for aspiring token engineers available as a public good, and brought TE to major crypto events. Today, more than 3000 students are building their professional careers with NFT proofs on Optimism. For the first time in history, we are witnessing the emergence of a new engineering discipline on-chain - on the OP Mainnet!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://tokenengineering.net/course/tefundamentals-module1/",
+      "description": "TE Fundamentals Module 1, online course and NFT details"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tokenengineering.net/course/tef-module2/",
+      "description": "TE Fundamentals Module 2, online course and NFT details"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tokenengineering.net/course/tef-module3/",
+      "description": "TE Fundamentals Module 3, online course and NFT details"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tokenengineering.net/course/tef-module4/",
+      "description": "TE Fundamentals Module 4, online course and NFT details"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tokenengineering.net/course/tef-module5/",
+      "description": "TE Fundamentals Module 5, online course and NFT details"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tokenengineering.net/event/",
+      "description": "TE Academy Monthly Educational Events"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@TE-Academy/playlists",
+      "description": "Recordings of the TE Track day @EthCC & TE Barcamp July 2023 we\u2019ve organized"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "(A) # of total enrollments (20231020)",
+      "number": "5611",
+      "url": "https://tokenengineering.net/explore/"
+    },
+    {
+      "description": "(B) # of students (20231020)",
+      "number": "3350",
+      "url": "https://drive.google.com/file/d/1lN85NBM2z1vHsalCZJEUZVbbFpG8qxsb/view?usp=sharing"
+    },
+    {
+      "description": "(C) # NFT Proofs students minted",
+      "number": "1023",
+      "url": "https://optimistic.etherscan.io/advanced-filter?fadd=0x18bf4795806640eb750ef047584a619b1e2a8a3c&txntype=0&mtd=0xec64948e%7eGive"
+    },
+    {
+      "description": "(D) NFT-based Reput #enrolled (20231020)",
+      "number": "106",
+      "url": "https://tokenengineering.net/explore/"
+    },
+    {
+      "description": "(E) # TE Fundamentals StudyGroups ",
+      "number": "46",
+      "url": "https://te-academy.notion.site/TE-Fundamentals-Study-Groups-f804dba0577e44578f56c853c20cc91d?pvs=4"
+    },
+    {
+      "description": "(F) Newsletter average open rate %",
+      "number": "40",
+      "url": "https://drive.google.com/file/d/1lEMws7NgNo3VflJq3ulb1oCAhCHawZCE/view?usp=sharing"
+    },
+    {
+      "description": "(G) Optimism Ambassador RetroPGF award",
+      "number": "1",
+      "url": "https://x.com/thankoptimism/status/1709865861517820081?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 64000,
+      "description": "TE Commons Grant (Dec 2022)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 60000,
+      "description": "TE Commons Grant (April 2023) "
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 57564.71,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 25000,
+      "description": "ENS DAO Public Goods Large Grants (June 2023)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2750,
+      "description": "Barcamp Sponsorships (July 2023)"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 2695,
+      "description": "Student donations and revenues"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0ace9050e3c67022816825143db0a483647bc719202adffc555e04b4bfd4f522",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 40,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

@@ -1,0 +1,45 @@
+{
+  "bio": "Free",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Susija",
+  "websiteUrl": "https://twitter.com",
+  "applicant": {
+    "address": {
+      "address": "0x3124337ef2654d4a5820d6ce8da2d4617Ee8695B",
+      "resolvedName": {
+        "address": "0x3124337ef2654d4a5820d6ce8da2d4617Ee8695B",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3124337ef2654d4a5820d6ce8da2d4617Ee8695B"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x25a35abc1e42b40f32c237358d190433bed9b27e1198510d41cd94499145158b"
+  },
+  "impactDescription": "This part of your application helps badgeholders understand how your work has benefitted the Optimism Collective. We strongly encourage you spend time going into detail here free Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.",
+  "contributionDescription": "This part of your application helps badgeholders understand how your work has benefitted the Optimism Collective. We strongly encourage you spend time going into detail here Describe your contribution(s) to Optimism\nPlease share the contributions you wish to receive RetroPGF for.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com",
+      "description": "Free"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Download",
+      "number": "250",
+      "url": "https://twitter.com/download"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xcba14301a424939c10007b06fe13a0786fabe52bb31581fb074f39cc5adb3d62",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

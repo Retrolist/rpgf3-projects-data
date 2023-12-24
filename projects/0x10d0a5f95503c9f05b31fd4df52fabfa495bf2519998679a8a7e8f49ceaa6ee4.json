@@ -1,0 +1,90 @@
+{
+  "bio": "I'M NEW HERE, the definitive feature film about crypto-art and web3 culture",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "I'M NEW HERE",
+  "websiteUrl": "https://www.newhere.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xf20f2840492036b8c759CdE7a9f4b08b73396F05",
+      "resolvedName": {
+        "address": "0xf20f2840492036b8c759CdE7a9f4b08b73396F05",
+        "name": "feverdreamer.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xf20f2840492036b8c759CdE7a9f4b08b73396F05"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf20f2840492036b8c759CdE7a9f4b08b73396F05.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf20f2840492036b8c759CdE7a9f4b08b73396F05.png",
+    "id": "OptimistProfile|0xca73ccdaeba110c9ff2093c8a1637d1b0d3e7cbc4d6d812ff2c1b932c08ab9f3"
+  },
+  "impactDescription": "Since Spring 2023, the NEW HERE SHORTS and the feature film, unreleased publicly, gained attention through private showings, educating respective audiences of traditional art collectors and film investors about web3.\n\nAt NFT.NYC June 2022, we hosted a panel with artists Tyler Hobbs, artnome, and Sarah Zucker. At NFT.NYC April 2023, we screened 2 NEW HERE SHORTS to massive acclaim.\n\nIn September 2023, Sundance presented samples from our film at its 200-person investor forum, where we also led panels about web3/AI's future in the industry.\n\nOur NFT \"NEWBIES\",  have onboarded hundreds to cryptoart, and facilitated ongoing artist collaborations (8 to date).",
+  "contributionDescription": "I\u2019M NEW HERE, by Sundance-winner  Dan Sickles and Oscar-winner Shane Boris, chronicles the rise, fall, and future of the NFT art movement. Aiming to demystify the cryptosphere and celebrate its pioneers, the film has been dubbed \"the defining film about Web3 culture\" by Raoul Pal. The project also includes NEW HERE SHORTS, an 11-episode artist-profile series, and the \u201cNEWBIE\u201d NFT collection. Designed as an ensemble film, I\u2019M NEW HERE\u2019s story is \"decentralized\", collating over 100 interviews. Still in post-production for a Fall 2024 release, it blends fiction, live-action, 2D/3D animation, and AI. Through private screenings of both the SHORTS and samples of the feature film, the project has already begun to make waves.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": " https://www.newhere.xyz/",
+      "description": "feature film website and also home to NEW HERE NFT collection \u201cNEWBIES\u201d"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.secretundercoverproject.com/",
+      "description": "(pw: hotdogvoodoo) - Link to the staging site for the NEW HERE SHORTS"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "NFT collection stats (tab 1) total mints",
+      "number": "3932",
+      "url": "https://docs.google.com/spreadsheets/d/1RqpHpwPr-WWuUA1vc4X1edzP8t8ie8u-kzV4yZeDj0Q/edit?usp=sharing"
+    },
+    {
+      "description": "social stats (tab 2) impressions to date",
+      "number": "750000",
+      "url": "https://docs.google.com/spreadsheets/d/1RqpHpwPr-WWuUA1vc4X1edzP8t8ie8u-kzV4yZeDj0Q/edit?usp=sharing"
+    },
+    {
+      "description": "PR  (tab 3) total impressions",
+      "number": "135300",
+      "url": "https://docs.google.com/spreadsheets/d/1RqpHpwPr-WWuUA1vc4X1edzP8t8ie8u-kzV4yZeDj0Q/edit#gid=777253775"
+    },
+    {
+      "description": "live events (tab 4) attendees",
+      "number": "400",
+      "url": "https://docs.google.com/spreadsheets/d/1RqpHpwPr-WWuUA1vc4X1edzP8t8ie8u-kzV4yZeDj0Q/edit#gid=777253775"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 201000,
+      "description": "self-generated revenue from NFT collection"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000000,
+      "description": "non recoupable grant from Coinbase "
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100000,
+      "description": "recoupable grant- private funder"
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1130000,
+      "description": "private investors "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x10d0a5f95503c9f05b31fd4df52fabfa495bf2519998679a8a7e8f49ceaa6ee4",
+  "prelimResult": "Remove",
+  "reportReason": "Film is not public but only private screenings, NFTs are not on Optimism"
+}

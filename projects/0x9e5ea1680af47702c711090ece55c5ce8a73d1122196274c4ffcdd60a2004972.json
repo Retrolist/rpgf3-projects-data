@@ -1,0 +1,118 @@
+{
+  "bio": "Ethical, safe, resilient and diverse economic systems to benefit the world.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Token Engineering Commons",
+  "websiteUrl": "https://tecommons.org/",
+  "applicant": {
+    "address": {
+      "address": "0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B",
+      "resolvedName": {
+        "address": "0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B.png",
+    "id": "OptimistProfile|0x419fa26627d4b8e10c3bc8f519a258d60277a9f5295865f7644978d3d2a58e22"
+  },
+  "impactDescription": "Optimism is now benefiting from TEC cultural investments in Praise and Gravity. Our $174K in grants to the Token Engineering Academy has helped grow Optimism\u2019s talent pool with graduates like Jonas, who now runs its RetroPGF. Other relevant TEC grants include:\n\n- $30K to Inverter, whose programmable smart contract workflows help app developers deploy on Optimism.\n- $54K to cadCAD, a tool used by the EF and others for Ethereum research (e.g. beacon chain, EIP-1559)\n\nOur latest Gitcoin Token Engineering Grants Round generated 2,608 contributions from 1,837 individuals on Optimism. It also uses Optimism-based \u201cknowledge proof\u201d NFTs to give an \u201cexpertise boost\u201d to 192 Academy students. These rounds help bring the highly technical token engineering community to the Optimism developer ecosystem.",
+  "contributionDescription": "The Token Engineering Commons (TEC) supports the economic development of the field of token engineering. Since its launch in early 2022, the TEC has granted $470K to bringing engineering rigor to the development of crypto-economic systems. These grants build public faith that is critical to the widespread adoption of blockchain technologies. Our support has also directly benefited Optimism, including Inverter\u2019s programmable smart contract workflows, cadCAD\u2019s Ethereum models, Gravity DAO\u2019s dispute resolution, Praise\u2019s peer-based attested reputation, and the Token Engineering Academy\u2019s graduates. Additionally, the TEC attracts token engineering practitioners to the Optimism developer ecosystem by running our Gitcoin Token Engineering Grants Round on Optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://explorer.gitcoin.co/#/round/10/0xc5fdf5cff79e92fac1d6efa725c319248d279200",
+      "description": "Latest Gitcoin Token Engineering Grants Round on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/token-engineering-commons/expertise-and-quadratic-funding-bd4f0c5c3e23",
+      "description": "Infusing expertise into Quadratic Funding with OP-based NFTs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.ethmodel.io/",
+      "description": "Example simulations for Ether's economic policy done with cadCAD "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cadcad.org/",
+      "description": "cadCAD website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.inverter.network/",
+      "description": "Inverter Network website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ossgrants.com/tec/",
+      "description": "OSS Grants with NumFOCUS (pandas, numpy...) for scientific computation <> web3"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Contributors to TE Grants Round on OP",
+      "number": "1837",
+      "url": "https://docs.google.com/document/d/e/2PACX-1vR3QzKYNLCell6u6NAJKYcK9hjj_lTOgdlZApnaekwEm_mvOSCASEio0NKXsk-GKqpw-mEGUq-zG0H6/pub"
+    },
+    {
+      "description": "$ Value of Grant to CadCAD",
+      "number": "54000",
+      "url": "https://forum.tecommons.org/t/cadcad-community-funding-proposal-ama-session/938"
+    },
+    {
+      "description": "$ Value of Grant to Inverter Network",
+      "number": "30000",
+      "url": "https://forum.tecommons.org/t/dogfooding-the-proposal-inverter-tec-as-a-payer-funder-sponsor/804"
+    },
+    {
+      "description": "$ Value of Grant to Gravity",
+      "number": "76800",
+      "url": "https://dune.com/tec/tec-grants-v3"
+    },
+    {
+      "description": "$ Value of Grant to NumFocus",
+      "number": "25000",
+      "url": "https://forum.tecommons.org/t/numfocus-donation-putting-our-money-where-our-mouth-is-with-regard-to-supporting-open-source/927"
+    },
+    {
+      "description": "$ Value of Total Grants to TE Academy",
+      "number": "174000",
+      "url": "https://dune.com/queries/3013623/5003405"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 25000,
+      "description": "$25000 (of $50K) for a joint ENS Large Grant with the TE Academy"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1400,
+      "description": "Giveth contributions"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5140,
+      "description": "Gitcoin contributions and matching grants"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9e5ea1680af47702c711090ece55c5ce8a73d1122196274c4ffcdd60a2004972",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 56,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

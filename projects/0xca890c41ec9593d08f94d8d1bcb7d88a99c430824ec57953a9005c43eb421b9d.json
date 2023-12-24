@@ -1,0 +1,52 @@
+{
+  "bio": "I'm a defi nerd who loves charts and their patterns. content creator ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "mallucryptologist",
+  "websiteUrl": "https://www.youtube.com/@mallucryptologist",
+  "applicant": {
+    "address": {
+      "address": "0x9CDb231Cd70B7522c2b43ad18240649f9599F4BE",
+      "resolvedName": {
+        "address": "0x9CDb231Cd70B7522c2b43ad18240649f9599F4BE",
+        "name": "mallucryptologist.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x9CDb231Cd70B7522c2b43ad18240649f9599F4BE"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9CDb231Cd70B7522c2b43ad18240649f9599F4BE.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x9CDb231Cd70B7522c2b43ad18240649f9599F4BE.png",
+    "id": "OptimistProfile|0xce3260e659dcf163d33920f7c86e7dda63c1b3c3d2d8088013b9ba5c6df26062"
+  },
+  "impactDescription": "As an early Synthetix user, I firmly believe that Optimism played a crucial role in the protocol's success. I actively participated in community meetings and discussions to foster the growth of Optimism within the DeFi ecosystem.\n\nOn my part, I created educational content about Optimism and layer 2 mechanisms for the Malayalam-speaking community. The feedback from the community was overwhelmingly positive, and I believe I played a role in onboarding new users and realistically educating them about Optimism.",
+  "contributionDescription": "I have been an early adopter of the Optimism ecosystem since Synthetix launched on the platform. I actively participate in various DeFi communities such as Synthetix, Polynomial, and Velodrome, contributing in multiple ways and providing feedback to these projects.\n\nOne of my main activities is creating content in Malayalam, a local Indian language, to educate people in my community about Optimism and its DeFi protocols. My goal is to onboard as many individuals as possible by providing them with the right knowledge and guidance in content creation.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@mallucryptologist",
+      "description": "My main content creation platform is YouTube, where I educate prople"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Youtube impressions",
+      "number": "2000000",
+      "url": "https://thoughtful-textbook-bd7.notion.site/Mallucryptologist-OP-RetroPGF-3-d359232809ca40c88b2409bc1c301622"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 404,
+      "description": "Revenue got from Youtube in the past 2 years of content creation."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xca890c41ec9593d08f94d8d1bcb7d88a99c430824ec57953a9005c43eb421b9d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

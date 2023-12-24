@@ -1,0 +1,52 @@
+{
+  "bio": "i want to make some helpful impact to my local blockchain scene",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "alex",
+  "websiteUrl": "https://twitter.com/LayupAlex",
+  "applicant": {
+    "address": {
+      "address": "0x43B298b18850EC33e4A0C392fa53E5192Ccd935C",
+      "resolvedName": {
+        "address": "0x43B298b18850EC33e4A0C392fa53E5192Ccd935C",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x43B298b18850EC33e4A0C392fa53E5192Ccd935C"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x43B298b18850EC33e4A0C392fa53E5192Ccd935C.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x43B298b18850EC33e4A0C392fa53E5192Ccd935C.png",
+    "id": "OptimistProfile|0xcce7a993d248df78ca98e4c28602803816ca90d3683900953490a5ab5f81b8c5"
+  },
+  "impactDescription": "helping my community explore 18 quest of galxe optimism quest                                                             \n                                                                                                                                             ",
+  "contributionDescription": "i have a telegram community and can help with educate content to my community                                                            \n                                                                                                                                       ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/LayupAlex",
+      "description": "my personal social account"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "educate",
+      "number": "100",
+      "url": "https://twitter.com/LayupAlex"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9f2ee1084f9a93a3e5d75ba56e84cd5657205dc2f2c5c154ab8ef90fd84d1120",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

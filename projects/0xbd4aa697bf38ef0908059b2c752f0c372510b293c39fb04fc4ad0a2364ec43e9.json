@@ -1,0 +1,52 @@
+{
+  "bio": "gass fee is life",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "chamsmith",
+  "websiteUrl": "https://youtube.com/@artistkie5015?si=auRrx3mefibcXTXs",
+  "applicant": {
+    "address": {
+      "address": "0xEDA82Eb2832e7EA9df08ADD004474498d787fac2",
+      "resolvedName": {
+        "address": "0xEDA82Eb2832e7EA9df08ADD004474498d787fac2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xEDA82Eb2832e7EA9df08ADD004474498d787fac2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEDA82Eb2832e7EA9df08ADD004474498d787fac2.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xEDA82Eb2832e7EA9df08ADD004474498d787fac2.png",
+    "id": "OptimistProfile|0xecccaef2e2323a28558374e44bf9995ccec91b52a9274a64559abae018d84ad3"
+  },
+  "impactDescription": "my impact contribution to Optimism collective is end user experience and adoption because i share knowledge about the goods of using optimism, low fees, user friendly, to my friends throughout social media, how good using optimism, great impact in using optimism like minting nfts, participating in various events. ",
+  "contributionDescription": "contribute to Optimism through minting nfts, sharing knowledge with my fellow users, participating in some of minting nfts in optimism network, also project that connected to using optimism, which have great benefits for me while contributing to Optimism in collecting nfts in optimism network, help network to be used happy",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xEDA82Eb2832e7EA9df08ADD004474498d787fac2",
+      "description": "nfts"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "nfts",
+      "number": "26",
+      "url": "https://optimistic.etherscan.io/address/0xEDA82Eb2832e7EA9df08ADD004474498d787fac2"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xbd4aa697bf38ef0908059b2c752f0c372510b293c39fb04fc4ad0a2364ec43e9",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

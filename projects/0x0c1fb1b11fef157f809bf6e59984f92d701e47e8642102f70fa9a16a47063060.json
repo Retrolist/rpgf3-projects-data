@@ -1,0 +1,45 @@
+{
+  "bio": "@cadlth",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Carlos De La Torre Hernandez",
+  "websiteUrl": "https://twitter.com/cadlth",
+  "applicant": {
+    "address": {
+      "address": "0xCd398440eD0925d1aBed321AB9893c8aCD95088a",
+      "resolvedName": {
+        "address": "0xCd398440eD0925d1aBed321AB9893c8aCD95088a",
+        "name": "cadlth.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xCd398440eD0925d1aBed321AB9893c8aCD95088a"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCd398440eD0925d1aBed321AB9893c8aCD95088a.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xCd398440eD0925d1aBed321AB9893c8aCD95088a.jpeg",
+    "id": "OptimistProfile|0xa91ca6dcc13f6641399a19cf4add28c3b0bc2c8281563c87a68b1d216af575b4"
+  },
+  "impactDescription": "@cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth",
+  "contributionDescription": "@cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth @cadlth",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/cadlth",
+      "description": "@cadlth"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "24",
+      "number": "24",
+      "url": "https://twitter.com/cadlth"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x0c1fb1b11fef157f809bf6e59984f92d701e47e8642102f70fa9a16a47063060",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

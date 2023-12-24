@@ -1,0 +1,59 @@
+{
+  "bio": "Content creator",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "olaitantm",
+  "websiteUrl": "https://www.youtube.com/@blockchainaffairs",
+  "applicant": {
+    "address": {
+      "address": "0x8e1343508cbA64EB1AE15C17182685b4e38F37e1",
+      "resolvedName": {
+        "address": "0x8e1343508cbA64EB1AE15C17182685b4e38F37e1",
+        "name": "olaitantm.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8e1343508cbA64EB1AE15C17182685b4e38F37e1"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb824cc69898e4b114a30be9d193a6a9ffc15a9dbbdffedcc57e11db0162d558e"
+  },
+  "impactDescription": "How-to-do videos to guide end-users on Optimism dApps. This helps newbies a lot.\nI wish to be able to do more for progress of Optimism chain and decentralized applications. I am passionate about teaching and learning. I want the world at large to embrace blockchain technology",
+  "contributionDescription": "I teach through my how-to-do videos on usage of Optimism dApps. This has really been helpful to newbies and educative to a lot of users. I wish to be able to do more for progress of Optimism chain and decentralized applications. I am passionate about teaching.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.youtube.com/watch?v=3htV5HW0isA&t=3s",
+      "description": "OP Bridgooor NFT - free mint - Qx airdrop (100,000 supply)"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.youtube.com/watch?v=C-vx8-GHB6U",
+      "description": "How to check your Collab Land Genesis Membership NFT for $COLLAB Airdrop Claim"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": "80000",
+      "url": "https://www.youtube.com/@blockchainaffairs"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": "To get good software and learn animation FX for quality production"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7163f4548acbf7e8b3edc104586bc67f95fb6228860bcd23bddedeca2498ba63",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

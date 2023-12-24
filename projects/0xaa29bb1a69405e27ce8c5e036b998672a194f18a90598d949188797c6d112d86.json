@@ -1,0 +1,52 @@
+{
+  "bio": "Web3 KOL .Skilled in community management, social media marketing",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Zero",
+  "websiteUrl": "https://twitter.com/StabZer0",
+  "applicant": {
+    "address": {
+      "address": "0x7B5E58994020Fc30836D8506bcD8739385fb5f38",
+      "resolvedName": {
+        "address": "0x7B5E58994020Fc30836D8506bcD8739385fb5f38",
+        "name": "stablock.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x7B5E58994020Fc30836D8506bcD8739385fb5f38"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7B5E58994020Fc30836D8506bcD8739385fb5f38.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7B5E58994020Fc30836D8506bcD8739385fb5f38.jpeg",
+    "id": "OptimistProfile|0x6c8103d4b0e8d274d76f64c9219924c6a8bcd02c25a8e7dd07ca9adde44a972f"
+  },
+  "impactDescription": "As an influential KOL in Web3 space, I can leverage my extensive social reach and community to drive new user acquisition for Optimism Collective. Through tailored social campaigns and community activations, I will promote Optimism's benefits to decentralized finance users and attract new members. By hosting AMAs and creating educational content, I can clearly communicate Optimism's value propositions to onboard new users. With my experience managing communities, I can also engage existing users by fostering an inclusive environment and organizing impactful initiatives that demonstrate Optimism's possibilities. My KOL marketing expertise will raise Optimism's profile and build meaningful connections between the protocol and end users worldwide.",
+  "contributionDescription": "I'm Zero, a top KOL in crypto & Web3. I specialize in project promotion through my extensive social channels including Twitter, Discord & Telegram where I've built a large, engaged following. My tailored KOL marketing drives growth through regular project updates, previews & AMAs. I'm passionate about elevating promising Web3 projects through my social influence. Let's discuss collaborating to maximize your project's visibility. My KOL services amplify exposure.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/StabZer0",
+      "description": "https://twitter.com/StabZer0"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Invite new user",
+      "number": "20000",
+      "url": "https://twitter.com/StabZer0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xaa29bb1a69405e27ce8c5e036b998672a194f18a90598d949188797c6d112d86",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

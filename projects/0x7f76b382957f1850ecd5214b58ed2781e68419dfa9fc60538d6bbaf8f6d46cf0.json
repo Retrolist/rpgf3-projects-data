@@ -1,0 +1,55 @@
+{
+  "bio": "crypto & music NFTs enthusiast ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Ngoc Nam",
+  "websiteUrl": "https://twitter.com/ngocnam8992",
+  "applicant": {
+    "address": {
+      "address": "0xc1490ACE8c1805F98b309971dad72503167a6FA9",
+      "resolvedName": {
+        "address": "0xc1490ACE8c1805F98b309971dad72503167a6FA9",
+        "name": "sonofthe.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xc1490ACE8c1805F98b309971dad72503167a6FA9"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc1490ACE8c1805F98b309971dad72503167a6FA9.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x47c8f4a127ae2fa0bf665fcf47f1d8032156a9ea43c459dbd7dcdb2cab33a34d"
+  },
+  "impactDescription": "-Collected  more than 350 music NFTs, mostly on OP, backed 40 artists, introduced music NFTs directly to more than 30 people , more than 10 of them made confirmed collecting actions ,strongly supported to these names : Rohki , Danial Allan, Sadye, TK,weghost... \n-Educated people around about opportunities on OP ecosystem, focus on music NFTs, lowest-fastest layer 2, optimized layer as its name. Some of them are dev (from level finance) and freelance coder who had more than 5 yrs in crypto . Promoted KOLs who writing reviews about music NFT products on Sound.xyz (@nhagio_o, @hanpro20,@SolitaryVegeta)",
+  "contributionDescription": "-Be a part of Camel community, we promoted collecting  music NFTs on Optimism chain, bringing more revenue directly to artists, no third parties included, promote artists to creates more and more products . Beside, this action could attract more traditional artist and their fans to join web3, specially  using OP layer to optimize cost for both them and their followers\n-Raising web2 people's awareness about opportunities on OP ecosystem through twitter, telegram and discord; focusing on music NFTs, lowest-fastest layer 2, optimized layer as its name\n-Active user on OP, using dapp such as Uniswap, stargate , multichain, sushiswap, 1inch, mint fun",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/user/sonofthe.eth",
+      "description": "my profile on sound.xyz "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xc1490ace8c1805f98b309971dad72503167a6fa9",
+      "description": "User activities on OP"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "promote artist Sadye on twitter",
+      "number": "1",
+      "url": "https://twitter.com/ngocnam8992/status/1687886281102249984"
+    },
+    {
+      "description": "Discuss about current situation on sound",
+      "number": "2",
+      "url": "https://twitter.com/ngocnam8992/status/1703616943964750021"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7f76b382957f1850ecd5214b58ed2781e68419dfa9fc60538d6bbaf8f6d46cf0",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,159 @@
+{
+  "bio": "Researcher & Content Creator focusing on modular scaling, rollups & zk tech!",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "zerokn0wledge",
+  "websiteUrl": "https://bit.ly/zer0kn0wledge",
+  "applicant": {
+    "address": {
+      "address": "0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252",
+      "resolvedName": {
+        "address": "0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252",
+        "name": "mrkusama.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg",
+    "id": "OptimistProfile|0x498fa8811874974758b41d89b76b4865a866acf74647008fee3656a7df8152b8"
+  },
+  "impactDescription": "With my content I have educated users and thereby created turst/credibility. Furthermore, I have inspired new users to join the Collective. By familiarizing people with the technology & educating them about the trust assumptions that underly the networks, I contributed to growing the community, as is evidenced by the significant reach of my posts/threads (see google sheet linked below).\n\nAdditionally, my more technical content is empowering builders to design highly customized app-specific rollups on the OP-Stack & piece together the ideal network configs for their specific use cases, also through RaaS like Caldera. By educating builders about the advantages of modular execution layers, I help to grow the OP Stack's ecosystem of builders and subsequently chains in the Superchain vision.",
+  "contributionDescription": "As a researcher & content creator with a strong focus on rollups, modular scaling and zk tech, I have published a lot of educational resources to educate people on how rollups work, why they matter and what the benefits, drawbacks, differences & underlying trust assumptions of these systems are. \n\nWhile a lot of my content is aimed at a rather broad audience of users that can range from non-technical to tech-savvy, I also create more in-depth / technical content on modular blockchain architecture & zk tech. This kind of content, is slightly more geared towards a technical audience including builders and devs. The goal is to empower them to build out customized & optimized execution layers on top of Ethereum's battle-tested security guarantees that are more performant and secure.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/expctchaos/status/1532284723183210496",
+      "description": "Twitter thread on Optimism Bedrock"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/zerokn0wledge_/status/1706265085662920714",
+      "description": "Twitter post on OP-Stack and Superchain vision"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/zerokn0wledge_/status/1691858018772701531",
+      "description": "Twitter post on Superchain and atomicity"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/expctchaos/status/1678833185348816898",
+      "description": "Manta Network's OP-Stack based zk Execution Layer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/zerokn0wledge_/status/1684269204151881728",
+      "description": "Twitter thread providing comprehensive L2 overview (mentions OP)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/expctchaos/status/1527434609637478400",
+      "description": "Twitter thread on the broader rollup landscape (mentions OP)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/zerokn0wledge_/status/1702942883224129985",
+      "description": "Twitter thread on the rollup-centric ETH 2.0 roadmap"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zkmedia.substack.com/p/scaling-ethereum-on-rollups?utm_source=profile&utm_medium=reader2",
+      "description": "Long form article on scaling Ethereum on rollups (mentioning Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/expctchaos/status/1527419709616013313",
+      "description": "Twitter thread on scaling Ethereum on rollups (mentioning Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/zerokn0wledge_/status/1649125801735098370",
+      "description": "Twitter thread on rollup centralization risks"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/expctchaos/status/1661666059190161409",
+      "description": "Twitter thread about types of app-specific rollups (mentioning Caldera)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/expctchaos/status/1696274817048330453",
+      "description": "Twitter thread on L2 / L3 tech stack comparison (mentioning Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/expctchaos/status/1532100096111824901",
+      "description": "Twitter thread on EIP-4844 (proto-danksharding)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/zerokn0wledge_/status/1660744845361827841",
+      "description": "Twitter thread on a trust framework for rollups"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/zerokn0wledge_/status/1682359858119741443",
+      "description": "Twitter thread on taking the training wheels off rollups"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/zerokn0wledge_/status/1702563747254960414",
+      "description": "Twitter post on EIP4844"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/zerokn0wledge_/status/1701464308956230052",
+      "description": "Twitter post on the DA problem"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/expctchaos/status/1661794274206445569",
+      "description": "Twitter thread on Ethereum call data costs for rollups"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/expctchaos/status/1663213648121307141",
+      "description": "Thread on comparison of different DA layers that devs could work with"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/zerokn0wledge_/status/1601534426592071681",
+      "description": "Collection of threads on modular blockchain architecture"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/expctchaos/status/1689631858873733123",
+      "description": "Thread on zk-powered fraud proving for rollups"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/zerokn0wledge_/status/1703716152441278744",
+      "description": "Thread on fast finality for rollups through EigenSettle"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://bit.ly/zer0kn0wledge",
+      "description": "Link to Full Content Database on Notion"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total Views/Reach of above Content",
+      "number": "266897",
+      "url": "https://docs.google.com/spreadsheets/d/1_xfwqxO7--y0AzVKEbVKYAYh-3DGnx0W2MkCeVQ_Bug/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 24,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

@@ -1,0 +1,52 @@
+{
+  "bio": "Founder Community: https://t.me/cryptodropvn Bullish on Optimism",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Andy",
+  "websiteUrl": "https://www.youtube.com/channel/UC093LhJQcQjbFStySMKO_1Q",
+  "applicant": {
+    "address": {
+      "address": "0xDDC9cc6b612C9FFB84f0D4A1c1C5d960b2C4eECF",
+      "resolvedName": {
+        "address": "0xDDC9cc6b612C9FFB84f0D4A1c1C5d960b2C4eECF",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xDDC9cc6b612C9FFB84f0D4A1c1C5d960b2C4eECF"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDDC9cc6b612C9FFB84f0D4A1c1C5d960b2C4eECF.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xDDC9cc6b612C9FFB84f0D4A1c1C5d960b2C4eECF.png",
+    "id": "OptimistProfile|0x4b46755933ec0059cfe823218399985ee14c7717e3bb479537e29f29c9f9da3b"
+  },
+  "impactDescription": "Through my insightful analysis, I've offered viewers and listeners an in-depth understanding of the technical architecture, scalability solutions, and security measures of Optimism. This information has enabled potential users and investors to make informed decisions, driving greater participation in the Optimism ecosystem.",
+  "contributionDescription": "My contributions to the Optimism community include providing comprehensive explanations of the project, its core principles, and its potential impact on the world of blockchain and decentralized applications. I have created content that simplifies complex technical concepts, making them accessible to a wider audience. By dissecting the innovative features and benefits of Optimism, I have empowered users and developers to explore the platform with confidence.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/channel/UC093LhJQcQjbFStySMKO_1Q",
+      "description": " I share in-depth explanations and analyses of Optimism"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "video",
+      "number": "2",
+      "url": "https://twitter.com/cryptodropvn"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x8ff6bb4b7782e630ac3b21bb69758446f7d6bf94fac3d6ce22ef158c8dad27c7",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

@@ -1,0 +1,71 @@
+{
+  "bio": "Ether.actor is a HTTP debugging toolkit for EVM-based chains.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Ether.actor",
+  "websiteUrl": "https://ether.actor/",
+  "applicant": {
+    "address": {
+      "address": "0xa2Fe4742A62aCf666DdbF055ad0A04E19ecC1B2B",
+      "resolvedName": {
+        "address": "0xa2Fe4742A62aCf666DdbF055ad0A04E19ecC1B2B",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa2Fe4742A62aCf666DdbF055ad0A04E19ecC1B2B"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa2Fe4742A62aCf666DdbF055ad0A04E19ecC1B2B.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa2Fe4742A62aCf666DdbF055ad0A04E19ecC1B2B.png",
+    "id": "OptimistProfile|0xae7bb7489a2db4508c117c5b57897beb781215f2864f8a5442ea176cf92721e1"
+  },
+  "impactDescription": "This tool has helped multiple developers building on the base, zora, and optimism ecosystem to integrate counts into spreadsheets, NFT minting websites, check transaction data easily without needing specific tools and needing to pay for an RPC provider since we work with providers to get enough bandwidth to run this service. We have served over 41 million requests and over 200 thousand within the optimism ecosystem, building out NFT support before alchemy supported NFTs on the optimism chains and adding base and zora support quickly for the superchain ecosystem.",
+  "contributionDescription": "Ether actor has allowed front-end developers and blockchain developers to quickly query information in a evm and web friendly way without needing to deal with RPC endpoints, decoding transactions and providing a free service.\nSyndicate has helped pay for hosting and I have worked with various RPC providers to keep this a free public goods service since it was created two years ago in 2021. \n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimism.ether.actor/nft/0x160d2EcEf8161C20595f6B21732C6e23bD9BEC75/1.json",
+      "description": "Full raw NFT data for an optimism NFT"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/iainnash/ether.actor",
+      "description": "Ether actor open source github repository"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of hits on service",
+      "number": "41000000",
+      "url": "https://ether.actor/stats"
+    },
+    {
+      "description": "# of hits on base/zora/opt",
+      "number": "120000",
+      "url": "https://ether.actor/stats"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 200,
+      "description": "Syndicate sponsored server hosting"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 200,
+      "description": "Privately funded API endpoints and server infrastructure for caching databases"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xfdb5d70b4aea2de7ccb8b892d57916cab4dbfa2457531636d12b16bca68b3d35",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 16,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

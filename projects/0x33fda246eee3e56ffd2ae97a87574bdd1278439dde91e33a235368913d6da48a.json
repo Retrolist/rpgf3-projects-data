@@ -1,0 +1,92 @@
+{
+  "bio": "Leading identity oracle & zk attestation provider on OP",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Clique",
+  "websiteUrl": "https://clique.social/",
+  "applicant": {
+    "address": {
+      "address": "0x649c2DFCA22a41D30F0ddEFEA53C4D5f4797051a",
+      "resolvedName": {
+        "address": "0x649c2DFCA22a41D30F0ddEFEA53C4D5f4797051a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x649c2DFCA22a41D30F0ddEFEA53C4D5f4797051a"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x649c2DFCA22a41D30F0ddEFEA53C4D5f4797051a.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x649c2DFCA22a41D30F0ddEFEA53C4D5f4797051a.jpeg",
+    "id": "OptimistProfile|0xe1e42d6753e8b55755d219cd0662f084a67e3f85cd95a7a42d41147ef6522fed"
+  },
+  "impactDescription": "Clique has greatly pushed forward the adoption of on-chain Attestions on OP as the largest attester with >75% of the market share. Our OP Army program in May resulted in 1.2-2.7% of Optimism\u2019s total tx in six weeks. We've substantially aided partner protocols: 350k deposited on Clipper\u2019s LP, 13k accounts for Tally, etc. \nAs OP Army\u2019s goal was to identify experienced web3 users, we\u2019ve discerned ~10k skilled users from 59k participants post rigorous Sybil checks through our collabs with core DeFi and NFT protocols. Our novel AEE (Attestation Exclusive Events) rewards these 10k with added benefits to incentivize more value creation. Clique's current focus is around further expanding attestation use cases on OP by pinpointing DeFi power users and creating credit attestations using CeFi data.",
+  "contributionDescription": "As a leading identity data provider on Optimism, Clique has issued 1.14M out of total 1.49M attestations on OP AttestationStation, which are then used by major OP ecosystem protocols like Bungee, Tally, BoredTown, Clipper, Synapse, Perpetual, Orbiter, Aloe, Angle, and many others, for purposes like user screening, Sybil resistance, directional incentive issuance, etc. The attestations encompass users' Twitter metrics, GitHub prowess, Discord interactions, and on-chain behaviors.\nWe actively bring technical innovations to the OP ecosystem such as building the first-ever ZKP-based attestations, TEE-based web2 data attestations, as well as identity-based governance processes. In addition, we are an active contributor to the OP governance itself as a part of its protocol delegation program.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x33413c433DD28c5e0a90cbA7B0A6f98D3AB971fb",
+      "description": "The CliqueIssuerV2 Contract that was used to create 457,971 attestations"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xd34a8775d06d41b36054d59ef2d09a79b7aa1fa2",
+      "description": "The CliqueIssuerV1 Contract that was used to create 684,736 attestations"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Clique2046/status/1626033196977786880",
+      "description": "zk Discord Attestations"
+    },
+    {
+      "type": "OTHER",
+      "url": " https://twitter.com/Clique2046/status/1647962835765579776",
+      "description": "zk GitHub Attestations"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://hackmd.io/@axiom/SyAjoPLmn",
+      "description": "Joint Proposal with Axiom on Identity-weighted governance"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://vote.optimism.io/delegate/0xC17A59dC5Fc0Df4853Ee71e6Dd7640e5E4954F0F",
+      "description": "Delegate statement as participant of OP protocol delegation program"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# Attestations Created on-chain",
+      "number": "1142707",
+      "url": "https://dune.com/oplabspbc/optimism-attestationstation"
+    },
+    {
+      "description": "Gas fees generated for Optimism (in ETH)",
+      "number": "118.80438771266728",
+      "url": "https://dune.com/queries/3076254"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 18034.69,
+      "description": "Received in full"
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 125000,
+      "description": "25k for Builder Grant 10 (lockup)  & 100k for Growth Grant 14 (partial receipt)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x33fda246eee3e56ffd2ae97a87574bdd1278439dde91e33a235368913d6da48a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 41,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

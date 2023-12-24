@@ -1,0 +1,70 @@
+{
+  "bio": "Messari Protocol Services provides freely available research and reporting",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Messari",
+  "websiteUrl": "https://messari.io/",
+  "applicant": {
+    "address": {
+      "address": "0x47A6a1B6492B6dF811606B8294A02b4268e86dAD",
+      "resolvedName": {
+        "address": "0x47A6a1B6492B6dF811606B8294A02b4268e86dAD",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x47A6a1B6492B6dF811606B8294A02b4268e86dAD"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xec2e199ee6e6bd9c5e59d8f2130442b7efac5dd50c8be3e6fbaa9771c36edf23"
+  },
+  "impactDescription": "The actionable insights generated from the quarterly report informs existing stakeholders on the economic, financial, and social health of Optimism, whether it\u2019s a surge in transaction volume across a certain market or the implications of a major upgrade or governance decision. In addition, by reaching most of the top crypto native builders and institutional investors in the space it increases the likelihood of more projects building on Optimism while bringing more capital to the ecosystem. \n\nThe incentive analysis provided strategic insights into the successes and shortcomings of the historical incentives in order to inform future OP distributions \n\nThe subgraphs provide valuable community infrastructure to access important on-chain data ",
+  "contributionDescription": "We produced a Q3 report on Optimism analyzing fundamental metrics including:\nfinancial metrics (mcap, supply, inflation, revenue, staking yield) network metrics (active/new addresses, transactions, fees, avg block times), ecosystem (TVL USD/OP, active vs new contracts, DeFi vs NFT activity, decentralization (active validators, delegator stake, Nakamoto coefficient). This report was sent to 350,000 crypto native builders and institutional investors. \nWe also completed comprehensive retrospectives incentive analyses \nWe also built and maintained subgraphs at the network level and for individual ecosystem projects. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://messari.io/article/optimism-q3-2023-brief",
+      "description": "report"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://subgraphs.messari.io/",
+      "description": "subgraph"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/retrospective-funding-analysis-uniswap-v3-liquidity-incentives/6212/1",
+      "description": "Incentive analysis"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/retrospective-funding-analysis-revert-finance/6284",
+      "description": "Revert finance analysis"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Newsletter reach",
+      "number": "350000",
+      "url": "https://messari.io/newsletter"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 19085,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd95dd72e655f1c98636d52fd36e2ec8f9dad3abbd978eb305de574e2532c46f8",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 39,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

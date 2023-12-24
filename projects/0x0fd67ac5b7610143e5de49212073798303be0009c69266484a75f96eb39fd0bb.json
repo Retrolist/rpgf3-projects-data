@@ -1,0 +1,60 @@
+{
+  "bio": "An option protocol that focuses on composability and liquidation aggregation",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Grappa Finance",
+  "websiteUrl": "https://github.com/grappafinance",
+  "applicant": {
+    "address": {
+      "address": "0x386f6B908640d9f394EF37bC1b8c3a4018fa3dB1",
+      "resolvedName": {
+        "address": "0x386f6B908640d9f394EF37bC1b8c3a4018fa3dB1",
+        "name": "antonwithgin.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x386f6B908640d9f394EF37bC1b8c3a4018fa3dB1"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x386f6B908640d9f394EF37bC1b8c3a4018fa3dB1.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x386f6B908640d9f394EF37bC1b8c3a4018fa3dB1.png",
+    "id": "OptimistProfile|0x0efe23398e3391503cb8dade8a07c8b2d5e0407aaae5f4c410aec3168f5fe734"
+  },
+  "impactDescription": "We believe that we need to re-build DeFi from scratch, which involves re-building lots of \"shared infrastructure\" in common that can be shared between protocols, which are immutable, secure, and work as a \"primitive\".\n\nGrappa aims to be the base immutable layer for options, and allows everyone to build option engines that can easily be connected to other products, result in a better liquidity access, and overall better UX for all option protocols.\n",
+  "contributionDescription": "Grappa aims to be the base and immutable layer for settling derivatives with expiries, e.g. options, spreads and exotic options, on all EVM chains. By having a shared settlement layer, Grappa makes sure different option products have minimum friction when it comes to liquidity exchange.\n\nBy being the base layer, Grappa will focusing on bridging liquidity between protocols, building cross chain engines, and liquidity exchange layer on top of all engines. This will help all option projects on Optimism with better user experience.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/grappafinance",
+      "description": "All contracts are open-sourced with no license,the core contract has 100+ stars!"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# github stars",
+      "number": "130",
+      "url": "https://github.com/grappafinance"
+    },
+    {
+      "description": "# of projects building on top",
+      "number": "2",
+      "url": "https://github.com/grappafinance"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0fd67ac5b7610143e5de49212073798303be0009c69266484a75f96eb39fd0bb",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 11,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

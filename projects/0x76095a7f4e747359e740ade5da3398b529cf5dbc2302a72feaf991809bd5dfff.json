@@ -1,0 +1,45 @@
+{
+  "bio": "Real User ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Gnihton",
+  "websiteUrl": "https://twitter.com/johgsthb",
+  "applicant": {
+    "address": {
+      "address": "0x1b27B3D405eB29e255CB004e34Fd86f2803170f2",
+      "resolvedName": {
+        "address": "0x1b27B3D405eB29e255CB004e34Fd86f2803170f2",
+        "name": "layerfirst.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x1b27B3D405eB29e255CB004e34Fd86f2803170f2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1b27B3D405eB29e255CB004e34Fd86f2803170f2.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xbe042864f0158e98e047c86ac688916f0c2656c5ecc26aa0625c5174cd89fe98"
+  },
+  "impactDescription": "My contributions to the Optimism Collective have significantly enhanced its technical knowledge, fostered a sense of community, and emphasized sustainability. I've played a role in educating members, promoting eco-conscious practices, and sparking innovation, all of which have contributed to the collective's growth and development.",
+  "contributionDescription": "I am wholeheartedly dedicated to cultivating a sustainable and eco-friendly ecosystem. In all my endeavors, whether it's trading NFTs or engaging in the dynamic world of Optimism, I consistently prioritize the latter. My unwavering commitment extends to various activities aimed at nurturing and enhancing this ecosystem.\n\nWithin the realm of NFTs, I recognize their transformative potential in reshaping digital ownership. I engage in trading NFTs with a sense of responsibility, ensuring that I contribute positively to the ecosystem. I'm actively involved in initiatives promoting environmentally friendly NFT practices, thereby reducing the industry's ecological footprint.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/johgsthb",
+      "description": "https://twitter.com/johgsthb"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "https://twitter.com/johgsthb",
+      "number": "420",
+      "url": "https://twitter.com/johgsthb"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x76095a7f4e747359e740ade5da3398b529cf5dbc2302a72feaf991809bd5dfff",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

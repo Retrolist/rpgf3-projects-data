@@ -1,0 +1,54 @@
+{
+  "bio": "Blockchain is the future and crypto is the most important component",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Minh",
+  "websiteUrl": "https://twitter.com/VinFast_",
+  "applicant": {
+    "address": {
+      "address": "0xe1BFb1989C09E0E6BCbd4bF9C93AbFbeAe492484",
+      "resolvedName": {
+        "address": "0xe1BFb1989C09E0E6BCbd4bF9C93AbFbeAe492484",
+        "name": "dazzly.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xe1BFb1989C09E0E6BCbd4bF9C93AbFbeAe492484"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe1BFb1989C09E0E6BCbd4bF9C93AbFbeAe492484.png",
+    "id": "OptimistProfile|0xbd02fad427d143d0f56ef45efc1a9ae0531b4dffcb1c0d548061c74ba37fccb1"
+  },
+  "impactDescription": "Upon joining the Optimism Collective, I developed user-friendly documentation for OP Mainnet, spurring a 35% adoption increase. I led a team to optimize the Mainnet, boosting transaction speeds by 20% and cutting costs by 15%. My initiation of monthly webinars and hackathons also tripled developer engagement. Overall, my efforts enhanced user experience, bolstered performance, and nurtured a vibrant developer community for the Collective.\n\nI also assembled a team to enhance the Mainnet's performance. Our collaborative efforts yielded updates that improved transaction speeds by 20% and further reduced costs by 15%. This strengthened our standing as a top-tier Ethereum L2 solution and enhanced user satisfaction.\n",
+  "contributionDescription": "After joining the Optimism Collective, I quickly realized the transformative potential of the OP Mainnet. My first significant contribution was creating a user-friendly documentation platform for OP Mainnet. This resource simplified the onboarding process, leading to a 35% rise in adoption.\n\nI also assembled a team to enhance the Mainnet's performance. Our collaborative efforts yielded updates that improved transaction speeds by 20% and further reduced costs by 15%. This strengthened our standing as a top-tier Ethereum L2 solution and enhanced user satisfaction.\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xe1BFb1989C09E0E6BCbd4bF9C93AbFbeAe492484",
+      "description": "My activity onchain"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "2",
+      "url": "https://optimistic.etherscan.io/address/0xe1BFb1989C09E0E6BCbd4bF9C93AbFbeAe492484"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 20,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xcab003ee80013a12461f47eb65ad987be008e337ba36c6c10b0e82a870f36627",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

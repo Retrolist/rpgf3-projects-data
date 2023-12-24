@@ -1,0 +1,109 @@
+{
+  "bio": "The gateway to decentralised frontends in the DeFi ecosystem",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Synthetix IPFS Node",
+  "websiteUrl": "https://github.com/Synthetixio/synthetix-node",
+  "applicant": {
+    "address": {
+      "address": "0x98f763Ceb9d4D921cDfA688cB7D6419F967d28E7",
+      "resolvedName": {
+        "address": "0x98f763Ceb9d4D921cDfA688cB7D6419F967d28E7",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x98f763Ceb9d4D921cDfA688cB7D6419F967d28E7"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x98f763Ceb9d4D921cDfA688cB7D6419F967d28E7.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x98f763Ceb9d4D921cDfA688cB7D6419F967d28E7.png",
+    "id": "OptimistProfile|0xbc4dd2e1f1275fdb0f0ff3c6d5e855f2c3a6b526218065e05300cfc7197c874a"
+  },
+  "impactDescription": "Strengthening the DeFi Ecosystem\n\nDecentralised Resilience: The Synthetix IPFS Node mitigates the vulnerabilities of centralised systems, offering more consistent uptime and reducing risks.\n\nEmpowered Community: Users, by running their nodes, directly influence the decentralization of the ecosystem, improving frontend performances.\n\nCensorship Resistance: The distributed nature of IPFS ensures that the frontends are less prone to external interference or censorship.\n",
+  "contributionDescription": "The Synthetix IPFS Node is the gateway to decentralized frontends in the DeFi ecosystem. This solution champions true decentralization, allowing users to interact with dapps without depending on centralized hosting. By encouraging users to run their own IPFS Node, we aim to bolster decentralised access and optimise IPFS load speeds.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Synthetixio/synthetix-node",
+      "description": "Synthetix IPFS Node - Decentralizing the Frontend"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Synthetixio/ipfs-follower",
+      "description": "Collection of system-specific shell scripts to participate in the cluster"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Synthetixio/ipfs-deploy",
+      "description": "CLI for deploying static websites to an auth-protected IPFS cluster."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Synthetixio/ipns-deploy",
+      "description": "CLI for publishing IPFS content identifiers (CIDs) to IPNS keys."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blog.synthetix.io/decentralization-of-frontends-within-the-synthetix-ecosystem-with-synthetix-ipfs-node/",
+      "description": "Synthetix IPFS Node launch blogpost"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/synthetix_io/status/1653021460452245504",
+      "description": "Synthetix IPFS Node launch announcement on X"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Synthetixio/ipfs-dash",
+      "description": "Cluster dashboard server with ipfs stats and connected nodes list"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Pre-configured dapps",
+      "number": "6",
+      "url": "https://github.com/Synthetixio/synthetix-node/blob/master/config.json"
+    },
+    {
+      "description": "Cannon packages hosted",
+      "number": "24",
+      "url": "https://usecannon.com/packages"
+    },
+    {
+      "description": "Fulltime peers count",
+      "number": "5",
+      "url": "https://ipfs.synthetix.io/dash/"
+    },
+    {
+      "description": "Total size (Gb)",
+      "number": "3.86",
+      "url": "https://ipfs.synthetix.io/dash/"
+    },
+    {
+      "description": "Daily inbound traffic (Gb)",
+      "number": "9.73",
+      "url": "https://ipfs.synthetix.io/dash/"
+    },
+    {
+      "description": "Daily outbound traffic (Gb)",
+      "number": "7.62",
+      "url": "https://ipfs.synthetix.io/dash/"
+    },
+    {
+      "description": "Total number of files stored",
+      "number": "21760",
+      "url": "https://ipfs.synthetix.io/dash/api"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x60da4d7694d025119a3c47f6fd67aa417718fe089f8c98d4f0ccda524cd777df",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 33,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

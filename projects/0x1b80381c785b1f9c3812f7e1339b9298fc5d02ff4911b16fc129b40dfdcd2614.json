@@ -1,0 +1,52 @@
+{
+  "bio": "Web3 Degen, Influencer, Community Manager",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Daily Rich Opportunities\ud83d\udcb0\ud83e\ude82\ud83e\ude82\ud83d\udcaa\ud83c\udffd",
+  "websiteUrl": "https://chat.whatsapp.com/FOUdUw6tkesAyRkwpEYkrH",
+  "applicant": {
+    "address": {
+      "address": "0x42f89A8BEB25c49e26672116A52244073526aF91",
+      "resolvedName": {
+        "address": "0x42f89A8BEB25c49e26672116A52244073526aF91",
+        "name": "highlevelmind.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x42f89A8BEB25c49e26672116A52244073526aF91"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x42f89A8BEB25c49e26672116A52244073526aF91.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb0c2095f1e0ffa8314f55b8f5f6ece5849796b4453353f99670dffba646f72eb"
+  },
+  "impactDescription": "Engaged more users and helped learn the concept of optimism and much more\nGave a proper bried explanation on how OP mechanisms work and what is pow/pos\nShared campaigns and articles for user perspective views\nExplored them the perks of being active particpant and much more",
+  "contributionDescription": "DAO Proposals Voting, Active participation in Campaigns, As a community manager helped new users to introduction to optimism, directed to engage withe project. ForthComing Sharing articles on projects. Exploration in Learn To Earn Campaigns and Much more",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/assets/optimism/0x1e04c33cd5a015e1ced0e3ecd8bdc42902512124/0",
+      "description": "Grind Everday"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "2",
+      "number": "5465",
+      "url": "https://opensea.io/assets/optimism/0x544c2bd4a3ce5015036eb95ce3ba9626d25ad8c8/1"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x1b80381c785b1f9c3812f7e1339b9298fc5d02ff4911b16fc129b40dfdcd2614",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,49 @@
+{
+  "bio": "Web3 engineer",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Alex Harley",
+  "websiteUrl": "https://twitter.com/0xAlex_",
+  "applicant": {
+    "address": {
+      "address": "0x4444d38c385d0969C64c4C8f996D7536d16c28B9",
+      "resolvedName": {
+        "address": "0x4444d38c385d0969C64c4C8f996D7536d16c28B9",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x4444d38c385d0969C64c4C8f996D7536d16c28B9"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4444d38c385d0969C64c4C8f996D7536d16c28B9.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x0745f9ac8787343ffcd5661da175911a38a337cf54f285cae9c19887a30ab758"
+  },
+  "impactDescription": "Acts as a nice demonstration for how OP Stack Mods can be written. Previously the only example I could find was Ticking Optimism (https://stack.optimism.io/docs/build/featured/#ticking-optimism) which is fairly rudimentary. This example shows event parsing, L2 state reads and L2 writes.",
+  "contributionDescription": "I built op-stack-hooks (https://github.com/AlexBHarley/op-stack-hooks) one of the first OP Stack Mods. op-stack-hooks allows registering listeners on the L2 for events that happen on the L1. ie, \n\n- listening and reacting to swaps made on Uniswap\n- permissionless & automated Chainlink feeds on the L2.\n\nThe mod includes changes to op-node, for deriving events and an additional predeploy for registering events.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/AlexBHarley/op-stack-hooks",
+      "description": "The Github repo of the OP Stack Mod."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Github repository",
+      "number": "0",
+      "url": "https://github.com/AlexBHarley/op-stack-hooks"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x14301a25159fd1057d2e3ca076116e44e5e2dda5b49987190f07bac4c7ba5047",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 31,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack development & research"
+}

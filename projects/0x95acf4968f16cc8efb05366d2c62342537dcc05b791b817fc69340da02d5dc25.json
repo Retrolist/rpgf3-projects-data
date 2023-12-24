@@ -1,0 +1,48 @@
+{
+  "bio": "A fool with faith",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "0xuknw",
+  "websiteUrl": "https://twitter.com/0xuknw",
+  "applicant": {
+    "address": {
+      "address": "0x0Bc0A524ECd730be22A5d8f697efeC818FDE0E65",
+      "resolvedName": {
+        "address": "0x0Bc0A524ECd730be22A5d8f697efeC818FDE0E65",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0Bc0A524ECd730be22A5d8f697efeC818FDE0E65"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0Bc0A524ECd730be22A5d8f697efeC818FDE0E65.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0Bc0A524ECd730be22A5d8f697efeC818FDE0E65.jpeg",
+    "id": "OptimistProfile|0x7e6e27d8a051d4e9e55106e663fab0f76da041c2884fb029596d70072ac8452c"
+  },
+  "impactDescription": "contributions to Optimism would include conducting a thorough security audit to identify and patch vulnerabilities, developing an algorithm to optimize transaction validation, creating educational webinars and materials for community engagement, overhauling the project's documentation, coding for enhanced interoperability with other networks, and establishing key performance indicators to track and report the network's health. These contributions aim to improve both the technical aspects and community engagement around Optimism.",
+  "contributionDescription": "contributions to Optimism would include conducting a thorough security audit to identify and patch vulnerabilities, developing an algorithm to optimize transaction validation, creating educational webinars and materials for community engagement, overhauling the project's documentation, coding for enhanced interoperability with other networks, and establishing key performance indicators to track and report the network's health. These contributions aim to improve both the technical aspects and community engagement around Optimism.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/0xuknw",
+      "description": "Twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Twitter",
+      "number": "420",
+      "url": "https://twitter.com/0xuknw"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x95acf4968f16cc8efb05366d2c62342537dcc05b791b817fc69340da02d5dc25",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

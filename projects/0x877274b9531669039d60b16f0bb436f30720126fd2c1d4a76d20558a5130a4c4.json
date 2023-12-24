@@ -1,0 +1,109 @@
+{
+  "bio": "Independent L2 Educator ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "DeFI Saint ",
+  "websiteUrl": "https://thedefisaint.substack.com/",
+  "applicant": {
+    "address": {
+      "address": "0xf52a30397151C77E732fA5DeFB9347359C52A141",
+      "resolvedName": {
+        "address": "0xf52a30397151C77E732fA5DeFB9347359C52A141",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xf52a30397151C77E732fA5DeFB9347359C52A141"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf52a30397151C77E732fA5DeFB9347359C52A141.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x7199274eafbcbc0a7b254523b76400480bd129fcfc3265e1c075a90c4371667e"
+  },
+  "impactDescription": "I've made my audience understood clearly everything about the OP stack and Superchain vision and how it aims to be a game-changer in the L2s Race.\n\nAlso, I keep my audience (Twitter) and readers (Newsletter) updated on what's happening on the Optimism Ecosystem and not to miss out any Alpha, also I do recap on them weekly for those who missed that.",
+  "contributionDescription": "I educate the masses on my Twitter channel by simplifying the core tech of Optimism and also cover important updates and announcements weekly on my weekly Layer 2 Roundup. \n\nAlso, on my newsletter, I cover the present states of L2s which I simplify in details and breakdown important events and updates on Optimism.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://x.com/TheDeFISaint?t=nLXOTenUay7yHJQ6RUWfrw&s=09",
+      "description": "Twitter"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://thedefisaint.substack.com/archive?sort=new",
+      "description": "Newsletter (Substack) The present state of L2s Edition #1 -#6"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Twitter Long Post on OP stack",
+      "number": "420",
+      "url": "https://twitter.com/TheDeFISaint/status/1691117871416373248?t=SoD4zDcFpuBzsdayLlBbXQ&s=19"
+    },
+    {
+      "description": "Optimism Bedrock ",
+      "number": "300",
+      "url": "https://twitter.com/TheDeFISaint/status/1668536347181608961?t=UIPwyUJqf4pYsDaanpCs-Q&s=19"
+    },
+    {
+      "description": "Tweet post on OP stack",
+      "number": "100",
+      "url": "https://twitter.com/TheDeFISaint/status/1688908005180334080?t=Aac8xQ-lesXwwEiKsyQEag&s=19"
+    },
+    {
+      "description": "Newsletter of Retro 3 PGF",
+      "number": "300",
+      "url": "https://thedefisaint.substack.com/p/the-present-state-of-l2s-edition-0ee"
+    },
+    {
+      "description": "Weekly Layer 2 Roundup ",
+      "number": "100",
+      "url": "https://twitter.com/TheDeFISaint/status/1692682523296371169?t=MI-PLkEMaCleX8Nxvi1G-w&s=19"
+    },
+    {
+      "description": "Weekly Layer 2 Roundup ",
+      "number": "100",
+      "url": "https://twitter.com/TheDeFISaint/status/1705649277903450601?t=EOdb9f6WivPbotcwX2GVeg&s=19"
+    },
+    {
+      "description": "Weekly Layer 2 Roundup ",
+      "number": "100",
+      "url": "https://twitter.com/TheDeFISaint/status/1703177340409331967?t=XmUxWNy5kB-1aL-s7WHpEw&s=19"
+    },
+    {
+      "description": "Weekly Layer 2 Roundup ",
+      "number": "100",
+      "url": "https://twitter.com/TheDeFISaint/status/1695402145191751875?t=91ZWjR5SXxmAfAA_MBl4fw&s=19"
+    },
+    {
+      "description": "Weekly Layer 2 Roundup ",
+      "number": "100",
+      "url": "https://twitter.com/TheDeFISaint/status/1697697636843741621?t=w6BgBvCtYXTOOaQVM-Pzhg&s=19"
+    },
+    {
+      "description": "Optimism Ecosystem Airdrop Covered ",
+      "number": "420",
+      "url": "https://twitter.com/TheDeFISaint/status/1549720052806590468?t=XOs2W9w9DudCz3zV_Rzc8Q&s=19"
+    },
+    {
+      "description": "Newsletter (Substack)",
+      "number": "300",
+      "url": "https://thedefisaint.substack.com/p/the-present-state-of-l2s-edition"
+    },
+    {
+      "description": "The present state of L2s ",
+      "number": "300",
+      "url": "https://thedefisaint.substack.com/p/the-present-state-of-l2s-edition-0ee"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x877274b9531669039d60b16f0bb436f30720126fd2c1d4a76d20558a5130a4c4",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 27,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

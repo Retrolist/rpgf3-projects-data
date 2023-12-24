@@ -1,0 +1,52 @@
+{
+  "bio": "OP holder",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "jwick",
+  "websiteUrl": "https://twitter.com/jwick9968",
+  "applicant": {
+    "address": {
+      "address": "0xaA95cA26c92b0634dF7a1A1504f579F13bFB7f9d",
+      "resolvedName": {
+        "address": "0xaA95cA26c92b0634dF7a1A1504f579F13bFB7f9d",
+        "name": "lomdom.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xaA95cA26c92b0634dF7a1A1504f579F13bFB7f9d"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x544a0c4ec484ad43166e45da2d99ad9986966a6de31c83d8480e3e31143d0ab8"
+  },
+  "impactDescription": "After a long time of trading and using Dapps on Op, I am really satisfied with the processing speed and transaction fees. For that reason, I have introduced my friends to transfer assets to Optimism to operate. Surely in the future I will introduce Optimism more to my friends!",
+  "contributionDescription": "After a long time of trading and using Dapps on Op, I am really satisfied with the processing speed and transaction fees. For that reason, I have introduced my friends to transfer assets to Optimism to operate. Surely in the future I will introduce Optimism more to my friends!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xaA95cA26c92b0634dF7a1A1504f579F13bFB7f9d",
+      "description": "Address Transactions"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "AD transactions",
+      "number": "941",
+      "url": "https://optimistic.etherscan.io/address/0xaA95cA26c92b0634dF7a1A1504f579F13bFB7f9d"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 699,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa8a90af9c36e868691d5b65aa82cd507481debf69991185396948aad5979e156",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

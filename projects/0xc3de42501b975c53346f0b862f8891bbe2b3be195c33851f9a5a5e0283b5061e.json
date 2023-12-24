@@ -1,0 +1,55 @@
+{
+  "bio": "To utilise my knowledge to assist fellow designer that are not being exposed to.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "NOTYOURGALLERY",
+  "websiteUrl": "https://NOTYOURGALLERY.XYZ",
+  "applicant": {
+    "address": {
+      "address": "0xea2D97CE7c18Cf20613ed8eeE4d0f1A8b4493368",
+      "resolvedName": {
+        "address": "0xea2D97CE7c18Cf20613ed8eeE4d0f1A8b4493368",
+        "name": "fraderklin.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xea2D97CE7c18Cf20613ed8eeE4d0f1A8b4493368"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xea2D97CE7c18Cf20613ed8eeE4d0f1A8b4493368.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xea2D97CE7c18Cf20613ed8eeE4d0f1A8b4493368.png",
+    "id": "OptimistProfile|0x3fbd6c771fd8596b26c661258ab4a43868e39a3d9e7bd53bfc1bcebb22f2bb12"
+  },
+  "impactDescription": "My impact might be minimal, but I believe the need to offer people around me that are very much blinded with not the wrong info, but mislead. I can only do my part to spread factual information, offer them knowledge and hope more people realise how their dreams is actually within reach, and the potential this world could become, if we collectively use it to make life easier for people. Ofcourse, for the people using the tools for unethical purpose, we'll and I believe should be duly punished. But we cannot let that fear blind majority with once in a life time opportunity and resources we all could only dream of just couple years ago.",
+  "contributionDescription": "My only promise is that if ever resources are readily made available at free cost for people that cannot or otherwise imagine it before, I'll do my best to help them see, and help them realise their dream is nothing impossible. Even if that means going against people that doesn't want the mainstream user to know much about these resources.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://app.optimism.io/profile/",
+      "description": "Sensitive and might expose my identity, happy to share privately. "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Media Report",
+      "number": "0",
+      "url": "https://app.optimism.io/profile/sensitiveandmightgetintotroubledmforfactualreport"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "I'm running on my own resources at the moment as I'm not with organization."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xc3de42501b975c53346f0b862f8891bbe2b3be195c33851f9a5a5e0283b5061e",
+  "prelimResult": "Remove",
+  "reportReason": "Link to notyourgallery.xyz is broken (\"Website Expired\")"
+}

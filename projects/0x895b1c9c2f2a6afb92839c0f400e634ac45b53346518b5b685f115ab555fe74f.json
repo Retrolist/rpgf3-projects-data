@@ -1,0 +1,48 @@
+{
+  "bio": "Layers 1&2 Transactions Protocols Tracker",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Defigourmet",
+  "websiteUrl": "https://defigourmet.com/",
+  "applicant": {
+    "address": {
+      "address": "0xe08d3d0334aB089DAaF0C620989959Ba5d4aA04C",
+      "resolvedName": {
+        "address": "0xe08d3d0334aB089DAaF0C620989959Ba5d4aA04C",
+        "name": "defigourmet.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xe08d3d0334aB089DAaF0C620989959Ba5d4aA04C"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe08d3d0334aB089DAaF0C620989959Ba5d4aA04C.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe08d3d0334aB089DAaF0C620989959Ba5d4aA04C.jpeg",
+    "id": "OptimistProfile|0x4eda388e9bdf152c14c05359119214a5b3542961c5f889566b354258c0a525a3"
+  },
+  "impactDescription": "The primary objective of the website is to aggregate all transactions from various protocols, including Layer 1 and Layer 2, onto a single platform. The primary benefit is to enhance the user experience for both professional and non-professional Optimism users, allowing them to easily track all their protocol activities.",
+  "contributionDescription": "Hello, I am working alone on my website Defigourmet a Layers 1&2 Transactions Protocols Tracker. The main idea of the website is to find all transactions from different protocols / Layer 1&2 on a single website. The contributions i wish is help to improve the customer experience and add a lot of protocols. If I get any help, I will focus on implementing the Optimism protocols. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://defigourmet.com/",
+      "description": "Defigourmet"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Protocols ",
+      "number": "50",
+      "url": "https://defigourmet.com"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x895b1c9c2f2a6afb92839c0f400e634ac45b53346518b5b685f115ab555fe74f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 9,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

@@ -1,0 +1,48 @@
+{
+  "bio": "Crypto channel manager ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "M7md ",
+  "websiteUrl": "https://youtube.com/@ai_space_",
+  "applicant": {
+    "address": {
+      "address": "0xE54F4C1A54e62dF7aC2cA558E1651252E63ec96E",
+      "resolvedName": {
+        "address": "0xE54F4C1A54e62dF7aC2cA558E1651252E63ec96E",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE54F4C1A54e62dF7aC2cA558E1651252E63ec96E"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE54F4C1A54e62dF7aC2cA558E1651252E63ec96E.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x899b4de5ebe938f2a2522ff83503f796e9f932313a27a0e742577add806ddd88"
+  },
+  "impactDescription": "The Optimism Collective is a band of companies, communities, and citizens working together to reward public goods and build a sustainable future for Ethereum. There are many ways you can contribute to the Optimism Collective, depending on your skills, interests, and goals. Here are some of the possible options:\n\n\n- If you are a developer, you can help build and improve the OP Stack, which is a modular, open-source blueprint for highly scalable, highly interoperable blockchains of all kinds. You can also create and deploy applications on Optimism Mainnet, which is the flagship implementation of the OP Stack. You can find more information and resources on the Optimism Docs and the GitHub repository.",
+  "contributionDescription": "Optimism is working to change outcomes for public goods contributors.\n\nRetroactive public goods funding (RetroPGF) is Optimism\u2019s process for funding public goods for the benefit of the Collective and beyond.\nRetroPGF 3 will fund contributions that have supported the development and adoption of Optimism. Whether code or community, any public good that makes the OP Stack thrive can be elegible for RetroPGF.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://app.optimism.io/retropgf",
+      "description": "App of Optimism "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Optimism docs",
+      "number": "1",
+      "url": "https://optimism.mirror.xyz/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x705f5f5dbcdcc632970b6f6279529b29cbd21a80487af5b087f2f09ba1ec4e28",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

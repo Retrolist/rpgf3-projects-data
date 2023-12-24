@@ -1,0 +1,45 @@
+{
+  "bio": "I'm a Portuguese graphic designer and web 3 learner.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "artespraticas",
+  "websiteUrl": "https://www.artespraticas.com",
+  "applicant": {
+    "address": {
+      "address": "0xF0854C4dC9d3f1EBD4f0e44eb91587F7fc5Bd518",
+      "resolvedName": {
+        "address": "0xF0854C4dC9d3f1EBD4f0e44eb91587F7fc5Bd518",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xF0854C4dC9d3f1EBD4f0e44eb91587F7fc5Bd518"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF0854C4dC9d3f1EBD4f0e44eb91587F7fc5Bd518.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF0854C4dC9d3f1EBD4f0e44eb91587F7fc5Bd518.jpeg",
+    "id": "OptimistProfile|0x1b1b0f5800c10c8cf045a4204047ca47e5a81d68b9efff706d3c7c0cdb946280"
+  },
+  "impactDescription": " saw that 43 people have minted my nft collection over Optimism network :-) Sorry if I'm not very sure what else I should post/do but I'm always eager to learn and participate! Glad to be part of this amazing journey and I'm looking forward to continue!",
+  "contributionDescription": "I'm a early supporter and advocate for the Optimism universe. I've created a free nft collection to help new users to embark aboard and have posted it all over my social media. I'm filling this to continue my engagement, besides following all forum entries and intercting when I receive the digest :-)",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0xaf1ff8e04aa97d2c155fba9829cb152169bfd8fd",
+      "description": "https://mint.fun/op/0x6E3b4139a7CF633Ab42377b43D9F68E7a081b902"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "47",
+      "number": "1",
+      "url": "https://mint.nftfeed.guru/nft-collection/0x6e3b4139a7cf633ab42377b43d9f68e7a081b902"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x1938597b3d66a2174c8977f076658a80daf92120e3a89e666c0478a8015b745f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

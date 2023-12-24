@@ -1,0 +1,81 @@
+{
+  "bio": "Independent Ethereum educator, investor & advisor. Founder of The Daily Gwei.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Sassal.eth",
+  "websiteUrl": "https://www.youtube.com/c/TheDailyGwei",
+  "applicant": {
+    "address": {
+      "address": "0x648aA14e4424e0825A5cE739C8C68610e143FB79",
+      "resolvedName": {
+        "address": "0x648aA14e4424e0825A5cE739C8C68610e143FB79",
+        "name": "sassal.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x648aA14e4424e0825A5cE739C8C68610e143FB79"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg",
+    "id": "OptimistProfile|0x6d6a2645bfdb610b1133190c1ed5cde4f7363d8e4b123750732b20be60e9d969"
+  },
+  "impactDescription": "I have covered the Optimism ecosystem extensively through all of my educational channels - stretching all the way back to when the founding Optimism team was known as 'Plasma Group'. You can see a tweet here form 2019 where I was one of the first people to interact with an early optimistic rollup demo called 'UniPig' (https://twitter.com/sassal0x/status/1181495761281773569).\n\nThrough my coverage, I have educated tens of thousands of people about the OP Stack, Optimism's RPGF initiatives and layer 2's generally. This education also continued through conversations in The Daily Gwei Discord server where like-minded individuals discuss Optimism's strategy around the 'Superchain' and taking on a 'subtractive' development philosophy.\n\n",
+  "contributionDescription": "I have been a long-time educator in the Ethereum ecosystem stretching back to early 2018 when I created my first newsletter, Block by Block. Through that newsletter, I provided weekly updates to the community about the crypto ecosystem.\n\nIn late 2018, I co-founded EthHub alongside Eric Conner which was an Ethereum education hub consisting of an open-source documentation website, a weekly newsletter, and a weekly podcast (Into the Ether). Through EthHub, Eric and I educated tens of thousands of people about Ethereum.\n\nIn mid 2020, I founded The Daily Gwei which I consider to be the spiritual successor to EthHub. I have written over 500 small educational newsletter blogs and produced over 650 videos about Ethereum. The Daily Gwei also has a very active Discord server.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/c/TheDailyGwei",
+      "description": "The Daily Gwei YouTube channel."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://thedailygwei.substack.com/",
+      "description": "The Daily Gwei newsletter."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.gg/JDPc8j4wys",
+      "description": "The Daily Gwei Discord server."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethhub-io/ethhub",
+      "description": "EthHub github repo."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethhub.substack.com/",
+      "description": "EthHub newsletter."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://open.spotify.com/show/2CNyWXgKVxTqTlmLhc8A5m",
+      "description": "EthHub podcast (Into the Ether)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of total video views",
+      "number": "5000000",
+      "url": "https://socialblade.com/youtube/c/thedailygwei/monthly"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 19280,
+      "description": "Gitcoin Grants"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 70,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

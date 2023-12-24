@@ -1,0 +1,60 @@
+{
+  "bio": "Group of beta testers with diverse levels of expertise and backgrounds",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "OP Security Council Rehearsal Beta Testers",
+  "websiteUrl": "https://gov.optimism.io/tag/security-council",
+  "applicant": {
+    "address": {
+      "address": "0xD52FCd0F86bAb7bFA70F0A33f9c90D3afE87d675",
+      "resolvedName": {
+        "address": "0xD52FCd0F86bAb7bFA70F0A33f9c90D3afE87d675",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xD52FCd0F86bAb7bFA70F0A33f9c90D3afE87d675"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x1cdd8178bc9a20fefede741b21bd963237f08d2f5f7f66c7b163b37e8ee5f765"
+  },
+  "impactDescription": "The exhaustive testing, feedback, and bug discovery provided by the Security Council beta testers delivered immense value for reducing risk and increasing preparedness as a foundational governance component was launched.\n\nBy thoroughly stressing testing the procedures and systems during the rehearsals, problematic gaps were identified that could have led to issues down the line. The group's participation enabled ambiguities and vulnerabilities to be addressed proactively before the Council went live.",
+  "contributionDescription": "As beta testers, this group provided numerous valuable contributions to the preparation and readiness of the Optimism Security Council:\n\n- Participated in multiple draft reviews of diverse documents, both internal and external, providing critical feedback on phrasing, procedural clarity, guidelines, and other aspects. \n\n- Volunteered significant time for live rehearsals of Council operations, including mock upgrade approval flows. This hands-on testing surfaced ambiguity in the drafted procedures that could be resolved prior to launch.\n\n- Reported detailed bugs uncovered during reviews and live rehearsals. The issues spanned different areas. Identifying these bugs early was crucial.\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/superchain-ops/tree/main/mainnet-rehearsals/",
+      "description": "Superchain Operations, Security Council Rehearsals"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Feedback was mostly qualitative",
+      "number": "1",
+      "url": "https://github.com/ethereum-optimism/superchain-ops/tree/main/mainnet-rehearsals/"
+    },
+    {
+      "description": "Members",
+      "number": "5",
+      "url": "about:blank"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "The Beta Testers were volunteering their time in good faith."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xfbcd52f5224f9974c60a56a33a8d956b7103cb5e1f01b879612bed4dd8809946",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 18,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Optimism Governance Contributions"
+}

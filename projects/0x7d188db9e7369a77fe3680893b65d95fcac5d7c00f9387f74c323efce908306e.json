@@ -1,0 +1,66 @@
+{
+  "bio": "A Prettier formatter for the Solidity language",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Prettier Solidity",
+  "websiteUrl": "https://github.com/prettier-solidity/prettier-plugin-solidity/",
+  "applicant": {
+    "address": {
+      "address": "0xFc756d8632A19CEbd76560CE0A6967279E32131b",
+      "resolvedName": {
+        "address": "0xFc756d8632A19CEbd76560CE0A6967279E32131b",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xFc756d8632A19CEbd76560CE0A6967279E32131b"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFc756d8632A19CEbd76560CE0A6967279E32131b.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFc756d8632A19CEbd76560CE0A6967279E32131b.png",
+    "id": "OptimistProfile|0x444fea31247c13d2b88f1f4a332e7351f262017ac5a7a77cc800b810d9ab12fd"
+  },
+  "impactDescription": "Prettier Solidity is used by thousands of projects to format their Solidity code. Many of these projects are deployed to Optimism.\n\nA formatter is a fundamental tool for developers: it saves time and discussions. We believe that Prettier Solidity has had a significant impact in Solidity developers productivity, including those working on Optimism projects.",
+  "contributionDescription": "Prettier Solidity is used by thousands of projects to format their Solidity code. Many of these projects are deployed to Optimism.\n\nA formatter is a fundamental tool for developers: it saves time and discussions. We believe that Prettier Solidity has had a significant impact in Solidity developers productivity, including those working on Optimism projects.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/prettier-solidity/prettier-plugin-solidity/",
+      "description": "Github repository of Prettier Solidity"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Projects using Prettier Solidity",
+      "number": "49395",
+      "url": "https://github.com/prettier-solidity/prettier-plugin-solidity/network/dependents"
+    },
+    {
+      "description": "Weekly downloads",
+      "number": "71000",
+      "url": "https://npmjs.com/package/prettier-plugin-solidity"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 20782,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 43833.72,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7d188db9e7369a77fe3680893b65d95fcac5d7c00f9387f74c323efce908306e",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 74,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

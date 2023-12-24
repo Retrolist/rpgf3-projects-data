@@ -1,0 +1,55 @@
+{
+  "bio": "i'm software engineer",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "yudhistira",
+  "websiteUrl": "https://www.twitter.com/yudhistiraelham",
+  "applicant": {
+    "address": {
+      "address": "0xFC317bbb9C3692c7C03eF4B59a056A6dB8d5265e",
+      "resolvedName": {
+        "address": "0xFC317bbb9C3692c7C03eF4B59a056A6dB8d5265e",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xFC317bbb9C3692c7C03eF4B59a056A6dB8d5265e"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFC317bbb9C3692c7C03eF4B59a056A6dB8d5265e.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFC317bbb9C3692c7C03eF4B59a056A6dB8d5265e.png",
+    "id": "OptimistProfile|0x21b69f89f92d012cb1798398cb018c78fa14f506c7c951f3fbb464239f4aa6ad"
+  },
+  "impactDescription": "for developer ecosystem i try to contribute running node and develop some project with optimism network. there some project right now combine with crypto network such as friend tech. that is a social media combine with cyrpto tech, user can bought a share of people",
+  "contributionDescription": "testing all function and checking there is a mistake or missleading information. when it happen i hope tell you to fix. running node as well with a compatible device\n\n\n\n\n..............................................................................................",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xFC317bbb9C3692c7C03eF4B59a056A6dB8d5265e",
+      "description": "here is my etherscan address"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#",
+      "number": "10",
+      "url": "https://optimistic.etherscan.io/address/0xFC317bbb9C3692c7C03eF4B59a056A6dB8d5265e"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x26e764d3578b9b68d6175786c043a98ad83bbbe8f38fc869b8cc72a3f63f6202",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

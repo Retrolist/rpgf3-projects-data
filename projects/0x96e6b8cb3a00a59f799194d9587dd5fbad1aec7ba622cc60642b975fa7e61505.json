@@ -1,0 +1,62 @@
+{
+  "bio": "Web3 Marketing Platform",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Web3 Analytic",
+  "websiteUrl": "https://www.web3analytic.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xCb4B8F4810188fCBe96C06ccf8A763eb49f56a29",
+      "resolvedName": {
+        "address": "0xCb4B8F4810188fCBe96C06ccf8A763eb49f56a29",
+        "name": "willmctighe.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xCb4B8F4810188fCBe96C06ccf8A763eb49f56a29"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb4B8F4810188fCBe96C06ccf8A763eb49f56a29.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xCb4B8F4810188fCBe96C06ccf8A763eb49f56a29.png",
+    "id": "OptimistProfile|0xe19953077bcac943f748c1f7d8440e0d5b6c986d398822dc6d2e3790e3bba129"
+  },
+  "impactDescription": "Here are more details of how we've helped OP Collective Projects:\n\nKwenta and Synthetix - identify and connect with large on-chain perp traders. Created list of eligible users for Kwenta's on-chain referrals program based on trading history.\nAevo - identify and connect with large on-chain derivatives traders.\nPerp - understand customer segmentation and develop hot tub vaults strategy. Messaging users.\nLyra - identify and connect with large option traders for upcoming V2 launch.",
+  "contributionDescription": "Web3 Analytic has enabled several Optimism projects - Synthetix, Kwenta, Perp, Lyra and Aevo - to identify potential users based on their on-chain activity and reach out to them through connected social channels like Twitter, Lens, Farcaster, Debank, Discord and XMTP messaging. This helps them grow their user bases. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.web3analytic.xyz/",
+      "description": "Company Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.loom.com/share/a3262b577235410fbf9807269de6f1d1?sid=611903e8-ea43-4b55-a949-9e77b5bb0175",
+      "description": "Web3 Analytic Product Demo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Customer 2 Deposits (USD) from W3A Leads",
+      "number": "414140",
+      "url": "https://docs.google.com/spreadsheets/d/1rlN40o--AjpYWHj63gzrvEu3_7-Jps2DJSksCXorTUE/edit?usp=sharing"
+    },
+    {
+      "description": "# Total Customer Leads",
+      "number": "3335",
+      "url": "https://docs.google.com/spreadsheets/d/1rlN40o--AjpYWHj63gzrvEu3_7-Jps2DJSksCXorTUE/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 11000,
+      "description": "Cumulative revenue from 5 OP protocols we work with "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x96e6b8cb3a00a59f799194d9587dd5fbad1aec7ba622cc60642b975fa7e61505",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

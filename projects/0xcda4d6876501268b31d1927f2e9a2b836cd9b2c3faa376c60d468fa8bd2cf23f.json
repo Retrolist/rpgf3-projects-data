@@ -1,0 +1,100 @@
+{
+  "bio": "Multifunctional Omnichain Solution, specialized in LayerZero-centered tools",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Merkly",
+  "websiteUrl": "https://minter.merkly.com/",
+  "applicant": {
+    "address": {
+      "address": "0x3469F853c6522DE54Ce839Dd245724e56EF25859",
+      "resolvedName": {
+        "address": "0x3469F853c6522DE54Ce839Dd245724e56EF25859",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3469F853c6522DE54Ce839Dd245724e56EF25859"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3469F853c6522DE54Ce839Dd245724e56EF25859.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3469F853c6522DE54Ce839Dd245724e56EF25859.png",
+    "id": "OptimistProfile|0xbee8ce0baee515f6fed52af6d75523106cc45f1cab34432c174b4b0cbbb36b63"
+  },
+  "impactDescription": "Making it easy to connect to almost any chain benefits not only end-users, but also native dApps and the network itself.\n\nFor end-users:\nOnboarding them seamlessly to Optimism and other chains, allowing them to try out any dApp residing on the network. Our 'Checker' introduces them to a comprehensive list of apps to discover.\n\nFor Optimism:\nThis ultimately promotes network activity and traffic on the native chain, proven by our impact metrics.\n\nMerkly has:\n\u2022 2620 daily active users transacting on Optimism \n\u2022 Over 6000 daily transactions on Optimism\n\u2022 Over 139K unique addresses transacting on Optimism in the last 90 days\n\nWhile also being the #9 most used dApp on Optimism.\n\nCohesive breakdown of metrics: https://docs.google.com/document/d/1sadllTl9EY4Llb-4tuyKFkV5f2pwxy4Es66oCiUZ4VU/edit\n",
+  "contributionDescription": "Merkly is a multifunctional Omnichain solution, designed to simplify DeFi for individuals of all knowledge levels. \n\nWe aim to familiarize even non-crypto natives with LayerZero, Layer 1 and Layer 2 chains via various tools \u2014  all unified into one Super-App. \n\nOur tools allow users to effortlessly connect and onboard to over 30 different chains (including Optimism), which promotes network growth.\n\nOur current product suite:\n\u2022 Gas Refuel: Get native gas tokens on Optimism and +30 chains\n\u2022 Bridging of ONFTs/Tokens: Bridge NFTs to Optimism and +30 chains\n\u2022 Activity Checker: Discover over 20 Omnichain dApps to interact with\n\nAll our features are harnessing LayerZero's technology to ensure robustness, safety and high performance.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x885ef5813E46ab6EFb10567b50b77aAAD4d258ce",
+      "description": "Merkly v1 Contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xa2C203d7EF78ed80810da8404090f926d67Cd892",
+      "description": "Merkly v2 Contract"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xD7bA4057f43a7C4d4A34634b2A3151a60BF78f0d",
+      "description": "Merkly Refuel Contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0x20279b6d57Ba6D3eF852f34800e43e39d46d6487",
+      "description": "Merkly OFT Contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1sadllTl9EY4Llb-4tuyKFkV5f2pwxy4Es66oCiUZ4VU/edit",
+      "description": "All Contracts in 1 File"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://minter.merkly.com/",
+      "description": "Official Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/merkly_com",
+      "description": "Official Twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Optimism Transactions per day on Merkly",
+      "number": "6169",
+      "url": "https://dune.com/optimismfnd/optimism-project-deep-dive?1+Project+Name=Merkly&1+Project+Name_tb1cb5=Merkly"
+    },
+    {
+      "description": "Individual Addresses (Last 90 Days)",
+      "number": "139480",
+      "url": "https://dune.com/queries/3119683/5205280"
+    },
+    {
+      "description": "#9 most used dApp on Optimism (90 Days)",
+      "number": "9",
+      "url": "https://dune.com/queries/3119683/5205280"
+    },
+    {
+      "description": "Daily Active Users on Optimism",
+      "number": "2620",
+      "url": "https://dune.com/optimismfnd/optimism-project-deep-dive?1+Project+Name=Merkly&1+Project+Name_tb1cb5=Merkly"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "Merkly hasn't received any OP yet \u2013 this is our first application."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xcda4d6876501268b31d1927f2e9a2b836cd9b2c3faa376c60d468fa8bd2cf23f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 8,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

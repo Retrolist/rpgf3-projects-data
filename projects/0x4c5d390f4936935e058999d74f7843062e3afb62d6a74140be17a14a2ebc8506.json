@@ -1,0 +1,64 @@
+{
+  "bio": "word are prayer",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "yy86",
+  "websiteUrl": "https://twitter.com/Awan80813288",
+  "applicant": {
+    "address": {
+      "address": "0xE17b8267c83ee70d55A8D244f27c7Ce7b7E19cC2",
+      "resolvedName": {
+        "address": "0xE17b8267c83ee70d55A8D244f27c7Ce7b7E19cC2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE17b8267c83ee70d55A8D244f27c7Ce7b7E19cC2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE17b8267c83ee70d55A8D244f27c7Ce7b7E19cC2.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3562fc691f2c82d7135699684a2696b11c733fc6b6086b65bbdc048488303aee"
+  },
+  "impactDescription": "will did some task for benefit optimsim in future\nex : swab,bridge,governance (vote) in official dap and the eco of optimism.\nlove to get some exprience in optimism maybe some new task in festival with all eco patnership of optimism will be great.\nsome symbol maybe such us nft for valuable people who get expreince in optimism its would be awesome.",
+  "contributionDescription": "will did some task for benefit optimsim in future\nex : swab,bridge,governance (vote) in official dap and the eco of optimism.\nlove to get some exprience in optimism maybe some new task in festival with all eco patnership of optimism will be great.\nsome symbol maybe such us nft for valuable people who get expreince in optimism its would be awesome.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Awan80813288",
+      "description": "on my twitter account"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tiktok.com/@yy86_msc",
+      "description": "on my tiktok chanel"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Infrastructure",
+      "number": "2",
+      "url": "https://app.optimism.io/retropgf-discovery/0x4C0a466DF0628FE8699051b3Ac6506653191cc21"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 200,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4c5d390f4936935e058999d74f7843062e3afb62d6a74140be17a14a2ebc8506",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

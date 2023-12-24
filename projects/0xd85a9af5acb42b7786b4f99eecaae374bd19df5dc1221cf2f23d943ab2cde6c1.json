@@ -1,0 +1,47 @@
+{
+  "bio": "crypto hunter",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "bani",
+  "websiteUrl": "https://www.twitter.com/brovrypto",
+  "applicant": {
+    "address": {
+      "address": "0xA2809243D54D3D9d957fF8e5FBD652bBbdD61B73",
+      "resolvedName": {
+        "address": "0xA2809243D54D3D9d957fF8e5FBD652bBbdD61B73",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xA2809243D54D3D9d957fF8e5FBD652bBbdD61B73"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA2809243D54D3D9d957fF8e5FBD652bBbdD61B73.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x659a4e20261b66717588d95f7ed5b91b5b7c48dc5dfb9937b5f482ef4ed66c85"
+  },
+  "impactDescription": "after a few hours I tried your platform, I feel uncomfortable on the appearance of the website and its features I hope you can design the display to be more attractive and one important thing advice from me The Language feature may also be useful for users who have limited language skills\n",
+  "contributionDescription": "after a few hours I tried your platform, I feel uncomfortable on the appearance of the website and its features I hope you can design the display to be more attractive and one important thing advice from me The Language feature may also be useful for users who have limited language skills\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.pantek.com",
+      "description": "1"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "pantek",
+      "number": "1",
+      "url": "https://www.pantek.com"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd85a9af5acb42b7786b4f99eecaae374bd19df5dc1221cf2f23d943ab2cde6c1",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

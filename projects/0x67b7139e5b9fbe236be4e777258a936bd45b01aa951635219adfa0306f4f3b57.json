@@ -1,0 +1,48 @@
+{
+  "bio": "Connect 1:1 with other Farcaster users, charge for your time or donate to DAOs",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "gang",
+  "websiteUrl": "https://gan.gg",
+  "applicant": {
+    "address": {
+      "address": "0xfa922ce609FeD47950E3f48662C9651d42ada194",
+      "resolvedName": {
+        "address": "0xfa922ce609FeD47950E3f48662C9651d42ada194",
+        "name": "antimofm.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xfa922ce609FeD47950E3f48662C9651d42ada194"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfa922ce609FeD47950E3f48662C9651d42ada194.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x4b4211404d2479dca193dee9eef79c39b40cf94a2e812d3ba0124bd8e12a3e06"
+  },
+  "impactDescription": "We have facilitated a number of bookings between Farcaster users and sent about 0.08 eth to Purple DAO through donations. We continue to advertise and onboard users, and aim to become a tool for OP users to monetise their knowledge and expertise. Thanks",
+  "contributionDescription": "The mission of gang is to facilitate new connections and the effective exchange of knowledge between Farcaster users\n\nWe believe that 1:1 calls (video or audio) are the most effective way to do that. However, time is finite - so you will be able to choose to set a value on your time or have the other person donate to a DAO of your choice. You can also not specify payment and do it as a form of mentorship. In any case, this is a behaviour that's not common among web3 professionals and we think it should be\n\nPS payment system will be rolled out in the next 2-4 weeks, currently suggested donation are live. Some context and progress here: https://warpcast.com/antimofm.eth/0x6aa87c48",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://gan.gg",
+      "description": "Website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# signups",
+      "number": "151",
+      "url": "https://gan.gg"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x67b7139e5b9fbe236be4e777258a936bd45b01aa951635219adfa0306f4f3b57",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 6,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,67 @@
+{
+  "bio": "A leading Ethereum consensus client written in rust.",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Lighthouse",
+  "websiteUrl": "https://lighthouse.sigmaprime.io/",
+  "applicant": {
+    "address": {
+      "address": "0xd66190FAE43F6094665cD1aBCbd9Cc70Dfa8BA03",
+      "resolvedName": {
+        "address": "0xd66190FAE43F6094665cD1aBCbd9Cc70Dfa8BA03",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xd66190FAE43F6094665cD1aBCbd9Cc70Dfa8BA03"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd66190FAE43F6094665cD1aBCbd9Cc70Dfa8BA03.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd66190FAE43F6094665cD1aBCbd9Cc70Dfa8BA03.png",
+    "id": "OptimistProfile|0x48f10076ad58f727f51575a02ee66d511de9800f245c77e4a74246e8edd0a519"
+  },
+  "impactDescription": "Our primary work here has not yet been released. The goal of the Deneb fork is to significantly reduce Optimism's fees by dramatically decreasing the cost for layer 2's to store data on the Ethereum base layer. Once complete we imagine adoption of layer 2's to be significant and most of the current layer 1 load to shift to layer 2's like Optimism.",
+  "contributionDescription": "Our primary goal is to help support and grow the Ethereum ecosystem. Our current focus is on scaling the protocol via layer 2's such as Optimism. \n\nThe current long-standing effort is to hard fork Ethereum to introduce a new and significantly cheaper way for Layer 2's to reconcile with the base layer. This effort is known as the Deneb hard fork. \n\nAs of this writing we have officially merged our branch that supports the Deneb functionality into Lighthouse's unstable branch (links in this application).  This signifies the collective hard work of the team over the past year and we are on to thorough testing of the changes ahead of the official hard fork.\n\nDuring testing we expect to have more direct interaction with the optimism team to ensure optimism works as expected in this new regime.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/sigp/lighthouse",
+      "description": "Lighthouse main repository"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Pull Request",
+      "number": "4054",
+      "url": "https://github.com/sigp/lighthouse/pull/4054"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 165460,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Protocol Guild indirectly funds some members of the Lighthouse team"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "The Ethereum foundation funds the entire team, not just Deneb-related work"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x795c02e18131bf22626db5172ecbe21e0ee7316ed73921ad079b4d2989dce8b6",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 89,
+  "primaryCategory": "OP Stack",
+  "recategorization": "Ethereum Development & Maintanance"
+}

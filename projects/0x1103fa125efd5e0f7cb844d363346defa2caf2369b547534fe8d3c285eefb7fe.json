@@ -1,0 +1,55 @@
+{
+  "bio": "Yo",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Badutcok",
+  "websiteUrl": "https://b",
+  "applicant": {
+    "address": {
+      "address": "0x712670b6318610fD46Af7d6F5F85f28b530bBbab",
+      "resolvedName": {
+        "address": "0x712670b6318610fD46Af7d6F5F85f28b530bBbab",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x712670b6318610fD46Af7d6F5F85f28b530bBbab"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x712670b6318610fD46Af7d6F5F85f28b530bBbab.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xbc33a813e969d7c3823ff51d9fc225c6c84f5a84982af9211a7474f63b757293"
+  },
+  "impactDescription": "Fast, stable, scalable Ethereum.\nOP Mainnet is a fast, stable, and scalable L2 blockchain built by Ethereum developers, for Ethereum developers. Built as a minimal extension to existing Ethereum software, OP Mainnet's EVM-equivalent architecture scales your Ethereum apps without surprises. If it works on Ethereum, it works on OP Mainnet at a fraction of the cost.",
+  "contributionDescription": "OP Mainnet is a low-cost and lightning-fast Ethereum L2 blockchain. Fast, stable, scalable Ethereum.\nOP Mainnet is a fast, stable, and scalable L2 blockchain built by Ethereum developers, for Ethereum developers. Built as a minimal extension to existing Ethereum software, OP Mainnet's EVM-equivalent architecture scales your Ethereum apps without surprises. If it works on Ethereum, it works on OP Mainnet at a fraction of the cost.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://w",
+      "description": "Ye"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Y",
+      "number": "23",
+      "url": "https://w"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x1103fa125efd5e0f7cb844d363346defa2caf2369b547534fe8d3c285eefb7fe",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

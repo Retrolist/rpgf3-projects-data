@@ -1,0 +1,46 @@
+{
+  "bio": "What I say Thats I Do",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "havbar",
+  "websiteUrl": "https://github.com/havbar131",
+  "applicant": {
+    "address": {
+      "address": "0xD4433FdA08aEB9791d75d8ba9e4Bab21dC439245",
+      "resolvedName": {
+        "address": "0xD4433FdA08aEB9791d75d8ba9e4Bab21dC439245",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xD4433FdA08aEB9791d75d8ba9e4Bab21dC439245"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD4433FdA08aEB9791d75d8ba9e4Bab21dC439245.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD4433FdA08aEB9791d75d8ba9e4Bab21dC439245.png",
+    "id": "OptimistProfile|0x2424bf91a988527abda6027bc151d0991c0c0d36e7b3f474115f2a0a7ae7d2f1"
+  },
+  "impactDescription": "BuidlGuidl helps onboard and educate new developers to the Ethereum ecosystem with teaching materials and tools to help them hit the ground running. It also provide mentoring and incentivize through its grant-giving arm. From Austin: \"I think the thing I'm most Optimistic about is what's gonna happen on the application layer...[when] we have everything we need for people to start shipping applications on blockchain and start getting mainstream audiences to start engaging with these apps.\"",
+  "contributionDescription": "BuidlGuidl helps onboard and educate new developers to the Ethereum ecosystem with teaching materials and tools to help them hit the ground running. It also provide mentoring and incentivize through its grant-giving arm. From Austin: \"I think the thing I'm most Optimistic about is what's gonna happen on the application layer...[when] we have everything we need for people to start shipping applications on blockchain and start getting mainstream audiences to start engaging with these apps.\"",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x17a23e8a7dc4ed6c5cc5151772c970d70a1fb24c5c62051547b1279d9290594b",
+      "description": "Transfer"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Metric",
+      "number": "343",
+      "url": "https://github.com/havbar131"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd6c8bcd8c0d8356c00bb63fbc7c726e65126665ecb5b6503acc7942f0313c8c6",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

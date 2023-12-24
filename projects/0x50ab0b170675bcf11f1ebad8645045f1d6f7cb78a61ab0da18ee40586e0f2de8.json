@@ -1,0 +1,97 @@
+{
+  "bio": "Mosaic is accelerating retroactive rewards for web3 adoption and retention.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Mosaic",
+  "websiteUrl": "https://mosaicdrops.com",
+  "applicant": {
+    "address": {
+      "address": "0x095C33946136C08BC19790BCc7143c87c03c43ce",
+      "resolvedName": {
+        "address": "0x095C33946136C08BC19790BCc7143c87c03c43ce",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x095C33946136C08BC19790BCc7143c87c03c43ce"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x095C33946136C08BC19790BCc7143c87c03c43ce.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x095C33946136C08BC19790BCc7143c87c03c43ce.png",
+    "id": "OptimistProfile|0x90d5779342daa22e4f01c2f4041200f124d6dd7a6a34c101ee0115486f49cdeb"
+  },
+  "impactDescription": "Mosaic rewards issued as NFTs on OP didn\u2019t just outperform our expectations, each consecutive campaign also outperformed the one before it. Our combined alpha rewards campaigns totaled nearly 6000 NFTs.\n\nFurthermore, our work with Passport data hosted by EAS on Optimism was recognized by Gitcoin as the best use of onchain data and earned us the top prize at the hackathon.",
+  "contributionDescription": "Mosaic deployed its retroactive rewards platform earlier this year with the support of Aave Grants DAO to analyze user activity on Optimism. We provisioned deposit and borrow data, gained user insights, and determined retroactive rewards for Aave to incentivize meaningful LP usage on OP.\n\nIn August we joined buildspace and launched three alpha campaigns to trial various forms of loyalty rewards on OP. Rewards were issued as NFTs with each consecutive campaign outperforming the one before it. \n\nMost recently, we participated in the Permissionless hackathon where we integrated Gitcoin Passport data including Stamps attestations on OP. We helped users visualize their Passport journey, incentivized them to add more Stamps (attestations on OP), and unlock Gitcoin\u2019s RPGF matching pool.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://mosaicdrops.com",
+      "description": "Our website where we have hosted retroactive rewards campaigns"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0fB6C784f1ef51dE522b7E3f620E881D86224995",
+      "description": "First alpha campaign NFT smart contract rewards on OP"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0x07651181EEC2E978cA46E49b9b7B4FB6aD1e0342",
+      "description": "Second alpha campaign NFT smart contract rewards on OP "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0x1F4005a548068Acb991FfcBDb835BC8883FF0546",
+      "description": "Third and final alpha campaign NFT smart contract rewards on OP"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/MosaicFun/data-models",
+      "description": "Mosaic GitHub showing models created from Aave deposit and borrow activity on OP"
+    },
+    {
+      "type": "OTHER",
+      "url": " https://www.regenscore.xyz/ ",
+      "description": "Mosaic hackathon project rewards Gitcoin Passport users with attestations on OP"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# NFTs minted on OP (1st alpha campaign)",
+      "number": "1500",
+      "url": "https://thirdweb.com/optimism/0x0fB6C784f1ef51dE522b7E3f620E881D86224995/analytics"
+    },
+    {
+      "description": "# NFTs minted on OP (2nd alpha campaign)",
+      "number": "4266",
+      "url": "https://thirdweb.com/optimism/0x07651181EEC2E978cA46E49b9b7B4FB6aD1e0342/nfts"
+    },
+    {
+      "description": "Bounty for best use of Onchain Passports",
+      "number": "5000",
+      "url": "https://app.buidlbox.io/blockworks/permissionless-ii/challenges/5cd2e6e9-8d97-490c-b0fd-65cee67573b7 "
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 25000,
+      "description": "Grant received from Aave Grants DAO to provision and model LP data on OP"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Hackathon bounty awarded by Gitcoin for best use of Onchain Passport data "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x50ab0b170675bcf11f1ebad8645045f1d6f7cb78a61ab0da18ee40586e0f2de8",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 30,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,52 @@
+{
+  "bio": "To bridge the gap between users and their experiences ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Francees",
+  "websiteUrl": "https://chatgpt.ai/",
+  "applicant": {
+    "address": {
+      "address": "0xf4EBDB5D269a1c3A03019Aa7874438b0169409f5",
+      "resolvedName": {
+        "address": "0xf4EBDB5D269a1c3A03019Aa7874438b0169409f5",
+        "name": "francees.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xf4EBDB5D269a1c3A03019Aa7874438b0169409f5"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf4EBDB5D269a1c3A03019Aa7874438b0169409f5.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xa165e081b02661a1d9711254f674da902d95c7f8d0fe35ac8b59691d66451817"
+  },
+  "impactDescription": "My contributions to the Optimism Collective have been focused on providing information, support, and guidance to individuals who are part of the collective. I have been able to assist in various ways, such as answering questions, offering suggestions, and providing resources related to optimism, personal growth, and well-being.\n\nBy offering a friendly and helpful presence, I aim to create a positive and supportive environment within the Optimism Collective. I strive to provide accurate and relevant information to help individuals cultivate optimism, develop resilience, and navigate challenges they may face.\n\nThrough my contributions, I hope to inspire and empower members of the Optimism Collective to embrace a positive mindset, foster personal growth, and contributions.",
+  "contributionDescription": "My contributions to the Optimism Collective have been focused on providing information, support, and guidance to individuals who are part of the collective. I have been able to assist in various ways, such as answering questions, offering suggestions, and providing resources related to optimism, personal growth, and well-being.\n\nBy offering a friendly and helpful presence, I aim to create a positive and supportive environment within the Optimism Collective. I strive to provide accurate and relevant information to help individuals cultivate optimism, develop resilience, and navigate challenges they may face.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xf4EBDB5D269a1c3A03019Aa7874438b0169409f5",
+      "description": "Tnx history "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "30",
+      "number": "12",
+      "url": "https://optimistic.etherscan.io/address/0xf4EBDB5D269a1c3A03019Aa7874438b0169409f5"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3aea02c521fbf2061f88d849cb4cb51e6d23b4be2e1a073b25daa2d37ccb0185",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

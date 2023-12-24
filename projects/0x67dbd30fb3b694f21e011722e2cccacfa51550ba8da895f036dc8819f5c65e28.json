@@ -1,0 +1,122 @@
+{
+  "bio": "Open source Web3 Social tools for web3 communities. WordPress for Web3 Social.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Iggy Social - Web3 Social for DAOs",
+  "websiteUrl": "https://iggy.social/",
+  "applicant": {
+    "address": {
+      "address": "0x5FfD23B1B0350debB17A2cB668929aC5f76d0E18",
+      "resolvedName": {
+        "address": "0x5FfD23B1B0350debB17A2cB668929aC5f76d0E18",
+        "name": "tekr0x.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x5FfD23B1B0350debB17A2cB668929aC5f76d0E18"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5FfD23B1B0350debB17A2cB668929aC5f76d0E18.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5FfD23B1B0350debB17A2cB668929aC5f76d0E18.png",
+    "id": "OptimistProfile|0x855ac3306f1c38f5e219b401e927bab7ebf491c002e2851a1c5a41a9077e072a"
+  },
+  "impactDescription": "Our contributions are open-source Web3 Social tools for DAOs and other web3 communities.\n\nThe impact of these tools is that members of these web3 communities are more actively engaged onchain compared to web2.\n\nMany users have used our tools resulting in on-chain actions on Base Network. Actions like minting a username, minting posts, sending tokens, etc.\n\nWhile our contributions are in their early stage we can see our impact through on-chain metrics:\n\n- Registering a username (web3 domain name).\n- Minting posts as NFTs (this is how users can reward or tip creators of great posts).\n- Creating your own NFT via NFT Launchpad (separate from post NFTs, users can also launch their own NFT collections through the NFT Launchpad).\n",
+  "contributionDescription": "Iggy Social is a set of free open-source tools that allow any DAO or web3 community to set up their own Web3 Social app, fully controlled by the community, and with useful web3 integrations and features that can bring additional revenue to the community treasury.\n\nIggy Social currently contributes to three projects on the Base network:\n\nBasePunk Chat: Their Web3 Social chat app includes features like posting and commenting, minting posts as NFTs (on Base Network), tipping and sending tokens, NFT launchpad,...\n\nBasebook.xyz - Social NFT Launchpad: Dapp that simplifies NFT creation and social connection between users and artists in one place.\n\nBased Names: BasedNouns is an NFT project on Base Network. They used our tools to launch a special TLD (.based) for their NFT holders.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://chat.basepunk.xyz/",
+      "description": "BasePunk Chat"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basebook.xyz/",
+      "description": "Basebook.xyz - Social NFT Launchpad"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basednames.xyz/",
+      "description": "Based Names"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/iggy-social ",
+      "description": "Github"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://iggy.social/ ",
+      "description": "Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://demo.iggy.social/ ",
+      "description": "Demo Web3 Chat"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/IggySocial ",
+      "description": "Twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "No. of minted domains - BasePunk",
+      "number": "287",
+      "url": "https://basescan.org/token/0xc2c543d39426bfd1db66bbde2dd9e4a5c7212876 "
+    },
+    {
+      "description": "No. of minted domains - Basebook.xyz",
+      "number": "350",
+      "url": "https://basescan.org/token/0x4087fb91a1fbdef05761c02714335d232a2bf3a1 "
+    },
+    {
+      "description": "No. of minted domains - BasedNouns",
+      "number": "147",
+      "url": "https://basescan.org/token/0x273db54929d8392c1997be361da89d41af202a49 "
+    },
+    {
+      "description": "No. of minted posts - BasePunk",
+      "number": "79",
+      "url": "https://opensea.io/collection/basepunk-chat-posts"
+    },
+    {
+      "description": "No. of minted posts - Basebook.xyz",
+      "number": "126",
+      "url": "https://opensea.io/collection/basebook-posts"
+    },
+    {
+      "description": "No. of collections - Basebook.xyz",
+      "number": "19",
+      "url": "https://basebook.xyz/"
+    },
+    {
+      "description": "No. of collections - BasePunk",
+      "number": "3",
+      "url": "https://chat.basepunk.xyz/nft"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 30000,
+      "description": "Gitcoin Grants (Punk Domains)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 16000,
+      "description": "Flare Network"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x67dbd30fb3b694f21e011722e2cccacfa51550ba8da895f036dc8819f5c65e28",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 32,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

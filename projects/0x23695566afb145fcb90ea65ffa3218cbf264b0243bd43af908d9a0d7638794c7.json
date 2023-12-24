@@ -1,0 +1,55 @@
+{
+  "bio": "Airdrop Hunter, Retro, Testnet, Etc",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "MihvaNFT",
+  "websiteUrl": "https://facebook.com/newsviral.ofc",
+  "applicant": {
+    "address": {
+      "address": "0x8B723C3A9c894F5E98EFF705793E792D5Cc8b866",
+      "resolvedName": {
+        "address": "0x8B723C3A9c894F5E98EFF705793E792D5Cc8b866",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x8B723C3A9c894F5E98EFF705793E792D5Cc8b866"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8B723C3A9c894F5E98EFF705793E792D5Cc8b866.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8B723C3A9c894F5E98EFF705793E792D5Cc8b866.png",
+    "id": "OptimistProfile|0xaf96445c26902b1e540cfa8f43434a8306d055efff41d7cff8f05f83764b1009"
+  },
+  "impactDescription": "Try the ecosystem and network speed op.\n\nWhatever I can contribute, Like swap or send or something similar, I just tried everything \n\nWhatever I can contribute, Like swap or send or something similar, I just tried everything \n\nWhatever I can contribute, Like swap or send or something similar, I just tried everything ",
+  "contributionDescription": "Whatever I can contribute, Like swap or send or something similar, I just tried everything \n\nWhatever I can contribute, Like swap or send or something similar, I just tried everything \n\nWhatever I can contribute, Like swap or send or something similar, I just tried everything ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0xb83a46447900f0637baab08ffa8ed03447e10bf0?a=0x8B723C3A9c894F5E98EFF705793E792D5Cc8b866",
+      "description": "Nft"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Explore",
+      "number": "21",
+      "url": "https://optimistic.etherscan.io/token/0xb83a46447900f0637baab08ffa8ed03447e10bf0?a=0x8B723C3A9c894F5E98EFF705793E792D5Cc8b866"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x23695566afb145fcb90ea65ffa3218cbf264b0243bd43af908d9a0d7638794c7",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

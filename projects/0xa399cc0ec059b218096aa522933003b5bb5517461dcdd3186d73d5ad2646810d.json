@@ -1,0 +1,52 @@
+{
+  "bio": "camels",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "W97",
+  "websiteUrl": "https://twitter.com/windy060697",
+  "applicant": {
+    "address": {
+      "address": "0x7C1461296CbBa0d92BACa619253eF5B797e12CFf",
+      "resolvedName": {
+        "address": "0x7C1461296CbBa0d92BACa619253eF5B797e12CFf",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x7C1461296CbBa0d92BACa619253eF5B797e12CFf"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x8e7faa4f932d4a558b1161ad6db1a172bbf5ea593ad82c4c7748609c32f21eee"
+  },
+  "impactDescription": "User Experience Enhancement: Designers and user experience experts have contributed to optimizing the user interface and experience of applications running on Optimism, making it more user-friendly.\n\nGovernance Participation: The community actively participates in governance decisions, voting on proposals to shape the future of the network. This ensures a democratic and decentralized decision-making process.\n\nDeveloper Grants and Support: Optimism provides grants and support for developers and projects aiming to build on the network, fostering innovation and adoption.\n",
+  "contributionDescription": "Smart Contract Development: Community developers have actively worked on creating and deploying smart contracts on the Optimism network. These contracts span various use cases, from decentralized finance (DeFi) to non-fungible tokens (NFTs), expanding the ecosystem.\n\nBug Reporting and Security Audits: The community plays a vital role in identifying and reporting bugs, ensuring the network's security and stability. Security audits have been conducted to strengthen the smart contracts and infrastructure.\n\nEducational Initiatives: Community members have initiated educational programs, webinars, and documentation to help users and developers understand how to interact with the Optimism network effectively.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x7C1461296CbBa0d92BACa619253eF5B797e12CFf",
+      "description": "Mint NFT Music"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "240",
+      "url": "https://optimistic.etherscan.io/address/0x7C1461296CbBa0d92BACa619253eF5B797e12CFf"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": "donate"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa399cc0ec059b218096aa522933003b5bb5517461dcdd3186d73d5ad2646810d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

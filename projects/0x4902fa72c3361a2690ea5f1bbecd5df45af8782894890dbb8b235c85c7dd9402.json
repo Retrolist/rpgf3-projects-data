@@ -1,0 +1,79 @@
+{
+  "bio": "I am a ather. I am. A trader . An I am a collocation of op network.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Ather",
+  "websiteUrl": "https://x.com/AtherItx?t=WakvdU16htQBHuv_VQIqIQ&s=09",
+  "applicant": {
+    "address": {
+      "address": "0xE791b92c1E9Fc7db3fa8e9C0483F505A993d2289",
+      "resolvedName": {
+        "address": "0xE791b92c1E9Fc7db3fa8e9C0483F505A993d2289",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xE791b92c1E9Fc7db3fa8e9C0483F505A993d2289"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE791b92c1E9Fc7db3fa8e9C0483F505A993d2289.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xE791b92c1E9Fc7db3fa8e9C0483F505A993d2289.png",
+    "id": "OptimistProfile|0xb72ae4cff2c47d43bda3c83ef5b76fad9c5dd14175307eb573f600af33f4c338"
+  },
+  "impactDescription": "Our daily briefing boosts Optimism Collective's brand awareness, reaching over 2,000 crypto enthusiasts. We\nprovide essential OP News coverage, keeping end-users, developers, journalists, and crypto security firms informed about network upgrades, new OP Stack chains, and airdrops. Our briefs have even inspired news articles, like this one published by The Block on Optimism Airdrop 3 after the journalist read our newsletter.",
+  "contributionDescription": "We provided over 100 OP News updates to our audience of 2,000 podcast listeners and 230 newsletter subscribers. In the fast-changing Optimism Collective, we play a crucial role in keeping users well-informed. OP News is a series of Optimism-related updates featured within our Ethereum News flash briefing in a dedicated segment called Optimism Highlights.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://ethdaily.io/tag/optimism",
+      "description": "A collection of over 100 OP News blog posts"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Audio download ",
+      "number": "39739",
+      "url": "https://docs.google.com/spreadsheets/d/15_4h9yUErq73uhif0_OeGUCF-sePBN8xiXDartilvZA/htmlview"
+    },
+    {
+      "description": "Twitter impressions",
+      "number": "58155",
+      "url": "https://docs.google.com/spreadsheets/d/15_4h9yUErq73uhlf0_OeGUC"
+    },
+    {
+      "description": "Mirror-Writing NFTS",
+      "number": "150",
+      "url": "https://ethdaily.mirror.xyz/"
+    },
+    {
+      "description": "1/1 OP Podcast NFTS",
+      "number": "36",
+      "url": "https://zora.co/ethdaily.eth"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 700,
+      "description": "We are waiting for matching  results from GG18 to be announced."
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 1800,
+      "description": "Podcast ad placements sold in April 2023."
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 500,
+      "description": "Cycle 13 growth grant - all Tokens were given to our podcast listeners"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4902fa72c3361a2690ea5f1bbecd5df45af8782894890dbb8b235c85c7dd9402",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

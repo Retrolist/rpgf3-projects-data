@@ -1,0 +1,53 @@
+{
+  "bio": "An accomplished software engineer and architect",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "0xSalman",
+  "websiteUrl": "https://notadegen.com/",
+  "applicant": {
+    "address": {
+      "address": "0xBae5aBDc9BdB50d4DE0ac07eE13f233e6AF2Eaae",
+      "resolvedName": {
+        "address": "0xBae5aBDc9BdB50d4DE0ac07eE13f233e6AF2Eaae",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xBae5aBDc9BdB50d4DE0ac07eE13f233e6AF2Eaae"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x4957bee9a9be35754e0d0bbc0fc5ea6ea7a818cc807bce9457cfb99bc03ccf16"
+  },
+  "impactDescription": "My archival nodes have allowed developers & users to have unlimited access to RPC api with free of charge. My nodes have served more than 3 billion requests in the last two months. It has made the developers life easy because they can use these nodes without having to worry about api limits and expensive bills.",
+  "contributionDescription": "I run BASE archival nodes as a public good service. They are free of charge with no IP tracking and api limits. I pay for the servers from my pocket with no outside funding or grant. I also maintain them myself with no outside help. There have been no issues with the nodes infrastructure since I launched them in August.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://notadegen.com/",
+      "description": "Website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Last 30 days requests ",
+      "number": "1340000000",
+      "url": "https://pasteboard.co/exXiWW5ra4QT.png"
+    },
+    {
+      "description": "Last 30 days Unique Users",
+      "number": "88800",
+      "url": "https://pasteboard.co/exXiWW5ra4QT.png"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x5effc6bf83d22623146bdd81e6bb55bc287b68aced8ad0d4be8cccbf5f408b19",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 19,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

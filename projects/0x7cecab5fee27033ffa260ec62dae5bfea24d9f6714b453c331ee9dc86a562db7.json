@@ -1,0 +1,95 @@
+{
+  "bio": "Educational Influencer & Researcher in Thailand",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Zero to Crypto",
+  "websiteUrl": "https://www.facebook.com/zerotocryptoTH",
+  "applicant": {
+    "address": {
+      "address": "0x3D2c984b5e19706c13529855f50fc5482De23bFf",
+      "resolvedName": {
+        "address": "0x3D2c984b5e19706c13529855f50fc5482De23bFf",
+        "name": "zerotocrypto.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3D2c984b5e19706c13529855f50fc5482De23bFf"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3D2c984b5e19706c13529855f50fc5482De23bFf.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3D2c984b5e19706c13529855f50fc5482De23bFf.png",
+    "id": "OptimistProfile|0x60ce62d0238ec80b74bdf9609bc084cea0ed6e0ad8b041d324f63b7550a9b275"
+  },
+  "impactDescription": "I created my social media platform for sharing content in 2022. I began with a Facebook page that shared information about interesting dApps, airdrops, security, and educational content.\n\nAfterward, I transitioned to creating a Twitter account dedicated to sharing educational content and became a full-time researcher. I have successfully introduced numerous end users to the Optimism, Ethereum and Crypto ecosystems.",
+  "contributionDescription": "Create educational content and bring Thai user to Optimism ecosystem.\n\n\nCertainly, here's a corrected version of your statement with improved grammar and clarity:\n\nI have created educational content to educate the Thai community, including dApps deep dive, ecosystem guides, and security materials. Additionally, I have been instrumental in building the Thai community by organizing numerous offline and online events, helping to introduce them to the Optimism and Ethereum ecosystems.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ztc2022/status/1715259564608921693",
+      "description": "Optimism RetroPGF"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.facebook.com/zerotocryptoTH/posts/pfbid0c27RHadiNNJ9ukFzjQxwm7m5XZnf88p36yZ4pdMsU2a1H4xiBKwXiwuHUDydkob1l",
+      "description": "Optimism Ecosystem Guide"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://drive.google.com/drive/u/0/folders/1Y5z9gPZgpY6fmXP_VEIb0nv6i0d4wDwc",
+      "description": "Ethereum Offline meetup (Moderator)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.facebook.com/zerotocryptoTH/posts/pfbid0c2YkpPep5sKcwRFrxm9WokLffDoSVBwVQpM2vTkHPxsxPLbzDdG1z4HyJ5e3Rqx4l",
+      "description": "Metamask Update"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.facebook.com/zerotocryptoTH/posts/pfbid024nkYcuhazznaUtkko6UqdSjKGq59bRm8hCCdoWeTL4eu5bNPko2k8su1c6fMF7w2l",
+      "description": "Gitcoin Grant Donation"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.facebook.com/zerotocryptoTH/posts/pfbid02SPAyBsMuhg2ZbZEUv3PkKBuyD2DndEiDg3rjmkgysiUADn1aux1sAHqvUJaxDVpwl",
+      "description": "AltLayer: Rollup As A Service"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ztc2022/status/1713932802658627620",
+      "description": "Celestia: Modular Blockchain"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.facebook.com/zerotocryptoTH/posts/pfbid0hSxsusXxrivX5d23zRDjG7FfFpF81cqKhnrCMFwcWJRqDCg9999n1Jeekb6Ms79cl",
+      "description": "Connext: Crosschain Bridge"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.facebook.com/zerotocryptoTH/posts/pfbid0XpuBnEqcteNZS2KT5sFe9sVYPStmKYY4Zn7eZUPFMacyUvLgB9N1haRnRsM3zGdgl",
+      "description": "ClayStack: Liquid Staking"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total Follower",
+      "number": "3000",
+      "url": "https://www.facebook.com/zerotocryptoTH/"
+    },
+    {
+      "description": "Content about Crypto",
+      "number": "100",
+      "url": "https://www.facebook.com/zerotocryptoTH/"
+    },
+    {
+      "description": "Social Media Impression",
+      "number": "50000",
+      "url": "https://twitter.com/home"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7cecab5fee27033ffa260ec62dae5bfea24d9f6714b453c331ee9dc86a562db7",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,95 @@
+{
+  "bio": "Fostering D&I on web3 through blockchain education for public Brazilian schools",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Blockchain na Escola",
+  "websiteUrl": "https://blockchainnaescola.org/",
+  "applicant": {
+    "address": {
+      "address": "0x52fb5461fb325C5F8D3e8443ec10527e32dA72e2",
+      "resolvedName": {
+        "address": "0x52fb5461fb325C5F8D3e8443ec10527e32dA72e2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x52fb5461fb325C5F8D3e8443ec10527e32dA72e2"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x52fb5461fb325C5F8D3e8443ec10527e32dA72e2.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x52fb5461fb325C5F8D3e8443ec10527e32dA72e2.png",
+    "id": "OptimistProfile|0xc3acae382c89857dffb70e79e728b4ca266f4d38a01d9f9f3350fde8b57ae95d"
+  },
+  "impactDescription": "Results achieved in the last 12 months:\n\n- Created a 12-week ReFi course and 2h blockchain fundamentals workshop for public school students between 13-18 years old\n- Raised awareness around web3 through workshops for 500+ Brazilian public schools students with a focus on ReFi \n- Raised awareness around web3 use cases among entrepreneurs on talks at Suape\u2019s Industrial Portuary Complex and the Bahia Expo event, organized by SEBRAE.\n- Minted over 30K NFT certificates from courses created in the 101.xyz platform\n- Certified 80 students in the blockchain fundamentals workshop in \n- Sent our education token ($NOS) to 50 students (no financial value) \n- Started conversations with the Education Department from the Bahia state to institutionalize our blockchain curriculum at public schools",
+  "contributionDescription": "15M Brazilians own crypto assets, however the lack of crypto-related subjects in regular school materials underscores a gap in the conventional curriculum.\n\nWe aim to increase safety and awareness around web3, and offer students hope and the technological tools to build a better future.\n\nHence, we've created a ReFi fundamentals 2h workshop and a ReFi entrepreneurship 12-week program aimed at public school students from 13-17. \n\nWe're focusing on public schools to make sure this technology can benefit traditionally underserved communities. \n\nWe're aiming at high school students to provide them with different perspectives for the future. \n\nBnE is the first and most successful educational initiative that brings Web3 content through the ReFi lens to regular public schools in Brazil.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://explorer.celo.org/mainnet/token/0x50510fF21bc8b9888bDA5c48B6badF0E59Eae76A/token-transfers",
+      "description": "NFT certification"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://explorer.celo.org/alfajores/token/0x569772C2807bfFC0633B1f28eD51589c26236A10/token-holders",
+      "description": "$NOS token (contract 1)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://explorer.celo.org/alfajores/token/0x630CC7cdb94fe50AaEAA919A2Fc9F04Aca2414b5/token-holders",
+      "description": "$NOS token (contract 2 - we had to create a new one)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://linktr.ee/blockchainnaescola",
+      "description": "Prezenti grant report and article on our educational journey "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1Ey8eGyndCn_4eFZwAmPkSoHY75MJILQmzkJF4m-oYTE/edit",
+      "description": "12-week ReFi course, combining environment, entrepreneurship and web3 education"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.canva.com/design/DAFjAv4tZIs/uIg_xPwXgDxO47mZULwC_A/edit?utm_content=DAFjAv4tZIs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "description": "2h Blockchain fundamentals workshop"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total Students impacted",
+      "number": "500",
+      "url": "https://docs.google.com/document/d/18IHEKxnAJWcT9EoyOR_k0Eb_dOJkxhjC-hdTsns3jV4/edit"
+    },
+    {
+      "description": "Students certified (NFT minted)",
+      "number": "74",
+      "url": "https://explorer.celo.org/mainnet/token/0x50510fF21bc8b9888bDA5c48B6badF0E59Eae76A/token-transfers"
+    },
+    {
+      "description": "Students that received the $NOS token",
+      "number": "50",
+      "url": "https://explorer.celo.org/alfajores/token/0x569772C2807bfFC0633B1f28eD51589c26236A10/token-holders / https://explorer.celo.org/alfajores/token/0x630CC7cdb94fe50AaEAA919A2Fc9F04Aca2414b5/token-holders"
+    },
+    {
+      "description": "Completion 101.xyz modules (deprecated) ",
+      "number": "30000",
+      "url": "https://drive.google.com/drive/folders/1q9G06grLDeGcXk7rtMyhZ_aV0xFrx_ui?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 30000,
+      "description": "Prezenti grant (December 2022 - July 2023)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb8eaf64a68197ba69868bcd9f8340c5ca66ca060428878199e8d9ee7849c896e",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 30,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

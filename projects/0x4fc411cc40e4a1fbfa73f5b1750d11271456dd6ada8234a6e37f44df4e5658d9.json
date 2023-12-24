@@ -1,0 +1,63 @@
+{
+  "bio": "Currently contribution to OSS projects. Mostly TS and Solidity.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Raiden",
+  "websiteUrl": "https://raiden-dev.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xBdB14cfFC78B901299Dc878adD11273C621fF5B8",
+      "resolvedName": {
+        "address": "0xBdB14cfFC78B901299Dc878adD11273C621fF5B8",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xBdB14cfFC78B901299Dc878adD11273C621fF5B8"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBdB14cfFC78B901299Dc878adD11273C621fF5B8.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xBdB14cfFC78B901299Dc878adD11273C621fF5B8.jpeg",
+    "id": "OptimistProfile|0x1a2d0f345ae930544f1594137a2b38452de9179e564136a1f52ac80958863fdc"
+  },
+  "impactDescription": "My contributions hopefully had the impact of increasing the developer experience for folks using the wagmi toolchain and also trying to share resources in learning more of the advances topics of solidity while trying to also contribute into its developer ecosystem.",
+  "contributionDescription": "Most of my work to help grow the ecosystem has been with the wagmi libraries. I am currently working as a collaborator on Abitype with one of the wagmi folks. I started working on the projects by the end of January with the contribution of the human-readable type/runtime parser and from there on I've tried to contribute/help as much as I could and hope to continue to do so in the future.\nOther notables contributions are some commits into to the early stage of viem's public release where i helped develop the parse/serialize transaction functionality.\nI've also contributed to Solady in 2022, where I contributed to the LibString library that it uses.\nAs for my own repos I created a Library of string utils where the focus was to share resources to learn and my own experience in writing yul.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/wagmi-dev/abitype",
+      "description": "Strict TypeScript types for Ethereum ABIs"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/wagmi-dev/viem",
+      "description": "TypeScript Interface for Ethereum"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Raiden1411/LibStringUtils",
+      "description": "Solidity string utilities written in yul"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Vectorized/solady",
+      "description": "Optimized Solidity snippets."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Abitype commits (main)",
+      "number": "25",
+      "url": "https://github.com/wagmi-dev/abitype/graphs/contributors"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4fc411cc40e4a1fbfa73f5b1750d11271456dd6ada8234a6e37f44df4e5658d9",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 8,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

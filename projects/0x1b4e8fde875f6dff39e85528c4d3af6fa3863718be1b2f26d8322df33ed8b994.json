@@ -1,0 +1,117 @@
+{
+  "bio": "Hi I'm RogerRabbit , I love to sharing knowledge with others. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "RogerRabbit",
+  "websiteUrl": "https://twitter.com/rogerrabbitct",
+  "applicant": {
+    "address": {
+      "address": "0xA9fAb059d145C73d6A685C3F6e88deb08F433b1D",
+      "resolvedName": {
+        "address": "0xA9fAb059d145C73d6A685C3F6e88deb08F433b1D",
+        "name": "rogerrabbitth.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xA9fAb059d145C73d6A685C3F6e88deb08F433b1D"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA9fAb059d145C73d6A685C3F6e88deb08F433b1D.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA9fAb059d145C73d6A685C3F6e88deb08F433b1D.png",
+    "id": "OptimistProfile|0xb6136c13bb8418e158ec2f87759efa7eae7171f86ca33bd84bd0c15968a83bf0"
+  },
+  "impactDescription": "In the world of crypto, there is a lot of misinformation and scams.\n\nAs I mentioned before, I like to help people learn more about crypto and be more secure in their use. That's why I want to share my knowledge and information with others so that they can understand.\n\nIt's a good thing, and I will continue to do it in the future. Whether you have used Web3 or not, it is something that I have always wanted to do. I am glad that sometimes I have been able to be a part of helping people, wherever they are in the world.",
+  "contributionDescription": "In the past, I have created a lot of content on social media about the world of crypto. \n\nThis includes content on how to protect your wallet, experiences of people who have been hacked, useful projects, tools, how to play GameFi, teaching people how to run nodes in simple language, and writing stories and sharing my experiences and recommending people to follow.\n\nI use simple and informal language that is easy to understand. I hope that in the past, it has been helpful to people and has helped them to understand the world of crypto and be more secure in their use of crypto.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/rogerrabbitct/status/1682023745597341697",
+      "description": "I have previously recommended Fire Extension to people as a way to prevent scams"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/rogerrabbitct/status/1685515895920336897",
+      "description": "I spread awareness of how to prevent cryptocurrency wallet hacks."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/rogerrabbitct/status/1684948137000255488",
+      "description": "I recommend new projects that are likely to be beneficial to everyone."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=ghKdyhX3El8",
+      "description": "I have previously helped teach people how to run nodes in the crypto world."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=UoADZsbaxec&t=2s",
+      "description": "I have previously taught how to deploy smart contracts on crypto."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=5PzkC5-6M94",
+      "description": "Game The Sandbox and shared methods on how to pass the different levels"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/rogerrabbitct/status/1684564423913140226",
+      "description": "I have discussed the use of Infura, its applications, and its benefits."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/rogerrabbitct/status/1714511161050415566",
+      "description": "I have written and shared my stories and those of the people I follow."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": " Content",
+      "number": "2570",
+      "url": "https://twitter.com/rogerrabbitct/status/1682023745597341697"
+    },
+    {
+      "description": "Content",
+      "number": "12700",
+      "url": "https://twitter.com/rogerrabbitct/status/1714511161050415566"
+    },
+    {
+      "description": "Content",
+      "number": "12800",
+      "url": "https://twitter.com/rogerrabbitct/status/1684948137000255488"
+    },
+    {
+      "description": "Content",
+      "number": "7918",
+      "url": "https://twitter.com/rogerrabbitct/status/1668535083404529664"
+    },
+    {
+      "description": "Content",
+      "number": "19300",
+      "url": "https://twitter.com/rogerrabbitct/status/1685515895920336897"
+    },
+    {
+      "description": "Content",
+      "number": "8495",
+      "url": "https://twitter.com/rogerrabbitct/status/1684564423913140226"
+    },
+    {
+      "description": "Content",
+      "number": "16900",
+      "url": "https://twitter.com/rogerrabbitct/status/1683100633564598273"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I have never received any Grants."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x1b4e8fde875f6dff39e85528c4d3af6fa3863718be1b2f26d8322df33ed8b994",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

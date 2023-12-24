@@ -1,0 +1,91 @@
+{
+  "bio": "An onchain media collective producing engaging educational content about web 3.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "The Noun Square Media Collective",
+  "websiteUrl": "http://tns.wtf",
+  "applicant": {
+    "address": {
+      "address": "0x5D802e2Fe48392c104Ce0401C7ECa8a4456f1F16",
+      "resolvedName": {
+        "address": "0x5D802e2Fe48392c104Ce0401C7ECa8a4456f1F16",
+        "name": "toadyhawk.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x5D802e2Fe48392c104Ce0401C7ECa8a4456f1F16"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5D802e2Fe48392c104Ce0401C7ECa8a4456f1F16.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5D802e2Fe48392c104Ce0401C7ECa8a4456f1F16.png",
+    "id": "OptimistProfile|0x65b8f9e3d91a8bdc157babb0a576d8ca8c74aaae3f8dfc1d49cf799acaef99fd"
+  },
+  "impactDescription": "The success of Ethereum (and by extension, Optimism) depends heavily on our ability to teach people how to use L2's daily, without friction and frustration. This requires us to meet users where they are, solve their specific problems, and educate them in an entertaining, jargon-less way. But unlike a regular online content house, as an onchain collective we have been able to leverage the OP stack in our core infrastructure so that we're not only talking the talk, but walking the walk! Not only have we produced high quality videos, panels & podcasts about Optimism, Zora & BASE, but we have also taken steps to involve our community in actually using these networks to mint our content and our community NFT collections. People learn best by doing, and we are putting that to the test every day.",
+  "contributionDescription": "We are an onchain media collective, dedicated to the creation of educational & engaging content about Ethereum, DAOs, L2s, NFTs, Art & more. We noticed an interesting problem when talking to our community: They wanted to Enjoy Ethereum, but they were fed up with paying high gas fees. We decided to make it part of our mandate to teach our 20,000+ followers about the benefits of using OP chains, & show them how to do it.\n\nWe migrated our daily edition collection \"NOMO Nouns\" from mainnet to OP, started minting our podcasts as FREE mints on Zora L2 & are launching a DAO on BASE L2 using Nouns Builder. All the while, we've been educating our community about OP on daily Twitter Spaces, weekly pods & educational videos on YT & other socials, making sure they are prepared for a Superchain future.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://tns.wtf/tns-x-op-stack",
+      "description": "A standalone page on our website that highlights our OP content & initiatives."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x1464ebbf9ecd642d42db8e8827919fdd4a786987",
+      "description": "Contract for recently-migrated NOMO Nouns, our daily community 24H edition mint."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/thenounsquare/status/1707238441463792003?s=20",
+      "description": "Video w/ 6000 impressions that explains OP in layman's terms + how to bridge"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/V4raMn3pCjQ?si=Vnt4E1UTM9hVMLd4",
+      "description": "Binji Pande talking OP on our popular weekly video podcast Zero Rights Reserved"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zora.co/collect/zora:0x20035fea4dd659553233fe5ea3ca207e6427b5eb",
+      "description": "Our 1155 Onchain Collection of our ZEROPOD, free mintable on ZORA L2"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/U1B50NrIqVM?si=8HWhfH6qXpKTS3ZK",
+      "description": "Recording of Educational Twitter Space with Jesse Pollak from BASE"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/yvMNGfocbsY?si=Ag-2HjQZLAZVVQ2u",
+      "description": "Educational walk-through video on how to bridge to Optimism and purchase an NFT"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://tns.wtf",
+      "description": "Our main website with a summary of all our content and socials."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Impressions & Other Impact Metrics",
+      "number": "83000",
+      "url": "https://docs.google.com/spreadsheets/d/17mQ3PGlWBAsA5JeFtGN_UolP7zpoDKcySl6RcFNXo6s/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 3900,
+      "description": "Gitcoin Grant #GG18 Web 3 Education Category"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x47fb1ee20e9de14d6603a2a4b55ba558412bbd506132c7dcaa2a313019ac8785",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 33,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

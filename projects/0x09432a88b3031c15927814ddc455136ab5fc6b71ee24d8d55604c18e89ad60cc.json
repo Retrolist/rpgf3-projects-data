@@ -1,0 +1,45 @@
+{
+  "bio": "I AM A NERD",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "ELEXY",
+  "websiteUrl": "https://github.com/Elexy101",
+  "applicant": {
+    "address": {
+      "address": "0x4D7BCF37c4F04F8780A40c101e7475E4132EC296",
+      "resolvedName": {
+        "address": "0x4D7BCF37c4F04F8780A40c101e7475E4132EC296",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x4D7BCF37c4F04F8780A40c101e7475E4132EC296"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4D7BCF37c4F04F8780A40c101e7475E4132EC296.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4D7BCF37c4F04F8780A40c101e7475E4132EC296.png",
+    "id": "OptimistProfile|0x1ccf00e6d7b126436de20925caa9829aa8e9a1c7fd9ea80c85d1e8fd780d0758"
+  },
+  "impactDescription": "\nMy contributions have strengthened the Optimism Collective by improving platform performance, nurturing a vibrant community, and increasing visibility. These efforts have elevated user confidence and participation in the Optimism ecosystem, fostering growth and innovation.",
+  "contributionDescription": "RetroPGF Round 2\n\nI actively contributed to Optimism through code enhancements, fostering community engagement, and spreading awareness, hoping to receive recognition and support for these efforts. #OptimismContributions\n\nCelebrating Achievements: I've advocated for acknowledging and celebrating our collective and individual achievements. Recognizing milestones, both big and small, is a powerful way to boost morale and sustain an optimistic atmosphere.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xcd98de456b233d828e4419eb1c24424fa02d8714",
+      "description": "RetroPGF Round 2"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "null",
+      "number": "0",
+      "url": "https://github.com/Elexy101"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x09432a88b3031c15927814ddc455136ab5fc6b71ee24d8d55604c18e89ad60cc",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

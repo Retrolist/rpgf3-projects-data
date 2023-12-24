@@ -1,0 +1,54 @@
+{
+  "bio": "L2\u7528\u6237",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "zhongjin",
+  "websiteUrl": "https://twitter.com/zhongji15849020",
+  "applicant": {
+    "address": {
+      "address": "0x6ea24f3cDDDF5B88F90B73A2d7df7ad9C0f9BEC4",
+      "resolvedName": {
+        "address": "0x6ea24f3cDDDF5B88F90B73A2d7df7ad9C0f9BEC4",
+        "name": "ens8848.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x6ea24f3cDDDF5B88F90B73A2d7df7ad9C0f9BEC4"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6ea24f3cDDDF5B88F90B73A2d7df7ad9C0f9BEC4.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x48d3e6780c23e003ee1d02e8712936acc0380f6f541cd38b98f9bb5b12e5c205"
+  },
+  "impactDescription": "Applications for RetroPGF Round 3 are open!\n\nIn this round 30M OP will be allocated to the builders, artists, creators, and educators who have demonstrated their impact in building the Optimism Collective.\n\nSign up now: https://app.optimism.io/retropgf-signup",
+  "contributionDescription": "\u6295\u7968\u6cbb\u7406 \u94fe\u4e0a\u6d3b\u8dc3Applications for RetroPGF Round 3 are open!\n\nIn this round 30M OP will be allocated to the builders, artists, creators, and educators who have demonstrated their impact in building the Optimism Collective.\n\nSign up now: https://app.optimism.io/retropgf-signup",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/zhongji15849020",
+      "description": "RetroPGF Round 3"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "RetroPGF Round 3",
+      "number": "200",
+      "url": "https://twitter.com/zhongji15849020"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 200,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4ffd4e47ed5fcbb58427303011819c20b897cd7d3678634fad11c1b75d564a5e",
+  "prelimResult": "Remove",
+  "reportReason": "spam"
+}

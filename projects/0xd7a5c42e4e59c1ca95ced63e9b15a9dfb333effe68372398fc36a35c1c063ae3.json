@@ -1,0 +1,58 @@
+{
+  "bio": "Lorak is an innovative scalable onchain game on Base, using the 6551-eip.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "LandTorn - Lorak",
+  "websiteUrl": "https://landtorn.com/lorak",
+  "applicant": {
+    "address": {
+      "address": "0xD4cD61Ea9E2dbe67E1cFa454fD10113ba6D647c9",
+      "resolvedName": {
+        "address": "0xD4cD61Ea9E2dbe67E1cFa454fD10113ba6D647c9",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xD4cD61Ea9E2dbe67E1cFa454fD10113ba6D647c9"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD4cD61Ea9E2dbe67E1cFa454fD10113ba6D647c9.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD4cD61Ea9E2dbe67E1cFa454fD10113ba6D647c9.png",
+    "id": "OptimistProfile|0xed19079e3687e82ee4e2741c2db0d69d1786de62b660a529b748df991bec35d1"
+  },
+  "impactDescription": "Lorak's impact has been felt through over 80k+ In-game character NFTs minted, over 10K unique players interfacing with our game. 410,000+ transactions processed through our contracts. Lorak, part of onchain summer on Base, is an experimental on-chain idle game built using the ERC-6551 standard, testing the limits of Token Bound accounts.\n\nBuilt a new community of game enjoyers on Optimism-Base of over 3K people. \n\nWe believe our impact is not only in the growth and showcase of a successful large scale onchain game, but also in the form of building a community of like-minded people and developers interested in onchain games. Through Landtorn we are building a whole ecosystem of onchain games on Optimism-Base and support their growth with our findings in game development & blueprints.",
+  "contributionDescription": "Lorak is live on Mainnet, since the launch of Base, and since has processed over 450k+ TXs in total. We believe that it is now one of the largest onchain games on Optimism overall. Furthermore our development acts as a blueprint for other onchain games to emerge on Optimism. \n\nLorak innovates with in-game state on-chain, experimentation in asset ownership, specifically using 6551-eip in our game we've been able to implement ownership of in-game items tied to the in-game character NFT. Which allowed for an RPG type game to thrive with over 300+ NFTs to find as loot.\n\nBehind Lorak is LandTorn is a gaming hub built on Optimisim Base, acting as a publisher and distributor of games with a focus on on-chain innovation. We are helping other onchain games build towards a future on Optimism.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://landtorn.com",
+      "description": "Landtorn Website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Spoil Transactions",
+      "number": "34.626",
+      "url": "https://basescan.org/address/0x9f9401eE604F7725255c756B99e416754BA0B910"
+    },
+    {
+      "description": "Settlers Minted",
+      "number": "80.967",
+      "url": "https://basescan.org/token/0xB311Ec23c4A7578a4c18F66774a5d7b51DD1DD07"
+    },
+    {
+      "description": "Dungeons Transactions",
+      "number": "416.746",
+      "url": "https://basescan.org/token/0x9f9401eE604F7725255c756B99e416754BA0B910"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd7a5c42e4e59c1ca95ced63e9b15a9dfb333effe68372398fc36a35c1c063ae3",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 32,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

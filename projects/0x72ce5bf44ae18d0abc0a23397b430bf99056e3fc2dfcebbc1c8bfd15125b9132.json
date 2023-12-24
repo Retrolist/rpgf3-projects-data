@@ -1,0 +1,53 @@
+{
+  "bio": " Actively participate in governance work and provide suggestions for projects",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "selina",
+  "websiteUrl": "https://vote.optimism.io/delegate/wangyuefeng.eth",
+  "applicant": {
+    "address": {
+      "address": "0x43f9c4C6592853fC6e87e4280f84ace6a344d8e7",
+      "resolvedName": {
+        "address": "0x43f9c4C6592853fC6e87e4280f84ace6a344d8e7",
+        "name": "wangyuefeng.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x43f9c4C6592853fC6e87e4280f84ace6a344d8e7"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3eddb7624542b0a68671e0683b2f1a5bdbb8a529d38c03cdb305d427d69043ae"
+  },
+  "impactDescription": "I have been using OP network since 2021 and I think it will be the best L2. Therefore, I was rewarded with OP tokens. I am honored to participate in OP's governance and contribute to the decentralization of the blockchain. I actively promote the practicality and low cost of the OP network. Currently, more people are using the OP network and enjoying the low fees brought by the OP network.",
+  "contributionDescription": "I have been using the OP network since 2021 and I think it will be the best L2. Therefore, I received a reward of OP tokens. I am honored to participate in the governance of OP and contribute to the decentralization of the blockchain. I actively promote the practicality and low cost of the OP network, and hope to see more Many people come to use it.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://vote.optimism.io/delegate/wangyuefeng.eth",
+      "description": "dao"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "1",
+      "url": "https://vote.optimism.io/delegate/wangyuefeng.eth"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 8000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x72ce5bf44ae18d0abc0a23397b430bf99056e3fc2dfcebbc1c8bfd15125b9132",
+  "prelimResult": "Remove",
+  "reportReason": "No impact. User interactions on OP Mainnet, are not in scope to be rewarded in RetroPGF 3."
+}

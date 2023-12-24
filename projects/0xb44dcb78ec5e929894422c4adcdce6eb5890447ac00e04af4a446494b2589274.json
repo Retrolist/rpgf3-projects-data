@@ -1,0 +1,72 @@
+{
+  "bio": "Digital creator specializing in 3D & AI animations.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "AndreOshea",
+  "websiteUrl": "https://andreoshea.com",
+  "applicant": {
+    "address": {
+      "address": "0x34d05Abb475c6F65F70fF6427edA8dB9CE4D40ad",
+      "resolvedName": {
+        "address": "0x34d05Abb475c6F65F70fF6427edA8dB9CE4D40ad",
+        "name": "andreoshea.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x34d05Abb475c6F65F70fF6427edA8dB9CE4D40ad"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x34d05Abb475c6F65F70fF6427edA8dB9CE4D40ad.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x34d05Abb475c6F65F70fF6427edA8dB9CE4D40ad.png",
+    "id": "OptimistProfile|0xa1500a0cb5542fd08fcb3e2112fb6399928814386df1ba41a7aa34b8bfccbc16"
+  },
+  "impactDescription": "Between the 3 campaigns, I was part of -- Base Builder Quest in April 2023 followed by my 2 Base Onchain Summer drops, with Manifold & Zora in Aug 2023 -- my artwork reached almost 1.5M wallets. I have successfully demonstrated my commitment to User Adoption of the Optimism Superchain as a creator, builder, and ambassador. ",
+  "contributionDescription": "I was one of the first creators commissioned to create an artwork for Base in early 2023 to launch their Base Builder Quest -- the NFT was collected by over 1.4 million unique wallets. I have also participated in Base's Onchain Summer by collaborating with Base alongside Manifold as well as an additional Onchain Summer drop in collaboration with Zora. Both Onchain Summer initiatives resulted in over 1,500 total tokens collected. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://onchainsummer.xyz/manifold",
+      "description": "Link to my Base x Manifold, Onchain Summer NFT"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zora.co/collect/base:0x131fec6d20568684612380ceb796408d86fd05ed",
+      "description": "Link to my Base x Zora, Onchain Summer NFT"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://goerli.basescan.org/token/0xac6564f3718837caadd42eed742d75c12b90a052",
+      "description": "Base Builder Quest NFT, 1.48M unique wallets"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Collected Tokens ",
+      "number": "1481325",
+      "url": "https://goerli.basescan.org/token/0xac6564f3718837caadd42eed742d75c12b90a052"
+    },
+    {
+      "description": "Collected Tokens",
+      "number": "779",
+      "url": "https://zora.co/collect/base:0x131fec6d20568684612380ceb796408d86fd05ed"
+    },
+    {
+      "description": "Collected Tokens",
+      "number": "741",
+      "url": "https://app.manifold.xyz/c/carpegm5?utm_source=leaderboard_day_claim&utm_campaign=https%3A%2F%2Fapp.manifold.xyz%2F&utm_medium=app.manifold.xyz"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "I did receive any direct Grants of Funding for my contributions "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xb44dcb78ec5e929894422c4adcdce6eb5890447ac00e04af4a446494b2589274",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

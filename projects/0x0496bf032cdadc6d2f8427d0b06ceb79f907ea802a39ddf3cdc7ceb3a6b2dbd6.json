@@ -1,0 +1,60 @@
+{
+  "bio": "I am artist from born and now working on crypto arts",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "ShivaSwap",
+  "websiteUrl": "https://twitter.com/ManojYa67345756",
+  "applicant": {
+    "address": {
+      "address": "0x8092b1C179A87eba3B4733d93158422db6A75f57",
+      "resolvedName": {
+        "address": "0x8092b1C179A87eba3B4733d93158422db6A75f57",
+        "name": "manojyadav.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8092b1C179A87eba3B4733d93158422db6A75f57"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8092b1C179A87eba3B4733d93158422db6A75f57.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8092b1C179A87eba3B4733d93158422db6A75f57.jpeg",
+    "id": "OptimistProfile|0xa5bdddc192a0aa04cfb7f99570c96aa4cf935d08fae85cff39f3e1103a89092b"
+  },
+  "impactDescription": "it will grow the community's of optimism and will increase hopes and loyalty of optimism chain. it will be number one as layer two solution as fork of etherium cahin. it is great shadow  chain of the etherium mainnet. it will be the future of the word and will increase manner of decentralized payment system.",
+  "contributionDescription": "I am early adopter of optimism and i deployed NFTs on its early market places. i advertise about OP in my community's. traded here since last long time with best tokens like uniswap and 1 inch like protocols. \n    now i am also using gitcoin grants  with the use of optimism chain. i am optimism lover...",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/ManojYa67345756",
+      "description": "working together"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/ManojYa67345756",
+      "description": "love  it"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "11",
+      "number": "420",
+      "url": "https://twitter.com/ManojYa67345756"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x0496bf032cdadc6d2f8427d0b06ceb79f907ea802a39ddf3cdc7ceb3a6b2dbd6",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

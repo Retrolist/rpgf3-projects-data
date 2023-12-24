@@ -1,0 +1,81 @@
+{
+  "bio": "Actual investment performance to find the best stablecoin farming pools",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Stable.fish",
+  "websiteUrl": "https://stable.fish",
+  "applicant": {
+    "address": {
+      "address": "0x62d51Fa08B15411D9429133aE5F224abf3867729",
+      "resolvedName": {
+        "address": "0x62d51Fa08B15411D9429133aE5F224abf3867729",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x62d51Fa08B15411D9429133aE5F224abf3867729"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x62d51Fa08B15411D9429133aE5F224abf3867729.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x62d51Fa08B15411D9429133aE5F224abf3867729.png",
+    "id": "OptimistProfile|0xf6e16073a4c36b9cc97cc4e534eacea37de9dbe266d337c7b9b39a9df9bb72a4"
+  },
+  "impactDescription": "We make it easy for investors to invest in DeFi on Optimism and Base by providing real investment results and the same defined APY.\n\nWe are trusted by many Optimism and Base DeFi such as Perpetual Protocol, WOO Network, Overnight , ACyptoS, Sonne, Toros, Gamma and others. We work with them to develop tracking systems and follow each other on X.We contribute to their visibility by publishing the actual performance.\n\nDeFi utilize our content to engage users.\nFor example Perpetual protocol posted our ranking on X. Overnight includes a link to our page on their DApps to let people know how the pool has performed in the past.\n\nhttps://twitter.com/perpprotocol/status/1671609769751134209\n\nhttps://app.overnight.fi/pools\n\nWe have provided APY rankings to the Daily Degen newsletter for over a year.",
+  "contributionDescription": "DeFi's APY is defined differently for each project, including the measurement period. They may also be incorrect. \n\nTherefore, Optimists cannot compare DeFi with confidence.We encourage them to invest in DeFi by providing APY and ROI based on actual investment results.\n\nTo track actual investment results, we make a deposit in stablecoin pools and calculate APY by profit data obtained from smart-contract.\n\nWe already track the actual investment results of 1612 stablecoin pools and track the most pools compared to other sites. We have 12K X(Twitter) followers.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://stable.fish/rank?chain=10",
+      "description": "Actual investment ranking of stablecoin pools on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://stable.fish/rank?chain=8453",
+      "description": "Actual investment ranking of stablecoin pools on Base"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of tracking pools on Optimism",
+      "number": "86",
+      "url": "https://stable.fish/rank?chain=10"
+    },
+    {
+      "description": "# of tracking pools on Base",
+      "number": "26",
+      "url": "https://stable.fish/rank?chain=8453"
+    },
+    {
+      "description": "# of subs to DailyDegen(we provide data)",
+      "number": "18000",
+      "url": "https://substack.com/@thedailydegen"
+    },
+    {
+      "description": "# of tx for actual invest on Optimism",
+      "number": "529",
+      "url": "https://optimistic.etherscan.io/address/0x62d51fa08b15411d9429133ae5f224abf3867729"
+    },
+    {
+      "description": "# of tx for actual invest on Base",
+      "number": "160",
+      "url": "https://basescan.org/address/0x62d51Fa08B15411D9429133aE5F224abf3867729"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "We have not yet earned revenue."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xcb95bf0f687efba8a3c2b3735c90318b154f255e1ea711829aaa4910a731c3db",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 11,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

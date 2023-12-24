@@ -1,0 +1,96 @@
+{
+  "bio": "State-of-the-art, secure, and optimised \ud83d\udc0dVyper smart contract building blocks.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "\ud83d\udc0d snekmate",
+  "websiteUrl": "https://github.com/pcaversaccio/snekmate",
+  "applicant": {
+    "address": {
+      "address": "0x07bF3CDA34aA78d92949bbDce31520714AB5b228",
+      "resolvedName": {
+        "address": "0x07bF3CDA34aA78d92949bbDce31520714AB5b228",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x07bF3CDA34aA78d92949bbDce31520714AB5b228"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x07bF3CDA34aA78d92949bbDce31520714AB5b228.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x07bF3CDA34aA78d92949bbDce31520714AB5b228.jpeg",
+    "id": "OptimistProfile|0x57f2fb577cb8187d6fe76f58eb34cff59316cb742ae7f621535ab48bc9ce658c"
+  },
+  "impactDescription": "The main impact of \ud83d\udc0d snekmate are twofold:\n1) \ud83d\udc0d snekmate has built the secure foundations for any Vyper builder to kick start on the OP stack. Did you need an ERC-20 Vyper implementation for Optimism? Use \ud83d\udc0d snekmate. Did you need some fancy math functions in Vyper for your AMM/DEX on Optimism? Use \ud83d\udc0d snekmate. To put everything in one sentence: \ud83d\udc0d snekmate has been the go-to-source for any Vyper code and ensured the security of the contracts with over 16k lines of unit, fuzzing & invariant tests. \ud83d\udc0d snekmate has ensured that Vyper contracts deployed on Optimism follow the highest security standards and best practices.\n2) \ud83d\udc0d snekmate has become the go-to-source for educating and understanding Vyper code. The entire code base is enriched with explanatory comments, making it easy to grasp.",
+  "contributionDescription": "While there are plenty of Solidity libraries out there, nobody has been working on high-quality, secure, and easy-to-integrate library-like Vyper code. \ud83d\udc0d snekmate fundamentally changed this! In one sentence: \ud83d\udc0d snekmate are state-of-the-art, highly opinionated, hyper-optimised, and secure Vyper smart contract building blocks. Or in other words: What OpenZeppelin is for Solidity, \ud83d\udc0d snekmate is for Vyper. \ud83d\udc0d snekmate has helped numerous Vyper builders to kick start on the OP stack. Not only does client diversity matter but also language diversity!",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/pcaversaccio/snekmate",
+      "description": "\ud83d\udc0d snekmate's official GitHub repository."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://pypi.org/project/snekmate",
+      "description": "\ud83d\udc0d snekmate's Python Package Index (PyPI) website."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://sourcegraph.com/search?q=context:global+repo:%5Egithub%5C.com/tintinweb/smart-contract-sanctuary-optimism+lang:Vyper+content:%28%22%40author+pcaversaccio%22+and+%22Multicall%22%29+&patternType=regexp&case=yes&sm=0&groupBy=repo",
+      "description": "Number of verified \ud83d\udc0d snekmate `Multicall` contracts on Optimism mainnet."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://sourcegraph.com/search?q=context:global+repo:%5Egithub%5C.com/tintinweb/smart-contract-sanctuary-optimism+lang:Solidity+content:%28%22snekmate%22+and+%22cbrt%22%29+&patternType=regexp&case=yes&sm=0&groupBy=repo",
+      "description": "Number of Solidity contracts that implemented \ud83d\udc0d snekmate's cube root function."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/curvefi/tricrypto-ng/blob/c9f17007eeda43af14abf10cf25b881f6862d78f/contracts/main/CurveCryptoMathOptimized3.vy#L637",
+      "description": "An example of Curve Finance using \ud83d\udc0d snekmate code in production."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/CurveCap/status/1633133814393315330",
+      "description": "External, independent Twitter thread about \ud83d\udc0d snekmate's first release."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://banteg.mirror.xyz/xMsPLpgsv88NFspah0v1SyJHBk0Yp3vSyzCSznr6ZaM",
+      "description": "Article about EIP-4626 compatibility that lists \ud83d\udc0d snekmate's code as impeccable"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of GitHub stars",
+      "number": "420",
+      "url": "https://github.com/pcaversaccio/snekmate"
+    },
+    {
+      "description": "Number of \ud83d\udc0d snekmate `Multicall` on OP",
+      "number": "6",
+      "url": "https://sourcegraph.com/search?q=context:global+repo:%5Egithub%5C.com/tintinweb/smart-contract-sanctuary-optimism+lang:Vyper+content:%28%22%40author+pcaversaccio%22+and+%22Multicall%22%29+&patternType=regexp&case=yes&sm=0&groupBy=repo"
+    },
+    {
+      "description": "# of Curve contracts using \ud83d\udc0d snekmate",
+      "number": "9",
+      "url": "https://github.com/search?q=org%3Acurvefi%20snekmate&type=code"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 48081.33,
+      "description": "Number of OP tokens received during the RetroPGF 2 round."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x1834066a554054c55b1d01f9084c0059c384ff959364dca73bd7d87c1589a9de",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 49,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

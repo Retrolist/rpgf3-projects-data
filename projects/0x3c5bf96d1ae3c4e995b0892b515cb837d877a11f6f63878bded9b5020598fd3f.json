@@ -1,0 +1,95 @@
+{
+  "bio": "Bware Labs is a one-stop shop for all builders within the Web3 space.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Bware Labs",
+  "websiteUrl": "https://bwarelabs.com/",
+  "applicant": {
+    "address": {
+      "address": "0xA60aB65B7Fc55F5526Af0b8AB038dc621606C8df",
+      "resolvedName": {
+        "address": "0xA60aB65B7Fc55F5526Af0b8AB038dc621606C8df",
+        "name": "mihaicc.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xA60aB65B7Fc55F5526Af0b8AB038dc621606C8df"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA60aB65B7Fc55F5526Af0b8AB038dc621606C8df.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x80735ffe17dff3ac37dff223df1f11f84f014fa79ae64c0a6fe8c4d832313b2f"
+  },
+  "impactDescription": "Bware Labs is a web3 infrastructure company providing a full range of ecosystem services like decentralized RPC/WSS APIs, Validators,Snapshot services, Faucets,Indexing and Bridge operator services. Our core objective is to improve the developer experience within a blockchain ecosystem.\nWe support Optimism and Base networks in Blast API platform so Optimism and Base blockchain developers that are building their dApp on can bypass all the hurdles involved in running their own infrastructure thus reducing both their outage risks and infrastructure costs.\n\nWe also supported development and usage of the OP Stack by providing Optimism Goerli and Base Goerli Faucets so that Optimism and Base blockchain developers have free test tokens for deploying and testing on Optimism Goerli and Base Goerli.",
+  "contributionDescription": "1.Bware Labs supported OP Stack by integrating Optimism chain since 23/05/2022 and Base chain since 05/04/2023 into Blast, a decentralized API platform with the services:\n-RPC and WSS APIs for OP(Mainnet,Goerli), Base(Mainnet,Goerli)\n-On the Public APIs we served a total of 5.3B API on Optimism and 1.3B API on Base for free as a public good in the last 6 months;\n-Public API and dedicated free endpoints on Blast for OP and Base users;\n-Total traffic supported: 15000/second per region(EU, US, APAC)\n-Blast's API decentralization allows third-party nodes to join OP and Base chains, earning rewards for their contribution\n- Launched Indexed Builder APIs (Transaction/Token/Logs/Wallet APIs) for OP and Base\n\n2. We developed Optimism Goerli and Base Goerli Testnet Faucets to support OP Stack.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/bwarelabs",
+      "description": "Bware Labs GitHub repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blastapi.io/",
+      "description": "Blast API platform"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://blastapi.io/blog/blast-builder-api",
+      "description": "Blast Builder APIs blog - Optimism and Base support"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.blastapi.io/blast-protocol",
+      "description": "Details about Blast API protocol"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://bwarelabs.com/faucets/optimism-testnet",
+      "description": "Bware Labs Optimism Goerli Testnet Faucet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://bwarelabs.com/faucets/base-testnet",
+      "description": "Bware Labs Base Goerli Testnet Faucet"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Blast API Optimism usage last 6 months",
+      "number": "25124445316",
+      "url": "https://docs.google.com/spreadsheets/d/1nZn4vfM8NJSnr_365bCs6i6eACCGSfvf/edit?usp=sharing&ouid=111786718258900202728&rtpof=true&sd=true"
+    },
+    {
+      "description": "Blast API Base usage last 6 months",
+      "number": "18147862801",
+      "url": "https://docs.google.com/spreadsheets/d/1bfaw5gLp14LFpUIanZK1rhXD7bkguiNS/edit?usp=sharing&ouid=111786718258900202728&rtpof=true&sd=true"
+    },
+    {
+      "description": "Optimism Goerli Faucet usage report 2023",
+      "number": "6304",
+      "url": "https://docs.google.com/spreadsheets/d/1cBQKlQIJusr09SZbdRoVW0m4TA15Fs6IquZtW6BX-3M/edit?usp=sharing"
+    },
+    {
+      "description": "Base Goerli Faucet usage report 2023",
+      "number": "57102",
+      "url": "https://docs.google.com/spreadsheets/d/1LfHoQE_5B7tbnWNn7YHbkB6TIwDUs7Vro7Qz0IpmEzk/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 2200,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3c5bf96d1ae3c4e995b0892b515cb837d877a11f6f63878bded9b5020598fd3f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 32,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

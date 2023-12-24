@@ -1,0 +1,107 @@
+{
+  "bio": "Platform for multiplayer collaboration on fashion drops with digital IP rights.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Crowdmuse",
+  "websiteUrl": "https://crowdmuse.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xb38b6c236347603e0705f912B877D6308Ec10f13",
+      "resolvedName": {
+        "address": "0xb38b6c236347603e0705f912B877D6308Ec10f13",
+        "name": "crowdmuse.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xb38b6c236347603e0705f912B877D6308Ec10f13"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb38b6c236347603e0705f912B877D6308Ec10f13.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb38b6c236347603e0705f912B877D6308Ec10f13.png",
+    "id": "OptimistProfile|0x117faa5d90bce67ffe2424b2167ba3470d2c7cb6bf33c83a9844e7ec3cb462bd"
+  },
+  "impactDescription": "Through building a crypto consumer use case that regular people can enjoy, we are incentivizing user adoption, especially as creators see new revenue opportunities through business models onchain. \n\nAs part of the \u201cStay Optimistic\u201d drop campaign, we want to show the power of Optimism as a consumer brand, enabling new consumer touch points beyond existing web3 audiences.\n\nThis is our first drop on the OP network, bringing 100 collectors of consumer goods into the OP and Crowdmuse ecosystems. This drop was a collaboration with Rapanui, a sustainable manufacturing brand in the UK, a brilliant 3D designer CU3D, and the Crowdmuse curation team.\n\nWe believe the most important aspect of end user adoption on Optimism will be consumer experiences targeting new communities outside of web3. ",
+  "contributionDescription": "Crowdmuse is onboarding creators, brands and suppliers to web3 with a multi-sided marketplace to scale the creator economy. \n\nWith each fashion collectible drop, we\u2019ve helped creators and suppliers create their wallets for the first time, add their creative assets or manufacturing capacity onchain, and monetize their creative IP and services through web3 rails. \n\nOur first drop showcased the MF70 Anti-Surveillance Suit co-created by Metafactory, WeseeClearly, Hugh Clarke, and [a]industri. Since then, we\u2019ve curated 2 drops for FWB, a zero-waste tee for FWB fest and an all purpose 0xTote bag. \n\nThis week, we launched a special drop with Optimism for 100 \u201cStay Optimistic\u201d sweatshirts, made with care by Rapanui, curated for Optimism\u2019s Onchain Summit: Superchain Edition. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.crowdmuse.xyz/collect/optimism-stay-optimistic-sweatshirt",
+      "description": "OP Stay Optimistic Sweatshirt drop on Crowdmuse"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://crowdmuse.xyz/",
+      "description": "Crowdmuse website"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Crowdmuse",
+      "description": "Crowdmuse github"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Active creators in our creator network",
+      "number": "40",
+      "url": "https://drive.google.com/file/d/1TzfXoU4LRFSx_HRopOwjGzxwWlbTrTH_/view "
+    },
+    {
+      "description": "Collectors of our genesis artifact ",
+      "number": "100",
+      "url": "https://polygonscan.com/token/0x53202D706D9B49D72B796105c5C2c9ECEE093740 "
+    },
+    {
+      "description": "Collectors of FWB zero waste tee",
+      "number": "16",
+      "url": "https://etherscan.io/token/0x67934876dcf034c0006d7449bc163ddcc5d814d5 "
+    },
+    {
+      "description": "Collectors of FWB zero waste tee (LE)",
+      "number": "19",
+      "url": "https://etherscan.io/token/0x2166d39d48d4cab4d37f3c0aaf6deb7dd06b5411 "
+    },
+    {
+      "description": "Collectors of FWB custom 0xTote",
+      "number": "19",
+      "url": "https://etherscan.io/token/0x6a232c19fd8b51ea769554e6b1a3937793f509e1"
+    },
+    {
+      "description": "Crowdmuse mirror post mints (on OP)",
+      "number": "37",
+      "url": "https://mirror.xyz/crowdmuse.eth "
+    },
+    {
+      "description": "Signature Capsules post mints (OP)",
+      "number": "28",
+      "url": " https://mirror.xyz/signaturecapsules.eth"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 125000,
+      "description": "Incubator in Aug 2023"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 12500,
+      "description": "Angel investors"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 12500,
+      "description": "Gitcoin grants"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x65fc350b5c476f3638d7a6853c4fee99dba8b7965e856bb8d2709eca0a7f1281",
+  "prelimResult": "Keep",
+  "reportReason": "Seems to only have a handful of users on Ethereum (not Optimism)",
+  "includedInBallots": 18,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

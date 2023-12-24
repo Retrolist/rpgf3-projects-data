@@ -1,0 +1,81 @@
+{
+  "bio": "the Farcaster client for power users ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "herocast",
+  "websiteUrl": "https://www.herocast.xyz",
+  "applicant": {
+    "address": {
+      "address": "0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c",
+      "resolvedName": {
+        "address": "0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c",
+        "name": "hellno.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c.png",
+    "id": "OptimistProfile|0xf0cb07f2679f3d6e48a004ce61310ddeced3f058a893742bcf9ffd94c5356a7b"
+  },
+  "impactDescription": "3rd party client diversity on Farcaster helps to expand the Optimism Collective, by bringing a more diverse set of users to Farcaster, which is only deployed on Optimism.\n\n76 Farcaster accounts have been connected to herocast. \nThere are currently 63 herocast users with 20 of those being weekly active.\n \nUsers must have a Farcaster account, so have executed at least one onchain transaction. Users signing up to herocast must add a signer, which happens via an onchain transaction",
+  "contributionDescription": "herocast is a Farcaster decentralized social network client for highly engaged power users and people working in web3. Existing features that users enjoy are fast response time, keyboard-navigation, Command Palette, integration with Noun-ish platforms.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x00000000fc9e66f1c6d86d750b4af47ff0cc343d",
+      "description": "Contract by Farcaster team that manages registry of 3rd party Farcaster clients"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.herocast.xyz/login",
+      "description": "herocast app website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://searchcaster.xyz/search?text=herocast",
+      "description": "Messages by Farcaster users mentioning herocast, shows actual usage"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of Farcaster accounts on herocast",
+      "number": "76",
+      "url": "https://dune.com/hellno/farcaster-app-breakdown"
+    },
+    {
+      "description": "# of herocast users",
+      "number": "63",
+      "url": "https://dune.com/hellno/farcaster-app-breakdown"
+    },
+    {
+      "description": "# of weekly active users",
+      "number": "20",
+      "url": "https://dune.com/pixelhack/farcaster"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 850,
+      "description": "Purple DAO Retro Funding"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1500,
+      "description": "Warpcast Retro Funding"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xea94ce5c3d9360b195b12a641ab7df0da73844d5117a6ae8b654cece4e136fea",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 9,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

@@ -1,0 +1,167 @@
+{
+  "bio": "We are providing learning materials, news and events related to L2 networks ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "CryptoEarn Important",
+  "websiteUrl": "https://t.me/CryptoEarnImp",
+  "applicant": {
+    "address": {
+      "address": "0x9627CC3D60dF611CB826405fC6Cd739a6573476a",
+      "resolvedName": {
+        "address": "0x9627CC3D60dF611CB826405fC6Cd739a6573476a",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9627CC3D60dF611CB826405fC6Cd739a6573476a"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9627CC3D60dF611CB826405fC6Cd739a6573476a.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x8b82c5b703ee2185d7f039b86372603804139978e6a042d878a69e60799ab28a"
+  },
+  "impactDescription": "We have shared and continue to share a lot of information with the community, thereby popularizing the L2 blockchain, and also bringing new users to the network\n\nMoreover, these users are and remain one of the most active on the network, voting in proposals, staking OP and completing quests to maintain activity on the network during a bear market\n\nYou can simply look at the amount of information by searching for the word Optimism",
+  "contributionDescription": "Our media resources are aimed at popularizing Optimism and other l2 solutions\n\nWe are supporting Optimism, as well as various L2 solutions working using op stack, provide learning materials, as well as news and events related to L2 networks\n\nWe usually encourage OP holders to participate in voting, as well as other events dedicated to the popularization of Optimism and other l2 solutions\n\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/CryptoEarnImp/8068",
+      "description": "OP proposal governance"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/CryptoEarnImp/8172",
+      "description": "OP proposal governance"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/CryptoEarnImp/8555",
+      "description": "Last OP drop info"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/CryptoEarnImp/7754",
+      "description": "Donation to Optimism via retroPGF.eth "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/CryptoEarnImp/7258",
+      "description": "Optimism quests guideline"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/CryptoEarnImp/8008",
+      "description": "OP quest reminder"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/CryptoEarnImp/2117",
+      "description": "Early posts about OP bridge (2021)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/CryptoEarnImp/8330",
+      "description": "Optimism mint Zorb NFT on Zora"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/CryptoEarnImp/8230",
+      "description": "OP proposal governance"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xdbb4f138175bc502a8e6049ad2ca63acb5dd2c8752ead3253f45b0c66ecb270a",
+      "description": "tx op voting participation"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x1700e7d5591c10eceab96d6fe34cd82aac29367cc12976f8c2e52559e8af7cc8",
+      "description": "tx op drop receiving"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/CryptoEarnImp/7288",
+      "description": "OP quest reminder"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/CryptoEarnImp/8378",
+      "description": "Gitcoin launching l2 using OP stack "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/CryptoEarnImp/8253",
+      "description": "Zora launching l2 using OP stack "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": "9800",
+      "url": "https://t.me/CryptoEarnImp/8068"
+    },
+    {
+      "description": "Views",
+      "number": "10600",
+      "url": "https://t.me/CryptoEarnImp/8172"
+    },
+    {
+      "description": "Views",
+      "number": "9500",
+      "url": "https://t.me/CryptoEarnImp/8555"
+    },
+    {
+      "description": "Views",
+      "number": "8500",
+      "url": "https://t.me/CryptoEarnImp/7754"
+    },
+    {
+      "description": "Views",
+      "number": "7300",
+      "url": "https://t.me/CryptoEarnImp/7258"
+    },
+    {
+      "description": "Views",
+      "number": "8100",
+      "url": "https://t.me/CryptoEarnImp/8008"
+    },
+    {
+      "description": "Views",
+      "number": "9700",
+      "url": "https://t.me/CryptoEarnImp/8330"
+    },
+    {
+      "description": "Views",
+      "number": "8800",
+      "url": "https://t.me/CryptoEarnImp/8230"
+    },
+    {
+      "description": "Views",
+      "number": "5800",
+      "url": "https://t.me/CryptoEarnImp/7288"
+    },
+    {
+      "description": "Views",
+      "number": "9900",
+      "url": "https://t.me/CryptoEarnImp/8253"
+    },
+    {
+      "description": "Views",
+      "number": "9300",
+      "url": "https://t.me/CryptoEarnImp/8378"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 450,
+      "description": "I've received retroPGF 2 drop since I bought some OP, stacked and voted"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf88ccc1c7e416a449b909bb634d901cf88c28225c560f5bd231fc3213962054d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

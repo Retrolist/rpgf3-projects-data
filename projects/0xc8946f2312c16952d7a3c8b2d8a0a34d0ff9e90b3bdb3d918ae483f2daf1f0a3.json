@@ -1,0 +1,72 @@
+{
+  "bio": "Hi! My name is Ben, and I manage a crypto marketing agency called Amaretto Labs.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Bens44",
+  "websiteUrl": "https://amarettolabs.com/",
+  "applicant": {
+    "address": {
+      "address": "0x1e6F3Bf52d37b64D7184E9B4905f90897a95CdCE",
+      "resolvedName": {
+        "address": "0x1e6F3Bf52d37b64D7184E9B4905f90897a95CdCE",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x1e6F3Bf52d37b64D7184E9B4905f90897a95CdCE"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1e6F3Bf52d37b64D7184E9B4905f90897a95CdCE.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1e6F3Bf52d37b64D7184E9B4905f90897a95CdCE.png",
+    "id": "OptimistProfile|0xab33d752b4ff4a54d4d518508e1b2141a8df06eab4d6d1ab6741f9230ea61779"
+  },
+  "impactDescription": "When posting our content, we were able to reach users across a couple of different channels. We posted this content on Instagram, Medium, Twitter, Discord, and Telegram. Across these channels, we had over 20k users have the chance to view this content! The below metrics show the audience per channel but do not include the promotion we had across Twitter, Discord, and Telegram.",
+  "contributionDescription": "Hello! \n\nDuring my time working with a DAO called ICHI, my team and I created content describing the benefits of Layer 2s, primarily Optimism. We created educational blog articles and videos that tell people why they need layer 2s, how Optimism builds with the public good in mind, and is cheaper than Ethereum, all while maintaining great levels of security! We think that educating the public on the various solutions in crypto will make the world a better place, and we are so happy to have included Optimism in a few of our pieces of content. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.instagram.com/reel/CoYGVGYsW_D/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+      "description": "Instagram Reel that we made for Optimism!"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/ichifarm/why-use-a-layer-2-71c39bd21667",
+      "description": "Medium article we wrote about Layer 2s. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/shorts/cia269Z8N-k",
+      "description": "Youtube Short about Layer 2s!"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Instagram Followers",
+      "number": "140",
+      "url": "https://www.instagram.com/reel/CoYGVGYsW_D/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA=="
+    },
+    {
+      "description": "Medium Followers",
+      "number": "341",
+      "url": "https://medium.com/ichifarm/why-use-a-layer-2-71c39bd21667"
+    },
+    {
+      "description": "Subscriber Count",
+      "number": "88",
+      "url": "https://www.youtube.com/shorts/cia269Z8N-k"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xc8946f2312c16952d7a3c8b2d8a0a34d0ff9e90b3bdb3d918ae483f2daf1f0a3",
+  "prelimResult": "Remove",
+  "reportReason": "Not sure if in scope"
+}

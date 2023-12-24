@@ -1,0 +1,71 @@
+{
+  "bio": "Full-time Android developer and Part-time Contributor",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "mikkipastel",
+  "websiteUrl": "https://www.mikkipastel.com/",
+  "applicant": {
+    "address": {
+      "address": "0xdC065fB9bd6D5D6651E257E5799Bd38Eaf005FC6",
+      "resolvedName": {
+        "address": "0xdC065fB9bd6D5D6651E257E5799Bd38Eaf005FC6",
+        "name": "mikkipastel.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xdC065fB9bd6D5D6651E257E5799Bd38Eaf005FC6"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdC065fB9bd6D5D6651E257E5799Bd38Eaf005FC6.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xdC065fB9bd6D5D6651E257E5799Bd38Eaf005FC6.png",
+    "id": "OptimistProfile|0xa9c61a9fd662e332863456c8a4a0d78a5eddc185077e25f0d943db63a0643f28"
+  },
+  "impactDescription": "I am a web3 contributor in Thai community with my content to share knowledge such as \n- how to add optimism chain, how to bridge ETH from mainnet to optimism\n- how to see tokenURI of your NFT\n- create NFT collection with concept\n- how to get transaction data from blockchain with Tripster lucky box campeign\n\nI am excited about the ongoing opportunities to contribute to the Optimism Collective's mission. Moving forward, I am eager to create content to share knowledge to the community in Twitter and my blog that will further enhance our collective impact and solidify our position.\n",
+  "contributionDescription": "I will support Thailand's Optimism ecosystem to grow more. Whether it's about an NFT project, a marketplace, a product, or anything like that with my content from research to let more people know about this such as interesting product, development, how to adapt to your business.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://zonic.app/collection/mikkipastel",
+      "description": "my first NFT project in Optimism with Apetimism launchpad"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.mikkipastel.com/how-to-get-transaction-from-contract-to-google-sheet/",
+      "description": "how to get transaction data from blockchain with Tripster lucky box campeign"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Pageviews",
+      "number": "934",
+      "url": "https://www.mikkipastel.com/bridge-eth-to-optimism-before-airdrop-event/"
+    },
+    {
+      "description": "Pageviews",
+      "number": "869",
+      "url": "https://www.mikkipastel.com/how-to-see-my-nft-in-wallet-with-metamask-and-ipfs/"
+    },
+    {
+      "description": "Pageviews",
+      "number": "175",
+      "url": "https://www.mikkipastel.com/introduction-of-nft-mikkipastel-next-journey/"
+    },
+    {
+      "description": "Pageviews",
+      "number": "28",
+      "url": "https://www.mikkipastel.com/how-to-get-transaction-from-contract-to-google-sheet/"
+    },
+    {
+      "description": "view",
+      "number": "661",
+      "url": "https://twitter.com/mikkipastel/status/1692507836188942365"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x366dea5075cdf56c8eb776e81c5093e365fc5af107c3e87f91657822a1886e3b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

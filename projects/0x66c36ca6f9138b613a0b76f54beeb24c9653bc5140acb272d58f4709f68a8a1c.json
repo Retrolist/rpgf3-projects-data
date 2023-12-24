@@ -1,0 +1,233 @@
+{
+  "bio": "Ethereum security advocates doing research, education and awareness.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "The Red Guild",
+  "websiteUrl": "https://theredguild.org",
+  "applicant": {
+    "address": {
+      "address": "0x5cA1BEdb6DC8eb75581d19e87c7A77b54F9FC43A",
+      "resolvedName": {
+        "address": "0x5cA1BEdb6DC8eb75581d19e87c7A77b54F9FC43A",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5cA1BEdb6DC8eb75581d19e87c7A77b54F9FC43A"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5cA1BEdb6DC8eb75581d19e87c7A77b54F9FC43A.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5cA1BEdb6DC8eb75581d19e87c7A77b54F9FC43A.jpeg",
+    "id": "OptimistProfile|0x5997af355c496230c8bce97bfc759f62ec1678d3527f37d1bdc92e1b41ffb868"
+  },
+  "impactDescription": "We\u2019re not limited to Ethereum; L2s like OP are an integral part of the Ethereum ecosystem as well. All our content intends to appeal the collective, because it is aimed at devs and security researchers that may belong to the collective, who are interested in securing Optimism-based apps.\n\nIn the past we've examined OP\u2019s bridge security measures, showing differences with Arbitrum in strategies to prevent gas grieving attacks. And reported a relevant security issue in a public security contest.\n\nThanks to the 2-day conference \u201cGEERS: Blockchain edition\u201d we hosted in Argentina, over 250 people from various cities learned about OP for the first time. The topic was featured at least twice in the talks. Particularly in a talk by Joxes on \"The Importance of Participatory Roles in Governance\".",
+  "contributionDescription": "We\u2019re an autonomous collective helping enhance the security of the Ethereum ecosystem and those who contribute to its long-term success. We\u2019ve taken a public-good approach to security research, putting our skills in favor of the community. So far funded by grants from the Ethereum Foundation, we conducted security reviews, responsibly disclosed vulnerabilities, and produced free educational material in articles, interviews, videos, talks, workshops and challenges. We engaged with LATAM communities, sponsoring meetups and hosting events for web3 devs and security researchers. Our work wasn\u2019t exclusive to the Optimism Collective, yet it contributed to educating security researchers and developers on security topics that are relevant for Optimism-based applications to stay safe.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://damnvulnerabledefi.xyz",
+      "description": "Educational platform, security challenges"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/theredguild/workshop-ethargentina-2023",
+      "description": "Security testing with Foundry workshop @ HackITBA"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=NfqfVJudD8w&t=3632s",
+      "description": "ETHBarcelona 2023 talk"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/JUG5mRh2MnU?t=9805",
+      "description": "EthereumArgentina 2023 talk"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=f-W6O0tIm2Y ",
+      "description": "Account Abstraction code walkthrough"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=oMtiLP6HL6w",
+      "description": "Euler Finance hack at ETHPlicando by EthKipu"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/live/v9ANh5wmj_A?t=17226",
+      "description": "\"How to get started in smart contract security\" at DeFi Security Summit 101"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=A-T9F0anN1E",
+      "description": "Audit process summary with Patrick Collins"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=bYdiF06SLWc",
+      "description": "Audit process with Patrick Collins"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://geers.in/blockchain",
+      "description": "Events which content was provided by TRG"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://photos.app.goo.gl/cG4DsAuYcCWcZUH36",
+      "description": "GEERS: Blockchain 2023 1st event"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://photos.app.goo.gl/modE5NWwxZMipg48A",
+      "description": "GEERS: Blockchain 2023 2nd event"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/theredguild/issues",
+      "description": "Public reported issues, ranging from critical vulnerabilities to minor flaws"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/TheSecureum/status/1705507091983613974",
+      "description": "Secureum RACE quizz created by The Red Guild"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/MartinPefaur/status/1660069860594929671",
+      "description": "Sponsored meetup WebtrES, ManijaDevs, TribuTechLatam"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Damn Vulnerable DeFi gh repo stars",
+      "number": "743",
+      "url": "https://github.com/tinchoabbate/damn-vulnerable-defi"
+    },
+    {
+      "description": "Public metrics in a different format",
+      "number": "25",
+      "url": "https://docs.google.com/spreadsheets/d/1i1N-iXreKM0vG-GwSFa0alrWln1S3A5S1lBcF-12TKY/edit#gid=0"
+    },
+    {
+      "description": "GEERS: Blockchain edition 1st event",
+      "number": "250",
+      "url": "https://photos.app.goo.gl/cG4DsAuYcCWcZUH36"
+    },
+    {
+      "description": "GEERS: Blockchain edition 2nd event",
+      "number": "64",
+      "url": "https://photos.app.goo.gl/modE5NWwxZMipg48A"
+    },
+    {
+      "description": "WS Foundry / Security at EthArgentina",
+      "number": "40",
+      "url": "https://media.discordapp.net/attachments/1070384388270989454/1164212055545499728/WSEthArg.png?ex=654263f8&is=652feef8&hm=bc9dfa4f85eacb04f627a19a044ae53a91ec12cb5101bf17b0e7c447bae41b94&=&width=2112&height=1188"
+    },
+    {
+      "description": "The Red Guild channel subscribers",
+      "number": "98",
+      "url": "https://youtube.com/@watchtheredguild/"
+    },
+    {
+      "description": "AA code walkthrough (in spanish) views",
+      "number": "669",
+      "url": "https://www.youtube.com/watch?v=f-W6O0tIm2Y"
+    },
+    {
+      "description": "June public update (in spanish) views",
+      "number": "120",
+      "url": "https://www.youtube.com/watch?v=aFfaT4t6RIg"
+    },
+    {
+      "description": "July public update (in spanish) views",
+      "number": "75",
+      "url": "https://www.youtube.com/watch?v=svlhzTDNUVk"
+    },
+    {
+      "description": "The Euler Finance hack explained views",
+      "number": "108",
+      "url": "https://youtu.be/vleHZqDc48M"
+    },
+    {
+      "description": "The TORN governance hack explained views",
+      "number": "48",
+      "url": "https://youtu.be/UFDoDELW_n8"
+    },
+    {
+      "description": "WS Security w/ Foundry views",
+      "number": "627",
+      "url": "https://www.youtube.com/watch?v=sMvqjUzH6Lw"
+    },
+    {
+      "description": "Audit process w/ Patrick Collins summary",
+      "number": "9531",
+      "url": "https://www.youtube.com/watch?v=A-T9F0anN1E"
+    },
+    {
+      "description": "Audit process w/ Patrick Collins full",
+      "number": "1499",
+      "url": "https://www.youtube.com/watch?v=bYdiF06SLWc&t=0s"
+    },
+    {
+      "description": "Vulns in smart contracts with ETHKipu ES",
+      "number": "333",
+      "url": "https://www.youtube.com/watch?v=oMtiLP6HL6w"
+    },
+    {
+      "description": "Security for the common good EthArg",
+      "number": "1338",
+      "url": "https://www.youtube.com/watch?v=JUG5mRh2MnU&t=9805s"
+    },
+    {
+      "description": "Security for the common good ETHBCN",
+      "number": "551",
+      "url": "https://www.youtube.com/watch?v=NfqfVJudD8w&t=3632s"
+    },
+    {
+      "description": "YT containing \"Damn Vulnerable DeFi\"",
+      "number": "990",
+      "url": "https://www.google.com/search?q=site%3Ayoutube.com+%22Damn+Vulnerable+DeFi%22&sca_esv=572890011&source=hp&ei=yQcoZf6jJryhkdUPhLSGiAI&iflsig=AO6bgOgAAAAAZSgV2RzR6OyNjP5SVQHnEvvBevAz7097&ved=0ahUKEwi-rNGG4fCBAxW8UKQEHQSaASEQ4dUDCAk&uact=5&oq=site%3Ayoutube.com+%22Damn+Vulnerable+DeFi%22&gs_lp=Egdnd3Mtd2l6IidzaXRlOnlvdXR1YmUuY29tICJEYW1uIFZ1bG5lcmFibGUgRGVGaSJI_jNQAFizMnACeACQAQCYAWKgAYsVqgECNDG4AQPIAQD4AQHCAgsQLhiABBjHARjRA8ICBRAAGIAEwgIFEC4YgATCAggQABiABBjJA8ICDRAuGIAEGMcBGNEDGArCAgcQABiABBgK&sclient=gws-wiz"
+    },
+    {
+      "description": "Published articles in blog since March",
+      "number": "17",
+      "url": "https://blog.theredguild.org/"
+    },
+    {
+      "description": "Newsletter subscribers",
+      "number": "140",
+      "url": "https://blog.theredguild.org/#/portal/"
+    },
+    {
+      "description": "Blog unique visitors (since June 2023)",
+      "number": "2397",
+      "url": "https://media.discordapp.net/attachments/1070384388270989454/1164211300851781692/views.png?ex=65426344&is=652fee44&hm=95c7a021551ba6907fecbd439e38d045870ff9d6307adde65a7e7a07bc8710d7&=&width=2818&height=728"
+    },
+    {
+      "description": "Most unique visited article (since June)",
+      "number": "685",
+      "url": "https://blog.theredguild.org/question-until-it-crashes/"
+    },
+    {
+      "description": "# of part. in Secureum RACE-22 by TRG",
+      "number": "175",
+      "url": "https://discord.com/channels/814328279468474419/927065287172427798/1158705378679336982"
+    },
+    {
+      "description": "# in waitlist for our mentorships",
+      "number": "43",
+      "url": "https://docs.google.com/forms/d/15m1lAAgn8Jmd47mQsciPH_wZLIMKLFy1vkOdPG75UtA"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x66c36ca6f9138b613a0b76f54beeb24c9653bc5140acb272d58f4709f68a8a1c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 41,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

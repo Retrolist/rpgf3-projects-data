@@ -1,0 +1,56 @@
+{
+  "bio": "CRYPTUS media is one of the biggest media in CIS and Eastern Europe about Web3",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "CRYPTUS Media",
+  "websiteUrl": "https://link3.to/cryptusmedia",
+  "applicant": {
+    "address": {
+      "address": "0xc6612f2E21aCD9C1B86dD3E4cdd0a83001693de2",
+      "resolvedName": {
+        "address": "0xc6612f2E21aCD9C1B86dD3E4cdd0a83001693de2",
+        "name": "riskyrick.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xc6612f2E21aCD9C1B86dD3E4cdd0a83001693de2"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc6612f2E21aCD9C1B86dD3E4cdd0a83001693de2.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc6612f2E21aCD9C1B86dD3E4cdd0a83001693de2.png",
+    "id": "OptimistProfile|0xcad30e72862e9788fa298d3bf0c34c23c6b330bffc1cabf4a1d5625b9155f6c2"
+  },
+  "impactDescription": "Talking about stats - unfortunately, we are unable to check the amount of people who bought tokens or delegated or smth like that. However, according to typical stat - conversions on public social pages are about 5-10%. Conversions in private communities are more than 20%\n\nMost stats are shown in the google sheet. But in case I missed something or you need more clarification - you are free to contact me via telegram - t.me/voshchansky. Or via email - maximvoshanskiy@gmail.com. And in case you'd like to make a partnership - feel free to contact me also, a year ago we were representatives of Polygon in CIS, for example\n\nSome amount of content that is not related to Union/Academy/YouTube/Telegram but is made by our authors will be attached below",
+  "contributionDescription": "There are 4 pages in the table I provided - YouTube, Telegram, Union and Academy\n\nUnion is a private community with 600 people paying participation fees on a monthly basis. So the most interested target audience but I'm unable to give you links since it's a private community\n\nAcademy is an information product. There's also a target audience with money that we're teaching from scratch how to interact with the Web3 world. Same with links as it is in Union\n\nStats:\nYoutube channel: 197k+\nTelegram channel: 72k+\nPrivate TG channel: 650+\nAcademy: 1,3k+\n\nWe made 4 videos on YouTube(maybe even more but that's where OP tokens are shown at least on a Thumbnail)\n\nWe mentioned 28 times OP in our Telegram and made 11 posts literally about Optimism and 3 times mentioned in Daily Digest - it's a podcast\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1tOgUW2BOQ3D4rNCiJuQ5pat9P4K_nH2NM4Lw0LzmyFQ/edit#gid=0",
+      "description": "Database"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of views",
+      "number": "184",
+      "url": "https://teletype.in/@mr.kepi/Opt"
+    },
+    {
+      "description": "Number of views",
+      "number": "2900",
+      "url": "https://teletype.in/@cryptus_media/optiquests"
+    },
+    {
+      "description": "Number of views",
+      "number": "1300",
+      "url": "https://www.google.com/url?q=https://vk.com/wall-214518284_696&sa=D&source=docs&ust=1698098478268779&usg=AOvVaw2PhHnWnTe2P5EsMjVPYWQa"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x523d4c49c0ae2b79ee7f23a8d710a8563bf86fa4d185adc2fc865f69635baa65",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

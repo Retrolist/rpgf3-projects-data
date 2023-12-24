@@ -1,0 +1,88 @@
+{
+  "bio": "Building Unlock Protocol to create a better web",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Patrick Workman",
+  "websiteUrl": "https://unlock-protocol.com/",
+  "applicant": {
+    "address": {
+      "address": "0x5dC70A9b884f78Ee030a8c6ad3b3b7dc10Bbe7f4",
+      "resolvedName": {
+        "address": "0x5dC70A9b884f78Ee030a8c6ad3b3b7dc10Bbe7f4",
+        "name": "phishfood.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x5dC70A9b884f78Ee030a8c6ad3b3b7dc10Bbe7f4"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5dC70A9b884f78Ee030a8c6ad3b3b7dc10Bbe7f4.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5dC70A9b884f78Ee030a8c6ad3b3b7dc10Bbe7f4.jpeg",
+    "id": "OptimistProfile|0x4d86209d26bae037e2e2e58851d5a4bf3b87c277fc47767f4bdb83f1f06362ba"
+  },
+  "impactDescription": "Consumer use cases for Optimism are critical to increasing onboarding, adoption, and usage. Events are an obvious use case for Optimism, enabling people with and without crypto wallets to register for or buy tickets to an event.\n\nLegacy ticketing solutions don\u2019t meet the needs of web3 and crypto event organizers.\n\nEvents by Unlock Labs enables no-code event creation, deploying a smart contract to Optimism that creates tickets that include event details, metadata, and other information relevant to an event. Enhancing the features and functionality of Events allows crypto-centric event organizers using web2 platforms (Eventbrite, Luma, Partiful) to embrace the technology their attendees expect them to champion..",
+  "contributionDescription": "Unlock Labs, the creators of Unlock Protocol, will enhance the features and functionality of Events, an application built to bring events onchain on Optimism.\n\nEvents by Unlock Labs is a free and easy way organizers can create events (contracts deployed on Optimism) and share an event details page for 10-10000+ person where users can claim or purchase tickets. Setting up an event takes less than a minute, and it works for both free and paid events.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x99b1348a9129ac49c6de7F11245773dE2f51fB0c",
+      "description": "Unlock Protocol's Contracts on Optimism (Deployed on Nov-21-2021)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://unlock-protocol.com/",
+      "description": "Unlock Protocol's Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.unlock-protocol.com/event",
+      "description": "Events by Unlock Labs"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/unlock-protocol",
+      "description": "Unlock Protocol's Github"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/ccarfi/Unlock-Protocol-Rankings",
+      "description": "Unlock Protocol's Leaderboard (Dune)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://discord.unlock-protocol.com/",
+      "description": "Unlock Protocol's Discord"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/UnlockProtocol",
+      "description": "Unlock Protocol's Twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of Keys Created",
+      "number": "11800",
+      "url": "https://unlock-protocol.com/state"
+    },
+    {
+      "description": "# of Locks Deployed",
+      "number": "347",
+      "url": "https://unlock-protocol.com/state"
+    },
+    {
+      "description": "# of Active Locks",
+      "number": "16",
+      "url": "https://unlock-protocol.com/state"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x57281cd1a4a558617c4fd463f57f2aeb02bde260ad854087947e5e4edb4125ef",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 40,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

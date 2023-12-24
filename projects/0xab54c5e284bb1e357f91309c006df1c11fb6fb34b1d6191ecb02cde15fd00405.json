@@ -1,0 +1,55 @@
+{
+  "bio": "\u0111\u1eb9p tr\u1ea1i",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "kietanh",
+  "websiteUrl": "https://twitter.com/KitTrnA24754917",
+  "applicant": {
+    "address": {
+      "address": "0x0cFD0ecC6a67D1d84162D5E0D999559b3e212CB0",
+      "resolvedName": {
+        "address": "0x0cFD0ecC6a67D1d84162D5E0D999559b3e212CB0",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0cFD0ecC6a67D1d84162D5E0D999559b3e212CB0"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0cFD0ecC6a67D1d84162D5E0D999559b3e212CB0.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0cFD0ecC6a67D1d84162D5E0D999559b3e212CB0.png",
+    "id": "OptimistProfile|0xc6f0b627b29583748715a353eb6b859a5be58ad7d53c2a6347b42f60b92b2490"
+  },
+  "impactDescription": "T\u00ecnh nguy\u1ec7n vi\u00ean c\u1ee7a c\u00e1c c\u1ea5p clb Gi\u00fap c\u1ed9ng \u0111\u1ed3ng ph\u00e1t tri\u1ec3n m\u1ea1nh h\u01a1n v\u00e0 n\u1ed5i ti\u1ebfng h\u01a1n . nhi\u1ec1u ng\u01b0\u1eddi bi\u1ebft \u0111\u1ebfn op l\u00e0 1 \u0111\u1ed3ng ti\u1ec1n \u1ea3o m\u1ea1nh m\u1ebd v\u00e0 h\u1ee3p ph\u00e1p . M\u00ecnh c\u0169ng mu\u1ed1n c\u00f3 \u0111\u01b0\u1ee3c v\u00e0i ngh\u00ecn op \u0111\u1ec3 \u0111i staking \u0111\u1ee3i th\u1eddi k\u00ec uptrend . Th\u1eadt ng\u01b0\u1ee1ng m\u1ed9 v\u00e0 vinh d\u1ef1 khi \u0111\u01b0\u1ee3c tham gia m\u1ed9t d\u1ef1 \u00e1n l\u1edbn l\u1ea7n n\u00e0y c\u1ee7a op m\u00ecnh  mong th\u1eadt th\u00e0nh c\u00f4ng v\u00e0 may m\u1eafn cho b\u1ea3n th\u00e2n m\u00ecnh l\u1ea7n n\u00e0y xin c\u1ea3m \u01a1n op .",
+  "contributionDescription": "Gi\u00fap c\u1ed9ng \u0111\u1ed3ng ph\u00e1t tri\u1ec3n m\u1ea1nh h\u01a1n v\u00e0 n\u1ed5i ti\u1ebfng h\u01a1n . nhi\u1ec1u ng\u01b0\u1eddi bi\u1ebft \u0111\u1ebfn op l\u00e0 1 \u0111\u1ed3ng ti\u1ec1n \u1ea3o m\u1ea1nh m\u1ebd v\u00e0 h\u1ee3p ph\u00e1p . M\u00ecnh c\u0169ng mu\u1ed1n c\u00f3 \u0111\u01b0\u1ee3c v\u00e0i ngh\u00ecn op \u0111\u1ec3 \u0111i staking \u0111\u1ee3i th\u1eddi k\u00ec uptrend . Th\u1eadt ng\u01b0\u1ee1ng m\u1ed9 v\u00e0 vinh d\u1ef1 khi \u0111\u01b0\u1ee3c tham gia m\u1ed9t d\u1ef1 \u00e1n l\u1edbn l\u1ea7n n\u00e0y c\u1ee7a op m\u00ecnh  mong th\u1eadt th\u00e0nh c\u00f4ng v\u00e0 may m\u1eafn cho b\u1ea3n th\u00e2n m\u00ecnh l\u1ea7n n\u00e0y xin c\u1ea3m \u01a1n op .",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x0cFD0ecC6a67D1d84162D5E0D999559b3e212CB0",
+      "description": "Ch\u00fac th\u00e0nh c\u00f4ng v\u00e0 may m\u1eafn"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1000",
+      "number": "1000",
+      "url": "https://optimistic.etherscan.io/address/0x0cFD0ecC6a67D1d84162D5E0D999559b3e212CB0"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": "1000"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xab54c5e284bb1e357f91309c006df1c11fb6fb34b1d6191ecb02cde15fd00405",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

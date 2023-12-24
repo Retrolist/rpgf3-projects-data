@@ -1,0 +1,83 @@
+{
+  "bio": "Blockchain tester, active user of OP blockchain",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Kirill",
+  "websiteUrl": "https://twitter.com/KipWill7",
+  "applicant": {
+    "address": {
+      "address": "0x9adCe28d1Afa1aac8eE226A47Ef1ef0413388E77",
+      "resolvedName": {
+        "address": "0x9adCe28d1Afa1aac8eE226A47Ef1ef0413388E77",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9adCe28d1Afa1aac8eE226A47Ef1ef0413388E77"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x418165d0d0b0f6f8c750bc49f3fcf8ddea7ede8be22a49c34d79eb4c3452ecaf"
+  },
+  "impactDescription": "Base is a secure, low-cost, builder-friendly Ethereum L2 built on the OP Stack. Building Base is to bring the next million builders and billion users onchain. Testing and building on base at an early stage is necessary for the development of both base and optimism.",
+  "contributionDescription": "I've been participated in proposals by Optimism. \nI was testing Base testnet since march 2023 till mainnet. I've deployed smart contract on base testnet and throught this, minted official Base builder nft on testnet chain and then minted official Base Genesis Builder NFT on Base mainnet.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://vote.optimism.io/proposals",
+      "description": "Participated in proposals by Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://goerli.basescan.org/address/0x9adCe28d1Afa1aac8eE226A47Ef1ef0413388E77",
+      "description": "Testing Base testnet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://goerli.basescan.org/address/0x5ae97b750f1c07190b640b9e1acab949136ac08a",
+      "description": "Deploying smart contract on Base testnet"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://goerli.basescan.org/tx/0x9c4a8e586bd306e931ef14106f886388670dfe918f0417a59c61085f7ac6a09d",
+      "description": " Official Base Builder Nft on Base testnet was minted"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/tx/0x4c2f86bb45e32955a562be7a6390fbf80850c27a1f294cf8cd993341b0fd6cba",
+      "description": " Official Bridge to Base nft on Base mainnet was minted"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/tx/0x7622bf5b94baa06384aebd1305179110b0b7310e7922241af1349e412f2a01d8",
+      "description": "Official Base is for builders nft on Base mainnet was minted"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Testing Base",
+      "number": "100",
+      "url": "https://goerli.basescan.org/address/0x9adCe28d1Afa1aac8eE226A47Ef1ef0413388E77"
+    },
+    {
+      "description": "Deploying Smart contract on base",
+      "number": "100",
+      "url": "https://goerli.basescan.org/address/0x5ae97b750f1c07190b640b9e1acab949136ac08a"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 14,
+      "description": "Airdrop #2"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xc0310996f4bbbf3cb5dc3e045747351a93c7d1fcf6b850e13ad5dc5dafc79728",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

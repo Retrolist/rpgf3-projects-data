@@ -1,0 +1,91 @@
+{
+  "bio": "Cannon is a DevOps tool for Ethereum, inspired by IaC tools like Terraform.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Cannon",
+  "websiteUrl": "https://usecannon.com",
+  "applicant": {
+    "address": {
+      "address": "0x07Aeeb7E544A070a2553e142828fb30c214a1F86",
+      "resolvedName": {
+        "address": "0x07Aeeb7E544A070a2553e142828fb30c214a1F86",
+        "name": "noahlitvin.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x07Aeeb7E544A070a2553e142828fb30c214a1F86"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x07Aeeb7E544A070a2553e142828fb30c214a1F86.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x07Aeeb7E544A070a2553e142828fb30c214a1F86.png",
+    "id": "OptimistProfile|0x4f8f9c5130173bd6c24cb784d91a14cd1af69d19307ae2d32765c63bc69408fa"
+  },
+  "impactDescription": "- Cannon has been especially impactful in the Synthetix Ecosystem, which is one of the largest drivers of activity on OP Mainnet.\n- Cannon has made it straightforward to deploy, configure, and upgrade an isolated deployment on Base Goerli (an OP Stack chain) for Synthetix V3 Perps Testnet competition. See Synthetix V3\u2019s GitOps repository: https://github.com/Synthetixio/synthetix-deployments\n- Builders in the Optimism ecosystem are building front-ends, bots, and smart contracts with Cannon. See the Synthetix V3 Sandbox: https://github.com/synthetixio/synthetix-sandbox\n- We\u2019ve seen some organic adoption from developers outside of the Synthetix ecosystem. e.g. Grateful has deployed to OP Mainnet using Cannon and published their package: https://usecannon.com/packages/grateful/latest/10-main",
+  "contributionDescription": "- Cannon has helped protocol engineers deploy thousands of lines of code to OP Stack chains.\n- Since receiving a grant from RetroPGF Round 2, all funds used so far have gone towards expanding the Cannon team with more engineering resources. This has resulted in 938 commits (changing 491 files\u00a0with\u00a0432,625 additions\u00a0and\u00a0168,277 deletions).\n- usecannon.com has been completely rebuilt. The app includes a package explorer (relying on subgraphs and IPFS), a code browser/\u201cinteract\u201d tool (a la Etherscan), support for ERC-7412, a tool for deploying protocols via a Safe, and refreshed docs.\n- The CLI's user experience and stability has been significantly improved. The basic commands have become more intuitive. Advanced commands have been added for more sophisticated protocols.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://usecannon.com",
+      "description": "Cannon Web App"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/usecannon/cannon",
+      "description": "Cannon Monorepo"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://etherscan.io/address/0x8E5C7EFC9636A6A0408A46BB7F617094B81e5dba",
+      "description": "Cannon Package Registry Contract"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "CLI Weekly Downloads",
+      "number": "500",
+      "url": "https://www.npmjs.com/package/@usecannon/cli"
+    },
+    {
+      "description": "Registry Transactions (since RetroPGF2) ",
+      "number": "311",
+      "url": "https://etherscan.io/address/0x8E5C7EFC9636A6A0408A46BB7F617094B81e5dba"
+    },
+    {
+      "description": "Average daily unique web app visitors",
+      "number": "25",
+      "url": "https://vercel.com/cannon/website/analytics"
+    },
+    {
+      "description": "Average daily web app page views",
+      "number": "225",
+      "url": "https://vercel.com/cannon/website/analytics"
+    },
+    {
+      "description": "GitHub Stars",
+      "number": "66",
+      "url": "https://github.com/usecannon/cannon/stargazers"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 90200,
+      "description": ""
+    },
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50000,
+      "description": "OP Builders Grant (pending distribution)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7a09be22acae5e2d531965a619820b6b9d985f60051c524c2e2b5036aac7489b",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 54,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

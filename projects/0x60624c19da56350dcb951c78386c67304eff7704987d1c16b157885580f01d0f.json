@@ -1,0 +1,52 @@
+{
+  "bio": "Solo Trader",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "BukuBukuChagama",
+  "websiteUrl": "https://x.com/HasanNulHuda8",
+  "applicant": {
+    "address": {
+      "address": "0x7b56389e9C46f17a1493437598081041dc728C0B",
+      "resolvedName": {
+        "address": "0x7b56389e9C46f17a1493437598081041dc728C0B",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x7b56389e9C46f17a1493437598081041dc728C0B"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7b56389e9C46f17a1493437598081041dc728C0B.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7b56389e9C46f17a1493437598081041dc728C0B.png",
+    "id": "OptimistProfile|0x11d45ae4d7e3df3a9bb80e74514b581508adad7240abdaaef39f7377ba56e7d3"
+  },
+  "impactDescription": "Maybe I can't contribute much regarding optimism, but I will try my best to contribute in whatever field I can. Because I Have Very Less Experience About The BlockChain World.Might Be One Of The Stack Ops I Can Do. But even that is a rather difficult thing for me. with this meager income.",
+  "contributionDescription": "Maybe I can't contribute much regarding optimism, but I will try my best to contribute in whatever field I can. Because I Have Very Less Experience About The BlockChain World.Might Be One Of The Stack Ops I Can Do. But even that is a rather difficult thing for me. with this meager income.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x7b56389e9C46f17a1493437598081041dc728C0B",
+      "description": "This is my wallet address"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Download",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0x7b56389e9C46f17a1493437598081041dc728C0B"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 500,
+      "description": "Month"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x60624c19da56350dcb951c78386c67304eff7704987d1c16b157885580f01d0f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,55 @@
+{
+  "bio": "BlockBeats editor",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Bob",
+  "websiteUrl": "https://twitter.com/BobGooofy",
+  "applicant": {
+    "address": {
+      "address": "0x2411F16A75C499636FC5F4E0b1df92717A9864BC",
+      "resolvedName": {
+        "address": "0x2411F16A75C499636FC5F4E0b1df92717A9864BC",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2411F16A75C499636FC5F4E0b1df92717A9864BC"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2411F16A75C499636FC5F4E0b1df92717A9864BC.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2411F16A75C499636FC5F4E0b1df92717A9864BC.png",
+    "id": "OptimistProfile|0x9b6523983a9c7af00b175954c7f26674fe5211a8c641ba8ff6678ee91fe8a710"
+  },
+  "impactDescription": "As an editor, I joined BlockBeats (News and One of the Sharp Chinese Observers on Crypto, Web 3.0 Industry.) for two years, and I have published more than 80 news bulletins on Optimism projects and ecology, helping Optimism to build awareness in Chinese areas and keep abreast of project trends.",
+  "contributionDescription": "As a media editor, I helped Optimism get 100,000-level exposure and dynamic follow-up.I joined BlockBeats (News and One of the Sharp Chinese Observers on Crypto, Web 3.0 Industry.) for two years, and I have published more than 80 news bulletins on Optimism projects and ecology, helping Optimism to build awareness in Chinese areas and keep abreast of project trends.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.theblockbeats.info/search/Optimism",
+      "description": "BlockBeats bulletin"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Cumulative reading times",
+      "number": "100000",
+      "url": "https://www.theblockbeats.info/search/Optimism"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 6000,
+      "description": "Blocktrend (\u5340\u584a\u52e2)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9eed24b6b3f93a8f34a2838229e7abbe710e3f0e2490eaf92e30e6a8a77f389c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 22,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

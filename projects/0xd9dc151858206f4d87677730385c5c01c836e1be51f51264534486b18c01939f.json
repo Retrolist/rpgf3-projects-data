@@ -1,0 +1,91 @@
+{
+  "bio": "Blockchain forensics, investigations, and whistleblower",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "ZachXBT",
+  "websiteUrl": "https://twitter.com/zachxbt/",
+  "applicant": {
+    "address": {
+      "address": "0x3D502fA3C2Aac31d88d6BDA8fBd38AB861211458",
+      "resolvedName": {
+        "address": "0x3D502fA3C2Aac31d88d6BDA8fBd38AB861211458",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3D502fA3C2Aac31d88d6BDA8fBd38AB861211458"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3D502fA3C2Aac31d88d6BDA8fBd38AB861211458.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xde081a81022b0204770eba68bca11a88db9dd192dc94ddf555f4c65f49e99181"
+  },
+  "impactDescription": "1) Pika had a security incident on 5-30-23 after a Discord server was compromised resulting in $330K+ lost. Orbiter suffered a similar incident on 5-31-23 resulting in $760K+ lost. 7-17-23 I shared findings on scammer I traced it back to. I privately shared more details with both so they could take legal action against the individual.\n2) Recently there were SIM swap targeting FriendTech users. I traced multiple thefts & froze funds at a CEX for KingMgugga & Gr0wCrypt0\n3) Discovered Magnate on Base would likely rug after the deployers address was funded from previous scam. I put out a warning so investors could save funds. Shortly after it rugged\n4) Made posts in my Telegram encouraging people to participate in Gitcoin & apply to RPGF round 3\n5) Found the person who rug pulled BALD on Base",
+  "contributionDescription": "I provide full scale investigations to projects and individuals who have fallen to phishing, hacks, exploits, and other scams. My work has lead to multiple arrests, legal action, and asset recovery for victims. In the past I have offered these services free of charge. I also educate newcomers in the space so they can understand some of the warning signs bad actors can show. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/zachxbt",
+      "description": "X (Twitter) account"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/investigations",
+      "description": "Public Telegram Channel"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://zachxbt.mirror.xyz/",
+      "description": "Mirror"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of views",
+      "number": "5140000",
+      "url": "https://x.com/zachxbt/status/1680918931442368515"
+    },
+    {
+      "description": "# of likes ",
+      "number": "2128",
+      "url": "https://x.com/zachxbt/status/1709697295464141208"
+    },
+    {
+      "description": "# of views",
+      "number": "500000",
+      "url": "https://x.com/zachxbt/status/1694914871165345997"
+    },
+    {
+      "description": "# of views",
+      "number": "12500",
+      "url": "https://t.me/investigations/17"
+    },
+    {
+      "description": "# of views",
+      "number": "8600",
+      "url": "https://t.me/investigations/46"
+    },
+    {
+      "description": "# of likes",
+      "number": "2078",
+      "url": "https://x.com/zachxbt/status/1687127828234469376"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 188573,
+      "description": "Contributions shared for Round 3 are new and unrelated to Round 2."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd9dc151858206f4d87677730385c5c01c836e1be51f51264534486b18c01939f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 60,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

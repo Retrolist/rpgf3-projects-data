@@ -1,0 +1,55 @@
+{
+  "bio": "Nfts creator and cartoonist ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "KenticoDesignz",
+  "websiteUrl": "https://kenticodesignz.com",
+  "applicant": {
+    "address": {
+      "address": "0x2e268c988e0226C9015E3416aE8427dA7e66d484",
+      "resolvedName": {
+        "address": "0x2e268c988e0226C9015E3416aE8427dA7e66d484",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2e268c988e0226C9015E3416aE8427dA7e66d484"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xbba3f6bc94783209caac394a24d863e517820bcf23d76e61ba19335658895d9a"
+  },
+  "impactDescription": "My NFTs can also enhance the value of digital collectables, such as virtual trading cards or in-game items. The ability to authenticate and verify ownership of these collectables can increase their rarity and value, and the use of NFTs can create a secondary market for these assets. This can lead to increased liquidity and value for these collectables and create new economic growth opportunities",
+  "contributionDescription": "Growth to the ecosystem and nft marketplace at large.\n\nNFTs are also playing a vital role in developing decentralized applications (dApps), decentralized software programs that run on a blockchain. dApps have the potential to disrupt traditional industries and create new business models, and NFTs can be used to represent and authenticate various types of assets in these applications.\n\nFor example, NFTs could be used to represent and authenticate ownership of the virtual real estate in a virtual world or to represent and authenticate ownership of in-game items in a gaming dApp. The use of NFTs in dApps could lead to the development of new industries and opportunities for economic growth.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://kenticodesignz.com",
+      "description": "website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "download",
+      "number": "500",
+      "url": "https://kenticodesignz.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 5000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x876be0e2a16d36a76945323a83278d1ca6410a37cc1f56729356bab8a4c9d460",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

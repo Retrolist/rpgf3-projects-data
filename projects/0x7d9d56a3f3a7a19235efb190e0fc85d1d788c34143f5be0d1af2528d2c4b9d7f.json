@@ -1,0 +1,71 @@
+{
+  "bio": "These are the events you have attended in the past",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "respati",
+  "websiteUrl": "https://app.poap.xyz/scan/0x2145ac607a1b97d28be117d06474b003dec986b4",
+  "applicant": {
+    "address": {
+      "address": "0x2145ac607A1b97D28BE117D06474B003deC986b4",
+      "resolvedName": {
+        "address": "0x2145ac607A1b97D28BE117D06474B003deC986b4",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2145ac607A1b97D28BE117D06474B003deC986b4"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3687570365345f7fceacf7eb56e4b56beda10cfef6cfec843e09537f1f618e85"
+  },
+  "impactDescription": "New York's premier blockchain hackathon is back!\nThis POAP confirms that you joined the Livestream for ETHGlobal's ETHNewYork hackathon on June 24-26th, 2022. This POAP also means you signed in at https://ethglobal.tv and participated in the conversation. ETHNewYork united over 1500 people passionate about the future of Ethereum under one roof.\n\n",
+  "contributionDescription": "Build the new frontier.\nAll over the world, hundreds of thousands of developers, users, hobbyists, creators, artists, and market makers spend their days and nights thinking, building, talking about Ethereum because we are... excited. We're excited by the idea that Ethereum can change things. That Ethereum is a fulcrum we can use to change money, finance, the web, ownership, the way software works and the way power is distributed.\n\nWe're excited about a new frontier",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": " https://online.ethglobal.com/",
+      "description": "ETHOnline 2022 Talk Attendee"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://nyc.ethglobal.com/",
+      "description": "ETHNewYork Virtual Talk Attendee"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "ETHNewYork Virtual Talk Attendee",
+      "number": "5297250",
+      "url": "https://nyc.ethglobal.com/"
+    },
+    {
+      "description": "ETHOnline 2022 Talk Attendee",
+      "number": "5803172",
+      "url": " https://online.ethglobal.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 20000,
+      "description": "ETHNewYork Virtual Talk Attendee"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 20000,
+      "description": "ETHOnline 2022 Talk Attendee"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7d9d56a3f3a7a19235efb190e0fc85d1d788c34143f5be0d1af2528d2c4b9d7f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

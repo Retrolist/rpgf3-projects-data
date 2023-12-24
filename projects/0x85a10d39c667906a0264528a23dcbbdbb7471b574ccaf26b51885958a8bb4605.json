@@ -1,0 +1,48 @@
+{
+  "bio": "my name is udeme",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "udeme",
+  "websiteUrl": "https://github.com/bennysix",
+  "applicant": {
+    "address": {
+      "address": "0x06549fB17539e19Ac05A4A3B26F3F23b9fBe75a3",
+      "resolvedName": {
+        "address": "0x06549fB17539e19Ac05A4A3B26F3F23b9fBe75a3",
+        "name": "praizmik.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x06549fB17539e19Ac05A4A3B26F3F23b9fBe75a3"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x06549fB17539e19Ac05A4A3B26F3F23b9fBe75a3.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3ec2d871a450ea11961a53156703033b524eac474c471ebb87ec15aa1cc65833"
+  },
+  "impactDescription": "Optimistic Ethereum, often referred to simply as \"Optimism,\" represents a groundbreaking advancement in the world of blockchain technology. It serves as a layer-2 scaling solution for the Ethereum blockchain, addressing the challenges of scalability and high transaction fees that have been a persistent concern for the Ethereum network. This write-up discusses the significant contributions made by [Bennysix] to Optimism.",
+  "contributionDescription": "Optimistic Ethereum, often referred to simply as \"Optimism,\" represents a groundbreaking advancement in the world of blockchain technology. It serves as a layer-2 scaling solution for the Ethereum blockchain, addressing the challenges of scalability and high transaction fees that have been a persistent concern for the Ethereum network. This write-up discusses the significant contributions made by [Bennysix] to Optimism.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/bennysix",
+      "description": "bennysix"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "github",
+      "number": "21",
+      "url": "https://github.com/bennysix"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x85a10d39c667906a0264528a23dcbbdbb7471b574ccaf26b51885958a8bb4605",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,56 @@
+{
+  "bio": "Pioneering a Public Good frontier in Africa where web3 is used for impact",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Public Good Africa",
+  "websiteUrl": "https://mirror.xyz/publicgoodafrica.eth",
+  "applicant": {
+    "address": {
+      "address": "0x03B07a3cb2f55dA486cEfc911120A537813F42fE",
+      "resolvedName": {
+        "address": "0x03B07a3cb2f55dA486cEfc911120A537813F42fE",
+        "name": "publicgoodafrica.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x03B07a3cb2f55dA486cEfc911120A537813F42fE"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03B07a3cb2f55dA486cEfc911120A537813F42fE.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x03B07a3cb2f55dA486cEfc911120A537813F42fE.png",
+    "id": "OptimistProfile|0x8daad0c3a2575da9c0c1110a41cbcbfe2f815b1bafb46a45f7b31bdbddf96ed0"
+  },
+  "impactDescription": "Public Good Africa has been actively involved in onboarding projects to the Optimism collective and has played a vital role in fostering the growth of the Optimism Layer 2 ecosystem in the African region.\n\nProject Onboarding\nWe have been gradually helping projects set up Multi sigs on Optimism and guiding them on how to operate the Multi sigs to facilitate their operations on the Op network. \n\nUser onboarding - IRL education and user guide\nFor the past couple of months, PGA has hosted meet ups in various countries aimed educating people about Public Good and how to use crypto L2 networks. These meet ups have been hosted in Nigeria, Tanzania and Ghana\n",
+  "contributionDescription": "PGA has been actively involved in supporting the development and adoption of Optimism in Africa by helping projects set up and operate on the optimism network. PGA has also been engaging in Public Good education through which it has onboarded individuals into the Optimism collective through IRL Meet Ups. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/spreadsheets/d/1OIiIhSnrUkrJpLmRiVNu-284kG3PiT8rZrCy4YQlE4k/edit#gid=0",
+      "description": "Google sheet containing data of impacts"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# project onboarded - Multi sigs",
+      "number": "6",
+      "url": "https://docs.google.com/spreadsheets/d/1OIiIhSnrUkrJpLmRiVNu-284kG3PiT8rZrCy4YQlE4k/edit?usp=sharing"
+    },
+    {
+      "description": "# of Meet Ups organized - Countries",
+      "number": "3",
+      "url": "https://docs.google.com/spreadsheets/d/1OIiIhSnrUkrJpLmRiVNu-284kG3PiT8rZrCy4YQlE4k/edit?usp=sharing"
+    },
+    {
+      "description": "# User onboarded - wallet addresses",
+      "number": "25",
+      "url": "https://docs.google.com/spreadsheets/d/1OIiIhSnrUkrJpLmRiVNu-284kG3PiT8rZrCy4YQlE4k/edit#gid=2109503628"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xe893bf41623c616cb372a2987e2cc4b7e82f5ad25249d22fc6d13de4a85dfe76",
+  "prelimResult": "Remove",
+  "reportReason": "Extremely hard to verify their claims."
+}

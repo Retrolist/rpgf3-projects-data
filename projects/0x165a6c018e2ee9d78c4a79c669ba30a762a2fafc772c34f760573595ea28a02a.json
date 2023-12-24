@@ -1,0 +1,68 @@
+{
+  "bio": "The best place to find people on Farcaster",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Findcaster",
+  "websiteUrl": "https://findcaster.com",
+  "applicant": {
+    "address": {
+      "address": "0x1358155a15930f89eBc787a34Eb4ccfd9720bC62",
+      "resolvedName": {
+        "address": "0x1358155a15930f89eBc787a34Eb4ccfd9720bC62",
+        "name": "limone.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x1358155a15930f89eBc787a34Eb4ccfd9720bC62"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1358155a15930f89eBc787a34Eb4ccfd9720bC62.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1358155a15930f89eBc787a34Eb4ccfd9720bC62.png",
+    "id": "OptimistProfile|0xfc23ceed77d4a641573122a3ecc50ad2162a29bbe55d9dcbc54153b4fac0c605"
+  },
+  "impactDescription": "Farcaster recently deployed on Optimism Mainnet their registry contract so I heard any projects built in the Farcaster ecosystem might be eligible for RetroPGF. I built an OpenSource tool to navigate the Farcaster community with plain-english prompts. You can ask Findcaster things like \"Find me people who are interested in AI\" and then connect with them through some of the Farcaster existing clients. Next steps I want to take with the projects are around becoming an actual client as well, allowing people to connect with their Farcaster account and contact people directly through my tool, or maybe with XMTP. Another interesting thing to explore is to offer this service as an API or SDK that other applications can use to offer a smart user search to their users/customers.",
+  "contributionDescription": "I need funding in order to pay for the infrastructure as the Farcaster data to handle is already a lot. I need premium plans on Vercel, Supabase and Railway to keep the service running properly. Vercel used to host the webapp. Supabase to store and index the data. Railway to have some periodic and scheduled tasks running (e.g. synchronizing with the new data in the network)",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/limone-eth/findcaster",
+      "description": "Webapp Github Repository"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/limone-eth/farcaster-indexer",
+      "description": "Indexer Github Repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://findcaster.com",
+      "description": "Webapp"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Unique Users",
+      "number": "63",
+      "url": "https://mixpanel.com/p/W2wXiSb72DJFr1ZfjpYWvg"
+    },
+    {
+      "description": "Avg Searches per User",
+      "number": "35.87",
+      "url": "https://mixpanel.com/p/W2wXiSb72DJFr1ZfjpYWvg"
+    },
+    {
+      "description": "Total Searches",
+      "number": "2260",
+      "url": "https://mixpanel.com/p/W2wXiSb72DJFr1ZfjpYWvg"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x165a6c018e2ee9d78c4a79c669ba30a762a2fafc772c34f760573595ea28a02a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 18,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

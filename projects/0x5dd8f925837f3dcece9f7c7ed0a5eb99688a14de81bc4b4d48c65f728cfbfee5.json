@@ -1,0 +1,78 @@
+{
+  "bio": "Software engineer of Digital banking in Thailand",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "saku",
+  "websiteUrl": "https://medium.com/@pathomphongcharoenwichianchay",
+  "applicant": {
+    "address": {
+      "address": "0x3C43AA8E525d0CA2fab672CD55F79dE777295e99",
+      "resolvedName": {
+        "address": "0x3C43AA8E525d0CA2fab672CD55F79dE777295e99",
+        "name": "sakubeebbuild.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3C43AA8E525d0CA2fab672CD55F79dE777295e99"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3C43AA8E525d0CA2fab672CD55F79dE777295e99.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xff7be64af83a01fee79d2e83eb4da7d0c7ef80928f7590851b73d26d2dd0596a"
+  },
+  "impactDescription": "1. End-User Experience & Adoption:\nI actively engage in improving end-user experience and adoption for Optimism by sharing educational content through tweets and providing valuable feedback to the Optimism team.\n\n2.Collective Governance:\nI actively participate in collective governance by initiating and engaging in proposals (OPs), voting on important matters, and actively contributing to discussions in the forum.",
+  "contributionDescription": "I have actively contributed to Optimism by sharing educational content, providing valuable feedback, and participating in governance discussions to enhance end-user experience and adoption. These efforts have played a crucial role in supporting the development and growth of the Optimism network, aligning with the goals of RetroPGF 3 to reward impactful contributions.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@pathomphongcharoenwichianchay",
+      "description": "Medium for share about dapp that focus on optimism eco"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://paragraph.xyz/@sakubeebbuild.eth/fire-safely-explore-web3-with-peace-of-mind",
+      "description": "Paragraph -Fire: Safely Explore Web3"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://paragraph.xyz/@sakubeebbuild.eth/nested-the-best-decentralized-portfolio-management-and-copy-trading-experiences",
+      "description": "Paragrah -Nested: The best decentralized portfolio management"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://paragraph.xyz/@sakubeebbuild.eth/what-is-layer3",
+      "description": "Paragraph -Layer3 Quests: The Ultimate Interactive Experience"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://paragraph.xyz/@sakubeebbuild.eth/mean-finance-simplifying-dollar-cost-averaging-with-decentralization",
+      "description": "Paragraph -Mean Finance: Simplifying Dollar-Cost Averaging"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "medium",
+      "number": "0",
+      "url": "https://medium.com/@pathomphongcharoenwichianchay"
+    },
+    {
+      "description": "paragraph",
+      "number": "1",
+      "url": "https://paragraph.xyz/@sakubeebbuild.eth/mean-finance-simplifying-dollar-cost-averaging-with-decentralization"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5dd8f925837f3dcece9f7c7ed0a5eb99688a14de81bc4b4d48c65f728cfbfee5",
+  "prelimResult": "Remove",
+  "reportReason": "Generic articles, no real impact metrics on Optimism."
+}

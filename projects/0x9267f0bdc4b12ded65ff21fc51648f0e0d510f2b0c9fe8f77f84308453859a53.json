@@ -1,0 +1,58 @@
+{
+  "bio": "An on-chain verifiable RNG with a smart contract SDK for multiple use cases",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "ARPA Randcast",
+  "websiteUrl": "https://www.arpanetwork.io/en-US/randcast",
+  "applicant": {
+    "address": {
+      "address": "0xDD1Ce2d72b2FdCCB2D10D3D04D5ca2Ba81E39aD3",
+      "resolvedName": {
+        "address": "0xDD1Ce2d72b2FdCCB2D10D3D04D5ca2Ba81E39aD3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xDD1Ce2d72b2FdCCB2D10D3D04D5ca2Ba81E39aD3"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDD1Ce2d72b2FdCCB2D10D3D04D5ca2Ba81E39aD3.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xDD1Ce2d72b2FdCCB2D10D3D04D5ca2Ba81E39aD3.png",
+    "id": "OptimistProfile|0x940f9d9246ed6337a28a21412df924671608bee4c2df3e139bb2e4383a4a7265"
+  },
+  "impactDescription": "Randcast offers devs on Optimism a ready-made suite for embedding in DApps or Web3 games that need credible, unbiased, and verifiable randomness. Additionally, devs can tailor this suite via the SDK.\n\nRandcast's SDK highlights:\n\nshuffle: Creates a randomized array of numbers. Useful for card shuffles or lottery numbers.\ndraw: Picks a random subset from an array, ideal for lotteries, card draws, or airdrop selections.\nroll: Executes a random roll in a set size. Suitable for dice rolls, game results, or game character traits.\npickByWeights: Selects an index by weights, great for probability-based outcomes like NFT rarity or lotteries.\nbatch: Produces a set of random numbers from a seed, perfect for lottery sets or verification codes.",
+  "contributionDescription": "Randcast offers a blockchain-based verifiable random number generation service, featuring a user-friendly Smart Contract SDK for easy DApp integration. This fills a gap in Optimism, which lacks a secure randomness solution. Randcast utilizes a decentralized network of nodes and threshold BLS signatures to ensure transparent and tamper-proof randomness. Key features include versatility, security, uniqueness, high availability, and accurate fee estimation. Use cases encompass gaming, lotteries, NFT rarity assignment, blockchain consensus, marketing campaigns, DAO governance, generative art, and cryptographic applications.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ARPA-Network/BLS-TSS-Network",
+      "description": "The infrastructure of Randcast(DKG and Threshold-BLS based randomness service)."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ARPA-Network/Randcast-User-Contract",
+      "description": "Randcast SDK"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.arpanetwork.io/randcast",
+      "description": "Randcast Documentations"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Active builders",
+      "number": "7",
+      "url": "https://github.com/ARPA-Network/BLS-TSS-Network"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x9267f0bdc4b12ded65ff21fc51648f0e0d510f2b0c9fe8f77f84308453859a53",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 13,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

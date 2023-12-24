@@ -1,0 +1,57 @@
+{
+  "bio": "Optimism's Project Discovery: Driving Innovation & Community Engagement",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "rizal",
+  "websiteUrl": "https://medium.com/@rizalaulia342",
+  "applicant": {
+    "address": {
+      "address": "0x8c059fCC72e92cc682c81c12Fc90ae43aEe6bE14",
+      "resolvedName": {
+        "address": "0x8c059fCC72e92cc682c81c12Fc90ae43aEe6bE14",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x8c059fCC72e92cc682c81c12Fc90ae43aEe6bE14"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8c059fCC72e92cc682c81c12Fc90ae43aEe6bE14.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8c059fCC72e92cc682c81c12Fc90ae43aEe6bE14.png",
+    "id": "OptimistProfile|0x2f227f977caf6e3a8a323e80b89fda798a761a481bb24f9cc62bbdd4f56ec3f5"
+  },
+  "impactDescription": "With a dynamic role in the Optimism ecosystem, my contributions enhance growth, spark innovation, and foster a vibrant, thriving community, Empowering Optimism's ecosystem through my dedicated contributions, I drive innovation, amplify growth, and inspire a dynamic, thriving community",
+  "contributionDescription": "As an active participant, I fuel Optimism's evolution, promoting innovation, fostering growth, and nurturing a dynamic, thriving communit, In the Optimism ecosystem, I'm a catalyst for growth, an advocate for innovation, and a builder of a vibrant, thriving community",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/rizal432",
+      "description": "Extensive contributions to Optimism's growth merit RetroPGF consideration."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x96f18ae1837caa647a7ac6489f32bd8286bad0fc831579d46bcf2d02d0b09c81",
+      "description": "tx"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "TX",
+      "number": "110961785",
+      "url": "https://optimistic.etherscan.io/tx/0x96f18ae1837caa647a7ac6489f32bd8286bad0fc831579d46bcf2d02d0b09c81"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 800,
+      "description": "For my significant contributions and dedication, I deserve 800 OP"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf1890e953c7d605cf606ee5b6cee464dbceb12b2762df6d5c6f40920b69e0d85",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

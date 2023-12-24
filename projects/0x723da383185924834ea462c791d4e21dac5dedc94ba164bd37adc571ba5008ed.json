@@ -1,0 +1,89 @@
+{
+  "bio": "The best way to connect a wallet",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "RainbowKit",
+  "websiteUrl": "https://rainbowkit.com",
+  "applicant": {
+    "address": {
+      "address": "0x7a3d05c70581bD345fe117c06e45f9669205384f",
+      "resolvedName": {
+        "address": "0x7a3d05c70581bD345fe117c06e45f9669205384f",
+        "name": "rainbowwallet.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x7a3d05c70581bD345fe117c06e45f9669205384f"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7a3d05c70581bD345fe117c06e45f9669205384f.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7a3d05c70581bD345fe117c06e45f9669205384f.png",
+    "id": "OptimistProfile|0xf9a46a8f4406dde2ccf3190f30621c8a904a50b44ba22831d319155f11b6f076"
+  },
+  "impactDescription": "- RainbowKit's (RK) fast, easy and highly customizable set up has made it easier for developers to build and deploy dapps on multiple networks. \n-RK has become the leading \"Connect Wallet\" SDK, powering 27% of top 100 dapps across chains, including Optimism, Base, and Zora's native web properties and Optimism's official starter kit.\n- RK is committed to supporting OP Stack chains out of the box, adding Zora Chain and Base at launch with all network branding.\n- RK network management improvements make switching, connecting and signing transactions with OP chains easy and reliable for users. Users are 39% more likely to complete transaction on OP chain in dapps that use RK vs other connectors. Users are 139% more likely to switch networks after completing a transaction in RK dapps. ",
+  "contributionDescription": "Prior to RainbowKit, building a \u201cConnect Wallet\u201d experience was big overhead and required frequent maintenance for developers.  For users, connecting to dapps was a convoluted and unstable experience. Particularly, switching between networks caused friction that often blocked users from experimenting with L2s like Optimism. \n\nWe built RainbowKit to be the best connect-to-wallet experience for users and the best integration experience for developers. RainbowKit makes connecting your wallet and switching networks a smooth, reliable and enjoyable experience. RainbowKit is fast, easy and highly customizable for developers to install and maintain.\n\nRainbow built RainbowKit to be an open-source public good. Rainbow does not track data or monetize from the SDK. ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/rainbow-me/rainbowkit",
+      "description": "Rainbow's connect-to-wallet SDK"
+    },
+    {
+      "type": "OTHER",
+      "url": " https://rainbowkit.com",
+      "description": "RainbowKit website"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": " https://github.com/ethereum-optimism/optimism-starter",
+      "description": "RainbowKit embedded in Optimism's boiler plate"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# downloads",
+      "number": "3084896",
+      "url": "https://npm-stat.com/charts.html?package=%40rainbow-me%2Frainbowkit&from=2021-01-17&to=2023-10-17"
+    },
+    {
+      "description": "Highlight 15 OP Stack Dapps",
+      "number": "15",
+      "url": "https://docs.google.com/spreadsheets/d/1DmzOx7BNP38WZaPt7deQ-s3-zSDWJR1-Mq2bKlcTgXY/edit?usp=sharing"
+    },
+    {
+      "description": "% used by top 100 Dapps (all Networks)",
+      "number": "27",
+      "url": "https://x.com/boogaav/status/1714690042013381086?s=20"
+    },
+    {
+      "description": "% TXN CVR on OP chains vs other SDKs",
+      "number": "39",
+      "url": "https://www.dropbox.com/scl/fi/kl9eps43sq9zvv6sbt9ac/conversion_transactions_unqiues.png?rlkey=sdmz3bg7iilawlfyb7oaaowr5&dl=0"
+    },
+    {
+      "description": "% network switch CVR to OP chains vs",
+      "number": "139",
+      "url": "https://www.dropbox.com/scl/fi/bmv6eynwnlaofeyxpi4ts/conversion_chain_switching-2.png?rlkey=uxgdamjtij160rv4gr2hup692&dl=0"
+    },
+    {
+      "description": "% of total dapp pairings via RK",
+      "number": "15.7",
+      "url": "https://www.dropbox.com/scl/fi/x59cdvt5vep2jxh0tn622/share_pairings.png?rlkey=dvzyexjm41x9af6fxrpujbepj&dl=0"
+    },
+    {
+      "description": "% increase in interactions on OP Stack",
+      "number": "295",
+      "url": "https://www.dropbox.com/scl/fi/8uixhc02v8yii1cibui0v/share_interactions2.png?rlkey=hxef56clsjqb6l21c82zn5sby&dl=0"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x723da383185924834ea462c791d4e21dac5dedc94ba164bd37adc571ba5008ed",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 81,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

@@ -1,0 +1,54 @@
+{
+  "bio": "Ask me anything about Optimism Governance (trained on gov forums only)",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Optimism AI Chatbot",
+  "websiteUrl": "https://optimismchat.org",
+  "applicant": {
+    "address": {
+      "address": "0x470579d16401a36BF63b1428eaA7189FBdE5Fee9",
+      "resolvedName": {
+        "address": "0x470579d16401a36BF63b1428eaA7189FBdE5Fee9",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x470579d16401a36BF63b1428eaA7189FBdE5Fee9"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x470579d16401a36BF63b1428eaA7189FBdE5Fee9.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x470579d16401a36BF63b1428eaA7189FBdE5Fee9.png",
+    "id": "OptimistProfile|0xd1f2857c24a47bf2f9e7f23ca9d92cf89e4d2aced9bea634150d449cb0f57613"
+  },
+  "impactDescription": "he chatbot aims to save each member at least one hour every day. Assuming 50 full-time contributors and an average hourly rate of $50, this translates to a monthly productivity gain or cost savings of $75,000/month.\n\nThis is v1 to demonstrate feasibility. Future versions will be much more intelligent.",
+  "contributionDescription": "We developed Optimism AI Chatbot that will provide up-to-date information, potentially saving each Optimism member or community at least one hour daily. \n\nEvery day, platforms like Discourse and Discord are inundated with new inquiries. Many newcomers hesitate to ask questions, fearing they might appear uninformed. Simultaneously, even long-standing members often struggle to locate specific information. To address these challenges, we developed a chatbot to enhance the user experience for both new and seasoned Optimism members.\n\nNote: This is v1, and we aim to improve the intelligence by at least 100x over next few months.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/RobinNagpal",
+      "description": "dodao-ui is the repository which has the code for the chatbot ui"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Daily Improved Efficiency (in mins)",
+      "number": "60",
+      "url": "https://optimismchat.org/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7a065f4554c2c8c407ed90a3a2bc73c93494537f2beba93e3db842623814ed68",
+  "prelimResult": "Remove",
+  "reportReason": "impact unclear. early prototype that does not seem to work"
+}

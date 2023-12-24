@@ -1,0 +1,48 @@
+{
+  "bio": "I am an enthusiast of the crypto world. I am a Test pilot of the crypto world.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Luisvi",
+  "websiteUrl": "https://twitter.com/LuisviperezLuis",
+  "applicant": {
+    "address": {
+      "address": "0x66ec901E8eD387d48535C953F79fF6e7cCCDCC53",
+      "resolvedName": {
+        "address": "0x66ec901E8eD387d48535C953F79fF6e7cCCDCC53",
+        "name": "luisvi.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x66ec901E8eD387d48535C953F79fF6e7cCCDCC53"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x66ec901E8eD387d48535C953F79fF6e7cCCDCC53.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb5b216f0c2d3747b4de8ed4fbe00f6dd9dfe799ecdef92eba1708bb9e4940b3e"
+  },
+  "impactDescription": "I have tried different betting apps, swaps, lending, staking. I have generated volume on the network and have spread them via social networks, Twitter, Instagram, Facebook and others, making the crypto community grow and making the decentralized world more reliable and transparent.",
+  "contributionDescription": "I have tried different betting apps, swaps, lending, staking. I have generated volume on the network and have spread them via social networks, Twitter, Instagram, Facebook and others, making the crypto community grow and making the decentralized world more reliable and transparent.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/address/0x66ec901E8eD387d48535C953F79fF6e7cCCDCC53",
+      "description": "movements"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "movements",
+      "number": "1",
+      "url": "https://etherscan.io/address/0x66ec901E8eD387d48535C953F79fF6e7cCCDCC53"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x894d698528f709a6242295e45e10ba6e589835b87bcf618aa40d0c7841d4cf0c",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

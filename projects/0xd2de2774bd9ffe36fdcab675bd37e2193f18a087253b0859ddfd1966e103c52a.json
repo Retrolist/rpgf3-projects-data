@@ -1,0 +1,93 @@
+{
+  "bio": "Building the interpretation layer for Web3.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Cielo",
+  "websiteUrl": "https://cielo.finance",
+  "applicant": {
+    "address": {
+      "address": "0x0ef1E49E3C9A608b5c69e88623191A8b197729cC",
+      "resolvedName": {
+        "address": "0x0ef1E49E3C9A608b5c69e88623191A8b197729cC",
+        "name": "cielofinance.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x0ef1E49E3C9A608b5c69e88623191A8b197729cC"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0ef1E49E3C9A608b5c69e88623191A8b197729cC.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0ef1E49E3C9A608b5c69e88623191A8b197729cC.png",
+    "id": "OptimistProfile|0xa7242dab46537c8c8cd5625cb4e99e6734c0a502d0cc2d31a56bfd475c7aa10e"
+  },
+  "impactDescription": "Cielo sends over 2 million alerts every week to users of the OP Stack (Optimism, Base, opBNB and Mantle). We reach 46,000+ direct users, 500 Telegram groups, and 270 Discord communities.\n\nDuring a 48 hour span of the Base launch, Cielo sent out over 2.5 million alerts to its users.\n\nPower user testimonial from Houston: \u201cI use a number of wallet trackers and to me, Cielo is clearly best in class. It is, to my knowledge, still the only wallet tracker that supports Synthetix perpetual futures on Optimism chain (hosted on frontends like Kwenta), breaking down transactions that take place in brief, easy to understand snippets. Amongst the wallet trackers I use, Cielo was the first to support transactions on Optimism chain.\u201d \n\nWe shared external testimonials in the Contribution links section.",
+  "contributionDescription": "Cielo provides tooling for interpreting onchain activity on Optimism. This includes:\n\n1. Web app that labels and filters Optimism transactions\n2. Custom user generated lists of themed wallets e.g. \u201cHigh Volume Optimism Traders\u201d; \u201cVelodrome Power Users\u201d\n3. Token tracking for Optimism assets e.g. $OP, $VELO\n4. Customizable Telegram + Discord alerts for Optimism communities\n\nOptimism was the first L2 Cielo added support for (April 2022) and continues to dominate our operations and user activity. \n\nWe have expanded to include other chains of the OP Stack and have over 45,000 users .\n\nIn August, Cielo became the first wallet tracking service to add support for Base, providing onchain analytics during the L2\u2019s first weeks of operation.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/uniwhales/drip",
+      "description": "An NFT referral platform. A finalist at an ETH Global hackathon."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/uniwhales/component-library",
+      "description": "OS components for on chain activity alerts"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.cielo.finance/feed?chains=base%2Coptimism%2Copbnb",
+      "description": "OP Stack Activity Feed on Cielo App"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/EVMTrackerbot",
+      "description": "Telegram bot"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/onchainintrigue",
+      "description": "The premier place to track onchain news in real time. Built on Cielo."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/cielofinance.eth/wnt2Hlvztm7OW6tph7BdqUD-c0Za4V6cxenRfAtgL_Q",
+      "description": "Exploring the Optimism Ecosystem Using the Cielo Web App"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.cielo.finance/feed/preview/790-Music-NFTs-by-Orli?chains=optimism&category=nft",
+      "description": "User generated list for Soundxyz Music NFT mints on Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/CieloFinance/status/1710268234790744098",
+      "description": "Cielo users tracking OP protocols in real time."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/zachxbt/status/1685787688085901313?s=46&t=WddjAv5jjvZ2q7R0xBydqA",
+      "description": "ZachXBT using Cielo alerts as in integral tool for their important work."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/binji_x/status/1686913333125922816",
+      "description": "Binji of OP team on the merits of Cielo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Daily OP Stack alerts sent to users on",
+      "number": "10000000",
+      "url": "http://metabase.cielo.finance/public/dashboard/e1df99fd-3d71-4761-8cb7-691fdde5eca9"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xd2de2774bd9ffe36fdcab675bd37e2193f18a087253b0859ddfd1966e103c52a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 33,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

@@ -1,0 +1,131 @@
+{
+  "bio": "Deanonymizing the Blockchain",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Arkham",
+  "websiteUrl": "https://www.arkhamintelligence.com/",
+  "applicant": {
+    "address": {
+      "address": "0x901168296E01613E758433591B82E4d9606feddB",
+      "resolvedName": {
+        "address": "0x901168296E01613E758433591B82E4d9606feddB",
+        "name": "southken.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x901168296E01613E758433591B82E4d9606feddB"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x901168296E01613E758433591B82E4d9606feddB.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x901168296E01613E758433591B82E4d9606feddB.png",
+    "id": "OptimistProfile|0xefd3fcdc1076e28a04160bdf969760db71fc9e0980b248dcc9c706f0f5f2f393"
+  },
+  "impactDescription": "Arkham's integration with Optimism positively impacts both end users and developers in meaningful ways. Users gain real-time transaction tracking, portfolio management, and network visualization on Optimism's L2 Rollup. Developers benefit from an enriched ecosystem with detailed on-chain data. This work bridges the gap between the address-centric world of crypto and the rest of the entity-centric world, including TradFi and Web2. This collaboration fosters broader adoption and a vibrant developer community, aligning with Optimism's vision for a decentralized, accessible, and healthy blockchain ecosystem\u200b.\n\nArkham also integrated Base (built on the OP Stack) with 130K active entities, 50M labeled addresses, and 70M tags.",
+  "contributionDescription": "Since adding support for Optimism on the free and public Arkham Platform, we\u2019ve cataloged over 50K active entities from the Optimism ecosystem, thereby greatly enhancing its transparency. We've labeled over 40M addresses, attaching over 50M tags. We\u2019ve brought institutional-grade tooling to the entire Optimism community, allowing its members to understand and navigate the ecosystem with confidence and helping to keep it free of malicious actors. \n\nOur users analyze the Optimism data on our platform extensively, with many onboarded Optimism users utilizing our platform daily.\n\nOur Twitter engagement for Optimism-related posts and research reflects the active mutual support and overlap between our two communities.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ArkhamIntel/status/1625542335999385601",
+      "description": "OP Drop #2 Research"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ArkhamIntel/status/1641070953659785217?s=20",
+      "description": "Optimism x Arkham Integration"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=9tCa5xx8WcY",
+      "description": "OP Radio #27: Arkham Intelligence Data Analytics Platform"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/optimismFND/status/1648399857936367617?s=20",
+      "description": "OP Radio #27: Arkham Intelligence Data Analytics Platform"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.arkhamintelligence.com/announcements/arkham-x-optimism",
+      "description": "Blog post: Optimism x Arkham"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.arkhamintelligence.com/announcements/optimism-is-live-on-arkham",
+      "description": "Blog post: Optimism x Arkham go Live"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/ArkhamIntel/status/1644013319098085376?s=20",
+      "description": "Optimism Ecosystem"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.arkhamintelligence.com/announcements/base-is-live-on-arkham",
+      "description": "Blog post: Base Live on Arkham"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.arkhamintelligence.com/announcements/announcing-arkham-x-coinbase",
+      "description": "Blog Post: Announcing Arkham x Coinbase"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/ArkhamIntel/status/1698750412793508132",
+      "description": "Aerodrome Finance Review"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/ArkhamIntel/status/1696595880370168180?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1696595880370168180%7Ctwgr%5E3c23c1836ed6db0792e6894acdcbaa0e54f51888%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.coindesk.com%2Ftech%2F2023%2F08%2F31%2Fscores-of-friendtech-users-remain-active-even-as-trading-volumes-drop-95%2F",
+      "description": "Friend Tech Review"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Optimism Entities on Arkham",
+      "number": "50000",
+      "url": "https://docs.google.com/spreadsheets/d/1Re9vkl2zgvMujw1YyztpCi3mWcggjbCTJAstkuWqZ7M/edit#gid=1866886046"
+    },
+    {
+      "description": "Optimism Addresses Labelled on Arkham",
+      "number": "40000000",
+      "url": "https://platform.arkhamintelligence.com/dashboard/33471d04-82cd-44db-961a-afaea132af7c"
+    },
+    {
+      "description": "Optimism Addresses Tagged on Arkham",
+      "number": "50000000",
+      "url": "https://platform.arkhamintelligence.com/explorer/entity/optimism"
+    },
+    {
+      "description": "Base Entities on Arkham",
+      "number": "130000",
+      "url": "https://docs.google.com/spreadsheets/d/1JqOPZyegkMIX5-Npc9kgbYiHo3AbJsznYhV6NohhvRY/edit#gid=461988418"
+    },
+    {
+      "description": "Base Addresses Labelled on Arkham",
+      "number": "50000000",
+      "url": "https://platform.arkhamintelligence.com/explorer/entity/base"
+    },
+    {
+      "description": "Base Addresses Tagged on Arkham",
+      "number": "70000000",
+      "url": "https://platform.arkhamintelligence.com/dashboard/d1a819d5-7aa2-4118-aa0e-06bcfb5fe1d3"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x755dd16cf1a8d30118d4a58e458ac5477b2513439267441d4e0d4b50b131dcf7",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 15,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

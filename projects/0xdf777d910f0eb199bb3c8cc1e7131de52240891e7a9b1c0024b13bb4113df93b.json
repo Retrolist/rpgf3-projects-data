@@ -1,0 +1,55 @@
+{
+  "bio": "Support for the Hispanic Crypto community",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "goluis",
+  "websiteUrl": "https://twitter.com/goluis1_",
+  "applicant": {
+    "address": {
+      "address": "0x7D3bF2cb39f5cEEeca91eCc8201Dc01616AD089f",
+      "resolvedName": {
+        "address": "0x7D3bF2cb39f5cEEeca91eCc8201Dc01616AD089f",
+        "name": "goluis.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x7D3bF2cb39f5cEEeca91eCc8201Dc01616AD089f"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7D3bF2cb39f5cEEeca91eCc8201Dc01616AD089f.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x2ed4f604b38218b0be6fad41646b064b899ce45eef31b32810b9c3434f78c4c0"
+  },
+  "impactDescription": "The impact comes from the integration of many people, including Dev, who aroused interest in addressing and learning more about Optimism. In reality, my work is mostly informative, seeking for the community to integrate and develop in the Blockchain.",
+  "contributionDescription": "Support for the Hispanic Crypto community, keeping up to date, supporting and reporting on the latest evkeeping up to date, supporting and reporting on the latest events taking place in the OP Blockchain  I developed this work not only on the Twitter account, but also in the different Spanish-speaking groups on Telegram.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/goluis1_",
+      "description": "Support on my social network Twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Followers",
+      "number": "464",
+      "url": "https://twitter.com/goluis1_"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "What I need to have an internet device, a PC to be able to promote "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xdf777d910f0eb199bb3c8cc1e7131de52240891e7a9b1c0024b13bb4113df93b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

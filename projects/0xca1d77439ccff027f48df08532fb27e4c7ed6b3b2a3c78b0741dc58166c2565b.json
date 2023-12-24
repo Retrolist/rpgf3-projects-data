@@ -1,0 +1,66 @@
+{
+  "bio": "Our mission is to spread optimism with our unique clothing collections!",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "OPMERCH",
+  "websiteUrl": "https://opmerch.store/",
+  "applicant": {
+    "address": {
+      "address": "0x6f105695A191fa3024B80F83D1b9d451baeD1462",
+      "resolvedName": {
+        "address": "0x6f105695A191fa3024B80F83D1b9d451baeD1462",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6f105695A191fa3024B80F83D1b9d451baeD1462"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6f105695A191fa3024B80F83D1b9d451baeD1462.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6f105695A191fa3024B80F83D1b9d451baeD1462.png",
+    "id": "OptimistProfile|0x27b4fb169684f0de654946a834eae000385a0e9f46034b36c74e4ce109981d66"
+  },
+  "impactDescription": "Our platform is dedicated to spreading optimism worldwide through our incredible merchandise! We have already shipped more than 40 products to different parts of the world and have more than 1,000 visitors to the website. We are confident that we are making a difference in our mission to inspire and uplift people to join Optimism Collective.",
+  "contributionDescription": "OP Merch is a unique platform that offers a wide range of exclusive merchandise inspired by the Optimism community. The platform boasts a collection of more than 40 distinctive pieces of art, including T-shirts, mugs, stickers, and caps, all designed with a cool and unique aesthetic. OP Merch is unlike any other crypto-themed merchandise platform in the market, and it has become a go-to destination for the Optimism community to find high-quality and stylish merchandise that represents their values.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://opmerch.store/",
+      "description": "OPMERCH Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/OptimismMerch",
+      "description": "Twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of views",
+      "number": "6600",
+      "url": "https://x.com/CryptoTiredEyes/status/1624370062659403776?s=20"
+    },
+    {
+      "description": "Number of views",
+      "number": "7600",
+      "url": "https://x.com/op_divergent/status/1633884039911276544?s=20"
+    },
+    {
+      "description": "Inventory sold",
+      "number": "40",
+      "url": "https://drive.google.com/file/d/1zZXaHIqYDGCDH_wORMWnWrgCsTi4u_Z0/view?usp=share_link"
+    },
+    {
+      "description": "All-time visitors",
+      "number": "1300",
+      "url": "https://drive.google.com/file/d/1sKFFPwL_-iivP1Qqz75CwTJjAf9kQKjk/view?usp=share_link"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xca1d77439ccff027f48df08532fb27e4c7ed6b3b2a3c78b0741dc58166c2565b",
+  "prelimResult": "Remove",
+  "reportReason": "In their impact metrics they claim to have sold 40 items, but don't list any revenue under funding sources"
+}

@@ -1,0 +1,58 @@
+{
+  "bio": "A filmmaker and programmer in the web3 space",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Xanny",
+  "websiteUrl": "https://github.com/xvoorvaa",
+  "applicant": {
+    "address": {
+      "address": "0x31a9bc328d634BEa07E74732F668AbD42D75D624",
+      "resolvedName": {
+        "address": "0x31a9bc328d634BEa07E74732F668AbD42D75D624",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x31a9bc328d634BEa07E74732F668AbD42D75D624"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x31a9bc328d634BEa07E74732F668AbD42D75D624.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xce50bbf366a7d607035d7205155a24e11af5d9ecf9bfa8cb58f22d4fd82a674a"
+  },
+  "impactDescription": "The Attestation Visualiser helps boost governance engagement in the Optimism Collective by making complex relationships in the RetroPGF ecosystem clearer for the Optimism Citizens. Using the ThreeGraph module to create a 3D graph, it makes understanding relationships among badgeholders easier. Features like Highlight Paths and ENS improve navigation and identification, making governance more accessible and engaging.\n\nWhile we're still waiting on user engagement metrics, the Visualiser aims to promote inclusivity and a more interactive governance experience in the Optimism Collective by improving understanding and engagement.",
+  "contributionDescription": "My primary contribution to Optimism is the creation of the \"Attestation Visualiser\" for RetroPGF. This tool helps make the complex relationships in the Optimism Citizens\u2019 House easy to understand. It offers a visual map to help users navigate the governance setup and understand the connections and pathways in the RetroPGF ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/xvoorvaa/attestation-visualizer/",
+      "description": "Visualise the Optimism Citizens\u2019 House like never before!"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/ethereum-optimism/ecosystem-contributions/issues/107",
+      "description": "The Ecosystem Project Idea"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Amount of unique visitors since 22 Oct.",
+      "number": "14",
+      "url": "https://drive.google.com/file/d/1_E-Lkn8xu-0LLvL-ffBz5WAZqSKAO-BK/view?usp=drive_link"
+    },
+    {
+      "description": "Amount of page visits",
+      "number": "35",
+      "url": "https://drive.google.com/file/d/1_E-Lkn8xu-0LLvL-ffBz5WAZqSKAO-BK/view?usp=drive_link"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x3ce49d409338c85e38ad3cb7ea957d6cac3a3e84eae1a8109fc60cf4400ee214",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 28,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Governance Tooling"
+}

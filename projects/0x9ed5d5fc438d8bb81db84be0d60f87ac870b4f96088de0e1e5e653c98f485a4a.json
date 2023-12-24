@@ -1,0 +1,108 @@
+{
+  "bio": "Educating and onboarding the next wave of public goods users & builders to Web3.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Accessible Education for Web3 Public Goods Changemakers",
+  "websiteUrl": "https://www.cryptoaltruism.org/",
+  "applicant": {
+    "address": {
+      "address": "0xA50064D462e17f7091eE62BaebeB18BFEBE21507",
+      "resolvedName": {
+        "address": "0xA50064D462e17f7091eE62BaebeB18BFEBE21507",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xA50064D462e17f7091eE62BaebeB18BFEBE21507"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png",
+    "id": "OptimistProfile|0x026de98877dae42a169c351ed800b950cc1f12629e63a4db649fc209dfc5674b"
+  },
+  "impactDescription": "-Crypto Altruism\u2019s podcasts have garnered 10,000+ listens since launch. The podcast has championed public goods projects building on optimism \u2013 including Gitcoin, Giveth, Hypercerts, and Endaoment, and broken down complex topics like Quadratic Funding & ZK proofs for prospective builders.\n-The Crypto Altruism website, which houses our blog and podcast, has received over 150,000 visits, with the educational infographics and resources on Quadratic Funding being amongst the most popular for visitors.\n-Recently partnered with Endaoment, who enables on-chain giving on Optimism, on the release of a special 10-part podcast series highlighting nonprofits leveraging blockchain. Each episode has included a short clip from Endaoment introducing their platform, helping to educate potential users. ",
+  "contributionDescription": "For 2.5 years, Crypto Altruism has championed the transformative potential of Web3, helping guide the next wave of users and builders in the public goods domain into the Web3 ecosystem. Founded and bootstrapped by Drew Simon, Crypto Altruism has grown into a movement impacting thousands, bolstering the transformative potential of Web3 tools to advance public goods. Whether it\u2019s builders looking to create something new on Ethereum or L2s like Optimism, or changemakers interested in utilizing existing public goods tools like Gitcoin, Giveth, or Endaoment, we\u2019ve developed accessible educational content including two popular podcasts totaling 130 episodes, and a blog with 250+ articles. At our core, we equip impact leaders with education so they can leverage blockchain to advance public goods.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.cryptoaltruism.org/",
+      "description": "Website with repository of all blog posts, podcast episodes, and resources"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.cryptoaltruism.org/podcast",
+      "description": "Website for Crypto Altruism podcast with list of episodes"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.cryptoaltruism.org/the-web3-nonprofit",
+      "description": "Website for The Web3 Nonprofit podcast with list of episodes"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.cryptoaltruism.org/infographics",
+      "description": "Repository for educational infographics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.cryptoaltruism.org/blog/crypto-altruism-podcast-episode-119-giveth-building-the-future-of-giving-by-empowering-a-global-decentralized-altruistic-community",
+      "description": "Podcast episode ft. Giveth"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.cryptoaltruism.org/blog/crypto-altruism-podcast-episode94-gitcoin-empowering-communites-to-fund-build-and-protect-what-matters-with-quadratic-funding",
+      "description": "Podcast episode ft. Gitcoin"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.cryptoaltruism.org/blog/crypto-altruism-podcast-episode101-hypercerts-tracking-and-rewarding-positive-impact-with-blockchain",
+      "description": "Podcast episode ft. Hypercerts"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Crypto_Altruism",
+      "description": "Twitter/X profile"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of podcast downloads",
+      "number": "11000",
+      "url": "https://drive.google.com/file/d/1PHl_C3TtfTjXNCIeOqkJ4A0kMIWORkaO/view?usp=share_link"
+    },
+    {
+      "description": "Website visits",
+      "number": "150000",
+      "url": "https://drive.google.com/file/d/16e5_y5-9mNPccBS1UBpkutE1eT6LRvke/view?usp=share_link"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 750,
+      "description": "Direct community contributions to public wallet, through buy me a coffee, etc."
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 3600,
+      "description": "Funding received from Gitcoin Beta and GG18 rounds"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2500,
+      "description": "Sponsorship from Web3 organization"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 22,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

@@ -1,0 +1,88 @@
+{
+  "bio": "A decentralized education platform and protocol, onboarding builders into Web3.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "DeSchool",
+  "websiteUrl": "https://deschool.app",
+  "applicant": {
+    "address": {
+      "address": "0x9672c0e1639F159334Ca1288D4a24DEb02117291",
+      "resolvedName": {
+        "address": "0x9672c0e1639F159334Ca1288D4a24DEb02117291",
+        "name": "puppuccino.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x9672c0e1639F159334Ca1288D4a24DEb02117291"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x53ead00af2d811329ba620f415064d7c5222532bacb2b215d75c5e8360fd9d7e"
+  },
+  "impactDescription": "Not only we provide education for Web3 tech and tools, we\u2018re also one of very few platforms providing education and practical experience for DAO governance and operation for Chinese speakers, preparing builders to better participate in governance, so that builders are better prepared to join governance in the Collective",
+  "contributionDescription": "DeSchool has been providing full range of free-to-access Web3 education since early 2022. To date, over 3000 on-chain certificates have been issued for users. Partnering with multiple DAOs, DeSchool acts as the onboarding platform for Web2 audience to learn knowledge and culture about Web3. \n\nDeSchool provides fundamental knowledge about OP and train users to better equip with Web3 tools before onboarding them to the OP ecosystem and continue their learning and building journey. We are building more OP ecosystem content and preparing to better support OP CN in collaboration with developer communities.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://deschool.app/origin/campaign/65277c457e01ec7c1eac9fe9",
+      "description": "Onboarding users to OP before joining OP CN community"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://deschool.app/origin/studio/web3university",
+      "description": "A curriculum about full aspects of Web3"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://deschool.app/en/studio/63b3e6aaaab799049861d2c1",
+      "description": "Onboarding Ethereum builders "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://deschool.app/en/series/63247b4f4ba93bb16ae52dca/learning?courseId=63247ea44ba93bb16ae52faf",
+      "description": "Over 10-hour content about DAO operation"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://deschool.app/en/studio/6399346923b9a879ccbb0048",
+      "description": "DAO History"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Course completion SBT",
+      "number": "3475",
+      "url": "https://polygonscan.com/address/0x0D9ea891B4C30e17437D00151399990ED7965F00"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 60000,
+      "description": "SeeDAO Grant"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 280000,
+      "description": "Supports from PlanckerDAO and other project founders"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "Lens Hackathon, Arweave Hackathon, and Gitcoin Grants"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4334d7ad70ff3adfe4310ce1433b92c242e7110f29091a0fd3e768f1a148bf8c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 32,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

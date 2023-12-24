@@ -1,0 +1,55 @@
+{
+  "bio": "Content creator writing about Web3 and Crypto.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Gideon",
+  "websiteUrl": "https://twitter.com/CryptoGideon_",
+  "applicant": {
+    "address": {
+      "address": "0x0E6D666EC207bd28d3163110392CFad7E90f087F",
+      "resolvedName": {
+        "address": "0x0E6D666EC207bd28d3163110392CFad7E90f087F",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0E6D666EC207bd28d3163110392CFad7E90f087F"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0E6D666EC207bd28d3163110392CFad7E90f087F.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0E6D666EC207bd28d3163110392CFad7E90f087F.png",
+    "id": "OptimistProfile|0x0262bda069d3633b43260dd279d1fbd28478b2120131471f4aabce000af78499"
+  },
+  "impactDescription": "My community is well-informed about the latest OP catalysts and events.\n\nAlso, shared several projects built on top of Optimism.\nI believe they have a better understanding of where they can swap, trade, buy nfts and many other things on OP.\n\nThis brought volume and activity to OP dapps.",
+  "contributionDescription": "I have created various educational and informational content about Optimism, its ecosystem, dapps, fundamentals, Superchain, events, catalysts, etc.\n\nWrote thread, substack article, and various single tweets.\n\nI have kept my community updated with the latest OP events, improvements and educated them about the Optimism ecosystem.\n\nAlso recommended OP ambassador @Subli_Defi to my community.\n(If they want to know more resources/info about OP ecosystem)",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://x.com/CryptoGideon_/status/1691412723631013888?s=20",
+      "description": "OP superchain thread. Highlighting importance and impact of Superchain on crypto"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptostoics.substack.com/p/guaranteed-35x-with-this-gem",
+      "description": "Substack article about top projects on Optimism with price estimation in bull."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/CryptoGideon_/status/1685580090414145536?s=20",
+      "description": "Updating my community about improving OP fundamentals."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Thread views",
+      "number": "11300",
+      "url": "https://x.com/CryptoGideon_/status/1691412723631013888?s=20"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xa739344c0a2e42ca3869002aec938178b77707107912959061aa4728c7511330",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

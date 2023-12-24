@@ -1,0 +1,98 @@
+{
+  "bio": "yAcademy is a trial-by-fire Fellowship program to train auditors",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "yAcademy/yAudit",
+  "websiteUrl": "https://yacademy.dev/",
+  "applicant": {
+    "address": {
+      "address": "0xF53D1fB2EeD22Cf1E8f7E90Da7f1CAe88344065F",
+      "resolvedName": {
+        "address": "0xF53D1fB2EeD22Cf1E8f7E90Da7f1CAe88344065F",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xF53D1fB2EeD22Cf1E8f7E90Da7f1CAe88344065F"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF6411852b105042bb8bbc6Dd50C0e8F30Af63337.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF53D1fB2EeD22Cf1E8f7E90Da7f1CAe88344065F.png",
+    "id": "OptimistProfile|0xd017a84a89f8558ee921b4ff0f62a0d25a6b80ff6837d83aca99313a6c28eca8"
+  },
+  "impactDescription": "yAcademy educated over 100 top security engineers in crypto. The vast majority are very talented solo developers or researchers who come to us to learn. It\u2019s not easy to become a yAcademy Fellow. In Block 5, we had 125 applicants and only 22 were able to meet the entry prerequisites. \nResident Contributions:\n1. Resident Usmannk scored #8 on your Sherlock Optimism contest finding a unique medium.\n2. Audited Sonne Finance, #5 highest TVL on Optimism.\n3. Audited VMEX, a new lending project on Optimism.\n4. Audited Yearn V3 \nWe've also contributed community research like our deep dive on proxy security, list of commonly forked hacks, or general research on web3 security issues. We also participate in audit and security contests such as Paradigm CTF where we placed 14th out of 414 teams in 2022.",
+  "contributionDescription": "yAcademy is a trial-by-fire Fellowship program to shadow-audit alongside Resident and Guest auditors. The best Fellows who come through the yAcademy program are retained as full time Resident auditors. yAcademy and yAudit were started by Ali Atiia, a Yearn contributor. \n\nIn April 2023, yAcademy created yAudit, a professional services firm focused on security auditing. Yearn is a customer, along with Sonne, VMEX, and many projects in other ecosystems. \n\nyAcademy/yAudit Residents have scored in the top 10 (#8) of the Optimism Sherlock contest, audited Sonne Finance #6 TVL, audited Yearn #10 TVL, and audited VMEX Finance too.  ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://yacademy.dev/members",
+      "description": "yAcademy Graduates"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://yaudit.dev/team",
+      "description": "yAudit Resident Team"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://reports.yaudit.dev/",
+      "description": "Sonne, VMEX, Yearn audits"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total yAcademy Graduates",
+      "number": "100",
+      "url": "https://yacademy.dev/members/"
+    },
+    {
+      "description": "Resident UsmannK Sherlock Contest",
+      "number": "8",
+      "url": "https://audits.sherlock.xyz/contests/38/leaderboard"
+    },
+    {
+      "description": "Sonne Audit",
+      "number": "1",
+      "url": "https://reports.yaudit.dev/reports/05-2023-Sonne/"
+    },
+    {
+      "description": "VMEX Audit",
+      "number": "1",
+      "url": "https://reports.yaudit.dev/reports/06-2023-VMEX/"
+    },
+    {
+      "description": "VMEX Audit 2",
+      "number": "2",
+      "url": "https://reports.yaudit.dev/reports/06-2023-VMEX-incentives/"
+    },
+    {
+      "description": "Yearn V3",
+      "number": "1",
+      "url": "https://reports.yaudit.dev/reports/06-2023-Yearn-v3/"
+    },
+    {
+      "description": "# of saves",
+      "number": "260",
+      "url": "https://github.com/YAcademy-Residents/defi-fork-bugs"
+    },
+    {
+      "description": "# of saves",
+      "number": "105",
+      "url": "https://github.com/YAcademy-Residents/CommonWeb3SecurityIssues"
+    },
+    {
+      "description": "Out of 414 Teams",
+      "number": "14",
+      "url": "https://ctftime.org/event/1719/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x697c316dc17ec7545ca91226e3e82d7fa3891c642ac5207d52dd46999a7b45b2",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 15,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

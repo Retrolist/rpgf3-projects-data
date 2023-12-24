@@ -1,0 +1,45 @@
+{
+  "bio": "I am a \"sunbather\" in the Sonne discord (og member that helps answer people)",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Crypto_0008",
+  "websiteUrl": "https://www.twitter.com/Crypto_0008",
+  "applicant": {
+    "address": {
+      "address": "0x686878c03282b225d7331bf3Deafdf27Cd6a38F6",
+      "resolvedName": {
+        "address": "0x686878c03282b225d7331bf3Deafdf27Cd6a38F6",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x686878c03282b225d7331bf3Deafdf27Cd6a38F6"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x686878c03282b225d7331bf3Deafdf27Cd6a38F6.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x686878c03282b225d7331bf3Deafdf27Cd6a38F6.jpeg",
+    "id": "OptimistProfile|0xd3be3b740a4767f63e5b72f3c22c266970e2cdfaf23584b1af97352be709af00"
+  },
+  "impactDescription": "I have been extremely consistent in being present within discord and twitter; helping new members wrap their head around current events / important information / etc.\n\nI truly hope to ramp this up (especially on Twitter), as I have a deep passion for crypto",
+  "contributionDescription": "I have been very active in the Sonne discord: being present daily + answering questions, which helps educate new members.\n\nI hope to pump out educational content on my Twitter, as I am also very active there, spreading the word on \"worthy\" projects.\n\nI have been very active in crypto since 2016 and feel I can help beginners get up to speed with the basics.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.twitter.com",
+      "description": "twitter + discord daily presence "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Tweet impressions past 28 days",
+      "number": "1775",
+      "url": "https://twitter.com/Crypto_0008"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x6d86e1d78d4ed207e7a7bed46354417b6b5c343d80355878fdeb75113e61d773",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,66 @@
+{
+  "bio": "Support Optimism developers & users in South Korea",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Optimism Korea \ud83d\udd34\ud83c\uddf0\ud83c\uddf7",
+  "websiteUrl": "https://optimism-korea.oopy.io/",
+  "applicant": {
+    "address": {
+      "address": "0x512cEb57C6BCf86757C2693e729cBEE0AEa7Ffde",
+      "resolvedName": {
+        "address": "0x512cEb57C6BCf86757C2693e729cBEE0AEa7Ffde",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x512cEb57C6BCf86757C2693e729cBEE0AEa7Ffde"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x512cEb57C6BCf86757C2693e729cBEE0AEa7Ffde.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xf83f1079d4ef8e1949ac21f807c9fa30d6f5d3bae2b35f19e8645435444dae43"
+  },
+  "impactDescription": "As Optimism Korea has been published with Korean language, it will provide more opportunities to Korean Users and Builders to initiate their web3.0 movement and L2 interest on Optimism. Managing blockchain community for years, legitimate members who have strong philosophy of blockchain and want to enlighten people to know the concept of web3.0 can onboard on this project as we open the door to brake language barrier. In web3.0 industry, Korea has been playing very important role to research and build to improve ecosystem. \n\nTo prove that Optimism Korea works like Optimism Espa\u00f1ol, we lightly commence a website to share and gather more comrades of Optimism.",
+  "contributionDescription": "At Optimism Korea, our primary focus is breaking language barriers and cultivating the Korean Optimism builder community.\n\nTranslation: Language remains a formidable challenge for non-English-speaking builders. We're addressing this by translating all developer documentation and Mirror on Optimism's blogs into Korean. This initiative empowers developers and users to grasp Optimism's vision and actively contribute.\n\nBuilder Community: We've initiated the formation of an Optimism builder community, starting with our team of 8 experienced Optimism developers. Additionally, we plan to organize Developer Meetups to welcome newcomers.\n\nOur contributions are geared towards empowering and expanding Optimism's presence in the Web3 ecosystem while bridging language gaps.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimism-korea.oopy.io/",
+      "description": "Optimism Korea website with all key contents translated into Korean!"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x512cEb57C6BCf86757C2693e729cBEE0AEa7Ffde",
+      "description": "Mirror blog where recent articles are translated into Korean!"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/optimism_korea",
+      "description": "Official Twitter for Optimism Korea - stay updated with all the latest news!"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of translated contents ",
+      "number": "8",
+      "url": "https://mirror.xyz/0x512cEb57C6BCf86757C2693e729cBEE0AEa7Ffde"
+    },
+    {
+      "description": "# of translated docs",
+      "number": "20",
+      "url": "https://optimism-korea.oopy.io/39fcbdf7-c423-413b-923e-d212a6beaa11"
+    },
+    {
+      "description": "# of retweets",
+      "number": "30",
+      "url": "https://twitter.com/optimism_korea"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x62ce560a2eed1cf5c2808022d0ffb613eab99e18f2916b11a305b32e2351430d",
+  "prelimResult": "Remove",
+  "reportReason": "['all articles published a week ago,twitter has no content,cannot search anything on google/op discord server with optimism-korea.oopy.io']"
+}

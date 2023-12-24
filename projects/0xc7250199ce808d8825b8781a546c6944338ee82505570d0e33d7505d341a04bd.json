@@ -1,0 +1,65 @@
+{
+  "bio": "Dune Wizards data analyst, created lots of usefule onchain data dashboards.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Spring Zhang",
+  "websiteUrl": "https://dune.com/springzhang",
+  "applicant": {
+    "address": {
+      "address": "0xdbE38D1d3631a04875d3FAd945D0dFcb2C20f91c",
+      "resolvedName": {
+        "address": "0xdbE38D1d3631a04875d3FAd945D0dFcb2C20f91c",
+        "name": "springzh.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xdbE38D1d3631a04875d3FAd945D0dFcb2C20f91c"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdbE38D1d3631a04875d3FAd945D0dFcb2C20f91c.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x1b4d626b89aa4921fc09fd0e66467af3b5522e58859599f9e04e5ae7dc065c5f"
+  },
+  "impactDescription": "The more users using the dashboards, they have more understanding with Optimism Collection. I created these dashboards to allow users know better about how they their performance in Optimism Quests, how many other users received previous airdrop, what's the effect of liquidity provider incentive plan for Uniswap V3 on OP, etc. ",
+  "contributionDescription": "I created quite many useful dashboards on Dune, includes some for Optimism and other L2 blockchains. I'm also one of the key member of Dune analyst team \"sixdegree lab\". Together we built useful on-chain analysis dashboards. My work for Optimism chain includes dashborads for: Optimism Quests Tracking, Uniswap V3 On Optimism Liquidity Mining Program Performance, Optimism Airdrop 1 All In One, etc.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/springzhang/optimism-airdrop-1-all-in-one",
+      "description": "Optimism Airdrop 1 All In One Analysis dashboard"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/springzhang/optimism-quests-tracking",
+      "description": "Optimism Quests Tracking (OP Version Odyssey, Galxe NFT)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Most favorited dashboard on Dune",
+      "number": "11600",
+      "url": "https://dune.com/springzhang/layerzero-users-ranking-for-potential-airdrop"
+    },
+    {
+      "description": "Top 3 Wizards",
+      "number": "3",
+      "url": "https://dune.com/browse/wizards"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 13000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xc7250199ce808d8825b8781a546c6944338ee82505570d0e33d7505d341a04bd",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 16,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

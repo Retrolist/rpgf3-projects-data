@@ -1,0 +1,65 @@
+{
+  "bio": "Making Web3 Safer for Everyone",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Webacy",
+  "websiteUrl": "https://webacy.com/",
+  "applicant": {
+    "address": {
+      "address": "0xEc10Ac0784B5DE2Fad69332e5a90B46eebba70aF",
+      "resolvedName": {
+        "address": "0xEc10Ac0784B5DE2Fad69332e5a90B46eebba70aF",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xEc10Ac0784B5DE2Fad69332e5a90B46eebba70aF"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEc10Ac0784B5DE2Fad69332e5a90B46eebba70aF.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xEc10Ac0784B5DE2Fad69332e5a90B46eebba70aF.jpeg",
+    "id": "OptimistProfile|0x38eebd4c4bb845616b2f2094a447f32a3fbb6314b424f35a2728a83bc486ecb2"
+  },
+  "impactDescription": "Webacy began in order to build better safety and UI tools for users to navigate the blockchain. We found great success on Ethereum mainnet, and were excited to bring our services to the amazing communities and projects on Optimism. After a lot of hard work, its' finally live, and we're so pumped to bring these safety tools to the ecosystem! Now any user on Optimism can monitor interactions, transactions, and assets on-chain, for as many wallets as they'd like! This not only brings more transparency to the space, but it also helps with the entire user experience, trust, and interaction across the communities.",
+  "contributionDescription": "We've recently launched Wallet Watch, Webacy's real time notification, monitoring, and alerts system, on Optimism. The service has been well loved on Ethereum mainnet (over 25k users, 300k transactions a month, over 150M assets under monitoring), and we are so excited to bring Webacy safety tools to the Optimism ecosystem.\n\nWallet Watch allows users to monitor all of their wallets and accounts, receiving real time SMS and email notifications whenever ANYTHING interacts with their wallet. This means inbound and outbound transactions, airdrops, royalty payments, and even things like spam drops, drains, and other potentially malicious transactions. We believe knowledge is power. We're so excited to bring these self-custody safety tools to Optimism, making the chain safer for users!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://dapp.webacy.com/",
+      "description": "Our main dapp! Check out the Wallet Watch feature for yourself on Optimism!"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Wallets Over Time",
+      "number": "27000",
+      "url": "https://drive.google.com/file/d/15_RQKVTA2F_Lsq3ok9OBA1DHBFYduXq6/view?usp=drive_link"
+    },
+    {
+      "description": "Daily SMS",
+      "number": "1000",
+      "url": "https://drive.google.com/file/d/1_7KCH7ZlUj5gqaN0S5_5AtLg0SFTyomn/view?usp=drive_link"
+    },
+    {
+      "description": "Daily Emails",
+      "number": "6000",
+      "url": "https://drive.google.com/file/d/1nxR8E_Je1luwl5-kA2dBNyfETOUpdMY8/view?usp=drive_link"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": "Actually None! This would be our first OP received for our work (no 0 option)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x251336cd934467f35ab8bacf6be71dd8ad87457b6b7edd4a70df44cea59b0e68",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 16,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Wallets"
+}

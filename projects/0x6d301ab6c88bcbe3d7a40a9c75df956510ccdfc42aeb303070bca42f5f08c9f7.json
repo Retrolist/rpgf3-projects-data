@@ -1,0 +1,53 @@
+{
+  "bio": "GROUP OF REGENERATES",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Tree max",
+  "websiteUrl": "https://treemax.com",
+  "applicant": {
+    "address": {
+      "address": "0x3fD3dcd7Bda97A7627264adCaD23E513517E8f35",
+      "resolvedName": {
+        "address": "0x3fD3dcd7Bda97A7627264adCaD23E513517E8f35",
+        "name": "alakhniranjan.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x3fD3dcd7Bda97A7627264adCaD23E513517E8f35"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3fD3dcd7Bda97A7627264adCaD23E513517E8f35.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3fD3dcd7Bda97A7627264adCaD23E513517E8f35.png",
+    "id": "OptimistProfile|0xee6382f0796cc8e6f6c7eda32ca8ffdfdce7d4dfba207f9a330f17f6ad842bef"
+  },
+  "impactDescription": "                                                                                                                                                                                                                                                                  ",
+  "contributionDescription": "                                                                                                                                                                                                                                                                     ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://treemax.com",
+      "description": "Content"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Creations",
+      "number": "1",
+      "url": "https://treemax.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6d301ab6c88bcbe3d7a40a9c75df956510ccdfc42aeb303070bca42f5f08c9f7",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

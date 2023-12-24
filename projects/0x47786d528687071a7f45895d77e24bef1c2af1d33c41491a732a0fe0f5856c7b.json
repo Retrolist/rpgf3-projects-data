@@ -1,0 +1,45 @@
+{
+  "bio": "My name is Akash and I am a Crypto Trader and I have 3 years of experience. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Akash",
+  "websiteUrl": "https://twitter.com/mr_akashpraja",
+  "applicant": {
+    "address": {
+      "address": "0xfC613263330499d7cB625b37eff0231765297d71",
+      "resolvedName": {
+        "address": "0xfC613263330499d7cB625b37eff0231765297d71",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xfC613263330499d7cB625b37eff0231765297d71"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x0346356e4814dd9690740aedee9eedddca47f8614d927aec319dae97e066bf1e"
+  },
+  "impactDescription": "I can provide general guidance and information on various topics, including strategies for community engagement, user experience, and technology adoption. If you have specific questions or need assistance with any related topics, please feel free to ask, and I'll do my best to provide valuable insights and advice based on the information I have.",
+  "contributionDescription": "I can provide information, answer questions, generate text, assist with tasks, offer explanations, and engage in conversations on a wide range of topics. Feel free to ask me anything or request specific types of assistance you need, and I'll do my best to help!",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/mr_akashpraja",
+      "description": "Best"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "No",
+      "number": "1",
+      "url": "https://twitter.com/mr_akashpraja"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x47786d528687071a7f45895d77e24bef1c2af1d33c41491a732a0fe0f5856c7b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

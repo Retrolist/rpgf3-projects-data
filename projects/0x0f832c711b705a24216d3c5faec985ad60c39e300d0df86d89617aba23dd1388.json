@@ -1,0 +1,45 @@
+{
+  "bio": "@met",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "sikkha",
+  "websiteUrl": "https://twitter.com/sikkha84",
+  "applicant": {
+    "address": {
+      "address": "0x40c60b9A1D5903D45F8efdc72dDcb25FE3Ad2563",
+      "resolvedName": {
+        "address": "0x40c60b9A1D5903D45F8efdc72dDcb25FE3Ad2563",
+        "name": "polygonpos.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x40c60b9A1D5903D45F8efdc72dDcb25FE3Ad2563"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x40c60b9A1D5903D45F8efdc72dDcb25FE3Ad2563.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x40c60b9A1D5903D45F8efdc72dDcb25FE3Ad2563.png",
+    "id": "OptimistProfile|0x6e34e1116f0d643a5eaceb27fe44c0cf78089711e71f9a5cb8ff367d9e22cc7b"
+  },
+  "impactDescription": "                                                                                                                                                                                                                                                                     ",
+  "contributionDescription": "                                                                                                                                                                                                                                                                    ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimism.io",
+      "description": "Advt"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Advt",
+      "number": "5",
+      "url": "https://optimism.io"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x0f832c711b705a24216d3c5faec985ad60c39e300d0df86d89617aba23dd1388",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

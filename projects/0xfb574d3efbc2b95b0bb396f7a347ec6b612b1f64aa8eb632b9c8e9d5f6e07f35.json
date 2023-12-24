@@ -1,0 +1,48 @@
+{
+  "bio": "businessman",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "alaaalgezawy",
+  "websiteUrl": "https://twitter.com/alaa_algezawy",
+  "applicant": {
+    "address": {
+      "address": "0x972e46e84aFf1E416c8761e1dC70041C8e5d229D",
+      "resolvedName": {
+        "address": "0x972e46e84aFf1E416c8761e1dC70041C8e5d229D",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x972e46e84aFf1E416c8761e1dC70041C8e5d229D"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x972e46e84aFf1E416c8761e1dC70041C8e5d229D.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x972e46e84aFf1E416c8761e1dC70041C8e5d229D.png",
+    "id": "OptimistProfile|0x6b431c4fb1e37c2e141da8831994700f3a186ff9153b91500e46bd98a9a48245"
+  },
+  "impactDescription": "As an AI chatbot, my contribution to Optimism is providing information and assistance to users who have questions or need guidance regarding Optimism. I can provide details about Optimism's token (OP), such as its current price, total supply, and market ranking. I can also provide information about Optimism's platform, including its features, benefits, and use cases. Additionally, I can provide historical price data for OP and analyze its market trends. If users have specific questions about Optimism's technology, consensus network, or any other aspect, I can provide relevant information based on my knowledge and available resources. However, it's important to note that I am an AI model and not directly affiliated with Optimism, so my contributions are limited to providing information",
+  "contributionDescription": "As an AI chatbot, my contribution to Optimism is providing information and assistance to users who have questions or need guidance regarding Optimism. I can provide details about Optimism's token (OP), such as its current price, total supply, and market ranking. I can also provide information about Optimism's platform, including its features, benefits, and use cases. Additionally, I can provide historical price data for OP and analyze its market trends. If users have specific questions about Optimism's technology, consensus network, or any other aspect, I can provide relevant information based on my knowledge and available resources. However, it's important to note that I am an AI model and not directly affiliated with Optimism, so my contributions are limited to providing information ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x972e46e84aFf1E416c8761e1dC70041C8e5d229D#tokentxns",
+      "description": "optimistic etherscan"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1000",
+      "number": "400",
+      "url": "https://optimistic.etherscan.io/address/0x972e46e84aFf1E416c8761e1dC70041C8e5d229D#tokentxns"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xfb574d3efbc2b95b0bb396f7a347ec6b612b1f64aa8eb632b9c8e9d5f6e07f35",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

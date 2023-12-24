@@ -1,0 +1,52 @@
+{
+  "bio": "I'm a father of 2 pursuing my PhD. A Crypto investor for over 10 years. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Zaza",
+  "websiteUrl": "https://twitter.com/Crypto_Zaza1",
+  "applicant": {
+    "address": {
+      "address": "0x342C5CcE2cDdA07365c6f23B5E91ac9F9Bb70cBe",
+      "resolvedName": {
+        "address": "0x342C5CcE2cDdA07365c6f23B5E91ac9F9Bb70cBe",
+        "name": "zazaad.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x342C5CcE2cDdA07365c6f23B5E91ac9F9Bb70cBe"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x342C5CcE2cDdA07365c6f23B5E91ac9F9Bb70cBe.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x342C5CcE2cDdA07365c6f23B5E91ac9F9Bb70cBe.png",
+    "id": "OptimistProfile|0xa3af566b95ef8574826007aecf8fd15f5991e8217550423ae648b94682784d58"
+  },
+  "impactDescription": "Gladly, I was able to onboard multiple friends into the Optimism BC, which was (honestly) a bit difficult since many are not open to use different BCs than what they are use to. The great part is many of them have contacted me and showed love for the Optimism and enthusiasm in continuing to use the BC.",
+  "contributionDescription": "The first time I interacted with Optimism, I realized how seamless and smooth the transaction was. Also, gas fees was nothing compared to the Ethereum BC (respectfully). Since then, I have been sharing my experience with Optimism for everyone I meet and talk to on (X) Spaces. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimistic.etherscan.io/address/0x342c5cce2cdda07365c6f23b5e91ac9f9bb70cbe",
+      "description": "Did multiple transactions for my personal use "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "N/A",
+      "number": "0",
+      "url": "https://optimistic.etherscan.io/address/0x342c5cce2cdda07365c6f23b5e91ac9f9bb70cbe"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "I have not received any Grants or funding "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa4887579041502db7a9aad8ee2c4b440cafc059633549da8cd89374c4a7bf87e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

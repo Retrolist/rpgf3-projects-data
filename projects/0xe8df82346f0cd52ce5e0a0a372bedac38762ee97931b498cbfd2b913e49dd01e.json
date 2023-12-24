@@ -1,0 +1,46 @@
+{
+  "bio": "I'm a crypto enthusiast. Notify about superchain to everyone.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "mraz125",
+  "websiteUrl": "https://linktr.ee/mraz125",
+  "applicant": {
+    "address": {
+      "address": "0xa260CF1726a6a5e0B7079f708823FC8E884611CB",
+      "resolvedName": {
+        "address": "0xa260CF1726a6a5e0B7079f708823FC8E884611CB",
+        "name": "mraz125.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xa260CF1726a6a5e0B7079f708823FC8E884611CB"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa260CF1726a6a5e0B7079f708823FC8E884611CB.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xbb80c0800cb9e6bbc68b12dcf47b1f8a0ad6ff0c580b375f2c8ed8d792cd7377"
+  },
+  "impactDescription": "I've been explaining SuperChain to a lot of people and getting a lot of positive results, and the response is that people are joining SuperChain projects. Recently, I've gotten a lot of people involved in BASE, ZORA, and Farcaster. I'm going to find different projects that are active within SuperChain and share them with people.",
+  "contributionDescription": "I believe that Superchain will contribute significantly to the convenience of our lives.\nIn anticipation of that, I support projects in the Superchain ecosystem and introduce them to people. Primarily active on Farcaster, Telegram and X. You can see my activity on my page.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://warpcast.com/mraz125",
+      "description": "SuperChain Enthusiast!!"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Participate",
+      "number": "100",
+      "url": "http://t.me/vlog_crypto"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xe8df82346f0cd52ce5e0a0a372bedac38762ee97931b498cbfd2b913e49dd01e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,71 @@
+{
+  "bio": "TK is a music industry professional, crypto investor, and tech founder.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Eternal Garden: ORIGINS",
+  "websiteUrl": "https://origins.eternal-garden.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xe43c5133f66f58FE5Ac8f9000AAE020Fbb9B0f85",
+      "resolvedName": {
+        "address": "0xe43c5133f66f58FE5Ac8f9000AAE020Fbb9B0f85",
+        "name": "tkxyz.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xe43c5133f66f58FE5Ac8f9000AAE020Fbb9B0f85"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe43c5133f66f58FE5Ac8f9000AAE020Fbb9B0f85.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe43c5133f66f58FE5Ac8f9000AAE020Fbb9B0f85.png",
+    "id": "OptimistProfile|0x095b04c5fab004ae974b76f03ec48ce61a0d86c20f8e42df0ff2d70d8503fb5e"
+  },
+  "impactDescription": "Developer Ecosystem:\nOur contributions to the \"Eternal Garden: ORIGINS\" project played a pivotal role in enriching the Developer Ecosystem of the Optimism Collective. By collaborating with Coop Records, we developed an innovative custom smart contract that interacted with all seven songs simultaneously.\n\nEnd User Experience & Adoption:\nThe seamless integration with The Box allowed collectors to purchase on any chain without bridging. This reduced friction and complexity, making the NFT purchasing process more intuitive for end users. Moreover, the incentives for purchasing the full album was key in driving adoption. By selling over 7700 Optimism NFTs to more than 1100 collectors, we brought significant attention to Optimism and onboarded a new wave of users to the Collective. ",
+  "contributionDescription": "The \"Eternal Garden: ORIGINS\" project  showcased Optimisms accessibility and efficiency for Music NFT transactions. The highlight was the significant engagement it drove: raising 7.4 ETH by selling over 7700 Optimism Music NFTs to 1100+ collectors. Unique partnerships led to innovative smart contract interactions & experiences for fans and collectors, ensuring the project's success. We believe this improved Optimism's prominence and credibility while drawing significant attention to the platform.  ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/txs?a=0x4fba8be889342427a857c13fd4366edcc94bab18&p=1",
+      "description": "ORIGINS \"Mint All\" Contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://origins.eternal-garden.xyz/",
+      "description": "Eternal Garden: ORIGINS - Minting Site"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/playlist/1693d1fe-8d91-4535-bb74-7e3d9c6abf21",
+      "description": "Eternal Garden: ORIGINS - Sound.xyz Playlist"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Full Playlist with Minting Numbers",
+      "number": "7735",
+      "url": "https://www.sound.xyz/playlist/1693d1fe-8d91-4535-bb74-7e3d9c6abf21"
+    },
+    {
+      "description": "Mint All Contract",
+      "number": "7.4",
+      "url": "https://optimistic.etherscan.io/txs?a=0x4fba8be889342427a857c13fd4366edcc94bab18&p=1"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 11000,
+      "description": "Minting Revenue (before splits)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x715e6959a011d15846500ae9b9b815445e466e64f23a630bcd3323200f591783",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 9,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

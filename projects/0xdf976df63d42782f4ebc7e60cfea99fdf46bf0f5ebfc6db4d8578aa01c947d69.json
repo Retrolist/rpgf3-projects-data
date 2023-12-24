@@ -1,0 +1,46 @@
+{
+  "bio": "A p2p expert",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Pikka Euro Man",
+  "websiteUrl": "https://www.euroman.org",
+  "applicant": {
+    "address": {
+      "address": "0x098e5d99A4ABcE070910f640AD4a6b65F9F43Fbe",
+      "resolvedName": {
+        "address": "0x098e5d99A4ABcE070910f640AD4a6b65F9F43Fbe",
+        "name": "talea.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x098e5d99A4ABcE070910f640AD4a6b65F9F43Fbe"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x098e5d99A4ABcE070910f640AD4a6b65F9F43Fbe.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x098e5d99A4ABcE070910f640AD4a6b65F9F43Fbe.png",
+    "id": "OptimistProfile|0x296bcb84dfc581a678cfc37e1247ef9c220835e942ac80f63affab4315452c74"
+  },
+  "impactDescription": "                                                                                                                                                                                                                                                                   ",
+  "contributionDescription": "                                                                                                                                                                                                                                                                     ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.euroman.org",
+      "description": "Excelsheet"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Spreadsheet",
+      "number": "2",
+      "url": "https://www.euroman.org"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xdf976df63d42782f4ebc7e60cfea99fdf46bf0f5ebfc6db4d8578aa01c947d69",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

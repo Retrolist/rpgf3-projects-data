@@ -1,0 +1,75 @@
+{
+  "bio": "Active contributor to the Optimism Collective under the forum handle OPUser",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "webOfTrust",
+  "websiteUrl": "https://gov.optimism.io/u/opuser/summary",
+  "applicant": {
+    "address": {
+      "address": "0x1de2A056508E0D0dd88A88f1f5cdf9cfa510795c",
+      "resolvedName": {
+        "address": "0x1de2A056508E0D0dd88A88f1f5cdf9cfa510795c",
+        "name": "hailvitalik.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x1de2A056508E0D0dd88A88f1f5cdf9cfa510795c"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1de2A056508E0D0dd88A88f1f5cdf9cfa510795c.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x8abbd62a5f720318ecfdf31960b1877e6aaf7223f69cf1fa27389eaac8b19465"
+  },
+  "impactDescription": "It's difficult to gauge my impact on the collectives, I can share the feedback I have received from collective members for my contribution, and the number of comments on Discord or posts on different online platforms but I don't want this to turn into a selling pitch. \n\nIdeally, a positive contribution should speak for itself so I would like to try another approach. Existing collective members involved in governance might be able to judge my contribution, to new badge holders, I would request them to gauge my impact if they have read, seen and felt my contribution towards SuperChain in any form either on the Forum/Reddit/Farcaster or on Twitter. \n\n",
+  "contributionDescription": "As an active Optimism collective member since day 1, my commitment is evident through my Delegate Thread and forum profile. With over 700 posts created and 14,000 posts read, I've played a substantial role in facilitating discussions.\n\nIn the initial governance phase, I provided proposal feedback, even during Phase 0. Beyond the forum, I supported Optimism Governance and the Optimism Superchain, creating content and raising awareness online (reddit/farcaster/X)\n\nI initiated discussions on Governance Fund Accountability and voter apathy in Governance on the forum.\n\nThis could be related to RPGF's Developer Ecosystem, I encouraged Locksmith Wallet to submit grant requests, onboarding them to OP chain.\n\nNote: I served on the grant council in season 2 and received 7174 OP ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/opuser-delegate-communication-thread/2777",
+      "description": "Forum Thread"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/accountability-of-phase-0-1-funds-given-to-projects/2762",
+      "description": "Gov Fund Accountability "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/goverance-fund-accountability-an-overview/3591",
+      "description": "Grant Overview"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://warpcast.com/weboftrust",
+      "description": "Farcaster "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.sismo.io/optimism-governance-committee-member",
+      "description": "Sismo Badge - Now Decommissioned by Sismo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "na",
+      "number": "0",
+      "url": "https://gov.optimism.io/t/opuser-delegate-communication-thread/2777"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 7174,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf79ce6e79fdb9112ac891b4e0c8f61c038fde1c1ced9d1b7e03c93c31e5f5b1f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 40,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Optimism Governance Contributions"
+}

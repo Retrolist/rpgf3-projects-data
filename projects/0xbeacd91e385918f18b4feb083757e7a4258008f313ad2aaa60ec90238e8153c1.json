@@ -1,0 +1,69 @@
+{
+  "bio": "Frontend Developer | Web3 builder | Glass always half full | Staker",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Squirtle0x",
+  "websiteUrl": "https://squirtle0x.dev/",
+  "applicant": {
+    "address": {
+      "address": "0x4644A9Afe25B01405B9099c32FBf123F919d4838",
+      "resolvedName": {
+        "address": "0x4644A9Afe25B01405B9099c32FBf123F919d4838",
+        "name": "squirt11e.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x4644A9Afe25B01405B9099c32FBf123F919d4838"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4644A9Afe25B01405B9099c32FBf123F919d4838.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4644A9Afe25B01405B9099c32FBf123F919d4838.jpeg",
+    "id": "OptimistProfile|0x35945a40afc09482100d5175bac8508ce396d9322828530badb2cf660d28405a"
+  },
+  "impactDescription": "UX is something that can be overlooked in web3 applications, as we have seen repeatedly in the past couple years. Frontends that give users access to incredible DeFi services do tend to be geared towards power users and lack intuitive user flows.\n\nBy reviewing apps UX the impact I have is to simply provide a better experience for people of all levels using these apps.\n\nIf a user who has never used DeFi before lands on a page and notices UI bugs and confusing interactions the trust in the underlying tech can be tarnished. Even if the tech under the food is incredible it won't matter because the first impression was not a 10/10.",
+  "contributionDescription": "Contributed to UX research for multiple Applications on OP. These deep dives into the applications experience resulted in improvements and valuable feedback for those apps/teams.\n\nI included images and solutions to issues / potential improvements I found. I believe it's important to provide solutions to the bugs found.\n\nProjects I did a review for can be seen on the github ecosystem contributions issues. \n- Hop Exchange UX Audit\n- PoolTogether UX Audit\n- Beefy UX Audit",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/ethereum-optimism/ecosystem-contributions/issues/70#issuecomment-1573967705",
+      "description": "Hop Exchange UX Audit"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/ethereum-optimism/ecosystem-contributions/issues/70#issuecomment-1579859819",
+      "description": "PoolTogether UX Audit"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/ethereum-optimism/ecosystem-contributions/issues/70#issuecomment-1610608949",
+      "description": "Beefy UX Audit"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "PoolTogether",
+      "number": "0",
+      "url": "https://squirtle0x.notion.site/Pool-Together-UX-Review-48ee2f2c24d64f3b800f9898930ca3f0"
+    },
+    {
+      "description": "Hop Exchange",
+      "number": "0",
+      "url": "https://squirtle0x.notion.site/Pool-72c056151f09415193e0cec469a30aa7"
+    },
+    {
+      "description": "Beefy",
+      "number": "0",
+      "url": "https://squirtle0x.notion.site/Beefy-UX-Review-08c398c82bd9471692db8bc93e58e344?pvs=4"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xbeacd91e385918f18b4feb083757e7a4258008f313ad2aaa60ec90238e8153c1",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 8,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

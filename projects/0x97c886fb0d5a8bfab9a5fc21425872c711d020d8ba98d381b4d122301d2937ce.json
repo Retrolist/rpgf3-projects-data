@@ -1,0 +1,65 @@
+{
+  "bio": "Protocols research from all angles across many domains, open-sourced findings.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Summer of Protocols",
+  "websiteUrl": "https://summerofprotocols.com/",
+  "applicant": {
+    "address": {
+      "address": "0x10F5d45854e038071485AC9e402308cF80D2d2fE",
+      "resolvedName": {
+        "address": "0x10F5d45854e038071485AC9e402308cF80D2d2fE",
+        "name": "timbeiko.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x10F5d45854e038071485AC9e402308cF80D2d2fE"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x10F5d45854e038071485AC9e402308cF80D2d2fE.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x10F5d45854e038071485AC9e402308cF80D2d2fE.png",
+    "id": "OptimistProfile|0x02a68bcdfb3a081501fb94eac7873e4454126e9d177bd6a499320e3561738a2d"
+  },
+  "impactDescription": "By studying protocols across a wide range of domains, Summer of Protocols can hopefully give participants in the Optimism Collective and the Ethereum community more generally better mental models to understand protocols. \n\nBlockchain ecosystems are often analogized to countries, tech platforms, companies, etc. and most reasoning happens by analogies rather than first principles thinking. SoP aims to give the OP Collective the tools to get better at the latter. \n\nSoP is also a way for the Ethereum community to engage with experts outside of blockchain that want to also better understand protocols for their domain of interest, and build bridges with communities we may otherwise not be able to. ",
+  "contributionDescription": "Over the summer of 2023, a group of 33 researchers participated in the inaugural Summer of Protocols program. They were tasked with exploring protocols, broadly construed, from various angles and across a range of different domains. By going broad, the researchers were able to find insights that applied in many contexts, including blockchain protocols such as Optimism and Ethereum. \n\nSome themes explored include the evolution of safety protocols, what \"protocol death\" looks like, the interplay of human agency and formulaic protocols, and more. \n\nThe output of the program is being published for all to access. The hope is for the program to help the Ethereum and Optimism communities become more \"protocol literate\" and have a better theoretical understanding of how protocols work. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://summerofprotocols.com/",
+      "description": "All program and currently published outputs. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://venkatesh-rao.gitbook.io/summer-of-protocols/",
+      "description": "Original study launching the program. "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Protocol Researchers",
+      "number": "33",
+      "url": "https://summerofprotocols.com/"
+    },
+    {
+      "description": "Research Artifacts Produced",
+      "number": "74",
+      "url": "https://summerofprotocols.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 750000,
+      "description": "Sum of Ethereum Foundation grants to 33 SoP researchers"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x97c886fb0d5a8bfab9a5fc21425872c711d020d8ba98d381b4d122301d2937ce",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 52,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack development & research"
+}

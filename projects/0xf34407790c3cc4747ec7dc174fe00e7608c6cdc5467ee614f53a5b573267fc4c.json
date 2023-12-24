@@ -1,0 +1,87 @@
+{
+  "bio": "Indie, alt-electronic sounds -- onchain",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Vivid Fever Dreams",
+  "websiteUrl": "https://www.sound.xyz/vividfeverdreams",
+  "applicant": {
+    "address": {
+      "address": "0xC9737651e2A88E2e3E8395AC98B4E3a360733369",
+      "resolvedName": {
+        "address": "0xC9737651e2A88E2e3E8395AC98B4E3a360733369",
+        "name": "vividfeverdreams.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xC9737651e2A88E2e3E8395AC98B4E3a360733369"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x5328e314edd38687e303cb4109839436d13878a6377609f443b5783aa19cc5ef"
+  },
+  "impactDescription": "My releases have introduced new collectors and new artists to dropping NFTs through OP. The artist collab series alone introduced 5 different visual artists who were only familiar with Tezos to setting up an ETH wallet and dropping nfts using eth on OP. Additionally I have migrated all my drops exclusively over to eth on OP so my collectors now use it as a way to transact with my content. ",
+  "contributionDescription": "I release music onchain, using OP as the L2 for the transaction. I have released 5 singles and one album through sound.xyz and supercollector using ETH on OP. The singles were collaborations with Tezos visual artists and these drops were their first exposure to dropping on eth and using OP. Additionally I have been featured on a different release that uses OP. I have also onboarded 2 artists who have released music and made sales using ETH on OP.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x37137e8d2d5c0ea1e4718870afbb3f420397d74b",
+      "description": "First single released on OP. Collab with visual artist NukeHype. "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xb42a3b36a56cd453d03177bad8069325d16b0235",
+      "description": "Second music drop. Part of artist collab series w/ Datura."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x3907bbeeba207644bd5cfa1dc8206b3f1372fd03",
+      "description": "Third single release, collab with artist J0YK1D"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x4e0384eb58f59c4ecc65786f70f832c3b6c7b45d",
+      "description": "Fourth single, collab with artist ex_mortal"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.sound.xyz/vividfeverdreams/let-it-go",
+      "description": "Fifth and final single of visual artist collab series ft. Chroma Visions"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xc361eb657873595dcd9e45a5d5e9134331150074",
+      "description": "track i'm featured on with 9 other artists for a mixtape"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xcf86933449AcD34D944582fC3942bA2456E16159",
+      "description": "Album released onchain using the platform supercollector"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of mints on sound.xyz",
+      "number": "295",
+      "url": "https://www.sound.xyz/vividfeverdreams"
+    },
+    {
+      "description": "# unique collectors on supercollector",
+      "number": "8",
+      "url": "https://release.supercollector.xyz/fylp-vivid-fever-dreams"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 150,
+      "description": "Won OP from Invest In Music's OP grant contest for onboarding a new artist"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf34407790c3cc4747ec7dc174fe00e7608c6cdc5467ee614f53a5b573267fc4c",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

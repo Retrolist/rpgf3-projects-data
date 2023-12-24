@@ -1,0 +1,92 @@
+{
+  "bio": "Research and imagination community accelerating better futures",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "RADAR",
+  "websiteUrl": "https://www.radardao.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0x149D46eC060e75AE188876AdB6b24024637003C7",
+      "resolvedName": {
+        "address": "0x149D46eC060e75AE188876AdB6b24024637003C7",
+        "name": "radarcommunity.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x149D46eC060e75AE188876AdB6b24024637003C7"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x149D46eC060e75AE188876AdB6b24024637003C7.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x149D46eC060e75AE188876AdB6b24024637003C7.png",
+    "id": "OptimistProfile|0xa2cc8cb11d81fffe2598e6fb8d4b7664c50917e4999656ecfa8d8d1ff211b644"
+  },
+  "impactDescription": "Relevance to OP Ecosystem:\n- Our platform is deployed on OP and aligns with the OP Ecosystem's goals of encouraging Public Goods development and collaboration. We\u2019re also bringing non-web3 users into the Optimism blockchain by allowing them to believe and collect projects easily with credit card.\n\nProblems Solved:\n- Created a place for builders to share updates on their projects and get rewarded away from the noise of social media, and without the pressure of large crowdfunding, grants or VCs.\n\nOn-Chain Features:\n- We've implemented an on-chain 'believe' functionality, as well as the ability to collect NFTs. All NFTs are on the optimism blockchain and have attribute tags, the tags build reputation onchain for being early.",
+  "contributionDescription": "We have created a platform called Launch, which serves as a hub for innovative builders working across technology and culture, currently, we\u2019ve got 41 curated projects already and many additional projects and partnerships in the pipeline. Our platform has garnered attention from 1.5k unique user sand 300 builders have read our \u2018New Players\u2019 Brief to inspire an open source future at the intersection of AI and Crypto. We have also successfully partnered with organizations like OPGames, FuturePrimitive, Kernel0x, Buidl Guidl, and worked with events like NPC day and ETHrome to focus attention on builders. So far we\u2019ve raised $20,000 to commit to fund prize pools. One of the most notable projects \u2018Prime City\u2019 has gone on to be accepted into The Microsoft Founders hub.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/RadarDAO-xyz/radar-launch-frontend",
+      "description": "RADAR Launch Github"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://radarlaunch.app/",
+      "description": "RADAR Launch Homepage "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#of builders",
+      "number": "41",
+      "url": "https://radarlaunch.app/"
+    },
+    {
+      "description": "#$ to incentivise public building",
+      "number": "20000",
+      "url": "https://radarlaunch.app/"
+    },
+    {
+      "description": "#of unique site viewers",
+      "number": "1500",
+      "url": "https://radarlaunch.app/"
+    },
+    {
+      "description": "#of free event attendees",
+      "number": "400",
+      "url": "https://radarlaunch.app/"
+    },
+    {
+      "description": "#number of partners",
+      "number": "5",
+      "url": "https://radarlaunch.app/"
+    },
+    {
+      "description": "#of public Future Report readers",
+      "number": "10000",
+      "url": "https://www.radardao.xyz/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "NFT Sales to fund our last research"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 15000,
+      "description": "Ticket sales for Into The Future"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x7768eb79db734845f9afaec4741e064eee319fd25fb35bd2956d10739e22d94a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 30,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Conferences, Events & Hackathons"
+}

@@ -1,0 +1,45 @@
+{
+  "bio": "\u200bXOXO is a collection of 5,555 women NFTs living on Base blockchain.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "XOXO",
+  "websiteUrl": "https://zora.co/collect/base:0xdf10f5274e52cb71a0bd5a9176ad271cdc38892c",
+  "applicant": {
+    "address": {
+      "address": "0x1eF889562C00Fc984Cf9A5903C98fa11761142E9",
+      "resolvedName": {
+        "address": "0x1eF889562C00Fc984Cf9A5903C98fa11761142E9",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x1eF889562C00Fc984Cf9A5903C98fa11761142E9"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x1eF889562C00Fc984Cf9A5903C98fa11761142E9.png",
+    "id": "OptimistProfile|0x86ede49392e70e6472a4988ab37bccde6b1dd3200c98811d95f51c0b193acbc5"
+  },
+  "impactDescription": "The Ideology Behind XOXO\nThe digital realm is vast, filled with countless creators and developers. Among them, women have been at the forefront, pushing boundaries, and redefining the landscape of web3. However, their contributions often go unnoticed or overshadowed. XOXO aims to change that narrative.",
+  "contributionDescription": "The Ideology Behind XOXO\nThe digital realm is vast, filled with countless creators and developers. Among them, women have been at the forefront, pushing boundaries, and redefining the landscape of web3. However, their contributions often go unnoticed or overshadowed. XOXO aims to change that narrative.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://zora.co/collect/base:0xdf10f5274e52cb71a0bd5a9176ad271cdc38892c",
+      "description": "XOXO celebrates the women in the web3 space."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Free Mint",
+      "number": "5555",
+      "url": "https://zora.co/collect/base:0xdf10f5274e52cb71a0bd5a9176ad271cdc38892c"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x6dfc2558e34064e3b214367244ae9ec602ac8ed69b5b89528429e3a9f2eb8c4a",
+  "prelimResult": "Remove",
+  "reportReason": "Impact metrics field called \"Free Mint\" with the number 5.6K. When clicking on the link it turns out only 19 mints happened,"
+}

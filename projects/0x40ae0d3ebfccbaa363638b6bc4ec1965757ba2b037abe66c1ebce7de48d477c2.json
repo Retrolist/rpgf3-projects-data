@@ -1,0 +1,53 @@
+{
+  "bio": " I started my journey in the crypto world 2 years ago and it became my hobby.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Vladislav",
+  "websiteUrl": "https://twitter.com/Vladisl97",
+  "applicant": {
+    "address": {
+      "address": "0xb7c0F794d8b91Bd32F93D34aDddA09fb4394baA3",
+      "resolvedName": {
+        "address": "0xb7c0F794d8b91Bd32F93D34aDddA09fb4394baA3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xb7c0F794d8b91Bd32F93D34aDddA09fb4394baA3"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x67345d4bbf4b624d55a8dbd8c65593d57a3b3d5145a2e9212686f5ae74245014"
+  },
+  "impactDescription": " I've been in your community for a long time! I completed many quests and tasks from Optimism, voted many times, donated, follow the project and support the community (I communicate on discord and am active on Twitter). I tell others about the project (only good things)",
+  "contributionDescription": " I've been in your community for a long time! I completed many quests and tasks from Optimism, voted many times, donated, follow the project and support the community (I communicate on discord and am active on Twitter). I tell others about the project (only good things)",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/Vladisl97",
+      "description": "Post"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "no",
+      "number": "1",
+      "url": "https://twitter.com/Vladisl97"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 46,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x40ae0d3ebfccbaa363638b6bc4ec1965757ba2b037abe66c1ebce7de48d477c2",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

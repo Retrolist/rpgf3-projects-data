@@ -1,0 +1,105 @@
+{
+  "bio": "Base Punk is a Community-driven NFT project with Web3 Domains & Social Dapps",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Base Punk",
+  "websiteUrl": "https://www.basepunk.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xD688B5ed29Ab77b39884BabD1930213BF7805CD1",
+      "resolvedName": {
+        "address": "0xD688B5ed29Ab77b39884BabD1930213BF7805CD1",
+        "name": "punkscan.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xD688B5ed29Ab77b39884BabD1930213BF7805CD1"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD688B5ed29Ab77b39884BabD1930213BF7805CD1.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD688B5ed29Ab77b39884BabD1930213BF7805CD1.png",
+    "id": "OptimistProfile|0x61ed177b4c9305d10f7f9bd8620dd0f9aac70cc18b8041a57df96f39e4066796"
+  },
+  "impactDescription": "Base Punk is redefining the Web3 experience with an ecosystem that's both groundbreaking and inclusive. All our Genesis NFT holders got Free mint in our .basepunk domain mint .Base Punk Domains offer a unique digital identity, empowering users to access a seamless world of possibilities. With Base Punk Chat, we've transformed social networking into a vibrant, decentralized platform, fostering daily earnings through ETH and activity points. Our NFT Launchpad brings an entirely new approach to NFT creation, simplifying the process for creators and collectors. In these challenging times, our ecosystem is a beacon of opportunity, allowing users to earn daily rewards and launch their NFT collections without coding expertise. It's a revolution, making Web3 accessible and rewarding for everyone.",
+  "contributionDescription": "Base Punk's innovative ecosystem offers lifetime digital identity, seamless social interactions with daily earnings, and a user-friendly NFT launchpad that simplifies creation, enhances liquidity, and fairly rewards creators.\n\nBase Punk Domains: (Free Mint to Base Punk NFT holder )\n-This is your ticket to seamless experiences in the Base Punk ecosystem.\n\nBase Punk Chat: The Next-Gen Social Network\n- Daily ETH earnings and activity points are yours for the taking.\n- Register, interact, mint posts as NFTs, and enjoy a daily passive income stream.\n\nBase Punk NFT Launchpad: A Creator's Dream\n- Simplify NFT creation, with integrated marketplace for each collection ensures liquidity and hassle-free trading.\n- Smart pricing adapts to demand, keeping NFTs fairly priced.\n- Creators 2% royalties.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.basepunk.xyz/",
+      "description": "This is our official website. Here you can find details about whitepaper & all ."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/BasePunkOrg/basepunk-landing",
+      "description": "This is github details of our basepunk landing page"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/BasePunkOrg/basepunk-names-frontend",
+      "description": "This is github details of our basepunk domain page"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/BasePunkOrg/basepunk-chat",
+      "description": "This is github details of our basepunk social dapps "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://opensea.io/collection/base-punk-5",
+      "description": "This our collection link on opensea"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/token/0x89290b2fad76bf4a6ed9d8066f644d45530fa920",
+      "description": "This is contract details of our NFT"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://chat.basepunk.xyz/nft",
+      "description": "Our NFT launchpad features an integrated marketplace for each collection"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Base Punk Domain",
+      "number": "300",
+      "url": "https://id.basepunk.xyz/#/"
+    },
+    {
+      "description": "Base Punk Chat",
+      "number": "2000",
+      "url": "https://chat.basepunk.xyz/"
+    },
+    {
+      "description": "Base Punk twitter",
+      "number": "10500",
+      "url": "https://twitter.com/Punkonbase"
+    },
+    {
+      "description": "Base Punk Medium",
+      "number": "1300",
+      "url": "https://medium.com/@punkonbase"
+    },
+    {
+      "description": "Base Punk Zealy",
+      "number": "8498",
+      "url": "https://zealy.io/c/basepunk/questboard"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2200,
+      "description": "We received a grant from Base for winning on chain summer events by them."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x4601875bbac07e7fad0b07b6ecd28b48e197e67fbc29c3e713a517391c8251a3",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 13,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

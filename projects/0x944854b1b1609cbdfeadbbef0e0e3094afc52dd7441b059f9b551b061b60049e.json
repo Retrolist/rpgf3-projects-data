@@ -1,0 +1,47 @@
+{
+  "bio": "life is running on",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "zullhsb",
+  "websiteUrl": "https://www.twitter.com/buanpuang",
+  "applicant": {
+    "address": {
+      "address": "0xD52BdC1439Bd9C4da99A85d179c3D57a256d415E",
+      "resolvedName": {
+        "address": "0xD52BdC1439Bd9C4da99A85d179c3D57a256d415E",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xD52BdC1439Bd9C4da99A85d179c3D57a256d415E"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD52BdC1439Bd9C4da99A85d179c3D57a256d415E.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xD52BdC1439Bd9C4da99A85d179c3D57a256d415E.png",
+    "id": "OptimistProfile|0x7e554c896058ad11f3888f6867419315fba43cc64323072ab23c13e8d7a17e38"
+  },
+  "impactDescription": "participate in a new developer, new chain and new Dex. participate in a new developer, new chain and new Dex. participate in a new developer, new chain and new Dex. participate in a new developer, new chain and new Dex. has several collections in the op chain.",
+  "contributionDescription": "contribute to supporting the optimism chain by using swap and add liquidity on the optimism chain. contribute to supporting the optimism chain by using swap and add liquidity on the optimism chain. contribute to supporting the optimism chain by using swap and add liquidity on the optimism chain",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xeddfb14e59f47139d0cbb0ffd57e5737bc7354254044205089fddf81cc1adf5b",
+      "description": "Base Builders Party - DackieSwap, BaseNS, NFTFeed an Innova"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Base Builders Party",
+      "number": "2408",
+      "url": "https://mirror.xyz/baseecosystem.eth/BCaICIuQ4Dp7p_fXxOwqBbpD_x7wDePHBFpb7tNTQto"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x944854b1b1609cbdfeadbbef0e0e3094afc52dd7441b059f9b551b061b60049e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

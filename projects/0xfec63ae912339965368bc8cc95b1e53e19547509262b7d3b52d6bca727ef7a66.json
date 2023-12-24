@@ -1,0 +1,53 @@
+{
+  "bio": "crypto investor and development",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "mcdaoxyz",
+  "websiteUrl": "https://twitter.com/mcdaoxyz",
+  "applicant": {
+    "address": {
+      "address": "0xAE06788fcC5639f4058EF18B191E6bEbCfc15388",
+      "resolvedName": {
+        "address": "0xAE06788fcC5639f4058EF18B191E6bEbCfc15388",
+        "name": "mcdaoxyz.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xAE06788fcC5639f4058EF18B191E6bEbCfc15388"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAE06788fcC5639f4058EF18B191E6bEbCfc15388.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xAE06788fcC5639f4058EF18B191E6bEbCfc15388.png",
+    "id": "OptimistProfile|0x757d7f61e88d6a167cddda64db043fc67093dfa1c3988b3a24558d35842fed3b"
+  },
+  "impactDescription": "Speaking of impact, nothing is instantaneous but the impact will be felt more in the community, the community will be more solid and strong, to support and help all of the OP ecosystem, then in terms of marketing coin op will experience a more significant increase and be more widely known to the world if the OP ecosystem is the number 1 ecosystem layer 1 ethereum.",
+  "contributionDescription": "I will contribute in all aspects for the sustainability of the OP ecosystem, from the community I want to move forward with the op ecosystem for the future, for the marketing aspect I always prioritize OP to be my flagship coin because I fully support this ecosystem and spread the word about the OP ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://socketscan.io/address/0xae06788fcc5639f4058ef18b191e6bebcfc15388?page=1",
+      "description": "I always prioritize the op network for all my transactions."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/andrealfadila",
+      "description": "my github"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "transacsion",
+      "number": "10",
+      "url": "https://socketscan.io/address/0xae06788fcc5639f4058ef18b191e6bebcfc15388?page=1"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xfec63ae912339965368bc8cc95b1e53e19547509262b7d3b52d6bca727ef7a66",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

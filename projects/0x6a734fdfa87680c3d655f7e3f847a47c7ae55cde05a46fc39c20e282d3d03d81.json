@@ -1,0 +1,57 @@
+{
+  "bio": "colector and researcher",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "thanh",
+  "websiteUrl": "https://twitter.com/ThanhNX_",
+  "applicant": {
+    "address": {
+      "address": "0x33Ff3C111DE5F4b89Cd4bdCc0ed99c46Ca1e9541",
+      "resolvedName": {
+        "address": "0x33Ff3C111DE5F4b89Cd4bdCc0ed99c46Ca1e9541",
+        "name": "nxthanh.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x33Ff3C111DE5F4b89Cd4bdCc0ed99c46Ca1e9541"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33Ff3C111DE5F4b89Cd4bdCc0ed99c46Ca1e9541.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x33Ff3C111DE5F4b89Cd4bdCc0ed99c46Ca1e9541.png",
+    "id": "OptimistProfile|0x407515b7b56e24a134cb714f40c63a8e3bf87fa644a2edc587376f2aa9dd0078"
+  },
+  "impactDescription": "My shared links help others people know about music NFT and how they can easy be collected with very low fee on Optimism. I create new playlist to everyone can hear and collect easily. Also help other artists on chain by collect their songs, As a top collector, I appear in the next song of beach crimes https://www.sound.xyz/beachcrimes/fahrenheit. ",
+  "contributionDescription": "I'm using  Optimism to sent and received many transaction, especially in NFT music. I collected many NFT music through some websites, soundxyz at most. First music NFT on Optimism chain on soundxyz is V Buterin I minted and bought 65 editions. Many others music NFTs on OP chain has minted so far made me top 176 collector on soundxyz. Beside that, I shared new music NFT to my friends to collect them on chain made me top curator some songs and weeks on soundxyz (top27 on onchaincurator.xyz). \n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/user/nxthanh.eth",
+      "description": "Top 176 collector on soundxyz"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.onchaincurator.xyz/",
+      "description": "top 27 on onchain curator"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "number of mint",
+      "number": "1300",
+      "url": "https://www.sound.xyz/beachcrimes/fahrenheit"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6a734fdfa87680c3d655f7e3f847a47c7ae55cde05a46fc39c20e282d3d03d81",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,48 @@
+{
+  "bio": "helping the optimism ecosystem and enlivening the optimism network",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "BOB",
+  "websiteUrl": "https://bob-docs.zkbob.com/",
+  "applicant": {
+    "address": {
+      "address": "0x4d7EF41979Cc6B4569475967a7d2E268b627ba7A",
+      "resolvedName": {
+        "address": "0x4d7EF41979Cc6B4569475967a7d2E268b627ba7A",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x4d7EF41979Cc6B4569475967a7d2E268b627ba7A"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4d7EF41979Cc6B4569475967a7d2E268b627ba7A.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4d7EF41979Cc6B4569475967a7d2E268b627ba7A.png",
+    "id": "OptimistProfile|0x5622f53be24311be2b0ae821a393afe33ae37efa745e62d3c316e60d13bdde62"
+  },
+  "impactDescription": "I bridge and exchange from the network of optimism, and I want to see bright optimism for the future, I believe that optimism will be a stable and good network, therefore we hope that all of the optimism community will continue to choose the optimism network for the future",
+  "contributionDescription": "I bridge and exchange from the network of optimism, and I want to see bright optimism for the future, I believe that optimism will be a stable and good network, therefore we hope that all of the optimism community will continue to choose the optimism network for the future",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://github.com/joshe1998",
+      "description": "my github"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#none",
+      "number": "0",
+      "url": "https://github.com/joshe1998"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xae3eb5ec5eb7022e411dd9ac244b99328c601b0411cb49683d90935d972f3e94",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

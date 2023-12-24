@@ -1,0 +1,261 @@
+{
+  "bio": "Developer tools to enable builders of  iot node solutions on Optimism, Ethereum ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "OP Nodekit",
+  "websiteUrl": "https://web3-dev-tools-optimism-deploy.vercel.app/",
+  "applicant": {
+    "address": {
+      "address": "0x5aE4a3335b1264B5910a9C64ADf8F209c45CE602",
+      "resolvedName": {
+        "address": "0x5aE4a3335b1264B5910a9C64ADf8F209c45CE602",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5aE4a3335b1264B5910a9C64ADf8F209c45CE602"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5aE4a3335b1264B5910a9C64ADf8F209c45CE602.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5aE4a3335b1264B5910a9C64ADf8F209c45CE602.png",
+    "id": "OptimistProfile|0xdef4edd3a837f894f33f896461c55c763b55be4c7dfe175a78beaa1771a143f3"
+  },
+  "impactDescription": "We wish to share the impact our contributions had on Optimism Collective:\n\n\u2b50 \ufe0f Increase in the number of Optimism developers & Web3 eco-system users onboarded to Optimism from 20 to 50 in India. Pilot Deployments at N.S.U.T. campus; S.M.S. School, Delhi;\n\u2b50\ufe0fIncrease in the number of OP developers and contribution to OP stack modules, Governance projects built on OP Stack from 8 to 25;\n\u2b50\ufe0fImproved collaboration with OP projects like MUD, Wormhole, Base for interoperability.\n\u2b50\ufe0f OP solutions for soul bonding ID, interoperability & sharding tools to enable ease of identity management, transparent data movement.\n\u2b50\ufe0fDecentralizing service governance with oSnap & OP: With offchain voting, human readable rules, & trustless on-chain execution, DAOs can begin to reach their full potential. \n",
+  "contributionDescription": "Contribution to Optimism and OP ecosystem: \n\u2b50\ufe0fDeveloper and DAO tools on Optimism for organization, tabulation, visualization of on-chain and off-chain data; \n\u2b50\ufe0fLow code tools to enable automation, feedback & asset management on Optimism;\n\u2b50\ufe0fOP solutions for zero knowledge proofs & privacy preserving initiatives, on-chain reputation models.\n\u2b50\ufe0fOP solutions for soul bonding ID,  proxy re-encryption protocols, interoperability & sharding tools; \n\u2b50\ufe0fTools for NFT creation, management & marketplaces;\n\u2b50\ufe0fCollaboration with OP projects like Base, Wormhole, Lattice's MUD framework, De-Science projects using AR/VR, AI.\n\u2b50\ufe0fIdentity management, user analytics & leaderboard template on OP\n\u2b50\ufe0fWeb3 solutions for community, environment & sustainability using a mix of iot hardware, Optimism & ecosystem tools.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://web3-dev-tools-optimism-deploy.vercel.app/",
+      "description": "OP and OP ecosystem projects"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/aspiringsecurity/Water-ICM#optimism-eco-system",
+      "description": "Contribution to OP and OP stack in UAV (Drone Monitor)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://ethglobal.com/showcase/op-kinematics-ypsxy",
+      "description": "OP Kinematics's EthGlobal project page"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://op-medicine-deploy.vercel.app/",
+      "description": "OP Medicine's project page"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=aIq3JiTlNVA&t=1s",
+      "description": "Optimism Prize Runner-Up video at Encode Metaverse Hackathon"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=-o5qVzeV5hk",
+      "description": "Optimism Prize Finale video at Encode Metaverse Hackathon"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/aspiringsecurity/Web3KinematicsTools#optimism",
+      "description": "Contribution to OP and OP stack in OP Kinematics"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/seetadev/PharmaLlama/blob/main/README.md#optimism-public-goods",
+      "description": "Contribution to OP  and OP Public Goods Module in OP Pharma Tools"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/aspiringsecurity/EthTransport#optimism-and-lit",
+      "description": "Contribution to OP and OP stack in Transport DAO"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/drive/u/3/folders/1WXrAsl_dQMMZEQAi4KLzdt7uh6f-k_X4",
+      "description": "Bootstrapping OP Testnet and Mainnet deployments"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://sites.google.com/view/latcglobal/home",
+      "description": "UAV Monitor: Information for Civic Bodies and OP Public Goods development"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/drive/u/1/folders/1miVjRm7o0FVcQwK8cIvJJ3lwHOYhBGex",
+      "description": "OP Public Goods dataset contribution -15000 trips, 45+ trucks and 175+ drivers"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=wBDXdz3m_Z4&t=17s",
+      "description": "UI Design Video for reducing incidents using Optimism and We3 tools"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://sites.google.com/view/dronesforrealestate/home",
+      "description": "UAV Monitor: Scalability of Decentralized Public Goods Mobility Network"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/OP_medicine_DAO/status/1635856526383681537",
+      "description": "OP RetroPGF2 project showcase participation organized by  @proof_integrity"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "% increase in user & developer adoption",
+      "number": "50",
+      "url": "https://web3-dev-tools-optimism-deploy.vercel.app/Testimonials"
+    },
+    {
+      "description": "Social Impact and Stakeholder Benefits",
+      "number": "5",
+      "url": "https://op-medicine-deploy.vercel.app/benefits"
+    },
+    {
+      "description": "Client Testimonials on OP Stack usage",
+      "number": "3",
+      "url": "https://op-medicine-deploy.vercel.app/testimonials"
+    },
+    {
+      "description": "OP Ecosystem Builders",
+      "number": "10",
+      "url": "https://web3-dev-tools-optimism-deploy.vercel.app/Team"
+    },
+    {
+      "description": "Web3 Ecosystem Grants & Prizes",
+      "number": "15",
+      "url": "https://drive.google.com/drive/u/1/folders/1k0-zeJibUpWAmQ6F3ZnB27NkXes8KkP1"
+    },
+    {
+      "description": "OP Connected vehicles for sustainability",
+      "number": "150",
+      "url": "https://drive.google.com/drive/u/1/folders/1miVjRm7o0FVcQwK8cIvJJ3lwHOYhBGex"
+    },
+    {
+      "description": "OP Connected drivers for sustainability",
+      "number": "75",
+      "url": "https://drive.google.com/drive/u/1/folders/1miVjRm7o0FVcQwK8cIvJJ3lwHOYhBGex"
+    },
+    {
+      "description": "Optimism Data of fleet trips as PGF",
+      "number": "15000",
+      "url": "https://drive.google.com/drive/u/1/folders/1miVjRm7o0FVcQwK8cIvJJ3lwHOYhBGex"
+    },
+    {
+      "description": "OP RetroPGF project showcase participate",
+      "number": "1",
+      "url": "https://twitter.com/OP_medicine_DAO/status/1635856526383681537"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 7196,
+      "description": "Grant Recipient for Nomination in Tooling and Utilities segment at RetroPGF2"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 2000,
+      "description": "Technical Consulting and Advisory in Optimism projects at N.S.U.T. startups "
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 4800,
+      "description": "Optimism Prize Winner (2000 OP) at Encode Metaverse Hackathon"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 20000,
+      "description": "Web3 Ecosystem Winner at Near Metabuild (Transport DAO project) "
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 7000,
+      "description": "Consensys Prize at NAVH 2023 using Optimism, Metamask SDK, Web3 tools"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Filecoin Microgrant Recipient 2023 using Filecoin & IPFS, Optimism, Ethereum"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "EVM Ideathon Runner-Up 2022 (Government and Public)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Challenge Winner at Encode\u2019s Next Video Build Hackathon 2022"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "Young Scientist Award in Healthcare in India; SAP GITR winner"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "10000 USD AWS credits as a LINK-OP-AWS winner at Chainlink Spring 2023"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 6000,
+      "description": "Runner-up at HealthChainhack, Boston (6000 USD in credits)"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": "Covalent Prize Winner at Encode Harmony 2022"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 200,
+      "description": "Gateway Prize winner for OP, Gnosis chain innovation "
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 12500,
+      "description": "Ecosystem (EVM) Grant/Prize at Tron Hack Season 3"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Fluence Best Use Case Winner, XMTP & Filecoin Pool Prize, Moralis Filecoin 2022"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2000,
+      "description": "2000 USD AWS credits for Amazon Sustainable Development Initiative"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 2000,
+      "description": "Ecosystem Challenge Winner at Chainlink Hackathon 2022"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x928a305a9e35baee41f4f5000993cf5bf3c62342ae2f34e4e11146a0a0d4148a",
+  "prelimResult": "Remove",
+  "reportReason": "['Seems sus, not clear what they do? Website talks about AI, drones, pharma, autonomous EVs. Impact not verifiable.']"
+}

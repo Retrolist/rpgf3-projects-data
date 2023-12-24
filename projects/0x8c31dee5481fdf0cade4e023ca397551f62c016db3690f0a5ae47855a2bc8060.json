@@ -1,0 +1,70 @@
+{
+  "bio": "Helping the next 100m+ users protect their crypto.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Wallet Guard",
+  "websiteUrl": "https://walletguard.app",
+  "applicant": {
+    "address": {
+      "address": "0xb4d06c1ac7d0e91b087016fa09c9a6EAb289351c",
+      "resolvedName": {
+        "address": "0xb4d06c1ac7d0e91b087016fa09c9a6EAb289351c",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xb4d06c1ac7d0e91b087016fa09c9a6EAb289351c"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb4d06c1ac7d0e91b087016fa09c9a6EAb289351c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb4d06c1ac7d0e91b087016fa09c9a6EAb289351c.png",
+    "id": "OptimistProfile|0x64d89d2c0f25f9e6164ef06cd0da15f860fea559b2f6e25b21a1b62dc3d4fd3e"
+  },
+  "impactDescription": "We just added support for Optimism transaction simulation for our 30,000+ users of the Wallet Guard browser extension and already simulated 12,000+ transactions. This enables human-readable insights and scam protection for all transactions our users do on Optimism. To date we've protected $40m+ in assets from being stolen from phishing scams for Optimism and EVM users alike.\n\nOur security engine has also protected our users from 50+ fake Optimism websites in the last month and a half alone. See the attached Notion document for more information. These are confirmed websites that have malicious intent such as draining a users' wallet.",
+  "contributionDescription": "Wallet Guard is a suite of security tools that are like having an anti-virus for your crypto wallet of choice.\n\nWe offer a suite of consumer tools for improving end-user UI, UX, and security:\n1. Browser extension\n2. MetaMask Snap\n3. Security Dashboard\n\nWe support Optimism and other EVM chains for transaction simulations to create safer transactions for our Browser extension and MetaMask Snap users alike. We added Optimism support last week and have already simulated 12,000+ transactions for our users.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/wallet-guard",
+      "description": "Github repository for the browser extension and MetaMask Snap"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.walletguard.app/academy",
+      "description": "Wallet Guard Academy - which has dozens of free web3 security guides"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://walletguard.app",
+      "description": "Home page for all Wallet Guard products"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Installs",
+      "number": "31000",
+      "url": "https://chrome.google.com/webstore/detail/wallet-guard-protect-your/pdgbckgdncnhihllonhnjbdoighgpimk"
+    },
+    {
+      "description": "Malicious Optimism websites blocked",
+      "number": "54",
+      "url": "https://walletguard.notion.site/Wallet-Guard-Optimism-Scam-Coverage-797495c15aac4be08ceede1fb157e7e0?pvs=4"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "We have not received any grants from Optimism to date."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x8c31dee5481fdf0cade4e023ca397551f62c016db3690f0a5ae47855a2bc8060",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 25,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Wallets"
+}

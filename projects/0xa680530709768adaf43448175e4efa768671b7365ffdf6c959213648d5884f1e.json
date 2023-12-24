@@ -1,0 +1,115 @@
+{
+  "bio": "Republik Rupiah is the largest blockchain community in Indonesia.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Republik Rupiah",
+  "websiteUrl": "https://republikrupiah.com/",
+  "applicant": {
+    "address": {
+      "address": "0x88844185FA124f6F620578AfC57037eBEDaAb840",
+      "resolvedName": {
+        "address": "0x88844185FA124f6F620578AfC57037eBEDaAb840",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x88844185FA124f6F620578AfC57037eBEDaAb840"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x88844185FA124f6F620578AfC57037eBEDaAb840.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x88844185FA124f6F620578AfC57037eBEDaAb840.png",
+    "id": "OptimistProfile|0xf80274ae20d235bd49212d9120ee53c3b0a34497b06d77ed0c08e0e7c043da1e"
+  },
+  "impactDescription": "Over the last few years we have systematically built and educated a loyal following and community in Indonesia. This community is aware and loyal to the Ethereum values and have detailed knowledge of the importance and role that the OP Stack brings to this vision.\n\nWe have had at a minimum over 130k individual video views on Optimism content and millions more around the Ethereum ecosystem and over 1.5 million online impressions of Optimism and the OP logo. Our community was waiting for optimism and have participated in its rise.\n\nOur education has directly resulted in Indonesians and speakers of the Indonesian language become activity involved in the collective, transferred value on chain, participated in governance decisions, held the OP token and participated in airdrop activities.",
+  "contributionDescription": "Over the last three years Republik Rupiah has been one of the primary voices in Indonesia, educating people on blockchain technology, with a strong focus on the Ethereum Ecosystem. Not only were we one of the first voices to educate in this space in the country, but we also taught what layer two's were before any were created.\n\nWe have done this by walking new people through the ecosystem and also existing communities through an educational journey. We were one of the first voices to cover Optimism and the OP tech stack. We encouraged people to participate in the ecosystem from a very early stage and made detailed educational content on how to interact with the platform, including adding the chain to existing wallets and bridging assets, as well as using the dApps that had migrated.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/1Uj6NVF08Ik",
+      "description": "The Main L2 Rollups (Optimism) to Scale Ethereum"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/ucTNzcNc00M",
+      "description": "Going Modular with Optimism to Solve the Blockchain Trilemma"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/6rQ2z7jxPU4",
+      "description": "Eth 2.0 Shipping This Year! How Does Optimism Bring Value?"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/BwGOPBbSRRg",
+      "description": "Tutorials on Using Ethereum L2 Rollups (featuring Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/97yvGtkNn7k",
+      "description": "The Crucial Role of Optimism in the Ethereum Ecosystem"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/rIMX762EPgs",
+      "description": "Most Ethereum Users Are Using This L2! (Optimism)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/PzbXHBbCcZ4",
+      "description": "Optimism The Leading L2 is Launching OP Tokens!"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/RAWz-CBFWjs",
+      "description": "How Does Arbitrum Compete with Optimism\u2019s OP?"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/LD8uWCD0PlY",
+      "description": "Rollups Infra Among 2 Main Narratives to Pay Attention to"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/UFx9iRcVSFg",
+      "description": "OP Stack Ecosystem and the Superchain Vision"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/z_8jXQowzx8",
+      "description": "Optimism (OP) & Arbitrum (ARB) Growth Comparison"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/TOj-0zkJsR4",
+      "description": "Why Base is Good for OP Stack and the Optimism Collective"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/IxWjwFKy1Eo",
+      "description": "RaaS and Infrastructures That Are Building on OP Stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/zjk7_CpL7nA",
+      "description": "Modular versus Integrated Chains: Which Is Better?"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views on Youtube",
+      "number": "131600",
+      "url": "https://docs.google.com/document/d/1XOFD4p-TyiFpIc64oulNPJT2rf8jCOgyqE85iM9o_io/edit"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xa680530709768adaf43448175e4efa768671b7365ffdf6c959213648d5884f1e",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 33,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

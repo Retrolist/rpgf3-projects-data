@@ -1,0 +1,127 @@
+{
+  "bio": "Workshops, video and blog tutorials for web3 devs in Spanish, English and French",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "FilosofiaCodigo",
+  "websiteUrl": "https://www.youtube.com/@FilosofiaCodigo/videos",
+  "applicant": {
+    "address": {
+      "address": "0xb6F5414bAb8d5ad8F33E37591C02f7284E974FcB",
+      "resolvedName": {
+        "address": "0xb6F5414bAb8d5ad8F33E37591C02f7284E974FcB",
+        "name": "filosofiacodigo.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xb6F5414bAb8d5ad8F33E37591C02f7284E974FcB"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb6F5414bAb8d5ad8F33E37591C02f7284E974FcB.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb6F5414bAb8d5ad8F33E37591C02f7284E974FcB.png",
+    "id": "OptimistProfile|0x0c1819ea47683520240d716693175381e5bfab77515b4970acbd7cd7609e85bd"
+  },
+  "impactDescription": "1. Simplified the process of running an OP Chain\n2. Made content about the Op Stack in Spanish (there is not much documentation in spanish atm)\n3. Helped users interacting with ethereum contracts on OP for the first time\n4. Helped artists launching their own NFT projects on OP Mainnet\n5. Provided support for devs launching on OP Mainnet",
+  "contributionDescription": "I believe in the rollup centric future for Ethereum. That's why I study and create content about L2s. I think Optimism is very aligned with Ethereum decentralization values so I find a lot value and potential on the Optimism tech and culture. That's why I made the following contributions to the Optimism Collective:\n\n1. OP Stack documentation guides\n2. OP Stack developer content in livestream, article and video format\n3. Developer, artist and user onboarding to OP Mainnet\n4. Smart contract development on OP Mainnet for in-person events in local community, at San Pedro Sula, Honduras\n\n* Note: My contributions listed here are RPGF3 only. I'm a RPFG2 recipient, you can refer to my previous contributions here:\nhttps://gov.optimism.io/t/education-nominations-for-rpgf2/4640/81",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=yZe8T1AvIfM",
+      "description": "Youtube video tutorial about launching an OP Stack Chain in Spanish"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.youtube.com/watch?v=VL79L8bGtbI&list=PLbs8acOyZ6WKpe9XnurtpCuySsWzLUbzy",
+      "description": "OP Stack dev multi-week online live workshop collab with Optimism en Espa\u00f1ol"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ethereum-optimism/stack-docs/pull/5",
+      "description": "Pull request to fix issues in the OP Stack official documentation"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://gist.github.com/Turupawn/f9a2ae7938081c14403996de0dba79b4",
+      "description": "Gist that shows how to fix blockscout integration issues with the OP Stack"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xb34913ff43d1ac8f522868af5052f66423746dfb",
+      "description": "NFT Contract deploy: Mis microrelatos [Artist onboard]"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x74839ac5ecd7c5dcdd28d7bb07cd50754dda8a65",
+      "description": "NFT Contract deploy: Los Primeros [Artist onboard]"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x6ae9185d83d0c0ed504ce651f3728b81307860bb#code",
+      "description": "NFT Contract deploy: RetrowaveIndustrialDreams [Artist support]"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x5e63799ea51ff3ed5d13155c43f05ddeb5e6f1c9#analytics",
+      "description": "NFT Contract deploy: Zappy [Onboarding]"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xcbd7052a962fad922aff01d27b68a4dca1eda413",
+      "description": "Dungeons Game deploy: Skunkworks on-chain game project"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xa5e742b4accd558f2d17555e4387099f6d4261cc#internaltx",
+      "description": "Randomness ceremony V1"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x10445fff1600ad3e38276ee3ec7cf7625d852687#code",
+      "description": "Randomness ceremony v2"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "OPStack Spanish Dev tutorial video views",
+      "number": "327",
+      "url": "https://www.youtube.com/watch?v=yZe8T1AvIfM"
+    },
+    {
+      "description": "Accounts onboarded",
+      "number": "19",
+      "url": "https://twitter.com/FilosofiaCodigo/status/1712225071941537985"
+    },
+    {
+      "description": "Successful onboardings ",
+      "number": "9",
+      "url": "https://twitter.com/FilosofiaCodigo/status/1712225071941537985"
+    },
+    {
+      "description": "Smart contract deployments",
+      "number": "15",
+      "url": "https://twitter.com/FilosofiaCodigo/status/1712225071941537985"
+    },
+    {
+      "description": "Accounts that interacted w/my contracts",
+      "number": "41",
+      "url": "https://twitter.com/FilosofiaCodigo/status/1712225071941537985"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 13411.82,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x8d74ea236742a773f21486e6d66a187f5398171a44c8cae6993d62b104709fd9",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 24,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

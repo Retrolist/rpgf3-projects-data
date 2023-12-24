@@ -1,0 +1,54 @@
+{
+  "bio": " I am a normal guy who is interested in the world of crypto.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Jansel Cruces",
+  "websiteUrl": "https://x.com/CrucesJansel?s=09",
+  "applicant": {
+    "address": {
+      "address": "0x3Ba0655cf0fF7f09Ebd3dD5fAd7b86b369263783",
+      "resolvedName": {
+        "address": "0x3Ba0655cf0fF7f09Ebd3dD5fAd7b86b369263783",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3Ba0655cf0fF7f09Ebd3dD5fAd7b86b369263783"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3Ba0655cf0fF7f09Ebd3dD5fAd7b86b369263783.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3Ba0655cf0fF7f09Ebd3dD5fAd7b86b369263783.png",
+    "id": "OptimistProfile|0x7d833b5a6f59c6826b7c2b574ed6bca23e14675033e613a6b39bff5e633b299b"
+  },
+  "impactDescription": "My contribution is based on scalability and decentralization. It is including a real-life business and including it in the cryptographic world, facilitating the payment method for the business and customers. Introduce existing and new clients to crypto finance. Companies grow and everyone learns to maintain educated and coordinated finances. The two companies will have rewards through NFT contracts, growth in everyone's financial world is also important. And much more.\n",
+  "contributionDescription": "I am a normal guy who is interested in the world of decentralization and cryptocurrencies. I have several ideas in which I am interested in creating them in your scalability system. My wife has her beauty salon business and I have an impact window installation business, we are located in the city of Miami and we would love to grow and include our businesses in the crypto world. I have several plans such as including applications and websites for both businesses. I would also be interested in creating NFTs with discounts for clients and other utilities that would serve both businesses.\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/jansel92/PinkSpa",
+      "description": "Rachel Beauty Spa"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "0",
+      "number": "0",
+      "url": "https://github.com/jansel92/PinkSpa"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "I,m trying to get some revenue to be able to grow within the crypto world. "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2a053ff4ef0866b5bced6c372982a62b23a0e14b11cc44894c1b4183323ffad3",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

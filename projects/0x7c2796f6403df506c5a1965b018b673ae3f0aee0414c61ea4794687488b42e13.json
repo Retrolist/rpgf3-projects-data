@@ -1,0 +1,45 @@
+{
+  "bio": "Blockchain developer",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Stepan",
+  "websiteUrl": "https://github.com/stepandel",
+  "applicant": {
+    "address": {
+      "address": "0xA18D0226043A76683950f3BAabf0a87Cfb32E1Cb",
+      "resolvedName": {
+        "address": "0xA18D0226043A76683950f3BAabf0a87Cfb32E1Cb",
+        "name": "stepandel.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xA18D0226043A76683950f3BAabf0a87Cfb32E1Cb"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xebdda6c23fa80b690a033ed5cad829e1f3eb748b2cd3e779875a324d49682e54"
+  },
+  "impactDescription": "Test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test",
+  "contributionDescription": "Test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/stepandel",
+      "description": "My github repo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of tests",
+      "number": "1",
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7c2796f6403df506c5a1965b018b673ae3f0aee0414c61ea4794687488b42e13",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,55 @@
+{
+  "bio": "my name is son",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "sonmmo",
+  "websiteUrl": "https://mmoinvestor.wordpress.com/",
+  "applicant": {
+    "address": {
+      "address": "0xD0F02cb782fBa0F7DbCa1ECCfCB192b7cf007d91",
+      "resolvedName": {
+        "address": "0xD0F02cb782fBa0F7DbCa1ECCfCB192b7cf007d91",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xD0F02cb782fBa0F7DbCa1ECCfCB192b7cf007d91"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3e01a2ccfb0baf340a82324ee9ed57c96a72d16ef9b392037bbd5dce9c159444"
+  },
+  "impactDescription": "I have a community I would recommend a lot about optimism project, Users will receive something to certify their contributions. These could be NFTs, a special place in discord for users to do additional tasks. This can be considered the next door for users to receive retroactive.",
+  "contributionDescription": "Retroactive is also a form of Airdrop, but at a more advanced and special level, so I really like participating in optimism.\n\nAirdrop includes many forms, including forms but I focus on joining telegram, tweeting, filling out forms... to be able to receive reward tokens. Airdrop is very easy to participate, does not require much knowledge, no cost... Meanwhile, Retroactive requires participants to spend real money, and most of the people who receive Retroactive are people who really understand the project. , must research carefully about optimism to introduce it to the community",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/caotre/blockspace-race/blob/main/light-node.md#submit-a-payforblob-transaction",
+      "description": "how to setup light node celestia"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "22",
+      "number": "32",
+      "url": "https://mmoinvestor.wordpress.com/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa2f39b2623975be413abfae0b639f1e73bb758d63268d740a83f0d4d9329ef1d",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

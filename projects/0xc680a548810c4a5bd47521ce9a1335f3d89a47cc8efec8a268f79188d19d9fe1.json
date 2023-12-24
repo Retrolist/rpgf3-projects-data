@@ -1,0 +1,80 @@
+{
+  "bio": "ethereum ecosystems educator in thailand ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Yu",
+  "websiteUrl": "https://mirror.xyz/0xa6Ff4b1C5b33F7Ec3fFe277A919d34E89b205Bf2",
+  "applicant": {
+    "address": {
+      "address": "0xa6Ff4b1C5b33F7Ec3fFe277A919d34E89b205Bf2",
+      "resolvedName": {
+        "address": "0xa6Ff4b1C5b33F7Ec3fFe277A919d34E89b205Bf2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa6Ff4b1C5b33F7Ec3fFe277A919d34E89b205Bf2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa6Ff4b1C5b33F7Ec3fFe277A919d34E89b205Bf2.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x7d80fd2c080931fd5b31aea1be7721992adaee1f0f78e0bda01124e886049c15"
+  },
+  "impactDescription": "it's pretty hard to measure the impact of what i did as mention above i mainly focus on Ethereum and Layer 2 ecosystems content, not Optimism specific which i think Ethereum and Layer 2 will play crucial role in the future and become infrastructure for financial systems, helping thai people become pioneer of the crypto world, better understanding of Ethereum and Layer 2 ecosystems. \n\nI do believe that what i did more or less is help other thai people more appreciate about How good Ethereum is, How sustain Ethereum is and hope that my content inspire other to learn more about crypto.",
+  "contributionDescription": "i have written content about Ethereum and Layer 2 (Not specific to Optimism) for educational purpose for free in thai language. my content are mostly focus on quiet technical part which not much content creator in thailand do. My first intention of writing article is only hope that other people get better understanding and see the real potential of the Ethereum ecosystems that benefit all of us in the future.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/rungrodsuntorn/status/1654359040682790912",
+      "description": "created content to build awareness about shared sequencers (espresso system)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/rungrodsuntorn/status/1656896579364855809",
+      "description": "Decentralized sequencer education content (why it matter)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/rungrodsuntorn/status/1648246750547963904",
+      "description": "EIP-4844 analysis"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/rungrodsuntorn/status/1637398560252792832",
+      "description": "Ethereum Danksharding"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/rungrodsuntorn/status/1664494551468494848",
+      "description": "MEV-burn"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/rungrodsuntorn/status/1657244077040218112",
+      "description": "explain the technical Ethereum Clients issues that make   "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0xa6Ff4b1C5b33F7Ec3fFe277A919d34E89b205Bf2",
+      "description": "and More"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/rungrodsuntorn/status/1650386159158312960",
+      "description": "a16z 2023 State of Crypto Report (translate in thai)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "total twitter impression from my content",
+      "number": "111355",
+      "url": "https://twitter.com/rungrodsuntorn"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xc680a548810c4a5bd47521ce9a1335f3d89a47cc8efec8a268f79188d19d9fe1",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

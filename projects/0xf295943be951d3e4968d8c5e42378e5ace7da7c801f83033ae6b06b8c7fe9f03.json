@@ -1,0 +1,58 @@
+{
+  "bio": "Internet ledger of truth",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Proofivy",
+  "websiteUrl": "https://proofivy.com",
+  "applicant": {
+    "address": {
+      "address": "0x38189D98110A395A1366F1c95875f81fD458a6C3",
+      "resolvedName": {
+        "address": "0x38189D98110A395A1366F1c95875f81fD458a6C3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x38189D98110A395A1366F1c95875f81fD458a6C3"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x38189D98110A395A1366F1c95875f81fD458a6C3.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x38189D98110A395A1366F1c95875f81fD458a6C3.png",
+    "id": "OptimistProfile|0xa94b159fae8e8b9fd6b30369640a26cff6bd08ffacba38e89355dacf2d17a66c"
+  },
+  "impactDescription": "Proofivy has provided a novel crypto application, onchain IP, for Optimism users.\nProofivy has onboarded scientists to Optimism. Feedback from them has been great.\n\nProofivy's iPhone app has expended the reach of Optimism to users without a crypto wallet.",
+  "contributionDescription": "Proofivy has provided scientists at the Lab for Germinal Biology at Utrecht University (https://heesters.gitlab.io/) tools to safeguard their IP and data using Optimism.\n\nAdditionally iPhone users have used Proofivy to commit data hashes to Optimism without needing a web3 wallet.\n\nIn both cases users have been able to safeguard IP and use Optimism with easy to use apps.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xcc26e45546dcb8d747c2bb69e348f0515ef3efc5",
+      "description": "Proofivy commit contract on Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://apps.apple.com/app/proofivy/id6446280271",
+      "description": "Proofivy iPhone app that uses Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://proofivy.com",
+      "description": "Proofivy homepage with more info"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Proofivy commits on Optimism",
+      "number": "34",
+      "url": "https://optimistic.etherscan.io/address/0xcc26e45546dcb8d747c2bb69e348f0515ef3efc5"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xf295943be951d3e4968d8c5e42378e5ace7da7c801f83033ae6b06b8c7fe9f03",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 10,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

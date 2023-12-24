@@ -1,0 +1,86 @@
+{
+  "bio": "Serve EIP builders, and scale Ethereum.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "EIP Fun",
+  "websiteUrl": "https://eip.fun/",
+  "applicant": {
+    "address": {
+      "address": "0xEe972E35311F65e6fD8F6ea7228Bf388B53e1D4a",
+      "resolvedName": {
+        "address": "0xEe972E35311F65e6fD8F6ea7228Bf388B53e1D4a",
+        "name": "eipfun.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xEe972E35311F65e6fD8F6ea7228Bf388B53e1D4a"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEe972E35311F65e6fD8F6ea7228Bf388B53e1D4a.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xEe972E35311F65e6fD8F6ea7228Bf388B53e1D4a.png",
+    "id": "OptimistProfile|0x5cb7b6908a30cf617a218a8a903be5e24f93d813b60cb13ffa3af8a1c8588ab3"
+  },
+  "impactDescription": "As of October 17th, we have published 17 issues of the EIP Fun Weekly (English and Chinese version), providing the Ethereum community with updates, important information, and fun memes related to EIPs.\n\nThrough community-building efforts (primarily on Twitter and Telegram groups), we have connected with some EIP authors (especially new authors) to help gather feedback from the community for their ideas and created an open space for builders to connect with one another and share thoughts.\n\nWe also worked on EIP tech workshops like ERC-6551 Workshop https://docs.google.com/presentation/d/1Mfo3hlTYlhu6aa-VbaOjfrn-8RJ0LQfVVzLGiYb2wz4/edit#slide=id.g2423be42a0f_0_214. ",
+  "contributionDescription": "EIP are standards for the Ethereum ecosystem. It connects the whole Ethereum community: Ethereum, Optimism, developers, builders, startups, EIP editors/authors, tech writers, etc., but the connections through EIP are weak.\n\nThe EIP Fun project consists of a Website, Community, EIP Fun Newsletter, EIP Tech workshops, etc. to serve EIP builders and scale the whole ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/lxdao-official/eipfun",
+      "description": "The repository of EIP Fun website, maintained by the community."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://eipfun.substack.com/",
+      "description": "Weekly newsletter, curate information and spread EIP memes."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/eipfun",
+      "description": "A space where discussion and connection happens."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/EIPFun",
+      "description": "Where we get in touch with builders and help spread their ideas."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Subscription",
+      "number": "24",
+      "url": "https://eipfun.substack.com/"
+    },
+    {
+      "description": "Twitter Followers",
+      "number": "91",
+      "url": "https://twitter.com/EIPFun"
+    },
+    {
+      "description": "Community",
+      "number": "162",
+      "url": "https://t.me/eipfun"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 15500,
+      "description": "Grants from Partner PlanckerDAO"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 12000,
+      "description": "Donation"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xdc8392820875414ecc45232f76592a17a65865e1e95411911e2508a2d196a94e",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 14,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

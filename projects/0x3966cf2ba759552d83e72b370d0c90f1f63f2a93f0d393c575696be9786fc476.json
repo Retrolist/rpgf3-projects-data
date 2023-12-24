@@ -1,0 +1,71 @@
+{
+  "bio": "Blockchain analytics provider working to bring transparency to crypto data",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Slice Analytics",
+  "websiteUrl": "https://www.sliceanalytics.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0x8ab83D869f2Bc250b781D26F6584fd5c562FdD9D",
+      "resolvedName": {
+        "address": "0x8ab83D869f2Bc250b781D26F6584fd5c562FdD9D",
+        "name": "mgugga.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8ab83D869f2Bc250b781D26F6584fd5c562FdD9D"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8ab83D869f2Bc250b781D26F6584fd5c562FdD9D.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8ab83D869f2Bc250b781D26F6584fd5c562FdD9D.png",
+    "id": "OptimistProfile|0x716a6719964f05374c3586ff6e653bf08c6893d0696dd148f54bae77e2185434"
+  },
+  "impactDescription": "Our team has provided countless data driven insights/custom queries to companies, DAO's, and individuals in the crypto space. These insights have helped the Optimism & Base communities by providing helpful data in an easy to understand manner. This driving adoption to new protocols built within the collective.\n\nOur team is one of the leading providers of data and tooling on Friend.Tech where our dashboards are visited daily by users looking to understand FT in a more holistic manner, as well as avoid scam accounts.\n\nSlice Analytics has never received funding, and our core team is entirely bootstrapped. Receiving retroactive funding for our work on Optimism and Base would be monumental in allowing us to continue to produce valuable free tools for the public.",
+  "contributionDescription": "Our team has worked on a large variety of projects across Optimism, as well as Superchain projects such as Base. Slice focuses on bringing transparency to crypto data, by providing it in an easy to understand manner to the general public. In turn we help users on Optimism and Base use data driven insights to make decisions.\n\n1. Our OpenIndexer project: \n\nEvery web3 project requires on-chain information. Inspired by BuildOnBase, we decided to create OpenIndexer.\n\n2. Mirror Optimism NFT Tracker\n\nWe worked with Mirror to help track all of the subscriber + writing NFTs minted to collectors.\n\n3. Friend.Tech Tooling Dashboards\n\nOur team built out multiple dashboards to help Friend.Tech users trade/purchase new keys with sufficient data to avoid being scammed/rug pulled.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Slice-Analytics/OpenIndexer",
+      "description": "OpenIndexer"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/mirror_xyz/mirror-project-creator-dashboard",
+      "description": "Mirror Optimism NFT Tracker Dashboard"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/sliceanalytics/friendtech",
+      "description": "Friend.Tech Public Tools Dashboard"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/sliceanalytics/friendtech-slice-analytics",
+      "description": "Friend.Tech TVL Tracker"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dune.com/sliceanalytics/friendtech-alt-accounts?base_address_t9d7e6=0xb28443a211ed75d6ec76eeb43030dfa884f77cf0",
+      "description": "Friend.Tech Alt Account Identifier (Used to avoid Scam Accounts)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/incentive-impact-analysis-stargate/7003",
+      "description": "Incentive Analysis Stargate (Paid Job) - Use only as a reference for our work."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Favorites on Dune (all public dashs)",
+      "number": "112",
+      "url": "https://dune.com/sliceanalytics/friendtech"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x3966cf2ba759552d83e72b370d0c90f1f63f2a93f0d393c575696be9786fc476",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

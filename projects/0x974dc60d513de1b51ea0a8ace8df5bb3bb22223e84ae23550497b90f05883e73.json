@@ -1,0 +1,166 @@
+{
+  "bio": "MetaDex Aggregator, Swap, Felo, Gasless and Perpetuals",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Kromatika Finance",
+  "websiteUrl": "https://kromatika.finance/",
+  "applicant": {
+    "address": {
+      "address": "0x556c178B5f1793B8a626eA57FbBA79010b4370Bd",
+      "resolvedName": {
+        "address": "0x556c178B5f1793B8a626eA57FbBA79010b4370Bd",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x556c178B5f1793B8a626eA57FbBA79010b4370Bd"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x556c178B5f1793B8a626eA57FbBA79010b4370Bd.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x556c178B5f1793B8a626eA57FbBA79010b4370Bd.png",
+    "id": "OptimistProfile|0x98e95e4d8256ed99cf52d1bb8537fde2703a482a9195ae62ef0c955672a9a4d1"
+  },
+  "impactDescription": "Kromatika has deployed Limit Orders (FELO)  and a Swap Aggregator on OP.\n\nBy using UniV3 liquidity and Keeper smart contracts, we automate limit trades, eliminating price slippage, BOT attacks and swap fees. To date : \n- $3.6M in limit orders,\n- Average $924/order\n- Between 1 & 9% LP fees on top of their trades.\n\nIt boasts an impressive market fit with 60-70% of new users becoming returning users!\nThe MetaDex Aggregator is an \"aggregator of aggregators\" searching for the deepest liquidity pools with lowest slippage to provide the best instant swap rates to users.\nGasless Swap will also be released soon (using Biconomy relayers) as part of the Gov Fund received.\n\nWithout any VCs/ICO rounds, Kromatika is organically growing, expanding its suite of products and among top 10 DEXs by TVL. ",
+  "contributionDescription": "- Decentralized Fees Earning Limit Orders. First Limit orders on optimism \n- KROM/OP Pool + KROM / WETH Pool \n- Pleasant UI and UX \n- Liqiuidity Mining \n- Airdrop\n- Swap feature \n- True Web3: Opensourced all code, Decentralized, run by DAO Governance\n- DAO Treasury is 4/5 multisignature contract ",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Kromatika-Finance",
+      "description": "General repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/Kromatika-Finance/interface",
+      "description": "Kromatika UI code"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Kromatika-Finance/optimism-airdrop/tree/master/contract",
+      "description": "Airdrop contracts code"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://github.com/Kromatika-Finance/optimism-airdrop",
+      "description": "Airdrop UI code"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Kromatika-Finance/limit-trade",
+      "description": "Felo contracts"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x7314Af7D05e054E96c44D7923E68d66475FfaAb8",
+      "description": "Limit order manager"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xcd297AefdEba144FF27ee677aA8c80Df9E349066",
+      "description": "Limit order keeper"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x90aE03F8A0f9942BA02aB6c45cf7e0b905a2DAD4",
+      "description": "Limit order proxy"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xa16192fF74aE344E2918d230B0Af736F0D4491fB",
+      "description": "Limit order monitor"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x05d235d8Ba95bfc457f9a11F64cf869f0f3f60F9",
+      "description": "Kromatika DAO multi-signature treasury safe"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xF98dCd95217E15E05d8638da4c91125E59590B07",
+      "description": "KROM token"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xe62bd99a9501ca33d98913105fc2bec5bae6e5dd",
+      "description": "KROM/WETH pool"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x6ef7b14bcd8d989cef8f8ec8ba4bf371b2ac95fd",
+      "description": "KROM/OP pool"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x73060bd1e70df9cdd9e321ac308948502c4e1fb5",
+      "description": "Airdrop contract"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://airdrop.kromatika.finance/",
+      "description": "Airdrop UI"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://kromatika.finance/",
+      "description": "Kromatika interface UI"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "FELO Volume ($)",
+      "number": "3609655",
+      "url": "https://dune.com/queries/908762/2256787"
+    },
+    {
+      "description": "Average FELO value ($)",
+      "number": "924",
+      "url": "https://dune.com/queries/908762/2256790"
+    },
+    {
+      "description": "Created FELOs",
+      "number": "3900",
+      "url": "https://dune.com/queries/1067104/1913862"
+    },
+    {
+      "description": "FELO users",
+      "number": "2137",
+      "url": "https://dune.com/queries/1067104/1913781"
+    },
+    {
+      "description": "KROM holders over time",
+      "number": "1215",
+      "url": "https://dune.com/queries/910174/1591453"
+    },
+    {
+      "description": "Top 10 DEX by TVL on Op",
+      "number": "8",
+      "url": "https://defillama.com/protocols/dexes/Optimism"
+    },
+    {
+      "description": "KROM/WETH pool value ($)",
+      "number": "183000",
+      "url": "https://www.dextools.io/app/en/optimism/pair-explorer/0xe62bd99a9501ca33d98913105fc2bec5bae6e5dd"
+    },
+    {
+      "description": "KROM/OP pool value ($)",
+      "number": "226000",
+      "url": "https://www.dextools.io/app/en/optimism/pair-explorer/0x6ef7b14bcd8d989cef8f8ec8ba4bf371b2ac95fd"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 300000,
+      "description": "https://gov.optimism.io/t/ready-gf-phase-1-proposal-cycle-6-kromatika/3306"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x974dc60d513de1b51ea0a8ace8df5bb3bb22223e84ae23550497b90f05883e73",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 25,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

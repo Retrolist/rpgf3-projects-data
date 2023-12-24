@@ -1,0 +1,87 @@
+{
+  "bio": "My creations merge digital and physical, embodying significant blockchain events",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Xofee",
+  "websiteUrl": "https://twitter.com/Xofee3",
+  "applicant": {
+    "address": {
+      "address": "0xFF141bFc450c57Ad84eBaFbD09ffa94A268a7aaE",
+      "resolvedName": {
+        "address": "0xFF141bFc450c57Ad84eBaFbD09ffa94A268a7aaE",
+        "name": "xofee.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xFF141bFc450c57Ad84eBaFbD09ffa94A268a7aaE"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFF141bFc450c57Ad84eBaFbD09ffa94A268a7aaE.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFF141bFc450c57Ad84eBaFbD09ffa94A268a7aaE.jpeg",
+    "id": "OptimistProfile|0xd45837a05742907c3ef5050470f598ddeaad0dddcfb94263893264c4dfa41190"
+  },
+  "impactDescription": "\nMy contributions, notably through the 'KZG Marble Machine', 'Opti Maze', and 'Onchain Illusion', have visually encapsulated pivotal blockchain moments, fostering a deeper appreciation for the technology among the Optimism Collective. By blending the physical with the digital, my creations have offered a tangible narrative, enriching the community's engagement with Optimism's progressive journey, and highlighting the boundless creative potential within the blockchain domain. I distribute all 3D printing files and my programs as open source.",
+  "contributionDescription": "I am Xofee, a mechanical artist, creating marvels like the 'Opti Maze,' 'KZG Marble Machine,' and 'Onchain Illusion,' each narrating significant blockchain milestones. \nMy project, the 'KZG Marble Machine,' was crafted for the KZG ceremony, a pivotal moment in enhancing Layer 2 capacities on Ethereum. It encapsulated the blockchain's essence, creating a useful spectacle appreciated and featured in notable podcasts like Bankless' Weekly Rollup\u2019 and the Daily Gwei.\n'Opti Maze' was a tribute to Optimism on OPcraft. 'Onchain Illusion,' created for the Onchain Summer event, symbolizes the amalgamation of art and blockchain.\nThrough the RetroPGF 3 initiative, I seek to secure support that will further fuel my quest to blend the abstract blockchain concepts with tangible mechanical artistry.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@Xofee3/the-kzg-marble-machine-my-special-contribution-to-ethereums-kzg-ceremony-d137313443a1",
+      "description": "The KZG Marble Machine is a mechanical art piece which generates randomness"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://prop.house/proposal/6601",
+      "description": " Onchain Illusion designed for the Onchain Summer event"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/Xofee3/status/1586022062245613568?s=20",
+      "description": "Opti Maze is an inventive maze crafted in honor of Optimism on OPcraft"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "views",
+      "number": "40000",
+      "url": "https://twitter.com/Xofee3/status/1690069747348488193"
+    },
+    {
+      "description": "views",
+      "number": "42900",
+      "url": "https://x.com/Xofee3/status/1618406659659038720?s=20"
+    },
+    {
+      "description": "views",
+      "number": "3648",
+      "url": "https://x.com/Xofee3/status/1586022062245613568?s=20"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 4000,
+      "description": "Grant for the Ethereum KZG Ceremony from the Ethereum Foundation"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 167.3,
+      "description": "NFT sale on Base of \"Onchain illusion\" at Jesse "
+    },
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": " @optimismFND OPCraft creator contest "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd177accf024b0486e7e1760bc3f0d2a42b9651d2f207c3ce4101aefeff25a11c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 31,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

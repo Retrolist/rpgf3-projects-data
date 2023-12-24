@@ -1,0 +1,52 @@
+{
+  "bio": "everyday is struggle",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "diki",
+  "websiteUrl": "https://twitter.com/Santisutejo",
+  "applicant": {
+    "address": {
+      "address": "0x610947C46170183f64dB62D99E4ab88D022246aE",
+      "resolvedName": {
+        "address": "0x610947C46170183f64dB62D99E4ab88D022246aE",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x610947C46170183f64dB62D99E4ab88D022246aE"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x610947C46170183f64dB62D99E4ab88D022246aE.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x610947C46170183f64dB62D99E4ab88D022246aE.png",
+    "id": "OptimistProfile|0x4ba3c86a87d8ba34b6c0327bcb1c9060caef4f5dc650edb3d664db9938d29d04"
+  },
+  "impactDescription": "My contributions have had a positive impact on the Optimism Collective by fostering a sense of community and encouraging user participation. By promoting airdrops, I've helped attract new users and incentivized them to explore the Optimistic Rollup ecosystem. Additionally, my retro-inspired design contributions have enhanced the user experience, making the collective more appealing and user-friendly. Ultimately, these efforts have contributed to the growth and vibrancy of the Optimism community.",
+  "contributionDescription": "As an airdrop hunter and retro enthusiast, my contribution to Optimism is twofold. First, I actively seek and promote airdrop opportunities within the Optimistic Rollup ecosystem, helping to increase community engagement and adoption. Second, my passion for retro aesthetics and design allows me to contribute a unique perspective to the user experience and interface design, making Optimism more appealing and user-friendly.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Santisutejo",
+      "description": "https://github.com/arifan1998"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "pangpang",
+      "number": "80598",
+      "url": "https://github.com/arifan1998"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 700,
+      "description": "Deserve 700 Optimist coins for active contributions in Optimism Developing "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xeb9844c9037fb9394b3bedac8a76c8d025a7c80ba941a237edc14c84bbd92a6e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

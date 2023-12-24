@@ -1,0 +1,45 @@
+{
+  "bio": "i am a platform tester",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Herdian",
+  "websiteUrl": "https://t.co/QaPTBtqpU8",
+  "applicant": {
+    "address": {
+      "address": "0x2fDD6cA72F6C193D26843992095BFdD01bb9abe4",
+      "resolvedName": {
+        "address": "0x2fDD6cA72F6C193D26843992095BFdD01bb9abe4",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2fDD6cA72F6C193D26843992095BFdD01bb9abe4"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2fDD6cA72F6C193D26843992095BFdD01bb9abe4.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x72a9c337146858c6d4698f6941a8b7f868267190e318b26f2d7f8b1de7ec9014"
+  },
+  "impactDescription": "As an Optimism Network user, I contribute by storing valuable data in the blockchain, actively participating in open-source projects, providing feedback, and engaging in community discussions to enhance technology development. Holding the network's cryptocurrency supports liquidity and growth, while adhering to regulations and participating in social networks and communities fosters knowledge sharing. These multifaceted contributions aim to actively support Optimism Network's development and success.",
+  "contributionDescription": "i have many transaction on optimism network, i am an active user bridger to optimism network. i do this from task on rabbithole, that platform have many quest for transaction on optimism network. its very helpfull for explore optimism network. i do task on galxe and taho wallet too for explore optimism network more.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x2fDD6cA72F6C193D26843992095BFdD01bb9abe4",
+      "description": "i have 265 transaction on optimism network"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "address",
+      "number": "265",
+      "url": "https://optimistic.etherscan.io/address/0x2fDD6cA72F6C193D26843992095BFdD01bb9abe4"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x020c6f636e1a7ce30186fb1bdf49dad5cbe3d6462fed2312da1c48258911bdce",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

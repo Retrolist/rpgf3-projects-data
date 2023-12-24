@@ -1,0 +1,52 @@
+{
+  "bio": "Web3 advocate, DAO enthusiast, and crypto educator in Cambodia",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "hashcrypto",
+  "websiteUrl": "https://link3.to/hashcrypto",
+  "applicant": {
+    "address": {
+      "address": "0xDf0eb1e4480E9aa00F7C16994ECf0DeDde17C024",
+      "resolvedName": {
+        "address": "0xDf0eb1e4480E9aa00F7C16994ECf0DeDde17C024",
+        "name": "168bit.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xDf0eb1e4480E9aa00F7C16994ECf0DeDde17C024"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDf0eb1e4480E9aa00F7C16994ECf0DeDde17C024.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xDf0eb1e4480E9aa00F7C16994ECf0DeDde17C024.png",
+    "id": "OptimistProfile|0xd1b80db519b000f94bff0e6c4605286c4ef3e8296ddc02205e48b055a76ec8cf"
+  },
+  "impactDescription": "In the past year, I've educated over 200 people in Cambodia on Optimistic Rollups and web3 through interactive workshops. Attendees experience Optimism's potential hands-on, setting up wallets, minting NFTs, and learning about blockchain, dApps, DAOs, DeFi, security, contracts, and self-custody. I emphasize decentralization and financial access for the unbanked, equipping them with practical skills to begin building on Optimism. I foster continued learning through Khmer online communities, bolstering local adoption, cultivating a vibrant Optimism community, introducing web3 benefits to newcomers, and empowering attendees to create impactful decentralized solutions on Optimism. My efforts enhance diversity and inclusivity within the global Optimism community.",
+  "contributionDescription": "I'm a web3 advocate spreading blockchain education in Cambodia through workshops, events, and a Khmer telegram channel. Over the past year I've directly taught 200+ people about the benefits of Optimistic Rollups via hands-on sessions introducing Optimistic Ethereum, wallet setup, NFT minting, and more. My workshops empower attendees to further explore web3. I also grow local communities by fostering online groups for continued learning after events. Through grassroots education and community building, I aim to drive adoption of Optimism and Ethereum scaling solutions in Cambodia. My contribution is bringing web3 knowledge to local communities who would otherwise lack awareness of its potential impact on their lives.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/HashCryptoKh",
+      "description": "Link to my Telegram Channel"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of Views/Paticipants",
+      "number": "396",
+      "url": "https://t.me/HashCryptoKh"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "I self-fund web3 Education and have not received any revenue or contribution."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x723a82141db5b6f69030c4a9a4a11ce58fb41a268d6ba3f343f7c1f6404262e8",
+  "prelimResult": "Remove",
+  "reportReason": "Not sure if in scope"
+}

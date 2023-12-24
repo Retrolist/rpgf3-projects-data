@@ -1,0 +1,45 @@
+{
+  "bio": "Representing Across Protocol and have given a presentation to the Optimism team.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "SBSINGH",
+  "websiteUrl": "https://across.to/",
+  "applicant": {
+    "address": {
+      "address": "0x45632417ed520ac43D993b7FED8Fa05E472e521c",
+      "resolvedName": {
+        "address": "0x45632417ed520ac43D993b7FED8Fa05E472e521c",
+        "name": "sbsingh.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x45632417ed520ac43D993b7FED8Fa05E472e521c"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x35b9c65fa327bb51c986a6079e21e45748ca612d60e3920b00eb3485254a6565"
+  },
+  "impactDescription": "Bridging has become easy. All the participants were given a 5 minute window period to talk about the product and I had full filled . Also have been part of wannbe Ambassador program in Optimism Discord . This had set the tone for a Bridge tie up with Across Protocol and Optimism.",
+  "contributionDescription": "Optimism has tied up with Across Bridge for transactions. Had given a presentation to the optimism team . All the participants were given a 5 minute window period to talk about the product and I had full filled . Also have been part of wannbe Ambassador program in Optimism Discord .",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.co/P9yKLSH9od",
+      "description": "Helped Optimism to tie up with Across protocol for Bridging the assests."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Across Bridge",
+      "number": "1",
+      "url": "https://t.co/P9yKLSH9od"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xb850a86f5ee7ff3b8564c9727f0f5251c00df1e323ce82f928d8baf8c6e9d87a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

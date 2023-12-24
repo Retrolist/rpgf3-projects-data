@@ -1,0 +1,82 @@
+{
+  "bio": "Supporting decentralization through non-censoring proposer-builder separation.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Ultra Sound Relay",
+  "websiteUrl": "htpts://relay.ultrasound.money",
+  "applicant": {
+    "address": {
+      "address": "0xbC0E4F6BE06582e5737Aa8a26d3815aae2006bd6",
+      "resolvedName": {
+        "address": "0xbC0E4F6BE06582e5737Aa8a26d3815aae2006bd6",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xbC0E4F6BE06582e5737Aa8a26d3815aae2006bd6"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa8dbd44FAFD2D795700693cdA7f5275714eBE075.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa8dbd44FAFD2D795700693cdA7f5275714eBE075.png",
+    "id": "OptimistProfile|0x7e69d335c7fa5e07c72afbf25b8c26b4c4f026d887bb542bbd1e1e9a870c2a58"
+  },
+  "impactDescription": "Optimism can post it's data to L1 without worry. Users, builders, and projects on L1, but also L2 can feel they're participating in a credibly-neutral, strongly decentralized ecosystem. This has immediate effects for where people build or use projects today, but also has far reaching consequences for where people entrust their capital for the next 100-years.",
+  "contributionDescription": "In Nov 2022, 78% of Ethereum blocks censored OFAC transactions, undermining decentralization\u2014a critical concern for both Ethereum and Optimism. Launching our credibly-neutral relay that month, we now connect to ~75% of validators, all major builders, and relay around ~30% of Ethereum blocks, reducing block censorship to 29%. This relay fortifies proposer-builder separation, leveling the playing field for all proposers in accessing MEV revenue, thereby bolstering decentralization. Running an effective relay is costly (10k - 20k a month) with thousands of block bids submitted each slot, and has so far been funded entirely by generous supporters.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://relay.ultrasound.money/",
+      "description": "Our own relay page."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mevboost.pics/",
+      "description": "Tracks the relay market."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.rated.network/relays?network=mainnet&timeWindow=30d",
+      "description": "Tracks the relay market."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "% of blocks relayed",
+      "number": "30",
+      "url": "https://mevboost.pics/"
+    },
+    {
+      "description": "% of validators connected",
+      "number": "75",
+      "url": "https://relay.ultrasound.money/"
+    },
+    {
+      "description": "# of blocks censored",
+      "number": "0",
+      "url": "https://relay.ultrasound.money/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 182000,
+      "description": "No-strings funding from a ecosystem supporting builder."
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 166000,
+      "description": "NounsDAO proposal 304 grant."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x8b7c072535aef80e3f2c2020327fb7975aaaf3a9aa39d843b947e8fd7fc70e64",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 42,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

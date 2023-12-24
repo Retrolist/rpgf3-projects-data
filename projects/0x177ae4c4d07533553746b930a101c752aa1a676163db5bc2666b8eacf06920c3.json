@@ -1,0 +1,55 @@
+{
+  "bio": "Doctor of Philosophy in Law\u2022\u2022\u2022Lawyer\u2022\u2022\u2022Founder Billions Team",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "mrlawyer88",
+  "websiteUrl": "https://twitter.com/illia_kovalenko",
+  "applicant": {
+    "address": {
+      "address": "0xa47dCC127BD2487B01477D8e381dCEd5de5e5033",
+      "resolvedName": {
+        "address": "0xa47dCC127BD2487B01477D8e381dCEd5de5e5033",
+        "name": "mrlawyer88.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xa47dCC127BD2487B01477D8e381dCEd5de5e5033"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa47dCC127BD2487B01477D8e381dCEd5de5e5033.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x1f649f7f2abe9ba5333694ae9c1f992190cf9e15cab225df59f1edb44e071f33"
+  },
+  "impactDescription": "I want to give lectures on financial literacy, including how to use blockchain technologies with optimism, and how not to lose money under such circumstances. I am an expert in this field and hold a Doctor of Philosophy in Law. I also have optimism and security in my plans to involve specialists for a more detailed explanation of technologies.",
+  "contributionDescription": "I want to give lectures on financial literacy, including how to use blockchain technologies with optimism, and how not to lose money under such circumstances. I am an expert in this field and hold a Doctor of Philosophy in Law. I also have optimism and security in my plans to involve specialists for a more detailed explanation of technologies.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/illia_kovalenko",
+      "description": "https://twitter.com/illia_kovalenko"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "100",
+      "number": "100",
+      "url": "https://twitter.com/illia_kovalenko"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 25000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x177ae4c4d07533553746b930a101c752aa1a676163db5bc2666b8eacf06920c3",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

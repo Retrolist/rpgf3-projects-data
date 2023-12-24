@@ -1,0 +1,45 @@
+{
+  "bio": "24 year old visionary and artist from canada",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "jockytran",
+  "websiteUrl": "https://youtube.com/@jockytran?si=KK4nxIbCasfynQJm",
+  "applicant": {
+    "address": {
+      "address": "0x12E37f963c000a807F8634aBEb7059541cDD19Ef",
+      "resolvedName": {
+        "address": "0x12E37f963c000a807F8634aBEb7059541cDD19Ef",
+        "name": "jockytran.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x12E37f963c000a807F8634aBEb7059541cDD19Ef"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x12E37f963c000a807F8634aBEb7059541cDD19Ef.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x6ab3d68bd1627473ff2c9ea6ed1f666b37073b39a84277107ae8857dc18fcf17"
+  },
+  "impactDescription": "I will be the face of the asian community on the internet one day in the music and entertainment scene. Mark my words. i have been in the crypto space since 2017 and have learned so much about freedom tech and how eth and digital assets that remove middleman third parties will change thr world. I am extremely knowledgeable in the space and i wild love a opportunity to meet on zoom or chat with someone within the optimism community to show the value i will bring. Im a little eccentric but i lnow soon i will be a big content creator who will push for freedom tech and crypto and eth!!",
+  "contributionDescription": "I am a web3 advocate and have been in the space since 2017. I believe i can be a grrat spokesperson and voice to the general public in terms of spreading awareness and showing people the impact Optimism will have in the future within our societies. This is the future and i want to be apart of it",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://instagram.com/jockytran?igshid=OGQ5ZDc2ODk2ZA==",
+      "description": "0"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "N/A",
+      "number": "0",
+      "url": "https://instagram.com/jockytran?igshid=OGQ5ZDc2ODk2ZA=="
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x1111f837bc72d94fca86c1e4ab9f246d615504f2e1302c1c938116aac2f3746f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

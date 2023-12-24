@@ -1,0 +1,52 @@
+{
+  "bio": "hello-world",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "0xchio",
+  "websiteUrl": "https://twitter.com/0xpratama",
+  "applicant": {
+    "address": {
+      "address": "0x544429E4b930E41C90730241529eecaad3827add",
+      "resolvedName": {
+        "address": "0x544429E4b930E41C90730241529eecaad3827add",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x544429E4b930E41C90730241529eecaad3827add"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x544429E4b930E41C90730241529eecaad3827add.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xc89301bd306af37d3593a64714f5d89c1032967bea001fcfcae8b5400087938d"
+  },
+  "impactDescription": "I wanna to be an Optimism supporter, and if i get some rewards from Oprimism, i will used for help my life. And u know life is short, The here and the now\nAnd you're only given one shot\nBut could there be more\nHave I lived before\nOr could this be all that we've got?",
+  "contributionDescription": "I wanna to be an Optimism supporter, and if i get some rewards from Oprimism, i will used for help my life. And u know life is a short, The here and the now\nAnd you're only given one shot\nBut could there be more\nHave I lived before\nOr could this be all that we've got?",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "Https://optimism.etherscamn.com",
+      "description": "0x"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "0x",
+      "number": "1234",
+      "url": "Https://optimism.etherscan.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2ad0153ac54ad4d2400c8fecf8a8ebf071cdc50bac66240e4bd49af708f22763",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,80 @@
+{
+  "bio": "Synapse Labs is a contributor to cross-chain technology.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Synapse Labs",
+  "websiteUrl": "https://interchain.synapseprotocol.com/",
+  "applicant": {
+    "address": {
+      "address": "0x46b31a5d7EF223259Dd7708c4019aF6aB925CBA2",
+      "resolvedName": {
+        "address": "0x46b31a5d7EF223259Dd7708c4019aF6aB925CBA2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x46b31a5d7EF223259Dd7708c4019aF6aB925CBA2"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x46b31a5d7EF223259Dd7708c4019aF6aB925CBA2.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x46b31a5d7EF223259Dd7708c4019aF6aB925CBA2.png",
+    "id": "OptimistProfile|0x06c2b1ee49b009c140a6ea0f9b90ee26d13869a630941124b41071ffd9f7d43b"
+  },
+  "impactDescription": "Synapse Labs is driving more developers to the Optimism ecosystem and making it the center of all Layer 2 activity. So far Synapse labs has:\n\n-Created a developer framework that makes it easier than ever to deploy a chain with a native bridge \n-Offers open source solutions for explorers and and indexing services\n-Deployed the first SYN OP Stack chain, Synapse Chain\n~2m transactions on Synapse chain Testnet with > 2k addresses\nEncouraged projects to move to the Optimism ecosystem\n",
+  "contributionDescription": "Synapse Labs has built on top of the OP Stack key new pieces of infrastructure as well as migrated key pieces of the Synapse vision to the Superchain. More specifically Synapse has helped : \n\n- Research and develop novel ways to incorporate multi-chain into the Superchain vision  \n- Create Better RPC infrastructure, and indexing as a public good through OmniRPC\n- Development of SYN OP Stack, an implementation of the OP Stack with a built in native bridge\n- The deployment of the first SYN OP Stack chain, Synapse Chain, an Optimism L2\n- Education and Developer support for new developers to build on top of and expand the Superchain ecosystem\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/synapsecns/sanguine/tree/master/services/omnirpc",
+      "description": "This is OmniRPC, providing reliable indexing and RPC services for free"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/synapsecns/sanguine/tree/master",
+      "description": "The Sanguine repository for all infra services provided and work on SYN OP Stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.synapseprotocol.com/synapse-chain/syn-op-stack",
+      "description": "Docs on SYN OP Stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/SynapseProtocol/status/1701315115692466220",
+      "description": "Interchain Network Launch"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.synapseprotocol.com/synapse-chain/synapse-chain",
+      "description": "Documentation on Synapse Chain, an OP Stack chain"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/KAndrewHuang/status/1692189580185981344",
+      "description": "Work/ Collaboration with Conduit to further the Superchain ecosystem"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "> 2m Transactions",
+      "number": "2000000",
+      "url": "https://sepolia.synapsescan.com/"
+    },
+    {
+      "description": "> 2k Addresses",
+      "number": "2000",
+      "url": "https://sepolia.synapsescan.com/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x224aae62a450603d6358ab1d699a3daeef169761279597712b08b8dc4d25b198",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 29,
+  "primaryCategory": "OP Stack",
+  "recategorization": "OP Stack development & research"
+}

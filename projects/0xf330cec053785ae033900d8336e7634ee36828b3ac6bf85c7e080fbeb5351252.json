@@ -1,0 +1,57 @@
+{
+  "bio": " I have been a systems analyst and programmer for 20 years, a university profes",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "oscar enrique salazar garcia",
+  "websiteUrl": "https://twitter.com/Optimism_Esp",
+  "applicant": {
+    "address": {
+      "address": "0x01395548a531878b04349b057D7e5930425eE783",
+      "resolvedName": {
+        "address": "0x01395548a531878b04349b057D7e5930425eE783",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x01395548a531878b04349b057D7e5930425eE783"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xaadbf29c85c357543b0b76e0e499c9d48e4d5b81d897adee2f5a26d8fa4ff06e"
+  },
+  "impactDescription": "I have made some test twitters with educational content which have been very well accepted. I consider that a large percentage of the interested population has the perception that the crypto world is something very complex, by creating very simple educational content and excellent audiovisual quality free, it will attract many more users to the Optimism network",
+  "contributionDescription": "The project aims to create a series of tutorials in X (twitter), detailed but very simple and accessible to people without a deep knowledge of the Optimism network, In order to help users understand and effectively use Optimism, these tutorials will cover key aspects of Optimism, from its initial configuration to its participation in smart contracts and transactions within the network.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Optimism_Esp",
+      "description": "Here we explore Ethereum's second layer network known as Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/Optimism_Esp/status/1697062717041877187?s=20",
+      "description": "Steps to add Red Optimism to Metamask Wallet on your phone"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "followers",
+      "number": "900",
+      "url": "https://twitter.com/Optimism_Esp"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf330cec053785ae033900d8336e7634ee36828b3ac6bf85c7e080fbeb5351252",
+  "prelimResult": "Remove",
+  "reportReason": "not sure this is in scope"
+}

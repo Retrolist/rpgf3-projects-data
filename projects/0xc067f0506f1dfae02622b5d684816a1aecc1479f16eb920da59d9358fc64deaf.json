@@ -1,0 +1,162 @@
+{
+  "bio": "Portuguese-language community dedicated to the Optimism ecosystem",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Optimism Portugu\u00eas",
+  "websiteUrl": "https://www.optimismpt.com/",
+  "applicant": {
+    "address": {
+      "address": "0xf44649128144BD3052D020F6A93485A4B33952Fe",
+      "resolvedName": {
+        "address": "0xf44649128144BD3052D020F6A93485A4B33952Fe",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xf44649128144BD3052D020F6A93485A4B33952Fe"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf44649128144BD3052D020F6A93485A4B33952Fe.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf44649128144BD3052D020F6A93485A4B33952Fe.png",
+    "id": "OptimistProfile|0x0392d0968408d0909184547b6fe3169ac76c693c1d5c07013e74a45a492c1619"
+  },
+  "impactDescription": "Our efforts are dedicated to long-term goals. We strongly believe that establishing a closer relationship with a web3 project in one's native language is crucial for enabling individuals to truly comprehend the Optimism Collective. Our primary goal is to continue supporting and inspiring people to delve deeper into the OP ecosystem.\n\nWe are committed to providing extensive content in Portuguese, whether through article translations, original creations, hosting Spaces with various communities and projects, fostering integration with Optimism and other Portuguese-speaking communities, and pursuing other initiatives.\n\nMoreover, we have recently initiated a collaboration for the translation of Subli's - The Optimist, a newsletter dedicated to the Superchain.",
+  "contributionDescription": "Although Portuguese is the fifth most spoken language worldwide, there is a dearth of materials and content about Optimism in this language. However, we are here to change that and make Optimism more accessible to Portuguese speakers.\n\nOur initiatives encompass the translation of articles and website documentation, the creation of original articles and posts, Twitter Spaces with various communities, fostering the growth of a community for Optimism in Portuguese, and other ideas that are still in the planning phase, such as IRL/virtual events and workshops.\n\nIn the end, we just want to help Optimism grow and reach more people through education and knowledge about Optimism, OP Stack & OP Collective.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.optimismpt.com/",
+      "description": "Website Optimism Portugu\u00eas"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/OptimismPT",
+      "description": "Twitter Optimism Portugu\u00eas"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x0FD0BE9BDD359ad6262F23c2dB2C3a74Ed30B22A",
+      "description": "Mirror Optimism Portugu\u00eas "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimismpt.substack.com/",
+      "description": "Substack Optimism Portugu\u00eas "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/optimismpt",
+      "description": "Telegram Optimism Portugu\u00eas"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Optimism Portuguese General Metrics",
+      "number": "51293",
+      "url": "https://docs.google.com/spreadsheets/d/1iYKDBjTlnDi5n21YNrIITVcYbFC0_NwLd38VeiAbokg/edit#gid=0"
+    },
+    {
+      "description": "Views - Introducing Optimism Portuguese",
+      "number": "10300",
+      "url": "https://twitter.com/OptimismPT/status/1703054568115032399"
+    },
+    {
+      "description": "Views - The Optimistic Vision",
+      "number": "11900",
+      "url": "https://twitter.com/OptimismPT/status/1703801122174144699"
+    },
+    {
+      "description": "Views - RetroPGF3 applications open",
+      "number": "5010",
+      "url": "https://twitter.com/OptimismPT/status/1704198405755375640"
+    },
+    {
+      "description": "Views - $OP airdrop #3",
+      "number": "330",
+      "url": "https://twitter.com/OptimismPT/status/1703842498735698417"
+    },
+    {
+      "description": "Views - Ether\u2019s Phoenix",
+      "number": "120",
+      "url": "https://twitter.com/OptimismPT/status/1704494487412556117"
+    },
+    {
+      "description": "Views - Inviting to RPGF3",
+      "number": "12700",
+      "url": "https://twitter.com/OptimismPT/status/1705257957640806699"
+    },
+    {
+      "description": "Views - Introducing the OP Stack",
+      "number": "100",
+      "url": "https://twitter.com/OptimismPT/status/1705287641720049775"
+    },
+    {
+      "description": "Views - Bedrock Upgrade",
+      "number": "7950",
+      "url": "https://twitter.com/OptimismPT/status/1706398200830271602"
+    },
+    {
+      "description": "Listeners - Spaces w/ OptimismESP",
+      "number": "69",
+      "url": "https://twitter.com/OptimismPT/status/1707168240445817153"
+    },
+    {
+      "description": "Listeners - Discovering OPStack projects",
+      "number": "45",
+      "url": "https://twitter.com/OptimismPT/status/1711401371742736626"
+    },
+    {
+      "description": "Listeners - X-Spaces about blockchains",
+      "number": "191",
+      "url": "https://x.com/recycle_minds/status/1704616537091400148?s=20"
+    },
+    {
+      "description": "Views - Article \"What is a public good?\"",
+      "number": "7252",
+      "url": "https://twitter.com/OptimismPT/status/1707442447645659637"
+    },
+    {
+      "description": "Views - Law of Chains",
+      "number": "51",
+      "url": "https://twitter.com/OptimismPT/status/1708133494512091163"
+    },
+    {
+      "description": "Views - RetroPGF Round 3 Article",
+      "number": "70",
+      "url": "https://twitter.com/OptimismPT/status/1708908504889671899"
+    },
+    {
+      "description": "Views - Future of Optimism Governance",
+      "number": "5619",
+      "url": "https://twitter.com/OptimismPT/status/1709714750240702574"
+    },
+    {
+      "description": "Views - The Optimism Collective",
+      "number": "52",
+      "url": "https://twitter.com/OptimismPT/status/1710418022400225552"
+    },
+    {
+      "description": "Views - Article \"The State of Optimism\"",
+      "number": "67",
+      "url": "https://twitter.com/OptimismPT/status/1711524000700965043"
+    },
+    {
+      "description": "Announcement of Translation The Optimist",
+      "number": "136",
+      "url": "https://twitter.com/OptimismPT/status/1711738625778417924"
+    },
+    {
+      "description": "Views - Optimism Superchain",
+      "number": "209",
+      "url": "https://twitter.com/OptimismPT/status/1712197766221283368"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xc067f0506f1dfae02622b5d684816a1aecc1479f16eb920da59d9358fc64deaf",
+  "prelimResult": "Remove",
+  "reportReason": "This application was flagged by the Contributions team for double-counting contributions"
+}

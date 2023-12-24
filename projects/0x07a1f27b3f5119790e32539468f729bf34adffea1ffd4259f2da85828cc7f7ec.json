@@ -1,0 +1,73 @@
+{
+  "bio": "Crypto Class '16 | Tech to Crypto Journey in Asia | Early BASE contributor  ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "G",
+  "websiteUrl": "https://www.linkedin.com/in/giuliano-o/",
+  "applicant": {
+    "address": {
+      "address": "0x56656e5C76B5B552F5e89a82fc46912d95790480",
+      "resolvedName": {
+        "address": "0x56656e5C76B5B552F5e89a82fc46912d95790480",
+        "name": "giuoctavianos.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x56656e5C76B5B552F5e89a82fc46912d95790480"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x1bb9f75e9a4f0fe3dcd709ab6825239e24e4f9f1e75d600caf017756dd517d35"
+  },
+  "impactDescription": "My contributions have amplified OP Collective strengthened its community, laying a foundation\n1/ Superchain Thesis Promotion: Elevated awareness of OP Collective's goals, enhancing community engagement. Strengthened shared vision and enthusiasm within the collective.\n2/ Web2 to Web3 Transition: Utilizing my tech expertise, I've introduced several Web2 professionals to Web3, enriching our community. My reputation amplifies trust and respect for OP Collective.\n3/ Advocacy, as Coinbase : As an early BASE L2 contributor, I've championed OP Collective, sparking interest from a crypto giant and elevating our credibility in the industry.\n4/ Future Support: My shift to an independent role ensures continued support for BASE & OP-Stack, opening doors for potential collaborations and a broader ecos.",
+  "contributionDescription": "As an early recipient of the OP Airdrop from my work with Constitution DAO, I believe I should be considered for the RetroPGF for the following reasons:\n\n+ I'm well-versed and passionate about the Superchain thesis and the OP Collective.\n+ With 14+ years as a tech builder in Asia, I can leverage my credibility to bridge the Web2 to Web3 transition and champion the OP Superchain thesis effectively.\n+ As an early BASE L2 contributor within Coinbase, I've been actively promoting the \"Superchain Thesis.\"\n+ I'm transitioning to an independent role outside of Coinbase, where I'll support the BASE Ecosystem and continue advocating for the OP-Stack & Superchain narrative.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/tx/0x272149ba8b3dded148cc49e7b91e37f601738b8f1ec1e079e3bbb93e71f3bcea",
+      "description": "OP Stack | Base early contributor "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0xd2a36689871f76bb32ca33fa1ad4574bd8470f12aecf64342f7cf0d01ae739b4",
+      "description": "Active governance for OP (through delegation)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/token/0x10a5676ec8ae3d6b1f36a6f1a1526136ba7938bf?a=6",
+      "description": "Active monitoring for DAO in BASE L2, part of BASED DAO"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/token/0xd1633593373974e94b2dd7ebd3c6452328ffe079?a=48",
+      "description": "Early BASE builder sign #48 on OP Stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://n.news.naver.com/article/421/0007039931?sid=101",
+      "description": "One of my work in Korea (with BASE) supporting OP Roll up and BASE"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Impression / Media reach ",
+      "number": "1000000",
+      "url": "https://n.news.naver.com/article/421/0007039931?sid=101"
+    },
+    {
+      "description": "number of developers / dapps (#people) ",
+      "number": "1000",
+      "url": "https://lu.ma/basexiskra"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x07a1f27b3f5119790e32539468f729bf34adffea1ffd4259f2da85828cc7f7ec",
+  "prelimResult": "Remove",
+  "reportReason": "Looks like spam"
+}

@@ -1,0 +1,52 @@
+{
+  "bio": "Most unique NFT project you will ever known.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "ZkSurvivors",
+  "websiteUrl": "https://zksurvivors.xyz",
+  "applicant": {
+    "address": {
+      "address": "0xd8606C51492695AacCa8B52b9b0541Db3eEa73b3",
+      "resolvedName": {
+        "address": "0xd8606C51492695AacCa8B52b9b0541Db3eEa73b3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xd8606C51492695AacCa8B52b9b0541Db3eEa73b3"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd8606C51492695AacCa8B52b9b0541Db3eEa73b3.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd8606C51492695AacCa8B52b9b0541Db3eEa73b3.png",
+    "id": "OptimistProfile|0x915458a2b53078da594ee93624a15513275d9f089a511495b9617d9d43c8a081"
+  },
+  "impactDescription": "We will try our best to grow optimism community. with our nft project. We have 3000 unique NFTs on our collection. And we also have good number of active community members on Twitter. So we are hoping we will be able to help optimism in gaining good number of active community members.",
+  "contributionDescription": "We wants to attract more community members through our nft project. We have an unique nft collection of 3000 NFTs. If we lunch our collection on optimism we will be attract more community members to optimismFND. We already have an good number of community members on Twitter.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://zksurvivors.xyz",
+      "description": "Community members will be able to find any Nasassary information about our nft."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "GitHub",
+      "number": "420",
+      "url": "https://github.com/zksurvivors/zksurvivors"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xac9ecc8ea0f449daea6ec51b94e4937dcd14c128ef2ee6ef82258182783c40e3",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

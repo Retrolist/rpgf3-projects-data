@@ -1,0 +1,55 @@
+{
+  "bio": "Hunter NFT",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "\u0110\u00e0o C\u01b0\u1eddng",
+  "websiteUrl": "https://etherscan.io/gastracker",
+  "applicant": {
+    "address": {
+      "address": "0x42c6d92A09349cB05b79fE85a740461Fa27c21BF",
+      "resolvedName": {
+        "address": "0x42c6d92A09349cB05b79fE85a740461Fa27c21BF",
+        "name": "miraclecoin.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x42c6d92A09349cB05b79fE85a740461Fa27c21BF"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x42c6d92A09349cB05b79fE85a740461Fa27c21BF.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb5426434738bf39a6deef7bb5b8218d0ac52a3bc67cf1e1454bdc960432cc1b0"
+  },
+  "impactDescription": "https://etherscan.io/gastracker \nI traded and swapped Optimism as my USD virtual currency quickly. Hopefully the Op ring will become more and more popular and develop as strongly as ETH and BTC. I completely trust the OP team. I Dao Cuong completely believe and support optimism",
+  "contributionDescription": "I traded and swapped Optimism as my USD virtual currency quickly. Hopefully the Op ring will become more and more popular and develop as strongly as ETH and BTC. I completely trust the OP team. I Dao Cuong completely believe and support optimism\nI Dao Cuong completely believe and support optimism",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.io/gastracker",
+      "description": "Hig"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "https://optimistic.etherscan.io/",
+      "number": "111088436",
+      "url": "https://optimistic.etherscan.io/tx/0xb8625a3f21c099d156dfa19c67dabac93ab09376c41cd8db94275ea756ec86c5"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 95,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x9f34a3d9b4c3810cb0f6e0eea91193137d2d90d1a1685fc944d10b85b046b7a9",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

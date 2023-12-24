@@ -1,0 +1,160 @@
+{
+  "bio": "Smart Contract Engineer, Security Researcher, and Educator",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "PatrickAlphaC",
+  "websiteUrl": "https://www.youtube.com/@patrickalphac",
+  "applicant": {
+    "address": {
+      "address": "0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e",
+      "resolvedName": {
+        "address": "0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png",
+    "id": "OptimistProfile|0xf17b124e9b5b748bf66e9ee898065ee859a3bbd42db408572066ec62c79cf06f"
+  },
+  "impactDescription": "We've created educational content used to jump start thousands of careers in the web3 ecosystem. Graduates of my content have gone on to join:\n- Trail of Bits\n- Chainlink Labs\n- Cyfrin \n- Openzeppelin\nCreated their own protocols, and more.\n\nThese developers are now living among us building the future of web3 \ud83e\uddbe",
+  "contributionDescription": "I make educational content for web3 developers, specifically courses and educational content. I have created the #1 and #2 most watched solidity courses on all of YouTube.\n\n1. https://www.youtube.com/watch?v=M576WGiDBdQ \n- 3.3M views (#1 most viewed solidity course on YouTube)\n2. https://www.youtube.com/watch?v=gyMwXuJrbJQ\n- 2.2M views (#2 most viewed solidity course on YouTube)\n3. https://www.youtube.com/watch?v=p36tXHX1JD8\n- 230k views\n4. https://www.youtube.com/watch?v=umepbfKp5rI\n- 215k views\n\nAdditionally, I answer questions on Ethereum stack exchange, make mock & demo projects for people to use, and write developer focused blogs and tweet threads.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=umepbfKp5rI",
+      "description": "The newest mega-course. 27 hours of Solidity, Security, & Foundry."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Cyfrin/foundry-full-course-f23",
+      "description": "27-hour course GitHub. Using Foundry, Solidity, and Security introduction. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/patrickalphac-old.eth",
+      "description": "My (old) Mirror page with blog posts, and I have many on my Medium"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ethereum.stackexchange.com/users/57451/patrick-collins",
+      "description": "My Ethereum stack exchange profile, where I currently rank #4 for 2023"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/PatrickAlphaC",
+      "description": "My twitter, where I often post educational tweet threads"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@patrickalphac",
+      "description": "My Medium, where I post articles to teach developers"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=gyMwXuJrbJQ",
+      "description": "32-hour Hardhat, Javascript, and Solidity course."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=M576WGiDBdQ",
+      "description": "16-hour Brownie, Python, and Solidity course. "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": "215000",
+      "url": "https://www.youtube.com/watch?v=umepbfKp5rI"
+    },
+    {
+      "description": "Views",
+      "number": "230000",
+      "url": "https://www.youtube.com/watch?v=p36tXHX1JD8"
+    },
+    {
+      "description": "Views",
+      "number": "162000",
+      "url": "https://www.youtube.com/watch?v=Aw7yvGFtOvI"
+    },
+    {
+      "description": "Stars",
+      "number": "1400",
+      "url": "https://github.com/Cyfrin/foundry-full-course-f23"
+    },
+    {
+      "description": "Developers reached",
+      "number": "510000",
+      "url": "https://ethereum.stackexchange.com/users/57451/patrick-collins"
+    },
+    {
+      "description": "Views",
+      "number": "2200000",
+      "url": "https://www.youtube.com/watch?v=gyMwXuJrbJQ"
+    },
+    {
+      "description": "Views",
+      "number": "3300000",
+      "url": "https://www.youtube.com/watch?v=M576WGiDBdQ"
+    },
+    {
+      "description": "Stars",
+      "number": "9900",
+      "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-js"
+    },
+    {
+      "description": "Stars",
+      "number": "10000",
+      "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 15000,
+      "description": "Donation from Brownie/Vyper core team for 16-hour course"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "Donation from BadgerDAO for the 27-hour course"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 220,
+      "description": "GitCoin grants for the 32-hour course"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 7,
+      "description": "I made an NFT Tattoo video and 7 people bought a pixel for $1"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 2427.18,
+      "description": "YouTube ad revenue, lifetime. "
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 7324.33,
+      "description": "Medium account revenue, lifetime. "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 47,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

@@ -1,0 +1,76 @@
+{
+  "bio": "Crypto Sapiens is a media platform featuring the diverse voices of web3.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Crypto Sapiens",
+  "websiteUrl": "https://cryptosapiens.xyz",
+  "applicant": {
+    "address": {
+      "address": "0x624e05D9A8dEFF331d2685EF3d789B25f9BeC80F",
+      "resolvedName": {
+        "address": "0x624e05D9A8dEFF331d2685EF3d789B25f9BeC80F",
+        "name": "cryptosapiens.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x624e05D9A8dEFF331d2685EF3d789B25f9BeC80F"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x624e05D9A8dEFF331d2685EF3d789B25f9BeC80F.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x624e05D9A8dEFF331d2685EF3d789B25f9BeC80F.png",
+    "id": "OptimistProfile|0x3889328f8f8ccb9222db443ccf3170d6fdec3bdc0fadabeff5d3b2cf4f2979bc"
+  },
+  "impactDescription": "The first conversation on Spaces introducing Optimism and the OP rollups has over 300 downloads with the recap on our newsletter seeing a read rate of 75%. The second conversation on Spaces where we expanded on the OP stack saw a 414% increase with over 1,600 downloads with the newsletter seeing a similar read rate as the first.\n\nWhile we set out to produce high-quality content introducing the Optimism ecosystem, we were not surprised to see the content also be well received by the developer community as evidenced by the audience that was drawn to both events. Having L2BEAT share their insights at the first event, and three accomplished developers and projects at the second event certainly helped influence the programming's success and impact.",
+  "contributionDescription": "Crypto Sapiens featured the Optimism ecosystem in a two part series on Twitter Spaces and expanded the conversations on our newsletter.\n\nThe first piece served as an introduction to Optimism and OP rollups. We co-hosted the event with Bartek of L2BEAT, who kindly shared his wealth of knowledge with our audience about Optimism including computational requirements, scaling models, and RPGF as a community engagement and ecosystem growth tool.\n\nThe second piece expanded on the initial conversation by exploring the OP stack and the projects that are using it. We had three different projects that use the OP stack to build: Mantle, Metis and Goshen. Each provided tons of insights about why they chose Optimism, and encouraged listeners to start building on OP.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/i/spaces/1jMJgLqvopjxL",
+      "description": "First of two Twitter Spaces hosted with L2BEAT discussing Optimism & OP Rollups"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptosapiens.xyz/the-ones-and-twos-about-l2s",
+      "description": "First of two articles hosted with L2BEAT introducing Optimism and OP Rollups"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/i/spaces/1eaJbrAymXVJX",
+      "description": "Second of two Twitter Spaces diving deeper into Optimism and OP Rollups"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://cryptosapiens.xyz/scaling-ethereum-introducing-optimistic-rollups",
+      "description": "Second of two articles diving deeper into Optimism and OP Rollups"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "# of downloads",
+      "number": "311",
+      "url": "https://twitter.com/i/spaces/1jMJgLqvopjxL"
+    },
+    {
+      "description": "# of downloads",
+      "number": "1600",
+      "url": "https://twitter.com/i/spaces/1eaJbrAymXVJX"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 15000,
+      "description": "Lifetime funding received by longtime supporter and patron, Bankless DAO."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x810ac2d5228cb2266cca279e655eb442709bb7b9136c3a3c71c24eda48b4eb04",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 21,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

@@ -1,0 +1,53 @@
+{
+  "bio": "In crypto from since 2016, now playing vr games and looking for DAO projects. ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "https://twitter.com/insiderr22",
+  "websiteUrl": "https://twitter.com/insiderr22",
+  "applicant": {
+    "address": {
+      "address": "0x730CA23bcd88802Da1E19766DB0A98E005D8Fda1",
+      "resolvedName": {
+        "address": "0x730CA23bcd88802Da1E19766DB0A98E005D8Fda1",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x730CA23bcd88802Da1E19766DB0A98E005D8Fda1"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x730CA23bcd88802Da1E19766DB0A98E005D8Fda1.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x730CA23bcd88802Da1E19766DB0A98E005D8Fda1.png",
+    "id": "OptimistProfile|0x8772cda4539594cf566b9aa6a45300402c3227493f689d1c518e5b27ab114858"
+  },
+  "impactDescription": "Many people like to write code, some like trade, someone like use products, I love to criticize and look for weaknesses in others' proposals. With me, spending money will be more meaningful and logical. At a minimum, I would like to create a system for screening out all bots and scripts, and introduce a system for receiving drops only for real humans.",
+  "contributionDescription": "Since childhood I want to govern some state or project. But I saw many vulnerabilities and imperfections in democracy, monarchy or communism. Now We are DAO, and I believe it can work. I can read proposals, thing and decide what which decision gives to community maximum impact. I can meticulously read suspicious proposals and identify scams. I believe in  DAO and believe that this is the best form of management.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://snapshot.org/#/aavegotchi.eth",
+      "description": "in aavegotchi game since beginning, vote, read, win! ;)  "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#daowin",
+      "number": "42",
+      "url": "https://snapshot.org/#/opcollective.eth"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000000,
+      "description": "million be enough, to motivate me to visit the site for six days in a week ;)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xadc256d0df97ae846c20faedb24c70dc3167b6e2d58d0ce62b9838142e6a5baa",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

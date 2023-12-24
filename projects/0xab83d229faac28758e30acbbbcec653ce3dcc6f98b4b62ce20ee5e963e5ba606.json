@@ -1,0 +1,92 @@
+{
+  "bio": "CryptoStats creates public-good data websites, such as CryptoFees.info",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "CryptoStats & CryptoFees.info",
+  "websiteUrl": "https://cryptostats.community",
+  "applicant": {
+    "address": {
+      "address": "0x69aa21403244889832609963B0028e337a834953",
+      "resolvedName": {
+        "address": "0x69aa21403244889832609963B0028e337a834953",
+        "name": "cryptostats.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x69aa21403244889832609963B0028e337a834953"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x69aa21403244889832609963B0028e337a834953.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xba37395d25983231282e33af4ba88b6ae3996c795ef3eec42819b7f62686d2e5"
+  },
+  "impactDescription": "Websites like CryptoFees and L2Fees help users and developers better understand the blockchain ecosystem.\n\nSpecifically, CryptoFees helps understand blockchain revenue for chains like Optimism, which is revenue that partially goes to public goods. Meanwhile, sites like L2Fees highlight the value that rollups like Optimism offer to users via lower fees.",
+  "contributionDescription": "Our team has built and continues to maintain a number of valuable info sites, most notably CryptoFees.info and L2Fees.info. These sites have become popular throughout the community for their ability to communicate fundamentals of the blockchain ecosystem and understand the various projects in these ecosystems.\n\nMaintaining these sites requires us to maintain over 100 different adapters to gather data, while collaborating with the respective teams behind these projects. Our team must also work through the ever-growing backlog of new protocols (chains, DeFi protocols, etc) that are aiming to be listed on the site.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/crypto-stats",
+      "description": "CryptoStats Github"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/dmihal/crypto-fees",
+      "description": "CryptoFees Github"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "CryptoFees unique visitors (12m)",
+      "number": "460000",
+      "url": "https://analytics.cryptostats.community/cryptofees.info?period=12mo"
+    },
+    {
+      "description": "CryptoFees unique visitors (30d)",
+      "number": "25300",
+      "url": "https://analytics.cryptostats.community/cryptofees.info?period=30d"
+    },
+    {
+      "description": "L2Fees unique visitors (30d)",
+      "number": "13300",
+      "url": "https://analytics.cryptostats.community/l2fees.info?period=30d"
+    },
+    {
+      "description": "Adapter contributors",
+      "number": "47",
+      "url": "https://cryptostats.community/leaderboard"
+    },
+    {
+      "description": "Active adapters",
+      "number": "441",
+      "url": "https://cryptostats.community/leaderboard"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 22005,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 18549.22,
+      "description": ""
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 5400,
+      "description": "Sponsorship revenue"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xab83d229faac28758e30acbbbcec653ce3dcc6f98b4b62ce20ee5e963e5ba606",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 34,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Research & Analytics"
+}

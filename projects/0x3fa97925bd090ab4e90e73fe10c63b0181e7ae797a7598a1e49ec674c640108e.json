@@ -1,0 +1,52 @@
+{
+  "bio": "i am a trader in crypto",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "cryptofact",
+  "websiteUrl": "https://t.me/+EXJDxdYSXik2YmRk",
+  "applicant": {
+    "address": {
+      "address": "0xeE1D6Ea2D011C664e4baA4ea63444D87745439B6",
+      "resolvedName": {
+        "address": "0xeE1D6Ea2D011C664e4baA4ea63444D87745439B6",
+        "name": "cryptofact.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xeE1D6Ea2D011C664e4baA4ea63444D87745439B6"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeE1D6Ea2D011C664e4baA4ea63444D87745439B6.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb84b7a0c44f733d5d82ee0541bbfd5881aac6797921fab24b06b55b21b1dffcf"
+  },
+  "impactDescription": "Real impact stems from passion, a love for what you do.\nFix the problem in front of you, together. \u2192 Chances are if you have a problem, someone else has that problem as well. Let\u2019s fix it together! What caused the problem? How do you fix it, and can we work together to fix it for everyone else?\nDo it with optimism. \u2192 Be kind, patient and optimistic in everything you do.\nMost importantly, make sure that your contributions align with the Collective Intents (opens new window). This will help ensure that your contribution is working towards a larger goal of the Collective.",
+  "contributionDescription": "The Optimism Collective believes that building public goods should be rewarded.\n\nThis key ingredient to the Optimistic vision (opens new window)is more than just altruism \u2013 it\u2019s core to our success. Optimism\u2019s codebase itself is an open-source project, and builds on the shoulders of countless OSS giants which came before it.\n\nThis means public goods funding is a critical growth strategy. For Optimism, well-funded public goods means better developer tooling, widespread user education, safer infrastructure, and industry-leading research. It means Optimism can last and thrive.\n\nOnce we show that this model can drive a successful economy for the Optimism Collective, we can scale the principle of impact = profit to the world!\n\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://t.me/+EXJDxdYSXik2YmRk",
+      "description": "on telegram"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "download",
+      "number": "1",
+      "url": "https://t.me/+EXJDxdYSXik2YmRk"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0.1,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3fa97925bd090ab4e90e73fe10c63b0181e7ae797a7598a1e49ec674c640108e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

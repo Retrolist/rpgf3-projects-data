@@ -1,0 +1,52 @@
+{
+  "bio": "Crypto, finance & economics education.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Alex",
+  "websiteUrl": "https://nuggetsnews.com.au/",
+  "applicant": {
+    "address": {
+      "address": "0x87e92EF9f04631B9471674FA72347341EfAFF8CC",
+      "resolvedName": {
+        "address": "0x87e92EF9f04631B9471674FA72347341EfAFF8CC",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x87e92EF9f04631B9471674FA72347341EfAFF8CC"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x87e92EF9f04631B9471674FA72347341EfAFF8CC.png",
+    "id": "OptimistProfile|0xe96f8f6f79927c0fff8285e8823f43f779e5379041dcc44ef9ff20e425e5b79a"
+  },
+  "impactDescription": "Hopefully this tutorial covering how to use Optimism, connect wallet, bridge to Uniswap & so on has helped many people do so safely, educate them on how to use other projects & protocols in the Optimism ecosystem & helped the growth of users in Optimism in general.",
+  "contributionDescription": "I believe my tutorial was the first covering how to use Optimism, connect wallet, bridge to Uniswap & so on. It has been viewed by 10s of 1000s of people on Youtube, Facebook & Twitter. I have also been an ongoing supporter of the Optimism ecosystem & it's projects to this day. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/l5iaOkW81vg?si=2s52zeUSvIc_z1vO",
+      "description": "First tutorial on how to use Optimism on Youtube, Twitter & Facebook."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": "15000",
+      "url": "https://youtu.be/l5iaOkW81vg?si=2s52zeUSvIc_z1vO"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1400,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x31f4c20441b6b2e30e85c03e2aceee220d2e148af31f4b6fe94a69d22878d101",
+  "prelimResult": "Remove",
+  "reportReason": "out of scope"
+}

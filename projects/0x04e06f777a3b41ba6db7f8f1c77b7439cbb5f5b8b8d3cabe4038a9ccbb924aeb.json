@@ -1,0 +1,78 @@
+{
+  "bio": "Highly motivate  for create in WEB 3",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Onboard en Per\u00fa Optimistas e Indexer ",
+  "websiteUrl": "https://www.linkedin.com/in/liviapanezuxproduct/",
+  "applicant": {
+    "address": {
+      "address": "0xca47Bb2FfB7eAEa5517ee6420f6cc4535307C297",
+      "resolvedName": {
+        "address": "0xca47Bb2FfB7eAEa5517ee6420f6cc4535307C297",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xca47Bb2FfB7eAEa5517ee6420f6cc4535307C297"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xca47Bb2FfB7eAEa5517ee6420f6cc4535307C297.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xdc63000aebf0081dc441537aa091506d17d62cc9462c19d1207b5ab714628e95"
+  },
+  "impactDescription": "Onboard web2 people to web3, First I invite people from Data Science, data analitics .\nNo one knows about optimism and The graph. As blockchain \n technologies are still new in some regions, these outreach efforts help Optimism stay relevant in emerging markets like Latin America.\n\nwhat information is still needed orhow Optimism could be communicated better cross-culturally. (More tangible Projects)\n\nLeveraging Partners: Demonstrating how Optimism and The Graph complement each other showed developers synergy between protocols. Increased cooperation opens doors for more innovative multi-chain projects. \n\nI try to do poaps and her dao comunity help me but it was my first time and I didnt share with others because the link doesnt work.",
+  "contributionDescription": "I organized an event to share how blockchain technology can be used alongside a data indexing solution like The Graph to build useful applications in a more accessible way. I explained what Optimism is, especially OPSTACK, and how it functions as a layer 2 solution that can deploy Ethereum applications more quickly and cost-effectively. I also provided concrete examples of how The Graph and Optimism could be applied together, such as to create decentralized marketplaces or DeFi apps. With the goal of bringing these technologies to more developers in Latin America, I also shared Spanish-language community channels where people can learn about and get involved in blockchain projects.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/presentation/d/1iWvgxCll0u-OLKAQEkgS_LLgT0P7qi02oVQGJKshnJI/edit?usp=sharing",
+      "description": "Presentation Optimistas +her dao+the graph"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://drive.google.com/file/d/1xcUObEp7SXEHoLmEf5RrEpPP4kQxFREU/view?usp=sharing",
+      "description": "Video about presential talk"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "User Register",
+      "number": "38",
+      "url": "https://lu.ma/Liviapanez"
+    },
+    {
+      "description": "Interested in Governance",
+      "number": "2",
+      "url": "https://drive.google.com/drive/folders/1oHQUOr45JFERjN1aP5Tg3SVl-736zc3C"
+    },
+    {
+      "description": "Interested in be a DEV",
+      "number": "1",
+      "url": "https://drive.google.com/drive/folders/1oHQUOr45JFERjN1aP5Tg3SVl-736zc3C"
+    },
+    {
+      "description": "They know Optimism",
+      "number": "18",
+      "url": "https://drive.google.com/drive/folders/1oHQUOr45JFERjN1aP5Tg3SVl-736zc3C"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 500,
+      "description": "reto pgs"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x04e06f777a3b41ba6db7f8f1c77b7439cbb5f5b8b8d3cabe4038a9ccbb924aeb",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 31,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Conferences, Events & Hackathons"
+}

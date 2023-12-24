@@ -1,0 +1,73 @@
+{
+  "bio": "AI Assistant for Optimism Governance",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Glaucon",
+  "websiteUrl": "https://glaucon.me/",
+  "applicant": {
+    "address": {
+      "address": "0xb9e3BA10B66294C25aD6a8924f42f4D9AACa4F50",
+      "resolvedName": {
+        "address": "0xb9e3BA10B66294C25aD6a8924f42f4D9AACa4F50",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xb9e3BA10B66294C25aD6a8924f42f4D9AACa4F50"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb9e3BA10B66294C25aD6a8924f42f4D9AACa4F50.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xb9e3BA10B66294C25aD6a8924f42f4D9AACa4F50.png",
+    "id": "OptimistProfile|0x41b82f562e8bb5dcfc18911a5d27a2fa510de08c9b77b414fae3faca4483d721"
+  },
+  "impactDescription": "Glaucon made navigating the Optimism governance resources much more easier using specific knowledge bases and evolving with user feedback. Glaucon has a flow where each question it's unable to answers gets recorded in a table, which are later evaluated to determine whether or not they are relevant to this project's scope. \n\nWith this approach, hundreds of questions were collected step by step, and so far 10+ knowledge bases are connected to cover everything users are curious about. Rather than trying to start with a perfect product, this process created an application that fits much better to the users' needs.\n\nCurrently, as our knowledge bases, we have vectorized data from: OP blogs, optimism docs, (partially) governance forum, (partially) Agora and more",
+  "contributionDescription": "When it comes to Optimism governance, there are too many sources to keep up with even for a governance nerd - let alone an average user. All of a sudden you might be out of the loop and finding the answers to your questions becomes quite a hassle. Well, not anymore, Glaucon has the answers.\n\nWeb widget: Glaucon is available as a web widget that can be embedded to any website for free by adding 2 lines of code. \nWebhook: Glaucon has a webhook url which enables usage in any app if they need something beyond a simple web widget\nTelegram Bot: This bot is probably the easiest way to talk to Glaucon, feedback for this integration was very positive as telegram is quite popular among web3 users\nSlack Bot: Glaucon is also available for teams that want to have it as a bot on their slack workspaces",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://glaucon.me/",
+      "description": "Glaucon Website & Web Widget Example"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/Glaucon_bot",
+      "description": "Glaucon Telegram Bot"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of Active Users",
+      "number": "1814",
+      "url": "https://docs.google.com/spreadsheets/d/11HDorvsHV5L2SopGiITVCVKjAzF8yidB8nIouy5IQy8/edit?usp=sharing"
+    },
+    {
+      "description": "Monthly Web Visits",
+      "number": "21643",
+      "url": "https://docs.google.com/spreadsheets/d/11HDorvsHV5L2SopGiITVCVKjAzF8yidB8nIouy5IQy8/edit?usp=sharing"
+    },
+    {
+      "description": "Monthly Total Messages",
+      "number": "19602",
+      "url": "https://docs.google.com/spreadsheets/d/11HDorvsHV5L2SopGiITVCVKjAzF8yidB8nIouy5IQy8/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Any Revenue"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Any Grant"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x6659104bceabe31f50407a7388b91cec589be2012160990467a54d2733d8c0f2",
+  "prelimResult": "Remove",
+  "reportReason": "['domain Creation Date: 2023-10-18T15:59:05Z,1.8k users and 21k views in 12days??']"
+}

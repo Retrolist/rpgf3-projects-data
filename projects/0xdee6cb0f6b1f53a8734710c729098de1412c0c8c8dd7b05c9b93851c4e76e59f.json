@@ -1,0 +1,98 @@
+{
+  "bio": "A media hub highlighting Web3 tech's role in positive social change.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Web3ForGood",
+  "websiteUrl": "https://web3forgood.substack.com/",
+  "applicant": {
+    "address": {
+      "address": "0xB79F0156573A54e852fB9Ac7b5Bc6250B33405a0",
+      "resolvedName": {
+        "address": "0xB79F0156573A54e852fB9Ac7b5Bc6250B33405a0",
+        "name": "abeeraakhtar.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xB79F0156573A54e852fB9Ac7b5Bc6250B33405a0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB79F0156573A54e852fB9Ac7b5Bc6250B33405a0.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB79F0156573A54e852fB9Ac7b5Bc6250B33405a0.png",
+    "id": "OptimistProfile|0x59649f02108ee037eb3cd17e7ac50b634f87a732c3760a76a6d9f8633b239330"
+  },
+  "impactDescription": "With 82 editions, Web3ForGood expands Web3 and social impact knowledge beyond the usual tech-savvy circles, introducing Optimism to a broader audience. As a reliable resource, it educates and supports professionals in tech and social impact. The newsletter not only demystifies Optimism but keeps readers updated on Web3's potential for positive change.",
+  "contributionDescription": "Web3ForGood is a media community run by two friends in the nonprofit and social impact sectors. We publish a weekly newsletter, \"This Week in Web3ForGood,\" aiming to demystify Web3 tech for social impact professionals. The platform serves as a bridge between tech builders and those focused on social change, offering educational opportunities and content at the intersection of tech and impact. Notably, the newsletter introduced the concept of Optimism to a curious yet skeptical audience. This sparked interest in Quadratic Funding, Impact Certificates, the Merge, and Rollups, leading to a detailed series on Optimism. Growth has been organic, emphasizing the community's value in facilitating meaningful discourse.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://web3forgood.substack.com/",
+      "description": "82 Weekly Newsletters"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@web3forgood",
+      "description": "Written 34 pieces of original content"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@web3forgood/rollups-101-cd217bacb2d9",
+      "description": "Rollups 101: An introduction to Rollups"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@web3forgood/being-optimistic-ad84c08220d2",
+      "description": "Being Optimistic: An introduction to Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@web3forgood/op-stack-and-superchain-579af2d072e7",
+      "description": "OP Stack and Superchain: Introduction to the OP Stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/@web3forgood/the-impact-professionals-guide-to-the-merge-7851293594a5",
+      "description": "The Impact Professional\u2019s Guide to The Merge"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/p/6d38b1587f3e",
+      "description": "What is Quadratic Funding and how does it change how we fund public goods?"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/p/39cb62ef1861",
+      "description": "Impact Certificates 101"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://medium.com/p/8010e92b3433",
+      "description": "Using Web3 to Deliver Flood Relief to Pakistan (An Optimism NFT project)"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": " # of views on Optimism Related Articles",
+      "number": "996",
+      "url": "https://docs.google.com/spreadsheets/d/1n44rhwLoV_ODIAWW_nLEEbj4Yo4jLhsdpg1zaXGHR8w/edit?usp=sharing"
+    },
+    {
+      "description": "Read Ratio (%) Optimism Related Articles",
+      "number": "54",
+      "url": "https://docs.google.com/spreadsheets/d/1n44rhwLoV_ODIAWW_nLEEbj4Yo4jLhsdpg1zaXGHR8w/edit?usp=sharing"
+    },
+    {
+      "description": "Number of Subscribers + Weekly Readers",
+      "number": "536",
+      "url": "https://docs.google.com/spreadsheets/d/1n44rhwLoV_ODIAWW_nLEEbj4Yo4jLhsdpg1zaXGHR8w/edit#gid=671527283"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xdee6cb0f6b1f53a8734710c729098de1412c0c8c8dd7b05c9b93851c4e76e59f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 31,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

@@ -1,0 +1,49 @@
+{
+  "bio": "Web3 enthusiast. Progressing the distributed movement!",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "markg85",
+  "websiteUrl": "https://github.com/markg85/",
+  "applicant": {
+    "address": {
+      "address": "0xF03214714ddc99856eB9301D2c945195974064da",
+      "resolvedName": {
+        "address": "0xF03214714ddc99856eB9301D2c945195974064da",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xF03214714ddc99856eB9301D2c945195974064da"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x36131a24f493a6e7326c38d9332bb6ff7b0c46ef621575ef6a71b676d940d184"
+  },
+  "impactDescription": "Previously users had to specify an IPFS URL like this:\ncurl https://ipfs.io/ipfs/bafybeigagd5nmnn2iys2f3doro7ydrevyr2mzarwidgadawmamiteydbzi\n\nThat defines a central point of entry (the https://ipfs.io). Ideally you want the user to specify just the IPFS parts, the gateway needs to be a configuration. The changes made in curl 8.4.0 do exactly that. Users can now use an IPFS URL like this:\ncurl ipfs://bafybeigagd5nmnn2iys2f3doro7ydrevyr2mzarwidgadawmamiteydbzi\n\nThe gateway is effectively reduced to a configuration detail. Users of curl now don't need to share the gateway anymore and can instead use plain simple IPFS URLs.\n\nCURL is estimated to be installed at ~20 billion places making this a potential huge impact for IPFS adoption and another step in a more distributed world.",
+  "contributionDescription": "Adding IPFS support in CURL took 506 days (see contribution PR link) which landed in the 8.4.0 release. Available as of Oct 11th 2024.\n\nThis contribution is two-fold.\n\n1. It allows a user to set an IPFS gateway to use for IPFS URLs (ipfs:// and ipns://). If a local node is installed and running, curl will try and find it's configured gateway without any additional user configuration.\n\n2. It translates IPFS URLs internally to the defined (or detected) gateway thus giving the user a smooth IPFS usage experience without them ever seeing the gateway part of a URL.\n\nThese additions to CURL make it accept the IPFS URLs without the need to prefix them with a gateway (a central point of entry).",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://github.com/curl/curl/pull/8805",
+      "description": "PR"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Downloads (billions!)",
+      "number": "20000000000",
+      "url": "https://curl.se/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x0e82e66b2949507a8858863d4c4d886d2e582341e6f5f8b33ddaa0082edae04d",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 9,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

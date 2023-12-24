@@ -1,0 +1,45 @@
+{
+  "bio": "i am too seet, few shots of me can give u diabetes. ",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Nawaj",
+  "websiteUrl": "https://twitter.com/OmiSaiful",
+  "applicant": {
+    "address": {
+      "address": "0x340e0850fae2f6E81110Dab949A9da949859bAE0",
+      "resolvedName": {
+        "address": "0x340e0850fae2f6E81110Dab949A9da949859bAE0",
+        "name": "nawaj.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x340e0850fae2f6E81110Dab949A9da949859bAE0"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x583bd0c7e9fba2f1033fb066f9bf28dc4009ead36151c6cccabc0ca2ccd5bc6e"
+  },
+  "impactDescription": "I think continuous contribution is very impactive for a blockchains broader development. My continuous usage of various dapps and platform will bring them incourageous to bring good product in web3. My transaction and tvl will help various dapps and defi",
+  "contributionDescription": "I have been using optimism chain from the very beginning. I regularly used various dapps and defi platform and collect various projects nft. I love to use optimism chain continuously for web 3. It\u2019s optimistic ruller is very affective in web3. For me it\u2019s the best layer 2 solution.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x340e0850fae2f6E81110Dab949A9da949859bAE0#tokentxnsErc721",
+      "description": "U can find my account transaction here"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Debank",
+      "number": "1",
+      "url": "https://debank.com/profile/0x340e0850fae2f6e81110dab949a9da949859bae0/history"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xdd0c9a82d761227670cd40dbc047cb8d2f9896e41012b99a9b90604b048b7bb6",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

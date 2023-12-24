@@ -1,0 +1,60 @@
+{
+  "bio": "We are building consensus layer client Grandine and EIP-4844 ecosystem.",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Grandine",
+  "websiteUrl": "https://grandine.io",
+  "applicant": {
+    "address": {
+      "address": "0x93B9f5A8E531C3C8D5048a797F6Ead8CF78FEF36",
+      "resolvedName": {
+        "address": "0x93B9f5A8E531C3C8D5048a797F6Ead8CF78FEF36",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x93B9f5A8E531C3C8D5048a797F6Ead8CF78FEF36"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x93B9f5A8E531C3C8D5048a797F6Ead8CF78FEF36.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x93B9f5A8E531C3C8D5048a797F6Ead8CF78FEF36.png",
+    "id": "OptimistProfile|0xeff24f3bf7fe60ff2ae1b32d3f57a412bc0d2976a9732cff36701bd5e6f76fd3"
+  },
+  "impactDescription": "We have built a high-performance EIP-4844 library that works as a drop-in replacement for a reference c-kzg-4844 library. The performance comparison can be found here https://github.com/sifraitech/rust-kzg .\n\nOur main product Ethereum consensus layer client Grandine has the fastest state transition function. Our goal is to push the consensus layer performance further.",
+  "contributionDescription": "Our mission is to build the fastest Ethereum consensus layer client and related ecosystem. The consensus layer performance is critical for growing Ethereum validator list and scaling features such as blob transactions that help to scale Optimism (and other L2s)! We have already open-sourced some parts such as the high-performance rust-kzg https://github.com/sifraitech/rust-kzg library for EIP-4844 and we are in progress open-sourcing the rest. The client is currently available as a binary release for evaluation, which is used by a couple of percent of the mainnet according to MigaLabs ( https://monitoreth.io/validators ). ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://grandine.io",
+      "description": "Best way to learn about Grandine is to check the https://grandine.io website."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/sifraitech/rust-kzg",
+      "description": "Rust-kzg is and EIP-4844 library."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Stargazers",
+      "number": "77",
+      "url": "https://github.com/sifraitech/rust-kzg/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 2115,
+      "description": "We received a 2115 OP reward for our work on rust-kzg."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf83fdb938a8b8cbf31494f30e9768fa95b732e03ef41578215b725a95973e9dd",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 24,
+  "primaryCategory": "OP Stack",
+  "recategorization": "Ethereum Development & Maintanance"
+}

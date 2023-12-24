@@ -1,0 +1,45 @@
+{
+  "bio": "An Indian immigrant wandering metaverse",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Gopal Krishnan vk",
+  "websiteUrl": "https://twitter.com/gopalkrishnanvk",
+  "applicant": {
+    "address": {
+      "address": "0x67cdb2b891a9e8179BACd1009FBcE3e3c4E27F86",
+      "resolvedName": {
+        "address": "0x67cdb2b891a9e8179BACd1009FBcE3e3c4E27F86",
+        "name": "nuvama.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x67cdb2b891a9e8179BACd1009FBcE3e3c4E27F86"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x67cdb2b891a9e8179BACd1009FBcE3e3c4E27F86.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xcea88e38428081f4e552b5ed402a9962cc16433936d9697bff970cf5ae5f5acc"
+  },
+  "impactDescription": "Ensuring the Bedrock release is as close to 100% Ethereum-equivalent as possible is good for developers in our community. Inheriting improvements from L1 will require much less lift from developers who work on Optimism at a protocol level. It will also reduce the load on the OP Labs engineering team and help them build with our community in mind. Minimally modified execution clients make it easy for us to stay up to date with Ethereum Mainnet changes as they are implemented.",
+  "contributionDescription": "Ensuring the Bedrock release is as close to 100% Ethereum-equivalent as possible is good for developers in our community. Inheriting improvements from L1 will require much less lift from developers who work on Optimism at a protocol level. It will also reduce the load on the OP Labs engineering team and help them build with our community in mind. Minimally modified execution clients make it easy for us to stay up to date with Ethereum Mainnet changes as they are implemented.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/",
+      "description": "Description"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Description",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x0d0f937209da42625bb74a0068fde5d23faa50406416a8d9cc18de1b716acd65",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,54 @@
+{
+  "bio": "Passionate civil engineer with an insatiable curiosity for web3.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Mamu",
+  "websiteUrl": "https://twitter.com/Elmamu28",
+  "applicant": {
+    "address": {
+      "address": "0x01CC4621fD5AC53ED5a0b2D727Cf6F7a3e249475",
+      "resolvedName": {
+        "address": "0x01CC4621fD5AC53ED5a0b2D727Cf6F7a3e249475",
+        "name": "elmamu28.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x01CC4621fD5AC53ED5a0b2D727Cf6F7a3e249475"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x01CC4621fD5AC53ED5a0b2D727Cf6F7a3e249475.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xda9b1075dbcc5df61e8cb3f73451e526837e693aaa7425f086b8af4e4518c709"
+  },
+  "impactDescription": "My contributions to Optimism can have a significant impact:\n\n1. Testing and Bug Reports: By identifying and reporting bugs, you enhance the platform's reliability, ensuring a smoother experience for users and developers.\n\n2. Documentation Improvement: Clearer documentation makes it easier for more people to understand and use Optimism, expanding its user base.\n\n3. Active Governance Participation: Your involvement in governance discussions helps shape the project's direction, ensuring it aligns with the community's needs and goals.\n\n4. Community Engagement: Engaging on platforms like Twitter can raise awareness, attract more users, and foster a vibrant community around Optimism.",
+  "contributionDescription": "I'm looking to contribute to Optimism in these ways:\n1. Test and report bugs for platform stability.\n2. Enhance documentation for user-friendliness.\n3. Actively participate in governance discussions.\n4. Engage with the community through platforms like Twitter.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/Elmamu?tab=repositories",
+      "description": "Web3 enthusiast"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Github",
+      "number": "1",
+      "url": "https://github.com/Elmamu?tab=repositories"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 200,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xecddc0263acf334855516092ccb102d2eabf12012836fe262e83ad40a0cbb14e",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,61 @@
+{
+  "bio": "Ethereum implementation on the efficiency frontier",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Erigon",
+  "websiteUrl": "https://erigon.ch/",
+  "applicant": {
+    "address": {
+      "address": "0x9D20893054afC4A74b856089c44F9A09d1C38Db0",
+      "resolvedName": {
+        "address": "0x9D20893054afC4A74b856089c44F9A09d1C38Db0",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9D20893054afC4A74b856089c44F9A09d1C38Db0"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x0fdb21f74f1121ce6c15bc3e4b02b3e1e27a6bfd5dff236dac6196d32efdfaef"
+  },
+  "impactDescription": "Upstream Erigon serves as the basis for op-erigon, an Optimism fork of Erigon. Besides excelling as an archive node, op-erigon helps to improve client diversity. Test in Prod, a team external to OP Labs and Erigon AG, achieved this exciting development, demonstrating the power of the modular and open-source OP Stack.\n\nWhile this first version of Optimistic Erigon needs ongoing testing to ensure stability and prepare for an eventual OP Mainnet launch, it represents a massive milestone in L2 client diversity.",
+  "contributionDescription": "Erigon is an implementation of the Execution Layer and, since recently, of the Consensus Layer (project \"Caplin\") of Ethereum and other EVM-based blockchains. It especially excels as an archive node with a low disk footprint and high performance. We strive to push the boundaries of what's possible on blockchain. Next year, we're going to release Erigon 3, which will further reduce the disk footprint, increase the speed, provide state history with transaction-level granularity and reduce the sync time for new nodes.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/ledgerwatch/erigon",
+      "description": "Source code repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://erigon.substack.com/",
+      "description": "Erigon blog"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "increased client diversity",
+      "number": "1",
+      "url": "https://blog.oplabs.co/client-diversity/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 141650,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x5e1a1935ed36efc2ec04539193d0dd68a4807f782a0cde2dd555e0933a344d0f",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 92,
+  "primaryCategory": "OP Stack",
+  "recategorization": "Ethereum Development & Maintanance"
+}

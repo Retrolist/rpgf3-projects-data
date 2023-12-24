@@ -1,0 +1,126 @@
+{
+  "bio": "Working towards increasing Latin Americans participation in governance.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "SEED Latam",
+  "websiteUrl": "https://seedlatam.org/",
+  "applicant": {
+    "address": {
+      "address": "0x0087a081a9B430fd8f688c6ac5dD24421BfB060D",
+      "resolvedName": {
+        "address": "0x0087a081a9B430fd8f688c6ac5dD24421BfB060D",
+        "name": "seedlatam.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x0087a081a9B430fd8f688c6ac5dD24421BfB060D"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0087a081a9B430fd8f688c6ac5dD24421BfB060D.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0087a081a9B430fd8f688c6ac5dD24421BfB060D.png",
+    "id": "OptimistProfile|0xdc7ba2855b263677fedf41e261a7819ad8402ed13723a9d65156398b1faeba0f"
+  },
+  "impactDescription": "We believe that community delegation positively influenced Optimism's forum, both in terms of quantity and quality.\n\nIn Latin America, we were pioneers in promoting governance topics in our region, even inspiring the creation of the first Brazilian Optimism community (https://x.com/OptimismPT/status/1703054570656760315).\n\nAs SEED Latam, we've made significant strides in the Optimism ecosystem, creating a delegation, forming a new community, changing our name, and expanding our team.\n\nThe most notable impact has been our collective governance experience, conducted in real-time, without becoming a DAO. We are committed to actively developing mechanisms to combat apathy and facilitate the democratization of information and decision-making within the Optimistic Collective.",
+  "contributionDescription": "SEED Latam ventured into governance on the Optimism forum, recognizing the challenges of engaging $OP holders and users. Over 16 months, we onboarded +150 Latin Americans into Optimistic Collective discussions, addressing language barriers and information asymmetry. We developed an internal meta-governance through an experimental process.\n\nOur contribution is our work in the forum and the documentation of this pilot project. The backbone consists of 15 community governance calls with 514 attendees who voted on 233 financial, organizational, and operational decisions.\n\nBeyond this, we promoted governance topics at online and IRL events, notably #GovernanceDay organized by SEED Latam (Buenos Aires, 2023), attracting 200 attendees with 3 talks on Public Goods and Optimism Governance.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/seedlatam.eth/KMHntv3I3vQzK7wxaP5h9ahNsZmvJnAnGPV3XwYd50c",
+      "description": "The Social Consensus of SEED Latam"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/seedlatam.eth/sTOUNZCmGQnaHcdHv-FikhKObuJDr7rJvzfRsswNH4o",
+      "description": "Impact Report of Optimism on the SEED Latam Community"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/seedlatam.eth/qZNP6qoSi5E5DYYCursYgWCiwCbPQH9feif6ZvtG8Gs",
+      "description": "SEED Latam's design, identity, and visual communication for Optimism"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/live/uHqSdKL7XZ0?si=8HTd-9h8y8h6jZq0",
+      "description": "Playlist Optimism Governance Calls"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtube.com/playlist?list=PLhTCvqIxiz5xvrL8npWbe5Sh-S1qoUKZ-&si=lTl2yK6UQUSbQPel",
+      "description": "Aula Abierta - Introductory Cycle on Governance"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=4AqvRyIVLS8&list=PLhTCvqIxiz5wxW4fe0-WSIJ7qVIo0vQWa&index=6",
+      "description": "#GovernanceDay: Gonna - Discovering the Future of Public Goods on Optimism (ES)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=OgqQXsYGch0&list=PLhTCvqIxiz5wxW4fe0-WSIJ7qVIo0vQWa&index=7",
+      "description": "#GovernanceDay: Pumbi - The Future of Optimism Governance (ES)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=qyRaaq-nTPg&list=PLhTCvqIxiz5wxW4fe0-WSIJ7qVIo0vQWa&index=8",
+      "description": "#GovernanceDay: Joxes - Deciphering Governance in Ethereum Rollups"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Governance calls conducted",
+      "number": "15",
+      "url": "https://docs.google.com/spreadsheets/d/1vykm8kQumMT5ex7BIAp1P6Wjyd--U7uMLtCkHTR8qlI/edit#gid=0"
+    },
+    {
+      "description": "Decisiones executed",
+      "number": "233",
+      "url": "https://docs.google.com/spreadsheets/d/1vykm8kQumMT5ex7BIAp1P6Wjyd--U7uMLtCkHTR8qlI/edit#gid=633453447"
+    },
+    {
+      "description": "Snapshot votes",
+      "number": "80",
+      "url": "https://docs.google.com/spreadsheets/d/1vykm8kQumMT5ex7BIAp1P6Wjyd--U7uMLtCkHTR8qlI/edit#gid=411102337"
+    },
+    {
+      "description": "Discord votes",
+      "number": "300",
+      "url": "https://docs.google.com/spreadsheets/d/1vykm8kQumMT5ex7BIAp1P6Wjyd--U7uMLtCkHTR8qlI/edit?usp=sharing"
+    },
+    {
+      "description": "Total POAP claimed (Gov Call OP)",
+      "number": "512",
+      "url": "https://dune.com/queries/3068615/5110860"
+    },
+    {
+      "description": "Minimum governance events attendees",
+      "number": "403",
+      "url": "https://docs.google.com/spreadsheets/d/1Sf0GhItI6RFEs62wG2Mv7rWxXZvtmUNDCqF4TsbV0Jw/edit?usp=sharing"
+    },
+    {
+      "description": "Tweets and Threads views",
+      "number": "125000",
+      "url": "https://docs.google.com/spreadsheets/d/1DiN9TYG9zKGz7ufaqDT6Wp5ZgS-qNmhGBmkCPr9XfFk/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 55061,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 461.42,
+      "description": "Gitcoin Beta Round"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 47,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Optimism Governance Contributions"
+}

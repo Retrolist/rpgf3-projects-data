@@ -1,0 +1,46 @@
+{
+  "bio": "A trader love music nfts.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "LuongDuyBatNha",
+  "websiteUrl": "https://www.sound.xyz/user/0x960371173bdb7963f881b13123999bcc537e2beb",
+  "applicant": {
+    "address": {
+      "address": "0x960371173BDb7963F881b13123999Bcc537e2BEB",
+      "resolvedName": {
+        "address": "0x960371173BDb7963F881b13123999Bcc537e2BEB",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x960371173BDb7963F881b13123999Bcc537e2BEB"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x960371173BDb7963F881b13123999Bcc537e2BEB.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x1cde1f2ed267e9bd5ad72d9210e52250f48bfdd8f300332468e0b74dcaa0b052"
+  },
+  "impactDescription": "I inspire the community about music NFTs. I help artists navigate the smooth launch of their music products in terms of pricing, minting quantities, and finding a loyal fan community who loves music NFTs on OP's network. We engage with the community by attracting individuals to mint music NFTs on sound.xyz and providing support to artists.",
+  "contributionDescription": "We are from Camel and Unwa and others who mint music nfts on sound.xyz\nThank you for build a very good layer 2 with low gas fee. I inspire the community about music NFTs. I help artists navigate the smooth launch of their music products in terms of pricing, minting quantities, and finding a loyal fan community who loves music NFTs on OP's network. We engage with the community by attracting individuals to mint music NFTs on sound.xyz and providing support to artists.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.sound.xyz/user/0x960371173bdb7963f881b13123999bcc537e2beb",
+      "description": "My profile on sound.xyz"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Mint driven by me in a week (#3 7Days)",
+      "number": "20",
+      "url": "https://www.sound.xyz/charts/top/curators/7d/total-volume"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x130f52d7d4540578bcd46e6656ef32ef46ab4bd67102b8cc872aa23e1581381f",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

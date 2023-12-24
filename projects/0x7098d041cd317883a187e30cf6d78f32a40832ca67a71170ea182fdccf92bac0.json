@@ -1,0 +1,48 @@
+{
+  "bio": "A content creator cum NFT Artist",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Harman Kiara",
+  "websiteUrl": "https://harman.substack.com",
+  "applicant": {
+    "address": {
+      "address": "0x40784A7b89d3C82862BAf1845c6A94716018cEf8",
+      "resolvedName": {
+        "address": "0x40784A7b89d3C82862BAf1845c6A94716018cEf8",
+        "name": "mahashraman.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x40784A7b89d3C82862BAf1845c6A94716018cEf8"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x40784A7b89d3C82862BAf1845c6A94716018cEf8.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x97ea935833240000d00edd502f314e9afac0d1610f94fc38ea7cb0f44f5db969"
+  },
+  "impactDescription": "                                                                                                                                                                                                                                                                  ",
+  "contributionDescription": "                                                                                                                                                                                                                                                                    ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "HTTPS://OPTIMISM.IO",
+      "description": "NFT SALES"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "NFT SALES",
+      "number": "9999",
+      "url": "HTTPS://OPTIMISM.IO"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7098d041cd317883a187e30cf6d78f32a40832ca67a71170ea182fdccf92bac0",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

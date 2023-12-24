@@ -1,0 +1,91 @@
+{
+  "bio": "Supra is a middleware network pioneering cross-chain oracle solutions.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "SupraOracles",
+  "websiteUrl": "https://supra.com",
+  "applicant": {
+    "address": {
+      "address": "0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5",
+      "resolvedName": {
+        "address": "0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5.png",
+    "id": "OptimistProfile|0x40c0d58d069f6b512d2eeec5472e37c094f6ff92e2238b8814581ad2259d88fa"
+  },
+  "impactDescription": "Supra\u2019s DVRF, the first VRF on Base and Mantle, provides fair random numbers for blockchain gaming and casinoFi, aiding developers in powering dapps with on-chain verifiable randomness. Its VRF design, recognized by ACM CCS 2023, ensures low-latency and security. As the lone oracle provider on Rollux, SupraOracles delivers on-chain price updates for 150 data pairs every 30 seconds, attracting dapps for various protocols. Its oracle chain offers real-world, real-time data access via a unified contract on Rollux, simplifying developer interactions.",
+  "contributionDescription": "We have deployed our Distributed Verifiable Random Function (DVRF) service to Optimism, Base, and Mantle mainnets. We are the first VRF solution on Base and Mantle. \n\nWe have deployed our Distributed Oracle Agreement (DORA), or oracle price feeds push-model with historical consistency check, to Rollux mainnet (built on OP stack).\n\nWe are offering free access to our services on mainnet through our Supra Network Activate Program.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x745d8beC4b46553629FF277Aad62F579CAB96DE4",
+      "description": "Optimism Mainnet VRF Router"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x82aedcc0d208ace1d773e785f182db5b52d9d0cc",
+      "description": "Optimism Mainnet VRF Deposit"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0x73970504df8290e9a508676a0fbd1b7f4bcb7f5a",
+      "description": "Base Mainnet VRF Router"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://basescan.org/address/0xaf2ee23d1ff837a02d4d58c07a97561f5709fcb2",
+      "description": "Base Mainnet VRF Deposit"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://explorer.mantle.xyz/address/0xa7C632CdDe44B5B859B385A04A5BcCdeB1582f94",
+      "description": "Mantle Mainnet VRF Router"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://explorer.mantle.xyz/address/0x2fa8f105500ed403f45741e65eE347fc895B63a6",
+      "description": "Mantle Mainnet VRF Deposit"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://explorer.rollux.com/address/0xbc0453F6FAC74FB46223EA5CC55Bd82852f0C670",
+      "description": "Rollux Mainnet DORA"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "VRF docs",
+      "number": "1",
+      "url": "https://supraoracles.com/docs/vrf"
+    },
+    {
+      "description": "Syscoin Rollux mainnet data dashboard: ",
+      "number": "1",
+      "url": "https://supraoracles.com/data/networks/syscoin_rollux?nid=113"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "N/A, we haven\u2019t received any OP to date."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xc3ad567e82145d15987c82efccc1aee7803bb69750cf221f2c68165c688c1878",
+  "prelimResult": "Keep",
+  "reportReason": "Website seems to promote an ICO",
+  "includedInBallots": 4,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

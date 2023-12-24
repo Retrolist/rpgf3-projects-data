@@ -1,0 +1,70 @@
+{
+  "bio": "Solidly powered seigniorage protocol on Base Chain, pegged to Ethereum! ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Based Farm",
+  "websiteUrl": "https://based.farm/",
+  "applicant": {
+    "address": {
+      "address": "0x0eB2F36C1ac5984B3769574F9Ff0c71B5922f26A",
+      "resolvedName": {
+        "address": "0x0eB2F36C1ac5984B3769574F9Ff0c71B5922f26A",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x0eB2F36C1ac5984B3769574F9Ff0c71B5922f26A"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0eB2F36C1ac5984B3769574F9Ff0c71B5922f26A.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0eB2F36C1ac5984B3769574F9Ff0c71B5922f26A.png",
+    "id": "OptimistProfile|0x3c9678dc173f5b0c3496d9ccb0ec48bd35f802a7524536ec195941c6724b9724"
+  },
+  "impactDescription": "Our protocol, Based.Farm, enriched the Optimism Collective by introducing an innovative seigniorage model, enhancing scalability and liquidity on the Base Chain and Ethereum. Utilizing the OP Stack, we fostered a robust environment for stable asset management, minimized slippage, and mitigated volatility. This has amplified user engagement and participation, strengthening the community and fostering a collaborative ecosystem. Our contributions facilitated a more resilient and diverse DeFi landscape within the Optimism ecosystem, driving adoption and promoting sustainable growth.",
+  "contributionDescription": "Based.Farm has innovatively employed the Optimism (OP) Stack, enhancing Base Chain\u2019s scalability and Ethereum liquidity. Our protocol utilizes Solidly (AerodromeFi) for optimized efficiency, and strategic mechanisms for dynamic liquidity management, reducing volatility and maintaining price stability. Leveraging stable AMMs, we minimize slippage, supporting robust asset pools like BASED-ETH. Our design fosters community engagement, individual strategy optimization, and broader ecosystem participation, driving adoption and continuous activity in the Optimism ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/BasedDotFarm",
+      "description": "Discover, explore, and review our protocol's detailed code on GitHub."
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://docs.based.farm/Contracts-Wallets",
+      "description": "Verify our real-time contract activities and ensure accountability on Base Scan."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://based.farm/xxx777-pass",
+      "description": "Unlock exclusive access, insights, and unique NFT rewards with the Based Pass."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Volume (10-30% of Aerodrome)",
+      "number": "10000000",
+      "url": "https://dune.com/0x_danw/veaero-rewards-program"
+    },
+    {
+      "description": "Token Holders",
+      "number": "628",
+      "url": "https://basescan.org/token/0x9CBD543f1B1166b2Df36b68Eb6bB1DcE24E6aBDf"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": "We have not received any grants"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3b9c2afa15af7f244fba23d13de2ffbd6d87968031ec84c54c28e1716a4dd12b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

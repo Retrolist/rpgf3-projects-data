@@ -1,0 +1,160 @@
+{
+  "bio": "Mobile Web3 Gaming & VR/AR Society",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "JEFE TOKEN",
+  "websiteUrl": "https://jefetoken.com",
+  "applicant": {
+    "address": {
+      "address": "0x3f9104a933b9CfEF0a1a0cA0e42C552b9df741c8",
+      "resolvedName": {
+        "address": "0x3f9104a933b9CfEF0a1a0cA0e42C552b9df741c8",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3f9104a933b9CfEF0a1a0cA0e42C552b9df741c8"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3f9104a933b9CfEF0a1a0cA0e42C552b9df741c8.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3f9104a933b9CfEF0a1a0cA0e42C552b9df741c8.png",
+    "id": "OptimistProfile|0x346b5338c8bfe20ee9bf98962d5d429ef133c0841fff2accfde1c003fd8b33c9"
+  },
+  "impactDescription": "JEFE TOKEN advances in the Optimism ecosystem with our Layer 2 smart contract deployment. We keep our vibrant community informed through TikTok live sessions, showcasing the impact of uniting assets across gaming and communities.\n\nOur commitment extends to educating users weekly on blockchain development within the Optimism stack, empowering our community.\n\nWeekly rewards in JEFE Optimism tokens bridge our Layer 2 blockchain to existing contracts, enhancing the gaming experience. These tokens unlock exclusive Multiverse mobile game, JEFE Zombie, skins, using Optimism's attributes for additional points.\n\nJEFE TOKEN redefines traditional gaming, creating a seamless and rewarding experience in the Optimism ecosystem, merging technology, community, and innovation.",
+  "contributionDescription": "JEFE TOKEN makes significant contributions within the Optimism ecosystem by seamlessly integrating Optimism's layer 2 blockchain technology into web3 E-sports. Through this integration as rewards & the optimism explorer API communication, allows JEFE TOKEN to bridge communities & layer 1 chains, providing a mobile game. Leveraging the power of JEFE TOKEN in OPTIMISM, it pushes the boundaries of scalability & efficiency while fostering immersive gaming within the Multiverse of jefe zombie on iOS & Android. JEFE TOKEN is at the forefront of this dynamic convergence, uniting the worlds of blockchain, art, & community creating a new era of web3 gaming, setting the stage for a groundbreaking & vibrant gaming ecosystem & social impact  with virtual reality & augmented gaming tech with JEFE OP. ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x9fd22a17b4a96da3f83797d122172c450381fb88",
+      "description": "JEFE TOKEN OPTIMISM LAYER 2 SMART CONTRACT"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://sourcehat.com/audits/JEFE/",
+      "description": "JEFE TOKEN AUDIT BY SOLIDITY FINANCE (SOURCE HAT)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://jefetoken.com",
+      "description": "Official WEBSITE Jefe token"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.coingecko.com/en/coins/jefe",
+      "description": "Coingecko JEFE OPTIMISM "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://coinmarketcap.com/currencies/jefe-token/",
+      "description": "Coinmarketcap JEFE OPTIMISM "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://apps.apple.com/mx/app/jefe-zombie/id1638269161?l=en-GB",
+      "description": "iOS WEB3 Game Compatible with JEFE OPT & Sunday Competitions on tiktok live"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://play.google.com/store/apps/details?id=com.jefetoken.jefezombi3&hl=es_MX&gl=US",
+      "description": "Android WEB3 Game Compatible with JEFE OPT & Sunday Competitions on tiktok live"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/jefetoken",
+      "description": "Development Github repositories for Open Source Code from JEFE TOKEN"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=3GFuxIDYAy8",
+      "description": "JEFE sponsor kids of football team, helping them stay out of forced labor Mexico"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/jefetokencryptochat",
+      "description": "JEFE TOKEN Community Telegram channel "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.tiktok.com/@jefetoken/video/7058444050512350470",
+      "description": "Ex president of Mexico in support of JEFE community donations on Africa & LATAM"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://youtu.be/Wg3NBN7MzmQ",
+      "description": "Virtual Reality JEFE ZOMBIE Multiverse DEMO NFT & CROSS CHAIN GAME"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://ftmscan.com/address/0x5b2af7fd27e2ea14945c82dd254c79d3ed34685e",
+      "description": "FTM Layer 1 JEFE TOKEN Contract bridging JEFE OPTIMISM LAYER 2 (1,700 Holders)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://spooky.fi/#/farms",
+      "description": "JEFE TOKEN Layer 1 FTM & BOO DEFI HUB liquidity farming for JEFE OPTIMISM"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://spooky.fi/#/pools",
+      "description": "JEFE TOKEN Layer 1 BOO JEFE Staking HUB liquidity farming for JEFE OPTMISM "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/JefeTOKEN",
+      "description": "JEFE TOKEN X"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Transactions on JEFE OPTIMISM",
+      "number": "2000",
+      "url": "https://optimistic.etherscan.io/token/0x9fd22a17b4a96da3f83797d122172c450381fb88"
+    },
+    {
+      "description": "Downloads Android ",
+      "number": "1000",
+      "url": "https://play.google.com/store/apps/details?id=com.jefetoken.jefezombi3&hl=es_MX&gl=US"
+    },
+    {
+      "description": "Youtube Views",
+      "number": "3643",
+      "url": "https://socialblade.com/youtube/channel/UCn2Qjst9ywWDXXIpLgJdHcg"
+    },
+    {
+      "description": "Twitter Followers",
+      "number": "10213",
+      "url": "https://socialblade.com/twitter/user/jefetoken"
+    },
+    {
+      "description": "Holders Layer 1 to Superchain",
+      "number": "1667",
+      "url": "https://ftmscan.com/token/0x5b2af7fd27e2ea14945c82dd254c79d3ed34685e"
+    },
+    {
+      "description": "Tiktok Followers",
+      "number": "2270",
+      "url": "https://tiktok.com/@jefetoken"
+    },
+    {
+      "description": "Layer 1 NFTS ready to bridge L2",
+      "number": "457",
+      "url": "https://paintswap.finance/marketplace/fantom/collections/jefe-zombies-/statistics"
+    },
+    {
+      "description": "Kids With JEFE Scolarship",
+      "number": "20",
+      "url": "https://bajafootball.org/charity.html"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x0b411c4ad65b9d556e4cb414b09e63081ce572b737b01a219a2e9f3aa5ee82ca",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 18,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

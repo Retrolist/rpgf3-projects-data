@@ -1,0 +1,102 @@
+{
+  "bio": "Measure the impact of open source contributions. Onchain and off.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Open Source Observer",
+  "websiteUrl": "https://opensource.observer",
+  "applicant": {
+    "address": {
+      "address": "0x5a5D9aB7b1bD978F80909503EBb828879daCa9C3",
+      "resolvedName": {
+        "address": "0x5a5D9aB7b1bD978F80909503EBb828879daCa9C3",
+        "name": "cerv1.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x5a5D9aB7b1bD978F80909503EBb828879daCa9C3"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5a5D9aB7b1bD978F80909503EBb828879daCa9C3.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5a5D9aB7b1bD978F80909503EBb828879daCa9C3.png",
+    "id": "OptimistProfile|0x154a80ac623bce8084879c3ae2cd820915ac86f3085f02fa34a56f7517f924d8"
+  },
+  "impactDescription": "Open Source Observer helps OP citizens make smart grant funding decisions! We've created a strong foundation for measuring the activity and impact of open source software contributions in the Ethereum ecosystem. Although our data and analytics platform is less than 3 months old, we've already had outsized impact by helping badgeholders screen RPGF3 applicants, develop \"lists\" of RPGF projects based on impact metrics, and learn more about any project with a Github or smart contract address. ",
+  "contributionDescription": "We have built a registry of more than 300 open source software projects building on Optimism, and created a series of composable impact metrics based on projects' onchain and off-chain work. This makes it easy to track projects' developer activity, onchain user base, and contribution to OP sequencer fees. \n\nThe registry is free, fully open source, and an important building block for reviewing projects, creating RPGF3 Lists, and assisting voters.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/opensource-observer/oss-directory",
+      "description": "Curated directory of 700+ OSS projects' onchain addresses, git repos, and more."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/opensource-observer/oso",
+      "description": "Monorepo for Open Source Observer's indexers and frontend."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.opensource.observer/explore",
+      "description": "Dashboard showing activity and impact metrics for projects in Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://gov.optimism.io/t/a-review-of-rpgf2-and-ideas-for-how-data-can-improve-future-iterations/6438",
+      "description": "A review of RPGF2 and ideas for how data can improve future iterations "
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/opensource-observer/insights/blob/main/notebooks/2023-10-16%20Optimism%20Ecosystem%20Analysis.ipynb",
+      "description": "Analysis of 373 OSS projects contributing to the Optimism ecosystem."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Live metrics on Open Source Observer",
+      "number": "19",
+      "url": "https://www.opensource.observer/project/opensource-observer"
+    },
+    {
+      "description": "Number of OSS projects indexed",
+      "number": "782",
+      "url": "https://github.com/hypercerts-org/oss-directory"
+    },
+    {
+      "description": "Number of Optimism projects indexed",
+      "number": "373",
+      "url": "https://github.com/opensource-observer/oss-directory/blob/main/data/collections/optimism.yaml"
+    },
+    {
+      "description": "Twitter impressions",
+      "number": "10000",
+      "url": "https://twitter.com/carl_cervone/status/1679198417384243221"
+    },
+    {
+      "description": "Weekly downloads",
+      "number": "1743",
+      "url": "https://www.npmjs.com/package/oss-directory"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 50000,
+      "description": "https://app.charmverse.io/op-grants/page-37085606550601957"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 3000,
+      "description": "ETH Global Superhack: Best App for RetroPGF, Public Goods, or Measuring Impact "
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd8dd0f0bc1682dcd7c63bed3de0e0439282f7a7132658ada1c5cc5644bca3f30",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 64,
+  "primaryCategory": "Collective Governance",
+  "recategorization": "Optimism Governance Contributions"
+}

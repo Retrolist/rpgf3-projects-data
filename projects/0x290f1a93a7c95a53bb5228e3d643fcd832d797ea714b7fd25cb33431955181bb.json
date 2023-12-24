@@ -1,0 +1,50 @@
+{
+  "bio": "Onchain Collector",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "SBTC",
+  "websiteUrl": "https://www.sound.xyz/user/0xfa1dd83c9cda5bf2f626c68177ced85532136789",
+  "applicant": {
+    "address": {
+      "address": "0xFa1DD83c9cdA5bf2F626c68177cEd85532136789",
+      "resolvedName": {
+        "address": "0xFa1DD83c9cdA5bf2F626c68177cEd85532136789",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xFa1DD83c9cdA5bf2F626c68177cEd85532136789"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFa1DD83c9cdA5bf2F626c68177cEd85532136789.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFa1DD83c9cdA5bf2F626c68177cEd85532136789.png",
+    "id": "OptimistProfile|0x56c19ae9f5f3599b2652ab51356506de70bdf8f34e43515d874e9e5ee7b429a9"
+  },
+  "impactDescription": "With onchain collecting, it not only satisfies my passion for collecting but also supports artists on their journey to bring their products to the blockchain. This contributes to changing the general perception of a new revolution for all of us, from ordinary users to creators.\n\nEspecially the development of L2s, typically the OP chain with outstanding scalability, fast speed, low cost and extremely user-friendliness, helps me easily own works of unique digital art, creating a fun collecting experience and also a way for me to support artists and their work. By purchasing NFTs, I help create a more equitable income stream for artists than the traditional web2 method, giving them steady resources to focus on creating higher quality products.",
+  "contributionDescription": "I am an onchain collector passionate about blockchain technology and have spent a lot of time collecting many NFTs (Non-Fungible Tokens) on the OP blockchain since I started in this world. I have discovered and collected digital artworks, music, and various types of NFTs from platforms like Sound, AnotherBlock, Base, Decent, and many more. Collecting NFTs is not just a hobby for me, but also a way for me to explore and support artists and developers worldwide. I am proud of my NFT collection and look forward to continuing to discover and collect even more.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/user/0xfa1dd83c9cda5bf2f626c68177ced85532136789",
+      "description": "My sound's profile"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Artist Backed",
+      "number": "46",
+      "url": "https://www.sound.xyz/user/0xfa1dd83c9cda5bf2f626c68177ced85532136789"
+    },
+    {
+      "description": "NFT Collected",
+      "number": "559",
+      "url": "https://www.sound.xyz/user/0xfa1dd83c9cda5bf2f626c68177ced85532136789"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x290f1a93a7c95a53bb5228e3d643fcd832d797ea714b7fd25cb33431955181bb",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

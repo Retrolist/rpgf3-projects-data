@@ -1,0 +1,127 @@
+{
+  "bio": "The Rug is crypto's premier news satire outfit. We take money, seriously.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "The Rug",
+  "websiteUrl": "https://paragraph.xyz/@therugnews",
+  "applicant": {
+    "address": {
+      "address": "0x38C2e1A4Db953E666b6dfc6B354804cEa7738dDf",
+      "resolvedName": {
+        "address": "0x38C2e1A4Db953E666b6dfc6B354804cEa7738dDf",
+        "name": "zeromass.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x38C2e1A4Db953E666b6dfc6B354804cEa7738dDf"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x38C2e1A4Db953E666b6dfc6B354804cEa7738dDf.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x38C2e1A4Db953E666b6dfc6B354804cEa7738dDf.png",
+    "id": "OptimistProfile|0xadfb35911f4d323fb8999e0de895ee477c1ef670b6ab9d88a7ae5edd6d044409"
+  },
+  "impactDescription": "We have evidence that The Rug has made a positive impact on Optimists. As early adopters on mirror.xyz, we procured a custom subdomain (therug.mirror.xyz) and were off to the races. We\u2019ve been minting exclusively on Optimism since February 7th, 2022, with 92 satirical news articles, over 625 limited edition collects, generating 1.27 ETH selling at .002 ETH for each NFT. \n\nThe Rug directly enhances end-user adoption of Optimism by driving the collection of NFTs on-chain. Indirectly, The Rug is building an Optimisitc community through humor and satire, making poignant observations about crypto, and enhancing the experience of DeFi users more broadly. ",
+  "contributionDescription": "Being optimistic without humor is like being pessimistic without the ability to make everyone around you deeply depressed. If the goal is to build a thriving, happy Optimism community, it is certainly going to require some funny stuff. Otherwise, we\u2019re going to end up with a bunch of depressed builders who wonder why the heck they are working so hard in a bear market when they could just strike up a Faustian deal with Wells Fargo, Google, or Facebook.\n\nThe Rug\u2019s content has been offered for free via near-daily Twitter posts, and more recently, self-published articles on Paragraph that only require a free subscription to read. Prior to using Paragraph, The Rug published its articles on Mirror, and has used Optimism for minting NFTs of the articles on both platforms since February 2022. \n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x808a5bc4e075df40ab57cfb6d6e1dd7788227ca5",
+      "description": "Sample NFT mint of article \"El Salvador to Mint Its Constitution as Ordinal NFT\""
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x18e45d57ce92060c1683d85c30cde889889ce3f4",
+      "description": "Sample NFT mint of article \"Second Judge Rules the Shrug Emoji Nullifies Any...\""
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x2b1924534b601d60d783fedc649d141292b05e71",
+      "description": "Sample NFT mint of article \"Gensler Says NFTs are a Gateway Token\""
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xda8c63cfcb1c774eb77506609abf2cd323413502",
+      "description": "The Rug premium subscription NFT"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xe4e6932d24ea4558afdd030ecb668d0383fe77ab",
+      "description": "The Rug Crew monthly collectable NFT (August 2023)"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/TheRugNews",
+      "description": "The Rug's Twitter feed, which advertises articles to collect on Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/TheRugNews/status/1705985379172561130",
+      "description": "Episode of the Mostly Credible News, which also points to Optimism articles."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/TheRugNews/status/1705985379172561130",
+      "description": "The Rug articles collected on Optimism have been advertised on the Bankless pod."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total NFTs Collected (90+ contracts)",
+      "number": "625",
+      "url": "https://optimistic.etherscan.io/address/0x808a5bc4e075df40ab57cfb6d6e1dd7788227ca5"
+    },
+    {
+      "description": "Email Subscribers",
+      "number": "535",
+      "url": "https://paragraph.xyz/@therugnews "
+    },
+    {
+      "description": "Twitter Followers",
+      "number": "4800",
+      "url": "https://twitter.com/TheRugNews"
+    },
+    {
+      "description": "Telegram Subscribers",
+      "number": "94",
+      "url": "https://t.me/therugnews"
+    },
+    {
+      "description": "Mirror Articles",
+      "number": "67",
+      "url": "https://therug.mirror.xyz/ "
+    },
+    {
+      "description": "Paragraph Articles",
+      "number": "25",
+      "url": "https://paragraph.xyz/@therugnews "
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 2756,
+      "description": "The Rug received OP as part of the BanklessDAO application for RetroGPF 2 "
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10200,
+      "description": "The Rug has received 3.4M BANK token from BanklessDAO since Jan 2023"
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 2100,
+      "description": "Revenue from NFT sales (usually at .002 ETH) has generated about 1.27 ETH"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xaac8bf562763b22059e11cc682e7f72aa25a233ef47d37c1699514ed28833f14",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 10,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

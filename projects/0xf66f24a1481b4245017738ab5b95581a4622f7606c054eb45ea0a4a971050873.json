@@ -1,0 +1,80 @@
+{
+  "bio": "DexKit, a blockchain startup, streamlines Web3 DApp creation via DexAppBuilder.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "DexKit",
+  "websiteUrl": "https://dexkit.com",
+  "applicant": {
+    "address": {
+      "address": "0x5265Bde27F57E738bE6c1F6AB3544e82cdc92a8f",
+      "resolvedName": {
+        "address": "0x5265Bde27F57E738bE6c1F6AB3544e82cdc92a8f",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x5265Bde27F57E738bE6c1F6AB3544e82cdc92a8f"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5265Bde27F57E738bE6c1F6AB3544e82cdc92a8f.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x5265Bde27F57E738bE6c1F6AB3544e82cdc92a8f.png",
+    "id": "OptimistProfile|0x8296ad8326edbe06335457b52fddc3a4e301f7b215d59aad9ab0f4e32fb0c074"
+  },
+  "impactDescription": "DexKit's contributions to Optimism Collective are centered on our shared mission: advancing public goods and sustainability within the Ethereum community. DexAppBuilder, our flagship product, is designed for the common good. We've open-sourced various DexAppBuilder features on NPM, expanding access to valuable Ethereum and Web3 development tools, benefiting the entire community. Additionally, we promote DexAppBuilder within the developer community, encouraging contributions to its development and the Web3 ecosystem. By simplifying DApp development, driving innovation through open source and supporting the decentralized communities while fostering a developer community, we contribute to Ethereum's sustainability and the Collective's goal of promoting an impactful and profitable ecosystem.\n",
+  "contributionDescription": "DexKit's contributions aligned with Optimism's mission of creating an accessible and sustainable Ethereum ecosystem. Through DexAppBuilder, we made DApp development accessible with a user-friendly, no-code/low-code environment, thereby contributing to empowering more users and communities to transition to Optimism. Our open-source principles promoted decentralization and inclusivity, aligning with Optimism's values. By integrating DeFi and NFTs via DexAppBuilder, we enhanced Optimism's utility, maintaining Optimism\u2019s vision for cost-effective Ethereum capabilities. We also cultivated partnerships to ensure growth and long-term sustainability. DexKit played a pivotal role in optimizing Optimism's development, expanding its user base, and promoting accessibility and decentralization.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/DexKit/dexkit-open-monorepo",
+      "description": "A repo for users interested in using DexAppBuilder features beyond our platform."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.dexkit.com/",
+      "description": " Our official website provides an overview of the DexKit project"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/DexKit/open-nft-marketplace",
+      "description": " GitHub repository for the NFT Marketplace project running on Optimism."
+    },
+    {
+      "type": "OTHER",
+      "url": "https://dexappbuilder.dexkit.com",
+      "description": "DexAppBuilder is a no-code/low-code DApp builder for effortless DApp creation."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/DexKit",
+      "description": "DexKit's GitHub hosts project insights and open-source resources."
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Accounts logged in to DexAppBuilder",
+      "number": "806",
+      "url": "https://nft-api.dexkit.com/account/count-all"
+    },
+    {
+      "description": "Apps created with DexAppBuilder",
+      "number": "379",
+      "url": "https://nft-api.dexkit.com/site/count-all"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 2436,
+      "description": "Op received on RetroPGF2"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf66f24a1481b4245017738ab5b95581a4622f7606c054eb45ea0a4a971050873",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 16,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

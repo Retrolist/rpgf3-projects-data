@@ -1,0 +1,46 @@
+{
+  "bio": "I'm fortune a web3 analyst and software developer",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Thenotoriousfortune",
+  "websiteUrl": "Https://savethevideo.com",
+  "applicant": {
+    "address": {
+      "address": "0xCD56A60BfF7DC5D8AC59A7CFe8EeE49381fA8E30",
+      "resolvedName": {
+        "address": "0xCD56A60BfF7DC5D8AC59A7CFe8EeE49381fA8E30",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xCD56A60BfF7DC5D8AC59A7CFe8EeE49381fA8E30"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xf30f995542c3e2b3359ae3d132955058a1511fc798a246f88cb19d41069df144"
+  },
+  "impactDescription": "My contributions involved being and active participant in the optimism collective events and providing information which led to more and more participants being involved and actively participating in the events of the collective, It was an awesome experience ",
+  "contributionDescription": "As a owner of a large community I educate my members on the limitless opportunities that lies in the optimism ecosystem, providing valued information and guide on how to stay safe In the crypto more and how to explore and stay up to date on the latest projects on optimism ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xcd56a60bff7dc5d8ac59a7cfe8eee49381fa8e30",
+      "description": "On-chain contract "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "2",
+      "number": "310",
+      "url": "https://optimistic.etherscan.io/address/0xcd56a60bff7dc5d8ac59a7cfe8eee49381fa8e30"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x6ea02ca2491b352adcbb48dfac6fd988da06723921595221b10d95c9ed1e010b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

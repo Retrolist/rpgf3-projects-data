@@ -1,0 +1,46 @@
+{
+  "bio": "best BTC",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "trimai",
+  "websiteUrl": "https://twitter.com/TriMaiMS",
+  "applicant": {
+    "address": {
+      "address": "0xf9239dB3db77660c14c5020840B3Eda465E2e749",
+      "resolvedName": {
+        "address": "0xf9239dB3db77660c14c5020840B3Eda465E2e749",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xf9239dB3db77660c14c5020840B3Eda465E2e749"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf9239dB3db77660c14c5020840B3Eda465E2e749.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xf9239dB3db77660c14c5020840B3Eda465E2e749.png",
+    "id": "OptimistProfile|0x6d10be6a222a89528ab5b8207ae146a919d905e2b28cdd18f7cae2575bd19f7c"
+  },
+  "impactDescription": "Call on the community on X to participate in OP's strategies to receive rewards in the form of OP tokens. Our community was very successful and received a lot of OP coins as rewards, thank you very much for the project. In addition, we have a private community on telegram to participate in OP's strategies",
+  "contributionDescription": "Call on the community on X to participate in OP's strategies to receive rewards in the form of OP tokens. Our community was very successful and received a lot of OP coins as rewards, thank you very much for the project. In addition, we have a private community on telegram to participate in OP's strategies",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/TriMaiMS",
+      "description": "X community"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "4820",
+      "number": "4820",
+      "url": "https://t.me/airdropexplorers0"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x23595e7907e94f71978b057ffcbb35a18ff0c925d12374594a0fd5a6efe6b069",
+  "prelimResult": "Remove",
+  "reportReason": "spam"
+}

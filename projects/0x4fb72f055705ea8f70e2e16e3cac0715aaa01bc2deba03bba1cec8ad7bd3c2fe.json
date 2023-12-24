@@ -1,0 +1,48 @@
+{
+  "bio": "Optimistic Talent Sourcer for the OP Talent Partner Program ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "GraciousEats",
+  "websiteUrl": "https://twitter.com/Graciouseats ",
+  "applicant": {
+    "address": {
+      "address": "0x4d7305b23bA6d17DC403B34de0723687B9Af0C6E",
+      "resolvedName": {
+        "address": "0x4d7305b23bA6d17DC403B34de0723687B9Af0C6E",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x4d7305b23bA6d17DC403B34de0723687B9Af0C6E"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4d7305b23bA6d17DC403B34de0723687B9Af0C6E.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4d7305b23bA6d17DC403B34de0723687B9Af0C6E.png",
+    "id": "OptimistProfile|0xdf176580c8e6a3018a7b00652ab012d11b0a935f73f0dfe03b2aff6764ac10c9"
+  },
+  "impactDescription": "My sourcing efforts expanded the candidate pool significantly.  My sourcing lists provided the OP Labs Talent Team an alternate pipeline of potential hires.  As the Optimism Job Board grew, the team was met with an increased workload.  I compiled extensive sourcing lists consisting of hundreds of potential hires for various open positions, spanning multiple job fields.\n\nDue to the semi-sensitive nature of my sourcing lists, they are available by request.  Thank you!",
+  "contributionDescription": "I am a member of the Optimism Talent Partner Program!  As an engaged Optimism community member, I assisted the OP Talent Team in widening the top of the hiring funnel in an effort to hire high-quality contributors faster!  I did this by compiling hundreds of relevant potential candidates across various platforms.  I found candidates after iterative discussions with the OP Talent Team, job advertisements information, and shared relevant notes.  This is a time consuming activity, however it is one I am honored to do!",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/u/0/",
+      "description": "Due to the sourcing list's semi-sensitive nature, available upon request.  "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Sourcing List (Upon Request)",
+      "number": "420",
+      "url": "https://docs.google.com/document/u/0/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4fb72f055705ea8f70e2e16e3cac0715aaa01bc2deba03bba1cec8ad7bd3c2fe",
+  "prelimResult": "Remove",
+  "reportReason": "This application was flagged by the Contributions team for double-counting contributions"
+}

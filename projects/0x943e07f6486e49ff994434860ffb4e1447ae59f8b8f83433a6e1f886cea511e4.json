@@ -1,0 +1,48 @@
+{
+  "bio": "Econom\u00eda ",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Pedro",
+  "websiteUrl": "Https:Www.Sierraespunaviva.com",
+  "applicant": {
+    "address": {
+      "address": "0xde1d5263195e5fEbF250a95B75f74C9A812208D1",
+      "resolvedName": {
+        "address": "0xde1d5263195e5fEbF250a95B75f74C9A812208D1",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xde1d5263195e5fEbF250a95B75f74C9A812208D1"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xde1d5263195e5fEbF250a95B75f74C9A812208D1.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xde1d5263195e5fEbF250a95B75f74C9A812208D1.jpeg",
+    "id": "OptimistProfile|0xb4f4e0f9c1335ca27ae4b7d091cc939de0e851a68460f7212b252c96fd0ae7b7"
+  },
+  "impactDescription": "Mayor liquidez en el ecosistema optimism mejorando las rentabilidades del sistema creando un lugar m\u00e1s sostenible para el planeta. Adem\u00e1s de crear un comercio justo y equilibrado dentro de la capa 2 de etherium al ser m\u00e1s econ\u00f3mica y eficaz que la capa principal de eth ",
+  "contributionDescription": "Tengo pool en velodrome compro token de gobernanta velodrome y tambi\u00e9n compro token etherium. Tambi\u00e9n he comprado token Fbomb para hacer pool de liquidez. Intento invertir en varios pool eth con Fbomb pero tambi\u00e9n he hecho pool de velodrome con Fbomb. Con el pool de Fbomb con eth he conseguido rentabilidades de 40 % de apr y con el pool velodrome con Fbomb 150 % apr",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xde1d5263195e5fEbF250a95B75f74C9A812208D1",
+      "description": "Pool en velodrome "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Velodrome",
+      "number": "30090",
+      "url": "https://optimistic.etherscan.io/address/0xde1d5263195e5fEbF250a95B75f74C9A812208D1"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x943e07f6486e49ff994434860ffb4e1447ae59f8b8f83433a6e1f886cea511e4",
+  "prelimResult": "Remove",
+  "reportReason": "Application is in Spanish, violation of Application Guidelines"
+}

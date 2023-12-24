@@ -1,0 +1,52 @@
+{
+  "bio": "Center serves as a platform that brings together many games for OP Collective.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Optimism Gaming Center",
+  "websiteUrl": "https://opgcenter.io/",
+  "applicant": {
+    "address": {
+      "address": "0x3adcb0295b22fE6Dc093D3f25FEFE3C35EBE8FAA",
+      "resolvedName": {
+        "address": "0x3adcb0295b22fE6Dc093D3f25FEFE3C35EBE8FAA",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x3adcb0295b22fE6Dc093D3f25FEFE3C35EBE8FAA"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3adcb0295b22fE6Dc093D3f25FEFE3C35EBE8FAA.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x3adcb0295b22fE6Dc093D3f25FEFE3C35EBE8FAA.png",
+    "id": "OptimistProfile|0x3827163d3ee9c6304bac97295aa710a6441d1f8e4cedd263fc7ac609e2617014"
+  },
+  "impactDescription": "Our platform is designed for people who want to enjoy their leisure time in a safe and enjoyable way. It provides a wide variety of familiar games that are easy to play, with an optimistic design that makes the experience even more enjoyable. We do not support casino-style gambling games, but we offer a range of other options that are equally fun and engaging. Despite not having any advertising campaigns, our platform has become popular among thousands of active users who appreciate the simplicity and accessibility of our platform.",
+  "contributionDescription": "Optimism Gaming Center is the gaming hub of the Optimism ecosystem. Its primary objective is to provide a fun and engaging experience to the community, while also promoting community engagement.\n\nGames, available at this time:\n- Tokens Battle - is an online game that allows players to compete with their friends and become the king of the cryptocurrency world by playing for their favorite token!\n- Red Sapper - is a retro-style game that has been given an optimistic twist. It is a game straight from the 90s, but with new and improved graphics and gameplay.\n- 2048 - the center also offers the classic puzzle game, 2048. This game challenges the player's logic and strategic thinking skills as they try to merge tiles to reach the highest number possible.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://opgcenter.io/",
+      "description": "Start playing right now!"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/opgcenter",
+      "description": "Twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Players",
+      "number": "100",
+      "url": "https://opgcenter.io/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x699156eaa0722212e4109ca5d3dadfcd1065c9c1e2805924342f281be545b8e8",
+  "prelimResult": "Remove",
+  "reportReason": "Allegedly thousands of active users, but domain was registered on Oct 21 (https://who.is/whois/opgcenter.io)"
+}

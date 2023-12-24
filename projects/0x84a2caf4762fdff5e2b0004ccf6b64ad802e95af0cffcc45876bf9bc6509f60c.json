@@ -1,0 +1,55 @@
+{
+  "bio": "ngo",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "ngodung",
+  "websiteUrl": "https://twitter.com/ngodung0303",
+  "applicant": {
+    "address": {
+      "address": "0x94C3060f1546E24294F4fD6a0bb0662c9f7c8335",
+      "resolvedName": {
+        "address": "0x94C3060f1546E24294F4fD6a0bb0662c9f7c8335",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x94C3060f1546E24294F4fD6a0bb0662c9f7c8335"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x94C3060f1546E24294F4fD6a0bb0662c9f7c8335.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x4f356c5aa70f9d078cca6b9b033ab382bac46f53c9ff6771a6f860c1c068bb16"
+  },
+  "impactDescription": "Op is a layer 2 ecosystem, alongside many other layer 2 ecosystems. I chose to use Op, it brought me many positive experiences, not only in terms of core technology, but also in transmission speed and network fees. Overall I find it quite good and I will use it.",
+  "contributionDescription": "Op is a layer 2 ecosystem, alongside many other layer 2 ecosystems. I chose to use Op, it brought me many positive experiences, not only in terms of core technology, but also in transmission speed and network fees. Overall I find it quite good and I will use it.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x54a980be6033f0cba9410b69404089fd68758e97b7fd11dab8a0a14e90808a4e",
+      "description": "Profile Confirmed"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Sign ",
+      "number": "5",
+      "url": "https://optimistic.etherscan.io/tx/0x54a980be6033f0cba9410b69404089fd68758e97b7fd11dab8a0a14e90808a4e"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": "None"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x84a2caf4762fdff5e2b0004ccf6b64ad802e95af0cffcc45876bf9bc6509f60c",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

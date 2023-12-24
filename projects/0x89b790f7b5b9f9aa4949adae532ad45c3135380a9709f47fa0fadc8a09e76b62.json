@@ -1,0 +1,58 @@
+{
+  "bio": "\u041f\u0440\u0435\u0434\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c. \u0418\u043d\u0432\u0435\u0441\u0442\u043e\u0440. \u041a\u0440\u0438\u043f\u0442\u043e \u0438\u043d\u0432\u0435\u0441\u0442\u043e\u0440, \u0423\u0447\u0430\u0441\u0442\u043d\u0438\u043a \u0438 \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a web3 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "KoD Invest",
+  "websiteUrl": "https://twitter.com/kodcrypto",
+  "applicant": {
+    "address": {
+      "address": "0x69c9cF8ffB0b06Dc52cba183CBE6595e46F749c3",
+      "resolvedName": {
+        "address": "0x69c9cF8ffB0b06Dc52cba183CBE6595e46F749c3",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x69c9cF8ffB0b06Dc52cba183CBE6595e46F749c3"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x69c9cF8ffB0b06Dc52cba183CBE6595e46F749c3.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x69c9cF8ffB0b06Dc52cba183CBE6595e46F749c3.png",
+    "id": "OptimistProfile|0xbd1fd900e2a6ebc1aade78c889091e4dfa10317efa342e06b22a1a8caef273d7"
+  },
+  "impactDescription": "\u041f\u0440\u0438\u043d\u044f\u0442\u0438\u0435 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438 \u044d\u043a\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u044b optimism;\n\u0410\u043a\u0442\u0438\u0432\u043d\u043e\u0435 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0433\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u043d\u0438\u044f\u0445 \u043d\u0430 \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0435 \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430 https://vote.optimism.io/proposals/ \u0441 \u0446\u0435\u043b\u044c\u044e \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u044f \u043a\u043e\u043d\u0441\u0435\u043d\u0441\u0443\u0441\u043d\u044b\u0445 \u0440\u0435\u0448\u0435\u043d\u0438\u0439, \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0445 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044e \u0432\u0441\u0435\u0439 \u044d\u043a\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u044b, \u0434\u0435\u043b\u0430\u044f \u0435\u0451 \u0431\u043e\u043b\u0435\u0435 \u0443\u0434\u043e\u0431\u043d\u043e\u0439 \u0434\u043b\u044f \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439.\n",
+  "contributionDescription": "-\u0413\u043e\u043b\u043e\u0441\u043e\u0432\u0430\u043d\u0438\u0435 \u0438 \u0434\u0435\u043b\u0435\u0433\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0430 https://vote.optimism.io/proposals/;\n-\u0412\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u043a\u0432\u0435\u0441\u0442\u0430 \u043d\u0430 https://app.optimism.io/quests/optimism-delegation;\n-\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0434\u043e\u043c\u0435\u043d\u0430 \u043d\u0430 https://app.opns.domains/account/registrant;\n-\u041c\u0438\u043d\u0442 \u0430\u0442\u0442\u0435\u0441\u0442\u0430\u0442\u0430 \u043d\u0430 https://clique.social/profile/ optimism;\n-Clame  SBT \u043d\u0430 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0435 https://clique.social/profile/ optimism;\n-Clame Update your Badge bungee \u043d\u0430 https://clique.social/profile/ optimism;\n-Clame Update your Badge Tally \u043d\u0430 https://clique.social/profile/ optimism;\n-\u0417\u0430 \u0432\u043d\u0435\u0441\u0435\u043d\u0438\u0435 \u0433\u0440\u0430\u043d\u0442\u0430 \u043f\u043e\u043b\u0443\u0447\u0438\u043b Optimism Co-Grantor NFT\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://vote.optimism.io/proposals/22387138384033903985192420283570655912990907953544385753324581204637906644383",
+      "description": "Anticapture Commission"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Transactions",
+      "number": "1",
+      "url": "https://debank.com/profile/0x69c9cf8ffb0b06dc52cba183cbe6595e46f749c3/history?chain=op"
+    },
+    {
+      "description": "NFTs",
+      "number": "2",
+      "url": "https://debank.com/profile/0x69c9cf8ffb0b06dc52cba183cbe6595e46f749c3/nft?chain=op"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x89b790f7b5b9f9aa4949adae532ad45c3135380a9709f47fa0fadc8a09e76b62",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

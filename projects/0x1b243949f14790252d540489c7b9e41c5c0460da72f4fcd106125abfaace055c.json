@@ -1,0 +1,70 @@
+{
+  "bio": "Breaking The Ice On DeFi",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "IceBreak-R",
+  "websiteUrl": "https://icebreak-r.com",
+  "applicant": {
+    "address": {
+      "address": "0xa908B6B5247d83Fc8f4856fAaCb9Cb5df30E7Cbd",
+      "resolvedName": {
+        "address": "0xa908B6B5247d83Fc8f4856fAaCb9Cb5df30E7Cbd",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xa908B6B5247d83Fc8f4856fAaCb9Cb5df30E7Cbd"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa908B6B5247d83Fc8f4856fAaCb9Cb5df30E7Cbd.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa908B6B5247d83Fc8f4856fAaCb9Cb5df30E7Cbd.png",
+    "id": "OptimistProfile|0xa976a1028caa7ff3f52b466f261e68181b8f8c5b35e3d44c53892bb67d55c0b3"
+  },
+  "impactDescription": "Since launching our new Proof-Of-Bridging NFT series only 8 days ago we have already onboarded 19 unique wallet addresses (excluding myself) to the four various layer-2s, all built around the OP Superstack. New user have begun to explore and dig past the surface layers once they have bridged those funds, asking for new dapps and sites to connect to.\n\nThe main platform we are utilizing currently is Zora.co, whereby the users can continue to connect with other art projects, mint or have fun with NFT collections. Artists, cross-chain DeFi users and NFT collectors are all benefitting from our concepts and smart contracts by learning how to expand into new territory. Communities from Fantom, PulseChain, Hive and more are already coming together within our ecosystem to branch out to OP Stack.",
+  "contributionDescription": "We have designed and deployed a novel utility for NFTs called \"Proof-Of-Bridging\" which brings increased user adoption cross-chain. These IceBreak-R Quest Badges work by incentivizing our free-mint series on four unique layer-2s. This is an evolution of the learn-to-earn model by which users can gain participation rewards simply for bridging, minting and holding NFTs in our ecosystem. \n\nThe primary goal is to encourage exploration of emerging blockchains and networks by new users by simplifying the onboarding process and/or bridging in. By creating free-mints which also reward the users over time we have aligned the incentives for all participants to drive adoption and curiosity.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x569fec86161243a9e4b0b8ed2e7ed5571e958dc0",
+      "description": "IceBreak-R Quest Badge V3"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://explorer.zora.energy/token/0xbC393696214fF2e4f2694AfA45341a7DFCc06f8a",
+      "description": "IceBreak-R Quest Badge V1"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://basescan.org/address/0xc395b057c2168570e54108df2432fc0a4e1687ab",
+      "description": "IceBreak-R Quest Badge V2"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://explorer.publicgoods.network/address/0x326d84ee9b5ec5983e89c55109c970a2640fbf30",
+      "description": "IceBreak-R Quest Badge V4"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Proof Of Bridging NFT Mints",
+      "number": "83",
+      "url": "https://zora.co/0xa908B6B5247d83Fc8f4856fAaCb9Cb5df30E7Cbd"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 44.81,
+      "description": "Fees collected from Zora revenue share model (free-mint)"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x1b243949f14790252d540489c7b9e41c5c0460da72f4fcd106125abfaace055c",
+  "prelimResult": "Keep",
+  "reportReason": "not sure if in scope",
+  "includedInBallots": 6,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

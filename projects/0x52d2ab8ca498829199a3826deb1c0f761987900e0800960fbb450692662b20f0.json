@@ -1,0 +1,45 @@
+{
+  "bio": "Crypto trader",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Amber shawl",
+  "websiteUrl": "https://twitter.com/ambershawl656",
+  "applicant": {
+    "address": {
+      "address": "0x2Eb2383E2eFf9598e073a2D2bD9411aa362C3889",
+      "resolvedName": {
+        "address": "0x2Eb2383E2eFf9598e073a2D2bD9411aa362C3889",
+        "name": "kaafila.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x2Eb2383E2eFf9598e073a2D2bD9411aa362C3889"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Eb2383E2eFf9598e073a2D2bD9411aa362C3889.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x65af564713fd4b325c8a035797ad30cdf76e760ec301b417c98bf4dfc2d98f90"
+  },
+  "impactDescription": "a multichain world brings its own challenges. Ethereum L2s are already pushing the limits of tooling and UX, and we are nowhere near global scale. To support the next hundreds, thousands, and millions of chains, we need a paradigm shift.\n\nThe reality is\u2013as growing brands and ecosystems look for platforms to call home, they have limited, imperfect options. Large ecosystems like Coinbase are faced with a difficult decision: they can deploy on Ethereum and forfeit scalability, choose a single L2 and be dependent on that ecosystem, or deploy and maintain their own chain and fragment liquidity and network effects.",
+  "contributionDescription": "a multichain world brings its own challenges. Ethereum L2s are already pushing the limits of tooling and UX, and we are nowhere near global scale. To support the next hundreds, thousands, and millions of chains, we need a paradigm shift.\n\nThe reality is\u2013as growing brands and ecosystems look for platforms to call home, they have limited, imperfect options. Large ecosystems like Coinbase are faced with a difficult decision: they can deploy on Ethereum and forfeit scalability, choose a single L2 and be dependent on that ecosystem, or deploy and maintain their own chain and fragment liquidity and network effects.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/",
+      "description": "1"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "q",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x52d2ab8ca498829199a3826deb1c0f761987900e0800960fbb450692662b20f0",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

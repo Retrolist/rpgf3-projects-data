@@ -1,0 +1,52 @@
+{
+  "bio": "Graphic Designer | UI & UX Spesialis | Front End",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Rosuli Pratama Putra",
+  "websiteUrl": "https://www.behance.net/rosulipr",
+  "applicant": {
+    "address": {
+      "address": "0x731A1e61288b44C497eD4205921B1ADd15c806B2",
+      "resolvedName": {
+        "address": "0x731A1e61288b44C497eD4205921B1ADd15c806B2",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x731A1e61288b44C497eD4205921B1ADd15c806B2"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x731A1e61288b44C497eD4205921B1ADd15c806B2.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x731A1e61288b44C497eD4205921B1ADd15c806B2.png",
+    "id": "OptimistProfile|0x7ac44850415a5d14103ebafaab2041db5ab14d57fd9ba46e410f8308a55ea054"
+  },
+  "impactDescription": "The Optimism Collective believes that impact to the collective should be rewarded with profit to the individual. If you want to get started building, head to our Ecosystem Contributions board to find a project. If you want to get started building, head to our Ecosystem Contributions board to find a project.",
+  "contributionDescription": "The Optimism Collective is excited to announce the third round of RetroPGF. This fall, 30 million OP will be distributed to builders, creators, and educators who have provided positive impact to the Optimism Collective. If you want to get started building, head to our Ecosystem Contributions board to find a project.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.behance.net/rosulipr",
+      "description": "My Behance"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "R",
+      "number": "20",
+      "url": "https://www.behance.net/rosulipr"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 0.002,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe897e1148ce5ec148b2f984afc624de3aee32dce47c4fe964887e779caf7d305",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

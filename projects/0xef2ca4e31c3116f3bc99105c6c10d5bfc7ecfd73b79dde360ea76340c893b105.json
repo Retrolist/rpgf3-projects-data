@@ -1,0 +1,70 @@
+{
+  "bio": "I share what I learned about Solidity, Vyper and DeFi",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Taz",
+  "websiteUrl": "https://solidity-by-example.org/",
+  "applicant": {
+    "address": {
+      "address": "0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c",
+      "resolvedName": {
+        "address": "0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png",
+    "id": "OptimistProfile|0x3ce7813bfbd0f37ba29a4e73d27206be046c88120d6c027890c33e3a6309c808"
+  },
+  "impactDescription": "My contributions may not be a direct contribution to Optimism.\nI share what I learned about Solidity, Vyper, smart contracts and block chains. \nIn the past I've published Solidity code examples, common vulnerabilities and DeFi examples.  I've also published some videos on how to deploy smart contracts to L2 including Arbitrum and Optimism.\n",
+  "contributionDescription": "My contributions may not be a direct contribution to Optimism.\nI share what I learned about Solidity, Vyper, smart contracts and block chains. \nIn the past I've published Solidity code examples, common vulnerabilities and DeFi examples.  I've also published some videos on how to deploy smart contracts to L2 including Arbitrum and Optimism.\n",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://solidity-by-example.org/",
+      "description": "Solidity By Example"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://vyper-by-example.org/",
+      "description": "Vyper By Example"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@smartcontractprogrammer",
+      "description": "YouTube videos"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/stakewithus/notes",
+      "description": "Notes about DeFi protocols and algorithms"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "subscribers",
+      "number": "49000",
+      "url": "https://www.youtube.com/@smartcontractprogrammer"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 2500,
+      "description": "I think from Ethernaut DAO"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 21,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

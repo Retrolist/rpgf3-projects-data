@@ -1,0 +1,53 @@
+{
+  "bio": "I\"m into software Engineering",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Michael west",
+  "websiteUrl": "https://ifejiwest",
+  "applicant": {
+    "address": {
+      "address": "0x43A291694fce8c32DE513f8b88A0d58D70b72a77",
+      "resolvedName": {
+        "address": "0x43A291694fce8c32DE513f8b88A0d58D70b72a77",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x43A291694fce8c32DE513f8b88A0d58D70b72a77"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x43A291694fce8c32DE513f8b88A0d58D70b72a77.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x43A291694fce8c32DE513f8b88A0d58D70b72a77.png",
+    "id": "OptimistProfile|0x6eff45ef58556381da056a9ae8caca0845336cd0d67cdb543706af0feecbdf13"
+  },
+  "impactDescription": "Onboarded users to the optimism ecosystem\n\nDelegated Op to governance \n\nTook path on snapshots\n\nBridged Asset to Optimism \n\nIncrease in transaction number\n\nSustained public good network and trust\n\nfavorite L2 to most persons i onboarded\n\nStrong L2 Community",
+  "contributionDescription": "I have chosen Optimism as my favorite L2 blockchain due to its low cost of transaction and speed, i have  introduce  and onboarded many pals to this smooth L2 network and hope to onboard more in future.\n\nDelegated Op to governance and participated on OP snapshots",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://ifejiwest",
+      "description": "website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Onchain Activities",
+      "number": "1",
+      "url": "https://ifejiwest"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 3,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x52370d588d3058cc9afaa6b4cc91a969eb69fc6a08678c7da045d78f3e857fc3",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,61 @@
+{
+  "bio": "CIS influencer",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "ProMint",
+  "websiteUrl": "https://www.youtube.com/channel/UCmDqigK7xV2xH7BLIsQ2FFA",
+  "applicant": {
+    "address": {
+      "address": "0xC48f0a509f8D7ef050022a78Df5FeFA0fC3a2FEb",
+      "resolvedName": {
+        "address": "0xC48f0a509f8D7ef050022a78Df5FeFA0fC3a2FEb",
+        "name": "bakfard.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xC48f0a509f8D7ef050022a78Df5FeFA0fC3a2FEb"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x869410c155c897faf51a608633d3cd60ca9622aedf707709800da3fb7d4910ff"
+  },
+  "impactDescription": "Supported the development of the quest video ecosystem; I have one of the most viewed videos in the CIS space.\nhttps://www.youtube.com/watch?v=VlguxLS9jTs  (15k views)\n\n One of the first to talk about your voting platform and encouraged his audience to delegate votes to me. \nhttps://t.me/promintsecret/108 (4.4k views)\n\nhttps://vote.optimism.io/delegate/bakfard.eth\n\nI actively participate in the life of the ecosystem and attract my readers.",
+  "contributionDescription": "Supported the development of the quest video ecosystem; I have one of the most viewed videos in the CIS space.\nhttps://www.youtube.com/watch?v=VlguxLS9jTs  (15k views)\n\n One of the first to talk about your voting platform and encouraged his audience to delegate votes to me. \nhttps://t.me/promintsecret/108 (4.4k views)\n\nhttps://vote.optimism.io/delegate/bakfard.eth\n\nI actively participate in the life of the ecosystem and attract my readers.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=VlguxLS9jTs",
+      "description": "YouTube"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://t.me/promintsecret/108",
+      "description": "Telegram post"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Active call to vote",
+      "number": "1",
+      "url": "https://t.me/promintsecret/33"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf2e5092df31bedfdc2e758e6a5f63da1a02f2e1e4903b18b6215b821b3e10324",
+  "prelimResult": "Keep",
+  "reportReason": "I would appreciate someone looked into this",
+  "includedInBallots": 18,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

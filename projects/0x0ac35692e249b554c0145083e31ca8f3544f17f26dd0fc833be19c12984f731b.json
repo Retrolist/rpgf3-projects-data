@@ -1,0 +1,48 @@
+{
+  "bio": "Im a brand ambassador and crypto enthusiast",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "btcluisa",
+  "websiteUrl": "https://twitter.com/BtcLuisa08",
+  "applicant": {
+    "address": {
+      "address": "0xE84B0C2Ddb1c4C316CDBb1B7FA562ae0Fb87a529",
+      "resolvedName": {
+        "address": "0xE84B0C2Ddb1c4C316CDBb1B7FA562ae0Fb87a529",
+        "name": "vanessa8.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xE84B0C2Ddb1c4C316CDBb1B7FA562ae0Fb87a529"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE84B0C2Ddb1c4C316CDBb1B7FA562ae0Fb87a529.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x16454c244cf00bb2fbf65e9474d94ca49e168d86194e27ec205d8bb35048b134"
+  },
+  "impactDescription": "Being optimism collective contributor its very over joy to have a contribution to optimism ecosystem because it will give you a great satisfaction and also more learnings about optimism network. The impact of contribution in optimism is very great because many crypto enthusiast will support.",
+  "contributionDescription": "Im a grand contributor and support all the projects or any activities in optimism ecosystem. Im glad to support all the way the optimism network because im also optimistic person. Being a optimism supporter is very important to the optimism ecosystem.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0xd6be31243599b2e5bc650109cf8bb81ea8d6c150?a=0xE84B0C2Ddb1c4C316CDBb1B7FA562ae0Fb87a529",
+      "description": "Optimism city"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Optimism citizen ",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/token/0xd6be31243599b2e5bc650109cf8bb81ea8d6c150?a=0xE84B0C2Ddb1c4C316CDBb1B7FA562ae0Fb87a529"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x0ac35692e249b554c0145083e31ca8f3544f17f26dd0fc833be19c12984f731b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

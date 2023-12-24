@@ -1,0 +1,76 @@
+{
+  "bio": "Africa's foremost campus web3 bootcamp, helping devs transition to web3.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "BlockchainOAU",
+  "websiteUrl": "https://linktr.ee/blockchainoau",
+  "applicant": {
+    "address": {
+      "address": "0xd05d9Fd4c48d2aa9E284AF2b501F714f65a5D5D8",
+      "resolvedName": {
+        "address": "0xd05d9Fd4c48d2aa9E284AF2b501F714f65a5D5D8",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xd05d9Fd4c48d2aa9E284AF2b501F714f65a5D5D8"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd05d9Fd4c48d2aa9E284AF2b501F714f65a5D5D8.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd05d9Fd4c48d2aa9E284AF2b501F714f65a5D5D8.png",
+    "id": "OptimistProfile|0x55841ec673bd76e707ca9b57670b42eb1382e124c2d211b5fa4fcd69d85f35fd"
+  },
+  "impactDescription": "We helped train developers and equip them with the necessary technical skillset to building Dapps on the Ethereum and Optimism ecosystem.\nWe offer several free to use and open to attend community programme for aspiring web3 devs and enthusiasts alike, leading to significant growth of web3 adoption in the larger campus community.\nWe hope the retroPGF funding would motivate us a lot to push for an OP centric development bootcamp and OP exclusive workshops, leveraging our strong community and expertise.",
+  "contributionDescription": "We have contributed to optimism by building a strong community of web3 developers and enthusiast alike, through our series of community events, conferences and technical bootcamp.\nOver the years we've train people technical and non-technical, who are actively developing and contributing to optimism and the web3 ecosystem at large in various capacity.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/BlockchainOau",
+      "description": "We have  a strong and growing community on twitter"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/@blockchaincluboau4348",
+      "description": "Video series of bootcamp session"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.notion.so/Blockchain-OAU-Bootcamp-df13cc0ad98d472e975fb98fdc7ff1fc",
+      "description": "Curriculum targeted at web2 and web3 development mastery"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "developer education and onboarding",
+      "number": "300",
+      "url": "https://discord.gg/w3bxCkxV"
+    },
+    {
+      "description": "bootcamp participation",
+      "number": "150",
+      "url": "https://twitter.com/BlockchainOau"
+    },
+    {
+      "description": "web2/web3 curriculum notion",
+      "number": "150",
+      "url": "https://www.notion.so/Blockchain-OAU-Bootcamp-df13cc0ad98d472e975fb98fdc7ff1fc"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd2ea00dba1cb56582c77344a4678996d72c35f39c853b3b6b5c6be49876e3018",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 13,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

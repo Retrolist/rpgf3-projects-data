@@ -1,0 +1,67 @@
+{
+  "bio": "addrs is free a tool to replace addresses with a one tap web2 payment UX.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "addrs",
+  "websiteUrl": "https://addrs.to/",
+  "applicant": {
+    "address": {
+      "address": "0x14B214CA36249b516B59401B3b221CB87483b53C",
+      "resolvedName": {
+        "address": "0x14B214CA36249b516B59401B3b221CB87483b53C",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x14B214CA36249b516B59401B3b221CB87483b53C"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x14B214CA36249b516B59401B3b221CB87483b53C.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x14B214CA36249b516B59401B3b221CB87483b53C.png",
+    "id": "OptimistProfile|0xeadf73d0801af1d15c127d5987983f038b8ae7afd63b897314dc6165f31d2de8"
+  },
+  "impactDescription": "In addition to the convenient link-based system for sending and receiving cryptocurrency, addrs also offers the ability to receive crypto using a Visa/MC/Bank and have it deposited directly into their wallet without the need for a custodial account. This allows for Optimism to be used to onramp payments\n\nYou can also easily embed addrs directly into your site using our optimized embed.addrs.to embeds. Just plug and play and itll handle the rest. This allows for anyone to accept Crypto payments with a simple UX.",
+  "contributionDescription": "Weve developed a platform that allows users to create payment profiles containing all of their crypto addresses in one place with web2 payment UX. Fully non-custodial and free.\n\nWhat is addrs?\naddrs is a platform that allows users to create payment profiles containing all of their cryptocurrency addresses in one place, making it easier to send and receive cryptocurrency. When someone clicks on the link, their wallet will open with your address automatically entered, eliminating the need to manually input long addresses. Any ETH wallet. addrs is a non-custodial platform, meaning that we do not hold onto your cryptocurrency or private keys. This gives users full control over their assets and adds an extra layer of security. We support OP on Optimism aswell as OPETH AND stables.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://addrs.to/",
+      "description": "App"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://addrs.to/pr0/OPETH",
+      "description": "Sample OP ETH UX"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://addrs.to/pr0/OP?amount=200",
+      "description": "Sample OP payment request UX"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Users",
+      "number": "1600",
+      "url": "https://twitter.com/addrsTo"
+    },
+    {
+      "description": "Assets supported",
+      "number": "22",
+      "url": "https://addrs.to/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Self Funded. Never received any funding."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x41447f20a6679e0c01e470acb3392b51d88742a34ada25831ac607459266aee1",
+  "prelimResult": "Remove",
+  "reportReason": "impact unclear"
+}

@@ -1,0 +1,51 @@
+{
+  "bio": "We aim to be the leading news source for Ethereum & optimism",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Optimism Sdailynews",
+  "websiteUrl": "https://optimism.sdailynews.com/",
+  "applicant": {
+    "address": {
+      "address": "0x66946def4ba6153C500D743b7A5FebfC1654d6bD",
+      "resolvedName": {
+        "address": "0x66946def4ba6153C500D743b7A5FebfC1654d6bD",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x66946def4ba6153C500D743b7A5FebfC1654d6bD"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x66946def4ba6153C500D743b7A5FebfC1654d6bD.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x66946def4ba6153C500D743b7A5FebfC1654d6bD.jpeg",
+    "id": "OptimistProfile|0x079e81095cc2444f8cb2aa9fe5bcfe33126a082f0ac0fc2c738e8bbb56e8f18b"
+  },
+  "impactDescription": "my contributions have been instrumental in expanding awareness, knowledge, community involvement, and the development of strategic relationships within the Optimism Collective. The positive atmosphere and collaborative spirit I've fostered have played a crucial role in the collective's growth and community cohesion.",
+  "contributionDescription": "In the initial two months of its launch, the https://www.optimism.sdailynews.com website garnered an impressive 5,000 visitors. Our strategic goal is to further broaden our outreach and consistently provide top-notch content that will not only retain this audience but also captivate an even larger readership.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://optimism.sdailynews.com/",
+      "description": "Website"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/optimismsdaily/",
+      "description": "Twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Visitor",
+      "number": "5730",
+      "url": "https://optimism.sdailynews.com/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xa300229d85e7b63e8f9b04744200ad30c0741b9c844c1a4f3430e622ed1475a9",
+  "prelimResult": "Remove",
+  "reportReason": "Links are broken (which is core to their impact claim)"
+}

@@ -1,0 +1,53 @@
+{
+  "bio": "to the moon LFG",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "victorinus",
+  "websiteUrl": "https://twitter.com/harisyosef28",
+  "applicant": {
+    "address": {
+      "address": "0xfd6cec59a65f67AF739eb3191C4793C342E688ee",
+      "resolvedName": {
+        "address": "0xfd6cec59a65f67AF739eb3191C4793C342E688ee",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xfd6cec59a65f67AF739eb3191C4793C342E688ee"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfd6cec59a65f67AF739eb3191C4793C342E688ee.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x7d1681b8e4b7a2f2512ea1a5e95b4877356f7b739fde3601fa25c1416b35d708"
+  },
+  "impactDescription": "i already provide feedback for optimism testnet. and i am the optimism airdrop eligibility. and i bridge from optimism network to ethereum. and i wish in the future i can get more airdrop from optimism and i wish optimism become number one crypto in the world",
+  "contributionDescription": "i already provide feedback for optimism testnet. and i am the optimism airdrop eligibility. and i bridge from optimism network to ethereum. and i wish in the future i can get more airdrop from optimism and i wish optimism become number one crypto in the world",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x07a06af54b99061b03a5b522cb51be3ace9d685a99bfd71ad0b155d468152151",
+      "description": "ssd"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#2120",
+      "number": "244",
+      "url": "https://optimistic.etherscan.io/tx/0x07a06af54b99061b03a5b522cb51be3ace9d685a99bfd71ad0b155d468152151"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x04912c70b96302d26a8f362f4ff95dcc641c1ede7089eaf3d5de9f13ae8ddfb8",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

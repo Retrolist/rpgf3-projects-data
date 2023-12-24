@@ -1,0 +1,93 @@
+{
+  "bio": "A neutral non-censoring MEV-Boost relay",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "Aestus Relay",
+  "websiteUrl": "https://aestus.live",
+  "applicant": {
+    "address": {
+      "address": "0x95224178293c24219c287d7bfc6ad148c99dcFdE",
+      "resolvedName": {
+        "address": "0x95224178293c24219c287d7bfc6ad148c99dcFdE",
+        "name": "birge.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x95224178293c24219c287d7bfc6ad148c99dcFdE"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x95224178293c24219c287d7bfc6ad148c99dcFdE.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x1cc1b183c8cfb296077041df09b1def2abfd5c9d03af9bfb0d61dad657386a04"
+  },
+  "impactDescription": "Our impact on the optimism collective is indirect. 400,000 validators including members of LIDO, RocketPool and other staking providers use our services. On a daily basis, between 1-5% of all ethereum mainnet blocks are negotiated using our infrastructure. We play an important part in decentralising the network and securing L1.",
+  "contributionDescription": "The Aestus MEV-Boost Relay is a neutral, non-censoring block relay for Ethereum proof-of-stake validators and block builders, offered to the community as a public good. We are free from any commercial interest and aligned to principles of credible neutrality.  The Aestus  project originally developed out of conversations between members of the EthFinance and EthStaker communities who saw the need to develop credibly neutral architecture for the ethereum staking ecosystem. We have been in continuous operation for approximately 1 year and contribute to security of the L1 and L2 ecosystems.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/aestus-relay",
+      "description": "Our open source infrastructure"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mainnet.aestus.live",
+      "description": "Our mainnet relay"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://relayscan.io",
+      "description": "A list of current relays"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "validators registered",
+      "number": "405728",
+      "url": "https://mainnet.aestus.live/"
+    },
+    {
+      "description": "uptime",
+      "number": "99.5",
+      "url": "https://app.metrika.co/ethereum/dashboard/mev/relay-operational"
+    },
+    {
+      "description": "blocks processed (percent/7 day av)",
+      "number": "1.7",
+      "url": "https://relayscan.io"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    },
+    {
+      "type": "REVENUE",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Entire self funded."
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 0,
+      "description": "Entire self funded."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x04c658f109c8c51753a72ebd727024f3ea0c6766d3b579252a805f53c5a60ace",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 22,
+  "primaryCategory": "OP Stack",
+  "recategorization": "Ethereum Development & Maintanance"
+}

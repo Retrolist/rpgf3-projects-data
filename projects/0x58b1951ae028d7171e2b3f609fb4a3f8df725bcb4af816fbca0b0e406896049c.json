@@ -1,0 +1,65 @@
+{
+  "bio": "Explorer. Code, design, and mountains. Building: https://pincaster.xyz/",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Onchain Reads",
+  "websiteUrl": "https://onchainreads.phyles.app/",
+  "applicant": {
+    "address": {
+      "address": "0xCf7ecA52dE76E72e562ADddb513CeF4c609f1fd2",
+      "resolvedName": {
+        "address": "0xCf7ecA52dE76E72e562ADddb513CeF4c609f1fd2",
+        "name": "matallo.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xCf7ecA52dE76E72e562ADddb513CeF4c609f1fd2"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCf7ecA52dE76E72e562ADddb513CeF4c609f1fd2.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xCf7ecA52dE76E72e562ADddb513CeF4c609f1fd2.png",
+    "id": "OptimistProfile|0x7d304c1c801e4595edf5abe86cc824498444263af6c3006e74132d74cd1e9ab2"
+  },
+  "impactDescription": "Winner of one of the 100 Builders grants.\n\nOnchain Reads is built on Ethereum Attestation Service (EAS) https://attest.sh/ and deployed on Base. Visit https://onchainreads.phyles.app/ to mark a book as read onchain.\n\nAfter you sign the attestation you can check it on the app and EAS Scan https://base.easscan.org/schema/view/0x033ac28e96914866bb41e63e9439560a83521eb856ecdb711ef520ae43994d18\n\nBy storing data onchain, we ensure a credibly neutral platform, and enabling developers to create new applications permissionlessly.\n\nIn this prototype, you can view users who have read a book and visit profiles to see the books they've read https://onchainreads.phyles.app/u/0xCf7ecA52dE76E72e562ADddb513CeF4c609f1fd2",
+  "contributionDescription": "Onchain Reads is a decentralized social network for book enthusiasts.\n\nThe platform allows users to create virtual bookshelves, where they can organize and track the books they've read, are currently reading, or plan to read in the future. Users can also rate and review books and provide recommendations.\n\nOnchain Reads provides a space for users to connect with like-minded individuals and participate in communities. Users can explore new books based on their interests and engage in discussions with fellow readers.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/matallo/onchain-reads",
+      "description": "Onchain Reads GitHub repository"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://onchainreads.phyles.app/",
+      "description": "Onchain Reads website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Attestations onchain on mainnet (Base)",
+      "number": "19",
+      "url": "https://base.easscan.org/schema/view/0x033ac28e96914866bb41e63e9439560a83521eb856ecdb711ef520ae43994d18"
+    },
+    {
+      "description": "Likes on Farcaster",
+      "number": "124",
+      "url": "https://warpcast.com/matallo.eth/0x97794568"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 1600,
+      "description": "100 Builders grant"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x58b1951ae028d7171e2b3f609fb4a3f8df725bcb4af816fbca0b0e406896049c",
+  "prelimResult": "Keep",
+  "reportReason": "Hackathon-like project that hasn't seen any usage afterwards",
+  "includedInBallots": 10,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

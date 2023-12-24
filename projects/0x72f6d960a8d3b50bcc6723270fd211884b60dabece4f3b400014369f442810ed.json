@@ -1,0 +1,71 @@
+{
+  "bio": "A decentralised node network providing developer RPCs & public endpoints",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Pocket Network",
+  "websiteUrl": "https://www.pokt.network/",
+  "applicant": {
+    "address": {
+      "address": "0x7b8B83e68C73AA4F00e6eD1A505dE15147AD5764",
+      "resolvedName": {
+        "address": "0x7b8B83e68C73AA4F00e6eD1A505dE15147AD5764",
+        "name": "b3nnn.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x7b8B83e68C73AA4F00e6eD1A505dE15147AD5764"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7b8B83e68C73AA4F00e6eD1A505dE15147AD5764.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x7b8B83e68C73AA4F00e6eD1A505dE15147AD5764.png",
+    "id": "OptimistProfile|0x96759042bf1a5261e3d4660552df5f584f47e67093edfafcb40b939901a9887b"
+  },
+  "impactDescription": "- Enabling developers to build applications on top of Optimism and make 11.5 Billion calls to the Optimism blockchain\n- Providing end-users a public endpoint for Optimism that enjoys near perfect uptime and provides a decentralised RPC connection for their wallet.",
+  "contributionDescription": "Pocket provides RPCs for Optimism developers via its decentralised node network.  Our noderunners have provided over 11.5 Billion relays to Optimism since June 2022.  \nWe have started integrating OP Stack chains by supporting BASE (136 Million relays since August 2023). \nWe also provide a dedicated public endpoint for Optimism free of charge to end users.\n\nFor developers, we provide a generous free tier up to 100,000 relays per day.  Our decentralised network enjoys near perfect uptime.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://poktscan.com/explore?tab=chains&network=0053",
+      "description": "Block explorer and analytics platform for Pocket Blockchain"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.pokt.network/use/public-rpc/",
+      "description": "Pocket Public Endpoints (including Optimism)"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/pokt-foundation/docs/blob/ad7310b1a7251bd637dd9d6a5702a17095382803/content/use/public-rpc/_index.md?plain=1#L9",
+      "description": "Pocket Public RPC"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "RPC Relays served - Optimism",
+      "number": "11565564829",
+      "url": "https://www.poktscan.com/explore?tab=chains&network=0053"
+    },
+    {
+      "description": "RPC Relays served - Base",
+      "number": "136678087",
+      "url": "https://www.poktscan.com/explore?tab=chains&network=0079"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 58180.59,
+      "description": "RPG funding to the Pocket core team for historical support of public endpoints"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x72f6d960a8d3b50bcc6723270fd211884b60dabece4f3b400014369f442810ed",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 49,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Services & Support"
+}

@@ -1,0 +1,103 @@
+{
+  "bio": "True P2P lending",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "PWN DAO",
+  "websiteUrl": "https://pwn.xyz/",
+  "applicant": {
+    "address": {
+      "address": "0xd26a52885d80e4aa206A283912FdcA94CCb7844B",
+      "resolvedName": {
+        "address": "0xd26a52885d80e4aa206A283912FdcA94CCb7844B",
+        "name": "victornotaro.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xd26a52885d80e4aa206A283912FdcA94CCb7844B"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd26a52885d80e4aa206A283912FdcA94CCb7844B.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xd26a52885d80e4aa206A283912FdcA94CCb7844B.png",
+    "id": "OptimistProfile|0x31791061c397c6073919230d209322122304f9049a8bbf1c4dccfe93774adc5f"
+  },
+  "impactDescription": "We contributed directly to the Optimism ecosystem by deploying a P2P permissionless lending protocol. \nOur project also contributed by educating users about the benefits of prioritizing decentralized platforms. \n1/PWN publishes the cryptonative economy reports to detail the self-sufficiency of our economy. We did one deep-dive on the origin of the fees generated for the year 2022 on Optimism inspiring readers to become cryptonative. We brought the cryptonative economy reports into local communities. We were published in the French media Le Journal Du Coin and interviewed by Czech podcasts.\n2/We also have an ongoing series of interviews with cryptonatives.\n3/We maintain gm.events. It's a page for crypto natives to list their value-aligned events for free. \n",
+  "contributionDescription": "PWN is a peer-to-peer lending protocol designed for long-term mortgage-like loans of digital assets, backed by other digital assets. Borrowers can receive a fixed-duration loan of fungible tokens backed by fungible or non-fungible tokens, while lenders can earn interest by granting these loans. The protocol is trustless, and immutable.\n\nWe are strong believers that the OP stack is a main pillar of Ethereum scaling. For this reason our platform provides an opportunity on the OP stack for borrowers to get peer to peer fixed terms loans and lenders to get rewarded for lending against ERC-20s, and NFTs (and soon RWAs).\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/PWNFinance/pwn_contracts",
+      "description": "Please scroll down to see all the deployed contracts."
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/PWNFinance",
+      "description": "This is our Github. "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://app.pwn.xyz/#/",
+      "description": "the app"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Cryptonative economy report readers",
+      "number": "723",
+      "url": "https://cryptonative.pwn.xyz/"
+    },
+    {
+      "description": "Mentions of Optimism in our reports",
+      "number": "10",
+      "url": "https://cryptonative.pwn.xyz/"
+    },
+    {
+      "description": "Number of followers on Farcaster",
+      "number": "19",
+      "url": "https://warpcast.com/pwndao"
+    },
+    {
+      "description": "Number of cryptonative interviews",
+      "number": "13",
+      "url": "https://pwn.mirror.xyz/"
+    },
+    {
+      "description": "Number of cryptonative interview views",
+      "number": "1318",
+      "url": "https://pwn.mirror.xyz/"
+    },
+    {
+      "description": "Number of events registered on GM events",
+      "number": "105",
+      "url": "https://gm.events/#/"
+    },
+    {
+      "description": "Number of cities registered on GM events",
+      "number": "8",
+      "url": "https://gm.events/#/"
+    },
+    {
+      "description": "# of PWN's deployments on the OP stack",
+      "number": "2",
+      "url": "https://github.com/PWNFinance/pwn_contracts#readme"
+    },
+    {
+      "description": "# of PWN's dedicated dashboards to OP ",
+      "number": "1",
+      "url": "https://dune.com/pwndao/pwn-op"
+    },
+    {
+      "description": "# of views of tweets about OP ",
+      "number": "4500",
+      "url": "https://docs.google.com/spreadsheets/d/1XQhnq4SMW-TOOdwuo0EGbL4KYvmC0tiCeo1YfikEje4/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x70e67f4b67a491564f7d4df7ddf4e5360791fd9a614a74804a2a452405293409",
+  "prelimResult": "Keep",
+  "reportReason": "0 activity on Optimism",
+  "includedInBallots": 24,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

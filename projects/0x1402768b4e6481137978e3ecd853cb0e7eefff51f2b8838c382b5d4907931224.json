@@ -1,0 +1,55 @@
+{
+  "bio": "List of EVM networks and RPCs for them, with performance and privacy ratings",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "ChainList",
+  "websiteUrl": "https://chainlist.org/",
+  "applicant": {
+    "address": {
+      "address": "0xe2bBCF440D0F1419f93cD84Dda24759188c3185D",
+      "resolvedName": {
+        "address": "0xe2bBCF440D0F1419f93cD84Dda24759188c3185D",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xe2bBCF440D0F1419f93cD84Dda24759188c3185D"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe2bBCF440D0F1419f93cD84Dda24759188c3185D.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xe2bBCF440D0F1419f93cD84Dda24759188c3185D.png",
+    "id": "OptimistProfile|0xbb6f9f7a6fd0305c514ff769a85bd0006a489b22f0c1fdfe51aefb1b9446d739"
+  },
+  "impactDescription": "Millions of users (concretely 1M-2M each month) get a much more convenient and safer experience onboarding to optimism when adding the chain through our site, as we curate the RPCs there to avoid any scam RPCs that they could run across on the wild otherwise.\n\nBy summarizing the privacy policies of all RPCs we make it viable for users to make choices based on that, as the alternative of having to read the multiple pages of legalese on the privacy policy of each individual RPC is just not viable for users to do. We aggregate this work so we just do it once and then everybody can benefit from it.",
+  "contributionDescription": "We maintain ChainList, a site used by >1.2M users monthly to add new chains, switch chains, review RPCs available on any chain, and switch RPCs as they need.\n\nThis involves us maintaining an updated list of RPCs, curating them, and also reviewing the privacy policies of all RPC providers to give them a rating and summarize the most relevant information to give it to our users directly so they can make informed decisions on which RPC to use without having to read the full privacy policy of each RPC, which are very long.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/DefiLlama/chainlist",
+      "description": "ChainList repo"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Monthly ChainList Users",
+      "number": "1200000",
+      "url": "https://www.similarweb.com/website/chainlist.org/#overview"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 49900,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x1402768b4e6481137978e3ecd853cb0e7eefff51f2b8838c382b5d4907931224",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 68,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Dev Tooling"
+}

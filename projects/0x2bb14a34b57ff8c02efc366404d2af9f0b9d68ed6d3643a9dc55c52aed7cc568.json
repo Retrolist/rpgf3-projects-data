@@ -1,0 +1,52 @@
+{
+  "bio": "happy",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "tai",
+  "websiteUrl": "https://twitter.com/nishiok14852091",
+  "applicant": {
+    "address": {
+      "address": "0x9e8757306353474ecB3f10E10a16106A0afa452F",
+      "resolvedName": {
+        "address": "0x9e8757306353474ecB3f10E10a16106A0afa452F",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x9e8757306353474ecB3f10E10a16106A0afa452F"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9e8757306353474ecB3f10E10a16106A0afa452F.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xfbfedfedc06f69fc5b730a130a7f778eba91c46aef755c3286c0a5571a8b33ff"
+  },
+  "impactDescription": "One of the things I love about it is that it's great with the clock and it brings back experiences that let us experience how many hours of electrons there are, it's one of the things I like the most.The project brings people's trust it works great ,bring interesting experiences to everyone",
+  "contributionDescription": "One of the things I love about it is that it's great with the clock and it brings back experiences that let us experience how many hours of electrons there are, it's one of the things I like the most.The project brings people's trust it works great ,bring interesting experiences to everyone ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://twitter.com/nishiok14852091",
+      "description": "ok"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "420",
+      "number": "420",
+      "url": "https://twitter.com/nishiok14852091"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x2bb14a34b57ff8c02efc366404d2af9f0b9d68ed6d3643a9dc55c52aed7cc568",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

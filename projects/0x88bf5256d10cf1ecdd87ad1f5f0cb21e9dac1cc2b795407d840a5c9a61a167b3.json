@@ -1,0 +1,45 @@
+{
+  "bio": "kind and gentle crypto inspired",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "ProDan",
+  "websiteUrl": "https://twitter.com/pnwaorgu",
+  "applicant": {
+    "address": {
+      "address": "0x1Df6035F143b799484eb92286E018b388df867aD",
+      "resolvedName": {
+        "address": "0x1Df6035F143b799484eb92286E018b388df867aD",
+        "name": "prsdnl.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x1Df6035F143b799484eb92286E018b388df867aD"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x3aea292d0349e46c7c671c2c54286d7363f35d6f115cf7beda1ad309649c3e82"
+  },
+  "impactDescription": "i take the great news of this great project to my and outside my community making sure its awareness reaches to people who are interest build with us on this great optimism project  it will be of a great pleasure in a good working relationship and i will be glad waiting ",
+  "contributionDescription": "i have been active member supporting the the project in my own little way i have a community more than 200 active member i recommend this great to and giving a testimony to them it will motivate them to do even more than they are doing  it will be of a great pleasure in a good working relationship ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/tx/0x23666cb26a58551aabaa40f6908b0c79967e1ae0d034db98444ee1cfb84f51ce",
+      "description": "its great being here"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#1",
+      "number": "420",
+      "url": "https://optimistic.etherscan.io/tx/0x23666cb26a58551aabaa40f6908b0c79967e1ae0d034db98444ee1cfb84f51ce"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x88bf5256d10cf1ecdd87ad1f5f0cb21e9dac1cc2b795407d840a5c9a61a167b3",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

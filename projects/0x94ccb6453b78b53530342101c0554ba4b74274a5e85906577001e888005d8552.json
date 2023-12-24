@@ -1,0 +1,53 @@
+{
+  "bio": "I am an expert Web3 User and A short-term trader and also an airdrop analyzer.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "Tayhan",
+  "websiteUrl": "https://t.me/CBangla",
+  "applicant": {
+    "address": {
+      "address": "0x77fCC2d8e99Dae605837B7752D64285272168f73",
+      "resolvedName": {
+        "address": "0x77fCC2d8e99Dae605837B7752D64285272168f73",
+        "name": "tayhan.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x77fCC2d8e99Dae605837B7752D64285272168f73"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x77fCC2d8e99Dae605837B7752D64285272168f73.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x77fCC2d8e99Dae605837B7752D64285272168f73.jpeg",
+    "id": "OptimistProfile|0x23a18829a02f95db9ff97c0ee5afb06a95ca88cc3dd8dceae2af778a2d84f5cf"
+  },
+  "impactDescription": "It will be helpful for the Optimism Company and its whole community as every transaction counts. Im financially not stable to i didn't able to contribute well and also i'm not so educative and a well speaker in english. So, if i do something wrong with the info you need for. Please perdon me! i'm trying my best to do what best for Optimism and RetroPGF",
+  "contributionDescription": "I have promoted it through Telegram and Twitter.\nAnd\nI wish to receive RetroPGF for contributing onchain and this.\n\nUID: 0xe656668a751e9c166d57f16dd1f19050746bf17a23a5c2478bce167898d4d1d7\nWeb Link: https://optimism.easscan.org/attestation/view/0xe656668a751e9c166d57f16dd1f19050746bf17a23a5c2478bce167898d4d1d7\n",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimism.easscan.org/attestation/view/0xe656668a751e9c166d57f16dd1f19050746bf17a23a5c2478bce167898d4d1d7",
+      "description": "Contribution"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "onchain contracts",
+      "number": "1",
+      "url": "https://optimism.easscan.org/attestation/view/0xe656668a751e9c166d57f16dd1f19050746bf17a23a5c2478bce167898d4d1d7"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 7,
+      "description": "Received this from Optimism Airdrop Round 2"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x94ccb6453b78b53530342101c0554ba4b74274a5e85906577001e888005d8552",
+  "prelimResult": "Remove",
+  "reportReason": "out of scope, impact not clear"
+}

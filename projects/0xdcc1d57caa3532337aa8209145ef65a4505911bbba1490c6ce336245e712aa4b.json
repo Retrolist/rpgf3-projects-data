@@ -1,0 +1,51 @@
+{
+  "bio": "REYIELD is an AI investment platform that simplifies professional investment",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "REYIELD Finance",
+  "websiteUrl": "https://www.reyield.fi/",
+  "applicant": {
+    "address": {
+      "address": "0x7F6639Fea4D2969372366CfA9d65d95df4DF3473",
+      "resolvedName": {
+        "address": "0x7F6639Fea4D2969372366CfA9d65d95df4DF3473",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x7F6639Fea4D2969372366CfA9d65d95df4DF3473"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xd54086ad94ead0b9917f95663903dcf841904ec10a46c074747eb11efd9a382c"
+  },
+  "impactDescription": "1. Increase in Optimism TVL: We provide Uniswap v3 investment tools, allowing users to provide liquidity on Optimism Uniswap in a simpler way.\n2. Increase in Optimism contract count: We offer each user a unique smart contract for Uniswap v3 rebalance and for storing Uniswap v3 position NFT.\n3. Helping increase Optimism users: We've simplified the investment complexity and also offer a small amount of Gas Fee for first-time Optimism users, allowing them to use Optimism more quickly and easily.",
+  "contributionDescription": "Assist users in completing the first step of adopting Optimism: Provide a small amount of gas fee so that users can trade on Uniswap to obtain the initial gas fee - 0.123 $OP x 5000 users = 615 OP.\nOffer liquidity incentives to attract users for adoption: Provide additional $OP rewards for liquidity providers of OP/ETH, USDC/USDT, sUSD/USDC, DAI/USDC, SNX/ETH, and stETHETH pairs - 2000 users x $1000 x 10% incentive = 144928 OP.\nSupport for AI Development: We spent 5 months researching the timeseries AI model, attempting to develop an AI model related to cryptocurrency prices. We are currently in the reinforcement learning training phase and need to rent more computational power to provide users with a Uniswap v3 AI price range discovery feature - 1024 GPU x 365 days x $1.562 = 42312 OP",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/reyield-finanace/uniswap-v3-smart-vault/tree/main/contracts",
+      "description": "A set of smart contracts that automate liquidity providing on Uniswap v3"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Smart Contracts",
+      "number": "34",
+      "url": "https://www.reyield.fi/metric"
+    },
+    {
+      "description": "TVL",
+      "number": "31897.47",
+      "url": "https://www.reyield.fi/metric"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xdcc1d57caa3532337aa8209145ef65a4505911bbba1490c6ce336245e712aa4b",
+  "prelimResult": "Remove",
+  "reportReason": "Spam"
+}

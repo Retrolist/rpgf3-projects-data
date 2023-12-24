@@ -1,0 +1,55 @@
+{
+  "bio": "Am looking a better work in crypto",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Billax",
+  "websiteUrl": "https://twitter.com/renukananda05",
+  "applicant": {
+    "address": {
+      "address": "0x119B062BE4AD3aB595BfE1FED9323951880CCC0e",
+      "resolvedName": {
+        "address": "0x119B062BE4AD3aB595BfE1FED9323951880CCC0e",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x119B062BE4AD3aB595BfE1FED9323951880CCC0e"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x119B062BE4AD3aB595BfE1FED9323951880CCC0e.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x8f6069c10582e8f1f12b6900419173c737b91f4a899497308d8cc02dee05c499"
+  },
+  "impactDescription": "OP is the native governance token of Optimism, a Layer-2 network built to address Ethereum's scalability challenges. Optimism utilises a technology called optimistic rollups to bundle transactions and reduce fees on the Ethereum network.                               ",
+  "contributionDescription": "I have Participated in number of OP network test nets and Airdrop takes.\nOP is the native governance token of Optimism, a Layer-2 network built to address Ethereum's scalability challenges. Optimism utilises a technology called optimistic rollups to bundle transactions and reduce fees on the Ethereum network ",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0x119B062BE4AD3aB595BfE1FED9323951880CCC0e",
+      "description": "OP Forever"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "OPETH",
+      "number": "220",
+      "url": "https://optimistic.etherscan.io/address/0x119B062BE4AD3aB595BfE1FED9323951880CCC0e"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 10000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe08ededab0d11de83c835f116725ed1edc82d96e18a82762c4f7fff7a83f4a47",
+  "prelimResult": "Remove",
+  "reportReason": "Outside of RetroPGF's Scope, Spam"
+}

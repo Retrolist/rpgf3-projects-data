@@ -1,0 +1,98 @@
+{
+  "bio": "Privacy-first proof of human uniqueness using an anonymous social graph.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "BrightID",
+  "websiteUrl": "https://www.brightid.org/",
+  "applicant": {
+    "address": {
+      "address": "0x4B8810b079eb22ecF2D1f75E08E0AbbD6fD87dbF",
+      "resolvedName": {
+        "address": "0x4B8810b079eb22ecF2D1f75E08E0AbbD6fD87dbF",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x4B8810b079eb22ecF2D1f75E08E0AbbD6fD87dbF"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4B8810b079eb22ecF2D1f75E08E0AbbD6fD87dbF.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4B8810b079eb22ecF2D1f75E08E0AbbD6fD87dbF.png",
+    "id": "OptimistProfile|0x2c3cf9e617f1ac594cba9a004a5439ea4793e426a7f69c9c2afaf124d05dbf83"
+  },
+  "impactDescription": "BrightID has been securing Optimism Collective member projects against Sybil-attacks.\n\nUnder the idea that identity is a human right, It was one of the first executions to give people ownership over their identity and give everyone the potential access to the baseline rights of access to public goods. Its development has been guided by three principles: \n\nPrivacy: BrightID doesn\u2019t record any personally identifying information.\nAccessibility: Everyone in the world can join, participate and get their fair share of rights.\nOpenness: Everything about the public good is open to the public, to use, or to steward.\n\n100,000+ unique individuals have created their profile and 16 apps have integrated BrightID as a non-intrusive alternative to KYC to \u201cprove uniqueness\u201d.\n",
+  "contributionDescription": "BrightID enables individuals to authenticate themselves as unique through the creation and analysis of a social graph by those who already know them. It requires no personal data from users other than the anonymous graph of connections.\n\nBrightID is a public good that protects the access of individuals to other public goods.\n\n*It has been used widely in the Ethereum community & in applications in the Optimism Ecosystem.\n\n*It was the first verification used by Gitcoin Grants, and helped develop the \"trust bonus\" which became Gitcoin passport. This includes the GG18 round run in Optimism.\n\n*It is the only Sybil-resistant attestation used by CLR.fund for its MACI protected Quadratic voting.\n\n*BrightID protects the Optimism Gas Tap of Unitap helping onboard brand new users.\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/BrightID/BrightID",
+      "description": "BrightID Github"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://apps.brightid.org/",
+      "description": "List of Apps using BrightID"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://brightid.stoplight.io/",
+      "description": "Integration Guide"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Unique BrightID Users",
+      "number": "107523",
+      "url": "https://explorer.brightid.org/#"
+    },
+    {
+      "description": "Apps secured using BrightID",
+      "number": "16",
+      "url": "https://apps.brightid.org/"
+    },
+    {
+      "description": "Gas claims on Optimism via Unitap",
+      "number": "2507",
+      "url": "https://unitap.app/gas-tap"
+    },
+    {
+      "description": "Gitcoin Rounds Protected",
+      "number": "15",
+      "url": "https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/how-do-i-add-passport-stamps/connecting-brightid-to-passport"
+    },
+    {
+      "description": "CLR.Fund Rounds Protected",
+      "number": "12",
+      "url": "https://clr.fund/#/about/sybil-resistance"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 11002,
+      "description": ""
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 250000,
+      "description": "Grants (primarily Gitcoin QF rounds) received over 5 years"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 500000,
+      "description": "Subscriptions to app builders to onboard new users in 2019-2002"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x62b8c0895d6654e29f76021c1cabd87c59f4fe65f740b86368eda5649b697d4a",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 52,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

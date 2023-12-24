@@ -1,0 +1,151 @@
+{
+  "bio": "One of largest community in Japan focusing on education. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "KudasaiJP",
+  "websiteUrl": "https://kudasai.co.jp/",
+  "applicant": {
+    "address": {
+      "address": "0xB1b37B24045db80492eEf16dc28fB84fED210a64",
+      "resolvedName": {
+        "address": "0xB1b37B24045db80492eEf16dc28fB84fED210a64",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xB1b37B24045db80492eEf16dc28fB84fED210a64"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB1b37B24045db80492eEf16dc28fB84fED210a64.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xB1b37B24045db80492eEf16dc28fB84fED210a64.png",
+    "id": "OptimistProfile|0xb2a72bae15cc7cb0cc0f16186c0edd232f75dccce8ab521e007d39b250665153"
+  },
+  "impactDescription": "Our contributions have helped increase awareness about Optimism in Japan and resulted in more adoption within our community.\nMetrics:\nTwitter: 83k views on twitter, 452 likes\nYouTube: 3.5K views on YouTube\nMirror: 709 collects on Mirror\n\nOne example of such adoption is the results from our participation in the Gitcoin GG18 (deployed on Optimism) round where we ended as a top grantee in community and education despite being the only Japanese language community. This shows how active our community has become in the Optimism ecosystem",
+  "contributionDescription": "We created content to spread the Optimistic throughout Japan. \n\nBlog:\nOur team has translated the following articles and published on mirror:\nRetro PGF3 Application\nOP Airdrop \nLaw of Chains\nRetroPGF3\nSuperchain\nOP Stack. \n\nYouTube: \nOptimism in the Layer2 landscape\nOptimism ecosystem\nSuperchain\n\nWe have spent over 2 years working to educate our community growing our audience to 82k on Twitter, 20K on Telegram, 8.8K Youtube, 26k on Discord making us one of the biggest communities dedicated to educational content around blockchain. Our twitter impressions have reached over 2.9M in the last 90 days.\n\nWe'd like to thank Carlos Melgar for introducing us to the Optimism ecosystem and guide us through our Optimism journey.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=5SnlebahUqk&t=1819s",
+      "description": "Layer2 Youtube "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=cScIihZxSLk&t=278s",
+      "description": "Optimism Youtube"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=ucQIZqZxtCM&t=264s",
+      "description": "Superchain Youtube"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x061d82255881B7D97fB67e910f6BD1935cd3ac8e/8sdp6lUUtm7U7MTCbNltRb2nLdFCiPAlJ57lMOqgCX4",
+      "description": "RetroPGF\u30e9\u30a6\u30f3\u30c93 translated article"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x061d82255881B7D97fB67e910f6BD1935cd3ac8e/5NdicZMk3sSVmL2ylvyziGCJxlB8hx8fSWvMAVcbXfs",
+      "description": "OP airdrop translated article"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x061d82255881B7D97fB67e910f6BD1935cd3ac8e/pveiPoEG8dR806D6MGDmhgLkUdcFob7bTpDMB27vB4U",
+      "description": "Law of Chains translated article"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x061d82255881B7D97fB67e910f6BD1935cd3ac8e/EAfHd1CklpV85o0dygbnixAAbuweUFaw3H_0JtdVTvs",
+      "description": "RetroPGF Round3 translated article"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x061d82255881B7D97fB67e910f6BD1935cd3ac8e/fMLJgCS30DPoBtvEOqOQDRZamb0aRkzA59McQPY9uho",
+      "description": "Super chain translated article"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mirror.xyz/0x061d82255881B7D97fB67e910f6BD1935cd3ac8e/RWVxjviWkF_SIMzR9b_sF7rNMJuksej1XYjo1BisHF0",
+      "description": "OP Stack translated article"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "twitter followers",
+      "number": "82000",
+      "url": "https://twitter.com/kudasai_japan"
+    },
+    {
+      "description": "Youtube followers",
+      "number": "8800",
+      "url": "https://www.youtube.com/@Official_KudasaiJP"
+    },
+    {
+      "description": "twitter",
+      "number": "8800",
+      "url": "https://twitter.com/kudasai_japan/status/1710103891168350219?s=20"
+    },
+    {
+      "description": "twitter",
+      "number": "14000",
+      "url": "https://twitter.com/crypto___baby/status/1709912177132593247?s=20"
+    },
+    {
+      "description": "twitter",
+      "number": "22000",
+      "url": "https://twitter.com/kudasai_japan/status/1709761435948179567?s=20"
+    },
+    {
+      "description": "twitter",
+      "number": "12000",
+      "url": "https://twitter.com/kudasai_japan/status/1702607401650913711?s=20"
+    },
+    {
+      "description": "twitter",
+      "number": "26000",
+      "url": "https://twitter.com/kudasai_japan/status/1702226836267418087?s=20"
+    },
+    {
+      "description": "mirror",
+      "number": "709",
+      "url": "https://mirror.xyz/0x061d82255881B7D97fB67e910f6BD1935cd3ac8e"
+    },
+    {
+      "description": "youtube",
+      "number": "770",
+      "url": "https://www.youtube.com/watch?v=ucQIZqZxtCM&t=2s"
+    },
+    {
+      "description": "youtube",
+      "number": "681",
+      "url": "https://www.youtube.com/watch?v=cScIihZxSLk&t=2s"
+    },
+    {
+      "description": "youtube",
+      "number": "2043",
+      "url": "https://www.youtube.com/watch?v=5SnlebahUqk&t=1721s"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 15000,
+      "description": "Gitcoin GG18 web3 community & education"
+    },
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 10000,
+      "description": "Mask Network Donation Grant"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x00addc381c654e9fa1e7c09cf83f5a9e17552bb123cf482b44f837b4928aec94",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 34,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

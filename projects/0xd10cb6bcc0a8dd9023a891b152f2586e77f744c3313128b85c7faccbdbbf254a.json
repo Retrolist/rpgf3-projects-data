@@ -1,0 +1,53 @@
+{
+  "bio": "im heree",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "miftahurrizki",
+  "websiteUrl": "https://app.optimism.io/profile/rpgf-application/basic-info",
+  "applicant": {
+    "address": {
+      "address": "0x29EFbf4e18AC525340C2656f55D26acd37c8b4Eb",
+      "resolvedName": {
+        "address": "0x29EFbf4e18AC525340C2656f55D26acd37c8b4Eb",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x29EFbf4e18AC525340C2656f55D26acd37c8b4Eb"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29EFbf4e18AC525340C2656f55D26acd37c8b4Eb.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0x693755f879dbab01be02dc9c1f4fcee0a785c15f6b5209082d0fae374b6eff4e"
+  },
+  "impactDescription": "i just contribution on opxen batch minter in cointool i know this ecosystem blavlalalasdasfsdfsafsadfsafdsafdsfds asfdsfdsfdsfdsfdsf dsf dsf sddddddddd sd                     dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+  "contributionDescription": "i just contribution on opxen batch minter in cointool i know this ecosystem blavlalalasdasfsdfsafsadfsafdsafdsfds asfdsfdsfdsfdsfdsf dsf dsf sddddddddd sd                     dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/miftah1231?tab=repositories",
+      "description": "dasboard"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "#dashboard",
+      "number": "1",
+      "url": "https://github.com/miftah1231"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 100000,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xd10cb6bcc0a8dd9023a891b152f2586e77f744c3313128b85c7faccbdbbf254a",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

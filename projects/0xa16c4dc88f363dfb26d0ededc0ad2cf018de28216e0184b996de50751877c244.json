@@ -1,0 +1,66 @@
+{
+  "bio": "'blst' is the cryptography library used by all Ethereum clients to power PoS",
+  "impactCategory": [
+    "OP_STACK"
+  ],
+  "displayName": "blst Cryptography Library",
+  "websiteUrl": "https://github.com/supranational/blst",
+  "applicant": {
+    "address": {
+      "address": "0x756678bD0d2358d2198511c3adF50502fDF45597",
+      "resolvedName": {
+        "address": "0x756678bD0d2358d2198511c3adF50502fDF45597",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x756678bD0d2358d2198511c3adF50502fDF45597"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x756678bD0d2358d2198511c3adF50502fDF45597.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x756678bD0d2358d2198511c3adF50502fDF45597.png",
+    "id": "OptimistProfile|0x8aa34180c609cd07611ff2dc75ef33044597d20fa18704347ee5650a3e0b3951"
+  },
+  "impactDescription": "'blst' is the cryptography library used to enable EIP-4844, which will allow rollups like Optimisim to achieve improved scalability and throughput. Further, blst can be used to power BLS signature account abstraction which will enable more secure and scalable ways of executing and aggregating transactions.",
+  "contributionDescription": "Supranational develops and maintains 'blst', a BLS12-381 signature library used by all Ethereum consensus clients. blst is high-performance and has undergone audits and formal verification, helping to ensure the security and scalability of Ethereum. It is also the cryptography library used to enable EIP-4844, which will allow rollups like Optimisim to achieve improved scalability and throughput.",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/supranational/blst",
+      "description": "blst Github Repository"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Rust Crate Downloads",
+      "number": "1594548",
+      "url": "https://crates.io/crates/blst"
+    },
+    {
+      "description": "'Used by' Repositories",
+      "number": "1300",
+      "url": "https://github.com/supranational/blst"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 40614,
+      "description": "OP Awarded for blst Cryptography Libary in RPGF2"
+    },
+    {
+      "type": "RETROPGF_1",
+      "currency": "USD",
+      "amount": 23227,
+      "description": "USD Awarded for blst Cryptography Libary in RPGF1"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xa16c4dc88f363dfb26d0ededc0ad2cf018de28216e0184b996de50751877c244",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 44,
+  "primaryCategory": "OP Stack",
+  "recategorization": "Ethereum Development & Maintanance"
+}

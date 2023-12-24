@@ -1,0 +1,76 @@
+{
+  "bio": "Sonne Finance is a decentralized lending protocol, native on Optimism.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Sonne Finance ",
+  "websiteUrl": "https://sonne.finance",
+  "applicant": {
+    "address": {
+      "address": "0x40Bd6e764DBc5C7268aaC775D8978881B16221F1",
+      "resolvedName": {
+        "address": "0x40Bd6e764DBc5C7268aaC775D8978881B16221F1",
+        "name": "thorafinance.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x40Bd6e764DBc5C7268aaC775D8978881B16221F1"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xa8b599d309c57199634959892d45bb53d48baa454b3c184f2d3cafb0adec58d9"
+  },
+  "impactDescription": "A year since its inception, Sonne Finance has soared to become the 6th largest protocol on Optimism, boasting a TVL of $29M (source) and leading as the top lending protocol with $42M in Total Borrows. We've seen 6,400 unique wallets stake SONNE, and our footprint extends to Base with an impressive $8M TVL. Together with Velodrome, we've not only championed native solutions on Optimism but also paved the way by demonstrating how to launch on Velodrome, Optimism's liquidity center, even open-sourcing our process for all.",
+  "contributionDescription": "As the premier native lending protocol on Optimism, Sonne Finance has significantly bolstered the Optimism ecosystem, solidifying our status as the world's largest OP lending market. Our collaboration with Velodrome Finance stands as a testament to innovation, illustrating how Velodrome can serve as a liquidity hub, inspiring other protocols to launch on Optimism. Embodying the true spirit of \"optimism\", we've championed community growth: from assisting newcomers with wallet setups, sharing knowledge about other protocols, to helping developers aspiring to make their mark on Optimism.\n\n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/sonne-finance",
+      "description": "Sonne Finance Github"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://sonne.finance/",
+      "description": "Application"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://docs.sonne.finance/",
+      "description": "Sonne Finance documentation"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Unique wallet addresses",
+      "number": "6400",
+      "url": "https://dune.com/0xkhmer/sonne-finance"
+    },
+    {
+      "description": "TVL ",
+      "number": "35600000",
+      "url": "https://defillama.com/protocol/sonne-finance"
+    },
+    {
+      "description": "Total Supplied",
+      "number": "89650000",
+      "url": "https://sonne.finance/markets/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 100000,
+      "description": "Only 100k from the originally proposed 250k has been received."
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x67268a35086153681270e531c0ba637e0a1b752b40a4d0661b88b32bef59b0dc",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 36,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Applications, NFTs, Social"
+}

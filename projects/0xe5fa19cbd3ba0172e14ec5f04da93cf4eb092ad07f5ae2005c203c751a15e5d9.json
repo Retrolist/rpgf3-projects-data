@@ -1,0 +1,52 @@
+{
+  "bio": "Advancing Deliberative Governance (aka Sortition) for Web3",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE"
+  ],
+  "displayName": "Antoine",
+  "websiteUrl": "https://www.missionspubliques.com",
+  "applicant": {
+    "address": {
+      "address": "0x8Bac937c3727B89F273dAbE81898227A0e3Afe6F",
+      "resolvedName": {
+        "address": "0x8Bac937c3727B89F273dAbE81898227A0e3Afe6F",
+        "name": "antoinevergne.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x8Bac937c3727B89F273dAbE81898227A0e3Afe6F"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8Bac937c3727B89F273dAbE81898227A0e3Afe6F.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x8Bac937c3727B89F273dAbE81898227A0e3Afe6F.png",
+    "id": "OptimistProfile|0xfda4d1b6a826d5f8c5f16c4f5776dbeab2ac79ef1f69f038ab11c237d403769e"
+  },
+  "impactDescription": "The impact is to prove that it is possible to make Web3 governance much more solid by using tools of collective intelligence and sortition based deliberative democracy. \n\nThe key is that it is extremely difficult to deploy the first pilot because the field is very reluctant to non technical solutions. However, the state of current governance is very bad and we need new ways to approach governance. \n\nI needed almost 2 years to make this first pilot possible. I share all learnings and experiences with the collective so we can all learn from it and deploy improved versions in the future. ",
+  "contributionDescription": "My contribution to the collective is still indirect. But please consider it as a broad contribution to make Web3 governance much more inclusive, legitimate and resilient. This work also helps to Collective by showing that it is not only possible but also relevant to deploy deliberative governance for better decisions. It's a public good in the making for all blockchain ecosystems. \n\nNow to the contribution: I pilot the approach of Citizens' Assemblies in the broader Web3 ecosystem. I am leading a pilot of Citizens' Assembly in the Cosmos Ecosystem. I will be able to bring this work to the Optimism Ecosystem to pilot it there next year.\n\nhttps://docs.google.com/document/d/14ZIPZQ-YSI8T0yAmFiFfjw65eytCtf2KrAiijdo_raE/edit#heading=h.tyjcwt\n\n\n ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://docs.google.com/document/d/1EkpUaLtQd_G-T8jz7Y04CfsJonILrItwrjZYWta51nU/edit",
+      "description": "Lists of core documents of the Assembly"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Documentation of project",
+      "number": "5",
+      "url": "https://docs.google.com/document/d/1EkpUaLtQd_G-T8jz7Y04CfsJonILrItwrjZYWta51nU/edit"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "OTHER",
+      "currency": "USD",
+      "amount": 5000,
+      "description": "Airdrop! 1 and 3. Involved in Opti since the beginning"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe5fa19cbd3ba0172e14ec5f04da93cf4eb092ad07f5ae2005c203c751a15e5d9",
+  "prelimResult": "Remove",
+  "reportReason": "['Promises of future impact : I will be able to bring this work to the Optimism Ecosystem to pilot it there next year. + url broken']"
+}

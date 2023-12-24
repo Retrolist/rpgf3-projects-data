@@ -1,0 +1,45 @@
+{
+  "bio": "Running Lead @Ogdao",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "Sahil desai",
+  "websiteUrl": "https://twitter.com/sahildesaikp",
+  "applicant": {
+    "address": {
+      "address": "0xefE0Cc2f7cdC55efFa6b6b1378A8e2Ca49b692C5",
+      "resolvedName": {
+        "address": "0xefE0Cc2f7cdC55efFa6b6b1378A8e2Ca49b692C5",
+        "name": "bitcoinbai.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xefE0Cc2f7cdC55efFa6b6b1378A8e2Ca49b692C5"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xefE0Cc2f7cdC55efFa6b6b1378A8e2Ca49b692C5.jpeg",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xccb95eaddf47016a796b3a8154f7a39156c4846fde8b6418aea2bb02b1ec10d3"
+  },
+  "impactDescription": "Director Removal is the right of governance to remove a director of the Optimism Foundation.\n\nDirector Removals are approved by both the Token House and Citizens\u2019 House. Stewards of the Optimism Foundation should be accountable to the entire community.\n\nThis right is enforced and upheld by the legal documents that underpin the Optimism Foundation\u2019s commitment to the Collective. As Directors are not represented onchain, this responsibility does not have onchain enforceability.",
+  "contributionDescription": "Director Removal is the right of governance to remove a director of the Optimism Foundation.\n\nDirector Removals are approved by both the Token House and Citizens\u2019 House. Stewards of the Optimism Foundation should be accountable to the entire community.\n\nThis right is enforced and upheld by the legal documents that underpin the Optimism Foundation\u2019s commitment to the Collective. As Directors are not represented onchain, this responsibility does not have onchain enforceability.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/",
+      "description": "Mentions"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Mentions",
+      "number": "100",
+      "url": "https://optimistic.etherscan.io/"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x35ca51b87a1c164e1654f4d271fb901bafe9e136e1eef3b7548ae752bac74b58",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

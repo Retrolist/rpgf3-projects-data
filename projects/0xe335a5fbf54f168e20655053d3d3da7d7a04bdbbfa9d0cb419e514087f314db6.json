@@ -1,0 +1,60 @@
+{
+  "bio": "The RareSkills Book of Zero Knowledge is a free code-oriented course in ZK.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM"
+  ],
+  "displayName": "RareSkills Book of Zero Knowledge Proofs",
+  "websiteUrl": "https://www.rareskills.io/zk-proofs",
+  "applicant": {
+    "address": {
+      "address": "0x2CbC7aeBfaf07f6Ba1E2B40032228d0b0B919f8F",
+      "resolvedName": {
+        "address": "0x2CbC7aeBfaf07f6Ba1E2B40032228d0b0B919f8F",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x2CbC7aeBfaf07f6Ba1E2B40032228d0b0B919f8F"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2CbC7aeBfaf07f6Ba1E2B40032228d0b0B919f8F.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x2CbC7aeBfaf07f6Ba1E2B40032228d0b0B919f8F.png",
+    "id": "OptimistProfile|0x88e9931bbfc2446abeaf555030fdf93f7c518408f222eb591b16db5fe23f7c8c"
+  },
+  "impactDescription": "We published this just over two weeks ago, but here is some feedback:\n\n\"In one day, I\u2019ve caught up on so many areas which were tripping me up for a while, thanks to this resource. The people who put this together are legends\"\n\n\"https://www.rareskills.io/post/rank-1-constraint-system is the best article I've seen about R1CS by far!\"\n\nhttps://x.com/justinfrevert/status/1708490128304345134\nhttps://discord.com/channels/1060005744008769546/1062631528573706290/1161603275292946453",
+  "contributionDescription": "We are seeking funding for the RareSkills Book of Zero Knowledge Proofs.\n\nIt is a completely free book with over 13 chapters that teaches smart contract developers how to implement ZK-SNARKs from scratch. We believe it is best to learn by coding rather than by learning in abstract. There is no getting around the math in the subject, but we try to narrow it down to the most essential areas and teach by showing lots of examples rather than giving proofs.\n\nThe book is already complete and we are currently working on adding sections for Bulletproofs and ZK-STARKs.\n\nWe already have evidence developers are able to use the material effectively. Here is a writeup from a developer who used the resource: https://medium.com/coinmonks/under-the-hood-of-zksnark-groth16-protocol-2843b0d1558b",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://rareskills.io/zk-book",
+      "description": "This is the book link"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Views",
+      "number": "3024",
+      "url": "https://www.rareskills.io/post/set-theory"
+    },
+    {
+      "description": "Views",
+      "number": "5993",
+      "url": "https://www.rareskills.io/post/how-does-tornado-cash-work"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 8449.31,
+      "description": "This was for our gas puzzles repo https://github.com/RareSkills/gas-puzzles"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xe335a5fbf54f168e20655053d3d3da7d7a04bdbbfa9d0cb419e514087f314db6",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 17,
+  "primaryCategory": "Developer Ecosystem",
+  "recategorization": "Developer Education"
+}

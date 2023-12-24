@@ -1,0 +1,104 @@
+{
+  "bio": "A platform dedicated to analyzing web3 technologies for Spanish speakers",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Kairos Research",
+  "websiteUrl": "https://kairosresearch.xyz",
+  "applicant": {
+    "address": {
+      "address": "0x6D465d2081b799770d0Ce7E755d8dB1665903fFB",
+      "resolvedName": {
+        "address": "0x6D465d2081b799770d0Ce7E755d8dB1665903fFB",
+        "name": "ariiellus.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x6D465d2081b799770d0Ce7E755d8dB1665903fFB"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6D465d2081b799770d0Ce7E755d8dB1665903fFB.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x6D465d2081b799770d0Ce7E755d8dB1665903fFB.png",
+    "id": "OptimistProfile|0x077630de89918ef441c49fa73c790190abccaed0e0c538c33c18e01f8bed12e0"
+  },
+  "impactDescription": "Our impact on Optimism has been significant. We educated individuals on OPStack, opChains and attestations, provided NFT to projects with we are building community, and gained recognition for our EAS Tutorial. \n\nOur initiatives, including hosting a DeFi workshop, Twitter Spaces sessions, and delivering informative talks, have all contributed to a deeper understanding of the Optimism ecosystem. In addition, our authored articles have shed light on the ecosystem's various aspects. \n\nThese combined efforts have left a lasting imprint on the Optimism community, particularly within the Latin American region, fostering growth and engagement.",
+  "contributionDescription": "Our contributions to Optimism have been diverse and impactful. We educated individuals on  OP Stack, opChains and attestations, rewarded numerous projects with a NFT, received recognition for our OPStack content and Attestations Tutorial, conducted informative workshops, engaged in interactive Twitter Spaces discussions, and delivered insightful talks to LatAm communities. \n\nAdditionally, we authored articles to shed light on the Optimism ecosystem. These collective efforts have significantly enhanced awareness and understanding within the Optimism community, particularly in Latin America, leaving a substantial and lasting impact.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.notion.so/researchkairos/31fdd726f1da42fcaac1ef83638e1c29?v=648305deecad407f99aa9b646a4736f8&pvs=4",
+      "description": "We taught to 16 people how to make Attestations on the Optimism Mainnet "
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/token/0x681ab45116d6d045e0769a8d61fcb5d0b109c93f",
+      "description": "We give 30 NFTs to projects from the GGR18. 17 received their first NFT "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://x.com/Research_Kairos/status/1695210077739765960?s=20",
+      "description": "We ran a Twitter Spaces with Optimism en Espa\u00f1ol to talk about the OP Stack"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.notion.so/researchkairos/e84c3e65e5864c60908636f2b04b93ed?v=d9a116ccd226413c9da51ad34a0f68e8&pvs=4",
+      "description": "We created 4 articles about OP Stack, Public Goods Network and EAS "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://researchkairos.notion.site/Honorable-Mention-by-Bryce-Patric-from-the-EAS-team-090bcf92ffef4ae6869014c37095d5f5",
+      "description": "Bryce Patric from the EAS team recommended us our own content to make a workshop"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.notion.so/researchkairos/Optimism-Talks-on-IRL-meetups-5cfd4b0e325b4bbb89cdb8643d47a35c",
+      "description": "Talks given by Kairos Research Analysts about Optimism and OPstack"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "People onboarded to make attestations",
+      "number": "16",
+      "url": "https://www.notion.so/researchkairos/31fdd726f1da42fcaac1ef83638e1c29?v=648305deecad407f99aa9b646a4736f8&pvs=4"
+    },
+    {
+      "description": "Projects that received their first NFT",
+      "number": "17",
+      "url": "https://researchkairos.notion.site/6a9c1d8f9e20492687c893f88884c915?v=8aca5f04df6143fdb64e6283ef00c7d7"
+    },
+    {
+      "description": "OP Stack Spaces Listeners",
+      "number": "26",
+      "url": "https://twitter.com/i/spaces/1lDGLnzjlnbxm?s=20"
+    },
+    {
+      "description": "Articles about Optimism ecosystem",
+      "number": "4",
+      "url": "https://www.notion.so/researchkairos/e84c3e65e5864c60908636f2b04b93ed?v=d9a116ccd226413c9da51ad34a0f68e8&pvs=4"
+    },
+    {
+      "description": "Honorable Mention for EAS Tutorial",
+      "number": "1",
+      "url": "https://researchkairos.notion.site/Honorable-Mention-by-Bryce-Patric-from-the-EAS-team-090bcf92ffef4ae6869014c37095d5f5"
+    },
+    {
+      "description": "Attendees to Optimism Talks",
+      "number": "96",
+      "url": "https://researchkairos.notion.site/Optimism-Talks-on-IRL-meetups-5cfd4b0e325b4bbb89cdb8643d47a35c"
+    },
+    {
+      "description": "Attendees to DeFi Workshop in Optimism",
+      "number": "12",
+      "url": "https://optimism.easscan.org/attestations/forTxId/0x95e45e489bc87717c9208f2e0590e43eb8d1c1b4505253006cd8e8151ea981d9"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x7bba50affa4ef77da95d392f7898f12af64ccfec1909d410ad8a2baf2aea8ff3",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 36,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Discovery Tooling"
+}

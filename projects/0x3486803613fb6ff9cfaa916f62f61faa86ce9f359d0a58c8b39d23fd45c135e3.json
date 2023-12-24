@@ -1,0 +1,60 @@
+{
+  "bio": "Active in Optimism community, governance, votes, content sharing, collaboration.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "Amber",
+  "websiteUrl": "https://GitHub.io/abuchtela",
+  "applicant": {
+    "address": {
+      "address": "0x0B58857708a6f84e7EE04BEAEF069a7E6D1D4A0b",
+      "resolvedName": {
+        "address": "0x0B58857708a6f84e7EE04BEAEF069a7E6D1D4A0b",
+        "name": "abuchtela.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x0B58857708a6f84e7EE04BEAEF069a7E6D1D4A0b"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B58857708a6f84e7EE04BEAEF069a7E6D1D4A0b.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0B58857708a6f84e7EE04BEAEF069a7E6D1D4A0b.png",
+    "id": "OptimistProfile|0xad0c7a2c80caf0b49cef6eb0f2dc51304d3db7ecad8edc32e3b3a9d277e3ac96"
+  },
+  "impactDescription": "I\u2019ve been an active member of the Optimism community, using my skills and passion for blockchain technology to contribute. I participate in governance, voting on important proposals, and my votes have influenced network upgrades. I\u2019ve also submitted code improvements for better infrastructure. Engaging in discussions, sharing insights, and supporting fellow members, I\u2019ve helped create a collaborative atmosphere. Furthermore, I\u2019ve shared essential Optimism content to increase its visibility and accessibility.",
+  "contributionDescription": "\u201cI believe I\u2019m uniquely suited to lead this mission as a passionate individual contributor with extensive blockchain experience. I\u2019ve actively engaged in the Ethereum community and open-source projects. My proposal includes smart contract development, community engagement, content creation, and developer outreach to enhance Optimism\u2019s success.\u201d",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://etherscan.com",
+      "description": "1"
+    },
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://GitHub.io/abuchtela",
+      "description": "1"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Dune ",
+      "number": "1",
+      "url": "https://dune.com"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 0,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x3486803613fb6ff9cfaa916f62f61faa86ce9f359d0a58c8b39d23fd45c135e3",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

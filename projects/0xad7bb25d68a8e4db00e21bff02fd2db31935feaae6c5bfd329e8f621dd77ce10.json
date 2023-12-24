@@ -1,0 +1,56 @@
+{
+  "bio": "Comprehensive weekly newsletter covering Ethereum's Layer 2 ecosystem.",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Layer 2 Weekly Roundup",
+  "websiteUrl": "https://layer2roundup.substack.com/",
+  "applicant": {
+    "address": {
+      "address": "0x24b0529c7226AE66968B9A8b521b266A2cA4a898",
+      "resolvedName": {
+        "address": "0x24b0529c7226AE66968B9A8b521b266A2cA4a898",
+        "name": "daddyspancakes.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x24b0529c7226AE66968B9A8b521b266A2cA4a898"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x24b0529c7226AE66968B9A8b521b266A2cA4a898.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x24b0529c7226AE66968B9A8b521b266A2cA4a898.png",
+    "id": "OptimistProfile|0x81026a0bd64984d81b31946dac23589067c85cedbd4710e580add854a8083c21"
+  },
+  "impactDescription": "The Layer 2 Weekly Roundup was founded as a public good to help educate both the Ethereum and wider crypto communities about the benefits of Layer 2 scaling solutions.\n\nThe roundup has contributed to Optimism and other Layer 2 solutions by providing both users and developers with valuable information to keep them updated on everything that is happening across Ethereum's Layer 2 ecosystem. The roundup covers a variety of categories, such as protocol, ecosystem, media, and events.\n",
+  "contributionDescription": "The Layer 2 Weekly Roundup is a public good founded to support Ethereum's growing Layer 2 ecosystem. The Weekly Roundup is currently home to over 600 subscribers with an average of over 450 weekly readers. \n\nThis newsletter provides readers with the most important and up to date information on all major Layer 2 protocols in addition to supporting ecosystem developers with free coverage and visibility for their applications. ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://layer2roundup.substack.com/",
+      "description": "Layer 2 Weekly Roundup website"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Number of Subscribers + Weekly readers",
+      "number": "615",
+      "url": "https://docs.google.com/document/d/18ZqC-aY1pZLcJGcrBA3kZ229gU96unZfkE7YyAAmrWs/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 22678.04,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xad7bb25d68a8e4db00e21bff02fd2db31935feaae6c5bfd329e8f621dd77ce10",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 22,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

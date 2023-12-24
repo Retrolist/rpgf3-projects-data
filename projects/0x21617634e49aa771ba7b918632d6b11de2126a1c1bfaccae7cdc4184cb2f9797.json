@@ -1,0 +1,48 @@
+{
+  "bio": "be ur self",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "lutviansyah",
+  "websiteUrl": "https://app.optimism.io/profile/rpgf-application/basic-info",
+  "applicant": {
+    "address": {
+      "address": "0x548Be6667E92E742Dbd852662349ae74Bb39A215",
+      "resolvedName": {
+        "address": "0x548Be6667E92E742Dbd852662349ae74Bb39A215",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x548Be6667E92E742Dbd852662349ae74Bb39A215"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x548Be6667E92E742Dbd852662349ae74Bb39A215.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x548Be6667E92E742Dbd852662349ae74Bb39A215.png",
+    "id": "OptimistProfile|0x5577829332d0c5c4cb422cf1d10e79e0d2e6dde54e37f7d08dac0045062c2f5c"
+  },
+  "impactDescription": "This project is really great, the features are interesting and there are some things that make me really like it, namely: 1. the transaction is fast 2. Elegant and easy to use 3. the user can understand the menu perfectly 4. There are no defects in the design 5. the product runs according to what the user expects always success and hopefully it can be a promising project when mainnet arrives. \n",
+  "contributionDescription": "This project is really great, the features are interesting and there are some things that make me really like it, namely: 1. the transaction is fast 2. Elegant and easy to use 3. the user can understand the menu perfectly 4. There are no defects in the design 5. the product runs according to what the user expects always success and hopefully it can be a promising project when mainnet arrives. \n",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement",
+      "description": "https://app.optimism.io/profile/rpgf-application/impact-statement"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "1",
+      "url": "https://app.optimism.io/profile/rpgf-application/impact-statement"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x21617634e49aa771ba7b918632d6b11de2126a1c1bfaccae7cdc4184cb2f9797",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

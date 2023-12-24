@@ -1,0 +1,98 @@
+{
+  "bio": "Bringing insights to life as a Researcher and Threadooor. ",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Hitasyurek",
+  "websiteUrl": "https://twitter.com/hitasyurek",
+  "applicant": {
+    "address": {
+      "address": "0x4830764Cb1252Fc7553231E2FBF5b09961a29c59",
+      "resolvedName": {
+        "address": "0x4830764Cb1252Fc7553231E2FBF5b09961a29c59",
+        "name": "hitas.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x4830764Cb1252Fc7553231E2FBF5b09961a29c59"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4830764Cb1252Fc7553231E2FBF5b09961a29c59.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x4830764Cb1252Fc7553231E2FBF5b09961a29c59.png",
+    "id": "OptimistProfile|0xc4a22bdbb08cee22bcef41d06a9461bc6600fded4b499d40a22070a6369322b7"
+  },
+  "impactDescription": "People are hesitant to familiarize themselves with new ecosystems and don't know how to complete transactions.\n\nWith my content, I think people learn how to log in to the ecosystem and what apps they can use in the ecosystem, so I've helped people learn and use optimism.",
+  "contributionDescription": "People are generally hesitant to test new things when it comes to blockchain.\n\nThe easiest way to instill this in them is to show them that there is an opportunity here, and I've used this in my content to create visuals and video content to make it easier for people to make transactions here.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/hitasyurek/status/1700539495165374814",
+      "description": "What is OpStack infrastructure and how to use it?   Turkish Twitter Thread "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=HJdMHdSVXgM&t=2s",
+      "description": "How to make an Optimism Delegate ? guide to voting and delegation"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://www.youtube.com/watch?v=N9Y_V6HMpRc&t=3s",
+      "description": "What is Op Stack What are the networks using OpStack infrastructure? "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=3FH1zuljiMI",
+      "description": "Optimism Quest Guide in Turkish"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/hitasyurek/status/1689610055459749889",
+      "description": "How To Use OpBNB"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/hitasyurek/status/1563848203065298945",
+      "description": "Optimism List of projects receiving grants"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=5sO_JW_XzpE",
+      "description": "How To use Op Stack Test Chains"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=hDzmnddr-IM",
+      "description": "How to use Zora guide"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=vTg7x-aaPWo",
+      "description": "How To use Taro Testnet "
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=FuN9Txhq0Bw&t=57s",
+      "description": "How To use Gnosis Safe ?"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://www.youtube.com/watch?v=Un62h_umtUs&t=93s",
+      "description": "DeFi 101 "
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Total ",
+      "number": "37.878",
+      "url": "https://docs.google.com/spreadsheets/d/1Fd9Vi2aMFLATKWD_SIK2oPoaR91Y8AkZeQSNUIHlgPs/edit?usp=sharing"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x50eacddd935ff1aac3538b5e6d9ce744c136259b49521f9d02ca4c01d3c64fef",
+  "prelimResult": "Keep",
+  "reportReason": "Spam, Outside of RetroPGF's Scope",
+  "includedInBallots": 25,
+  "primaryCategory": "End User Experience & Adoption",
+  "recategorization": "Evangelism & User Onboarding"
+}

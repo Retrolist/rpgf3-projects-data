@@ -1,0 +1,45 @@
+{
+  "bio": "Family man, Crypto/NFT Enthusiast, Gamer/Builder/Grower always looking for more.",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "JuiceCL",
+  "websiteUrl": "https://twitter.com/cryptocl",
+  "applicant": {
+    "address": {
+      "address": "0xB3e33E96bef4fdCC034cAA376e6737773b120289",
+      "resolvedName": {
+        "address": "0xB3e33E96bef4fdCC034cAA376e6737773b120289",
+        "name": "cryptocl.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xB3e33E96bef4fdCC034cAA376e6737773b120289"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3e33E96bef4fdCC034cAA376e6737773b120289.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xe13d33d25dcf8d5a56168c7721989835e82305a9a95399b1ce11cb5ae3ed2956"
+  },
+  "impactDescription": "Pretty early into the optimism fold but I have been in the crypto scene for about 8 years now and NFT for 2-3 years.  Steadily bringing friends into the ecosystem and teaching them how to manage their assets.  Love seeing strong new projects and initiatives that can strengthen the sector.",
+  "contributionDescription": "End project use, holder of many projects with community building and experience sharing.  Always sharing with my friends and contacts and onboarding them into crypto and web3 projects.  Working with local artists on a NFT brand as well as personal projects but mainly into exploring the space.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/cryptocl",
+      "description": "Twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "community",
+      "number": "1300",
+      "url": "https://twitter.com/cryptocl"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xdd7e3417a23c4151bc0127c064abfc5c8c9918655da4339f693c99e90438da5c",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

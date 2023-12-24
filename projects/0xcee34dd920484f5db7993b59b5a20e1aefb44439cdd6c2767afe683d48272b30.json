@@ -1,0 +1,55 @@
+{
+  "bio": "-__-",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "DEVELOPER_ECOSYSTEM",
+    "END_USER_EXPERIENCE_AND_ADOPTION",
+    "OP_STACK"
+  ],
+  "displayName": "zerf",
+  "websiteUrl": "https://twitter.com/abhdrtavs",
+  "applicant": {
+    "address": {
+      "address": "0x7307720Dc80F89d798E8B0238DcBb1f330aF2DCc",
+      "resolvedName": {
+        "address": "0x7307720Dc80F89d798E8B0238DcBb1f330aF2DCc",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0x7307720Dc80F89d798E8B0238DcBb1f330aF2DCc"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7307720Dc80F89d798E8B0238DcBb1f330aF2DCc.png",
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xfffa239316a80cef924d80226fc1caadce03ea9290756d6713fc931ffe7cc79e"
+  },
+  "impactDescription": "My contribution can attract many interested people to join the OP event. I hope that anyone who takes part in the OP event can provide good feedback on this ongoing event. For this reason, I hope you can improve the quality of the website when many people access it.",
+  "contributionDescription": "My contribution can attract many interested people to join the OP event. I hope that anyone who takes part in the OP event can provide good feedback on this ongoing event. For this reason, I hope you can improve the quality of the website when many people access it.",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/abhdrtavs/status/1714891361307246995?s=19",
+      "description": "tweet"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "1",
+      "number": "67",
+      "url": "https://twitter.com/abhdrtavs/status/1714891361307246995?s=19"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "GOVERNANCE_FUND",
+      "currency": "OP",
+      "amount": 1,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xcee34dd920484f5db7993b59b5a20e1aefb44439cdd6c2767afe683d48272b30",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

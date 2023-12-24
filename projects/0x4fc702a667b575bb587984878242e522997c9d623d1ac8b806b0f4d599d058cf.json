@@ -1,0 +1,55 @@
+{
+  "bio": "Love money & crypto",
+  "impactCategory": [
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Ron Ng",
+  "websiteUrl": "https://twitter.com/RonanWildie",
+  "applicant": {
+    "address": {
+      "address": "0xA48E90C18602F31Ec74e73Dc3c29CE56317eA5e8",
+      "resolvedName": {
+        "address": "0xA48E90C18602F31Ec74e73Dc3c29CE56317eA5e8",
+        "name": null
+      }
+    },
+    "id": "Delegate|Delegate|0xA48E90C18602F31Ec74e73Dc3c29CE56317eA5e8"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": null,
+    "bannerImageUrl": null,
+    "id": "OptimistProfile|0xb07dad2802bac06f8668af8af694ed5702ed7dd66c58215479ee511f69f687ad"
+  },
+  "impactDescription": "-Promoting a better way to artists, who wish to sell their products directly to fans, strengthen this bond, so fans willing to buy more, attracting more artists to come and release their work on OP\n-Interacting with KOLs who 're working on marketing Sound.xyz , attracting more potential users (txs) on OP",
+  "contributionDescription": "-Support musicians, producers, content creators on OP through minting and buying their products , mostly on Sound.xyz & mint.fun OP ( 25 artists backed and countless NFTs on OP)\n-Support dapp on OP by using them ( bridge to OP by layer3.xyz , swap on Uniswap, bridge from/to OP on zkbridge.com)\n-Promoting dapp live on OP on my social network, introducing them to my circle of acquaintances on twitter and telegram",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://www.sound.xyz/user/0xa48e90c18602f31ec74e73dc3c29ce56317ea5e8",
+      "description": "Profile on Sound.xyz"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://mint.fun/profile/0xa48e90c18602f31ec74e73dc3c29ce56317ea5e8",
+      "description": "NFT minted on mint.fun in general"
+    },
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/RonanWildie",
+      "description": "twitter profile page with full of products on sound.xyz"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "OP explorer",
+      "number": "1",
+      "url": "https://optimistic.etherscan.io/address/0xa48e90c18602f31ec74e73dc3c29ce56317ea5e8"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0x4fc702a667b575bb587984878242e522997c9d623d1ac8b806b0f4d599d058cf",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

@@ -1,0 +1,76 @@
+{
+  "bio": "Vyper is a contract-oriented, pythonic programming language for the EVM",
+  "impactCategory": [
+    "DEVELOPER_ECOSYSTEM",
+    "OP_STACK"
+  ],
+  "displayName": "Vyper",
+  "websiteUrl": "http://www.vyperlang.org",
+  "applicant": {
+    "address": {
+      "address": "0x0b98718264cA14d0A17C145FfE1e4F3c38a39372",
+      "resolvedName": {
+        "address": "0x0b98718264cA14d0A17C145FfE1e4F3c38a39372",
+        "name": "gramsci.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0x0b98718264cA14d0A17C145FfE1e4F3c38a39372"
+  },
+  "applicantType": "PROJECT",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0b98718264cA14d0A17C145FfE1e4F3c38a39372.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x0b98718264cA14d0A17C145FfE1e4F3c38a39372.png",
+    "id": "OptimistProfile|0x07353fa26ae506aaab4c8ff17655247e9abb9a6cd3f3d3e8bdcf017b82689d33"
+  },
+  "impactDescription": "- Vyper's commitment to security through its language design choices and stringent audit process increases the security of the OP Stack.\n- Vyper contributes to language diversity on OP, reducing the risk of a systemic failure from overreliance on a single language.\n- Vyper compiler's advanced optimizations enhance the efficiency of the OP stack\n- Major projects such as Curve, Lido, Perpetual Protocol, Velodrome and Yearn all used Vyper as part of their Optimism deployments.\n- Vyper has been used for on-chain analytics API on Optimism. Integration with Jupyter and Python tooling helps onboard new devs. \n- By reducing the size of compiled binaries, Vyper lets developers make more complex contracts without running into the size limitations of the EVM.",
+  "contributionDescription": "Vyper is a pythonic programming language for smart contracts. \n\nVyper contracts account for over 7% ($50m) of the TVL on Optimism and secure more than $2 billion across multiple chains for major protocols such as Curve, Lido and Yearn.\n\nThe Vyper compiler offers high performance, gas efficiency and produces binaries that are consistently 50% smaller than Solidity.\n\nVyper is a long-time supporter of Optimism. The team added support for the first non EVM-equivalent version of the OVM in 2020, and has since worked on ways to mitigate issues faced by users unaware of the differences between EVM versions on Optimism and Mainnet.\n\nVyper's design principles prioritize security and audibility. The compiler is regularly audited by ChainSecurity, StateMind and large protocols working with Vyper.",
+  "contributionLinks": [
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://github.com/vyperlang/vyper",
+      "description": "Official repository of the Vyper programming language"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "Github stars",
+      "number": "4700",
+      "url": "https://github.com/vyperlang/vyper"
+    },
+    {
+      "description": "TVL Secured",
+      "number": "2300000000",
+      "url": "https://defillama.com/languages"
+    },
+    {
+      "description": "TVL Secured on Optimism",
+      "number": "50200000",
+      "url": "https://defillama.com/protocol/curve-finance, https://optimistic.etherscan.io/address/0xd360b73b19fb20ac874633553fb1007e9fcb2b78, https://defillama.com/protocol/yearn-finance"
+    },
+    {
+      "description": "Compiled bytecode size",
+      "number": "-50",
+      "url": "https://github.com/benber86/vyper_bytecode"
+    },
+    {
+      "description": "Gas comparison metrics",
+      "number": "75722",
+      "url": "https://blog.chain.link/solidity-vs-vyper/"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "RETROPGF_2",
+      "currency": "OP",
+      "amount": 135200,
+      "description": "Vyper received 1.35% of the 10M OP allocated for RetroPGF2"
+    }
+  ],
+  "lists": [],
+  "id": "Project|0x1b205ded96fa08412a2c8b7100de978779b13fd81fd8a85aaf71f7994065c690",
+  "prelimResult": "Keep",
+  "reportReason": "",
+  "includedInBallots": 98,
+  "primaryCategory": "OP Stack",
+  "recategorization": "Ethereum Development & Maintanance"
+}

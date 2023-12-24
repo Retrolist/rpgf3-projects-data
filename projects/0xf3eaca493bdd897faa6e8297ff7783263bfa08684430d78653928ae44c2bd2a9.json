@@ -1,0 +1,58 @@
+{
+  "bio": "A twenty y.o. gifted boy from Indonesia",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "END_USER_EXPERIENCE_AND_ADOPTION"
+  ],
+  "displayName": "Fathurrizqi Hidayat",
+  "websiteUrl": "https://www.medium.com/@farizhida",
+  "applicant": {
+    "address": {
+      "address": "0xF66d2a66ccDDC3f705D0f0a576D8C796Bd74a34B",
+      "resolvedName": {
+        "address": "0xF66d2a66ccDDC3f705D0f0a576D8C796Bd74a34B",
+        "name": "farizhida.portraits.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xF66d2a66ccDDC3f705D0f0a576D8C796Bd74a34B"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF66d2a66ccDDC3f705D0f0a576D8C796Bd74a34B.png",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xF66d2a66ccDDC3f705D0f0a576D8C796Bd74a34B.png",
+    "id": "OptimistProfile|0x3125181cf67ae328320288fed260b51cd0bd35b177950cf53b2365d9019ad110"
+  },
+  "impactDescription": "I believe that every contribution made by each contributor, whether individual or group, will have a positive impact on the project, whether it is a small or large contribution, whether it is a quality contribution or vice versa, and as an individual I will provide quality contributions that will have a good impact on the project.\n",
+  "contributionDescription": "I want to impact the governance participants of the Optimism Collective, or help bring new governance participants into the Collective and my contribution may be small in terms of quantity but that doesn't mean it won't have a big impact in terms of quality",
+  "contributionLinks": [
+    {
+      "type": "GITHUB_REPO",
+      "url": "https://github.com/farizhida/retropgf3",
+      "description": "Main Contribution Link"
+    },
+    {
+      "type": "CONTRACT_ADDRESS",
+      "url": "https://optimistic.etherscan.io/address/0xf66d2a66ccddc3f705d0f0a576d8c796bd74a34b",
+      "description": "Other Contribution Link"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "repository",
+      "number": "3",
+      "url": "https://github.com/farizhida/retropgf3"
+    }
+  ],
+  "fundingSources": [
+    {
+      "type": "PARTNER_FUND",
+      "currency": "OP",
+      "amount": 2300,
+      "description": ""
+    }
+  ],
+  "lists": [],
+  "id": "Project|0xf3eaca493bdd897faa6e8297ff7783263bfa08684430d78653928ae44c2bd2a9",
+  "prelimResult": "Remove",
+  "reportReason": "Spam, Outside of RetroPGF's Scope"
+}

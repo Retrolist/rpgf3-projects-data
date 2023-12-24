@@ -1,0 +1,46 @@
+{
+  "bio": "Full stack developer. Passionate about web3, governance and decentralisation.",
+  "impactCategory": [
+    "COLLECTIVE_GOVERNANCE",
+    "OP_STACK"
+  ],
+  "displayName": "Kristofer Lund",
+  "websiteUrl": "https://dev.kristoferlund.se",
+  "applicant": {
+    "address": {
+      "address": "0xa32aECda752cF4EF89956e83d60C04835d4FA867",
+      "resolvedName": {
+        "address": "0xa32aECda752cF4EF89956e83d60C04835d4FA867",
+        "name": "fmckl.eth"
+      }
+    },
+    "id": "Delegate|Delegate|0xa32aECda752cF4EF89956e83d60C04835d4FA867"
+  },
+  "applicantType": "INDIVIDUAL",
+  "profile": {
+    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa32aECda752cF4EF89956e83d60C04835d4FA867.jpeg",
+    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xa32aECda752cF4EF89956e83d60C04835d4FA867.jpeg",
+    "id": "OptimistProfile|0x56842f945acb0d688e2875a2aac68173ce29520b5acdd3fea6283f83b6a1b58c"
+  },
+  "impactDescription": "I am part of the Praise team and also took the initiative to build Attest Fest for Optimism. In addition to the work I do within those projects (separate applications made) I try to contribute as best I can to advocate for Optimism in various forums. ",
+  "contributionDescription": "I am part of the Praise team and also took the initiative to build Attest Fest for Optimism. In addition to the work I do within those projects (separate applications made) I try to contribute as best I can to advocate for Optimism in various forums . ",
+  "contributionLinks": [
+    {
+      "type": "OTHER",
+      "url": "https://twitter.com/kristoferlund",
+      "description": "My personal twitter"
+    }
+  ],
+  "impactMetrics": [
+    {
+      "description": "My personal twitter",
+      "number": "1",
+      "url": "https://twitter.com/kristoferlund"
+    }
+  ],
+  "fundingSources": [],
+  "lists": [],
+  "id": "Project|0xbc37a256ffd7cde5e9e5651155d79ca64d718d3f84f4a36b74aa7eae08a2f788",
+  "prelimResult": "Remove",
+  "reportReason": "Claims impact for Praise,"
+}
