@@ -66,7 +66,1216 @@
       "description": "The amount of revenue we received to date from projects that won grants."
     }
   ],
-  "lists": [],
+  "lists": [
+    {
+      "id": "0x8f0fc208fb9e7957ffad9fc074ad6c76d07c9ab0d77f7aa4933d1877973a28fa",
+      "listName": "Governance contributions/tooling | Sub-category evaluated with scoring system",
+      "impactEvaluationType": "BADGEHOLDER",
+      "categories": [
+        "COLLECTIVE_GOVERNANCE"
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0x1db11157f88463d1e8d946ec8a44b51a74d8edb76e450fc082b1045af7aeeb6d",
+          "displayName": "Optimism Grant Analytics: Grant3",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72C58877ef744b86F6ef416a3bE26Ec19d587708.png"
+        },
+        {
+          "id": "0x5fe5c833aa4b2929fef01554ea18979d48d95b5cf5af3d66936c8963b9586df0",
+          "displayName": "satorrr",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5c1D15dC3da43A18E60C2DdB87B3466097855530.png"
+        },
+        {
+          "id": "0x7bb5c5e64a2e1feb76c3d75acdd0ddae11b9851fc3843a303f56d20aa79f52f2",
+          "displayName": "Gravity DAO",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8E3a92f82EA855020BA714e68541192B9bd6c5B1.jpeg"
+        },
+        {
+          "id": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+          "displayName": "EIP-4824/ DAOstar",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.png"
+        },
+        {
+          "id": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+          "displayName": "Commons Stack",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A.png"
+        },
+        {
+          "id": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+          "displayName": "Karma",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png"
+        },
+        {
+          "id": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
+          "displayName": "Optimism Resource Center",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png"
+        },
+        {
+          "id": "0x6d984b8e3b187070129658d99f9011baeb2c85955f8aa9aa0c7f91da7ab62b85",
+          "displayName": "Optimism Grants Changelog",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x657d99Ca637fEA0c90Ac3f65719F83519f331828.png"
+        },
+        {
+          "id": "0x7aa5c6b5ae2a379986944609e9c2486f58a0f5f0c50c5355633bcd470934c486",
+          "displayName": "OP Governance Analytics Dashboard",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x17296956b4E07Ff8931E4ff4eA06709FaB70b879.png"
+        },
+        {
+          "id": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+          "displayName": "RegenScore",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png"
+        },
+        {
+          "id": "0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
+          "displayName": "Snapshot",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a.png"
+        },
+        {
+          "id": "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
+          "displayName": "RetroPGF Hub",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065.png"
+        },
+        {
+          "id": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
+          "displayName": "Hats Protocol",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03f7a3FD58B090Abe577651fb92Fb4789826191e.png"
+        },
+        {
+          "id": "0x9fae00fd359ac7113bf727c79ccb70420f04150e8b432bd1617c615d47c5448d",
+          "displayName": "Public Goods Grant Management",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33878e070db7f70D2953Fe0278Cd32aDf8104572.png"
+        },
+        {
+          "id": "0x9b32619656175fc08131529bb3fd476d4fc8199b0feffbe3c230274dc1900aeb",
+          "displayName": "LauNaMu",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5d36a202687fD6Bd0f670545334bF0B4827Cc1E2.png"
+        },
+        {
+          "id": "0x05a44c5b72c86f2f9b8e0939dc9633661177b7337daa6df1aee401b561bf1905",
+          "displayName": "raho & tnorm",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x842bB1bb84CC8A3D6277b0ff9729d22D55E9C50B.jpeg"
+        },
+        {
+          "id": "0xc372b8138f712875d1b7e852d7b78d58a6655caf672692565a310ae8d2405017",
+          "displayName": "Brichis",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B.png"
+        },
+        {
+          "id": "0x5b595cd2a5a5b2c8ff06b029bc7d31dc5299f91266820fe21092ed62f70c5401",
+          "displayName": "Boardroom",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.png"
+        },
+        {
+          "id": "0x21bd1ffc17577bff57ffab3413191f08a4b1b64bd5c930b5959408ee477d5cf7",
+          "displayName": "HER LATAM _ Optimistas Brillando en Blockchain",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72cBF736B721D5266Aca1E6BCC98C526d0ef2FE0.png"
+        },
+        {
+          "id": "0x278f45939b63b7b5c84fb0a81701aca4a1153fc8a6a7c35af87cebe1fad70d55",
+          "displayName": "Subli",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x018C8a81cb02cA1a327BaefD400f75f57ea57ba2.jpeg"
+        },
+        {
+          "id": "0x3049e55f433120f538188df5837e7c3a15063e4cba01f14f1ca4181bbe6f5cfe",
+          "displayName": "Optimism Community Governance Calls (Michael)",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6EdA5aCafF7F5964E1EcC3FD61C62570C186cA0C.png"
+        },
+        {
+          "id": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
+          "displayName": "ITU Blockchain",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBEC643BD5b7F5e9190617CA4187ef0455950C51C.png"
+        },
+        {
+          "id": "0xb426cb999cd483bd00f82b9585a6f0963f13e01e6e15403db87e3fed1dc87d96",
+          "displayName": "Mechanism Institute",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4cd6B4503d02973D78CFF59C9C56f5F378688274.png"
+        },
+        {
+          "id": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
+          "displayName": "Tally",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb5B069370Ef24BC67F114e185D185063CE3479f8.png"
+        },
+        {
+          "id": "0xcf8372d0b54e8be15ce395fc88a86542ec53d12970a7fdfa6cdf13fea536b38a",
+          "displayName": "CharmVerse",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1cD919942a8EF3e867Fe9C0813BC4851090cF037.png"
+        },
+        {
+          "id": "0x4a7b07b51c87113b9eb67b3cca6bb396d675ba51b21a77639bf22854bd74624d",
+          "displayName": "Optimism Grants Council Season 4",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5.png"
+        },
+        {
+          "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+          "displayName": "Agora",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
+        },
+        {
+          "id": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
+          "displayName": "SEED Latam",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0087a081a9B430fd8f688c6ac5dD24421BfB060D.png"
+        },
+        {
+          "id": "0xd8dd0f0bc1682dcd7c63bed3de0e0439282f7a7132658ada1c5cc5644bca3f30",
+          "displayName": "Open Source Observer",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5a5D9aB7b1bD978F80909503EBb828879daCa9C3.png"
+        },
+        {
+          "id": "0x335ee234463e3a9bf9ea3325fd6942f30877714716b159ca7843f9b4d9ff4285",
+          "displayName": "Metagov",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa12f6928972B3B3C72259C7631BC1C37aA813C2e.png"
+        },
+        {
+          "id": "0xf7339a30ff66a5f84e57dbc7674d6623d121915876a5da931701ed677aba4d48",
+          "displayName": "Hypercerts Foundation",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB6091aAb544eF253c23a37295953AaFc9D836681.png"
+        }
+      ]
+    },
+    {
+      "id": "0x7b93c2a96eb6f9d6be7c114e6535220ca380f314e4ea726fa0a59c5e741ce0b4",
+      "listName": "Grants, Capital Allocation & Onboarding",
+      "impactEvaluationType": "PAIRWISE",
+      "categories": [
+        "PAIRWISE"
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+          "displayName": "Giveth",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x634977e11C823a436e587C1a1Eca959588C64287.png"
+        },
+        {
+          "id": "0x95bba9455fa1028d59c069660656b3fe0b46d7b2e1883b091c5b04b810bc7525",
+          "displayName": "Gitcoin",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc2E2B715d9e302947Ec7e312fd2384b5a1296099.png"
+        },
+        {
+          "id": "0xc78afe7a4a3aaf340019f64347ce65e64f25561a51df131670a2cc7c88075905",
+          "displayName": "Unitap",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x95F2177022e7B34D84498F2D9dd63a7457ab5793.png"
+        },
+        {
+          "id": "0x5e3ebd6375e04ee34b04cac7105a15d158302b69c3513140eeaf02296249e9f0",
+          "displayName": "Splits",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ebC8E61f87A301fF25a606d7C06150f856F24E2.png"
+        },
+        {
+          "id": "0x67d88ee0aa76c9b8048f2d67ab388c223e01fd9b860906a9648f159bdf4d89e7",
+          "displayName": "Coordinape",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0.png"
+        },
+        {
+          "id": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+          "displayName": "Praise",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.png"
+        },
+        {
+          "id": "0xcf8372d0b54e8be15ce395fc88a86542ec53d12970a7fdfa6cdf13fea536b38a",
+          "displayName": "CharmVerse",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1cD919942a8EF3e867Fe9C0813BC4851090cF037.png"
+        },
+        {
+          "id": "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
+          "displayName": "RetroPGF Hub",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065.png"
+        },
+        {
+          "id": "0xf7339a30ff66a5f84e57dbc7674d6623d121915876a5da931701ed677aba4d48",
+          "displayName": "Hypercerts Foundation",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB6091aAb544eF253c23a37295953AaFc9D836681.png"
+        },
+        {
+          "id": "0x101871d3c582cd1a8322f911e6f9623d8c1a6f19108149d9c1a6ef4650080780",
+          "displayName": "Funding the Commons",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x576edCed7475D8F64a5e2D5227c93Ca57d7f5d20.png"
+        },
+        {
+          "id": "0xa1b12a1d4c48cbadb8b289144ef65fa5570ccd6e62e076c91f8009f5175fa0ba",
+          "displayName": "Layer3",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x503998acaeee3cdae0023e7d3327c017145b2fd638f1b83084975eceb4ff8cbc",
+          "displayName": "Web3Native",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x353cd262B60F821f602DC72e8E938cBC26A2B116.png"
+        },
+        {
+          "id": "0x1e5e6a08c3b41a10fef4271a0685b50294e8152660cf7abf3bc46f94c44b6a85",
+          "displayName": "RetroPGF Community",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0.png"
+        },
+        {
+          "id": "0x380869d62245a876e782065034acdfbd8233dee1363117ded1a9ef3347b1bca9",
+          "displayName": "Grateful",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfF284BADB6f6030C726782767fe45770570Ca381.png"
+        },
+        {
+          "id": "0x6d984b8e3b187070129658d99f9011baeb2c85955f8aa9aa0c7f91da7ab62b85",
+          "displayName": "Optimism Grants Changelog",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x657d99Ca637fEA0c90Ac3f65719F83519f331828.png"
+        },
+        {
+          "id": "0x86596b004b7fe17cf0ce308c52ecfc174efc9ebf04fcbc4512f320f632a1f2ba",
+          "displayName": "Thank Optimism | by ThriveCoin",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x055D602C940b3cd7A158df0FD600C75744C9690e.png"
+        },
+        {
+          "id": "0x9fae00fd359ac7113bf727c79ccb70420f04150e8b432bd1617c615d47c5448d",
+          "displayName": "Public Goods Grant Management",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33878e070db7f70D2953Fe0278Cd32aDf8104572.png"
+        },
+        {
+          "id": "0xcba0c3ad859a1c164a9a300b587abe5544cdc98e97f6a3e67fb31000e781b803",
+          "displayName": "JustCause",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x78726673245fdb56425c8bd782f6FaA3E447625A.png"
+        },
+        {
+          "id": "0xf0e9da0f8ecaa1caaf7fbcfbb2c51dbdfcfc9be1becc3fc5d584b56779ba6b5e",
+          "displayName": "Endaoment",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9d9d5A6cdbdCd1D7D4261861A30Db1A806154662.png"
+        },
+        {
+          "id": "0x54a6bad0095142765e250c7f11c1465095131d295563f9ba315840763f55dd3e",
+          "displayName": "RabbitHole",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8F5415415d9200cCd8523F3Ee88F96F476141CC3.png"
+        },
+        {
+          "id": "0x5c6601dfaab3603567d35888988d2588444d2f4d009ee16f1ba5ce1ad8036c9c",
+          "displayName": "Crypto Fundraising",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF80a109643E78Bf60A34110530d2a5fe0b414996.png"
+        },
+        {
+          "id": "0x8dc985486bea3e55a0bf61a1622319985802a6a446a34b23d1c819811c10fb0f",
+          "displayName": "Castle Capital",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7ab066BCD945264e1B1C8d451CB3517c973e676c.png"
+        },
+        {
+          "id": "0x7d3cb52c6e006ca04df32b6bef1982962c0669a7b9d826114cf9f40c0ce9be97",
+          "displayName": "Donate3",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb15115A15d5992A756D003AE74C0b832918fAb75.png"
+        },
+        {
+          "id": "0x6b85d1e6159c2dd0613159b2e4708ae23f8e3a1554a5557590534e63aa282eb8",
+          "displayName": "GiveStation (youbuidl)",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9120b6fdF6eeF4Eea3Eb56EcAe7EcFB79a8e7bDD.png"
+        }
+      ]
+    },
+    {
+      "id": "0xd7454c6009887f3791022eb318b233c04f62405a0c04320711aeb29cdfe40b48",
+      "listName": "Giveth Galaxy Projects - No VC funding, All for the Greater Good!",
+      "impactEvaluationType": "BADGEHOLDER",
+      "categories": [
+        "COLLECTIVE_GOVERNANCE"
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0x5c26992a23287833260d79c0d697129c168d5fbe366d3716484ffb6073e01db4",
+          "displayName": "Giveth Web3 House",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB6989F472Bef8931e6Ca882b1f875539b7D5DA19.png"
+        },
+        {
+          "id": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+          "displayName": "Giveth",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x634977e11C823a436e587C1a1Eca959588C64287.png"
+        },
+        {
+          "id": "0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
+          "displayName": "Pairwise",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.png"
+        },
+        {
+          "id": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+          "displayName": "Praise",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.png"
+        },
+        {
+          "id": "0x9fae00fd359ac7113bf727c79ccb70420f04150e8b432bd1617c615d47c5448d",
+          "displayName": "Public Goods Grant Management",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33878e070db7f70D2953Fe0278Cd32aDf8104572.png"
+        },
+        {
+          "id": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+          "displayName": "RegenScore",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png"
+        },
+        {
+          "id": "0x1e5e6a08c3b41a10fef4271a0685b50294e8152660cf7abf3bc46f94c44b6a85",
+          "displayName": "RetroPGF Community",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0.png"
+        },
+        {
+          "id": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+          "displayName": "Dappnode",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB22981bA3FE1De2325935c91a3B717168fB86714.png"
+        },
+        {
+          "id": "0x9e5ea1680af47702c711090ece55c5ce8a73d1122196274c4ffcdd60a2004972",
+          "displayName": "Token Engineering Commons",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B.png"
+        },
+        {
+          "id": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+          "displayName": "Commons Stack",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A.png"
+        },
+        {
+          "id": "0x62b8c0895d6654e29f76021c1cabd87c59f4fe65f740b86368eda5649b697d4a",
+          "displayName": "BrightID",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4B8810b079eb22ecF2D1f75E08E0AbbD6fD87dbF.png"
+        },
+        {
+          "id": "0xcef5619c73158a1b4dd128f918bad2bd2c8c5f6701bb6d2834e92289a9b5f145",
+          "displayName": "Bonding Curve Research Group",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb2821C0DF0c414ff51D3e8033CBA26DF6AaC587b.png"
+        },
+        {
+          "id": "0x7bb5c5e64a2e1feb76c3d75acdd0ddae11b9851fc3843a303f56d20aa79f52f2",
+          "displayName": "Gravity DAO",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8E3a92f82EA855020BA714e68541192B9bd6c5B1.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "0x2e079ff7ef65b8ead54cc07b16e21994c1a1c19e3e3ad74ee48ac7857ec6cd22",
+      "listName": "Griff's Conflicts of Interest",
+      "impactEvaluationType": "BADGEHOLDER",
+      "categories": [],
+      "projectsMetadata": [
+        {
+          "id": "0x5c26992a23287833260d79c0d697129c168d5fbe366d3716484ffb6073e01db4",
+          "displayName": "Giveth Web3 House",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB6989F472Bef8931e6Ca882b1f875539b7D5DA19.png"
+        },
+        {
+          "id": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+          "displayName": "Giveth",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x634977e11C823a436e587C1a1Eca959588C64287.png"
+        },
+        {
+          "id": "0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
+          "displayName": "Pairwise",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.png"
+        },
+        {
+          "id": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+          "displayName": "Praise",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.png"
+        },
+        {
+          "id": "0x9fae00fd359ac7113bf727c79ccb70420f04150e8b432bd1617c615d47c5448d",
+          "displayName": "Public Goods Grant Management",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33878e070db7f70D2953Fe0278Cd32aDf8104572.png"
+        },
+        {
+          "id": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+          "displayName": "RegenScore",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png"
+        },
+        {
+          "id": "0x1e5e6a08c3b41a10fef4271a0685b50294e8152660cf7abf3bc46f94c44b6a85",
+          "displayName": "RetroPGF Community",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0.png"
+        },
+        {
+          "id": "0xa40dacdab40414358d55dc8d2a7352f2fa3b181a8f6a46fa5ba230084ce1cc2f",
+          "displayName": "Dappnode",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB22981bA3FE1De2325935c91a3B717168fB86714.png"
+        },
+        {
+          "id": "0x9e5ea1680af47702c711090ece55c5ce8a73d1122196274c4ffcdd60a2004972",
+          "displayName": "Token Engineering Commons",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B.png"
+        },
+        {
+          "id": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+          "displayName": "Commons Stack",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A.png"
+        },
+        {
+          "id": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+          "displayName": "EIP-4824/ DAOstar",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.png"
+        },
+        {
+          "id": "0xc78afe7a4a3aaf340019f64347ce65e64f25561a51df131670a2cc7c88075905",
+          "displayName": "Unitap",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x95F2177022e7B34D84498F2D9dd63a7457ab5793.png"
+        },
+        {
+          "id": "0x62b8c0895d6654e29f76021c1cabd87c59f4fe65f740b86368eda5649b697d4a",
+          "displayName": "BrightID",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4B8810b079eb22ecF2D1f75E08E0AbbD6fD87dbF.png"
+        },
+        {
+          "id": "0x7768eb79db734845f9afaec4741e064eee319fd25fb35bd2956d10739e22d94a",
+          "displayName": "RADAR",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x149D46eC060e75AE188876AdB6b24024637003C7.png"
+        },
+        {
+          "id": "0x4a9fce27c66e104b86ebb868d1811b3c4b3b66d4332eba4a83c50838ba231c99",
+          "displayName": "Marko",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6D97d65aDfF6771b31671443a6b9512104312d3D.png"
+        },
+        {
+          "id": "0xc372b8138f712875d1b7e852d7b78d58a6655caf672692565a310ae8d2405017",
+          "displayName": "Brichis",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B.png"
+        },
+        {
+          "id": "0x4800596e90de0ee85ce24f696d32402d87a406040889df8281221dee58a3698e",
+          "displayName": "geleeroyale",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0xb050be8189ff0dee56ad57c86088d3240e2d3192d9f426053400833599465720",
+          "displayName": "Attest Fest",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDAb4775a4408D88B4C0bf6afc657985e2F1313f3.png"
+        },
+        {
+          "id": "0x926732964620bac66319e23710f48f8d8e480130347f0de60075c10fd23b531e",
+          "displayName": "Namespace",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x035eBd096AFa6b98372494C7f08f3402324117D3.png"
+        },
+        {
+          "id": "0x95bba9455fa1028d59c069660656b3fe0b46d7b2e1883b091c5b04b810bc7525",
+          "displayName": "Gitcoin",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc2E2B715d9e302947Ec7e312fd2384b5a1296099.png"
+        },
+        {
+          "id": "0xedcfc53628109a0273bb28b7205b8ab74c5cd4d99cb4e435ad1ec95b979a3a83",
+          "displayName": "Public Nouns",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56D579a23C2D37D1E42923858Ce33856dF0Ae5dB.png"
+        },
+        {
+          "id": "0x7074a17e86a1120f20f9da403aed0e6adcaacc844d22fc10f7d6fd8088e8c50f",
+          "displayName": "ShapeShift DAO",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x901a3507Deb114093B18e23b3Ad12F0d6Cbb8df1.png"
+        },
+        {
+          "id": "0xefe128594155a47fd209ddfb9340d0bfb9aa72f7214be78febb9deb80307038d",
+          "displayName": "Bankless DAO",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1e3a41F770219e03649b434b4c1E07850DfCFf66.png"
+        },
+        {
+          "id": "0x7abbdafaee87210e6340fa7d73be9d31fee4053e6543902e75bd3faf2d523cb1",
+          "displayName": "VitaDAO",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0xc2eba66a043d5471132cb40947e81f106f83d0bbbc0d4af3fff5e800ad7411c2",
+          "displayName": "Sushi",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5732B7695F06b9080109B10dec0856e1b801c15.png"
+        },
+        {
+          "id": "0xff1e9125432799c370c8074274f6b1d833c49cda519a7724cb3671550680901e",
+          "displayName": "rotki",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9531C059098e3d194fF87FebB587aB07B30B1306.png"
+        },
+        {
+          "id": "0xe1a29c6b0fb801ec1a0339fbfaa421fd55be8f3f2557997a892273ae9c240eed",
+          "displayName": "GasHawk",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC1FDB60CFB2FbbD6EDc9b445D9B508Da2dBF2c9b.png"
+        },
+        {
+          "id": "0xf3754e2f022a88ffa5a845b5455703aab98797d4c0bb8d86181952fbc5655412",
+          "displayName": "Week in Ethereum News",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x288C53a1BA857EaD34AD0e79F644087F8174185a.png"
+        },
+        {
+          "id": "0x2e014c80dabfa93ba83bb6ccab23904dc5c3e9b5d40d367d54d0cad0dd67eda7",
+          "displayName": "Carlos Melgar",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEFEdaf9c07E6eB56BB8F82f30018e4461B1c5F4c.png"
+        },
+        {
+          "id": "0x8f6fc027d996489f020e2b5591374f2c97833fe20cab3124e1c7377f5b7e583f",
+          "displayName": "ETHBarcelona",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB605745f67e8027ffe2df603b67529421c717EE8.png"
+        },
+        {
+          "id": "0x335ee234463e3a9bf9ea3325fd6942f30877714716b159ca7843f9b4d9ff4285",
+          "displayName": "Metagov",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa12f6928972B3B3C72259C7631BC1C37aA813C2e.png"
+        },
+        {
+          "id": "0xcef5619c73158a1b4dd128f918bad2bd2c8c5f6701bb6d2834e92289a9b5f145",
+          "displayName": "Bonding Curve Research Group",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb2821C0DF0c414ff51D3e8033CBA26DF6AaC587b.png"
+        },
+        {
+          "id": "0x7a09be22acae5e2d531965a619820b6b9d985f60051c524c2e2b5036aac7489b",
+          "displayName": "Cannon",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x07Aeeb7E544A070a2553e142828fb30c214a1F86.png"
+        },
+        {
+          "id": "0x0ace9050e3c67022816825143db0a483647bc719202adffc555e04b4bfd4f522",
+          "displayName": "Token Engineering Academy",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3b067Af83F540cB827825a6Ee5480441a4237E77.png"
+        },
+        {
+          "id": "0x7d2de8099d2435961b98eb1456efab1b02d74bf818149397f099f69719c81eb4",
+          "displayName": "wslyvh",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8289432ACD5EB0214B1C2526A5EDB480Aa06A9ab.png"
+        },
+        {
+          "id": "0xf359066ecd3ee909f58f6190a5e3c7dcad287d6408faecdcac58d5fbb3c88166",
+          "displayName": "Blobscan",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA6505171a320AAD27da33c9514b555D3b331D235.png"
+        },
+        {
+          "id": "0x42166c1cef33baca07a958fca9ee498163134a6a6bc54fb0e676410cf588dc96",
+          "displayName": "Blockscout Block Explorer",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5C36Bd76a6c138187C43da92f66f37E23b4017fA.png"
+        },
+        {
+          "id": "0x1ecdeab23aea56e92ee2161bc0af97565d6b6d666e46fc3c1db106708ed50d97",
+          "displayName": "TrueBlocks / Unchained Index",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x6d102cab70b4d3bca1330ef5f2f582ad611d92c3b0d912c7629e1f7c918a1a85",
+          "displayName": "Inverter Network",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5E3A2D9ef0878794b6d9bC2e777f0Fe018bc4A75.png"
+        },
+        {
+          "id": "0x67d88ee0aa76c9b8048f2d67ab388c223e01fd9b860906a9648f159bdf4d89e7",
+          "displayName": "Coordinape",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0.png"
+        },
+        {
+          "id": "0x77fed52df52899326c6f32bf7f310beed1bfd2fab75b3c952017e590481846e5",
+          "displayName": "Bankless Academy",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe1887fF140BfA9D3b45D0B2077b7471124acD242.jpeg"
+        },
+        {
+          "id": "0x7bb5c5e64a2e1feb76c3d75acdd0ddae11b9851fc3843a303f56d20aa79f52f2",
+          "displayName": "Gravity DAO",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8E3a92f82EA855020BA714e68541192B9bd6c5B1.jpeg"
+        },
+        {
+          "id": "0x5e1a1935ed36efc2ec04539193d0dd68a4807f782a0cde2dd555e0933a344d0f",
+          "displayName": "Erigon",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x38de0038ed83f94aeb539f03721a54dadd7caed4496a284f413e20eda27b8716",
+          "displayName": "dm3 protocol.",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1d921dff757610FbDB0073479e12c0a07d382677.jpeg"
+        },
+        {
+          "id": "0xde0444cd4e7dee41446e2dae23d5d0ea279600ec72d2206a14eea5879e5a3c4a",
+          "displayName": "Lodestar",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDaDd7c883288Cfe2E257B0A361865E5e9349808b.png"
+        },
+        {
+          "id": "0xc6e48d375dcab4f18c48d6e24d3fc074ab38bf754381c0f830dbccff1e0f8dbb",
+          "displayName": "Nimbus",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4413E96F6b46e59326a7695eF871FA902Ff7935d.png"
+        },
+        {
+          "id": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
+          "displayName": "Kernel",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98.png"
+        }
+      ]
+    },
+    {
+      "id": "0x4db021d966657a7287a481178118d1a2b6eb8493f23f76e1ece1582ac7f63782",
+      "listName": "Grants, Capital Allocation & Onboarding",
+      "impactEvaluationType": "PAIRWISE",
+      "categories": [
+        "PAIRWISE"
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0x95bba9455fa1028d59c069660656b3fe0b46d7b2e1883b091c5b04b810bc7525",
+          "displayName": "Gitcoin",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc2E2B715d9e302947Ec7e312fd2384b5a1296099.png"
+        },
+        {
+          "id": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+          "displayName": "Praise",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.png"
+        },
+        {
+          "id": "0x4a7b07b51c87113b9eb67b3cca6bb396d675ba51b21a77639bf22854bd74624d",
+          "displayName": "Optimism Grants Council Season 4",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5.png"
+        },
+        {
+          "id": "0x54a6bad0095142765e250c7f11c1465095131d295563f9ba315840763f55dd3e",
+          "displayName": "RabbitHole",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8F5415415d9200cCd8523F3Ee88F96F476141CC3.png"
+        },
+        {
+          "id": "0x1e5e6a08c3b41a10fef4271a0685b50294e8152660cf7abf3bc46f94c44b6a85",
+          "displayName": "RetroPGF Community",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0.png"
+        },
+        {
+          "id": "0x7d3cb52c6e006ca04df32b6bef1982962c0669a7b9d826114cf9f40c0ce9be97",
+          "displayName": "Donate3",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb15115A15d5992A756D003AE74C0b832918fAb75.png"
+        },
+        {
+          "id": "0xa1b12a1d4c48cbadb8b289144ef65fa5570ccd6e62e076c91f8009f5175fa0ba",
+          "displayName": "Layer3",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x8dc985486bea3e55a0bf61a1622319985802a6a446a34b23d1c819811c10fb0f",
+          "displayName": "Castle Capital",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7ab066BCD945264e1B1C8d451CB3517c973e676c.png"
+        },
+        {
+          "id": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+          "displayName": "Giveth",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x634977e11C823a436e587C1a1Eca959588C64287.png"
+        },
+        {
+          "id": "0xcf8372d0b54e8be15ce395fc88a86542ec53d12970a7fdfa6cdf13fea536b38a",
+          "displayName": "CharmVerse",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1cD919942a8EF3e867Fe9C0813BC4851090cF037.png"
+        },
+        {
+          "id": "0xcba0c3ad859a1c164a9a300b587abe5544cdc98e97f6a3e67fb31000e781b803",
+          "displayName": "JustCause",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x78726673245fdb56425c8bd782f6FaA3E447625A.png"
+        },
+        {
+          "id": "0x6b85d1e6159c2dd0613159b2e4708ae23f8e3a1554a5557590534e63aa282eb8",
+          "displayName": "GiveStation (youbuidl)",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9120b6fdF6eeF4Eea3Eb56EcAe7EcFB79a8e7bDD.png"
+        },
+        {
+          "id": "0xc78afe7a4a3aaf340019f64347ce65e64f25561a51df131670a2cc7c88075905",
+          "displayName": "Unitap",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x95F2177022e7B34D84498F2D9dd63a7457ab5793.png"
+        },
+        {
+          "id": "0x5e3ebd6375e04ee34b04cac7105a15d158302b69c3513140eeaf02296249e9f0",
+          "displayName": "Splits",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ebC8E61f87A301fF25a606d7C06150f856F24E2.png"
+        },
+        {
+          "id": "0x67d88ee0aa76c9b8048f2d67ab388c223e01fd9b860906a9648f159bdf4d89e7",
+          "displayName": "Coordinape",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0.png"
+        },
+        {
+          "id": "0x86596b004b7fe17cf0ce308c52ecfc174efc9ebf04fcbc4512f320f632a1f2ba",
+          "displayName": "Thank Optimism | by ThriveCoin",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x055D602C940b3cd7A158df0FD600C75744C9690e.png"
+        },
+        {
+          "id": "0x9fae00fd359ac7113bf727c79ccb70420f04150e8b432bd1617c615d47c5448d",
+          "displayName": "Public Goods Grant Management",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33878e070db7f70D2953Fe0278Cd32aDf8104572.png"
+        },
+        {
+          "id": "0x503998acaeee3cdae0023e7d3327c017145b2fd638f1b83084975eceb4ff8cbc",
+          "displayName": "Web3Native",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x353cd262B60F821f602DC72e8E938cBC26A2B116.png"
+        },
+        {
+          "id": "0x6d984b8e3b187070129658d99f9011baeb2c85955f8aa9aa0c7f91da7ab62b85",
+          "displayName": "Optimism Grants Changelog",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x657d99Ca637fEA0c90Ac3f65719F83519f331828.png"
+        },
+        {
+          "id": "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
+          "displayName": "RetroPGF Hub",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065.png"
+        },
+        {
+          "id": "0xf0e9da0f8ecaa1caaf7fbcfbb2c51dbdfcfc9be1becc3fc5d584b56779ba6b5e",
+          "displayName": "Endaoment",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9d9d5A6cdbdCd1D7D4261861A30Db1A806154662.png"
+        },
+        {
+          "id": "0xf7339a30ff66a5f84e57dbc7674d6623d121915876a5da931701ed677aba4d48",
+          "displayName": "Hypercerts Foundation",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB6091aAb544eF253c23a37295953AaFc9D836681.png"
+        },
+        {
+          "id": "0x380869d62245a876e782065034acdfbd8233dee1363117ded1a9ef3347b1bca9",
+          "displayName": "Grateful",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfF284BADB6f6030C726782767fe45770570Ca381.png"
+        }
+      ]
+    },
+    {
+      "id": "0x0581d68f2ca145fbfb844ed799c2e41bc1af6c7731fcb0eec2445ed16618f3f4",
+      "listName": "Grants, Capital Allocation & Onboarding",
+      "impactEvaluationType": "PAIRWISE",
+      "categories": [
+        "PAIRWISE"
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0xcf8372d0b54e8be15ce395fc88a86542ec53d12970a7fdfa6cdf13fea536b38a",
+          "displayName": "CharmVerse",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1cD919942a8EF3e867Fe9C0813BC4851090cF037.png"
+        },
+        {
+          "id": "0x95bba9455fa1028d59c069660656b3fe0b46d7b2e1883b091c5b04b810bc7525",
+          "displayName": "Gitcoin",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc2E2B715d9e302947Ec7e312fd2384b5a1296099.png"
+        },
+        {
+          "id": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+          "displayName": "Giveth",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x634977e11C823a436e587C1a1Eca959588C64287.png"
+        },
+        {
+          "id": "0x4a7b07b51c87113b9eb67b3cca6bb396d675ba51b21a77639bf22854bd74624d",
+          "displayName": "Optimism Grants Council Season 4",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5.png"
+        },
+        {
+          "id": "0x1e5e6a08c3b41a10fef4271a0685b50294e8152660cf7abf3bc46f94c44b6a85",
+          "displayName": "RetroPGF Community",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0.png"
+        },
+        {
+          "id": "0x9fae00fd359ac7113bf727c79ccb70420f04150e8b432bd1617c615d47c5448d",
+          "displayName": "Public Goods Grant Management",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33878e070db7f70D2953Fe0278Cd32aDf8104572.png"
+        },
+        {
+          "id": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+          "displayName": "Praise",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.png"
+        },
+        {
+          "id": "0x6d984b8e3b187070129658d99f9011baeb2c85955f8aa9aa0c7f91da7ab62b85",
+          "displayName": "Optimism Grants Changelog",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x657d99Ca637fEA0c90Ac3f65719F83519f331828.png"
+        },
+        {
+          "id": "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
+          "displayName": "RetroPGF Hub",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065.png"
+        },
+        {
+          "id": "0x54a6bad0095142765e250c7f11c1465095131d295563f9ba315840763f55dd3e",
+          "displayName": "RabbitHole",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8F5415415d9200cCd8523F3Ee88F96F476141CC3.png"
+        },
+        {
+          "id": "0xa1b12a1d4c48cbadb8b289144ef65fa5570ccd6e62e076c91f8009f5175fa0ba",
+          "displayName": "Layer3",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x5e3ebd6375e04ee34b04cac7105a15d158302b69c3513140eeaf02296249e9f0",
+          "displayName": "Splits",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ebC8E61f87A301fF25a606d7C06150f856F24E2.png"
+        },
+        {
+          "id": "0x86596b004b7fe17cf0ce308c52ecfc174efc9ebf04fcbc4512f320f632a1f2ba",
+          "displayName": "Thank Optimism | by ThriveCoin",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x055D602C940b3cd7A158df0FD600C75744C9690e.png"
+        },
+        {
+          "id": "0xf7339a30ff66a5f84e57dbc7674d6623d121915876a5da931701ed677aba4d48",
+          "displayName": "Hypercerts Foundation",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB6091aAb544eF253c23a37295953AaFc9D836681.png"
+        },
+        {
+          "id": "0xc78afe7a4a3aaf340019f64347ce65e64f25561a51df131670a2cc7c88075905",
+          "displayName": "Unitap",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x95F2177022e7B34D84498F2D9dd63a7457ab5793.png"
+        },
+        {
+          "id": "0x503998acaeee3cdae0023e7d3327c017145b2fd638f1b83084975eceb4ff8cbc",
+          "displayName": "Web3Native",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x353cd262B60F821f602DC72e8E938cBC26A2B116.png"
+        },
+        {
+          "id": "0x67d88ee0aa76c9b8048f2d67ab388c223e01fd9b860906a9648f159bdf4d89e7",
+          "displayName": "Coordinape",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0.png"
+        },
+        {
+          "id": "0xf0e9da0f8ecaa1caaf7fbcfbb2c51dbdfcfc9be1becc3fc5d584b56779ba6b5e",
+          "displayName": "Endaoment",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9d9d5A6cdbdCd1D7D4261861A30Db1A806154662.png"
+        },
+        {
+          "id": "0x101871d3c582cd1a8322f911e6f9623d8c1a6f19108149d9c1a6ef4650080780",
+          "displayName": "Funding the Commons",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x576edCed7475D8F64a5e2D5227c93Ca57d7f5d20.png"
+        },
+        {
+          "id": "0x8dc985486bea3e55a0bf61a1622319985802a6a446a34b23d1c819811c10fb0f",
+          "displayName": "Castle Capital",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7ab066BCD945264e1B1C8d451CB3517c973e676c.png"
+        },
+        {
+          "id": "0x5c6601dfaab3603567d35888988d2588444d2f4d009ee16f1ba5ce1ad8036c9c",
+          "displayName": "Crypto Fundraising",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF80a109643E78Bf60A34110530d2a5fe0b414996.png"
+        }
+      ]
+    },
+    {
+      "id": "0xffd5cfae424afccd2ba60a6c4252a8d68bf4dd30768762c08782ac36845a1f0f",
+      "listName": "Grants, Capital Allocation & Onboarding",
+      "impactEvaluationType": "PAIRWISE",
+      "categories": [
+        "PAIRWISE"
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+          "displayName": "Giveth",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x634977e11C823a436e587C1a1Eca959588C64287.png"
+        },
+        {
+          "id": "0xcf8372d0b54e8be15ce395fc88a86542ec53d12970a7fdfa6cdf13fea536b38a",
+          "displayName": "CharmVerse",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1cD919942a8EF3e867Fe9C0813BC4851090cF037.png"
+        },
+        {
+          "id": "0x95bba9455fa1028d59c069660656b3fe0b46d7b2e1883b091c5b04b810bc7525",
+          "displayName": "Gitcoin",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc2E2B715d9e302947Ec7e312fd2384b5a1296099.png"
+        },
+        {
+          "id": "0x380869d62245a876e782065034acdfbd8233dee1363117ded1a9ef3347b1bca9",
+          "displayName": "Grateful",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfF284BADB6f6030C726782767fe45770570Ca381.png"
+        },
+        {
+          "id": "0xf0e9da0f8ecaa1caaf7fbcfbb2c51dbdfcfc9be1becc3fc5d584b56779ba6b5e",
+          "displayName": "Endaoment",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9d9d5A6cdbdCd1D7D4261861A30Db1A806154662.png"
+        },
+        {
+          "id": "0x8dc985486bea3e55a0bf61a1622319985802a6a446a34b23d1c819811c10fb0f",
+          "displayName": "Castle Capital",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7ab066BCD945264e1B1C8d451CB3517c973e676c.png"
+        },
+        {
+          "id": "0x101871d3c582cd1a8322f911e6f9623d8c1a6f19108149d9c1a6ef4650080780",
+          "displayName": "Funding the Commons",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x576edCed7475D8F64a5e2D5227c93Ca57d7f5d20.png"
+        },
+        {
+          "id": "0xa1b12a1d4c48cbadb8b289144ef65fa5570ccd6e62e076c91f8009f5175fa0ba",
+          "displayName": "Layer3",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x5c6601dfaab3603567d35888988d2588444d2f4d009ee16f1ba5ce1ad8036c9c",
+          "displayName": "Crypto Fundraising",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF80a109643E78Bf60A34110530d2a5fe0b414996.png"
+        },
+        {
+          "id": "0x7d3cb52c6e006ca04df32b6bef1982962c0669a7b9d826114cf9f40c0ce9be97",
+          "displayName": "Donate3",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb15115A15d5992A756D003AE74C0b832918fAb75.png"
+        },
+        {
+          "id": "0x4a7b07b51c87113b9eb67b3cca6bb396d675ba51b21a77639bf22854bd74624d",
+          "displayName": "Optimism Grants Council Season 4",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5.png"
+        },
+        {
+          "id": "0x1e5e6a08c3b41a10fef4271a0685b50294e8152660cf7abf3bc46f94c44b6a85",
+          "displayName": "RetroPGF Community",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0.png"
+        },
+        {
+          "id": "0xcba0c3ad859a1c164a9a300b587abe5544cdc98e97f6a3e67fb31000e781b803",
+          "displayName": "JustCause",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x78726673245fdb56425c8bd782f6FaA3E447625A.png"
+        },
+        {
+          "id": "0x5e3ebd6375e04ee34b04cac7105a15d158302b69c3513140eeaf02296249e9f0",
+          "displayName": "Splits",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ebC8E61f87A301fF25a606d7C06150f856F24E2.png"
+        },
+        {
+          "id": "0x9fae00fd359ac7113bf727c79ccb70420f04150e8b432bd1617c615d47c5448d",
+          "displayName": "Public Goods Grant Management",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33878e070db7f70D2953Fe0278Cd32aDf8104572.png"
+        },
+        {
+          "id": "0xf7339a30ff66a5f84e57dbc7674d6623d121915876a5da931701ed677aba4d48",
+          "displayName": "Hypercerts Foundation",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB6091aAb544eF253c23a37295953AaFc9D836681.png"
+        },
+        {
+          "id": "0xc78afe7a4a3aaf340019f64347ce65e64f25561a51df131670a2cc7c88075905",
+          "displayName": "Unitap",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x95F2177022e7B34D84498F2D9dd63a7457ab5793.png"
+        },
+        {
+          "id": "0x503998acaeee3cdae0023e7d3327c017145b2fd638f1b83084975eceb4ff8cbc",
+          "displayName": "Web3Native",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x353cd262B60F821f602DC72e8E938cBC26A2B116.png"
+        },
+        {
+          "id": "0x67d88ee0aa76c9b8048f2d67ab388c223e01fd9b860906a9648f159bdf4d89e7",
+          "displayName": "Coordinape",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0.png"
+        },
+        {
+          "id": "0x54a6bad0095142765e250c7f11c1465095131d295563f9ba315840763f55dd3e",
+          "displayName": "RabbitHole",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8F5415415d9200cCd8523F3Ee88F96F476141CC3.png"
+        },
+        {
+          "id": "0x6d984b8e3b187070129658d99f9011baeb2c85955f8aa9aa0c7f91da7ab62b85",
+          "displayName": "Optimism Grants Changelog",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x657d99Ca637fEA0c90Ac3f65719F83519f331828.png"
+        },
+        {
+          "id": "0x6b85d1e6159c2dd0613159b2e4708ae23f8e3a1554a5557590534e63aa282eb8",
+          "displayName": "GiveStation (youbuidl)",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9120b6fdF6eeF4Eea3Eb56EcAe7EcFB79a8e7bDD.png"
+        },
+        {
+          "id": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+          "displayName": "Praise",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.png"
+        },
+        {
+          "id": "0x86596b004b7fe17cf0ce308c52ecfc174efc9ebf04fcbc4512f320f632a1f2ba",
+          "displayName": "Thank Optimism | by ThriveCoin",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x055D602C940b3cd7A158df0FD600C75744C9690e.png"
+        },
+        {
+          "id": "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
+          "displayName": "RetroPGF Hub",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065.png"
+        }
+      ]
+    },
+    {
+      "id": "0x762f0bb8486d98623123418b13c00aaa44c81a99f4937fe000f78360d33f5d5d",
+      "listName": "Grants, Capital Allocation & Onboarding",
+      "impactEvaluationType": "PAIRWISE",
+      "categories": [
+        "PAIRWISE"
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+          "displayName": "Giveth",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x634977e11C823a436e587C1a1Eca959588C64287.png"
+        },
+        {
+          "id": "0x95bba9455fa1028d59c069660656b3fe0b46d7b2e1883b091c5b04b810bc7525",
+          "displayName": "Gitcoin",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc2E2B715d9e302947Ec7e312fd2384b5a1296099.png"
+        },
+        {
+          "id": "0x380869d62245a876e782065034acdfbd8233dee1363117ded1a9ef3347b1bca9",
+          "displayName": "Grateful",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfF284BADB6f6030C726782767fe45770570Ca381.png"
+        },
+        {
+          "id": "0x54a6bad0095142765e250c7f11c1465095131d295563f9ba315840763f55dd3e",
+          "displayName": "RabbitHole",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8F5415415d9200cCd8523F3Ee88F96F476141CC3.png"
+        },
+        {
+          "id": "0x4a7b07b51c87113b9eb67b3cca6bb396d675ba51b21a77639bf22854bd74624d",
+          "displayName": "Optimism Grants Council Season 4",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5.png"
+        },
+        {
+          "id": "0xa1b12a1d4c48cbadb8b289144ef65fa5570ccd6e62e076c91f8009f5175fa0ba",
+          "displayName": "Layer3",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x6b85d1e6159c2dd0613159b2e4708ae23f8e3a1554a5557590534e63aa282eb8",
+          "displayName": "GiveStation (youbuidl)",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9120b6fdF6eeF4Eea3Eb56EcAe7EcFB79a8e7bDD.png"
+        },
+        {
+          "id": "0x7d3cb52c6e006ca04df32b6bef1982962c0669a7b9d826114cf9f40c0ce9be97",
+          "displayName": "Donate3",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb15115A15d5992A756D003AE74C0b832918fAb75.png"
+        },
+        {
+          "id": "0xf7339a30ff66a5f84e57dbc7674d6623d121915876a5da931701ed677aba4d48",
+          "displayName": "Hypercerts Foundation",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB6091aAb544eF253c23a37295953AaFc9D836681.png"
+        },
+        {
+          "id": "0x1e5e6a08c3b41a10fef4271a0685b50294e8152660cf7abf3bc46f94c44b6a85",
+          "displayName": "RetroPGF Community",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0.png"
+        },
+        {
+          "id": "0xf0e9da0f8ecaa1caaf7fbcfbb2c51dbdfcfc9be1becc3fc5d584b56779ba6b5e",
+          "displayName": "Endaoment",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9d9d5A6cdbdCd1D7D4261861A30Db1A806154662.png"
+        },
+        {
+          "id": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+          "displayName": "Praise",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.png"
+        },
+        {
+          "id": "0x101871d3c582cd1a8322f911e6f9623d8c1a6f19108149d9c1a6ef4650080780",
+          "displayName": "Funding the Commons",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x576edCed7475D8F64a5e2D5227c93Ca57d7f5d20.png"
+        },
+        {
+          "id": "0xc78afe7a4a3aaf340019f64347ce65e64f25561a51df131670a2cc7c88075905",
+          "displayName": "Unitap",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x95F2177022e7B34D84498F2D9dd63a7457ab5793.png"
+        },
+        {
+          "id": "0x67d88ee0aa76c9b8048f2d67ab388c223e01fd9b860906a9648f159bdf4d89e7",
+          "displayName": "Coordinape",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0.png"
+        },
+        {
+          "id": "0x5c6601dfaab3603567d35888988d2588444d2f4d009ee16f1ba5ce1ad8036c9c",
+          "displayName": "Crypto Fundraising",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF80a109643E78Bf60A34110530d2a5fe0b414996.png"
+        },
+        {
+          "id": "0x6d984b8e3b187070129658d99f9011baeb2c85955f8aa9aa0c7f91da7ab62b85",
+          "displayName": "Optimism Grants Changelog",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x657d99Ca637fEA0c90Ac3f65719F83519f331828.png"
+        },
+        {
+          "id": "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
+          "displayName": "RetroPGF Hub",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065.png"
+        },
+        {
+          "id": "0xcba0c3ad859a1c164a9a300b587abe5544cdc98e97f6a3e67fb31000e781b803",
+          "displayName": "JustCause",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x78726673245fdb56425c8bd782f6FaA3E447625A.png"
+        },
+        {
+          "id": "0x8dc985486bea3e55a0bf61a1622319985802a6a446a34b23d1c819811c10fb0f",
+          "displayName": "Castle Capital",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7ab066BCD945264e1B1C8d451CB3517c973e676c.png"
+        },
+        {
+          "id": "0x5e3ebd6375e04ee34b04cac7105a15d158302b69c3513140eeaf02296249e9f0",
+          "displayName": "Splits",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ebC8E61f87A301fF25a606d7C06150f856F24E2.png"
+        },
+        {
+          "id": "0xcf8372d0b54e8be15ce395fc88a86542ec53d12970a7fdfa6cdf13fea536b38a",
+          "displayName": "CharmVerse",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1cD919942a8EF3e867Fe9C0813BC4851090cF037.png"
+        },
+        {
+          "id": "0x9fae00fd359ac7113bf727c79ccb70420f04150e8b432bd1617c615d47c5448d",
+          "displayName": "Public Goods Grant Management",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33878e070db7f70D2953Fe0278Cd32aDf8104572.png"
+        },
+        {
+          "id": "0x503998acaeee3cdae0023e7d3327c017145b2fd638f1b83084975eceb4ff8cbc",
+          "displayName": "Web3Native",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x353cd262B60F821f602DC72e8E938cBC26A2B116.png"
+        }
+      ]
+    },
+    {
+      "id": "0x431c872cdc36470632de57061befca743fcea0d017458fe9831f1ee134223b87",
+      "listName": "Grants, Capital Allocation & Onboarding",
+      "impactEvaluationType": "PAIRWISE",
+      "categories": [
+        "PAIRWISE"
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0xa1a22d2fb5735459c54bf2861adb1f30ed77cca44536c06070587aced21d97d9",
+          "displayName": "Praise",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0B7246eF74Ca7b37Fdc3D15be4f0b49876622F95.png"
+        },
+        {
+          "id": "0x5cd4c904d48c57e03e02cbedbdd9a95dce26b1382780c7f8cacb96d32c9ed5d0",
+          "displayName": "Giveth",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x634977e11C823a436e587C1a1Eca959588C64287.png"
+        },
+        {
+          "id": "0x54a6bad0095142765e250c7f11c1465095131d295563f9ba315840763f55dd3e",
+          "displayName": "RabbitHole",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8F5415415d9200cCd8523F3Ee88F96F476141CC3.png"
+        },
+        {
+          "id": "0x67d88ee0aa76c9b8048f2d67ab388c223e01fd9b860906a9648f159bdf4d89e7",
+          "displayName": "Coordinape",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd06D692B8e283b7b7bBD56Ca946Ad46c21879Ff0.png"
+        },
+        {
+          "id": "0xcf8372d0b54e8be15ce395fc88a86542ec53d12970a7fdfa6cdf13fea536b38a",
+          "displayName": "CharmVerse",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1cD919942a8EF3e867Fe9C0813BC4851090cF037.png"
+        },
+        {
+          "id": "0x101871d3c582cd1a8322f911e6f9623d8c1a6f19108149d9c1a6ef4650080780",
+          "displayName": "Funding the Commons",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x576edCed7475D8F64a5e2D5227c93Ca57d7f5d20.png"
+        },
+        {
+          "id": "0xf7339a30ff66a5f84e57dbc7674d6623d121915876a5da931701ed677aba4d48",
+          "displayName": "Hypercerts Foundation",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB6091aAb544eF253c23a37295953AaFc9D836681.png"
+        },
+        {
+          "id": "0x1e5e6a08c3b41a10fef4271a0685b50294e8152660cf7abf3bc46f94c44b6a85",
+          "displayName": "RetroPGF Community",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6eb78c56F639b3d161456e9f893c8e8aD9d754F0.png"
+        },
+        {
+          "id": "0xf0e9da0f8ecaa1caaf7fbcfbb2c51dbdfcfc9be1becc3fc5d584b56779ba6b5e",
+          "displayName": "Endaoment",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9d9d5A6cdbdCd1D7D4261861A30Db1A806154662.png"
+        },
+        {
+          "id": "0x9fae00fd359ac7113bf727c79ccb70420f04150e8b432bd1617c615d47c5448d",
+          "displayName": "Public Goods Grant Management",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33878e070db7f70D2953Fe0278Cd32aDf8104572.png"
+        },
+        {
+          "id": "0x4a7b07b51c87113b9eb67b3cca6bb396d675ba51b21a77639bf22854bd74624d",
+          "displayName": "Optimism Grants Council Season 4",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x75536CF4f01c2bFa528F5c74DdC1232Db3aF3Ee5.png"
+        },
+        {
+          "id": "0x5e3ebd6375e04ee34b04cac7105a15d158302b69c3513140eeaf02296249e9f0",
+          "displayName": "Splits",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ebC8E61f87A301fF25a606d7C06150f856F24E2.png"
+        },
+        {
+          "id": "0x95bba9455fa1028d59c069660656b3fe0b46d7b2e1883b091c5b04b810bc7525",
+          "displayName": "Gitcoin",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc2E2B715d9e302947Ec7e312fd2384b5a1296099.png"
+        },
+        {
+          "id": "0x380869d62245a876e782065034acdfbd8233dee1363117ded1a9ef3347b1bca9",
+          "displayName": "Grateful",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfF284BADB6f6030C726782767fe45770570Ca381.png"
+        },
+        {
+          "id": "0x86596b004b7fe17cf0ce308c52ecfc174efc9ebf04fcbc4512f320f632a1f2ba",
+          "displayName": "Thank Optimism | by ThriveCoin",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x055D602C940b3cd7A158df0FD600C75744C9690e.png"
+        },
+        {
+          "id": "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
+          "displayName": "RetroPGF Hub",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065.png"
+        }
+      ]
+    }
+  ],
   "id": "Project|0x9fae00fd359ac7113bf727c79ccb70420f04150e8b432bd1617c615d47c5448d",
   "prelimResult": "Keep",
   "reportReason": "",

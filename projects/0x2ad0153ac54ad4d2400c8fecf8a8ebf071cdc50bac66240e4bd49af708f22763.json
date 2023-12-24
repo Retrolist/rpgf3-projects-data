@@ -45,7 +45,31 @@
       "description": ""
     }
   ],
-  "lists": [],
+  "lists": [
+    {
+      "id": "0x5ac34ebd7e21add89064bd314e0d53960d6b4056065366b76108d2d9abd95f47",
+      "listName": "Cool list",
+      "impactEvaluationType": "OTHER",
+      "categories": [],
+      "projectsMetadata": [
+        {
+          "id": "0x2ad0153ac54ad4d2400c8fecf8a8ebf071cdc50bac66240e4bd49af708f22763",
+          "displayName": "0xchio",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x544429E4b930E41C90730241529eecaad3827add.png"
+        },
+        {
+          "id": "0xb7fe6ccc4321cf93f9a1db80a1706b436d2b5551e123a76658ab469ceede727b",
+          "displayName": "0xKhmer",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2D8EA9BCf57A8456085947AB4752f3f9104FC7DB.png"
+        },
+        {
+          "id": "0x0bf0ba0fd6b01e29f62617f1c9e2b7c4e318e96676a12ba723d01a05592f193d",
+          "displayName": "0xfari",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA5B5E889BAcB66162Cd08734b271D6Cd467Bde5C.png"
+        }
+      ]
+    }
+  ],
   "id": "Project|0x2ad0153ac54ad4d2400c8fecf8a8ebf071cdc50bac66240e4bd49af708f22763",
   "prelimResult": "Remove",
   "reportReason": "Spam, Outside of RetroPGF's Scope"

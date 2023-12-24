@@ -51,7 +51,118 @@
       "description": "I'm sorry I can't remember the exactly. "
     }
   ],
-  "lists": [],
+  "lists": [
+    {
+      "id": "0xef07717eae749fc528c6d4c4b85838dacc903595d8932d47d1f8578ec7fac11b",
+      "listName": "My awesome suprt cool liiiist",
+      "impactEvaluationType": "OTHER",
+      "categories": [
+        "OP_STACK"
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+          "displayName": "EthStaker",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png"
+        },
+        {
+          "id": "0xf3e6f4737869efd0967440e4f97ea91b3ce3611c801675319874ea02f4d7a668",
+          "displayName": "ethers.js",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8ba1f109551bD432803012645Ac136ddd64DBA72.jpeg"
+        },
+        {
+          "id": "0x3d8e96e9e4f6087719baab2c7e24f5aeafaf9c2fbf8dc7069310136d1600c214",
+          "displayName": "Ethereum Attestation Service",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e95B8E249c4536FE1db2E4ce5476010767C0A05.png"
+        },
+        {
+          "id": "0xf136f5a299e27269045ab60239a6c3897826e7019fb2c534344ad448a16cef8a",
+          "displayName": "Ethereum Colombia",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD164AF956E0f34Be07a86752fe43AE788F647531.png"
+        },
+        {
+          "id": "0x2113aa30f96029c1a9af0c1c15677fb80ecc169fb05b3d0c90e6eb77f5e758c1",
+          "displayName": "Ethereum Mexico",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x596a9BCad70d07AFF4215b2a17ad36298139fB6C.png"
+        },
+        {
+          "id": "0x8788f5efe99abf2a82ff0c27361baf9321c7601c06599551635aadfdd7980cf9",
+          "displayName": "Ethereum Lima",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2f6c8F867df4E49e4Fb24741C414f315E266C21B.png"
+        },
+        {
+          "id": "0x083cc62e08ddd1cafe05d94c4694b684bc5cbb44513b02ac884d368dea7f9c24",
+          "displayName": "Ethereum France",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5C7944604F3ca37A081c0D2C4d4e4714a24979Af.png"
+        },
+        {
+          "id": "0x4f7632e3e0f326540df67ffc795342a3485a3fbe0d82566bb9738867cd0c7736",
+          "displayName": "Ethereum on ARM",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x91A3b28aE8a04C174448d4b10150C844871fCb3c.png"
+        },
+        {
+          "id": "0x5631d1a39a213f05428554e7534ab6a6ff7dc4619bea744488de86f7417be417",
+          "displayName": "beaconcha.in",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd9ED89A0f4cfbC1be4b7b1aA744b5bd25ACA9979.jpeg"
+        },
+        {
+          "id": "0xfd3677d0a5caae4d3be67792508f01fa29f5e7de59bf8d03f33b372264888162",
+          "displayName": "Tuan Tran",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8Cf6B03C2Aa80de2579dF02aA3beD1e716E1680.jpeg"
+        },
+        {
+          "id": "0xf613b977f4bf531756777dfba706e1f62a1588f1da1123b461044057f4dacc0b",
+          "displayName": "Ruslan",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB06428aF321598ea54Cb34E14C9df3D3b09FE625.png"
+        },
+        {
+          "id": "0xba2e0392ddef461fea23821d7098b917bab9532d2d2cb297d0449d3a446c9bf7",
+          "displayName": "jordanmmck",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29FF795B015652EdFB9883bB83B3E9bE3c207e62.jpeg"
+        },
+        {
+          "id": "0x33fcfbefe71202245fd492bd9b161dfe49dc2119edc7a42a0b8a9e5936a416d5",
+          "displayName": "Jessy's Hacker House",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc7FE1135Ba71e03a7a6b9E1dDB8f653f143bdCF9.png"
+        },
+        {
+          "id": "0x5a8d6d49eced8fb7c56d3d57604f81df20211a406da6e1ba92f28626c46f88c9",
+          "displayName": "0xairdropfarmer",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDAf7BBe20724d2dD7717E0E09a06B572C3A112DE.jpeg"
+        },
+        {
+          "id": "0xfe7b7d5636f52ca5706fa3294549ec8d75cfbfda9d88ba41ec86abd6b6e53b6d",
+          "displayName": "Support NERDs",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF7159DEAc43C0efe1Dd50b10eFfA6299e694918D.png"
+        },
+        {
+          "id": "0xf66bd8a1b1a43d9e1411ffe4141d468b6177a7fd62692992e0f9b3b38d681479",
+          "displayName": "The Opimist",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03143EE031AA7bD7b6846750d066A27f18D39edd.png"
+        },
+        {
+          "id": "0xe5bdbe7427fa9a86f70ede69c07f4a14ad6d2af60658b84ac2134b77c6f53845",
+          "displayName": "Department of Decentralization",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x59cc3Fc56B8B2988F259EC1E6f3446907130f728.png"
+        },
+        {
+          "id": "0xa9f6de6ad7b1cb903f0063e588f0f729f13ddd76d77495e25a3860c27a721773",
+          "displayName": "ETHGlobal",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe993486B257Cd1481aef74b3B909A2627Fc8d305.png"
+        },
+        {
+          "id": "0x0ace9050e3c67022816825143db0a483647bc719202adffc555e04b4bfd4f522",
+          "displayName": "Token Engineering Academy",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3b067Af83F540cB827825a6Ee5480441a4237E77.png"
+        },
+        {
+          "id": "0x3ce49d409338c85e38ad3cb7ea957d6cac3a3e84eae1a8109fc60cf4400ee214",
+          "displayName": "Xanny",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x31a9bc328d634BEa07E74732F668AbD42D75D624.png"
+        }
+      ]
+    }
+  ],
   "id": "Project|0xfd3677d0a5caae4d3be67792508f01fa29f5e7de59bf8d03f33b372264888162",
   "prelimResult": "Remove",
   "reportReason": "Spam, Outside of RetroPGF's Scope"

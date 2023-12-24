@@ -45,7 +45,26 @@
       "description": ""
     }
   ],
-  "lists": [],
+  "lists": [
+    {
+      "id": "0xcca9d711a7d76996af974deddbd25ce2fdfdf083ddb32f915f0d1827c2b1d400",
+      "listName": "Test with projects",
+      "impactEvaluationType": "OTHER",
+      "categories": [],
+      "projectsMetadata": [
+        {
+          "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+          "displayName": "Agora",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
+        },
+        {
+          "id": "0xeb6d010f55898704677447bea30e40e1a99ec4cdd37a48ee6e73a1b1e4249707",
+          "displayName": "RPGF Test",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x184b65d77975675b20846a25ddd9e31F9EF77891.png"
+        }
+      ]
+    }
+  ],
   "id": "Project|0xeb6d010f55898704677447bea30e40e1a99ec4cdd37a48ee6e73a1b1e4249707",
   "prelimResult": "Remove",
   "reportReason": "Spam, Outside of RetroPGF's Scope"

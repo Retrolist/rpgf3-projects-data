@@ -38,7 +38,96 @@
     }
   ],
   "fundingSources": [],
-  "lists": [],
+  "lists": [
+    {
+      "id": "0x9ba29a1a3ac4897d6fea75d278cdb86a0d538631a4775ef863f246ba9f015fb6",
+      "listName": "Governance Tools",
+      "impactEvaluationType": "BADGEHOLDER",
+      "categories": [],
+      "projectsMetadata": [
+        {
+          "id": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+          "displayName": "DeepDAO",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png"
+        },
+        {
+          "id": "0x5b595cd2a5a5b2c8ff06b029bc7d31dc5299f91266820fe21092ed62f70c5401",
+          "displayName": "Boardroom",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.png"
+        },
+        {
+          "id": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+          "displayName": "Karma",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png"
+        },
+        {
+          "id": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+          "displayName": "EIP-4824/ DAOstar",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.png"
+        },
+        {
+          "id": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
+          "displayName": "Optimism Resource Center",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png"
+        },
+        {
+          "id": "0x4780f02020e27dad28cff95737eff1683f44b9f0b422a5da31527278f16671b8",
+          "displayName": "Zor0001",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x98df92976Cfd2469c3Ce238b40Fb672266E08A9D.jpeg"
+        },
+        {
+          "id": "0xc8ccf4d7e704f62803f942679100759e72a575c8b635ed926debe850f422bbc5",
+          "displayName": "Guild.xyz",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA65eEf5D0566Ef2ED242d8719111e3116333278d.png"
+        },
+        {
+          "id": "0xc1bb9d8e0a6e46f11f9d540b13bf040a77fa04a739c1889c32d23b12cac767c8",
+          "displayName": "Goverland",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB5dba35092aD57C02219B2E0AbF60d67C7d2f71e.png"
+        },
+        {
+          "id": "0x6659104bceabe31f50407a7388b91cec589be2012160990467a54d2733d8c0f2",
+          "displayName": "Glaucon",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb9e3BA10B66294C25aD6a8924f42f4D9AACa4F50.png"
+        },
+        {
+          "id": "0x81e7df84b024bce587d164ba7fb79059fac84b22c76d38e8bcde247e56e0bf42",
+          "displayName": "Slugs",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcb57c082893450408D432B5d0BC38def93b26040.png"
+        },
+        {
+          "id": "0x16c1701d3f3053b966380d0ba120122b5aa85e58662eba445ab9894d16217ffa",
+          "displayName": "Llama",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe3a195c57e13C55794Bcd7111bb5976062E7Dd55.png"
+        },
+        {
+          "id": "0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
+          "displayName": "Snapshot",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a.png"
+        },
+        {
+          "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+          "displayName": "Agora",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
+        },
+        {
+          "id": "0x68cef3183236e7717d0fc1c7b18e0fa3c6d7f752d2803686712c8168fe21b400",
+          "displayName": "Zengo: Decentralized Budget",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9.png"
+        },
+        {
+          "id": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
+          "displayName": "Tally",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb5B069370Ef24BC67F114e185D185063CE3479f8.png"
+        },
+        {
+          "id": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+          "displayName": "RegenScore",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png"
+        }
+      ]
+    }
+  ],
   "id": "Project|0xc1bb9d8e0a6e46f11f9d540b13bf040a77fa04a739c1889c32d23b12cac767c8",
   "prelimResult": "Remove",
   "reportReason": "Not a live product, promises future impact"

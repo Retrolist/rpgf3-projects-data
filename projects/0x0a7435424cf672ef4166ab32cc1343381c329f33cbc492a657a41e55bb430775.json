@@ -46,7 +46,33 @@
       "description": "Translator Article and Crowdin at Optimism Indonesia "
     }
   ],
-  "lists": [],
+  "lists": [
+    {
+      "id": "0x06033020a2d996e8fc98990be5660b20d712aacfdc0095dca8c6d7caf84f4400",
+      "listName": "OP List",
+      "impactEvaluationType": "OTHER",
+      "categories": [
+        "DEVELOPER_ECOSYSTEM"
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0xf3e6f4737869efd0967440e4f97ea91b3ce3611c801675319874ea02f4d7a668",
+          "displayName": "ethers.js",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8ba1f109551bD432803012645Ac136ddd64DBA72.jpeg"
+        },
+        {
+          "id": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+          "displayName": "EthStaker",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png"
+        },
+        {
+          "id": "0x0a7435424cf672ef4166ab32cc1343381c329f33cbc492a657a41e55bb430775",
+          "displayName": "Optimism Indonesia",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0403c342E9F2d829864c95e51857A7187381F7DA.jpeg"
+        }
+      ]
+    }
+  ],
   "id": "Project|0x0a7435424cf672ef4166ab32cc1343381c329f33cbc492a657a41e55bb430775",
   "prelimResult": "Remove",
   "reportReason": "This application was flagged by the Contributions team for double-counting contributions"

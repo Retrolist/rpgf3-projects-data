@@ -131,7 +131,113 @@
       "description": "We received as a part of our job done since 2022. "
     }
   ],
-  "lists": [],
+  "lists": [
+    {
+      "id": "0xdb88322b28e81af4e6a4f2c7039381e1eab7547475fc834a817e9718fea51a41",
+      "listName": "Spanish Speakers (Governance category)",
+      "impactEvaluationType": "BADGEHOLDER",
+      "categories": [
+        "COLLECTIVE_GOVERNANCE"
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0x8c6ef03ae9da84c0fc10a72d404ac170d884ba0252512c08ee58f8fde8131079",
+          "displayName": "Optimism Espa\u00f1ol",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e4865634EC54dFF742E1a7452a456919B8e277b.jpeg"
+        },
+        {
+          "id": "0x9ba3fe96ab1f32ebfdb0514e6531eb365fad843d656aebfdb6953dcdf378bb86",
+          "displayName": "Solow \ud83d\udc3d",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x929e1b374FB07486c9A64570e5BDA99383f48785.png"
+        },
+        {
+          "id": "0x2113aa30f96029c1a9af0c1c15677fb80ecc169fb05b3d0c90e6eb77f5e758c1",
+          "displayName": "Ethereum Mexico",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x596a9BCad70d07AFF4215b2a17ad36298139fB6C.png"
+        },
+        {
+          "id": "0xf16d4e5a02c22a3c903a56d614b049b5d83bf9d6705f811b1cd1f4464f5b4ed1",
+          "displayName": "Espacio Cripto",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE800Bafa84F3194960d79C13169fFfba2E444dBc.png"
+        },
+        {
+          "id": "0xef34b4a18cd1c2f3960adfadf663f6909755fa628856a9348f1ac8c47d631ae0",
+          "displayName": "Women Biz - Optimism Impact",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE5df6a208EE99F3D7516d3f6f97416e7b402aeaF.png"
+        },
+        {
+          "id": "0x21bd1ffc17577bff57ffab3413191f08a4b1b64bd5c930b5959408ee477d5cf7",
+          "displayName": "HER LATAM _ Optimistas Brillando en Blockchain",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72cBF736B721D5266Aca1E6BCC98C526d0ef2FE0.png"
+        },
+        {
+          "id": "0xcc390957c2ff178b14d378630b8e99765cba6f4dc5027b3c38e6a1e4e2f8a0da",
+          "displayName": "Metagals",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc165709Fb45bA0755AE8baB3541150A873866947.png"
+        },
+        {
+          "id": "0x621d5a35c3f1adc137b749da5ba1763ad32b364bcaca9b212b825794dc515f17",
+          "displayName": "piurana_inBlock - Stay Optimistic",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE1e5dcbBc95aabE80E2f9c65C7A2cEF85daF61C4.png"
+        },
+        {
+          "id": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
+          "displayName": "SEED Latam",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0087a081a9B430fd8f688c6ac5dD24421BfB060D.png"
+        },
+        {
+          "id": "0x54090220e92626ad3d3cee164a9cd14f808abc69257217691a8b1f0b65e5f551",
+          "displayName": "Andino - Talent in technology",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x363cDaA139E1Fc64d308aa2129852745676bA680.jpeg"
+        },
+        {
+          "id": "0xd412bec807ece79f76f3534624c7eaa7bc5db63b57110b0893b9f10b9433ffbd",
+          "displayName": "T2LATAM",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2C2fC22575f5eFF9e4311708eABedA2791957c85.png"
+        },
+        {
+          "id": "0x8cce00b421d2f19c829d484b423a49f311d41355238c5c5a73b72d62c5c63f56",
+          "displayName": "Rodrigo Nu\u00f1\u039ez",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4D5B28d08e8c00e041053b0dc584e00e6997Daa3.png"
+        },
+        {
+          "id": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+          "displayName": "Proof of Integrity",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png"
+        },
+        {
+          "id": "0xd288468561dab001c87bc5ccd2ff5a9277ad161e90adf2895a8c17c67ebd0041",
+          "displayName": "Nacion Bankless",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA8F0048A0d1A04663Ca5010d0bEaC5BCAEeA0eef.png"
+        },
+        {
+          "id": "0x03f067fb513eb032c6138820aa7d1ae3d80ff4bfd213ad79f62ffd6f145f1a3c",
+          "displayName": "CryptoReuMD",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA4369e39e3ED13593Adb0142A1ea5d08AbdF99C4.png"
+        },
+        {
+          "id": "0x6770ebe0a793217fc2f14e4e1561ebea466033cb1985671b98a5b698c32244fd",
+          "displayName": "Cryptoversidad",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x281BA4E9B7e28982d6CB53EE3836865f1453e12F.png"
+        },
+        {
+          "id": "0xc372b8138f712875d1b7e852d7b78d58a6655caf672692565a310ae8d2405017",
+          "displayName": "Brichis",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7fC80faD32Ec41fd5CfcC14EeE9C31953b6B4a8B.png"
+        },
+        {
+          "id": "0x8d74ea236742a773f21486e6d66a187f5398171a44c8cae6993d62b104709fd9",
+          "displayName": "FilosofiaCodigo",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb6F5414bAb8d5ad8F33E37591C02f7284E974FcB.png"
+        },
+        {
+          "id": "0x7bba50affa4ef77da95d392f7898f12af64ccfec1909d410ad8a2baf2aea8ff3",
+          "displayName": "Kairos Research",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6D465d2081b799770d0Ce7E755d8dB1665903fFB.png"
+        }
+      ]
+    }
+  ],
   "id": "Project|0xef34b4a18cd1c2f3960adfadf663f6909755fa628856a9348f1ac8c47d631ae0",
   "prelimResult": "Remove",
   "reportReason": "They claim to make contributions, but there's no real impact and their talks are not checkable (always pictures with the OP logo, nothing else)"

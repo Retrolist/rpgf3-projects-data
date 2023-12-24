@@ -69,7 +69,186 @@
     }
   ],
   "fundingSources": [],
-  "lists": [],
+  "lists": [
+    {
+      "id": "6570ac272a10f91def756365",
+      "listName": "Rafael",
+      "impactEvaluationType": "rubric",
+      "categories": [],
+      "projectsMetadata": [
+        {
+          "id": "0x1402768b4e6481137978e3ecd853cb0e7eefff51f2b8838c382b5d4907931224",
+          "displayName": "ChainList",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe2bBCF440D0F1419f93cD84Dda24759188c3185D.png"
+        },
+        {
+          "id": "0x41680e70d47afaaed2fa5fdd9402b37ef41baeb42738f7c482a282c17e2bfc6e",
+          "displayName": "Interport Finance",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x47660F6662FA3f4c76406EaEb9A7489Db280C6b3.png"
+        },
+        {
+          "id": "0xc3ad567e82145d15987c82efccc1aee7803bb69750cf221f2c68165c688c1878",
+          "displayName": "SupraOracles",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5.png"
+        },
+        {
+          "id": "0xcda4d6876501268b31d1927f2e9a2b836cd9b2c3faa376c60d468fa8bd2cf23f",
+          "displayName": "Merkly",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3469F853c6522DE54Ce839Dd245724e56EF25859.png"
+        },
+        {
+          "id": "0xca4751a5419a9e32f31487355d8180652b8205bb8e583fde65bbca93722ad2d5",
+          "displayName": "Archly",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0c5D52630c982aE81b78AB2954Ddc9EC2797bB9c.png"
+        },
+        {
+          "id": "0xd6da51fe10242debbb67dd488f20c69c00d2bcbae43cb22ccfb90f0e255ad580",
+          "displayName": "rhino.fi",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC451b0191351ce308FdFd779D73814c910FC5eCB.png"
+        },
+        {
+          "id": "0x9c2550f0c4dba8d511bf08e0d35dc6c29ab2761a3f3e9ad55f684c4cdcea1f83",
+          "displayName": "Superscan",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb93F1e042939D58c0b6696366ca5e021DCF3650D.jpeg"
+        },
+        {
+          "id": "0xed052bcc8a5141a3baf9e42f7c441d94221ff4c16adf45aae190a53143b61c1d",
+          "displayName": "Hop DAO",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9f8d2dafE9978268aC7c67966B366d6d55e97f07.png"
+        },
+        {
+          "id": "0x91941c2cb8e8079a32813cfa72facb995b4803285685955ef4f4772cd525f50b",
+          "displayName": "Across Protocol",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33DB27C21E0f7a2f3351A4C6DDceDFB9F713410b.png"
+        },
+        {
+          "id": "0xddc9a054991a682b95fd92825602c1b0dafde853408d08328f9cca77e6fd0caf",
+          "displayName": "Synapse DAO",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x60d0edb6e40cd6BF0b1DFc90C58bA0D3Ed0C9A2d.png"
+        },
+        {
+          "id": "0xd2e8491c9c5e761a1b3899ecb329d0bf37b9fcff152cda962508108d1bd8ec47",
+          "displayName": "WOOFi",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7cBFd4f0De51124B498f72DEBC35421C66F2bB0d.png"
+        },
+        {
+          "id": "0x53f97287b63b1620d39ee5ef5626f87d334796962c4a3b524a59d576ff130bb7",
+          "displayName": "nic",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD2A333009E5cEEF7EDfD6f82489005d1DC6ae9E8.png"
+        },
+        {
+          "id": "0xa56c22c8a230b721d39e7dd1615802db826a3c5dfb1ffa86967afa5db890b5ea",
+          "displayName": "PR0",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5.png"
+        },
+        {
+          "id": "0xbd9046f085bcd22857b23dd1bf3965db8a97db88e14598f28b649918a783f60f",
+          "displayName": "Socket ",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ad673197E99449891C08B79d26bd541FB6856C9.png"
+        },
+        {
+          "id": "0x6520b1492d761fd7f08b4e7a2094d9c6bc0832f93a10bafd918c21996c4305b2",
+          "displayName": "Chaineye",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdA2B9efEd0018e521845D96924832e28d2E56437.png"
+        },
+        {
+          "id": "0xca68da6f8e6ac0f2c83fccf8b0d7714370ba4b846c4e73761557a484258ec19c",
+          "displayName": "Moonwell",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x60A0164463f3dC6c27e0AF42D1F64ab8BF225578.png"
+        },
+        {
+          "id": "0xb109e7bbedcc8e7b6d89619dae850b707ba071923532899ff2aa4b472af64049",
+          "displayName": "Odos",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De9109a2333845A15ddE1f2F0c020b37421e1f5.png"
+        },
+        {
+          "id": "0x71e4915fe3b20feeb949e572cfa4204ab8e0a62ae385a0cbb8474071fb86eb80",
+          "displayName": "Chronicle Labs",
+          "profileImageUrl": null
+        }
+      ]
+    },
+    {
+      "id": "0x9f75def5ce09cac6c5297a391aaa008e85e573c4fdc44be6fac4dce477a09339",
+      "listName": "Cross-Chain Interoperability",
+      "impactEvaluationType": "PAIRWISE",
+      "categories": [
+        "PAIRWISE"
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0xc3ad567e82145d15987c82efccc1aee7803bb69750cf221f2c68165c688c1878",
+          "displayName": "SupraOracles",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6a813AD99472Ca0868e104E607E4dD4C2616C3B5.png"
+        },
+        {
+          "id": "0xd6da51fe10242debbb67dd488f20c69c00d2bcbae43cb22ccfb90f0e255ad580",
+          "displayName": "rhino.fi",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC451b0191351ce308FdFd779D73814c910FC5eCB.png"
+        },
+        {
+          "id": "0x71e4915fe3b20feeb949e572cfa4204ab8e0a62ae385a0cbb8474071fb86eb80",
+          "displayName": "Chronicle Labs",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0xcda4d6876501268b31d1927f2e9a2b836cd9b2c3faa376c60d468fa8bd2cf23f",
+          "displayName": "Merkly",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3469F853c6522DE54Ce839Dd245724e56EF25859.png"
+        },
+        {
+          "id": "0x6520b1492d761fd7f08b4e7a2094d9c6bc0832f93a10bafd918c21996c4305b2",
+          "displayName": "Chaineye",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdA2B9efEd0018e521845D96924832e28d2E56437.png"
+        },
+        {
+          "id": "0x91941c2cb8e8079a32813cfa72facb995b4803285685955ef4f4772cd525f50b",
+          "displayName": "Across Protocol",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33DB27C21E0f7a2f3351A4C6DDceDFB9F713410b.png"
+        },
+        {
+          "id": "0x1402768b4e6481137978e3ecd853cb0e7eefff51f2b8838c382b5d4907931224",
+          "displayName": "ChainList",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe2bBCF440D0F1419f93cD84Dda24759188c3185D.png"
+        },
+        {
+          "id": "0xddc9a054991a682b95fd92825602c1b0dafde853408d08328f9cca77e6fd0caf",
+          "displayName": "Synapse DAO",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x60d0edb6e40cd6BF0b1DFc90C58bA0D3Ed0C9A2d.png"
+        },
+        {
+          "id": "0xa56c22c8a230b721d39e7dd1615802db826a3c5dfb1ffa86967afa5db890b5ea",
+          "displayName": "PR0",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9D31e30003f253563Ff108BC60B16Fdf2c93abb5.png"
+        },
+        {
+          "id": "0x53f97287b63b1620d39ee5ef5626f87d334796962c4a3b524a59d576ff130bb7",
+          "displayName": "nic",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD2A333009E5cEEF7EDfD6f82489005d1DC6ae9E8.png"
+        },
+        {
+          "id": "0xb109e7bbedcc8e7b6d89619dae850b707ba071923532899ff2aa4b472af64049",
+          "displayName": "Odos",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De9109a2333845A15ddE1f2F0c020b37421e1f5.png"
+        },
+        {
+          "id": "0x9c2550f0c4dba8d511bf08e0d35dc6c29ab2761a3f3e9ad55f684c4cdcea1f83",
+          "displayName": "Superscan",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb93F1e042939D58c0b6696366ca5e021DCF3650D.jpeg"
+        },
+        {
+          "id": "0x41680e70d47afaaed2fa5fdd9402b37ef41baeb42738f7c482a282c17e2bfc6e",
+          "displayName": "Interport Finance",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x47660F6662FA3f4c76406EaEb9A7489Db280C6b3.png"
+        },
+        {
+          "id": "0xbd9046f085bcd22857b23dd1bf3965db8a97db88e14598f28b649918a783f60f",
+          "displayName": "Socket",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ad673197E99449891C08B79d26bd541FB6856C9.png"
+        }
+      ]
+    }
+  ],
   "id": "Project|0x53f97287b63b1620d39ee5ef5626f87d334796962c4a3b524a59d576ff130bb7",
   "prelimResult": "Remove",
   "reportReason": ""

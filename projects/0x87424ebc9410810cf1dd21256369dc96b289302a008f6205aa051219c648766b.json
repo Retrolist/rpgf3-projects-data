@@ -70,7 +70,973 @@
       "description": "Uniswap Grant"
     }
   ],
-  "lists": [],
+  "lists": [
+    {
+      "id": "0xf6a37b8cbd67ec092e019c99f2981fe6849e9e39b9c8b6d56f58be6cb15ef7a2",
+      "listName": "Governance Tokenomics and Analytics - Individuals",
+      "impactEvaluationType": "PAIRWISE",
+      "categories": [
+        "PAIRWISE"
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0xf79ce6e79fdb9112ac891b4e0c8f61c038fde1c1ced9d1b7e03c93c31e5f5b1f",
+          "displayName": "webOfTrust",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1de2A056508E0D0dd88A88f1f5cdf9cfa510795c.png"
+        },
+        {
+          "id": "0x05a44c5b72c86f2f9b8e0939dc9633661177b7337daa6df1aee401b561bf1905",
+          "displayName": "raho & tnorm",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x842bB1bb84CC8A3D6277b0ff9729d22D55E9C50B.jpeg"
+        },
+        {
+          "id": "0x319e92614fd4d193ae32199f9459862ba5def14978cf005b19343843ca2e0693",
+          "displayName": "Rollup Economics Dune Spell",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE7d1405C20A23a8e8f9F1BD572d1320c479233EE.png"
+        },
+        {
+          "id": "0x5fe5c833aa4b2929fef01554ea18979d48d95b5cf5af3d66936c8963b9586df0",
+          "displayName": "satorrr",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5c1D15dC3da43A18E60C2DdB87B3466097855530.png"
+        },
+        {
+          "id": "0x7fc5dafacfa34c678f5e26cb5928406fc4f0466f6bef8ef0b267ecc942d13878",
+          "displayName": "MarcoV",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x283266045Ab2aB0793a62CADC21D55f685636Ae0.png"
+        },
+        {
+          "id": "0x3ce49d409338c85e38ad3cb7ea957d6cac3a3e84eae1a8109fc60cf4400ee214",
+          "displayName": "Xanny",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x31a9bc328d634BEa07E74732F668AbD42D75D624.png"
+        },
+        {
+          "id": "0x4583d4badbcbcb617f049f7751b5ab45a378f52ff5022ba689df741fe3339b59",
+          "displayName": "ATK",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x80f8eFb44b3bbC088B3360266c29DAcEFf1a8C3F.jpeg"
+        },
+        {
+          "id": "0xbedcd5e59e87c88e2d5b3f135cef429d5cdefd7e99e6fd8b40569ec5191dc1a1",
+          "displayName": "bh2smith",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8d99F8b2710e6A3B94d9bf465A98E5273069aCBd.jpeg"
+        },
+        {
+          "id": "0xf46f276a1645c0b23162b3fc89965a022cb4dc20900c0f6bbeb3710ea4ddd7e8",
+          "displayName": "hildobby",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x09a5943a6d10919571eE2C9F63380aEA747ECA97.jpeg"
+        },
+        {
+          "id": "0xf9cbdc7fa9d0e03f65030f716d9a53a98bee7d06861d236484b88ce586988fb6",
+          "displayName": "Ivan Molto",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7904667C340601AaB73939372C016dC5102732A2.png"
+        },
+        {
+          "id": "0x80b576d7e0307515a72bfc390bebd2c3f7acd522a90575c0ce3387985c6eece5",
+          "displayName": "Private Retrieval Fund",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbd43CDeDaaF8CFCFeC0C6597edF748FE402F6F00.jpeg"
+        },
+        {
+          "id": "0x2fcf74bc4287ad3e63476246b2999ad0070cfcca8804fa66c7efd227070de33f",
+          "displayName": "Hedgey",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6cCe9bAE11B01E9fFF30DBe790f64B459A614B0F.png"
+        },
+        {
+          "id": "0x87424ebc9410810cf1dd21256369dc96b289302a008f6205aa051219c648766b",
+          "displayName": "AsymmetricDefi",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x36653dde46bfe40b9aeb4ed20dfc4ccb0a40ba01ca4f0055e96870c9b28878f0",
+          "displayName": "banterlytics",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x18cCC241CcE98a67564E367eBc1F1f0e692E3188.png"
+        }
+      ]
+    },
+    {
+      "id": "0x23cac4b84db2a012214dca018c8e52442da1bf5ac3c983a7255ebdb2da905e6c",
+      "listName": "Governance Tokenomics and Analytics - Individuals",
+      "impactEvaluationType": "PAIRWISE",
+      "categories": [
+        "PAIRWISE"
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0x5fe5c833aa4b2929fef01554ea18979d48d95b5cf5af3d66936c8963b9586df0",
+          "displayName": "satorrr",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5c1D15dC3da43A18E60C2DdB87B3466097855530.png"
+        },
+        {
+          "id": "0x3ce49d409338c85e38ad3cb7ea957d6cac3a3e84eae1a8109fc60cf4400ee214",
+          "displayName": "Xanny",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x31a9bc328d634BEa07E74732F668AbD42D75D624.png"
+        },
+        {
+          "id": "0x36653dde46bfe40b9aeb4ed20dfc4ccb0a40ba01ca4f0055e96870c9b28878f0",
+          "displayName": "banterlytics",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x18cCC241CcE98a67564E367eBc1F1f0e692E3188.png"
+        },
+        {
+          "id": "0x7fc5dafacfa34c678f5e26cb5928406fc4f0466f6bef8ef0b267ecc942d13878",
+          "displayName": "MarcoV",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x283266045Ab2aB0793a62CADC21D55f685636Ae0.png"
+        },
+        {
+          "id": "0xf9cbdc7fa9d0e03f65030f716d9a53a98bee7d06861d236484b88ce586988fb6",
+          "displayName": "Ivan Molto",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7904667C340601AaB73939372C016dC5102732A2.png"
+        },
+        {
+          "id": "0x05a44c5b72c86f2f9b8e0939dc9633661177b7337daa6df1aee401b561bf1905",
+          "displayName": "raho & tnorm",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x842bB1bb84CC8A3D6277b0ff9729d22D55E9C50B.jpeg"
+        },
+        {
+          "id": "0xf79ce6e79fdb9112ac891b4e0c8f61c038fde1c1ced9d1b7e03c93c31e5f5b1f",
+          "displayName": "webOfTrust",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1de2A056508E0D0dd88A88f1f5cdf9cfa510795c.png"
+        },
+        {
+          "id": "0xf46f276a1645c0b23162b3fc89965a022cb4dc20900c0f6bbeb3710ea4ddd7e8",
+          "displayName": "hildobby",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x09a5943a6d10919571eE2C9F63380aEA747ECA97.jpeg"
+        },
+        {
+          "id": "0x319e92614fd4d193ae32199f9459862ba5def14978cf005b19343843ca2e0693",
+          "displayName": "Rollup Economics Dune Spell",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE7d1405C20A23a8e8f9F1BD572d1320c479233EE.png"
+        },
+        {
+          "id": "0x2fcf74bc4287ad3e63476246b2999ad0070cfcca8804fa66c7efd227070de33f",
+          "displayName": "Hedgey",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6cCe9bAE11B01E9fFF30DBe790f64B459A614B0F.png"
+        },
+        {
+          "id": "0x4583d4badbcbcb617f049f7751b5ab45a378f52ff5022ba689df741fe3339b59",
+          "displayName": "ATK",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x80f8eFb44b3bbC088B3360266c29DAcEFf1a8C3F.jpeg"
+        },
+        {
+          "id": "0xbedcd5e59e87c88e2d5b3f135cef429d5cdefd7e99e6fd8b40569ec5191dc1a1",
+          "displayName": "bh2smith",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8d99F8b2710e6A3B94d9bf465A98E5273069aCBd.jpeg"
+        },
+        {
+          "id": "0x87424ebc9410810cf1dd21256369dc96b289302a008f6205aa051219c648766b",
+          "displayName": "AsymmetricDefi",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x80b576d7e0307515a72bfc390bebd2c3f7acd522a90575c0ce3387985c6eece5",
+          "displayName": "Private Retrieval Fund",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbd43CDeDaaF8CFCFeC0C6597edF748FE402F6F00.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "0x76e7a2cc48978e824fc5000823154364eb4d8a46b4ac73f7c78c86693925c507",
+      "listName": "Fuji AR List ",
+      "impactEvaluationType": "BADGEHOLDER",
+      "categories": [
+        "COLLECTIVE_GOVERNANCE"
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0x819c3c9958e7c056a21ee4ab1138f8d0efa1e1f826105a045b42585ee6bc86e5",
+          "displayName": "Commons Stack",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8110d1D04ac316fdCACe8f24fD60C86b810AB15A.png"
+        },
+        {
+          "id": "0x335ee234463e3a9bf9ea3325fd6942f30877714716b159ca7843f9b4d9ff4285",
+          "displayName": "Metagov",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa12f6928972B3B3C72259C7631BC1C37aA813C2e.png"
+        },
+        {
+          "id": "0x7074a17e86a1120f20f9da403aed0e6adcaacc844d22fc10f7d6fd8088e8c50f",
+          "displayName": "ShapeShift DAO",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x901a3507Deb114093B18e23b3Ad12F0d6Cbb8df1.png"
+        },
+        {
+          "id": "0x6093215024946600fa2f854f941d918ea3a7f11283cb4e430969c36937b39e66",
+          "displayName": "MetricsDAO",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa0F00e59ef57D82449ACcB05b9512A47b264374b.png"
+        },
+        {
+          "id": "0x3f3be3996262f122877efc7d90672555eaf42a3d6cf6de7839a0282626aaa55f",
+          "displayName": "MesoReefDAO",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x156Bfd9395371F29489FaD5EDF29269b72908F68.png"
+        },
+        {
+          "id": "0x7f66e162c6ff0ebfc20fe8198af210936ff4917fc06c1c47630b89f3000958b4",
+          "displayName": "Refi Phangan",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa8258ED271BB9be9d7E16c5818E45eF6F2577d92.png"
+        },
+        {
+          "id": "0xa35852733815089884475191afbbed7c67c94cf6cb3de86eb2cf4e1f136523d7",
+          "displayName": "Based Nouns",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD3Dada2362b12D4fe52BeEBe0Bd0fA1a341F340D.png"
+        },
+        {
+          "id": "0x00bd68443effbeca73ae1cace46556beb5ab69b02d7aedc1706ad2a1b4693c09",
+          "displayName": "Web3xplorer",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB03E094e643a50E145E804b35787C28292E6Afe4.png"
+        },
+        {
+          "id": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+          "displayName": "DeepDAO",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png"
+        },
+        {
+          "id": "0x8311ffccc08b78bf4c7c52e4cc6e2d002e2641f68360f71e3c65ac3727de4a9e",
+          "displayName": "JobStash",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf071e75C56eD5B162B5cb5e9D30d752BcD663f2D.png"
+        },
+        {
+          "id": "0x243299d981be04f31e310b35c53b842cb2d875a1eccc273d9f752fab0bb0dfcb",
+          "displayName": "Public HAUS",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d.png"
+        },
+        {
+          "id": "0xa5513f8a78e872f5e4ddd2b47224cff11fc6dc0936c52975aa28b39f039a6414",
+          "displayName": "Mirror Curator DAO",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd35C826BF2bEd9a6a448A184026199B500D60514.png"
+        },
+        {
+          "id": "0x07fb115980ac6617d4b4b6f0cfcbc52bacfbb395b5c0d2d71fc735435627c555",
+          "displayName": "LXDAO",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3d7F926e57Ff06e465823b100b95408e805DfA2.png"
+        },
+        {
+          "id": "0xfd28d4d48ed3fa4b8986b814cda7a6535078967a7856cb9ab95742a95ae59974",
+          "displayName": "Bio.xyz",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xdF5D63B80D939Dedeb9C84B45B1D14A17c97802D.png"
+        },
+        {
+          "id": "0x2fa6da24d9eae58fe5ace5fe84f8d1004a57db3f906fd801b8d4f902eb042efe",
+          "displayName": "Builder Protocol",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x01503DC708ce3C55017194847A07aCb679D49f47.png"
+        },
+        {
+          "id": "0x830b1298ed3f8504a0b04b1a7371257b9a98c165e73d6cb557d82fcb7d5f25cc",
+          "displayName": "ReFi Medell\u00edn",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x302E2A0D4291ac14Aa1160504cA45A0A1F2E7a5c.png"
+        },
+        {
+          "id": "0x57281cd1a4a558617c4fd463f57f2aeb02bde260ad854087947e5e4edb4125ef",
+          "displayName": "Patrick Workman",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5dC70A9b884f78Ee030a8c6ad3b3b7dc10Bbe7f4.jpeg"
+        },
+        {
+          "id": "0x6886a3d5da589ee9fc5528548edca61cbefa640ff7b11d7d545281d3423cfd93",
+          "displayName": "Retrolist | RetroPGF Rubric-based List Creation UI",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x73F4e6132Cd9E4a3945d9CA6E98e5985BBe16d2D.png"
+        },
+        {
+          "id": "0x9e5ea1680af47702c711090ece55c5ce8a73d1122196274c4ffcdd60a2004972",
+          "displayName": "Token Engineering Commons",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfc1436EAb5943F90A4cae9fd1aD6ba66408cDe9B.png"
+        },
+        {
+          "id": "0xefe128594155a47fd209ddfb9340d0bfb9aa72f7214be78febb9deb80307038d",
+          "displayName": "Bankless DAO",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1e3a41F770219e03649b434b4c1E07850DfCFf66.png"
+        },
+        {
+          "id": "0xb426cb999cd483bd00f82b9585a6f0963f13e01e6e15403db87e3fed1dc87d96",
+          "displayName": "Mechanism Institute",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4cd6B4503d02973D78CFF59C9C56f5F378688274.png"
+        },
+        {
+          "id": "0x3b9f8c24da4058057f2f4d10a8ee7f3f6625529a38ffc4cd2ba1f1a8772bbb88",
+          "displayName": "Hats Protocol",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x03f7a3FD58B090Abe577651fb92Fb4789826191e.png"
+        },
+        {
+          "id": "0x8029257cc2a6c1f460ab14a3e2dff3dade52a7e173f35236d9af7bf1ab3fa961",
+          "displayName": "Optimystics",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC11C6f47fe090a706bA82964B8A98F1682b244Ff.png"
+        },
+        {
+          "id": "0xe512145819e4a511f7fd8f0f6cd67d8c9b90a8dda31598371b56bf754e6cc725",
+          "displayName": "Gov",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x27292E1a901E3E0bE7d144aDba4CAD07da2d8a42.png"
+        },
+        {
+          "id": "0x0a337cfd252f13746c53175e32881945f64ee405fa9abccfefdc10b195d205ef",
+          "displayName": "LexDAO",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0xedcfc53628109a0273bb28b7205b8ab74c5cd4d99cb4e435ad1ec95b979a3a83",
+          "displayName": "Public Nouns",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56D579a23C2D37D1E42923858Ce33856dF0Ae5dB.png"
+        },
+        {
+          "id": "0x7abbdafaee87210e6340fa7d73be9d31fee4053e6543902e75bd3faf2d523cb1",
+          "displayName": "VitaDAO",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x32a2e7a1ffaeb5a4259aacf2263474f9a93d7759bb672e13102a9851f94fb05b",
+          "displayName": "Parsec Finance",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9161A575356b607EA471a6189e3cE31B5FC914ca.png"
+        },
+        {
+          "id": "0xbe5c87794ca0822b4c390218f3d40f9ed33679285313a429b9027aa17760f6fe",
+          "displayName": "Token Terminal",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeB67e286faf667A047e435EC90107122b0bC2C01.png"
+        },
+        {
+          "id": "0xb44c91175a2df6dae1d59c1cecf9601abe0e8512a68ad14a2b723257d488e0f4",
+          "displayName": "DefiLlama",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5A9D07ED3d7318eD5cB932776D2CEeb177a68bCd.png"
+        },
+        {
+          "id": "0x54b5917ba3ae0b4afb71efd0369f4b65b43bf2453710edcb3340581972f99dea",
+          "displayName": "Optimism Prices Contracts",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe34aF0E043a4189891535F746d8e44c0dbc03c3C.png"
+        },
+        {
+          "id": "0xd8dd0f0bc1682dcd7c63bed3de0e0439282f7a7132658ada1c5cc5644bca3f30",
+          "displayName": "Open Source Observer",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5a5D9aB7b1bD978F80909503EBb828879daCa9C3.png"
+        },
+        {
+          "id": "0x5c7db781f9c4ea6eadf270bb2e1e64cc888b4c57d7df92649bf039d5f6910d0a",
+          "displayName": "Flipside Crypto",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x62a43123FE71f9764f26554b3F5017627996816a.png"
+        },
+        {
+          "id": "0x1440934dcf3ca194befd08b28e86eb6c2d68dd984070cf51f68fb3ad144b496c",
+          "displayName": "L2BEAT \ud83d\udc97",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1B686eE8E31c5959D9F5BBd8122a58682788eeaD.png"
+        },
+        {
+          "id": "0x1db11157f88463d1e8d946ec8a44b51a74d8edb76e450fc082b1045af7aeeb6d",
+          "displayName": "Optimism Grant Analytics: Grant3",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72C58877ef744b86F6ef416a3bE26Ec19d587708.png"
+        },
+        {
+          "id": "0x3291020a053ac45717fc2eed0e44a5fe7156889a4d9e015b0e50fff081caea77",
+          "displayName": "Redacted Research",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe179B39f819d55301762b5745c85F767d988aEbe.png"
+        },
+        {
+          "id": "0xab83d229faac28758e30acbbbcec653ce3dcc6f98b4b62ce20ee5e963e5ba606",
+          "displayName": "CryptoStats & CryptoFees.info",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x69aa21403244889832609963B0028e337a834953.png"
+        },
+        {
+          "id": "0x0a4693ad2d614884e6bd3d371e4463c0e54dc7176a26be6d325b6d29ee57e1e9",
+          "displayName": "Blockhead: track/visualize/explore all of crypto/DeFi/web3 in ONE interface!",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDA22919e01E249Ba4c96DbA46beE29E4981835FC.png"
+        },
+        {
+          "id": "0x4afa3f3679237d1a52cfd87f258f57d8de01d64a69182591807c471accdc0f16",
+          "displayName": "ERC4337 Smart Accounts Dune Dashboard",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x701E37643DADa13DE79e66A74E7d6187FC48faD2.jpeg"
+        },
+        {
+          "id": "0x7eb64cd4bd3b28fd36029377d136948aa74a5ca126df2e165574c736182267ff",
+          "displayName": "IntoTheBlock Optimism Analytics",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3f9125a7FDF7F379b9fD6d03931E8057fA7a5a06.png"
+        },
+        {
+          "id": "0x72636d32db59ae97bb616d46061268f60647e7f90aaf52ac5ed12f89aaa9ff0c",
+          "displayName": "Ipsilon",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF96Aa4A25fDe246d9dD498B145F52Fab0eAd29f3.png"
+        },
+        {
+          "id": "0x7aa5c6b5ae2a379986944609e9c2486f58a0f5f0c50c5355633bcd470934c486",
+          "displayName": "OP Governance Analytics Dashboard",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x17296956b4E07Ff8931E4ff4eA06709FaB70b879.png"
+        },
+        {
+          "id": "0x013c4c5aa12146fb2c42a6864e3cc9afb7212a62145487b514bceab1f588ae79",
+          "displayName": "growthepie",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9438b8B447179740cD97869997a2FCc9b4AA63a2.png"
+        },
+        {
+          "id": "0x4cd6de3604ab5f5ac866ee555fd9a6b19b4590890870251417dbfcc7b6602281",
+          "displayName": "NumbaNERDs",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0xad533925a428c7a85a0c69be650285c01feecc1d6eaa75ab47f96be1d8db811c",
+          "displayName": "Cryptomind Research",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x20958ed81d32f79FCA6eda9A5364AE7908a60D5D.png"
+        },
+        {
+          "id": "0x613f763a7000491408631468515429375f3240d42c542954693dff62b76df7b9",
+          "displayName": "Artemis Analytics",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x755dd16cf1a8d30118d4a58e458ac5477b2513439267441d4e0d4b50b131dcf7",
+          "displayName": "Arkham",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x901168296E01613E758433591B82E4d9606feddB.png"
+        },
+        {
+          "id": "0x7bba50affa4ef77da95d392f7898f12af64ccfec1909d410ad8a2baf2aea8ff3",
+          "displayName": "Kairos Research",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6D465d2081b799770d0Ce7E755d8dB1665903fFB.png"
+        },
+        {
+          "id": "0xfa8c195e19637a2d91f11c44d5b5c7c6397a06783864c1a6769285713f325708",
+          "displayName": "cryo",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x40C0BB75D745141727211338eBb4f26202C00Ef2.png"
+        },
+        {
+          "id": "0x822a558257f7e4e88615addf9431ca06482ba23d105f82950408fd7f53bd13d8",
+          "displayName": "Alpha Insiders",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3D1846ea60001A3Bc21438d76f3958422fe89adB.png"
+        },
+        {
+          "id": "0x7b0c961a1f892f654adce33bab1235bffacec1c02069b66490f91fc66765dcf9",
+          "displayName": "CrossAngle (\u201cXangle\u201d)",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5f80dbFEE26af9aBb7749831255312d5b676b9be.png"
+        },
+        {
+          "id": "0xe74ccd71062e114e4bbdbc6364d516b65b9003bdb3611de1bf8f774ae63b46f9",
+          "displayName": "EthereumETL",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9FD0C742D81B6f08817F3eF11D09Cb4a9f54eE5f.png"
+        },
+        {
+          "id": "0x4601875bbac07e7fad0b07b6ecd28b48e197e67fbc29c3e713a517391c8251a3",
+          "displayName": "Base Punk",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD688B5ed29Ab77b39884BabD1930213BF7805CD1.png"
+        },
+        {
+          "id": "0xee4fa88a475e80c188306d12d648ff98e2147d74970f06e662dfcfd602d08514",
+          "displayName": "Newtro Arts",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33912a0d6bEFf5Fb8e5B70688CE858D5e7E8104E.png"
+        },
+        {
+          "id": "0x168c3f157522e723c835ba79d4014f8b2a13637b668d43b4b922bc27231ad1ba",
+          "displayName": "Onchain Media Enthusiast",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFF0c6EC0130575e51e9B7173F1E095f188e3d524.png"
+        },
+        {
+          "id": "0xc4d5e887d3b75b6c2226b00aac456da6344fd96ba92f5935533616470b070367",
+          "displayName": "Tockable.xyz",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x38A4118936Dd9F7d5d2b7eD9B04333e129a95d97.png"
+        },
+        {
+          "id": "0x9f510c4ef96341ed9d8b567d40807095097c51cdc146723c6e34ce0a17ef2881",
+          "displayName": "The Open X Project",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb4a16728A270c0A9d57521926FBfb52dA28fb28D.png"
+        },
+        {
+          "id": "0xeec5041f2bae8c48877836c3e932a2df54a1369c3f297f8474935c0a2bad18f0",
+          "displayName": "Holograph",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD4f14555E5a6B1f5AFd132E4C51a717C7016Be3C.png"
+        },
+        {
+          "id": "0x8a7f7c5ab681ab20b64530c7b28f268f63caa9154fca76ba128e20ea5503c16a",
+          "displayName": "Decent.xyz",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBAfb15bF152365bd344639b6eDe5Dec09d5Ba64E.png"
+        },
+        {
+          "id": "0x23efd9fc3979482023d3e3d2df6c47e269db752d4109d1f3a9df7623296a1d29",
+          "displayName": "UNWA",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x763d7679dEaAA655ba4A940B3a1E4E308076B3CB.png"
+        },
+        {
+          "id": "0x9ee4a4f36ee067a0eed71b43b50b79b9a33f39677630de52d8016d268291f4b0",
+          "displayName": "Kredeum NFTs Factory",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x981ab0D817710d8FFFC5693383C00D985A3BDa38.png"
+        },
+        {
+          "id": "0xde707568dc6837c063c98810d567e0367845f1536a8566e585bd6f335d760793",
+          "displayName": "XomNFT",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1a1051c39652C0FF81A819DA4283871c3f076a3A.png"
+        },
+        {
+          "id": "0xe55a4c4f4840d8e38ecf86e6061b09a8446f431235417c21c99f8102d171ec89",
+          "displayName": "Unruggable Names",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8b1f85a93Ac6E4F62695Ea8EF2410d248605FEff.png"
+        },
+        {
+          "id": "0x7f49dacc2d14e2012a6701f7fd1e643df30ca223cbc9b8edc66f35c68761c2d5",
+          "displayName": "EGG \ud83e\udd5a RECORDS",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB712e1e9c62E8105929D4b32B6Cf1E5024ae7D90.png"
+        },
+        {
+          "id": "0x14176acd787a18b1165c3c9fe157420aef1112a4bef9eec59b16930fd907efe0",
+          "displayName": "Ospace Project",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x941D8Cd7378432Bc4952bA0Dcc9e120C18C92975.png"
+        },
+        {
+          "id": "0xcbb4c5eb3789d11832b4f96d36e7eb38797d948d5f086df686a1f218a132385b",
+          "displayName": "Apetimism",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x16ac527d938c36Caec5A6b0665ef7b456C22f7D2.png"
+        },
+        {
+          "id": "0xd227bad1198d45803505d562482b21f683b14208a59ceb8a463f03db5e46c926",
+          "displayName": "OptiChads",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x10850762bAc0dc6660630c1EfFe188A7cbFDdc88.png"
+        },
+        {
+          "id": "0x32877d8e812b802cedc6a27ad99c2454ef1e2e6c9c1d16147e9a0810a3a01761",
+          "displayName": "Travenesia",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA49CEE842116A89299A721D831BCf0511E8F6A15.png"
+        },
+        {
+          "id": "0x1a62e4ce6dcb668be423262c84d326f03f4b9981b8a6fc74d556af85af0be8c3",
+          "displayName": "Coop Records Music",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x512b55b00d744fC2eDB8474f223a7498c3e5a7ce.png"
+        },
+        {
+          "id": "0x3f414ca96d84352f4b9a9a5096bb750677a4328e1a9c56830cf3edea12cd4fcb",
+          "displayName": "First NFT Agency",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfBeB914c3C9B7a193C92De130A18716097478332.png"
+        },
+        {
+          "id": "0x49b4db4c54b774ca30ad1254df16b4d62bd611953cb5a6de1d34cbf136808814",
+          "displayName": "Invest in Music",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x86958A1219AB83c92779285eFeB0D9Dc186E24C0.png"
+        },
+        {
+          "id": "0x91a337dccdac32cb717d74594ad991b832d4790ab83e849be86fd8410bfa5a70",
+          "displayName": "LNRZ",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x351cfe61628239f979f88da463f81b6feaeff65bfbeeed489041a44fef1b6293",
+          "displayName": "Wildcards Protocol",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1208a26FAa0F4AC65B42098419EB4dAA5e580AC6.png"
+        },
+        {
+          "id": "0x020a49814aed7362cc564a227d7f1bda9c86b95b7d003080785c97a925fbf2b7",
+          "displayName": "ERC-6551 Tooling",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5561974F0D35D8C355241a5568894df7B691BB28.png"
+        },
+        {
+          "id": "0x715e6959a011d15846500ae9b9b815445e466e64f23a630bcd3323200f591783",
+          "displayName": "Eternal Garden: ORIGINS",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe43c5133f66f58FE5Ac8f9000AAE020Fbb9B0f85.png"
+        },
+        {
+          "id": "0x81e7df84b024bce587d164ba7fb79059fac84b22c76d38e8bcde247e56e0bf42",
+          "displayName": "Slugs",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcb57c082893450408D432B5d0BC38def93b26040.png"
+        },
+        {
+          "id": "0x3716035639769fdac0890b121d166c119f99c80ce4aa2c3d6809768bacc056d3",
+          "displayName": "jaxcoder",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA4ca1b15fE81F57cb2d3f686c7B13309906cd37B.png"
+        },
+        {
+          "id": "0x7ed37715e33c6d078e2ec8423e7e336e353261047a507733d2a999c3449d636c",
+          "displayName": "Ronan Sandford",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF78cD306b23031dE9E739A5BcDE61764e82AD5eF.png"
+        },
+        {
+          "id": "0xf3e6f4737869efd0967440e4f97ea91b3ce3611c801675319874ea02f4d7a668",
+          "displayName": "ethers.js",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8ba1f109551bD432803012645Ac136ddd64DBA72.jpeg"
+        },
+        {
+          "id": "0x564162823418a919885acb3cff4ea7857147144353c792923d4e7eb27e110d8c",
+          "displayName": "Forum",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEeC7E4B2287e98B6ca30242e2D2D2F283a78Fc82.png"
+        },
+        {
+          "id": "0x0e82e66b2949507a8858863d4c4d886d2e582341e6f5f8b33ddaa0082edae04d",
+          "displayName": "markg85",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x7d2de8099d2435961b98eb1456efab1b02d74bf818149397f099f69719c81eb4",
+          "displayName": "wslyvh",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8289432ACD5EB0214B1C2526A5EDB480Aa06A9ab.png"
+        },
+        {
+          "id": "0x1c03fba4505bdb618483c9c2a197e09753e8bdbc03f784d312039dd623ec8046",
+          "displayName": "Hardhat Tracer",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf51C53b2C184Aa43A7d24aA4f0Cf13D0e8b56c51.png"
+        },
+        {
+          "id": "0x002f7b3734cef070f9c5f245c87f6d18c1279d3c5e15c289f4e1f3690a917e24",
+          "displayName": "sunce86",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFA20426E6eE6072b0cC2049038c9E021d2010EB0.jpeg"
+        },
+        {
+          "id": "0x4fc411cc40e4a1fbfa73f5b1750d11271456dd6ada8234a6e37f44df4e5658d9",
+          "displayName": "Raiden",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBdB14cfFC78B901299Dc878adD11273C621fF5B8.png"
+        },
+        {
+          "id": "0xb04af6a6a336124fbf621ac380b23add5b6c53dee09dc19f2ad9caea8cdb5cdf",
+          "displayName": "solidity-analyzer",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5C5F81454d78bb96c82209d048406D592ABD3674.png"
+        },
+        {
+          "id": "0xe7dbc759d8e95884cef5cb0f710690abd5686297af6d90c7e48e0b624fce86d3",
+          "displayName": "Awesome Optimism",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x82aCDE34C057B009041B030f34F03a11f50735bf.png"
+        },
+        {
+          "id": "0x4ea9534a329b40233a55e4d3cd1c49082e2ba1ca1359c3aae8bb7c3f8aa388a3",
+          "displayName": "Onchain Postcard",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB491c205a8663c1678C30e7d18d60844Dba62440.png"
+        },
+        {
+          "id": "0x3cda55b2201bc6838291f6dc8d6325d321f4b011d91f4e6dcd14371751ee3a2b",
+          "displayName": "0xs34n",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0xe5bbc9d1ad7f67a66262067fbb7651335c9df66bce10147c6631ebc6a4140324",
+          "displayName": "vrypan",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x93c620D2aF377C6C37e3E3c1d3E065eb04b08aE2.png"
+        },
+        {
+          "id": "0x38de5b52001192fa8a86a7404b1cf6bb3566c5703dbde9cde0d36ef7c405e95c",
+          "displayName": "crate crypto",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0xe7451003b496fb6694bd47079be050f224a0944cc5fd73c2fa1064fc9be49f9c",
+          "displayName": "Paco Bytes",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9687c70DcFE21C6198703C813cDAEC9d3458e068.png"
+        },
+        {
+          "id": "0xb35269ecc1f0a00cdbd12ba986f61174ae69bc6274aaabbb8ec13eff0ea1b461",
+          "displayName": "abi-to-sol",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xefef50EbACd8DA3c13932ac204361B704Eb8292C.png"
+        },
+        {
+          "id": "0xebfde003ee2e4a52eb4a22d74759fdff01dfea6712dce0df1212dfa95341819c",
+          "displayName": "Cannon-rs",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc0017405E287476443Ab1B342B86f2ea92Ef9F73.png"
+        },
+        {
+          "id": "0x5effc6bf83d22623146bdd81e6bb55bc287b68aced8ad0d4be8cccbf5f408b19",
+          "displayName": "0xSalman",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x4800596e90de0ee85ce24f696d32402d87a406040889df8281221dee58a3698e",
+          "displayName": "geleeroyale",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x553232d3bf4aedc322c984eb06f1e88447007f48f0fc2377eac10b213ce069f8",
+          "displayName": "OpTracker",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5820b2D47397888adb34158B60164f661739FbB0.png"
+        },
+        {
+          "id": "0x352c6b7d6506710f5198c90c202a7571baf253e177876f43697521a15149220c",
+          "displayName": "prego",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4977A4b74D3a81dB4c462d9073E10796d0cEE333.png"
+        },
+        {
+          "id": "0x3bf8db795aafd69b9382756dfeeffa5a2f3353adb60158beb60665f4dd2a3f4d",
+          "displayName": "Buildooor",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB60f585E23173c546E40231C3D55afd029009333.png"
+        },
+        {
+          "id": "0x94b31664bb5940536bffe71fb0a2eb3b2373061fe09324a737807fc2bfe88ff1",
+          "displayName": "simple-optimism-node (Maintaining my own fork)",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27.png"
+        },
+        {
+          "id": "0x7b62eacad7ec6b3b02b03ded58a65bc8b3747679c8bdb2054d0d5936fc25744a",
+          "displayName": "Validato",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd3Cc6DeaA7B9C09E99DB64ca35D6D06179812C67.png"
+        },
+        {
+          "id": "0x9b2503a1c38eb7324c250449d59685ff0ce278da814eece9e09b23cb1040ea07",
+          "displayName": "Reno",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x936632cC3B9BC47ad23D41dC7cc200015c447f71.png"
+        },
+        {
+          "id": "0x4b5d1bb924ecf1996a5c193a61a18ee1603e8f3b71eccb3a1e2e73c059ca4091",
+          "displayName": "Conduit",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x8a952a834ff9186399c06935ffcdff482fb38b38808a7419fc415ad307a2e69b",
+          "displayName": "AyohTunde",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbA8D6600F02CD4Abd93eC63Eb99463a18aC75004.png"
+        },
+        {
+          "id": "0x0044f3f713acfa58a80899a841e6f417f27c3f151d6302815944c89834a0db97",
+          "displayName": "Paul Burg",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x50418699cB44BfDa9c9afc9B7a0b0d244d8927D2.png"
+        },
+        {
+          "id": "0xaa1ea2a6a67fcacd76ef8e24de0b32a6227314899a930eb8cbbc7fd5fcc5dd0d",
+          "displayName": "Thesleeper.eth Thai OP Educator",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x00409fC839a2Ec2e6d12305423d37Cd011279C09.png"
+        },
+        {
+          "id": "0x5fe5c833aa4b2929fef01554ea18979d48d95b5cf5af3d66936c8963b9586df0",
+          "displayName": "satorrr",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5c1D15dC3da43A18E60C2DdB87B3466097855530.png"
+        },
+        {
+          "id": "0xf46f276a1645c0b23162b3fc89965a022cb4dc20900c0f6bbeb3710ea4ddd7e8",
+          "displayName": "hildobby",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x09a5943a6d10919571eE2C9F63380aEA747ECA97.jpeg"
+        },
+        {
+          "id": "0xf79ce6e79fdb9112ac891b4e0c8f61c038fde1c1ced9d1b7e03c93c31e5f5b1f",
+          "displayName": "webOfTrust",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1de2A056508E0D0dd88A88f1f5cdf9cfa510795c.png"
+        },
+        {
+          "id": "0x80b576d7e0307515a72bfc390bebd2c3f7acd522a90575c0ce3387985c6eece5",
+          "displayName": "Private Retrieval Fund",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbd43CDeDaaF8CFCFeC0C6597edF748FE402F6F00.jpeg"
+        },
+        {
+          "id": "0x4583d4badbcbcb617f049f7751b5ab45a378f52ff5022ba689df741fe3339b59",
+          "displayName": "ATK",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x80f8eFb44b3bbC088B3360266c29DAcEFf1a8C3F.jpeg"
+        },
+        {
+          "id": "0xf9cbdc7fa9d0e03f65030f716d9a53a98bee7d06861d236484b88ce586988fb6",
+          "displayName": "Ivan Molto",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7904667C340601AaB73939372C016dC5102732A2.png"
+        },
+        {
+          "id": "0x87424ebc9410810cf1dd21256369dc96b289302a008f6205aa051219c648766b",
+          "displayName": "AsymmetricDefi",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x3ce49d409338c85e38ad3cb7ea957d6cac3a3e84eae1a8109fc60cf4400ee214",
+          "displayName": "Xanny",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x31a9bc328d634BEa07E74732F668AbD42D75D624.png"
+        },
+        {
+          "id": "0x319e92614fd4d193ae32199f9459862ba5def14978cf005b19343843ca2e0693",
+          "displayName": "Rollup Economics Dune Spell",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE7d1405C20A23a8e8f9F1BD572d1320c479233EE.png"
+        },
+        {
+          "id": "0x7fc5dafacfa34c678f5e26cb5928406fc4f0466f6bef8ef0b267ecc942d13878",
+          "displayName": "MarcoV",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x283266045Ab2aB0793a62CADC21D55f685636Ae0.png"
+        },
+        {
+          "id": "0x36653dde46bfe40b9aeb4ed20dfc4ccb0a40ba01ca4f0055e96870c9b28878f0",
+          "displayName": "banterlytics",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x18cCC241CcE98a67564E367eBc1F1f0e692E3188.png"
+        },
+        {
+          "id": "0xbedcd5e59e87c88e2d5b3f135cef429d5cdefd7e99e6fd8b40569ec5191dc1a1",
+          "displayName": "bh2smith",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8d99F8b2710e6A3B94d9bf465A98E5273069aCBd.jpeg"
+        },
+        {
+          "id": "0x05a44c5b72c86f2f9b8e0939dc9633661177b7337daa6df1aee401b561bf1905",
+          "displayName": "raho & tnorm",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x842bB1bb84CC8A3D6277b0ff9729d22D55E9C50B.jpeg"
+        },
+        {
+          "id": "0x2fcf74bc4287ad3e63476246b2999ad0070cfcca8804fa66c7efd227070de33f",
+          "displayName": "Hedgey",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6cCe9bAE11B01E9fFF30DBe790f64B459A614B0F.png"
+        },
+        {
+          "id": "0xd9dc151858206f4d87677730385c5c01c836e1be51f51264534486b18c01939f",
+          "displayName": "ZachXBT",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3D502fA3C2Aac31d88d6BDA8fBd38AB861211458.png"
+        },
+        {
+          "id": "0x1d0fd9b7e22d5104b7581d43eca15536106894dc0800877f624b2acac306f234",
+          "displayName": "Andrew Hong (ilemi)",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ae8c972fB2E6c00ddED8986E2dc672ED190DA06.png"
+        },
+        {
+          "id": "0xaf72f298c070d96e72345b7f99ee16da493018914aaac00a1db76fda08f5e9f9",
+          "displayName": "DAC on OP Stack",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAC9ba72fb61aA7c31A95df0A8b6ebA6f41EF875e.png"
+        },
+        {
+          "id": "0x895b1c9c2f2a6afb92839c0f400e634ac45b53346518b5b685f115ab555fe74f",
+          "displayName": "Defigourmet",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe08d3d0334aB089DAaF0C620989959Ba5d4aA04C.jpeg"
+        },
+        {
+          "id": "0x4d6a8934a57ef082939fbf87ce03b8c57abaf7cb436eaa819fb9b5f9736ecd79",
+          "displayName": "grapebaba",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56EdF679B0C80D528E17c5Ffe514dc9a1b254b9c.jpeg"
+        },
+        {
+          "id": "0xe16e61b94db454398e32da33201ac0bbe824d98b0e906a695f03c82c58393dbf",
+          "displayName": "supernova",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8.png"
+        },
+        {
+          "id": "0x3bbeb190adc5aea2dc76fe5e5483545c49faf631288f09644d91c242ccd16003",
+          "displayName": "Diego",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe3d8E58551d240626D50EE26FAFF2649e1EEE3cb.png"
+        },
+        {
+          "id": "0x4be3403e085715cdac5dc7c9fc3dfebfe9064d89ed6af5da1c612d3fac932356",
+          "displayName": "joohhnnn",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf8E30C251AA7974aA0A2d9e452d863681f8B59Ac.png"
+        },
+        {
+          "id": "0xf721b86e2b7f7195848185852de34ec8bb98f326701ea7d1b773d6110a6db5fa",
+          "displayName": "Gajesh Naik",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe2f6659e0209C3f79132AbDEB95abEBa0f1f672F.png"
+        },
+        {
+          "id": "0x97bc27f4ab99c45096bbea630f68b1205ef736c609d1225167f1d1aa7ebc35c3",
+          "displayName": "monaditar",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x66cce0997e32d388f4263a3ea305612cf1031e540c73f886e320337427c1bdab",
+          "displayName": "Mrfti",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3722a8b1E2674FbBA7081C84E39A5cE738B8159D.jpeg"
+        },
+        {
+          "id": "0xd28e879c019aacabe65c062601000f9925e2f9686c8a6485d92d753132ba723b",
+          "displayName": "Picodes",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x34Eb88EAD486A09CAcD8DaBe013682Dc5F1DC41D.png"
+        },
+        {
+          "id": "0xe8ad8841e7307dbac8a6c716bbade689858fd26200f8c91d52493c781aef0ee0",
+          "displayName": "Kristoph Galland",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb3397A6FeEdff2b9fCe9Ca1086CB1Bdd617c16Bf.jpeg"
+        },
+        {
+          "id": "0xd177accf024b0486e7e1760bc3f0d2a42b9651d2f207c3ce4101aefeff25a11c",
+          "displayName": "Xofee",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFF141bFc450c57Ad84eBaFbD09ffa94A268a7aaE.png"
+        },
+        {
+          "id": "0x245c250124a279a66d179665e7f4b5dee16ba65357bc7e0f1926626396484f07",
+          "displayName": "dudedodut",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD2F5DBC276BC3d9D2E07F5dF4A599E2c5a158B47.jpeg"
+        },
+        {
+          "id": "0x5ab273fbce7d49486b42feb2048a7746d7ccf19bde5507c55b17dc5ca00d3f15",
+          "displayName": "sorryvrerror",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6fF5723435b7dfC2371B57Fb5cB4c373E5995C78.png"
+        },
+        {
+          "id": "0x1b243949f14790252d540489c7b9e41c5c0460da72f4fcd106125abfaace055c",
+          "displayName": "IceBreak-R",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa908B6B5247d83Fc8f4856fAaCb9Cb5df30E7Cbd.png"
+        },
+        {
+          "id": "0xb3cc6e59b9e60b3f57ac6ef65ec7db407c28d7f19b2587358e79228eb00a7fb0",
+          "displayName": "Divergent",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5cB33476CF637f284744b0AD00eadC6388a7eCC5.png"
+        },
+        {
+          "id": "0xfe045e0d02b58c2903386276d53354410960fe7f028995eb5c84cb8a69dc19bc",
+          "displayName": "donnoh.eth",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x33D66941465ac776C38096cb1bc496C673aE7390.jpeg"
+        },
+        {
+          "id": "0x14301a25159fd1057d2e3ca076116e44e5e2dda5b49987190f07bac4c7ba5047",
+          "displayName": "Alex Harley",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4444d38c385d0969C64c4C8f996D7536d16c28B9.jpeg"
+        },
+        {
+          "id": "0x52f7491efe1ee24db5a3d2f6a988d7f575e4818666e7c1e86133d6975de2a255",
+          "displayName": "NFTEarth",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD131F1BcDd547e067Af447dD3C36C99d6be9FdEB.png"
+        },
+        {
+          "id": "0x32c22612166b2cf9a33335b6426914eb962d5afcefe48ed4983792cf6a168326",
+          "displayName": "Sweetman",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcfBf34d385EA2d5Eb947063b67eA226dcDA3DC38.png"
+        },
+        {
+          "id": "0x7e27e0d48b7ca1d4fcd44b55169dfa613393c6912ad379f48c511d1f69076f8d",
+          "displayName": "LATASH\u00c1",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3A2a72fF37afE42B2c2747366Be5eCDacb211d8a.jpeg"
+        },
+        {
+          "id": "0xaceac4d8244b5790ecf3592db3ec0810516d42b27180ed144d49d3aefc6d7f37",
+          "displayName": "Joe",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCC692D6E11268B40A1E3C58e3D86Fc4CAAb9b77a.png"
+        }
+      ]
+    },
+    {
+      "id": "0x0c0266f81d54e57821f401b2658f3c9585a2c645f099334cc4bdb51cff1c1f67",
+      "listName": "Governance Tokenomics and Analytics",
+      "impactEvaluationType": "PAIRWISE",
+      "categories": [
+        "PAIRWISE"
+      ],
+      "projectsMetadata": [
+        {
+          "id": "0xbedcd5e59e87c88e2d5b3f135cef429d5cdefd7e99e6fd8b40569ec5191dc1a1",
+          "displayName": "bh2smith",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8d99F8b2710e6A3B94d9bf465A98E5273069aCBd.jpeg"
+        },
+        {
+          "id": "0x319e92614fd4d193ae32199f9459862ba5def14978cf005b19343843ca2e0693",
+          "displayName": "Rollup Economics Dune Spell",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE7d1405C20A23a8e8f9F1BD572d1320c479233EE.png"
+        },
+        {
+          "id": "0x4583d4badbcbcb617f049f7751b5ab45a378f52ff5022ba689df741fe3339b59",
+          "displayName": "ATK",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x80f8eFb44b3bbC088B3360266c29DAcEFf1a8C3F.jpeg"
+        },
+        {
+          "id": "0x2fcf74bc4287ad3e63476246b2999ad0070cfcca8804fa66c7efd227070de33f",
+          "displayName": "Hedgey",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6cCe9bAE11B01E9fFF30DBe790f64B459A614B0F.png"
+        },
+        {
+          "id": "0x87424ebc9410810cf1dd21256369dc96b289302a008f6205aa051219c648766b",
+          "displayName": "AsymmetricDefi",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x7fc5dafacfa34c678f5e26cb5928406fc4f0466f6bef8ef0b267ecc942d13878",
+          "displayName": "MarcoV",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x283266045Ab2aB0793a62CADC21D55f685636Ae0.png"
+        },
+        {
+          "id": "0x80b576d7e0307515a72bfc390bebd2c3f7acd522a90575c0ce3387985c6eece5",
+          "displayName": "Private Retrieval Fund",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbd43CDeDaaF8CFCFeC0C6597edF748FE402F6F00.jpeg"
+        },
+        {
+          "id": "0xf9cbdc7fa9d0e03f65030f716d9a53a98bee7d06861d236484b88ce586988fb6",
+          "displayName": "Ivan Molto",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7904667C340601AaB73939372C016dC5102732A2.png"
+        },
+        {
+          "id": "0x3ce49d409338c85e38ad3cb7ea957d6cac3a3e84eae1a8109fc60cf4400ee214",
+          "displayName": "Xanny",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x31a9bc328d634BEa07E74732F668AbD42D75D624.png"
+        },
+        {
+          "id": "0x5fe5c833aa4b2929fef01554ea18979d48d95b5cf5af3d66936c8963b9586df0",
+          "displayName": "satorrr",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5c1D15dC3da43A18E60C2DdB87B3466097855530.png"
+        },
+        {
+          "id": "0x05a44c5b72c86f2f9b8e0939dc9633661177b7337daa6df1aee401b561bf1905",
+          "displayName": "raho & tnorm",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x842bB1bb84CC8A3D6277b0ff9729d22D55E9C50B.jpeg"
+        },
+        {
+          "id": "0x36653dde46bfe40b9aeb4ed20dfc4ccb0a40ba01ca4f0055e96870c9b28878f0",
+          "displayName": "banterlytics",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x18cCC241CcE98a67564E367eBc1F1f0e692E3188.png"
+        },
+        {
+          "id": "0xf79ce6e79fdb9112ac891b4e0c8f61c038fde1c1ced9d1b7e03c93c31e5f5b1f",
+          "displayName": "webOfTrust",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1de2A056508E0D0dd88A88f1f5cdf9cfa510795c.png"
+        }
+      ]
+    }
+  ],
   "id": "Project|0x87424ebc9410810cf1dd21256369dc96b289302a008f6205aa051219c648766b",
   "prelimResult": "Keep",
   "reportReason": "",

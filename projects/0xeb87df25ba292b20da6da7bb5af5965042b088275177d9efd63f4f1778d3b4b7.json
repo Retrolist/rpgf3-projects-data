@@ -47,7 +47,373 @@
       "description": ""
     }
   ],
-  "lists": [],
+  "lists": [
+    {
+      "id": "0x3cbc11400c4def228958018f3ff09b5306bd469dd26d39904de682a44ff1945c",
+      "listName": "Wallet and wallet tools",
+      "impactEvaluationType": "OTHER",
+      "categories": [],
+      "projectsMetadata": [
+        {
+          "id": "0x973dd17bfead72018dfe2cc33042db418c82f518229b3ca32a0798ef13d393f5",
+          "displayName": "Candide",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56a1740878966Bc82a1d9C047E46B02533857626.png"
+        },
+        {
+          "id": "0xeb87df25ba292b20da6da7bb5af5965042b088275177d9efd63f4f1778d3b4b7",
+          "displayName": "lvxh",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x41447f20a6679e0c01e470acb3392b51d88742a34ada25831ac607459266aee1",
+          "displayName": "addrs",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x14B214CA36249b516B59401B3b221CB87483b53C.png"
+        },
+        {
+          "id": "0x251336cd934467f35ab8bacf6be71dd8ad87457b6b7edd4a70df44cea59b0e68",
+          "displayName": "Webacy",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEc10Ac0784B5DE2Fad69332e5a90B46eebba70aF.jpeg"
+        },
+        {
+          "id": "0xd9185ba7e5adee4ac634b2ef3f516a872b6307272f058d526a61a7a622c9c0fd",
+          "displayName": "OptiNames | ENS on Optimism \ud83d\udd34",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7dc20f310De2fC1B8163F27551544c52eBDB0D30.png"
+        },
+        {
+          "id": "0x636f0588d00d8acbd55654d77b26a181ed68a05bd54aba8deec94344669be7d6",
+          "displayName": "Infinity Wallet",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671.png"
+        },
+        {
+          "id": "0x336e461d9f5ba45ab76f6decf4acbf6cb88c4572a51f34b49df5729292bcf283",
+          "displayName": "Beam Wallet LLC",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x982E148216E3Aa6B38f9D901eF578B5c06DD7502.png"
+        },
+        {
+          "id": "0x8569aa042caeb7c6548772467ec0f9572ebd3334865e07ab792de765c17534b2",
+          "displayName": "Frame",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7c929EfA9a8A2A1524BA90aBc2B70801413fFD4c.png"
+        },
+        {
+          "id": "0x402e6bcfb80053036a535ba25bdc2f1e5d7ddc07c29210e25001170f83a99757",
+          "displayName": "247gamebox",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe0A704F7c44E47069D2f457e4E8ac953075AF16B.png"
+        },
+        {
+          "id": "0x5cd7424c0af2cbd9795350832337c4ac0e29559cec9ba417d19aad02719fa6ee",
+          "displayName": "Aikilabs",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2e2316088c015F4BF27D86A1458A707af536A324.png"
+        },
+        {
+          "id": "0xd9583aeb5f21cb6b172d4638a0465452572567143ab30c49dadb5e6ac5bf91d5",
+          "displayName": "go-ethereum-hdwallet",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfb74103029aB113E00Df470c42CAfEd4c8aBe86E.png"
+        },
+        {
+          "id": "0xa97c448ca6377c5fa57fcfb2a4acf93b707164702f8cc3dc2b4ad8dfb5ecb9a8",
+          "displayName": "Verso",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE9335f48cFA1f0a55E376dd306BAE6dD2f6Cdb96.png"
+        },
+        {
+          "id": "0x663699125622325c65b1c0dd1722e08979ea0707b0735ab5a8de88093f684685",
+          "displayName": "6551 Studio",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6.png"
+        }
+      ]
+    },
+    {
+      "id": "0xcbd9b7d26951dd441b8ebe0a8e2c79359bbbfd2a3dc174bf8df7702d3eb846be",
+      "listName": "Wallet and wallet tools",
+      "impactEvaluationType": "OTHER",
+      "categories": [],
+      "projectsMetadata": [
+        {
+          "id": "0x973dd17bfead72018dfe2cc33042db418c82f518229b3ca32a0798ef13d393f5",
+          "displayName": "Candide",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56a1740878966Bc82a1d9C047E46B02533857626.png"
+        },
+        {
+          "id": "0x41447f20a6679e0c01e470acb3392b51d88742a34ada25831ac607459266aee1",
+          "displayName": "addrs",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x14B214CA36249b516B59401B3b221CB87483b53C.png"
+        },
+        {
+          "id": "0xeb87df25ba292b20da6da7bb5af5965042b088275177d9efd63f4f1778d3b4b7",
+          "displayName": "lvxh",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x663699125622325c65b1c0dd1722e08979ea0707b0735ab5a8de88093f684685",
+          "displayName": "6551 Studio",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6.png"
+        },
+        {
+          "id": "0x251336cd934467f35ab8bacf6be71dd8ad87457b6b7edd4a70df44cea59b0e68",
+          "displayName": "Webacy",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEc10Ac0784B5DE2Fad69332e5a90B46eebba70aF.jpeg"
+        },
+        {
+          "id": "0xd9185ba7e5adee4ac634b2ef3f516a872b6307272f058d526a61a7a622c9c0fd",
+          "displayName": "OptiNames | ENS on Optimism \ud83d\udd34",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7dc20f310De2fC1B8163F27551544c52eBDB0D30.png"
+        },
+        {
+          "id": "0x636f0588d00d8acbd55654d77b26a181ed68a05bd54aba8deec94344669be7d6",
+          "displayName": "Infinity Wallet",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671.png"
+        },
+        {
+          "id": "0x336e461d9f5ba45ab76f6decf4acbf6cb88c4572a51f34b49df5729292bcf283",
+          "displayName": "Beam Wallet LLC",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x982E148216E3Aa6B38f9D901eF578B5c06DD7502.png"
+        },
+        {
+          "id": "0x8569aa042caeb7c6548772467ec0f9572ebd3334865e07ab792de765c17534b2",
+          "displayName": "Frame",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7c929EfA9a8A2A1524BA90aBc2B70801413fFD4c.png"
+        },
+        {
+          "id": "0x402e6bcfb80053036a535ba25bdc2f1e5d7ddc07c29210e25001170f83a99757",
+          "displayName": "247gamebox",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe0A704F7c44E47069D2f457e4E8ac953075AF16B.png"
+        },
+        {
+          "id": "0x5cd7424c0af2cbd9795350832337c4ac0e29559cec9ba417d19aad02719fa6ee",
+          "displayName": "Aikilabs",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2e2316088c015F4BF27D86A1458A707af536A324.png"
+        },
+        {
+          "id": "0xd9583aeb5f21cb6b172d4638a0465452572567143ab30c49dadb5e6ac5bf91d5",
+          "displayName": "go-ethereum-hdwallet",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfb74103029aB113E00Df470c42CAfEd4c8aBe86E.png"
+        },
+        {
+          "id": "0xa97c448ca6377c5fa57fcfb2a4acf93b707164702f8cc3dc2b4ad8dfb5ecb9a8",
+          "displayName": "Verso",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE9335f48cFA1f0a55E376dd306BAE6dD2f6Cdb96.png"
+        }
+      ]
+    },
+    {
+      "id": "0xcb16badfd05d1c7a50943040a5ba4652bddaf49280d104f163e58bdd9be6bbcd",
+      "listName": "Wallet and wallet tools",
+      "impactEvaluationType": "OTHER",
+      "categories": [],
+      "projectsMetadata": [
+        {
+          "id": "0x973dd17bfead72018dfe2cc33042db418c82f518229b3ca32a0798ef13d393f5",
+          "displayName": "Candide",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56a1740878966Bc82a1d9C047E46B02533857626.png"
+        },
+        {
+          "id": "0x41447f20a6679e0c01e470acb3392b51d88742a34ada25831ac607459266aee1",
+          "displayName": "addrs",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x14B214CA36249b516B59401B3b221CB87483b53C.png"
+        },
+        {
+          "id": "0x8569aa042caeb7c6548772467ec0f9572ebd3334865e07ab792de765c17534b2",
+          "displayName": "Frame",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7c929EfA9a8A2A1524BA90aBc2B70801413fFD4c.png"
+        },
+        {
+          "id": "0x5cd7424c0af2cbd9795350832337c4ac0e29559cec9ba417d19aad02719fa6ee",
+          "displayName": "Aikilabs",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2e2316088c015F4BF27D86A1458A707af536A324.png"
+        },
+        {
+          "id": "0xeb87df25ba292b20da6da7bb5af5965042b088275177d9efd63f4f1778d3b4b7",
+          "displayName": "lvxh",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0xd9185ba7e5adee4ac634b2ef3f516a872b6307272f058d526a61a7a622c9c0fd",
+          "displayName": "OptiNames | ENS on Optimism \ud83d\udd34",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7dc20f310De2fC1B8163F27551544c52eBDB0D30.png"
+        },
+        {
+          "id": "0x663699125622325c65b1c0dd1722e08979ea0707b0735ab5a8de88093f684685",
+          "displayName": "6551 Studio",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6.png"
+        },
+        {
+          "id": "0x636f0588d00d8acbd55654d77b26a181ed68a05bd54aba8deec94344669be7d6",
+          "displayName": "Infinity Wallet",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671.png"
+        },
+        {
+          "id": "0xd9583aeb5f21cb6b172d4638a0465452572567143ab30c49dadb5e6ac5bf91d5",
+          "displayName": "go-ethereum-hdwallet",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfb74103029aB113E00Df470c42CAfEd4c8aBe86E.png"
+        },
+        {
+          "id": "0x251336cd934467f35ab8bacf6be71dd8ad87457b6b7edd4a70df44cea59b0e68",
+          "displayName": "Webacy",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEc10Ac0784B5DE2Fad69332e5a90B46eebba70aF.jpeg"
+        },
+        {
+          "id": "0xa97c448ca6377c5fa57fcfb2a4acf93b707164702f8cc3dc2b4ad8dfb5ecb9a8",
+          "displayName": "Verso",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE9335f48cFA1f0a55E376dd306BAE6dD2f6Cdb96.png"
+        },
+        {
+          "id": "0x336e461d9f5ba45ab76f6decf4acbf6cb88c4572a51f34b49df5729292bcf283",
+          "displayName": "Beam Wallet LLC",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x982E148216E3Aa6B38f9D901eF578B5c06DD7502.png"
+        },
+        {
+          "id": "0x402e6bcfb80053036a535ba25bdc2f1e5d7ddc07c29210e25001170f83a99757",
+          "displayName": "247gamebox",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe0A704F7c44E47069D2f457e4E8ac953075AF16B.png"
+        }
+      ]
+    },
+    {
+      "id": "0x03ed9eef043df718f407d563e6c407ca5b680e8327ab09702fde1647bb2e99d7",
+      "listName": "Wallet and wallet tools",
+      "impactEvaluationType": "OTHER",
+      "categories": [],
+      "projectsMetadata": [
+        {
+          "id": "0x973dd17bfead72018dfe2cc33042db418c82f518229b3ca32a0798ef13d393f5",
+          "displayName": "Candide",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56a1740878966Bc82a1d9C047E46B02533857626.png"
+        },
+        {
+          "id": "0x41447f20a6679e0c01e470acb3392b51d88742a34ada25831ac607459266aee1",
+          "displayName": "addrs",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x14B214CA36249b516B59401B3b221CB87483b53C.png"
+        },
+        {
+          "id": "0xd9185ba7e5adee4ac634b2ef3f516a872b6307272f058d526a61a7a622c9c0fd",
+          "displayName": "OptiNames | ENS on Optimism \ud83d\udd34",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7dc20f310De2fC1B8163F27551544c52eBDB0D30.png"
+        },
+        {
+          "id": "0x663699125622325c65b1c0dd1722e08979ea0707b0735ab5a8de88093f684685",
+          "displayName": "6551 Studio",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6.png"
+        },
+        {
+          "id": "0x336e461d9f5ba45ab76f6decf4acbf6cb88c4572a51f34b49df5729292bcf283",
+          "displayName": "Beam Wallet LLC",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x982E148216E3Aa6B38f9D901eF578B5c06DD7502.png"
+        },
+        {
+          "id": "0xeb87df25ba292b20da6da7bb5af5965042b088275177d9efd63f4f1778d3b4b7",
+          "displayName": "lvxh",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x402e6bcfb80053036a535ba25bdc2f1e5d7ddc07c29210e25001170f83a99757",
+          "displayName": "247gamebox",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe0A704F7c44E47069D2f457e4E8ac953075AF16B.png"
+        },
+        {
+          "id": "0xa97c448ca6377c5fa57fcfb2a4acf93b707164702f8cc3dc2b4ad8dfb5ecb9a8",
+          "displayName": "Verso",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE9335f48cFA1f0a55E376dd306BAE6dD2f6Cdb96.png"
+        },
+        {
+          "id": "0x251336cd934467f35ab8bacf6be71dd8ad87457b6b7edd4a70df44cea59b0e68",
+          "displayName": "Webacy",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEc10Ac0784B5DE2Fad69332e5a90B46eebba70aF.jpeg"
+        },
+        {
+          "id": "0xd9583aeb5f21cb6b172d4638a0465452572567143ab30c49dadb5e6ac5bf91d5",
+          "displayName": "go-ethereum-hdwallet",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfb74103029aB113E00Df470c42CAfEd4c8aBe86E.png"
+        },
+        {
+          "id": "0x5cd7424c0af2cbd9795350832337c4ac0e29559cec9ba417d19aad02719fa6ee",
+          "displayName": "Aikilabs",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2e2316088c015F4BF27D86A1458A707af536A324.png"
+        },
+        {
+          "id": "0x8569aa042caeb7c6548772467ec0f9572ebd3334865e07ab792de765c17534b2",
+          "displayName": "Frame",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7c929EfA9a8A2A1524BA90aBc2B70801413fFD4c.png"
+        },
+        {
+          "id": "0x636f0588d00d8acbd55654d77b26a181ed68a05bd54aba8deec94344669be7d6",
+          "displayName": "Infinity Wallet",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671.png"
+        }
+      ]
+    },
+    {
+      "id": "0x4b248b976a6bc4dade0a9693753400d6a9626bace1933f75b2019f891d09fe72",
+      "listName": "Wallet and wallet tools",
+      "impactEvaluationType": "OTHER",
+      "categories": [],
+      "projectsMetadata": [
+        {
+          "id": "0x973dd17bfead72018dfe2cc33042db418c82f518229b3ca32a0798ef13d393f5",
+          "displayName": "Candide",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x56a1740878966Bc82a1d9C047E46B02533857626.png"
+        },
+        {
+          "id": "0x41447f20a6679e0c01e470acb3392b51d88742a34ada25831ac607459266aee1",
+          "displayName": "addrs",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x14B214CA36249b516B59401B3b221CB87483b53C.png"
+        },
+        {
+          "id": "0xd9185ba7e5adee4ac634b2ef3f516a872b6307272f058d526a61a7a622c9c0fd",
+          "displayName": "OptiNames | ENS on Optimism \ud83d\udd34",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7dc20f310De2fC1B8163F27551544c52eBDB0D30.png"
+        },
+        {
+          "id": "0x663699125622325c65b1c0dd1722e08979ea0707b0735ab5a8de88093f684685",
+          "displayName": "6551 Studio",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6.png"
+        },
+        {
+          "id": "0x336e461d9f5ba45ab76f6decf4acbf6cb88c4572a51f34b49df5729292bcf283",
+          "displayName": "Beam Wallet LLC",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x982E148216E3Aa6B38f9D901eF578B5c06DD7502.png"
+        },
+        {
+          "id": "0xeb87df25ba292b20da6da7bb5af5965042b088275177d9efd63f4f1778d3b4b7",
+          "displayName": "lvxh",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0x402e6bcfb80053036a535ba25bdc2f1e5d7ddc07c29210e25001170f83a99757",
+          "displayName": "247gamebox",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe0A704F7c44E47069D2f457e4E8ac953075AF16B.png"
+        },
+        {
+          "id": "0xa97c448ca6377c5fa57fcfb2a4acf93b707164702f8cc3dc2b4ad8dfb5ecb9a8",
+          "displayName": "Verso",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE9335f48cFA1f0a55E376dd306BAE6dD2f6Cdb96.png"
+        },
+        {
+          "id": "0x251336cd934467f35ab8bacf6be71dd8ad87457b6b7edd4a70df44cea59b0e68",
+          "displayName": "Webacy",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEc10Ac0784B5DE2Fad69332e5a90B46eebba70aF.jpeg"
+        },
+        {
+          "id": "0xd9583aeb5f21cb6b172d4638a0465452572567143ab30c49dadb5e6ac5bf91d5",
+          "displayName": "go-ethereum-hdwallet",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfb74103029aB113E00Df470c42CAfEd4c8aBe86E.png"
+        },
+        {
+          "id": "0x5cd7424c0af2cbd9795350832337c4ac0e29559cec9ba417d19aad02719fa6ee",
+          "displayName": "Aikilabs",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2e2316088c015F4BF27D86A1458A707af536A324.png"
+        },
+        {
+          "id": "0x8569aa042caeb7c6548772467ec0f9572ebd3334865e07ab792de765c17534b2",
+          "displayName": "Frame",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7c929EfA9a8A2A1524BA90aBc2B70801413fFD4c.png"
+        },
+        {
+          "id": "0x636f0588d00d8acbd55654d77b26a181ed68a05bd54aba8deec94344669be7d6",
+          "displayName": "Infinity Wallet",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb7D6937F3aa9E09817C045b7d5b5Fb5064370671.png"
+        }
+      ]
+    }
+  ],
   "id": "Project|0xeb87df25ba292b20da6da7bb5af5965042b088275177d9efd63f4f1778d3b4b7",
   "prelimResult": "Remove",
   "reportReason": "Spam"

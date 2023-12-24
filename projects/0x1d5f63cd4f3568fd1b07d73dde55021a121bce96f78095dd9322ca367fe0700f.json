@@ -91,7 +91,61 @@
       "description": "15005 mint LayerZero https://nomis.cc/layerzero 0.005 ETH"
     }
   ],
-  "lists": [],
+  "lists": [
+    {
+      "id": "0x39ede508e35adf3f42aa95a48d92c85f8c394a42c3afc0f48a08e5cf6a67b6f1",
+      "listName": "Good projects",
+      "impactEvaluationType": "OTHER",
+      "categories": [],
+      "projectsMetadata": [
+        {
+          "id": "0x1d5f63cd4f3568fd1b07d73dde55021a121bce96f78095dd9322ca367fe0700f",
+          "displayName": "Nomis.cc",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA1b0B899F843eC4caEe771eD7c15FAc333f28D7C.png"
+        },
+        {
+          "id": "0xc6e48d375dcab4f18c48d6e24d3fc074ab38bf754381c0f830dbccff1e0f8dbb",
+          "displayName": "Nimbus",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4413E96F6b46e59326a7695eF871FA902Ff7935d.png"
+        },
+        {
+          "id": "0x95bba9455fa1028d59c069660656b3fe0b46d7b2e1883b091c5b04b810bc7525",
+          "displayName": "Gitcoin",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc2E2B715d9e302947Ec7e312fd2384b5a1296099.png"
+        },
+        {
+          "id": "0xdc5c6d5def0ce6658b13860804a452df0f08e5045896ee7e65d4dae96aac1ca2",
+          "displayName": "eesee.io",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4F4a595bdc00ACF85eFb90b1f2171d475F1a63B7.png"
+        },
+        {
+          "id": "0xd6da51fe10242debbb67dd488f20c69c00d2bcbae43cb22ccfb90f0e255ad580",
+          "displayName": "rhino.fi",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC451b0191351ce308FdFd779D73814c910FC5eCB.png"
+        },
+        {
+          "id": "0xa1b12a1d4c48cbadb8b289144ef65fa5570ccd6e62e076c91f8009f5175fa0ba",
+          "displayName": "Layer3",
+          "profileImageUrl": null
+        },
+        {
+          "id": "0xd75a5bad6fcce7c0b50b8e9a0470a7b29a7ebbcdc0adc455d0ca6ef40b7a7e92",
+          "displayName": "OpenOcean",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x31C31ea5D121A0aFD850AC6B553185333f8A160c.png"
+        },
+        {
+          "id": "0xb44c91175a2df6dae1d59c1cecf9601abe0e8512a68ad14a2b723257d488e0f4",
+          "displayName": "DefiLlama",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5A9D07ED3d7318eD5cB932776D2CEeb177a68bCd.png"
+        },
+        {
+          "id": "0x05a2c76e49fe1c91e48bcd72f951e804f45403abcfa2d1e7cce20361c464ed68",
+          "displayName": "BasePaint",
+          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb48E8dA63c2aFc5633702B7acf4BDe830c1dE48b.png"
+        }
+      ]
+    }
+  ],
   "id": "Project|0x1d5f63cd4f3568fd1b07d73dde55021a121bce96f78095dd9322ca367fe0700f",
   "prelimResult": "Remove",
   "reportReason": "not sure if they're on Optimism"
