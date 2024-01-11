@@ -1,273 +1,275 @@
 {
-  "bio": "Founder & Host @ Web3Talks.xyz | Web3 Educator | Contributor #1 @ Goldmine3.xyz",
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM"
-  ],
-  "displayName": "Mac Budkowski",
-  "websiteUrl": "https://macbudkowski.com/",
-  "applicant": {
-    "address": {
-      "address": "0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760",
-      "resolvedName": {
-        "address": "0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760",
-        "name": "macbudkowski.eth"
-      }
+    "bio": "Founder & Host @ Web3Talks.xyz | Web3 Educator | Contributor #1 @ Goldmine3.xyz",
+    "impactCategory": [
+        "DEVELOPER_ECOSYSTEM"
+    ],
+    "displayName": "Mac Budkowski",
+    "websiteUrl": "https://macbudkowski.com/",
+    "applicant": {
+        "address": {
+            "address": "0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760",
+            "resolvedName": {
+                "address": "0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760",
+                "name": "macbudkowski.eth"
+            }
+        },
+        "id": "Delegate|Delegate|0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760"
     },
-    "id": "Delegate|Delegate|0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760"
-  },
-  "applicantType": "INDIVIDUAL",
-  "profile": {
-    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760.png",
-    "bannerImageUrl": null,
-    "id": "OptimistProfile|0xdad312eff8362a9a23346d56b07ab32528d166a2fbaa20f7964bc983f3d54a92"
-  },
-  "impactDescription": "I noted that most of the content focused on app developers was technical. There were many technical intros, guides & documentation, but I felt that this \u201cHow to build a web3 startup\u201d piece was missing.\n\nWhen I started (Nov 2021), if you\u2019d like to learn this knowledge, you\u2019d have to know a web3 founder personally or join acceleration programs where they\u2019ve been mentors.\n\nBut if we want more crypto apps, we need to make this product-building know-how accessible to everyone, regardless of their skill level, wealth & network. So I open-sourced it.\n\nSince the podcast is focused on niche, tactical know-how, it only had a bit more than 1,500 subscribers. My guide also had a bit more than 1,000 readers. But most of these people were crypto devs & founders, and some of them shared their praise.",
-  "contributionDescription": "Almost all my web3 projects were focused on helping crypto founders & devs. Primarily by finding know-how that's hard to get and sharing it for free.\n\n1. Web3 Talks: a podcast where top crypto founders take us on a backstage tour and explain how they built their projects. It has 48 episodes so far, incl. interviews with founders of ZORA, WalletConnect, Farcaster, Zapper, Gnosis & many more.\n\n2. Goldmine3: Listeners asked me for a way to browse through stories & tactics shared on the podcast, so I built a searchable repo of real web3 case studies.\n\n3. Product communications guide: As I've spoken with 100+ crypto founders, I found they find it hard to explain what their products do. So I wrote a guide with 40 examples of good & bad practices.\n\n4. GoerliETH: I distributed ca. 30,000 GoerliETH",
-  "contributionLinks": [
-    {
-      "type": "OTHER",
-      "url": "https://web3talks.xyz/",
-      "description": "Podcast's website (incl. links to podcasting networks)"
+    "applicantType": "INDIVIDUAL",
+    "profile": {
+        "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760.png",
+        "bannerImageUrl": null,
+        "id": "OptimistProfile|0xdad312eff8362a9a23346d56b07ab32528d166a2fbaa20f7964bc983f3d54a92"
     },
-    {
-      "type": "OTHER",
-      "url": "https://tips.goldmine3.xyz/",
-      "description": "Repository of growth/product/tech case studies from top web3 founders"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://macbudkowski.com/how-to-explain-web3-products/",
-      "description": "Web3 product communications guide \"How to explain what your web3 product does\""
-    },
-    {
-      "type": "OTHER",
-      "url": "https://goerlinator.xyz/",
-      "description": "Faucet I co-created during ETH Denver that shared 20,000 GoerliETH"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://goerli.etherscan.io/address/0xa740Dd991655b2887321C71D8Ac0c171a0C9E969#internaltx",
-      "description": "Goerlinator's contract"
-    },
-    {
-      "type": "CONTRACT_ADDRESS",
-      "url": "https://goerli.etherscan.io/address/0xCac63cf7693B2AB394b97F3eb7A2568Ac10913e0#internaltx",
-      "description": "Me personally sharing the remaining 10,000 GoerliETH with ETH hackathons"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://kanfa.macbudkowski.com/",
-      "description": "My essays on blockchain & crypto"
-    }
-  ],
-  "impactMetrics": [
-    {
-      "description": "GoerliETH shared (2 addresses)",
-      "number": "30000",
-      "url": "https://goerli.etherscan.io/address/0xa740Dd991655b2887321C71D8Ac0c171a0C9E969#internaltx https://goerli.etherscan.io/address/0xCac63cf7693B2AB394b97F3eb7A2568Ac10913e0#internaltx"
-    },
-    {
-      "description": "Podcast listens",
-      "number": "25025",
-      "url": "https://docs.google.com/spreadsheets/d/1cP2QOXWMxIMsj-QW9wNbEwKFlJgVR_UUaxZcFj3LQzI/edit#gid=824483133"
-    },
-    {
-      "description": "Podcast subscribers",
-      "number": "1593",
-      "url": "https://docs.google.com/spreadsheets/d/1cP2QOXWMxIMsj-QW9wNbEwKFlJgVR_UUaxZcFj3LQzI/edit#gid=0"
-    },
-    {
-      "description": "Podcast Reviews",
-      "number": "4.9",
-      "url": "https://docs.google.com/spreadsheets/d/1cP2QOXWMxIMsj-QW9wNbEwKFlJgVR_UUaxZcFj3LQzI/edit#gid=2093110524"
-    },
-    {
-      "description": "Goldmine3 Upvotes on Launchcaster",
-      "number": "187",
-      "url": "https://docs.google.com/spreadsheets/d/1cP2QOXWMxIMsj-QW9wNbEwKFlJgVR_UUaxZcFj3LQzI/edit#gid=545481838"
-    },
-    {
-      "description": "Users reading the Product Guide",
-      "number": "1115",
-      "url": "https://docs.google.com/spreadsheets/d/1cP2QOXWMxIMsj-QW9wNbEwKFlJgVR_UUaxZcFj3LQzI/edit#gid=976098810"
-    },
-    {
-      "description": "Devs & founders opinions",
-      "number": "8",
-      "url": "https://docs.google.com/spreadsheets/d/1cP2QOXWMxIMsj-QW9wNbEwKFlJgVR_UUaxZcFj3LQzI/edit#gid=816059870"
-    },
-    {
-      "description": "My essay endorsed by Story Protocol team",
-      "number": "1",
-      "url": "https://x.com/edisonz0718/status/1700271681808515328?s=20"
-    }
-  ],
-  "fundingSources": [
-    {
-      "type": "OTHER",
-      "currency": "USD",
-      "amount": 630,
-      "description": "Gitcoin"
-    },
-    {
-      "type": "REVENUE",
-      "currency": "USD",
-      "amount": 1000,
-      "description": "Sponsoring I got for a podcast from a builders-centric crypto conference"
-    },
-    {
-      "type": "OTHER",
-      "currency": "USD",
-      "amount": 144,
-      "description": "I sold 9 NFTs for 0.01 ETH to generate some money for Goldmine3 contributors"
-    }
-  ],
-  "lists": [
-    {
-      "id": "0xcab02106739fa2cb8a17adb4be3141dfcddbf68f751700b09c9e2177be21b727",
-      "listName": "Blockchain Education",
-      "impactEvaluationType": "PAIRWISE",
-      "categories": [
-        "PAIRWISE"
-      ],
-      "projectsMetadata": [
+    "impactDescription": "I noted that most of the content focused on app developers was technical. There were many technical intros, guides & documentation, but I felt that this \u201cHow to build a web3 startup\u201d piece was missing.\n\nWhen I started (Nov 2021), if you\u2019d like to learn this knowledge, you\u2019d have to know a web3 founder personally or join acceleration programs where they\u2019ve been mentors.\n\nBut if we want more crypto apps, we need to make this product-building know-how accessible to everyone, regardless of their skill level, wealth & network. So I open-sourced it.\n\nSince the podcast is focused on niche, tactical know-how, it only had a bit more than 1,500 subscribers. My guide also had a bit more than 1,000 readers. But most of these people were crypto devs & founders, and some of them shared their praise.",
+    "contributionDescription": "Almost all my web3 projects were focused on helping crypto founders & devs. Primarily by finding know-how that's hard to get and sharing it for free.\n\n1. Web3 Talks: a podcast where top crypto founders take us on a backstage tour and explain how they built their projects. It has 48 episodes so far, incl. interviews with founders of ZORA, WalletConnect, Farcaster, Zapper, Gnosis & many more.\n\n2. Goldmine3: Listeners asked me for a way to browse through stories & tactics shared on the podcast, so I built a searchable repo of real web3 case studies.\n\n3. Product communications guide: As I've spoken with 100+ crypto founders, I found they find it hard to explain what their products do. So I wrote a guide with 40 examples of good & bad practices.\n\n4. GoerliETH: I distributed ca. 30,000 GoerliETH",
+    "contributionLinks": [
         {
-          "id": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
-          "displayName": "Taz",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png"
+            "type": "OTHER",
+            "url": "https://web3talks.xyz/",
+            "description": "Podcast's website (incl. links to podcasting networks)"
         },
         {
-          "id": "0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
-          "displayName": "Admiano",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png"
+            "type": "OTHER",
+            "url": "https://tips.goldmine3.xyz/",
+            "description": "Repository of growth/product/tech case studies from top web3 founders"
         },
         {
-          "id": "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
-          "displayName": "Rainie",
-          "profileImageUrl": null
+            "type": "OTHER",
+            "url": "https://macbudkowski.com/how-to-explain-web3-products/",
+            "description": "Web3 product communications guide \"How to explain what your web3 product does\""
         },
         {
-          "id": "0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
-          "displayName": "ZEFIRIUM",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png"
+            "type": "OTHER",
+            "url": "https://goerlinator.xyz/",
+            "description": "Faucet I co-created during ETH Denver that shared 20,000 GoerliETH"
         },
         {
-          "id": "0x79c3f88b4adb9b32ba1ba2c460097f7f2b43bc1a591e4a6a555f052087724197",
-          "displayName": "Perelyn",
-          "profileImageUrl": null
+            "type": "OTHER",
+            "url": "https://goerli.etherscan.io/address/0xa740Dd991655b2887321C71D8Ac0c171a0C9E969#internaltx",
+            "description": "Goerlinator's contract"
         },
         {
-          "id": "0x8cca21279a5147cbd7a3f1f788a23e55afac2226dc2573e9de72e6586e8f269e",
-          "displayName": "Mac Budkowski",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760.png"
+            "type": "CONTRACT_ADDRESS",
+            "url": "https://goerli.etherscan.io/address/0xCac63cf7693B2AB394b97F3eb7A2568Ac10913e0#internaltx",
+            "description": "Me personally sharing the remaining 10,000 GoerliETH with ETH hackathons"
         },
         {
-          "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
-          "displayName": "zerokn0wledge",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
-        },
-        {
-          "id": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
-          "displayName": "Sassal.eth",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg"
-        },
-        {
-          "id": "0xcd842be029689ac8c0cb4a6749a1a52875473bc74690e336c076f9f918ec8e5a",
-          "displayName": "ilyessghz",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x877274b9531669039d60b16f0bb436f30720126fd2c1d4a76d20558a5130a4c4",
-          "displayName": "DeFI Saint",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf52a30397151C77E732fA5DeFB9347359C52A141.jpeg"
-        },
-        {
-          "id": "0x708fb4bb4efcfdf20a0ef673daf2df7944f0f2f91f0b607069a2ff822e2cd871",
-          "displayName": "Faina",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90.jpeg"
-        },
-        {
-          "id": "0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
-          "displayName": "criptomommy",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4.png"
-        },
-        {
-          "id": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
-          "displayName": "PatrickAlphaC",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png"
-        },
-        {
-          "id": "0xba2e0392ddef461fea23821d7098b917bab9532d2d2cb297d0449d3a446c9bf7",
-          "displayName": "jordanmmck",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29FF795B015652EdFB9883bB83B3E9bE3c207e62.jpeg"
+            "type": "OTHER",
+            "url": "https://kanfa.macbudkowski.com/",
+            "description": "My essays on blockchain & crypto"
         }
-      ]
-    },
-    {
-      "id": "0xf803ace7c5af5a36f3139e915f875e183986e2737b271ea457ed00fd1b7871e8",
-      "listName": "Blockchain Education",
-      "impactEvaluationType": "PAIRWISE",
-      "categories": [
-        "PAIRWISE"
-      ],
-      "projectsMetadata": [
+    ],
+    "impactMetrics": [
         {
-          "id": "0x15e84020afaeea9626e882207ad748006bbd2fbdc45b313af4cf2414ae657c90",
-          "displayName": "Gadgeteer (nanobro)",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375.jpeg"
+            "description": "GoerliETH shared (2 addresses)",
+            "number": "30000",
+            "url": "https://goerli.etherscan.io/address/0xa740Dd991655b2887321C71D8Ac0c171a0C9E969#internaltx https://goerli.etherscan.io/address/0xCac63cf7693B2AB394b97F3eb7A2568Ac10913e0#internaltx"
         },
         {
-          "id": "0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
-          "displayName": "Admiano",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png"
+            "description": "Podcast listens",
+            "number": "25025",
+            "url": "https://docs.google.com/spreadsheets/d/1cP2QOXWMxIMsj-QW9wNbEwKFlJgVR_UUaxZcFj3LQzI/edit#gid=824483133"
         },
         {
-          "id": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
-          "displayName": "Sassal.eth",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg"
+            "description": "Podcast subscribers",
+            "number": "1593",
+            "url": "https://docs.google.com/spreadsheets/d/1cP2QOXWMxIMsj-QW9wNbEwKFlJgVR_UUaxZcFj3LQzI/edit#gid=0"
         },
         {
-          "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
-          "displayName": "zerokn0wledge",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
+            "description": "Podcast Reviews",
+            "number": "4.9",
+            "url": "https://docs.google.com/spreadsheets/d/1cP2QOXWMxIMsj-QW9wNbEwKFlJgVR_UUaxZcFj3LQzI/edit#gid=2093110524"
         },
         {
-          "id": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
-          "displayName": "Taz",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png"
+            "description": "Goldmine3 Upvotes on Launchcaster",
+            "number": "187",
+            "url": "https://docs.google.com/spreadsheets/d/1cP2QOXWMxIMsj-QW9wNbEwKFlJgVR_UUaxZcFj3LQzI/edit#gid=545481838"
         },
         {
-          "id": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
-          "displayName": "PatrickAlphaC",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png"
+            "description": "Users reading the Product Guide",
+            "number": "1115",
+            "url": "https://docs.google.com/spreadsheets/d/1cP2QOXWMxIMsj-QW9wNbEwKFlJgVR_UUaxZcFj3LQzI/edit#gid=976098810"
         },
         {
-          "id": "0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
-          "displayName": "criptomommy",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4.png"
+            "description": "Devs & founders opinions",
+            "number": "8",
+            "url": "https://docs.google.com/spreadsheets/d/1cP2QOXWMxIMsj-QW9wNbEwKFlJgVR_UUaxZcFj3LQzI/edit#gid=816059870"
         },
         {
-          "id": "0x8cca21279a5147cbd7a3f1f788a23e55afac2226dc2573e9de72e6586e8f269e",
-          "displayName": "Mac Budkowski",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760.png"
-        },
-        {
-          "id": "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
-          "displayName": "Rainie",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
-          "displayName": "ZEFIRIUM",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png"
+            "description": "My essay endorsed by Story Protocol team",
+            "number": "1",
+            "url": "https://x.com/edisonz0718/status/1700271681808515328?s=20"
         }
-      ]
-    }
-  ],
-  "id": "Project|0x8cca21279a5147cbd7a3f1f788a23e55afac2226dc2573e9de72e6586e8f269e",
-  "prelimResult": "Keep",
-  "reportReason": "",
-  "includedInBallots": 14,
-  "primaryCategory": "End User Experience & Adoption",
-  "recategorization": "Evangelism & User Onboarding"
+    ],
+    "fundingSources": [
+        {
+            "type": "OTHER",
+            "currency": "USD",
+            "amount": 630,
+            "description": "Gitcoin"
+        },
+        {
+            "type": "REVENUE",
+            "currency": "USD",
+            "amount": 1000,
+            "description": "Sponsoring I got for a podcast from a builders-centric crypto conference"
+        },
+        {
+            "type": "OTHER",
+            "currency": "USD",
+            "amount": 144,
+            "description": "I sold 9 NFTs for 0.01 ETH to generate some money for Goldmine3 contributors"
+        }
+    ],
+    "lists": [
+        {
+            "id": "0xcab02106739fa2cb8a17adb4be3141dfcddbf68f751700b09c9e2177be21b727",
+            "listName": "Blockchain Education",
+            "impactEvaluationType": "PAIRWISE",
+            "categories": [
+                "PAIRWISE"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
+                    "displayName": "Taz",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png"
+                },
+                {
+                    "id": "0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
+                    "displayName": "Admiano",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png"
+                },
+                {
+                    "id": "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
+                    "displayName": "Rainie",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
+                    "displayName": "ZEFIRIUM",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png"
+                },
+                {
+                    "id": "0x79c3f88b4adb9b32ba1ba2c460097f7f2b43bc1a591e4a6a555f052087724197",
+                    "displayName": "Perelyn",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x8cca21279a5147cbd7a3f1f788a23e55afac2226dc2573e9de72e6586e8f269e",
+                    "displayName": "Mac Budkowski",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760.png"
+                },
+                {
+                    "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
+                    "displayName": "zerokn0wledge",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
+                },
+                {
+                    "id": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
+                    "displayName": "Sassal.eth",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg"
+                },
+                {
+                    "id": "0xcd842be029689ac8c0cb4a6749a1a52875473bc74690e336c076f9f918ec8e5a",
+                    "displayName": "ilyessghz",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x877274b9531669039d60b16f0bb436f30720126fd2c1d4a76d20558a5130a4c4",
+                    "displayName": "DeFI Saint",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf52a30397151C77E732fA5DeFB9347359C52A141.jpeg"
+                },
+                {
+                    "id": "0x708fb4bb4efcfdf20a0ef673daf2df7944f0f2f91f0b607069a2ff822e2cd871",
+                    "displayName": "Faina",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90.jpeg"
+                },
+                {
+                    "id": "0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
+                    "displayName": "criptomommy",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4.png"
+                },
+                {
+                    "id": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
+                    "displayName": "PatrickAlphaC",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png"
+                },
+                {
+                    "id": "0xba2e0392ddef461fea23821d7098b917bab9532d2d2cb297d0449d3a446c9bf7",
+                    "displayName": "jordanmmck",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29FF795B015652EdFB9883bB83B3E9bE3c207e62.jpeg"
+                }
+            ]
+        },
+        {
+            "id": "0xf803ace7c5af5a36f3139e915f875e183986e2737b271ea457ed00fd1b7871e8",
+            "listName": "Blockchain Education",
+            "impactEvaluationType": "PAIRWISE",
+            "categories": [
+                "PAIRWISE"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0x15e84020afaeea9626e882207ad748006bbd2fbdc45b313af4cf2414ae657c90",
+                    "displayName": "Gadgeteer (nanobro)",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375.jpeg"
+                },
+                {
+                    "id": "0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
+                    "displayName": "Admiano",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png"
+                },
+                {
+                    "id": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
+                    "displayName": "Sassal.eth",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg"
+                },
+                {
+                    "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
+                    "displayName": "zerokn0wledge",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
+                },
+                {
+                    "id": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
+                    "displayName": "Taz",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png"
+                },
+                {
+                    "id": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
+                    "displayName": "PatrickAlphaC",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png"
+                },
+                {
+                    "id": "0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
+                    "displayName": "criptomommy",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4.png"
+                },
+                {
+                    "id": "0x8cca21279a5147cbd7a3f1f788a23e55afac2226dc2573e9de72e6586e8f269e",
+                    "displayName": "Mac Budkowski",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760.png"
+                },
+                {
+                    "id": "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
+                    "displayName": "Rainie",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
+                    "displayName": "ZEFIRIUM",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png"
+                }
+            ]
+        }
+    ],
+    "id": "Project|0x8cca21279a5147cbd7a3f1f788a23e55afac2226dc2573e9de72e6586e8f269e",
+    "prelimResult": "Keep",
+    "reportReason": "",
+    "includedInBallots": 14,
+    "primaryCategory": "End User Experience & Adoption",
+    "recategorization": "Evangelism & User Onboarding",
+    "totalOP": 0.0,
+    "rank": 596
 }

@@ -1,176 +1,178 @@
 {
-  "bio": "I run of the biggest and most watched crypto YouTube channels.",
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION",
-    "OP_STACK"
-  ],
-  "displayName": "Ivan on Tech",
-  "websiteUrl": "https://www.youtube.com/channel/UCrYmtJBtLdtm2ov84ulV-yg",
-  "applicant": {
-    "address": {
-      "address": "0x62B111073bE30e7CE242F238A95EB05255542b6E",
-      "resolvedName": {
-        "address": "0x62B111073bE30e7CE242F238A95EB05255542b6E",
-        "name": null
-      }
+    "bio": "I run of the biggest and most watched crypto YouTube channels.",
+    "impactCategory": [
+        "DEVELOPER_ECOSYSTEM",
+        "END_USER_EXPERIENCE_AND_ADOPTION",
+        "OP_STACK"
+    ],
+    "displayName": "Ivan on Tech",
+    "websiteUrl": "https://www.youtube.com/channel/UCrYmtJBtLdtm2ov84ulV-yg",
+    "applicant": {
+        "address": {
+            "address": "0x62B111073bE30e7CE242F238A95EB05255542b6E",
+            "resolvedName": {
+                "address": "0x62B111073bE30e7CE242F238A95EB05255542b6E",
+                "name": null
+            }
+        },
+        "id": "Delegate|Delegate|0x62B111073bE30e7CE242F238A95EB05255542b6E"
     },
-    "id": "Delegate|Delegate|0x62B111073bE30e7CE242F238A95EB05255542b6E"
-  },
-  "applicantType": "INDIVIDUAL",
-  "profile": {
-    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x62B111073bE30e7CE242F238A95EB05255542b6E.png",
-    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x62B111073bE30e7CE242F238A95EB05255542b6E.png",
-    "id": "OptimistProfile|0x9ad5c4fbe25e7abfbfc41493ecb198b61cb00b893e07e6ee906e824feafc2e7c"
-  },
-  "impactDescription": "Our contributions to Optimism consist of educational content focusing on Public Goods like Open Source Software, Eth Infra, and education on the OP stack. We\u2019ve also created content focusing on RPGF to motivate our community of builders, devs, degens and regens to build on OP. We\u2019ve also started including daily free mints as proof of attendance to our streams.",
-  "contributionDescription": "We create impact for the Optimism ecosystem by educating our audience of 1M+ monthly viewers on Public Goods, RPGF, and the benefits of building on OP Stack. We\u2019ve also motivated our audience to bridge eth to OP mainnet and Base, mint our daily free NFTs as proof of attendance and interact with dapps. This far we have onboarded over 1k people from our videos to bridge assets into Optimism and Base and can probably onboard 10k+ in the coming quarters. ",
-  "contributionLinks": [
-    {
-      "type": "CONTRACT_ADDRESS",
-      "url": "https://optimistic.etherscan.io/token/0x5e6ee64b5273b71dd9c3a0a492da72bf1eb443a9",
-      "description": "Got 696 people new to the OP stack to bridge assets + mint an NFT on OP main net"
+    "applicantType": "INDIVIDUAL",
+    "profile": {
+        "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x62B111073bE30e7CE242F238A95EB05255542b6E.png",
+        "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x62B111073bE30e7CE242F238A95EB05255542b6E.png",
+        "id": "OptimistProfile|0x9ad5c4fbe25e7abfbfc41493ecb198b61cb00b893e07e6ee906e824feafc2e7c"
     },
-    {
-      "type": "CONTRACT_ADDRESS",
-      "url": "https://optimistic.etherscan.io/token/0x947219d06e7231254b698e31c3284d89fc1b1e9c",
-      "description": "Got 298 people new to the OP stack to bridge assets + mint an NFT on OP main net"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://basescan.org/token/0x650becb9cf2ac7e78d5c50a3e246c6d30b7c27e8",
-      "description": "Got 100 (and counting) people new to the Base to bridge assets + mint an NFT"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://www.youtube.com/live/AN0ETZhK2pY?si=eyzb-HmxoqqdIG3U&t=1340",
-      "description": "Educated over 30k people about Optimism RPGF and explained Ether's Phoenix"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://www.youtube.com/live/vijp5Rm9wD0?si=PcCjpCom3G5Yod-O&t=1141",
-      "description": "Educated over 34k people on projects that got RPGF and inspired viewers to build"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://academy.moralis.io/blog/exploring-optimisms-optimistic-virtual-machine-ovm",
-      "description": "Wrote an article on OVM that reached 2k+ readers"
-    }
-  ],
-  "impactMetrics": [
-    {
-      "description": "New Users to OP Stack",
-      "number": "696",
-      "url": "https://optimistic.etherscan.io/token/0x5e6ee64b5273b71dd9c3a0a492da72bf1eb443a9"
-    },
-    {
-      "description": "New Users to OP Stack",
-      "number": "298",
-      "url": "https://optimistic.etherscan.io/token/0x947219d06e7231254b698e31c3284d89fc1b1e9c"
-    },
-    {
-      "description": "New Users to OP Stack",
-      "number": "100",
-      "url": "https://basescan.org/token/0x650becb9cf2ac7e78d5c50a3e246c6d30b7c27e8"
-    },
-    {
-      "description": "Viewers ",
-      "number": "30000",
-      "url": "https://www.youtube.com/live/AN0ETZhK2pY?si=eyzb-HmxoqqdIG3U&t=1340"
-    },
-    {
-      "description": "Viewers ",
-      "number": "34000",
-      "url": "https://www.youtube.com/live/vijp5Rm9wD0?si=PcCjpCom3G5Yod-O&t=1141"
-    },
-    {
-      "description": "Readers",
-      "number": "2000",
-      "url": "https://academy.moralis.io/blog/exploring-optimisms-optimistic-virtual-machine-ovm"
-    }
-  ],
-  "fundingSources": [],
-  "lists": [
-    {
-      "id": "0x14e43f63889a7ef98733c8f5f620a586a7d0e4acda2fa86f05c52a662fa0c2e3",
-      "listName": "Content Creation & Media",
-      "impactEvaluationType": "PAIRWISE",
-      "categories": [
-        "PAIRWISE"
-      ],
-      "projectsMetadata": [
+    "impactDescription": "Our contributions to Optimism consist of educational content focusing on Public Goods like Open Source Software, Eth Infra, and education on the OP stack. We\u2019ve also created content focusing on RPGF to motivate our community of builders, devs, degens and regens to build on OP. We\u2019ve also started including daily free mints as proof of attendance to our streams.",
+    "contributionDescription": "We create impact for the Optimism ecosystem by educating our audience of 1M+ monthly viewers on Public Goods, RPGF, and the benefits of building on OP Stack. We\u2019ve also motivated our audience to bridge eth to OP mainnet and Base, mint our daily free NFTs as proof of attendance and interact with dapps. This far we have onboarded over 1k people from our videos to bridge assets into Optimism and Base and can probably onboard 10k+ in the coming quarters. ",
+    "contributionLinks": [
         {
-          "id": "0xe5caec525a57cf728ac3c3bc5d00814e036b46d54863affd671ee9475aee3185",
-          "displayName": "ruslanklinkov",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3e8aC233f02d13C1E299e47aE230C205E0177Ed.png"
+            "type": "CONTRACT_ADDRESS",
+            "url": "https://optimistic.etherscan.io/token/0x5e6ee64b5273b71dd9c3a0a492da72bf1eb443a9",
+            "description": "Got 696 people new to the OP stack to bridge assets + mint an NFT on OP main net"
         },
         {
-          "id": "0xb5d1b7e987aaa73f07b7afa4a12880a6a55b46c21fb78f723137431a1872c7c2",
-          "displayName": "DRAMA",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEfbC53e0AFdc9f649Bc1Ab692461df57E70A560f.png"
+            "type": "CONTRACT_ADDRESS",
+            "url": "https://optimistic.etherscan.io/token/0x947219d06e7231254b698e31c3284d89fc1b1e9c",
+            "description": "Got 298 people new to the OP stack to bridge assets + mint an NFT on OP main net"
         },
         {
-          "id": "0x33652f336c9008877d5c1da876a513aeeb5704989b2ab9b53fd55a1a8245b87d",
-          "displayName": "Ivan on Tech",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x62B111073bE30e7CE242F238A95EB05255542b6E.png"
+            "type": "OTHER",
+            "url": "https://basescan.org/token/0x650becb9cf2ac7e78d5c50a3e246c6d30b7c27e8",
+            "description": "Got 100 (and counting) people new to the Base to bridge assets + mint an NFT"
         },
         {
-          "id": "0x50eacddd935ff1aac3538b5e6d9ce744c136259b49521f9d02ca4c01d3c64fef",
-          "displayName": "Hitasyurek",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4830764Cb1252Fc7553231E2FBF5b09961a29c59.png"
+            "type": "OTHER",
+            "url": "https://www.youtube.com/live/AN0ETZhK2pY?si=eyzb-HmxoqqdIG3U&t=1340",
+            "description": "Educated over 30k people about Optimism RPGF and explained Ether's Phoenix"
         },
         {
-          "id": "0x58947058b1c0a3d31c4c8f6e43c891459156ceb6e6fbf9547ee087ec78f0517b",
-          "displayName": "polynya",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x429F9aDA43e9F345CbB85EC88681BB70Df808892.png"
+            "type": "OTHER",
+            "url": "https://www.youtube.com/live/vijp5Rm9wD0?si=PcCjpCom3G5Yod-O&t=1141",
+            "description": "Educated over 34k people on projects that got RPGF and inspired viewers to build"
         },
         {
-          "id": "0xcb3b30c752b2594f4fc4377496ab5c301dc299abd8701507f4b1674b99e2cf8a",
-          "displayName": "Ryan Berckmans",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2DD9dE0DDC7e433F8c50A09929d766FEd59eB13a.png"
-        },
-        {
-          "id": "0xf2e5092df31bedfdc2e758e6a5f63da1a02f2e1e4903b18b6215b821b3e10324",
-          "displayName": "ProMint",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0xd4b26857ee4d3411bb5745eda3a6bdf2af4f29793d92fff977cea836073a8f60",
-          "displayName": "Thumbs Up",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4d85e4F760fb58E380f02657AE5Aafb8bd010601.png"
-        },
-        {
-          "id": "0x218c7688e5dcf819ab26a3dac0f2ecdfe87dd445814bc9c49701b84bde3f1888",
-          "displayName": "cryptolawyer",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0xc0a7ad67a880112ceab61959e4b4c69d08624dfafb666061b246c98c73fbbc54",
-          "displayName": "Josh | The Blockchain Socialist",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc2fB4B3EA53E10c88D193E709A81C4dc7aEC902e.png"
-        },
-        {
-          "id": "0x4f1f2f5b1c5ab11d0eb9aa6e10fe3b47b7505d41ff6f75151f055457026438d2",
-          "displayName": "The Blockchain Report",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2E849DB35D4E7753902414D466d97ad02d333F56.png"
-        },
-        {
-          "id": "0xad7bb25d68a8e4db00e21bff02fd2db31935feaae6c5bfd329e8f621dd77ce10",
-          "displayName": "Layer 2 Weekly Roundup",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x24b0529c7226AE66968B9A8b521b266A2cA4a898.png"
-        },
-        {
-          "id": "0xbbbfe1f07b3788fe30dc9b2594176b48b002364e8e4bcedb86b28f87780722c7",
-          "displayName": "CII",
-          "profileImageUrl": null
+            "type": "OTHER",
+            "url": "https://academy.moralis.io/blog/exploring-optimisms-optimistic-virtual-machine-ovm",
+            "description": "Wrote an article on OVM that reached 2k+ readers"
         }
-      ]
-    }
-  ],
-  "id": "Project|0x33652f336c9008877d5c1da876a513aeeb5704989b2ab9b53fd55a1a8245b87d",
-  "prelimResult": "Keep",
-  "reportReason": "",
-  "includedInBallots": 9,
-  "primaryCategory": "End User Experience & Adoption",
-  "recategorization": "Discovery Tooling"
+    ],
+    "impactMetrics": [
+        {
+            "description": "New Users to OP Stack",
+            "number": "696",
+            "url": "https://optimistic.etherscan.io/token/0x5e6ee64b5273b71dd9c3a0a492da72bf1eb443a9"
+        },
+        {
+            "description": "New Users to OP Stack",
+            "number": "298",
+            "url": "https://optimistic.etherscan.io/token/0x947219d06e7231254b698e31c3284d89fc1b1e9c"
+        },
+        {
+            "description": "New Users to OP Stack",
+            "number": "100",
+            "url": "https://basescan.org/token/0x650becb9cf2ac7e78d5c50a3e246c6d30b7c27e8"
+        },
+        {
+            "description": "Viewers ",
+            "number": "30000",
+            "url": "https://www.youtube.com/live/AN0ETZhK2pY?si=eyzb-HmxoqqdIG3U&t=1340"
+        },
+        {
+            "description": "Viewers ",
+            "number": "34000",
+            "url": "https://www.youtube.com/live/vijp5Rm9wD0?si=PcCjpCom3G5Yod-O&t=1141"
+        },
+        {
+            "description": "Readers",
+            "number": "2000",
+            "url": "https://academy.moralis.io/blog/exploring-optimisms-optimistic-virtual-machine-ovm"
+        }
+    ],
+    "fundingSources": [],
+    "lists": [
+        {
+            "id": "0x14e43f63889a7ef98733c8f5f620a586a7d0e4acda2fa86f05c52a662fa0c2e3",
+            "listName": "Content Creation & Media",
+            "impactEvaluationType": "PAIRWISE",
+            "categories": [
+                "PAIRWISE"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0xe5caec525a57cf728ac3c3bc5d00814e036b46d54863affd671ee9475aee3185",
+                    "displayName": "ruslanklinkov",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3e8aC233f02d13C1E299e47aE230C205E0177Ed.png"
+                },
+                {
+                    "id": "0xb5d1b7e987aaa73f07b7afa4a12880a6a55b46c21fb78f723137431a1872c7c2",
+                    "displayName": "DRAMA",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEfbC53e0AFdc9f649Bc1Ab692461df57E70A560f.png"
+                },
+                {
+                    "id": "0x33652f336c9008877d5c1da876a513aeeb5704989b2ab9b53fd55a1a8245b87d",
+                    "displayName": "Ivan on Tech",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x62B111073bE30e7CE242F238A95EB05255542b6E.png"
+                },
+                {
+                    "id": "0x50eacddd935ff1aac3538b5e6d9ce744c136259b49521f9d02ca4c01d3c64fef",
+                    "displayName": "Hitasyurek",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4830764Cb1252Fc7553231E2FBF5b09961a29c59.png"
+                },
+                {
+                    "id": "0x58947058b1c0a3d31c4c8f6e43c891459156ceb6e6fbf9547ee087ec78f0517b",
+                    "displayName": "polynya",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x429F9aDA43e9F345CbB85EC88681BB70Df808892.png"
+                },
+                {
+                    "id": "0xcb3b30c752b2594f4fc4377496ab5c301dc299abd8701507f4b1674b99e2cf8a",
+                    "displayName": "Ryan Berckmans",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2DD9dE0DDC7e433F8c50A09929d766FEd59eB13a.png"
+                },
+                {
+                    "id": "0xf2e5092df31bedfdc2e758e6a5f63da1a02f2e1e4903b18b6215b821b3e10324",
+                    "displayName": "ProMint",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0xd4b26857ee4d3411bb5745eda3a6bdf2af4f29793d92fff977cea836073a8f60",
+                    "displayName": "Thumbs Up",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4d85e4F760fb58E380f02657AE5Aafb8bd010601.png"
+                },
+                {
+                    "id": "0x218c7688e5dcf819ab26a3dac0f2ecdfe87dd445814bc9c49701b84bde3f1888",
+                    "displayName": "cryptolawyer",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0xc0a7ad67a880112ceab61959e4b4c69d08624dfafb666061b246c98c73fbbc54",
+                    "displayName": "Josh | The Blockchain Socialist",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc2fB4B3EA53E10c88D193E709A81C4dc7aEC902e.png"
+                },
+                {
+                    "id": "0x4f1f2f5b1c5ab11d0eb9aa6e10fe3b47b7505d41ff6f75151f055457026438d2",
+                    "displayName": "The Blockchain Report",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2E849DB35D4E7753902414D466d97ad02d333F56.png"
+                },
+                {
+                    "id": "0xad7bb25d68a8e4db00e21bff02fd2db31935feaae6c5bfd329e8f621dd77ce10",
+                    "displayName": "Layer 2 Weekly Roundup",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x24b0529c7226AE66968B9A8b521b266A2cA4a898.png"
+                },
+                {
+                    "id": "0xbbbfe1f07b3788fe30dc9b2594176b48b002364e8e4bcedb86b28f87780722c7",
+                    "displayName": "CII",
+                    "profileImageUrl": null
+                }
+            ]
+        }
+    ],
+    "id": "Project|0x33652f336c9008877d5c1da876a513aeeb5704989b2ab9b53fd55a1a8245b87d",
+    "prelimResult": "Keep",
+    "reportReason": "",
+    "includedInBallots": 9,
+    "primaryCategory": "End User Experience & Adoption",
+    "recategorization": "Discovery Tooling",
+    "totalOP": 0.0,
+    "rank": 504
 }

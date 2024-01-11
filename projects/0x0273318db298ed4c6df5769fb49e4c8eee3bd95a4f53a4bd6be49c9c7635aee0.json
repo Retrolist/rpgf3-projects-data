@@ -1,194 +1,196 @@
 {
-  "bio": "OP Study was designed to educate people about Optimism and the OP Stack",
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
-  "displayName": "Admiano",
-  "websiteUrl": "https://op.admiano.com/",
-  "applicant": {
-    "address": {
-      "address": "0xc8111c2689d866A88291811cb5b0B31665F08350",
-      "resolvedName": {
-        "address": "0xc8111c2689d866A88291811cb5b0B31665F08350",
-        "name": null
-      }
+    "bio": "OP Study was designed to educate people about Optimism and the OP Stack",
+    "impactCategory": [
+        "END_USER_EXPERIENCE_AND_ADOPTION"
+    ],
+    "displayName": "Admiano",
+    "websiteUrl": "https://op.admiano.com/",
+    "applicant": {
+        "address": {
+            "address": "0xc8111c2689d866A88291811cb5b0B31665F08350",
+            "resolvedName": {
+                "address": "0xc8111c2689d866A88291811cb5b0B31665F08350",
+                "name": null
+            }
+        },
+        "id": "Delegate|Delegate|0xc8111c2689d866A88291811cb5b0B31665F08350"
     },
-    "id": "Delegate|Delegate|0xc8111c2689d866A88291811cb5b0B31665F08350"
-  },
-  "applicantType": "INDIVIDUAL",
-  "profile": {
-    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png",
-    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png",
-    "id": "OptimistProfile|0x02d082ebe14715960829e127cf28bb3780d03335dfa8bfa6326bd70bc14c60ea"
-  },
-  "impactDescription": "The biggest impact those who have taken my free courses have had is having a deeper knowledge of Optimism and the OP Stack and in turn, having a deep appreciation for the technology behind it.\n\nAs a result, some have been keen to learn more about and to explore Optimism and its ecosystem.",
-  "contributionDescription": "I built a course platform where anyone can take a free course to learn about Optimism and the amazing OP Stack. This is something that no one has done before, and I believe the general public deserves to know and learn about OP Stack and why massive platforms like Coinbase and BNB Chain chose to build using this software.\n\nThe platform houses free courses. These courses are broken down into smaller video lessons with quizzes in between them. At the end of a course, a student would have been able to benefit maximally from the course and grow a deeper appreciation for the tech behind Optimism and the future of the OP Stack - Superchain.\n\nThis is now a go-to platform for exclusively learning about everything Optimism in a structured way. And its 100% free and will remain so.",
-  "contributionLinks": [
-    {
-      "type": "OTHER",
-      "url": "https://op.admiano.com/",
-      "description": "A course platform for everything Optimism and OP Stack"
-    }
-  ],
-  "impactMetrics": [
-    {
-      "description": "Number of enrolled students",
-      "number": "12",
-      "url": "https://op.admiano.com/courses/an-overview-of-optimism-op-stack/"
+    "applicantType": "INDIVIDUAL",
+    "profile": {
+        "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png",
+        "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png",
+        "id": "OptimistProfile|0x02d082ebe14715960829e127cf28bb3780d03335dfa8bfa6326bd70bc14c60ea"
     },
-    {
-      "description": "Number of enrolled students",
-      "number": "14",
-      "url": "https://op.admiano.com/courses/introduction-to-optimism/"
-    }
-  ],
-  "fundingSources": [],
-  "lists": [
-    {
-      "id": "0xcab02106739fa2cb8a17adb4be3141dfcddbf68f751700b09c9e2177be21b727",
-      "listName": "Blockchain Education",
-      "impactEvaluationType": "PAIRWISE",
-      "categories": [
-        "PAIRWISE"
-      ],
-      "projectsMetadata": [
+    "impactDescription": "The biggest impact those who have taken my free courses have had is having a deeper knowledge of Optimism and the OP Stack and in turn, having a deep appreciation for the technology behind it.\n\nAs a result, some have been keen to learn more about and to explore Optimism and its ecosystem.",
+    "contributionDescription": "I built a course platform where anyone can take a free course to learn about Optimism and the amazing OP Stack. This is something that no one has done before, and I believe the general public deserves to know and learn about OP Stack and why massive platforms like Coinbase and BNB Chain chose to build using this software.\n\nThe platform houses free courses. These courses are broken down into smaller video lessons with quizzes in between them. At the end of a course, a student would have been able to benefit maximally from the course and grow a deeper appreciation for the tech behind Optimism and the future of the OP Stack - Superchain.\n\nThis is now a go-to platform for exclusively learning about everything Optimism in a structured way. And its 100% free and will remain so.",
+    "contributionLinks": [
         {
-          "id": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
-          "displayName": "Taz",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png"
-        },
-        {
-          "id": "0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
-          "displayName": "Admiano",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png"
-        },
-        {
-          "id": "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
-          "displayName": "Rainie",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
-          "displayName": "ZEFIRIUM",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png"
-        },
-        {
-          "id": "0x79c3f88b4adb9b32ba1ba2c460097f7f2b43bc1a591e4a6a555f052087724197",
-          "displayName": "Perelyn",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x8cca21279a5147cbd7a3f1f788a23e55afac2226dc2573e9de72e6586e8f269e",
-          "displayName": "Mac Budkowski",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760.png"
-        },
-        {
-          "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
-          "displayName": "zerokn0wledge",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
-        },
-        {
-          "id": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
-          "displayName": "Sassal.eth",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg"
-        },
-        {
-          "id": "0xcd842be029689ac8c0cb4a6749a1a52875473bc74690e336c076f9f918ec8e5a",
-          "displayName": "ilyessghz",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x877274b9531669039d60b16f0bb436f30720126fd2c1d4a76d20558a5130a4c4",
-          "displayName": "DeFI Saint",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf52a30397151C77E732fA5DeFB9347359C52A141.jpeg"
-        },
-        {
-          "id": "0x708fb4bb4efcfdf20a0ef673daf2df7944f0f2f91f0b607069a2ff822e2cd871",
-          "displayName": "Faina",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90.jpeg"
-        },
-        {
-          "id": "0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
-          "displayName": "criptomommy",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4.png"
-        },
-        {
-          "id": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
-          "displayName": "PatrickAlphaC",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png"
-        },
-        {
-          "id": "0xba2e0392ddef461fea23821d7098b917bab9532d2d2cb297d0449d3a446c9bf7",
-          "displayName": "jordanmmck",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29FF795B015652EdFB9883bB83B3E9bE3c207e62.jpeg"
+            "type": "OTHER",
+            "url": "https://op.admiano.com/",
+            "description": "A course platform for everything Optimism and OP Stack"
         }
-      ]
-    },
-    {
-      "id": "0xf803ace7c5af5a36f3139e915f875e183986e2737b271ea457ed00fd1b7871e8",
-      "listName": "Blockchain Education",
-      "impactEvaluationType": "PAIRWISE",
-      "categories": [
-        "PAIRWISE"
-      ],
-      "projectsMetadata": [
+    ],
+    "impactMetrics": [
         {
-          "id": "0x15e84020afaeea9626e882207ad748006bbd2fbdc45b313af4cf2414ae657c90",
-          "displayName": "Gadgeteer (nanobro)",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375.jpeg"
+            "description": "Number of enrolled students",
+            "number": "12",
+            "url": "https://op.admiano.com/courses/an-overview-of-optimism-op-stack/"
         },
         {
-          "id": "0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
-          "displayName": "Admiano",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png"
-        },
-        {
-          "id": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
-          "displayName": "Sassal.eth",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg"
-        },
-        {
-          "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
-          "displayName": "zerokn0wledge",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
-        },
-        {
-          "id": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
-          "displayName": "Taz",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png"
-        },
-        {
-          "id": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
-          "displayName": "PatrickAlphaC",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png"
-        },
-        {
-          "id": "0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
-          "displayName": "criptomommy",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4.png"
-        },
-        {
-          "id": "0x8cca21279a5147cbd7a3f1f788a23e55afac2226dc2573e9de72e6586e8f269e",
-          "displayName": "Mac Budkowski",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760.png"
-        },
-        {
-          "id": "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
-          "displayName": "Rainie",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
-          "displayName": "ZEFIRIUM",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png"
+            "description": "Number of enrolled students",
+            "number": "14",
+            "url": "https://op.admiano.com/courses/introduction-to-optimism/"
         }
-      ]
-    }
-  ],
-  "id": "Project|0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
-  "prelimResult": "Keep",
-  "reportReason": "Not sure if this is legit",
-  "includedInBallots": 8,
-  "primaryCategory": "End User Experience & Adoption",
-  "recategorization": "Evangelism & User Onboarding"
+    ],
+    "fundingSources": [],
+    "lists": [
+        {
+            "id": "0xcab02106739fa2cb8a17adb4be3141dfcddbf68f751700b09c9e2177be21b727",
+            "listName": "Blockchain Education",
+            "impactEvaluationType": "PAIRWISE",
+            "categories": [
+                "PAIRWISE"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
+                    "displayName": "Taz",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png"
+                },
+                {
+                    "id": "0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
+                    "displayName": "Admiano",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png"
+                },
+                {
+                    "id": "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
+                    "displayName": "Rainie",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
+                    "displayName": "ZEFIRIUM",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png"
+                },
+                {
+                    "id": "0x79c3f88b4adb9b32ba1ba2c460097f7f2b43bc1a591e4a6a555f052087724197",
+                    "displayName": "Perelyn",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x8cca21279a5147cbd7a3f1f788a23e55afac2226dc2573e9de72e6586e8f269e",
+                    "displayName": "Mac Budkowski",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760.png"
+                },
+                {
+                    "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
+                    "displayName": "zerokn0wledge",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
+                },
+                {
+                    "id": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
+                    "displayName": "Sassal.eth",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg"
+                },
+                {
+                    "id": "0xcd842be029689ac8c0cb4a6749a1a52875473bc74690e336c076f9f918ec8e5a",
+                    "displayName": "ilyessghz",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x877274b9531669039d60b16f0bb436f30720126fd2c1d4a76d20558a5130a4c4",
+                    "displayName": "DeFI Saint",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf52a30397151C77E732fA5DeFB9347359C52A141.jpeg"
+                },
+                {
+                    "id": "0x708fb4bb4efcfdf20a0ef673daf2df7944f0f2f91f0b607069a2ff822e2cd871",
+                    "displayName": "Faina",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90.jpeg"
+                },
+                {
+                    "id": "0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
+                    "displayName": "criptomommy",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4.png"
+                },
+                {
+                    "id": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
+                    "displayName": "PatrickAlphaC",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png"
+                },
+                {
+                    "id": "0xba2e0392ddef461fea23821d7098b917bab9532d2d2cb297d0449d3a446c9bf7",
+                    "displayName": "jordanmmck",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29FF795B015652EdFB9883bB83B3E9bE3c207e62.jpeg"
+                }
+            ]
+        },
+        {
+            "id": "0xf803ace7c5af5a36f3139e915f875e183986e2737b271ea457ed00fd1b7871e8",
+            "listName": "Blockchain Education",
+            "impactEvaluationType": "PAIRWISE",
+            "categories": [
+                "PAIRWISE"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0x15e84020afaeea9626e882207ad748006bbd2fbdc45b313af4cf2414ae657c90",
+                    "displayName": "Gadgeteer (nanobro)",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375.jpeg"
+                },
+                {
+                    "id": "0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
+                    "displayName": "Admiano",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png"
+                },
+                {
+                    "id": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
+                    "displayName": "Sassal.eth",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg"
+                },
+                {
+                    "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
+                    "displayName": "zerokn0wledge",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
+                },
+                {
+                    "id": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
+                    "displayName": "Taz",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png"
+                },
+                {
+                    "id": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
+                    "displayName": "PatrickAlphaC",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png"
+                },
+                {
+                    "id": "0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
+                    "displayName": "criptomommy",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4.png"
+                },
+                {
+                    "id": "0x8cca21279a5147cbd7a3f1f788a23e55afac2226dc2573e9de72e6586e8f269e",
+                    "displayName": "Mac Budkowski",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760.png"
+                },
+                {
+                    "id": "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
+                    "displayName": "Rainie",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
+                    "displayName": "ZEFIRIUM",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png"
+                }
+            ]
+        }
+    ],
+    "id": "Project|0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
+    "prelimResult": "Keep",
+    "reportReason": "Not sure if this is legit",
+    "includedInBallots": 8,
+    "primaryCategory": "End User Experience & Adoption",
+    "recategorization": "Evangelism & User Onboarding",
+    "totalOP": 0.0,
+    "rank": 509
 }

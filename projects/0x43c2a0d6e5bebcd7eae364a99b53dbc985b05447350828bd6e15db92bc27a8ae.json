@@ -1,714 +1,716 @@
 {
-  "bio": "A minor Influencer creating a huge impact: Education/Reviews/AMAs/Collaborations",
-  "impactCategory": [
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
-  "displayName": "ZEFIRIUM",
-  "websiteUrl": "https://t.me/ZEFIRIUM_CRYPTO",
-  "applicant": {
-    "address": {
-      "address": "0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd",
-      "resolvedName": {
-        "address": "0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd",
-        "name": null
-      }
-    },
-    "id": "Delegate|Delegate|0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd"
-  },
-  "applicantType": "INDIVIDUAL",
-  "profile": {
-    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png",
-    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png",
-    "id": "OptimistProfile|0x53ac44a158ab460c9807be3c5cc002ce3b9060570e1f6669c814943d86411026"
-  },
-  "impactDescription": "\nThe posts and video reviews I create for the CIS community Optimism has attracted 5-10 active members to the Ambassador Program in the last 7-8 months. 4 of which have successfully obtained the role of ambassador in training. There were also AMA sessions and events, which I will mention in the CIS community grant. ",
-  "contributionDescription": "I create educational content about Optimism and ecosystem. Provide information about new activities and results of previous ones. I cooperate with major CIS-influencers and organize contests. My main focus is on Telegram communities & Twitter posts. \n\n*I am an \"ambassador in training\" of the project.\n",
-  "contributionLinks": [
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/1353",
-      "description": "Podcast about the PetroPGF Grant for Ambassadors "
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/1352",
-      "description": "Information on getting Optimist NFT for Contributors"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/1331",
-      "description": "Information about holding an AMA session with large influencers (20k+)"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/1318",
-      "description": "Announcement of a mission in Guild"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/848",
-      "description": "AMA session with a review of current projects and a speech by OP ambassador"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/1298",
-      "description": "Overview of the sound.xyz project"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/931",
-      "description": "A breakdown of grants received by ambassadors + motivation"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/1204",
-      "description": "Coinbase news"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/1128",
-      "description": "List of projects with contributions+rewards"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/1116",
-      "description": "Thrivecoin activity announcement"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/1048",
-      "description": "A podcast about rewarded activities in Optimism"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/1043",
-      "description": "A podcast about RetroPGF & ambassador program "
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/1016",
-      "description": "Beckstage from a video shoot for Optimism :)"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/1014",
-      "description": "Announcementof the creation of the OP CIS community"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/994",
-      "description": "OP-merch competition"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/986",
-      "description": "Bedrock update announcement"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/981",
-      "description": "Co-grant announcement"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/977",
-      "description": "Information about Merch"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/950",
-      "description": "All the nominees for Discord roles are my subscribers :3"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/813",
-      "description": "Quests by Optimism announcement"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/804",
-      "description": "Pinned post, with mentions of the best Ambassador programs including Optimism"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/778",
-      "description": "Activities for potential retrodrop"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/734",
-      "description": "vote.optimism.io announcement "
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/723",
-      "description": "A post announcing retrodrop"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/676",
-      "description": "Receipt of a grant by the Clipper"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/575",
-      "description": "Announcement of articles on the Mirror"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/521",
-      "description": "Quest Optimism guide"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://t.me/ZEFIRIUM_CRYPTO/438",
-      "description": "Adding Optimism test network on Tokensoft"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://www.youtube.com/watch?v=M2JOfyiaCSI&t=1521s",
-      "description": "A review on the best crypto projects of the beginning of the year"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://www.youtube.com/watch?v=cn9vYWDkN6M&t=637s",
-      "description": "Overview of the Ambassador Program and Retrodrop"
-    }
-  ],
-  "impactMetrics": [
-    {
-      "description": "Views ",
-      "number": "9500",
-      "url": "https://by.tgstat.com/channel/@ZEFIRIUM_CRYPTO/stat"
-    }
-  ],
-  "fundingSources": [],
-  "lists": [
-    {
-      "id": "0xdc8140ff9f20fb8ba451c1cb4a69cfc737bb3c8fa75f8d9ae7bc2079f42bffd7",
-      "listName": "Joan's list of Localized Efforts",
-      "impactEvaluationType": "BADGEHOLDER",
-      "categories": [
+    "bio": "A minor Influencer creating a huge impact: Education/Reviews/AMAs/Collaborations",
+    "impactCategory": [
         "END_USER_EXPERIENCE_AND_ADOPTION"
-      ],
-      "projectsMetadata": [
-        {
-          "id": "0x58e1ffb5f013ddd4e2115550c407e0e4bebc2a797273f6582f49d6ba755aaa48",
-          "displayName": "International Media Nodes (IMN)",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xACEdF0B670DB56Da6731E52841CEa7666D02Ec41.png"
-        },
-        {
-          "id": "0x6f9d52e23c4a47724e37757726bada03e6e67db75aadd347ae4cb778298462f6",
-          "displayName": "Banklessadria",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAEab2C097bd7a9e5Dbd83fEba500Aa56fB0C5930.png"
-        },
-        {
-          "id": "0xad58a1e8a62acd6e69bb570e7dc3aa85b93712d01f881842c77bc78cc713b51a",
-          "displayName": "Bankless Africa",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x74021a7599CF772275c6d5699Fb681bEeB0d7AA8.png"
-        },
-        {
-          "id": "0xf41f199697d23be53eb353e02947670e439498081fd2c733ff8befea0c974c37",
-          "displayName": "ETHAccra",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ac685a55bce6b515fC1Ea713146f6D099A5054b.png"
-        },
-        {
-          "id": "0xa1dfddef3afe0156af5fd5870560d13423820a235ec8550e7f66a0e7d5c947c5",
-          "displayName": "AyaHQ",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf203D6C796B99d0F2f861d1B838074822dd64D7c.png"
-        },
-        {
-          "id": "0x04227ff23823ec09a03a531c924e8bdf5a6d486f3e0e3006b2fbb1a8de58f0d1",
-          "displayName": "DeFi Africa",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd952010BAFcAdB7a2052EE697C883A0565A8c01E.png"
-        },
-        {
-          "id": "0x4c583402fb44f7b5c40a523b6adcdef402a347eccaec42e0d1e8bb567192150f",
-          "displayName": "Pidgin Parlour",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAE64b79C5bC01e234DD3FFB7EAAa36E92b4dD23B.png"
-        },
-        {
-          "id": "0x07cdfb60650fd3060411253b3c91abdab2739c0b122047ab6d014436fe912282",
-          "displayName": "Web3bridge",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x067ca205aaF09A8B724Cadd2f70A38f9AF2d150A.png"
-        },
-        {
-          "id": "0xd6b9e67653ec0ddc766f8183c713c8cf31af292e3c36f26e5b9ca88330b2bc0f",
-          "displayName": "MrCrypto Arabic",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x519e9aa581E8A00cf4aa51ffc85B5E2BD2BECA75.png"
-        },
-        {
-          "id": "0xa762b00ea2eb27fd5e9d79626a4d69789f1609e7c1e89a68b2b46b95b13978e1",
-          "displayName": "OptimismArabia",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6e4E55A49a8C8938BD8D8668E18DE95962740Fe1.png"
-        },
-        {
-          "id": "0x4f3ea678f2dc73c1376ecde61057ddaf2cc9b68682deb34ad810b985c5b8d50d",
-          "displayName": "Cryptola",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x52EA7097F080DfB6e6C3F0BbCa57a89d0A2487d8.png"
-        },
-        {
-          "id": "0xf1d3d7c5e0214cfea976a996d1f9fad14e242b393d3e4f7da0a6f9c3a0965e61",
-          "displayName": "Blocktrend (\u5340\u584a\u52e2)",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x36F322fC85B24aB13263CFE9217B28f8E2b38381.jpeg"
-        },
-        {
-          "id": "0x9eed24b6b3f93a8f34a2838229e7abbe710e3f0e2490eaf92e30e6a8a77f389c",
-          "displayName": "Bob",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2411F16A75C499636FC5F4E0b1df92717A9864BC.png"
-        },
-        {
-          "id": "0xbbbfe1f07b3788fe30dc9b2594176b48b002364e8e4bcedb86b28f87780722c7",
-          "displayName": "CII",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x4aa2191cde4ef94ed2bab5b0964b9fb219e7b306563ed809a7ec6aa3191e0618",
-          "displayName": "Dapp-Learning",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1F7b953113f4dFcBF56a1688529CC812865840e1.png"
-        },
-        {
-          "id": "0x4334d7ad70ff3adfe4310ce1433b92c242e7110f29091a0fd3e768f1a148bf8c",
-          "displayName": "DeSchool",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x2f2cd001b7d7594cb3410bac53730a210ef12bf04bef2ee5d90d0cf88d515fed",
-          "displayName": "Remix CC",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x883E49dd95fBe06be4e77768C2517F13801A8C6A.png"
-        },
-        {
-          "id": "0x799bbd58af4bc0700864c9737a8f098f0320af8ce80dc0601bb664a33b1a65d3",
-          "displayName": "Optimism_CIS",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4baB6aBb0358FF5624316450f52C9191291928Ee.png"
-        },
-        {
-          "id": "0xed15cd4ad689bdda412a7b835ab519c2ce975d1b3b4a59142fb620d6996188f0",
-          "displayName": "OptimismCIS",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB5759de539114751CA6dB8D967Ad21913Df25eCF.png"
-        },
-        {
-          "id": "0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
-          "displayName": "ZEFIRIUM",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png"
-        },
-        {
-          "id": "0xffadcc516ca998e9e94fbb00b9a912c3bcb9d6e1f8f2e87e3d411c61a7ddae40",
-          "displayName": "KryptoSpace",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6F74d9151532F6faf740Cb1e5092e0D20e34c332.png"
-        },
-        {
-          "id": "0x57cf04bdf56d0fae837e4c57625d7ce61acf6d20504b143308a4adca752a53ce",
-          "displayName": "Cryptoast",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x543Dea2479Bb8527C71bf4E52802B017212589e6.png"
-        },
-        {
-          "id": "0xa4f5f97064e5ebdc97591521be056a911731925f81c694ed0bc84f6fc1b7ddea",
-          "displayName": "Cryptosquare",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFA69D3739D3A06Ea9317e18E21963b19367D2f15.jpeg"
-        },
-        {
-          "id": "0x9a2f7a663b1f3dc5456597d188a094a67977908286a694c71481d399becb44d0",
-          "displayName": "DeFi France",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDf29Ee8F6D1b407808Eb0270f5b128DC28303684.png"
-        },
-        {
-          "id": "0xaa1fcb942f1a3d9a7d8c2513fa3e65aaffea63ae2d5fd1fc6c7b6955800858df",
-          "displayName": "CryptoMage",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1609f039A96ce10756f5C6D403a80400DC081a02.png"
-        },
-        {
-          "id": "0xd3d27cce909e5bb892f7a664e3f87539476f784eb6944c32430c0099ee48fb01",
-          "displayName": "web3made",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4Cf100cce352029e726185980E4611de835D6C7B.png"
-        },
-        {
-          "id": "0xaaa12789053b06e474d98743e9e31e4b92f0121fcefcba237b9509ee636541af",
-          "displayName": "Bankless DAO Magyar ( Hungarian )",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC695Aa81C741C47b3e1F1D0552B85bCf066f2Dd8.png"
-        },
-        {
-          "id": "0xbf23d6a3855ebaaef4290b7f74d4a1e50aab2a805e96391144f768d9466dac35",
-          "displayName": "Bankless Bengali",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBae65f67D3A19BeC7C7800A551d448ff7b5e34AC.png"
-        },
-        {
-          "id": "0x696e40f4c2452671af6896fbd5835540e8a4bd5807ad0ed81aa52a234c91038b",
-          "displayName": "Bankless Malayalam",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x261acB4aE504bfe1a3d22875F135AD8F3252e499.png"
-        },
-        {
-          "id": "0xa680530709768adaf43448175e4efa768671b7365ffdf6c959213648d5884f1e",
-          "displayName": "Republik Rupiah",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x88844185FA124f6F620578AfC57037eBEDaAb840.png"
-        },
-        {
-          "id": "0x8785599241f957b73e9e24576741bb3e02943bfbd38570135566a1cc61134168",
-          "displayName": "SpaghettETH",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3F6e18b429b6BAf1bD31B1E504aee7827C7AAb5.png"
-        },
-        {
-          "id": "0xe6574c578f8b9716459501f43d66f1bb042f7cc52799cd12541cc38d1f198e95",
-          "displayName": "Bankless Japan",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf7AF3dBf13634E3458174F6857c5468abBFbB222.png"
-        },
-        {
-          "id": "0xeb160f81985b97792065ca1fc0e78aefeaae8cf5ffd845321a73a2cda071281b",
-          "displayName": "Kaito/CoffeeTimes",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7853Eabb6cFa980eBfD27e3F77e69590EA53c0b7.jpeg"
-        },
-        {
-          "id": "0x00addc381c654e9fa1e7c09cf83f5a9e17552bb123cf482b44f837b4928aec94",
-          "displayName": "KudasaiJP",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB1b37B24045db80492eEf16dc28fB84fED210a64.png"
-        },
-        {
-          "id": "0xb8eaf64a68197ba69868bcd9f8340c5ca66ca060428878199e8d9ee7849c896e",
-          "displayName": "Blockchain na Escola",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x52fb5461fb325C5F8D3e8443ec10527e32dA72e2.png"
-        },
-        {
-          "id": "0x4e08982cc62798c181d57115ec78b2a0758dbf497814ccd84c2ee1e9dcd9e607",
-          "displayName": "Modular Crypto",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0AF52E01F87fCE46caf4c5B4C03e879c3441a19F.png"
-        },
-        {
-          "id": "0xd95e6a7ef1f2e90e9b5143894c25cff890c2e9615a6da55c090f514a7fd2938e",
-          "displayName": "RoOptimism",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb62E762Af637b49Eb4870BCe8fE21bffF189e495.png"
-        },
-        {
-          "id": "0xd288468561dab001c87bc5ccd2ff5a9277ad161e90adf2895a8c17c67ebd0041",
-          "displayName": "Nacion Bankless",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA8F0048A0d1A04663Ca5010d0bEaC5BCAEeA0eef.png"
-        },
-        {
-          "id": "0x54090220e92626ad3d3cee164a9cd14f808abc69257217691a8b1f0b65e5f551",
-          "displayName": "Andino - Talent in technology",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x363cDaA139E1Fc64d308aa2129852745676bA680.jpeg"
-        },
-        {
-          "id": "0xe133a0192b2b9a8b83b1fab0c5edde0c3fd79bc331bc03098c2d2430fbc11e8d",
-          "displayName": "CryptoConexi\u00f3n",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc4D286963cdED90E479F82495D75b739e1d831B1.png"
-        },
-        {
-          "id": "0x6770ebe0a793217fc2f14e4e1561ebea466033cb1985671b98a5b698c32244fd",
-          "displayName": "Cryptoversidad",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x281BA4E9B7e28982d6CB53EE3836865f1453e12F.png"
-        },
-        {
-          "id": "0xf06599d874b0ba5b14c384a6aec73ec01f731899db046f0cbbfcb529b8265dc7",
-          "displayName": "Definomics labs",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9390fA8656A161442928b442300358D82bEC28b0.png"
-        },
-        {
-          "id": "0xfaf5013bca13903a26b1f034486dfbff33161c877a71492d0b9094c087395de1",
-          "displayName": "Defy Foundation",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0xca1b1b89ca509130a9d710edc317a80878be71dae686786d5b6956653db342ef",
-          "displayName": "Encriptados",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3a94e60a1a9d7A53765Ceb7dc73880BDB48eE4d0.png"
-        },
-        {
-          "id": "0xf16d4e5a02c22a3c903a56d614b049b5d83bf9d6705f811b1cd1f4464f5b4ed1",
-          "displayName": "Espacio Cripto",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE800Bafa84F3194960d79C13169fFfba2E444dBc.png"
-        },
-        {
-          "id": "0xf3526ec21d5b1146008c629fe9837f2c5ab099b1590e28dfb7005c126234fb11",
-          "displayName": "Eth-Volcano",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5a039c597251fCbB574101Fc510a1759cc6871aF.png"
-        },
-        {
-          "id": "0xf136f5a299e27269045ab60239a6c3897826e7019fb2c534344ad448a16cef8a",
-          "displayName": "Ethereum Colombia",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD164AF956E0f34Be07a86752fe43AE788F647531.png"
-        },
-        {
-          "id": "0x8788f5efe99abf2a82ff0c27361baf9321c7601c06599551635aadfdd7980cf9",
-          "displayName": "Ethereum Lima",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2f6c8F867df4E49e4Fb24741C414f315E266C21B.png"
-        },
-        {
-          "id": "0x2113aa30f96029c1a9af0c1c15677fb80ecc169fb05b3d0c90e6eb77f5e758c1",
-          "displayName": "Ethereum Mexico",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x596a9BCad70d07AFF4215b2a17ad36298139fB6C.png"
-        },
-        {
-          "id": "0x21bd1ffc17577bff57ffab3413191f08a4b1b64bd5c930b5959408ee477d5cf7",
-          "displayName": "HER LATAM _ Optimistas Brillando en Blockchain",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72cBF736B721D5266Aca1E6BCC98C526d0ef2FE0.png"
-        },
-        {
-          "id": "0x4384f12001b8b7bcbf3abe9d0a354378851b34f68634ef0e9cec92152c18c1c2",
-          "displayName": "Inbest Program",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0263E43c0dE253a0fe354b60d35D2855c514a887.png"
-        },
-        {
-          "id": "0x7bba50affa4ef77da95d392f7898f12af64ccfec1909d410ad8a2baf2aea8ff3",
-          "displayName": "Kairos Research",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6D465d2081b799770d0Ce7E755d8dB1665903fFB.png"
-        },
-        {
-          "id": "0x0c85937f85dae88febd296c6f519f496063cff8970dc90bac38f25908f788fac",
-          "displayName": "KManuS88",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEdd9701C99a17Bf8Ab54f160217Da55aBe9C56FF.png"
-        },
-        {
-          "id": "0x94a2384711b5fee8a47509af64f69ef6874a83d7fc9f21003cf8095d80572280",
-          "displayName": "Lemon",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6fd96a881b72CAD783B0741309B57Cb7d0Bde18a.jpeg"
-        },
-        {
-          "id": "0xcc390957c2ff178b14d378630b8e99765cba6f4dc5027b3c38e6a1e4e2f8a0da",
-          "displayName": "Metagals",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc165709Fb45bA0755AE8baB3541150A873866947.png"
-        },
-        {
-          "id": "0x8c6ef03ae9da84c0fc10a72d404ac170d884ba0252512c08ee58f8fde8131079",
-          "displayName": "Optimism Espa\u00f1ol",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e4865634EC54dFF742E1a7452a456919B8e277b.jpeg"
-        },
-        {
-          "id": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
-          "displayName": "SEED Latam",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0087a081a9B430fd8f688c6ac5dD24421BfB060D.png"
-        },
-        {
-          "id": "0x9ba3fe96ab1f32ebfdb0514e6531eb365fad843d656aebfdb6953dcdf378bb86",
-          "displayName": "Solow \ud83d\udc3d",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x929e1b374FB07486c9A64570e5BDA99383f48785.png"
-        },
-        {
-          "id": "0xd412bec807ece79f76f3534624c7eaa7bc5db63b57110b0893b9f10b9433ffbd",
-          "displayName": "T2LATAM",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2C2fC22575f5eFF9e4311708eABedA2791957c85.png"
-        },
-        {
-          "id": "0xf9da7eda8bb30b55c307cb95a5b4a1bff450f55b26ab42e8edf091551590a7d9",
-          "displayName": "BitcoinAddict Thailand",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCf2DA4D6e7C5B51D1affeCba0a43F583d928dE0c.png"
-        },
-        {
-          "id": "0xe6e5586ce9589f408344fe0ded216e5fc64bd4ab20d39057820d5923c9d936ae",
-          "displayName": "CryptoDuck",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB0d37023043099797dfbD2bAefc20f930279dC21.png"
-        },
-        {
-          "id": "0xad533925a428c7a85a0c69be650285c01feecc1d6eaa75ab47f96be1d8db811c",
-          "displayName": "Cryptomind Research",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x20958ed81d32f79FCA6eda9A5364AE7908a60D5D.png"
-        },
-        {
-          "id": "0xd8954972d3580199658bcc9ac03298b4f689ef06fc6f505c853851aa4ca25c41",
-          "displayName": "daboyshine",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4CDD7811CCEdB0fFd3808B586bcafD6AB0ACb313.png"
-        },
-        {
-          "id": "0x1a1bdc52701cf3b33ef4d4169a3ff001f866aaf4294ef7b9398f01c5e2e00637",
-          "displayName": "Peter Priew Sommon",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1F27b0482ace1B82cf7A4f0c55dfc2A05dfCfD75.png"
-        },
-        {
-          "id": "0xaa1ea2a6a67fcacd76ef8e24de0b32a6227314899a930eb8cbbc7fd5fcc5dd0d",
-          "displayName": "Thesleeper.eth Thai OP Educator",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x00409fC839a2Ec2e6d12305423d37Cd011279C09.png"
-        },
-        {
-          "id": "0xc8e743bd0385565571a95fe4333b3a4892fc8f846b76489d3b417e1fb61fad73",
-          "displayName": "BanklessDAO Turkish",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBd55b361700c3349794aF68879B8a9E0921640Ed.png"
-        },
-        {
-          "id": "0x50eacddd935ff1aac3538b5e6d9ce744c136259b49521f9d02ca4c01d3c64fef",
-          "displayName": "Hitasyurek",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4830764Cb1252Fc7553231E2FBF5b09961a29c59.png"
-        },
-        {
-          "id": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
-          "displayName": "ITU Blockchain",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBEC643BD5b7F5e9190617CA4187ef0455950C51C.png"
-        },
-        {
-          "id": "0xfe10e068dafa65cc7d3acd39b5f5f415de69b70be75a67c338bd367dbdad7850",
-          "displayName": "ODTU Blockchain",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x07fA3338a53CFAA1911A255F0c3054E800873e77.png"
-        },
-        {
-          "id": "0x64c7ca00fc9414ad889721dd400f16c690d62bf1b01cb4202cf56dcd183be5d9",
-          "displayName": "Optimism T\u00fcrkiye",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x47a71c373e3F407f668509c2A6BD46911162bF56.png"
-        },
-        {
-          "id": "0x611994cd316c183dad42d5973cb2f5e6886082804e67611ee772d2cf7914a133",
-          "displayName": "BanklessUA",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7292667C8A55bd56d496D2EDcB5Cfb37D554f943.png"
-        },
-        {
-          "id": "0xf1bb3a9890738dd35e0e32b884ddfd2ca3a748d1723d071f572ab983eda2bc86",
-          "displayName": "Basic course in blockchain and crypto literacy",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x3f414ca96d84352f4b9a9a5096bb750677a4328e1a9c56830cf3edea12cd4fcb",
-          "displayName": "First NFT Agency",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfBeB914c3C9B7a193C92De130A18716097478332.png"
-        },
-        {
-          "id": "0xde707568dc6837c063c98810d567e0367845f1536a8566e585bd6f335d760793",
-          "displayName": "XomNFT",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1a1051c39652C0FF81A819DA4283871c3f076a3A.png"
-        }
-      ]
+    ],
+    "displayName": "ZEFIRIUM",
+    "websiteUrl": "https://t.me/ZEFIRIUM_CRYPTO",
+    "applicant": {
+        "address": {
+            "address": "0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd",
+            "resolvedName": {
+                "address": "0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd",
+                "name": null
+            }
+        },
+        "id": "Delegate|Delegate|0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd"
     },
-    {
-      "id": "0xcab02106739fa2cb8a17adb4be3141dfcddbf68f751700b09c9e2177be21b727",
-      "listName": "Blockchain Education",
-      "impactEvaluationType": "PAIRWISE",
-      "categories": [
-        "PAIRWISE"
-      ],
-      "projectsMetadata": [
-        {
-          "id": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
-          "displayName": "Taz",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png"
-        },
-        {
-          "id": "0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
-          "displayName": "Admiano",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png"
-        },
-        {
-          "id": "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
-          "displayName": "Rainie",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
-          "displayName": "ZEFIRIUM",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png"
-        },
-        {
-          "id": "0x79c3f88b4adb9b32ba1ba2c460097f7f2b43bc1a591e4a6a555f052087724197",
-          "displayName": "Perelyn",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x8cca21279a5147cbd7a3f1f788a23e55afac2226dc2573e9de72e6586e8f269e",
-          "displayName": "Mac Budkowski",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760.png"
-        },
-        {
-          "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
-          "displayName": "zerokn0wledge",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
-        },
-        {
-          "id": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
-          "displayName": "Sassal.eth",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg"
-        },
-        {
-          "id": "0xcd842be029689ac8c0cb4a6749a1a52875473bc74690e336c076f9f918ec8e5a",
-          "displayName": "ilyessghz",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x877274b9531669039d60b16f0bb436f30720126fd2c1d4a76d20558a5130a4c4",
-          "displayName": "DeFI Saint",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf52a30397151C77E732fA5DeFB9347359C52A141.jpeg"
-        },
-        {
-          "id": "0x708fb4bb4efcfdf20a0ef673daf2df7944f0f2f91f0b607069a2ff822e2cd871",
-          "displayName": "Faina",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90.jpeg"
-        },
-        {
-          "id": "0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
-          "displayName": "criptomommy",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4.png"
-        },
-        {
-          "id": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
-          "displayName": "PatrickAlphaC",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png"
-        },
-        {
-          "id": "0xba2e0392ddef461fea23821d7098b917bab9532d2d2cb297d0449d3a446c9bf7",
-          "displayName": "jordanmmck",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29FF795B015652EdFB9883bB83B3E9bE3c207e62.jpeg"
-        }
-      ]
+    "applicantType": "INDIVIDUAL",
+    "profile": {
+        "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png",
+        "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png",
+        "id": "OptimistProfile|0x53ac44a158ab460c9807be3c5cc002ce3b9060570e1f6669c814943d86411026"
     },
-    {
-      "id": "0xf803ace7c5af5a36f3139e915f875e183986e2737b271ea457ed00fd1b7871e8",
-      "listName": "Blockchain Education",
-      "impactEvaluationType": "PAIRWISE",
-      "categories": [
-        "PAIRWISE"
-      ],
-      "projectsMetadata": [
+    "impactDescription": "\nThe posts and video reviews I create for the CIS community Optimism has attracted 5-10 active members to the Ambassador Program in the last 7-8 months. 4 of which have successfully obtained the role of ambassador in training. There were also AMA sessions and events, which I will mention in the CIS community grant. ",
+    "contributionDescription": "I create educational content about Optimism and ecosystem. Provide information about new activities and results of previous ones. I cooperate with major CIS-influencers and organize contests. My main focus is on Telegram communities & Twitter posts. \n\n*I am an \"ambassador in training\" of the project.\n",
+    "contributionLinks": [
         {
-          "id": "0x15e84020afaeea9626e882207ad748006bbd2fbdc45b313af4cf2414ae657c90",
-          "displayName": "Gadgeteer (nanobro)",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375.jpeg"
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/1353",
+            "description": "Podcast about the PetroPGF Grant for Ambassadors "
         },
         {
-          "id": "0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
-          "displayName": "Admiano",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png"
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/1352",
+            "description": "Information on getting Optimist NFT for Contributors"
         },
         {
-          "id": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
-          "displayName": "Sassal.eth",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg"
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/1331",
+            "description": "Information about holding an AMA session with large influencers (20k+)"
         },
         {
-          "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
-          "displayName": "zerokn0wledge",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/1318",
+            "description": "Announcement of a mission in Guild"
         },
         {
-          "id": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
-          "displayName": "Taz",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png"
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/848",
+            "description": "AMA session with a review of current projects and a speech by OP ambassador"
         },
         {
-          "id": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
-          "displayName": "PatrickAlphaC",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png"
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/1298",
+            "description": "Overview of the sound.xyz project"
         },
         {
-          "id": "0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
-          "displayName": "criptomommy",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4.png"
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/931",
+            "description": "A breakdown of grants received by ambassadors + motivation"
         },
         {
-          "id": "0x8cca21279a5147cbd7a3f1f788a23e55afac2226dc2573e9de72e6586e8f269e",
-          "displayName": "Mac Budkowski",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760.png"
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/1204",
+            "description": "Coinbase news"
         },
         {
-          "id": "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
-          "displayName": "Rainie",
-          "profileImageUrl": null
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/1128",
+            "description": "List of projects with contributions+rewards"
         },
         {
-          "id": "0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
-          "displayName": "ZEFIRIUM",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png"
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/1116",
+            "description": "Thrivecoin activity announcement"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/1048",
+            "description": "A podcast about rewarded activities in Optimism"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/1043",
+            "description": "A podcast about RetroPGF & ambassador program "
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/1016",
+            "description": "Beckstage from a video shoot for Optimism :)"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/1014",
+            "description": "Announcementof the creation of the OP CIS community"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/994",
+            "description": "OP-merch competition"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/986",
+            "description": "Bedrock update announcement"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/981",
+            "description": "Co-grant announcement"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/977",
+            "description": "Information about Merch"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/950",
+            "description": "All the nominees for Discord roles are my subscribers :3"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/813",
+            "description": "Quests by Optimism announcement"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/804",
+            "description": "Pinned post, with mentions of the best Ambassador programs including Optimism"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/778",
+            "description": "Activities for potential retrodrop"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/734",
+            "description": "vote.optimism.io announcement "
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/723",
+            "description": "A post announcing retrodrop"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/676",
+            "description": "Receipt of a grant by the Clipper"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/575",
+            "description": "Announcement of articles on the Mirror"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/521",
+            "description": "Quest Optimism guide"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://t.me/ZEFIRIUM_CRYPTO/438",
+            "description": "Adding Optimism test network on Tokensoft"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://www.youtube.com/watch?v=M2JOfyiaCSI&t=1521s",
+            "description": "A review on the best crypto projects of the beginning of the year"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://www.youtube.com/watch?v=cn9vYWDkN6M&t=637s",
+            "description": "Overview of the Ambassador Program and Retrodrop"
         }
-      ]
-    }
-  ],
-  "id": "Project|0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
-  "prelimResult": "Keep",
-  "reportReason": "member of the Ambassadors (see duplicate application rule)",
-  "includedInBallots": 23,
-  "primaryCategory": "End User Experience & Adoption",
-  "recategorization": "Evangelism & User Onboarding"
+    ],
+    "impactMetrics": [
+        {
+            "description": "Views ",
+            "number": "9500",
+            "url": "https://by.tgstat.com/channel/@ZEFIRIUM_CRYPTO/stat"
+        }
+    ],
+    "fundingSources": [],
+    "lists": [
+        {
+            "id": "0xdc8140ff9f20fb8ba451c1cb4a69cfc737bb3c8fa75f8d9ae7bc2079f42bffd7",
+            "listName": "Joan's list of Localized Efforts",
+            "impactEvaluationType": "BADGEHOLDER",
+            "categories": [
+                "END_USER_EXPERIENCE_AND_ADOPTION"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0x58e1ffb5f013ddd4e2115550c407e0e4bebc2a797273f6582f49d6ba755aaa48",
+                    "displayName": "International Media Nodes (IMN)",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xACEdF0B670DB56Da6731E52841CEa7666D02Ec41.png"
+                },
+                {
+                    "id": "0x6f9d52e23c4a47724e37757726bada03e6e67db75aadd347ae4cb778298462f6",
+                    "displayName": "Banklessadria",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAEab2C097bd7a9e5Dbd83fEba500Aa56fB0C5930.png"
+                },
+                {
+                    "id": "0xad58a1e8a62acd6e69bb570e7dc3aa85b93712d01f881842c77bc78cc713b51a",
+                    "displayName": "Bankless Africa",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x74021a7599CF772275c6d5699Fb681bEeB0d7AA8.png"
+                },
+                {
+                    "id": "0xf41f199697d23be53eb353e02947670e439498081fd2c733ff8befea0c974c37",
+                    "displayName": "ETHAccra",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9ac685a55bce6b515fC1Ea713146f6D099A5054b.png"
+                },
+                {
+                    "id": "0xa1dfddef3afe0156af5fd5870560d13423820a235ec8550e7f66a0e7d5c947c5",
+                    "displayName": "AyaHQ",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf203D6C796B99d0F2f861d1B838074822dd64D7c.png"
+                },
+                {
+                    "id": "0x04227ff23823ec09a03a531c924e8bdf5a6d486f3e0e3006b2fbb1a8de58f0d1",
+                    "displayName": "DeFi Africa",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd952010BAFcAdB7a2052EE697C883A0565A8c01E.png"
+                },
+                {
+                    "id": "0x4c583402fb44f7b5c40a523b6adcdef402a347eccaec42e0d1e8bb567192150f",
+                    "displayName": "Pidgin Parlour",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAE64b79C5bC01e234DD3FFB7EAAa36E92b4dD23B.png"
+                },
+                {
+                    "id": "0x07cdfb60650fd3060411253b3c91abdab2739c0b122047ab6d014436fe912282",
+                    "displayName": "Web3bridge",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x067ca205aaF09A8B724Cadd2f70A38f9AF2d150A.png"
+                },
+                {
+                    "id": "0xd6b9e67653ec0ddc766f8183c713c8cf31af292e3c36f26e5b9ca88330b2bc0f",
+                    "displayName": "MrCrypto Arabic",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x519e9aa581E8A00cf4aa51ffc85B5E2BD2BECA75.png"
+                },
+                {
+                    "id": "0xa762b00ea2eb27fd5e9d79626a4d69789f1609e7c1e89a68b2b46b95b13978e1",
+                    "displayName": "OptimismArabia",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6e4E55A49a8C8938BD8D8668E18DE95962740Fe1.png"
+                },
+                {
+                    "id": "0x4f3ea678f2dc73c1376ecde61057ddaf2cc9b68682deb34ad810b985c5b8d50d",
+                    "displayName": "Cryptola",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x52EA7097F080DfB6e6C3F0BbCa57a89d0A2487d8.png"
+                },
+                {
+                    "id": "0xf1d3d7c5e0214cfea976a996d1f9fad14e242b393d3e4f7da0a6f9c3a0965e61",
+                    "displayName": "Blocktrend (\u5340\u584a\u52e2)",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x36F322fC85B24aB13263CFE9217B28f8E2b38381.jpeg"
+                },
+                {
+                    "id": "0x9eed24b6b3f93a8f34a2838229e7abbe710e3f0e2490eaf92e30e6a8a77f389c",
+                    "displayName": "Bob",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2411F16A75C499636FC5F4E0b1df92717A9864BC.png"
+                },
+                {
+                    "id": "0xbbbfe1f07b3788fe30dc9b2594176b48b002364e8e4bcedb86b28f87780722c7",
+                    "displayName": "CII",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x4aa2191cde4ef94ed2bab5b0964b9fb219e7b306563ed809a7ec6aa3191e0618",
+                    "displayName": "Dapp-Learning",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1F7b953113f4dFcBF56a1688529CC812865840e1.png"
+                },
+                {
+                    "id": "0x4334d7ad70ff3adfe4310ce1433b92c242e7110f29091a0fd3e768f1a148bf8c",
+                    "displayName": "DeSchool",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x2f2cd001b7d7594cb3410bac53730a210ef12bf04bef2ee5d90d0cf88d515fed",
+                    "displayName": "Remix CC",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x883E49dd95fBe06be4e77768C2517F13801A8C6A.png"
+                },
+                {
+                    "id": "0x799bbd58af4bc0700864c9737a8f098f0320af8ce80dc0601bb664a33b1a65d3",
+                    "displayName": "Optimism_CIS",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4baB6aBb0358FF5624316450f52C9191291928Ee.png"
+                },
+                {
+                    "id": "0xed15cd4ad689bdda412a7b835ab519c2ce975d1b3b4a59142fb620d6996188f0",
+                    "displayName": "OptimismCIS",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB5759de539114751CA6dB8D967Ad21913Df25eCF.png"
+                },
+                {
+                    "id": "0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
+                    "displayName": "ZEFIRIUM",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png"
+                },
+                {
+                    "id": "0xffadcc516ca998e9e94fbb00b9a912c3bcb9d6e1f8f2e87e3d411c61a7ddae40",
+                    "displayName": "KryptoSpace",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6F74d9151532F6faf740Cb1e5092e0D20e34c332.png"
+                },
+                {
+                    "id": "0x57cf04bdf56d0fae837e4c57625d7ce61acf6d20504b143308a4adca752a53ce",
+                    "displayName": "Cryptoast",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x543Dea2479Bb8527C71bf4E52802B017212589e6.png"
+                },
+                {
+                    "id": "0xa4f5f97064e5ebdc97591521be056a911731925f81c694ed0bc84f6fc1b7ddea",
+                    "displayName": "Cryptosquare",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFA69D3739D3A06Ea9317e18E21963b19367D2f15.jpeg"
+                },
+                {
+                    "id": "0x9a2f7a663b1f3dc5456597d188a094a67977908286a694c71481d399becb44d0",
+                    "displayName": "DeFi France",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDf29Ee8F6D1b407808Eb0270f5b128DC28303684.png"
+                },
+                {
+                    "id": "0xaa1fcb942f1a3d9a7d8c2513fa3e65aaffea63ae2d5fd1fc6c7b6955800858df",
+                    "displayName": "CryptoMage",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1609f039A96ce10756f5C6D403a80400DC081a02.png"
+                },
+                {
+                    "id": "0xd3d27cce909e5bb892f7a664e3f87539476f784eb6944c32430c0099ee48fb01",
+                    "displayName": "web3made",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4Cf100cce352029e726185980E4611de835D6C7B.png"
+                },
+                {
+                    "id": "0xaaa12789053b06e474d98743e9e31e4b92f0121fcefcba237b9509ee636541af",
+                    "displayName": "Bankless DAO Magyar ( Hungarian )",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC695Aa81C741C47b3e1F1D0552B85bCf066f2Dd8.png"
+                },
+                {
+                    "id": "0xbf23d6a3855ebaaef4290b7f74d4a1e50aab2a805e96391144f768d9466dac35",
+                    "displayName": "Bankless Bengali",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBae65f67D3A19BeC7C7800A551d448ff7b5e34AC.png"
+                },
+                {
+                    "id": "0x696e40f4c2452671af6896fbd5835540e8a4bd5807ad0ed81aa52a234c91038b",
+                    "displayName": "Bankless Malayalam",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x261acB4aE504bfe1a3d22875F135AD8F3252e499.png"
+                },
+                {
+                    "id": "0xa680530709768adaf43448175e4efa768671b7365ffdf6c959213648d5884f1e",
+                    "displayName": "Republik Rupiah",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x88844185FA124f6F620578AfC57037eBEDaAb840.png"
+                },
+                {
+                    "id": "0x8785599241f957b73e9e24576741bb3e02943bfbd38570135566a1cc61134168",
+                    "displayName": "SpaghettETH",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC3F6e18b429b6BAf1bD31B1E504aee7827C7AAb5.png"
+                },
+                {
+                    "id": "0xe6574c578f8b9716459501f43d66f1bb042f7cc52799cd12541cc38d1f198e95",
+                    "displayName": "Bankless Japan",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf7AF3dBf13634E3458174F6857c5468abBFbB222.png"
+                },
+                {
+                    "id": "0xeb160f81985b97792065ca1fc0e78aefeaae8cf5ffd845321a73a2cda071281b",
+                    "displayName": "Kaito/CoffeeTimes",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7853Eabb6cFa980eBfD27e3F77e69590EA53c0b7.jpeg"
+                },
+                {
+                    "id": "0x00addc381c654e9fa1e7c09cf83f5a9e17552bb123cf482b44f837b4928aec94",
+                    "displayName": "KudasaiJP",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB1b37B24045db80492eEf16dc28fB84fED210a64.png"
+                },
+                {
+                    "id": "0xb8eaf64a68197ba69868bcd9f8340c5ca66ca060428878199e8d9ee7849c896e",
+                    "displayName": "Blockchain na Escola",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x52fb5461fb325C5F8D3e8443ec10527e32dA72e2.png"
+                },
+                {
+                    "id": "0x4e08982cc62798c181d57115ec78b2a0758dbf497814ccd84c2ee1e9dcd9e607",
+                    "displayName": "Modular Crypto",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0AF52E01F87fCE46caf4c5B4C03e879c3441a19F.png"
+                },
+                {
+                    "id": "0xd95e6a7ef1f2e90e9b5143894c25cff890c2e9615a6da55c090f514a7fd2938e",
+                    "displayName": "RoOptimism",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb62E762Af637b49Eb4870BCe8fE21bffF189e495.png"
+                },
+                {
+                    "id": "0xd288468561dab001c87bc5ccd2ff5a9277ad161e90adf2895a8c17c67ebd0041",
+                    "displayName": "Nacion Bankless",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA8F0048A0d1A04663Ca5010d0bEaC5BCAEeA0eef.png"
+                },
+                {
+                    "id": "0x54090220e92626ad3d3cee164a9cd14f808abc69257217691a8b1f0b65e5f551",
+                    "displayName": "Andino - Talent in technology",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x363cDaA139E1Fc64d308aa2129852745676bA680.jpeg"
+                },
+                {
+                    "id": "0xe133a0192b2b9a8b83b1fab0c5edde0c3fd79bc331bc03098c2d2430fbc11e8d",
+                    "displayName": "CryptoConexi\u00f3n",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc4D286963cdED90E479F82495D75b739e1d831B1.png"
+                },
+                {
+                    "id": "0x6770ebe0a793217fc2f14e4e1561ebea466033cb1985671b98a5b698c32244fd",
+                    "displayName": "Cryptoversidad",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x281BA4E9B7e28982d6CB53EE3836865f1453e12F.png"
+                },
+                {
+                    "id": "0xf06599d874b0ba5b14c384a6aec73ec01f731899db046f0cbbfcb529b8265dc7",
+                    "displayName": "Definomics labs",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9390fA8656A161442928b442300358D82bEC28b0.png"
+                },
+                {
+                    "id": "0xfaf5013bca13903a26b1f034486dfbff33161c877a71492d0b9094c087395de1",
+                    "displayName": "Defy Foundation",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0xca1b1b89ca509130a9d710edc317a80878be71dae686786d5b6956653db342ef",
+                    "displayName": "Encriptados",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3a94e60a1a9d7A53765Ceb7dc73880BDB48eE4d0.png"
+                },
+                {
+                    "id": "0xf16d4e5a02c22a3c903a56d614b049b5d83bf9d6705f811b1cd1f4464f5b4ed1",
+                    "displayName": "Espacio Cripto",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xE800Bafa84F3194960d79C13169fFfba2E444dBc.png"
+                },
+                {
+                    "id": "0xf3526ec21d5b1146008c629fe9837f2c5ab099b1590e28dfb7005c126234fb11",
+                    "displayName": "Eth-Volcano",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5a039c597251fCbB574101Fc510a1759cc6871aF.png"
+                },
+                {
+                    "id": "0xf136f5a299e27269045ab60239a6c3897826e7019fb2c534344ad448a16cef8a",
+                    "displayName": "Ethereum Colombia",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD164AF956E0f34Be07a86752fe43AE788F647531.png"
+                },
+                {
+                    "id": "0x8788f5efe99abf2a82ff0c27361baf9321c7601c06599551635aadfdd7980cf9",
+                    "displayName": "Ethereum Lima",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2f6c8F867df4E49e4Fb24741C414f315E266C21B.png"
+                },
+                {
+                    "id": "0x2113aa30f96029c1a9af0c1c15677fb80ecc169fb05b3d0c90e6eb77f5e758c1",
+                    "displayName": "Ethereum Mexico",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x596a9BCad70d07AFF4215b2a17ad36298139fB6C.png"
+                },
+                {
+                    "id": "0x21bd1ffc17577bff57ffab3413191f08a4b1b64bd5c930b5959408ee477d5cf7",
+                    "displayName": "HER LATAM _ Optimistas Brillando en Blockchain",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x72cBF736B721D5266Aca1E6BCC98C526d0ef2FE0.png"
+                },
+                {
+                    "id": "0x4384f12001b8b7bcbf3abe9d0a354378851b34f68634ef0e9cec92152c18c1c2",
+                    "displayName": "Inbest Program",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0263E43c0dE253a0fe354b60d35D2855c514a887.png"
+                },
+                {
+                    "id": "0x7bba50affa4ef77da95d392f7898f12af64ccfec1909d410ad8a2baf2aea8ff3",
+                    "displayName": "Kairos Research",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6D465d2081b799770d0Ce7E755d8dB1665903fFB.png"
+                },
+                {
+                    "id": "0x0c85937f85dae88febd296c6f519f496063cff8970dc90bac38f25908f788fac",
+                    "displayName": "KManuS88",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEdd9701C99a17Bf8Ab54f160217Da55aBe9C56FF.png"
+                },
+                {
+                    "id": "0x94a2384711b5fee8a47509af64f69ef6874a83d7fc9f21003cf8095d80572280",
+                    "displayName": "Lemon",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6fd96a881b72CAD783B0741309B57Cb7d0Bde18a.jpeg"
+                },
+                {
+                    "id": "0xcc390957c2ff178b14d378630b8e99765cba6f4dc5027b3c38e6a1e4e2f8a0da",
+                    "displayName": "Metagals",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc165709Fb45bA0755AE8baB3541150A873866947.png"
+                },
+                {
+                    "id": "0x8c6ef03ae9da84c0fc10a72d404ac170d884ba0252512c08ee58f8fde8131079",
+                    "displayName": "Optimism Espa\u00f1ol",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e4865634EC54dFF742E1a7452a456919B8e277b.jpeg"
+                },
+                {
+                    "id": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
+                    "displayName": "SEED Latam",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0087a081a9B430fd8f688c6ac5dD24421BfB060D.png"
+                },
+                {
+                    "id": "0x9ba3fe96ab1f32ebfdb0514e6531eb365fad843d656aebfdb6953dcdf378bb86",
+                    "displayName": "Solow \ud83d\udc3d",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x929e1b374FB07486c9A64570e5BDA99383f48785.png"
+                },
+                {
+                    "id": "0xd412bec807ece79f76f3534624c7eaa7bc5db63b57110b0893b9f10b9433ffbd",
+                    "displayName": "T2LATAM",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2C2fC22575f5eFF9e4311708eABedA2791957c85.png"
+                },
+                {
+                    "id": "0xf9da7eda8bb30b55c307cb95a5b4a1bff450f55b26ab42e8edf091551590a7d9",
+                    "displayName": "BitcoinAddict Thailand",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCf2DA4D6e7C5B51D1affeCba0a43F583d928dE0c.png"
+                },
+                {
+                    "id": "0xe6e5586ce9589f408344fe0ded216e5fc64bd4ab20d39057820d5923c9d936ae",
+                    "displayName": "CryptoDuck",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB0d37023043099797dfbD2bAefc20f930279dC21.png"
+                },
+                {
+                    "id": "0xad533925a428c7a85a0c69be650285c01feecc1d6eaa75ab47f96be1d8db811c",
+                    "displayName": "Cryptomind Research",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x20958ed81d32f79FCA6eda9A5364AE7908a60D5D.png"
+                },
+                {
+                    "id": "0xd8954972d3580199658bcc9ac03298b4f689ef06fc6f505c853851aa4ca25c41",
+                    "displayName": "daboyshine",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4CDD7811CCEdB0fFd3808B586bcafD6AB0ACb313.png"
+                },
+                {
+                    "id": "0x1a1bdc52701cf3b33ef4d4169a3ff001f866aaf4294ef7b9398f01c5e2e00637",
+                    "displayName": "Peter Priew Sommon",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1F27b0482ace1B82cf7A4f0c55dfc2A05dfCfD75.png"
+                },
+                {
+                    "id": "0xaa1ea2a6a67fcacd76ef8e24de0b32a6227314899a930eb8cbbc7fd5fcc5dd0d",
+                    "displayName": "Thesleeper.eth Thai OP Educator",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x00409fC839a2Ec2e6d12305423d37Cd011279C09.png"
+                },
+                {
+                    "id": "0xc8e743bd0385565571a95fe4333b3a4892fc8f846b76489d3b417e1fb61fad73",
+                    "displayName": "BanklessDAO Turkish",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBd55b361700c3349794aF68879B8a9E0921640Ed.png"
+                },
+                {
+                    "id": "0x50eacddd935ff1aac3538b5e6d9ce744c136259b49521f9d02ca4c01d3c64fef",
+                    "displayName": "Hitasyurek",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x4830764Cb1252Fc7553231E2FBF5b09961a29c59.png"
+                },
+                {
+                    "id": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
+                    "displayName": "ITU Blockchain",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBEC643BD5b7F5e9190617CA4187ef0455950C51C.png"
+                },
+                {
+                    "id": "0xfe10e068dafa65cc7d3acd39b5f5f415de69b70be75a67c338bd367dbdad7850",
+                    "displayName": "ODTU Blockchain",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x07fA3338a53CFAA1911A255F0c3054E800873e77.png"
+                },
+                {
+                    "id": "0x64c7ca00fc9414ad889721dd400f16c690d62bf1b01cb4202cf56dcd183be5d9",
+                    "displayName": "Optimism T\u00fcrkiye",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x47a71c373e3F407f668509c2A6BD46911162bF56.png"
+                },
+                {
+                    "id": "0x611994cd316c183dad42d5973cb2f5e6886082804e67611ee772d2cf7914a133",
+                    "displayName": "BanklessUA",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7292667C8A55bd56d496D2EDcB5Cfb37D554f943.png"
+                },
+                {
+                    "id": "0xf1bb3a9890738dd35e0e32b884ddfd2ca3a748d1723d071f572ab983eda2bc86",
+                    "displayName": "Basic course in blockchain and crypto literacy",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x3f414ca96d84352f4b9a9a5096bb750677a4328e1a9c56830cf3edea12cd4fcb",
+                    "displayName": "First NFT Agency",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xfBeB914c3C9B7a193C92De130A18716097478332.png"
+                },
+                {
+                    "id": "0xde707568dc6837c063c98810d567e0367845f1536a8566e585bd6f335d760793",
+                    "displayName": "XomNFT",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1a1051c39652C0FF81A819DA4283871c3f076a3A.png"
+                }
+            ]
+        },
+        {
+            "id": "0xcab02106739fa2cb8a17adb4be3141dfcddbf68f751700b09c9e2177be21b727",
+            "listName": "Blockchain Education",
+            "impactEvaluationType": "PAIRWISE",
+            "categories": [
+                "PAIRWISE"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
+                    "displayName": "Taz",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png"
+                },
+                {
+                    "id": "0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
+                    "displayName": "Admiano",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png"
+                },
+                {
+                    "id": "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
+                    "displayName": "Rainie",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
+                    "displayName": "ZEFIRIUM",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png"
+                },
+                {
+                    "id": "0x79c3f88b4adb9b32ba1ba2c460097f7f2b43bc1a591e4a6a555f052087724197",
+                    "displayName": "Perelyn",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x8cca21279a5147cbd7a3f1f788a23e55afac2226dc2573e9de72e6586e8f269e",
+                    "displayName": "Mac Budkowski",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760.png"
+                },
+                {
+                    "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
+                    "displayName": "zerokn0wledge",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
+                },
+                {
+                    "id": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
+                    "displayName": "Sassal.eth",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg"
+                },
+                {
+                    "id": "0xcd842be029689ac8c0cb4a6749a1a52875473bc74690e336c076f9f918ec8e5a",
+                    "displayName": "ilyessghz",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x877274b9531669039d60b16f0bb436f30720126fd2c1d4a76d20558a5130a4c4",
+                    "displayName": "DeFI Saint",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf52a30397151C77E732fA5DeFB9347359C52A141.jpeg"
+                },
+                {
+                    "id": "0x708fb4bb4efcfdf20a0ef673daf2df7944f0f2f91f0b607069a2ff822e2cd871",
+                    "displayName": "Faina",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7a48A728d9Fd2d5a55c545c4378E5bA909349E90.jpeg"
+                },
+                {
+                    "id": "0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
+                    "displayName": "criptomommy",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4.png"
+                },
+                {
+                    "id": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
+                    "displayName": "PatrickAlphaC",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png"
+                },
+                {
+                    "id": "0xba2e0392ddef461fea23821d7098b917bab9532d2d2cb297d0449d3a446c9bf7",
+                    "displayName": "jordanmmck",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29FF795B015652EdFB9883bB83B3E9bE3c207e62.jpeg"
+                }
+            ]
+        },
+        {
+            "id": "0xf803ace7c5af5a36f3139e915f875e183986e2737b271ea457ed00fd1b7871e8",
+            "listName": "Blockchain Education",
+            "impactEvaluationType": "PAIRWISE",
+            "categories": [
+                "PAIRWISE"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0x15e84020afaeea9626e882207ad748006bbd2fbdc45b313af4cf2414ae657c90",
+                    "displayName": "Gadgeteer (nanobro)",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x22e2f326FE5A1d07E1214EB1C08346Fd816E8375.jpeg"
+                },
+                {
+                    "id": "0x0273318db298ed4c6df5769fb49e4c8eee3bd95a4f53a4bd6be49c9c7635aee0",
+                    "displayName": "Admiano",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc8111c2689d866A88291811cb5b0B31665F08350.png"
+                },
+                {
+                    "id": "0x067ba045a09b99b82c177c161b7f30317515bf9bd61146e39b9675df99d95da7",
+                    "displayName": "Sassal.eth",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x648aA14e4424e0825A5cE739C8C68610e143FB79.jpeg"
+                },
+                {
+                    "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
+                    "displayName": "zerokn0wledge",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
+                },
+                {
+                    "id": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
+                    "displayName": "Taz",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png"
+                },
+                {
+                    "id": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
+                    "displayName": "PatrickAlphaC",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png"
+                },
+                {
+                    "id": "0x98990a2cabf200f5f321f35a863086577164effafd73e219dd3ef5c5c914631e",
+                    "displayName": "criptomommy",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB3a84330b0C3cd838D9ed9EDc59574207d6825D4.png"
+                },
+                {
+                    "id": "0x8cca21279a5147cbd7a3f1f788a23e55afac2226dc2573e9de72e6586e8f269e",
+                    "displayName": "Mac Budkowski",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3e6c23CdAa52B1B6621dBb30c367d16ace21F760.png"
+                },
+                {
+                    "id": "0x6e5a94f853112c311639f790c45cb7c96431c8f99693e20ef4c9576043f8aa90",
+                    "displayName": "Rainie",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
+                    "displayName": "ZEFIRIUM",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x908cd00EEd3Cda9Cf4a5d4fBbAE7DA327AC5C3Dd.png"
+                }
+            ]
+        }
+    ],
+    "id": "Project|0x43c2a0d6e5bebcd7eae364a99b53dbc985b05447350828bd6e15db92bc27a8ae",
+    "prelimResult": "Keep",
+    "reportReason": "member of the Ambassadors (see duplicate application rule)",
+    "includedInBallots": 23,
+    "primaryCategory": "End User Experience & Adoption",
+    "recategorization": "Evangelism & User Onboarding",
+    "totalOP": 4968.964215556664,
+    "rank": 492
 }

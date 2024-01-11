@@ -1,569 +1,571 @@
 {
-  "bio": "Educating and onboarding the next wave of public goods users & builders to Web3.",
-  "impactCategory": [
-    "DEVELOPER_ECOSYSTEM",
-    "END_USER_EXPERIENCE_AND_ADOPTION"
-  ],
-  "displayName": "Accessible Education for Web3 Public Goods Changemakers",
-  "websiteUrl": "https://www.cryptoaltruism.org/",
-  "applicant": {
-    "address": {
-      "address": "0xA50064D462e17f7091eE62BaebeB18BFEBE21507",
-      "resolvedName": {
-        "address": "0xA50064D462e17f7091eE62BaebeB18BFEBE21507",
-        "name": null
-      }
-    },
-    "id": "Delegate|Delegate|0xA50064D462e17f7091eE62BaebeB18BFEBE21507"
-  },
-  "applicantType": "PROJECT",
-  "profile": {
-    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png",
-    "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png",
-    "id": "OptimistProfile|0x026de98877dae42a169c351ed800b950cc1f12629e63a4db649fc209dfc5674b"
-  },
-  "impactDescription": "-Crypto Altruism\u2019s podcasts have garnered 10,000+ listens since launch. The podcast has championed public goods projects building on optimism \u2013 including Gitcoin, Giveth, Hypercerts, and Endaoment, and broken down complex topics like Quadratic Funding & ZK proofs for prospective builders.\n-The Crypto Altruism website, which houses our blog and podcast, has received over 150,000 visits, with the educational infographics and resources on Quadratic Funding being amongst the most popular for visitors.\n-Recently partnered with Endaoment, who enables on-chain giving on Optimism, on the release of a special 10-part podcast series highlighting nonprofits leveraging blockchain. Each episode has included a short clip from Endaoment introducing their platform, helping to educate potential users. ",
-  "contributionDescription": "For 2.5 years, Crypto Altruism has championed the transformative potential of Web3, helping guide the next wave of users and builders in the public goods domain into the Web3 ecosystem. Founded and bootstrapped by Drew Simon, Crypto Altruism has grown into a movement impacting thousands, bolstering the transformative potential of Web3 tools to advance public goods. Whether it\u2019s builders looking to create something new on Ethereum or L2s like Optimism, or changemakers interested in utilizing existing public goods tools like Gitcoin, Giveth, or Endaoment, we\u2019ve developed accessible educational content including two popular podcasts totaling 130 episodes, and a blog with 250+ articles. At our core, we equip impact leaders with education so they can leverage blockchain to advance public goods.",
-  "contributionLinks": [
-    {
-      "type": "OTHER",
-      "url": "https://www.cryptoaltruism.org/",
-      "description": "Website with repository of all blog posts, podcast episodes, and resources"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://www.cryptoaltruism.org/podcast",
-      "description": "Website for Crypto Altruism podcast with list of episodes"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://www.cryptoaltruism.org/the-web3-nonprofit",
-      "description": "Website for The Web3 Nonprofit podcast with list of episodes"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://www.cryptoaltruism.org/infographics",
-      "description": "Repository for educational infographics"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://www.cryptoaltruism.org/blog/crypto-altruism-podcast-episode-119-giveth-building-the-future-of-giving-by-empowering-a-global-decentralized-altruistic-community",
-      "description": "Podcast episode ft. Giveth"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://www.cryptoaltruism.org/blog/crypto-altruism-podcast-episode94-gitcoin-empowering-communites-to-fund-build-and-protect-what-matters-with-quadratic-funding",
-      "description": "Podcast episode ft. Gitcoin"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://www.cryptoaltruism.org/blog/crypto-altruism-podcast-episode101-hypercerts-tracking-and-rewarding-positive-impact-with-blockchain",
-      "description": "Podcast episode ft. Hypercerts"
-    },
-    {
-      "type": "OTHER",
-      "url": "https://twitter.com/Crypto_Altruism",
-      "description": "Twitter/X profile"
-    }
-  ],
-  "impactMetrics": [
-    {
-      "description": "# of podcast downloads",
-      "number": "11000",
-      "url": "https://drive.google.com/file/d/1PHl_C3TtfTjXNCIeOqkJ4A0kMIWORkaO/view?usp=share_link"
-    },
-    {
-      "description": "Website visits",
-      "number": "150000",
-      "url": "https://drive.google.com/file/d/16e5_y5-9mNPccBS1UBpkutE1eT6LRvke/view?usp=share_link"
-    }
-  ],
-  "fundingSources": [
-    {
-      "type": "OTHER",
-      "currency": "USD",
-      "amount": 750,
-      "description": "Direct community contributions to public wallet, through buy me a coffee, etc."
-    },
-    {
-      "type": "OTHER",
-      "currency": "USD",
-      "amount": 3600,
-      "description": "Funding received from Gitcoin Beta and GG18 rounds"
-    },
-    {
-      "type": "OTHER",
-      "currency": "USD",
-      "amount": 2500,
-      "description": "Sponsorship from Web3 organization"
-    }
-  ],
-  "lists": [
-    {
-      "id": "0x621ff7d34340ce8d0aac2bedb1d18b808aef4ec67763ac83b392702a339e9973",
-      "listName": "Web3 Education & Skill Development",
-      "impactEvaluationType": "PAIRWISE",
-      "categories": [
-        "PAIRWISE"
-      ],
-      "projectsMetadata": [
-        {
-          "id": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
-          "displayName": "Kernel",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98.png"
-        },
-        {
-          "id": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
-          "displayName": "Accessible Education for Web3 Public Goods Changemakers",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png"
-        },
-        {
-          "id": "0x7bb5c5e64a2e1feb76c3d75acdd0ddae11b9851fc3843a303f56d20aa79f52f2",
-          "displayName": "Gravity DAO",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8E3a92f82EA855020BA714e68541192B9bd6c5B1.jpeg"
-        },
-        {
-          "id": "0x4c583402fb44f7b5c40a523b6adcdef402a347eccaec42e0d1e8bb567192150f",
-          "displayName": "Pidgin Parlour",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAE64b79C5bC01e234DD3FFB7EAAa36E92b4dD23B.png"
-        },
-        {
-          "id": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
-          "displayName": "Proof of Integrity",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png"
-        },
-        {
-          "id": "0x83bf88e9bcfd3145bc29b9e866863d9247d24df5ef5f1b66ab2c00c3171269cb",
-          "displayName": "Bored Town NFT art community",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9D63038e7f74bc089eb38e61Be8Da937918900D6.png"
-        },
-        {
-          "id": "0xf1bb3a9890738dd35e0e32b884ddfd2ca3a748d1723d071f572ab983eda2bc86",
-          "displayName": "Basic course in blockchain and crypto literacy",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
-          "displayName": "EthStaker",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png"
-        },
-        {
-          "id": "0xe133a0192b2b9a8b83b1fab0c5edde0c3fd79bc331bc03098c2d2430fbc11e8d",
-          "displayName": "CryptoConexi\u00f3n",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc4D286963cdED90E479F82495D75b739e1d831B1.png"
-        },
-        {
-          "id": "0x6f9d52e23c4a47724e37757726bada03e6e67db75aadd347ae4cb778298462f6",
-          "displayName": "Banklessadria",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAEab2C097bd7a9e5Dbd83fEba500Aa56fB0C5930.png"
-        },
-        {
-          "id": "0xbf404bca5d05ea0935976e34bae30e8e1e3bcc2298b15fa496c2ede18abe7333",
-          "displayName": "far.quest",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e.png"
-        },
-        {
-          "id": "0x943ba99bcd3068656d3510832a537db683d7c7b8946609c1ef86737f0142d266",
-          "displayName": "Optiland Quests",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa6028b948dea97B7Fb0E472e19c9D4E160ed2902.png"
-        },
-        {
-          "id": "0x00bd68443effbeca73ae1cace46556beb5ab69b02d7aedc1706ad2a1b4693c09",
-          "displayName": "Web3xplorer",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB03E094e643a50E145E804b35787C28292E6Afe4.png"
-        },
-        {
-          "id": "0x245b63367b41c9dd64170309ed03a878a5ed402f809a491dc8ff0e4a94e4adc9",
-          "displayName": "DeFi Declassified (OptiNauts NFT collection)",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF90f56AFa1DaE825Db57fc305B2F8F1Ccf337531.png"
-        },
-        {
-          "id": "0xf06599d874b0ba5b14c384a6aec73ec01f731899db046f0cbbfcb529b8265dc7",
-          "displayName": "Definomics labs",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9390fA8656A161442928b442300358D82bEC28b0.png"
-        },
-        {
-          "id": "0x3c44801e4e9d4e4037b4ab715fa1e0554b57ee2ac49e25656517166287e65600",
-          "displayName": "Polynomial Bytes",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa5A0CE7D84025f986568356475451E31714B4C95.png"
-        },
-        {
-          "id": "0x77fed52df52899326c6f32bf7f310beed1bfd2fab75b3c952017e590481846e5",
-          "displayName": "Bankless Academy",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe1887fF140BfA9D3b45D0B2077b7471124acD242.jpeg"
-        },
-        {
-          "id": "0xd2ea00dba1cb56582c77344a4678996d72c35f39c853b3b6b5c6be49876e3018",
-          "displayName": "BlockchainOAU",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd05d9Fd4c48d2aa9E284AF2b501F714f65a5D5D8.png"
-        },
-        {
-          "id": "0xcc390957c2ff178b14d378630b8e99765cba6f4dc5027b3c38e6a1e4e2f8a0da",
-          "displayName": "Metagals",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc165709Fb45bA0755AE8baB3541150A873866947.png"
-        },
-        {
-          "id": "0xdc8392820875414ecc45232f76592a17a65865e1e95411911e2508a2d196a94e",
-          "displayName": "EIP Fun",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEe972E35311F65e6fD8F6ea7228Bf388B53e1D4a.png"
-        },
-        {
-          "id": "0x5a6e4747f075df92f7b5b969f3f0c684efa8cc21c10415509f31abf03f10b810",
-          "displayName": "Optimistic Academy",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDFC65E0292573311DF30eA4De81F941bCd726aB6.png"
-        },
-        {
-          "id": "0x2f75e5c1fce8a95703eff8dbecda9d426edcca1db1b69628e151b57b21bfa25c",
-          "displayName": "MyFirstLayer2",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAcb4313910574b69e8116617105b97993ED8319d.png"
-        },
-        {
-          "id": "0x406c0658a67a02a00dfc381fe68c05f87de91c4d6238a6ce55d71463f4a77f79",
-          "displayName": "The Rollup",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xda9F0E0B550dD09A3751Ccb0f6c07Eea3E5264F3.png"
-        },
-        {
-          "id": "0xe53a74cbaa6c997b130fcf1fc9617aba7d60ad63e595c42e822e3f64e0213ecd",
-          "displayName": "Optimism Guide",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa83926fe58B9bEd62103b540d7eb928f64125979.png"
-        }
-      ]
-    },
-    {
-      "id": "0xe2cd97c6790cc68b37e88b4e804e7adf6b1f9b59c7709458020cf3c466dd2525",
-      "listName": "Web3 Education & Skill Development",
-      "impactEvaluationType": "PAIRWISE",
-      "categories": [
-        "PAIRWISE"
-      ],
-      "projectsMetadata": [
-        {
-          "id": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
-          "displayName": "EthStaker",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png"
-        },
-        {
-          "id": "0xe53a74cbaa6c997b130fcf1fc9617aba7d60ad63e595c42e822e3f64e0213ecd",
-          "displayName": "Optimism Guide",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa83926fe58B9bEd62103b540d7eb928f64125979.png"
-        },
-        {
-          "id": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
-          "displayName": "Proof of Integrity",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png"
-        },
-        {
-          "id": "0x00bd68443effbeca73ae1cace46556beb5ab69b02d7aedc1706ad2a1b4693c09",
-          "displayName": "Web3xplorer",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB03E094e643a50E145E804b35787C28292E6Afe4.png"
-        },
-        {
-          "id": "0x5a6e4747f075df92f7b5b969f3f0c684efa8cc21c10415509f31abf03f10b810",
-          "displayName": "Optimistic Academy",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDFC65E0292573311DF30eA4De81F941bCd726aB6.png"
-        },
-        {
-          "id": "0xbf404bca5d05ea0935976e34bae30e8e1e3bcc2298b15fa496c2ede18abe7333",
-          "displayName": "far.quest",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e.png"
-        },
-        {
-          "id": "0x2f75e5c1fce8a95703eff8dbecda9d426edcca1db1b69628e151b57b21bfa25c",
-          "displayName": "MyFirstLayer2",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAcb4313910574b69e8116617105b97993ED8319d.png"
-        },
-        {
-          "id": "0x406c0658a67a02a00dfc381fe68c05f87de91c4d6238a6ce55d71463f4a77f79",
-          "displayName": "The Rollup",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xda9F0E0B550dD09A3751Ccb0f6c07Eea3E5264F3.png"
-        },
-        {
-          "id": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
-          "displayName": "Accessible Education for Web3 Public Goods Changemakers",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png"
-        },
-        {
-          "id": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
-          "displayName": "Kernel",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98.png"
-        },
-        {
-          "id": "0xf06599d874b0ba5b14c384a6aec73ec01f731899db046f0cbbfcb529b8265dc7",
-          "displayName": "Definomics labs",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9390fA8656A161442928b442300358D82bEC28b0.png"
-        },
-        {
-          "id": "0xdc8392820875414ecc45232f76592a17a65865e1e95411911e2508a2d196a94e",
-          "displayName": "EIP Fun",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEe972E35311F65e6fD8F6ea7228Bf388B53e1D4a.png"
-        },
-        {
-          "id": "0xcc390957c2ff178b14d378630b8e99765cba6f4dc5027b3c38e6a1e4e2f8a0da",
-          "displayName": "Metagals",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc165709Fb45bA0755AE8baB3541150A873866947.png"
-        },
-        {
-          "id": "0x3c44801e4e9d4e4037b4ab715fa1e0554b57ee2ac49e25656517166287e65600",
-          "displayName": "Polynomial Bytes",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa5A0CE7D84025f986568356475451E31714B4C95.png"
-        }
-      ]
-    },
-    {
-      "id": "0x1d1c5bf15f232e45fb782c7f048a6d829f9335aebc1fa5e682de5b753a14ab54",
-      "listName": "Web3 Education & Skill Development",
-      "impactEvaluationType": "PAIRWISE",
-      "categories": [
-        "PAIRWISE"
-      ],
-      "projectsMetadata": [
-        {
-          "id": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
-          "displayName": "Kernel",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98.png"
-        },
-        {
-          "id": "0xcc390957c2ff178b14d378630b8e99765cba6f4dc5027b3c38e6a1e4e2f8a0da",
-          "displayName": "Metagals",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc165709Fb45bA0755AE8baB3541150A873866947.png"
-        },
-        {
-          "id": "0x7bb5c5e64a2e1feb76c3d75acdd0ddae11b9851fc3843a303f56d20aa79f52f2",
-          "displayName": "Gravity DAO",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8E3a92f82EA855020BA714e68541192B9bd6c5B1.jpeg"
-        },
-        {
-          "id": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
-          "displayName": "Proof of Integrity",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png"
-        },
-        {
-          "id": "0xbf404bca5d05ea0935976e34bae30e8e1e3bcc2298b15fa496c2ede18abe7333",
-          "displayName": "far.quest",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e.png"
-        },
-        {
-          "id": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
-          "displayName": "EthStaker",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png"
-        },
-        {
-          "id": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
-          "displayName": "Accessible Education for Web3 Public Goods Changemakers",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png"
-        }
-      ]
-    },
-    {
-      "id": "0x633954dfd0b833cd81558bab8b460e00dd112217b320600a6a64bc3de7e48bd4",
-      "listName": "Joan's Education List",
-      "impactEvaluationType": "BADGEHOLDER",
-      "categories": [
+    "bio": "Educating and onboarding the next wave of public goods users & builders to Web3.",
+    "impactCategory": [
+        "DEVELOPER_ECOSYSTEM",
         "END_USER_EXPERIENCE_AND_ADOPTION"
-      ],
-      "projectsMetadata": [
-        {
-          "id": "0x2f0277bbde0a1e3e8ea5e6d2f2e7548f763589963af75e14035401e2c27c7b26",
-          "displayName": "Optimism Vision Reservoir",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x66D071A20d7942767739BBca130E08e4848D12Bc.png"
+    ],
+    "displayName": "Accessible Education for Web3 Public Goods Changemakers",
+    "websiteUrl": "https://www.cryptoaltruism.org/",
+    "applicant": {
+        "address": {
+            "address": "0xA50064D462e17f7091eE62BaebeB18BFEBE21507",
+            "resolvedName": {
+                "address": "0xA50064D462e17f7091eE62BaebeB18BFEBE21507",
+                "name": null
+            }
         },
-        {
-          "id": "0x5a6e4747f075df92f7b5b969f3f0c684efa8cc21c10415509f31abf03f10b810",
-          "displayName": "Optimistic Academy",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDFC65E0292573311DF30eA4De81F941bCd726aB6.png"
-        },
-        {
-          "id": "0x557bf27e3e62e0f9cefaf40b9a36e24440ff5eca45d73f3a85072cf18b04ee57",
-          "displayName": "Optimism University",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5794e3BA7391b2b9806B738b20c3F2099e16Dd5d.png"
-        },
-        {
-          "id": "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
-          "displayName": "RetroPGF Hub",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065.png"
-        },
-        {
-          "id": "0xe53a74cbaa6c997b130fcf1fc9617aba7d60ad63e595c42e822e3f64e0213ecd",
-          "displayName": "Optimism Guide",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa83926fe58B9bEd62103b540d7eb928f64125979.png"
-        },
-        {
-          "id": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
-          "displayName": "Optimism Resource Center",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png"
-        },
-        {
-          "id": "0xb7dabe6cef237688405965319267646c67ea6c664a4487c1c70f8da3abe5173b",
-          "displayName": "IC3",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBF430a49C4d85AeeD3908619D5387A1fbF8E74A9.png"
-        },
-        {
-          "id": "0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
-          "displayName": "RadicalxChange Foundation",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3945D766185E2264900C84faC10958B3619C2bD4.png"
-        },
-        {
-          "id": "0x97c886fb0d5a8bfab9a5fc21425872c711d020d8ba98d381b4d122301d2937ce",
-          "displayName": "Summer of Protocols",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x10F5d45854e038071485AC9e402308cF80D2d2fE.png"
-        },
-        {
-          "id": "0x0ace9050e3c67022816825143db0a483647bc719202adffc555e04b4bfd4f522",
-          "displayName": "Token Engineering Academy",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3b067Af83F540cB827825a6Ee5480441a4237E77.png"
-        },
-        {
-          "id": "0x77fed52df52899326c6f32bf7f310beed1bfd2fab75b3c952017e590481846e5",
-          "displayName": "Bankless Academy",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe1887fF140BfA9D3b45D0B2077b7471124acD242.jpeg"
-        },
-        {
-          "id": "0x8e8fab198e1f1e986b4d0c24992f1a57d42722a835c8afd80c5150184727b433",
-          "displayName": "\ud83c\udff0 BuidlGuidl",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85.png"
-        },
-        {
-          "id": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
-          "displayName": "Kernel",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98.png"
-        },
-        {
-          "id": "0xd0be450b707867d713e589deeeb24b3edc78e417cf673c0ea25f537b9e6f8bb3",
-          "displayName": "LearnWeb3",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0D1f2Bd5351a65a78Ac0BeF3C8fAEf643C046508.png"
-        },
-        {
-          "id": "0x0fd702364b086485a727ee20c94abe75c1c916e9ad9c6dc17eff8c64487dfd8a",
-          "displayName": "WTF Academy",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x25df6DA2f4e5C178DdFF45038378C0b08E0Bce54.png"
-        },
-        {
-          "id": "0xa4593794fec99c360105db59a4a337a2ce652f6259448462b75db63de702ba8f",
-          "displayName": "CryptoZombies",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbb105E3c6D6406A3F0aAB98cD8D0E3a127bD6436.png"
-        },
-        {
-          "id": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
-          "displayName": "Taz",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png"
-        },
-        {
-          "id": "0xcc7d599bd163798695c68910ae40ea5da4f548b2c141525f461fab0d9c1f62dd",
-          "displayName": "Protofire Blockchain Learning Path",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5fC34D03cFdf145Db5f3c5B5558e39a4164AAa30.png"
-        },
-        {
-          "id": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
-          "displayName": "PatrickAlphaC",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png"
-        },
-        {
-          "id": "0x3cda55b2201bc6838291f6dc8d6325d321f4b011d91f4e6dcd14371751ee3a2b",
-          "displayName": "0xs34n",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x2f75e5c1fce8a95703eff8dbecda9d426edcca1db1b69628e151b57b21bfa25c",
-          "displayName": "MyFirstLayer2",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAcb4313910574b69e8116617105b97993ED8319d.png"
-        },
-        {
-          "id": "0x6093215024946600fa2f854f941d918ea3a7f11283cb4e430969c36937b39e66",
-          "displayName": "MetricsDAO",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa0F00e59ef57D82449ACcB05b9512A47b264374b.png"
-        },
-        {
-          "id": "0x1dfca7cffa9babbcc0b9646e2e620da444285f4dc7d6e7f3692446ffe4d6b66b",
-          "displayName": "The Ethernaut",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7D5a44baad1992092504bb8DCA602615fCe09351.png"
-        },
-        {
-          "id": "0xa1b12a1d4c48cbadb8b289144ef65fa5570ccd6e62e076c91f8009f5175fa0ba",
-          "displayName": "Layer3",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
-          "displayName": "Accessible Education for Web3 Public Goods Changemakers",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png"
-        },
-        {
-          "id": "0xf451d8a3046d53c14c1ccbeca4b8f082cc08b08434a510226efcc9d48a55c954",
-          "displayName": "Bankless Publishing",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3df13B9bd79158f0cccDDd0833cF774178e3d2e9.png"
-        },
-        {
-          "id": "0xba2e0392ddef461fea23821d7098b917bab9532d2d2cb297d0449d3a446c9bf7",
-          "displayName": "jordanmmck",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29FF795B015652EdFB9883bB83B3E9bE3c207e62.jpeg"
-        },
-        {
-          "id": "0xabf8a11afc616116d966b45900c77737cbe34dcdab0198c17c3376e1526d6403",
-          "displayName": "Zero Knowledge Podcast",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701.png"
-        },
-        {
-          "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
-          "displayName": "zerokn0wledge",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
-        },
-        {
-          "id": "0x406c0658a67a02a00dfc381fe68c05f87de91c4d6238a6ce55d71463f4a77f79",
-          "displayName": "The Rollup",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xda9F0E0B550dD09A3751Ccb0f6c07Eea3E5264F3.png"
-        },
-        {
-          "id": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
-          "displayName": "EthStaker",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png"
-        },
-        {
-          "id": "0x39b4a7a07052cd200b017579a2717911881ffd3ed4bd94c085ba08435373c855",
-          "displayName": "EthernautDAO",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1AA5A532FC4fEF0F79ad95338694cbF54327ebA4.png"
-        },
-        {
-          "id": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
-          "displayName": "Proof of Integrity",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png"
-        }
-      ]
+        "id": "Delegate|Delegate|0xA50064D462e17f7091eE62BaebeB18BFEBE21507"
     },
-    {
-      "id": "0xfd89261f78d90d6eed33cebfb1092480d38b8296be0ffcce47fc511452211aa8",
-      "listName": "Teeest List",
-      "impactEvaluationType": "OTHER",
-      "categories": [
-        "DEVELOPER_ECOSYSTEM"
-      ],
-      "projectsMetadata": [
+    "applicantType": "PROJECT",
+    "profile": {
+        "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png",
+        "bannerImageUrl": "https://content.optimism.io/profile/v0/banner-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png",
+        "id": "OptimistProfile|0x026de98877dae42a169c351ed800b950cc1f12629e63a4db649fc209dfc5674b"
+    },
+    "impactDescription": "-Crypto Altruism\u2019s podcasts have garnered 10,000+ listens since launch. The podcast has championed public goods projects building on optimism \u2013 including Gitcoin, Giveth, Hypercerts, and Endaoment, and broken down complex topics like Quadratic Funding & ZK proofs for prospective builders.\n-The Crypto Altruism website, which houses our blog and podcast, has received over 150,000 visits, with the educational infographics and resources on Quadratic Funding being amongst the most popular for visitors.\n-Recently partnered with Endaoment, who enables on-chain giving on Optimism, on the release of a special 10-part podcast series highlighting nonprofits leveraging blockchain. Each episode has included a short clip from Endaoment introducing their platform, helping to educate potential users. ",
+    "contributionDescription": "For 2.5 years, Crypto Altruism has championed the transformative potential of Web3, helping guide the next wave of users and builders in the public goods domain into the Web3 ecosystem. Founded and bootstrapped by Drew Simon, Crypto Altruism has grown into a movement impacting thousands, bolstering the transformative potential of Web3 tools to advance public goods. Whether it\u2019s builders looking to create something new on Ethereum or L2s like Optimism, or changemakers interested in utilizing existing public goods tools like Gitcoin, Giveth, or Endaoment, we\u2019ve developed accessible educational content including two popular podcasts totaling 130 episodes, and a blog with 250+ articles. At our core, we equip impact leaders with education so they can leverage blockchain to advance public goods.",
+    "contributionLinks": [
         {
-          "id": "0xb7fe6ccc4321cf93f9a1db80a1706b436d2b5551e123a76658ab469ceede727b",
-          "displayName": "0xKhmer",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2D8EA9BCf57A8456085947AB4752f3f9104FC7DB.png"
+            "type": "OTHER",
+            "url": "https://www.cryptoaltruism.org/",
+            "description": "Website with repository of all blog posts, podcast episodes, and resources"
         },
         {
-          "id": "0x663699125622325c65b1c0dd1722e08979ea0707b0735ab5a8de88093f684685",
-          "displayName": "6551 Studio",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6.png"
+            "type": "OTHER",
+            "url": "https://www.cryptoaltruism.org/podcast",
+            "description": "Website for Crypto Altruism podcast with list of episodes"
         },
         {
-          "id": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
-          "displayName": "Accessible Education for Web3 Public Goods Changemakers",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png"
+            "type": "OTHER",
+            "url": "https://www.cryptoaltruism.org/the-web3-nonprofit",
+            "description": "Website for The Web3 Nonprofit podcast with list of episodes"
         },
         {
-          "id": "0x5877a25584b8265a19cf231a146118b2e7b46a4e7ae9ddadddfd664b903192b1",
-          "displayName": "Flexible Voting",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF138f8e006947d4482458510AB701299F46c12a3.png"
+            "type": "OTHER",
+            "url": "https://www.cryptoaltruism.org/infographics",
+            "description": "Repository for educational infographics"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://www.cryptoaltruism.org/blog/crypto-altruism-podcast-episode-119-giveth-building-the-future-of-giving-by-empowering-a-global-decentralized-altruistic-community",
+            "description": "Podcast episode ft. Giveth"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://www.cryptoaltruism.org/blog/crypto-altruism-podcast-episode94-gitcoin-empowering-communites-to-fund-build-and-protect-what-matters-with-quadratic-funding",
+            "description": "Podcast episode ft. Gitcoin"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://www.cryptoaltruism.org/blog/crypto-altruism-podcast-episode101-hypercerts-tracking-and-rewarding-positive-impact-with-blockchain",
+            "description": "Podcast episode ft. Hypercerts"
+        },
+        {
+            "type": "OTHER",
+            "url": "https://twitter.com/Crypto_Altruism",
+            "description": "Twitter/X profile"
         }
-      ]
-    }
-  ],
-  "id": "Project|0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
-  "prelimResult": "Keep",
-  "reportReason": "",
-  "includedInBallots": 22,
-  "primaryCategory": "End User Experience & Adoption",
-  "recategorization": "Discovery Tooling"
+    ],
+    "impactMetrics": [
+        {
+            "description": "# of podcast downloads",
+            "number": "11000",
+            "url": "https://drive.google.com/file/d/1PHl_C3TtfTjXNCIeOqkJ4A0kMIWORkaO/view?usp=share_link"
+        },
+        {
+            "description": "Website visits",
+            "number": "150000",
+            "url": "https://drive.google.com/file/d/16e5_y5-9mNPccBS1UBpkutE1eT6LRvke/view?usp=share_link"
+        }
+    ],
+    "fundingSources": [
+        {
+            "type": "OTHER",
+            "currency": "USD",
+            "amount": 750,
+            "description": "Direct community contributions to public wallet, through buy me a coffee, etc."
+        },
+        {
+            "type": "OTHER",
+            "currency": "USD",
+            "amount": 3600,
+            "description": "Funding received from Gitcoin Beta and GG18 rounds"
+        },
+        {
+            "type": "OTHER",
+            "currency": "USD",
+            "amount": 2500,
+            "description": "Sponsorship from Web3 organization"
+        }
+    ],
+    "lists": [
+        {
+            "id": "0x621ff7d34340ce8d0aac2bedb1d18b808aef4ec67763ac83b392702a339e9973",
+            "listName": "Web3 Education & Skill Development",
+            "impactEvaluationType": "PAIRWISE",
+            "categories": [
+                "PAIRWISE"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
+                    "displayName": "Kernel",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98.png"
+                },
+                {
+                    "id": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
+                    "displayName": "Accessible Education for Web3 Public Goods Changemakers",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png"
+                },
+                {
+                    "id": "0x7bb5c5e64a2e1feb76c3d75acdd0ddae11b9851fc3843a303f56d20aa79f52f2",
+                    "displayName": "Gravity DAO",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8E3a92f82EA855020BA714e68541192B9bd6c5B1.jpeg"
+                },
+                {
+                    "id": "0x4c583402fb44f7b5c40a523b6adcdef402a347eccaec42e0d1e8bb567192150f",
+                    "displayName": "Pidgin Parlour",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAE64b79C5bC01e234DD3FFB7EAAa36E92b4dD23B.png"
+                },
+                {
+                    "id": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+                    "displayName": "Proof of Integrity",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png"
+                },
+                {
+                    "id": "0x83bf88e9bcfd3145bc29b9e866863d9247d24df5ef5f1b66ab2c00c3171269cb",
+                    "displayName": "Bored Town NFT art community",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9D63038e7f74bc089eb38e61Be8Da937918900D6.png"
+                },
+                {
+                    "id": "0xf1bb3a9890738dd35e0e32b884ddfd2ca3a748d1723d071f572ab983eda2bc86",
+                    "displayName": "Basic course in blockchain and crypto literacy",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+                    "displayName": "EthStaker",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png"
+                },
+                {
+                    "id": "0xe133a0192b2b9a8b83b1fab0c5edde0c3fd79bc331bc03098c2d2430fbc11e8d",
+                    "displayName": "CryptoConexi\u00f3n",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc4D286963cdED90E479F82495D75b739e1d831B1.png"
+                },
+                {
+                    "id": "0x6f9d52e23c4a47724e37757726bada03e6e67db75aadd347ae4cb778298462f6",
+                    "displayName": "Banklessadria",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAEab2C097bd7a9e5Dbd83fEba500Aa56fB0C5930.png"
+                },
+                {
+                    "id": "0xbf404bca5d05ea0935976e34bae30e8e1e3bcc2298b15fa496c2ede18abe7333",
+                    "displayName": "far.quest",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e.png"
+                },
+                {
+                    "id": "0x943ba99bcd3068656d3510832a537db683d7c7b8946609c1ef86737f0142d266",
+                    "displayName": "Optiland Quests",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa6028b948dea97B7Fb0E472e19c9D4E160ed2902.png"
+                },
+                {
+                    "id": "0x00bd68443effbeca73ae1cace46556beb5ab69b02d7aedc1706ad2a1b4693c09",
+                    "displayName": "Web3xplorer",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB03E094e643a50E145E804b35787C28292E6Afe4.png"
+                },
+                {
+                    "id": "0x245b63367b41c9dd64170309ed03a878a5ed402f809a491dc8ff0e4a94e4adc9",
+                    "displayName": "DeFi Declassified (OptiNauts NFT collection)",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF90f56AFa1DaE825Db57fc305B2F8F1Ccf337531.png"
+                },
+                {
+                    "id": "0xf06599d874b0ba5b14c384a6aec73ec01f731899db046f0cbbfcb529b8265dc7",
+                    "displayName": "Definomics labs",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9390fA8656A161442928b442300358D82bEC28b0.png"
+                },
+                {
+                    "id": "0x3c44801e4e9d4e4037b4ab715fa1e0554b57ee2ac49e25656517166287e65600",
+                    "displayName": "Polynomial Bytes",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa5A0CE7D84025f986568356475451E31714B4C95.png"
+                },
+                {
+                    "id": "0x77fed52df52899326c6f32bf7f310beed1bfd2fab75b3c952017e590481846e5",
+                    "displayName": "Bankless Academy",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe1887fF140BfA9D3b45D0B2077b7471124acD242.jpeg"
+                },
+                {
+                    "id": "0xd2ea00dba1cb56582c77344a4678996d72c35f39c853b3b6b5c6be49876e3018",
+                    "displayName": "BlockchainOAU",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd05d9Fd4c48d2aa9E284AF2b501F714f65a5D5D8.png"
+                },
+                {
+                    "id": "0xcc390957c2ff178b14d378630b8e99765cba6f4dc5027b3c38e6a1e4e2f8a0da",
+                    "displayName": "Metagals",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc165709Fb45bA0755AE8baB3541150A873866947.png"
+                },
+                {
+                    "id": "0xdc8392820875414ecc45232f76592a17a65865e1e95411911e2508a2d196a94e",
+                    "displayName": "EIP Fun",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEe972E35311F65e6fD8F6ea7228Bf388B53e1D4a.png"
+                },
+                {
+                    "id": "0x5a6e4747f075df92f7b5b969f3f0c684efa8cc21c10415509f31abf03f10b810",
+                    "displayName": "Optimistic Academy",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDFC65E0292573311DF30eA4De81F941bCd726aB6.png"
+                },
+                {
+                    "id": "0x2f75e5c1fce8a95703eff8dbecda9d426edcca1db1b69628e151b57b21bfa25c",
+                    "displayName": "MyFirstLayer2",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAcb4313910574b69e8116617105b97993ED8319d.png"
+                },
+                {
+                    "id": "0x406c0658a67a02a00dfc381fe68c05f87de91c4d6238a6ce55d71463f4a77f79",
+                    "displayName": "The Rollup",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xda9F0E0B550dD09A3751Ccb0f6c07Eea3E5264F3.png"
+                },
+                {
+                    "id": "0xe53a74cbaa6c997b130fcf1fc9617aba7d60ad63e595c42e822e3f64e0213ecd",
+                    "displayName": "Optimism Guide",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa83926fe58B9bEd62103b540d7eb928f64125979.png"
+                }
+            ]
+        },
+        {
+            "id": "0xe2cd97c6790cc68b37e88b4e804e7adf6b1f9b59c7709458020cf3c466dd2525",
+            "listName": "Web3 Education & Skill Development",
+            "impactEvaluationType": "PAIRWISE",
+            "categories": [
+                "PAIRWISE"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+                    "displayName": "EthStaker",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png"
+                },
+                {
+                    "id": "0xe53a74cbaa6c997b130fcf1fc9617aba7d60ad63e595c42e822e3f64e0213ecd",
+                    "displayName": "Optimism Guide",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa83926fe58B9bEd62103b540d7eb928f64125979.png"
+                },
+                {
+                    "id": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+                    "displayName": "Proof of Integrity",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png"
+                },
+                {
+                    "id": "0x00bd68443effbeca73ae1cace46556beb5ab69b02d7aedc1706ad2a1b4693c09",
+                    "displayName": "Web3xplorer",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xB03E094e643a50E145E804b35787C28292E6Afe4.png"
+                },
+                {
+                    "id": "0x5a6e4747f075df92f7b5b969f3f0c684efa8cc21c10415509f31abf03f10b810",
+                    "displayName": "Optimistic Academy",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDFC65E0292573311DF30eA4De81F941bCd726aB6.png"
+                },
+                {
+                    "id": "0xbf404bca5d05ea0935976e34bae30e8e1e3bcc2298b15fa496c2ede18abe7333",
+                    "displayName": "far.quest",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e.png"
+                },
+                {
+                    "id": "0x2f75e5c1fce8a95703eff8dbecda9d426edcca1db1b69628e151b57b21bfa25c",
+                    "displayName": "MyFirstLayer2",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAcb4313910574b69e8116617105b97993ED8319d.png"
+                },
+                {
+                    "id": "0x406c0658a67a02a00dfc381fe68c05f87de91c4d6238a6ce55d71463f4a77f79",
+                    "displayName": "The Rollup",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xda9F0E0B550dD09A3751Ccb0f6c07Eea3E5264F3.png"
+                },
+                {
+                    "id": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
+                    "displayName": "Accessible Education for Web3 Public Goods Changemakers",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png"
+                },
+                {
+                    "id": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
+                    "displayName": "Kernel",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98.png"
+                },
+                {
+                    "id": "0xf06599d874b0ba5b14c384a6aec73ec01f731899db046f0cbbfcb529b8265dc7",
+                    "displayName": "Definomics labs",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x9390fA8656A161442928b442300358D82bEC28b0.png"
+                },
+                {
+                    "id": "0xdc8392820875414ecc45232f76592a17a65865e1e95411911e2508a2d196a94e",
+                    "displayName": "EIP Fun",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xEe972E35311F65e6fD8F6ea7228Bf388B53e1D4a.png"
+                },
+                {
+                    "id": "0xcc390957c2ff178b14d378630b8e99765cba6f4dc5027b3c38e6a1e4e2f8a0da",
+                    "displayName": "Metagals",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc165709Fb45bA0755AE8baB3541150A873866947.png"
+                },
+                {
+                    "id": "0x3c44801e4e9d4e4037b4ab715fa1e0554b57ee2ac49e25656517166287e65600",
+                    "displayName": "Polynomial Bytes",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa5A0CE7D84025f986568356475451E31714B4C95.png"
+                }
+            ]
+        },
+        {
+            "id": "0x1d1c5bf15f232e45fb782c7f048a6d829f9335aebc1fa5e682de5b753a14ab54",
+            "listName": "Web3 Education & Skill Development",
+            "impactEvaluationType": "PAIRWISE",
+            "categories": [
+                "PAIRWISE"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
+                    "displayName": "Kernel",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98.png"
+                },
+                {
+                    "id": "0xcc390957c2ff178b14d378630b8e99765cba6f4dc5027b3c38e6a1e4e2f8a0da",
+                    "displayName": "Metagals",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xc165709Fb45bA0755AE8baB3541150A873866947.png"
+                },
+                {
+                    "id": "0x7bb5c5e64a2e1feb76c3d75acdd0ddae11b9851fc3843a303f56d20aa79f52f2",
+                    "displayName": "Gravity DAO",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x8E3a92f82EA855020BA714e68541192B9bd6c5B1.jpeg"
+                },
+                {
+                    "id": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+                    "displayName": "Proof of Integrity",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png"
+                },
+                {
+                    "id": "0xbf404bca5d05ea0935976e34bae30e8e1e3bcc2298b15fa496c2ede18abe7333",
+                    "displayName": "far.quest",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x997b0CcEd542b6d2A7e0Bae5649aFd9d0861CB4e.png"
+                },
+                {
+                    "id": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+                    "displayName": "EthStaker",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png"
+                },
+                {
+                    "id": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
+                    "displayName": "Accessible Education for Web3 Public Goods Changemakers",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png"
+                }
+            ]
+        },
+        {
+            "id": "0x633954dfd0b833cd81558bab8b460e00dd112217b320600a6a64bc3de7e48bd4",
+            "listName": "Joan's Education List",
+            "impactEvaluationType": "BADGEHOLDER",
+            "categories": [
+                "END_USER_EXPERIENCE_AND_ADOPTION"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0x2f0277bbde0a1e3e8ea5e6d2f2e7548f763589963af75e14035401e2c27c7b26",
+                    "displayName": "Optimism Vision Reservoir",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x66D071A20d7942767739BBca130E08e4848D12Bc.png"
+                },
+                {
+                    "id": "0x5a6e4747f075df92f7b5b969f3f0c684efa8cc21c10415509f31abf03f10b810",
+                    "displayName": "Optimistic Academy",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xDFC65E0292573311DF30eA4De81F941bCd726aB6.png"
+                },
+                {
+                    "id": "0x557bf27e3e62e0f9cefaf40b9a36e24440ff5eca45d73f3a85072cf18b04ee57",
+                    "displayName": "Optimism University",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5794e3BA7391b2b9806B738b20c3F2099e16Dd5d.png"
+                },
+                {
+                    "id": "0xc63c8e9977983d1688a88e68cee691115ba7bbd32d485df49233c10a041acddf",
+                    "displayName": "RetroPGF Hub",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6FdfD0Dee3e2aa16bA6c70B1398E640735D5C065.png"
+                },
+                {
+                    "id": "0xe53a74cbaa6c997b130fcf1fc9617aba7d60ad63e595c42e822e3f64e0213ecd",
+                    "displayName": "Optimism Guide",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa83926fe58B9bEd62103b540d7eb928f64125979.png"
+                },
+                {
+                    "id": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
+                    "displayName": "Optimism Resource Center",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png"
+                },
+                {
+                    "id": "0xb7dabe6cef237688405965319267646c67ea6c664a4487c1c70f8da3abe5173b",
+                    "displayName": "IC3",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBF430a49C4d85AeeD3908619D5387A1fbF8E74A9.png"
+                },
+                {
+                    "id": "0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
+                    "displayName": "RadicalxChange Foundation",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3945D766185E2264900C84faC10958B3619C2bD4.png"
+                },
+                {
+                    "id": "0x97c886fb0d5a8bfab9a5fc21425872c711d020d8ba98d381b4d122301d2937ce",
+                    "displayName": "Summer of Protocols",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x10F5d45854e038071485AC9e402308cF80D2d2fE.png"
+                },
+                {
+                    "id": "0x0ace9050e3c67022816825143db0a483647bc719202adffc555e04b4bfd4f522",
+                    "displayName": "Token Engineering Academy",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3b067Af83F540cB827825a6Ee5480441a4237E77.png"
+                },
+                {
+                    "id": "0x77fed52df52899326c6f32bf7f310beed1bfd2fab75b3c952017e590481846e5",
+                    "displayName": "Bankless Academy",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xe1887fF140BfA9D3b45D0B2077b7471124acD242.jpeg"
+                },
+                {
+                    "id": "0x8e8fab198e1f1e986b4d0c24992f1a57d42722a835c8afd80c5150184727b433",
+                    "displayName": "\ud83c\udff0 BuidlGuidl",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6746E304b9e37cb4B878ca9878f8b6fd7F7fBf85.png"
+                },
+                {
+                    "id": "0x9314a90f51d8187f3d317091c9ef15a4c14a0eee1a8c1d97318187cc0e0cc63f",
+                    "displayName": "Kernel",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xC728DEa8B2972E6e07493BE8DC2F0314F7dC3E98.png"
+                },
+                {
+                    "id": "0xd0be450b707867d713e589deeeb24b3edc78e417cf673c0ea25f537b9e6f8bb3",
+                    "displayName": "LearnWeb3",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0D1f2Bd5351a65a78Ac0BeF3C8fAEf643C046508.png"
+                },
+                {
+                    "id": "0x0fd702364b086485a727ee20c94abe75c1c916e9ad9c6dc17eff8c64487dfd8a",
+                    "displayName": "WTF Academy",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x25df6DA2f4e5C178DdFF45038378C0b08E0Bce54.png"
+                },
+                {
+                    "id": "0xa4593794fec99c360105db59a4a337a2ce652f6259448462b75db63de702ba8f",
+                    "displayName": "CryptoZombies",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xbb105E3c6D6406A3F0aAB98cD8D0E3a127bD6436.png"
+                },
+                {
+                    "id": "0xef2ca4e31c3116f3bc99105c6c10d5bfc7ecfd73b79dde360ea76340c893b105",
+                    "displayName": "Taz",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFab488A8Eb04c6c211CBFd15B1da021A9CC0Bd0c.png"
+                },
+                {
+                    "id": "0xcc7d599bd163798695c68910ae40ea5da4f548b2c141525f461fab0d9c1f62dd",
+                    "displayName": "Protofire Blockchain Learning Path",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5fC34D03cFdf145Db5f3c5B5558e39a4164AAa30.png"
+                },
+                {
+                    "id": "0xd1e86a9b127451b05ffe296b0c0dca96d1067402c84b8a075c00cc32bd26da5f",
+                    "displayName": "PatrickAlphaC",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2Ee6EDf2F5f5C8550CBf99628AA26b71FC23039e.png"
+                },
+                {
+                    "id": "0x3cda55b2201bc6838291f6dc8d6325d321f4b011d91f4e6dcd14371751ee3a2b",
+                    "displayName": "0xs34n",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x2f75e5c1fce8a95703eff8dbecda9d426edcca1db1b69628e151b57b21bfa25c",
+                    "displayName": "MyFirstLayer2",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xAcb4313910574b69e8116617105b97993ED8319d.png"
+                },
+                {
+                    "id": "0x6093215024946600fa2f854f941d918ea3a7f11283cb4e430969c36937b39e66",
+                    "displayName": "MetricsDAO",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xa0F00e59ef57D82449ACcB05b9512A47b264374b.png"
+                },
+                {
+                    "id": "0x1dfca7cffa9babbcc0b9646e2e620da444285f4dc7d6e7f3692446ffe4d6b66b",
+                    "displayName": "The Ethernaut",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7D5a44baad1992092504bb8DCA602615fCe09351.png"
+                },
+                {
+                    "id": "0xa1b12a1d4c48cbadb8b289144ef65fa5570ccd6e62e076c91f8009f5175fa0ba",
+                    "displayName": "Layer3",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
+                    "displayName": "Accessible Education for Web3 Public Goods Changemakers",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png"
+                },
+                {
+                    "id": "0xf451d8a3046d53c14c1ccbeca4b8f082cc08b08434a510226efcc9d48a55c954",
+                    "displayName": "Bankless Publishing",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3df13B9bd79158f0cccDDd0833cF774178e3d2e9.png"
+                },
+                {
+                    "id": "0xba2e0392ddef461fea23821d7098b917bab9532d2d2cb297d0449d3a446c9bf7",
+                    "displayName": "jordanmmck",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x29FF795B015652EdFB9883bB83B3E9bE3c207e62.jpeg"
+                },
+                {
+                    "id": "0xabf8a11afc616116d966b45900c77737cbe34dcdab0198c17c3376e1526d6403",
+                    "displayName": "Zero Knowledge Podcast",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0b0E6486648FBBb8E9ab33e3ae9D0B44B6faa701.png"
+                },
+                {
+                    "id": "0x77546f9209cf30b9a081467e9b5f6da1e59fd326fadae829fb8c50e2a64ad3fe",
+                    "displayName": "zerokn0wledge",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xCb31f0beCfc9D011676E7F84CbCD10fe4717f252.jpeg"
+                },
+                {
+                    "id": "0x406c0658a67a02a00dfc381fe68c05f87de91c4d6238a6ce55d71463f4a77f79",
+                    "displayName": "The Rollup",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xda9F0E0B550dD09A3751Ccb0f6c07Eea3E5264F3.png"
+                },
+                {
+                    "id": "0xe5861924185920f4708f6369234a899b5c18963fe46ecc06948f378fa6b8bd0c",
+                    "displayName": "EthStaker",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xD165df4296C85e780509fa1eace0150d945d49Fd.png"
+                },
+                {
+                    "id": "0x39b4a7a07052cd200b017579a2717911881ffd3ed4bd94c085ba08435373c855",
+                    "displayName": "EthernautDAO",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x1AA5A532FC4fEF0F79ad95338694cbF54327ebA4.png"
+                },
+                {
+                    "id": "0x5424b84ed62bd518ea01407d33431174c8026f935d64e33ae88abae3f7b2d943",
+                    "displayName": "Proof of Integrity",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf21b24E6D87C7e5dEC3e419551829F6B39dBB807.png"
+                }
+            ]
+        },
+        {
+            "id": "0xfd89261f78d90d6eed33cebfb1092480d38b8296be0ffcce47fc511452211aa8",
+            "listName": "Teeest List",
+            "impactEvaluationType": "OTHER",
+            "categories": [
+                "DEVELOPER_ECOSYSTEM"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0xb7fe6ccc4321cf93f9a1db80a1706b436d2b5551e123a76658ab469ceede727b",
+                    "displayName": "0xKhmer",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2D8EA9BCf57A8456085947AB4752f3f9104FC7DB.png"
+                },
+                {
+                    "id": "0x663699125622325c65b1c0dd1722e08979ea0707b0735ab5a8de88093f684685",
+                    "displayName": "6551 Studio",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x97a5810acDDF54371e3bBA01C41eFbA8ada268d6.png"
+                },
+                {
+                    "id": "0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
+                    "displayName": "Accessible Education for Web3 Public Goods Changemakers",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA50064D462e17f7091eE62BaebeB18BFEBE21507.png"
+                },
+                {
+                    "id": "0x5877a25584b8265a19cf231a146118b2e7b46a4e7ae9ddadddfd664b903192b1",
+                    "displayName": "Flexible Voting",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF138f8e006947d4482458510AB701299F46c12a3.png"
+                }
+            ]
+        }
+    ],
+    "id": "Project|0x9ed5d5fc438d8bb81db84be0d60f87ac870b4f96088de0e1e5e653c98f485a4a",
+    "prelimResult": "Keep",
+    "reportReason": "",
+    "includedInBallots": 22,
+    "primaryCategory": "End User Experience & Adoption",
+    "recategorization": "Discovery Tooling",
+    "totalOP": 22116.85972344271,
+    "rank": 341
 }

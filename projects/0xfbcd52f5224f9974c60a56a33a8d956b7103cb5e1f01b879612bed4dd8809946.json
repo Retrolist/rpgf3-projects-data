@@ -1,436 +1,438 @@
 {
-  "bio": "Group of beta testers with diverse levels of expertise and backgrounds",
-  "impactCategory": [
-    "OP_STACK"
-  ],
-  "displayName": "OP Security Council Rehearsal Beta Testers",
-  "websiteUrl": "https://gov.optimism.io/tag/security-council",
-  "applicant": {
-    "address": {
-      "address": "0xD52FCd0F86bAb7bFA70F0A33f9c90D3afE87d675",
-      "resolvedName": {
-        "address": "0xD52FCd0F86bAb7bFA70F0A33f9c90D3afE87d675",
-        "name": null
-      }
+    "bio": "Group of beta testers with diverse levels of expertise and backgrounds",
+    "impactCategory": [
+        "OP_STACK"
+    ],
+    "displayName": "OP Security Council Rehearsal Beta Testers",
+    "websiteUrl": "https://gov.optimism.io/tag/security-council",
+    "applicant": {
+        "address": {
+            "address": "0xD52FCd0F86bAb7bFA70F0A33f9c90D3afE87d675",
+            "resolvedName": {
+                "address": "0xD52FCd0F86bAb7bFA70F0A33f9c90D3afE87d675",
+                "name": null
+            }
+        },
+        "id": "Delegate|Delegate|0xD52FCd0F86bAb7bFA70F0A33f9c90D3afE87d675"
     },
-    "id": "Delegate|Delegate|0xD52FCd0F86bAb7bFA70F0A33f9c90D3afE87d675"
-  },
-  "applicantType": "PROJECT",
-  "profile": {
-    "profileImageUrl": null,
-    "bannerImageUrl": null,
-    "id": "OptimistProfile|0x1cdd8178bc9a20fefede741b21bd963237f08d2f5f7f66c7b163b37e8ee5f765"
-  },
-  "impactDescription": "The exhaustive testing, feedback, and bug discovery provided by the Security Council beta testers delivered immense value for reducing risk and increasing preparedness as a foundational governance component was launched.\n\nBy thoroughly stressing testing the procedures and systems during the rehearsals, problematic gaps were identified that could have led to issues down the line. The group's participation enabled ambiguities and vulnerabilities to be addressed proactively before the Council went live.",
-  "contributionDescription": "As beta testers, this group provided numerous valuable contributions to the preparation and readiness of the Optimism Security Council:\n\n- Participated in multiple draft reviews of diverse documents, both internal and external, providing critical feedback on phrasing, procedural clarity, guidelines, and other aspects. \n\n- Volunteered significant time for live rehearsals of Council operations, including mock upgrade approval flows. This hands-on testing surfaced ambiguity in the drafted procedures that could be resolved prior to launch.\n\n- Reported detailed bugs uncovered during reviews and live rehearsals. The issues spanned different areas. Identifying these bugs early was crucial.\n",
-  "contributionLinks": [
-    {
-      "type": "GITHUB_REPO",
-      "url": "https://github.com/ethereum-optimism/superchain-ops/tree/main/mainnet-rehearsals/",
-      "description": "Superchain Operations, Security Council Rehearsals"
-    }
-  ],
-  "impactMetrics": [
-    {
-      "description": "Feedback was mostly qualitative",
-      "number": "1",
-      "url": "https://github.com/ethereum-optimism/superchain-ops/tree/main/mainnet-rehearsals/"
+    "applicantType": "PROJECT",
+    "profile": {
+        "profileImageUrl": null,
+        "bannerImageUrl": null,
+        "id": "OptimistProfile|0x1cdd8178bc9a20fefede741b21bd963237f08d2f5f7f66c7b163b37e8ee5f765"
     },
-    {
-      "description": "Members",
-      "number": "5",
-      "url": "about:blank"
-    }
-  ],
-  "fundingSources": [
-    {
-      "type": "OTHER",
-      "currency": "USD",
-      "amount": 0,
-      "description": "The Beta Testers were volunteering their time in good faith."
-    }
-  ],
-  "lists": [
-    {
-      "id": "0x7337863f396e7e571ac67264c0a76d353930f9260af8a74558295ba71b1dda8e",
-      "listName": "Governance Tools",
-      "impactEvaluationType": "PAIRWISE",
-      "categories": [
-        "PAIRWISE"
-      ],
-      "projectsMetadata": [
+    "impactDescription": "The exhaustive testing, feedback, and bug discovery provided by the Security Council beta testers delivered immense value for reducing risk and increasing preparedness as a foundational governance component was launched.\n\nBy thoroughly stressing testing the procedures and systems during the rehearsals, problematic gaps were identified that could have led to issues down the line. The group's participation enabled ambiguities and vulnerabilities to be addressed proactively before the Council went live.",
+    "contributionDescription": "As beta testers, this group provided numerous valuable contributions to the preparation and readiness of the Optimism Security Council:\n\n- Participated in multiple draft reviews of diverse documents, both internal and external, providing critical feedback on phrasing, procedural clarity, guidelines, and other aspects. \n\n- Volunteered significant time for live rehearsals of Council operations, including mock upgrade approval flows. This hands-on testing surfaced ambiguity in the drafted procedures that could be resolved prior to launch.\n\n- Reported detailed bugs uncovered during reviews and live rehearsals. The issues spanned different areas. Identifying these bugs early was crucial.\n",
+    "contributionLinks": [
         {
-          "id": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
-          "displayName": "Tally",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb5B069370Ef24BC67F114e185D185063CE3479f8.png"
-        },
-        {
-          "id": "0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
-          "displayName": "Snapshot",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a.png"
-        },
-        {
-          "id": "0x81e7df84b024bce587d164ba7fb79059fac84b22c76d38e8bcde247e56e0bf42",
-          "displayName": "Slugs",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcb57c082893450408D432B5d0BC38def93b26040.png"
-        },
-        {
-          "id": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
-          "displayName": "ITU Blockchain",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBEC643BD5b7F5e9190617CA4187ef0455950C51C.png"
-        },
-        {
-          "id": "0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
-          "displayName": "Pairwise",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.png"
-        },
-        {
-          "id": "0xc8ccf4d7e704f62803f942679100759e72a575c8b635ed926debe850f422bbc5",
-          "displayName": "Guild.xyz",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA65eEf5D0566Ef2ED242d8719111e3116333278d.png"
-        },
-        {
-          "id": "0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
-          "displayName": "RadicalxChange Foundation",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3945D766185E2264900C84faC10958B3619C2bD4.png"
-        },
-        {
-          "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
-          "displayName": "Agora",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
-        },
-        {
-          "id": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
-          "displayName": "RegenScore",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png"
-        },
-        {
-          "id": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
-          "displayName": "EIP-4824/ DAOstar",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.png"
-        },
-        {
-          "id": "0x5b595cd2a5a5b2c8ff06b029bc7d31dc5299f91266820fe21092ed62f70c5401",
-          "displayName": "Boardroom",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.png"
-        },
-        {
-          "id": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
-          "displayName": "DeepDAO",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png"
-        },
-        {
-          "id": "0x6d102cab70b4d3bca1330ef5f2f582ad611d92c3b0d912c7629e1f7c918a1a85",
-          "displayName": "Inverter Network",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5E3A2D9ef0878794b6d9bC2e777f0Fe018bc4A75.png"
-        },
-        {
-          "id": "0x5877a25584b8265a19cf231a146118b2e7b46a4e7ae9ddadddfd664b903192b1",
-          "displayName": "Flexible Voting",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF138f8e006947d4482458510AB701299F46c12a3.png"
-        },
-        {
-          "id": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
-          "displayName": "Optimism Resource Center",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png"
-        },
-        {
-          "id": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
-          "displayName": "SEED Latam",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0087a081a9B430fd8f688c6ac5dD24421BfB060D.png"
-        },
-        {
-          "id": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
-          "displayName": "Karma",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png"
-        },
-        {
-          "id": "0x68cef3183236e7717d0fc1c7b18e0fa3c6d7f752d2803686712c8168fe21b400",
-          "displayName": "Zengo: Decentralized Budget",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9.png"
-        },
-        {
-          "id": "0xfbcd52f5224f9974c60a56a33a8d956b7103cb5e1f01b879612bed4dd8809946",
-          "displayName": "OP Security Council Rehearsal Beta Testers",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0xf09ece1ed5aae7b6bce0ec7a84e36117b2ef91cc27b4d7b5734bdde5d3c5b170",
-          "displayName": "EthereansOS",
-          "profileImageUrl": null
+            "type": "GITHUB_REPO",
+            "url": "https://github.com/ethereum-optimism/superchain-ops/tree/main/mainnet-rehearsals/",
+            "description": "Superchain Operations, Security Council Rehearsals"
         }
-      ]
-    },
-    {
-      "id": "0x20714263cf215343bff91433aa2caee4e17320fd1d2ee8f4890a33a5c74637f0",
-      "listName": "Governance Tools",
-      "impactEvaluationType": "PAIRWISE",
-      "categories": [
-        "PAIRWISE"
-      ],
-      "projectsMetadata": [
+    ],
+    "impactMetrics": [
         {
-          "id": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
-          "displayName": "Karma",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png"
+            "description": "Feedback was mostly qualitative",
+            "number": "1",
+            "url": "https://github.com/ethereum-optimism/superchain-ops/tree/main/mainnet-rehearsals/"
         },
         {
-          "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
-          "displayName": "Agora",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
-        },
-        {
-          "id": "0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
-          "displayName": "RadicalxChange Foundation",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3945D766185E2264900C84faC10958B3619C2bD4.png"
-        },
-        {
-          "id": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
-          "displayName": "EIP-4824/ DAOstar",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.png"
-        },
-        {
-          "id": "0xc8ccf4d7e704f62803f942679100759e72a575c8b635ed926debe850f422bbc5",
-          "displayName": "Guild.xyz",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA65eEf5D0566Ef2ED242d8719111e3116333278d.png"
-        },
-        {
-          "id": "0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
-          "displayName": "Pairwise",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.png"
-        },
-        {
-          "id": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
-          "displayName": "RegenScore",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png"
-        },
-        {
-          "id": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
-          "displayName": "Tally",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb5B069370Ef24BC67F114e185D185063CE3479f8.png"
-        },
-        {
-          "id": "0x5b595cd2a5a5b2c8ff06b029bc7d31dc5299f91266820fe21092ed62f70c5401",
-          "displayName": "Boardroom",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.png"
-        },
-        {
-          "id": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
-          "displayName": "ITU Blockchain",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBEC643BD5b7F5e9190617CA4187ef0455950C51C.png"
-        },
-        {
-          "id": "0xfbcd52f5224f9974c60a56a33a8d956b7103cb5e1f01b879612bed4dd8809946",
-          "displayName": "OP Security Council Rehearsal Beta Testers",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
-          "displayName": "DeepDAO",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png"
-        },
-        {
-          "id": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
-          "displayName": "Optimism Resource Center",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png"
-        },
-        {
-          "id": "0x5877a25584b8265a19cf231a146118b2e7b46a4e7ae9ddadddfd664b903192b1",
-          "displayName": "Flexible Voting",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF138f8e006947d4482458510AB701299F46c12a3.png"
+            "description": "Members",
+            "number": "5",
+            "url": "about:blank"
         }
-      ]
-    },
-    {
-      "id": "0xffdbb4daeaf3c155c06a97479d2603c90426b4eda05d4f5a078f2f48a2949904",
-      "listName": "Governance Tools",
-      "impactEvaluationType": "PAIRWISE",
-      "categories": [
-        "PAIRWISE"
-      ],
-      "projectsMetadata": [
+    ],
+    "fundingSources": [
         {
-          "id": "0x6d102cab70b4d3bca1330ef5f2f582ad611d92c3b0d912c7629e1f7c918a1a85",
-          "displayName": "Inverter Network",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5E3A2D9ef0878794b6d9bC2e777f0Fe018bc4A75.png"
-        },
-        {
-          "id": "0x68cef3183236e7717d0fc1c7b18e0fa3c6d7f752d2803686712c8168fe21b400",
-          "displayName": "Zengo: Decentralized Budget",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9.png"
-        },
-        {
-          "id": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
-          "displayName": "ITU Blockchain",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBEC643BD5b7F5e9190617CA4187ef0455950C51C.png"
-        },
-        {
-          "id": "0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
-          "displayName": "Pairwise",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.png"
-        },
-        {
-          "id": "0x5b595cd2a5a5b2c8ff06b029bc7d31dc5299f91266820fe21092ed62f70c5401",
-          "displayName": "Boardroom",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.png"
-        },
-        {
-          "id": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
-          "displayName": "Optimism Resource Center",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png"
-        },
-        {
-          "id": "0x5877a25584b8265a19cf231a146118b2e7b46a4e7ae9ddadddfd664b903192b1",
-          "displayName": "Flexible Voting",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF138f8e006947d4482458510AB701299F46c12a3.png"
-        },
-        {
-          "id": "0x81e7df84b024bce587d164ba7fb79059fac84b22c76d38e8bcde247e56e0bf42",
-          "displayName": "Slugs",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcb57c082893450408D432B5d0BC38def93b26040.png"
-        },
-        {
-          "id": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
-          "displayName": "SEED Latam",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0087a081a9B430fd8f688c6ac5dD24421BfB060D.png"
-        },
-        {
-          "id": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
-          "displayName": "RegenScore",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png"
-        },
-        {
-          "id": "0xf09ece1ed5aae7b6bce0ec7a84e36117b2ef91cc27b4d7b5734bdde5d3c5b170",
-          "displayName": "EthereansOS",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0xfbcd52f5224f9974c60a56a33a8d956b7103cb5e1f01b879612bed4dd8809946",
-          "displayName": "OP Security Council Rehearsal Beta Testers",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
-          "displayName": "Snapshot",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a.png"
-        },
-        {
-          "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
-          "displayName": "Agora",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
-        },
-        {
-          "id": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
-          "displayName": "Karma",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png"
-        },
-        {
-          "id": "0xc8ccf4d7e704f62803f942679100759e72a575c8b635ed926debe850f422bbc5",
-          "displayName": "Guild.xyz",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA65eEf5D0566Ef2ED242d8719111e3116333278d.png"
-        },
-        {
-          "id": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
-          "displayName": "DeepDAO",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png"
+            "type": "OTHER",
+            "currency": "USD",
+            "amount": 0,
+            "description": "The Beta Testers were volunteering their time in good faith."
         }
-      ]
-    },
-    {
-      "id": "0x222e16ecf3202249c953a5ca29644b9045076b800a04c848a0316a3a0c408b9a",
-      "listName": "Governance Tools",
-      "impactEvaluationType": "PAIRWISE",
-      "categories": [
-        "PAIRWISE"
-      ],
-      "projectsMetadata": [
+    ],
+    "lists": [
         {
-          "id": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
-          "displayName": "EIP-4824/ DAOstar",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.png"
+            "id": "0x7337863f396e7e571ac67264c0a76d353930f9260af8a74558295ba71b1dda8e",
+            "listName": "Governance Tools",
+            "impactEvaluationType": "PAIRWISE",
+            "categories": [
+                "PAIRWISE"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
+                    "displayName": "Tally",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb5B069370Ef24BC67F114e185D185063CE3479f8.png"
+                },
+                {
+                    "id": "0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
+                    "displayName": "Snapshot",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a.png"
+                },
+                {
+                    "id": "0x81e7df84b024bce587d164ba7fb79059fac84b22c76d38e8bcde247e56e0bf42",
+                    "displayName": "Slugs",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcb57c082893450408D432B5d0BC38def93b26040.png"
+                },
+                {
+                    "id": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
+                    "displayName": "ITU Blockchain",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBEC643BD5b7F5e9190617CA4187ef0455950C51C.png"
+                },
+                {
+                    "id": "0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
+                    "displayName": "Pairwise",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.png"
+                },
+                {
+                    "id": "0xc8ccf4d7e704f62803f942679100759e72a575c8b635ed926debe850f422bbc5",
+                    "displayName": "Guild.xyz",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA65eEf5D0566Ef2ED242d8719111e3116333278d.png"
+                },
+                {
+                    "id": "0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
+                    "displayName": "RadicalxChange Foundation",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3945D766185E2264900C84faC10958B3619C2bD4.png"
+                },
+                {
+                    "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+                    "displayName": "Agora",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
+                },
+                {
+                    "id": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+                    "displayName": "RegenScore",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png"
+                },
+                {
+                    "id": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+                    "displayName": "EIP-4824/ DAOstar",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.png"
+                },
+                {
+                    "id": "0x5b595cd2a5a5b2c8ff06b029bc7d31dc5299f91266820fe21092ed62f70c5401",
+                    "displayName": "Boardroom",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.png"
+                },
+                {
+                    "id": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+                    "displayName": "DeepDAO",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png"
+                },
+                {
+                    "id": "0x6d102cab70b4d3bca1330ef5f2f582ad611d92c3b0d912c7629e1f7c918a1a85",
+                    "displayName": "Inverter Network",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5E3A2D9ef0878794b6d9bC2e777f0Fe018bc4A75.png"
+                },
+                {
+                    "id": "0x5877a25584b8265a19cf231a146118b2e7b46a4e7ae9ddadddfd664b903192b1",
+                    "displayName": "Flexible Voting",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF138f8e006947d4482458510AB701299F46c12a3.png"
+                },
+                {
+                    "id": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
+                    "displayName": "Optimism Resource Center",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png"
+                },
+                {
+                    "id": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
+                    "displayName": "SEED Latam",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0087a081a9B430fd8f688c6ac5dD24421BfB060D.png"
+                },
+                {
+                    "id": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+                    "displayName": "Karma",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png"
+                },
+                {
+                    "id": "0x68cef3183236e7717d0fc1c7b18e0fa3c6d7f752d2803686712c8168fe21b400",
+                    "displayName": "Zengo: Decentralized Budget",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9.png"
+                },
+                {
+                    "id": "0xfbcd52f5224f9974c60a56a33a8d956b7103cb5e1f01b879612bed4dd8809946",
+                    "displayName": "OP Security Council Rehearsal Beta Testers",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0xf09ece1ed5aae7b6bce0ec7a84e36117b2ef91cc27b4d7b5734bdde5d3c5b170",
+                    "displayName": "EthereansOS",
+                    "profileImageUrl": null
+                }
+            ]
         },
         {
-          "id": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
-          "displayName": "Karma",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png"
+            "id": "0x20714263cf215343bff91433aa2caee4e17320fd1d2ee8f4890a33a5c74637f0",
+            "listName": "Governance Tools",
+            "impactEvaluationType": "PAIRWISE",
+            "categories": [
+                "PAIRWISE"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+                    "displayName": "Karma",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png"
+                },
+                {
+                    "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+                    "displayName": "Agora",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
+                },
+                {
+                    "id": "0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
+                    "displayName": "RadicalxChange Foundation",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3945D766185E2264900C84faC10958B3619C2bD4.png"
+                },
+                {
+                    "id": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+                    "displayName": "EIP-4824/ DAOstar",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.png"
+                },
+                {
+                    "id": "0xc8ccf4d7e704f62803f942679100759e72a575c8b635ed926debe850f422bbc5",
+                    "displayName": "Guild.xyz",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA65eEf5D0566Ef2ED242d8719111e3116333278d.png"
+                },
+                {
+                    "id": "0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
+                    "displayName": "Pairwise",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.png"
+                },
+                {
+                    "id": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+                    "displayName": "RegenScore",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png"
+                },
+                {
+                    "id": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
+                    "displayName": "Tally",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb5B069370Ef24BC67F114e185D185063CE3479f8.png"
+                },
+                {
+                    "id": "0x5b595cd2a5a5b2c8ff06b029bc7d31dc5299f91266820fe21092ed62f70c5401",
+                    "displayName": "Boardroom",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.png"
+                },
+                {
+                    "id": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
+                    "displayName": "ITU Blockchain",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBEC643BD5b7F5e9190617CA4187ef0455950C51C.png"
+                },
+                {
+                    "id": "0xfbcd52f5224f9974c60a56a33a8d956b7103cb5e1f01b879612bed4dd8809946",
+                    "displayName": "OP Security Council Rehearsal Beta Testers",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+                    "displayName": "DeepDAO",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png"
+                },
+                {
+                    "id": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
+                    "displayName": "Optimism Resource Center",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png"
+                },
+                {
+                    "id": "0x5877a25584b8265a19cf231a146118b2e7b46a4e7ae9ddadddfd664b903192b1",
+                    "displayName": "Flexible Voting",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF138f8e006947d4482458510AB701299F46c12a3.png"
+                }
+            ]
         },
         {
-          "id": "0x68cef3183236e7717d0fc1c7b18e0fa3c6d7f752d2803686712c8168fe21b400",
-          "displayName": "Zengo: Decentralized Budget",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9.png"
+            "id": "0xffdbb4daeaf3c155c06a97479d2603c90426b4eda05d4f5a078f2f48a2949904",
+            "listName": "Governance Tools",
+            "impactEvaluationType": "PAIRWISE",
+            "categories": [
+                "PAIRWISE"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0x6d102cab70b4d3bca1330ef5f2f582ad611d92c3b0d912c7629e1f7c918a1a85",
+                    "displayName": "Inverter Network",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5E3A2D9ef0878794b6d9bC2e777f0Fe018bc4A75.png"
+                },
+                {
+                    "id": "0x68cef3183236e7717d0fc1c7b18e0fa3c6d7f752d2803686712c8168fe21b400",
+                    "displayName": "Zengo: Decentralized Budget",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9.png"
+                },
+                {
+                    "id": "0x3658490149938931f0eebde589906a77d803f2d800f5c4df6d6ce5fbd65028c1",
+                    "displayName": "ITU Blockchain",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xBEC643BD5b7F5e9190617CA4187ef0455950C51C.png"
+                },
+                {
+                    "id": "0x9a0fd1467e87c2e10c307f312f3e7625efe4bb8e50ebf22f34fddea233ca6fb9",
+                    "displayName": "Pairwise",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xd1B8dB70Ded72dB850713b2ce7e1A4FfAfAD95d1.png"
+                },
+                {
+                    "id": "0x5b595cd2a5a5b2c8ff06b029bc7d31dc5299f91266820fe21092ed62f70c5401",
+                    "displayName": "Boardroom",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.png"
+                },
+                {
+                    "id": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
+                    "displayName": "Optimism Resource Center",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png"
+                },
+                {
+                    "id": "0x5877a25584b8265a19cf231a146118b2e7b46a4e7ae9ddadddfd664b903192b1",
+                    "displayName": "Flexible Voting",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xF138f8e006947d4482458510AB701299F46c12a3.png"
+                },
+                {
+                    "id": "0x81e7df84b024bce587d164ba7fb79059fac84b22c76d38e8bcde247e56e0bf42",
+                    "displayName": "Slugs",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcb57c082893450408D432B5d0BC38def93b26040.png"
+                },
+                {
+                    "id": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
+                    "displayName": "SEED Latam",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0087a081a9B430fd8f688c6ac5dD24421BfB060D.png"
+                },
+                {
+                    "id": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+                    "displayName": "RegenScore",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png"
+                },
+                {
+                    "id": "0xf09ece1ed5aae7b6bce0ec7a84e36117b2ef91cc27b4d7b5734bdde5d3c5b170",
+                    "displayName": "EthereansOS",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0xfbcd52f5224f9974c60a56a33a8d956b7103cb5e1f01b879612bed4dd8809946",
+                    "displayName": "OP Security Council Rehearsal Beta Testers",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0xc5847921fce07181329154719cc02a2b54bdf4b343d40b519f950402f5aca5cc",
+                    "displayName": "Snapshot",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xf9551c66995eD3Ff9bb05C9Fd7ff148Bd75dc99a.png"
+                },
+                {
+                    "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+                    "displayName": "Agora",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
+                },
+                {
+                    "id": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+                    "displayName": "Karma",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png"
+                },
+                {
+                    "id": "0xc8ccf4d7e704f62803f942679100759e72a575c8b635ed926debe850f422bbc5",
+                    "displayName": "Guild.xyz",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA65eEf5D0566Ef2ED242d8719111e3116333278d.png"
+                },
+                {
+                    "id": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+                    "displayName": "DeepDAO",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png"
+                }
+            ]
         },
         {
-          "id": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
-          "displayName": "SEED Latam",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0087a081a9B430fd8f688c6ac5dD24421BfB060D.png"
-        },
-        {
-          "id": "0xfbcd52f5224f9974c60a56a33a8d956b7103cb5e1f01b879612bed4dd8809946",
-          "displayName": "OP Security Council Rehearsal Beta Testers",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
-          "displayName": "RegenScore",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png"
-        },
-        {
-          "id": "0xc8ccf4d7e704f62803f942679100759e72a575c8b635ed926debe850f422bbc5",
-          "displayName": "Guild.xyz",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA65eEf5D0566Ef2ED242d8719111e3116333278d.png"
-        },
-        {
-          "id": "0x5b595cd2a5a5b2c8ff06b029bc7d31dc5299f91266820fe21092ed62f70c5401",
-          "displayName": "Boardroom",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.png"
-        },
-        {
-          "id": "0x81e7df84b024bce587d164ba7fb79059fac84b22c76d38e8bcde247e56e0bf42",
-          "displayName": "Slugs",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcb57c082893450408D432B5d0BC38def93b26040.png"
-        },
-        {
-          "id": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
-          "displayName": "Optimism Resource Center",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png"
-        },
-        {
-          "id": "0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
-          "displayName": "RadicalxChange Foundation",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3945D766185E2264900C84faC10958B3619C2bD4.png"
-        },
-        {
-          "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
-          "displayName": "Agora",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
-        },
-        {
-          "id": "0xf09ece1ed5aae7b6bce0ec7a84e36117b2ef91cc27b4d7b5734bdde5d3c5b170",
-          "displayName": "EthereansOS",
-          "profileImageUrl": null
-        },
-        {
-          "id": "0x6d102cab70b4d3bca1330ef5f2f582ad611d92c3b0d912c7629e1f7c918a1a85",
-          "displayName": "Inverter Network",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5E3A2D9ef0878794b6d9bC2e777f0Fe018bc4A75.png"
-        },
-        {
-          "id": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
-          "displayName": "DeepDAO",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png"
-        },
-        {
-          "id": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
-          "displayName": "Tally",
-          "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb5B069370Ef24BC67F114e185D185063CE3479f8.png"
+            "id": "0x222e16ecf3202249c953a5ca29644b9045076b800a04c848a0316a3a0c408b9a",
+            "listName": "Governance Tools",
+            "impactEvaluationType": "PAIRWISE",
+            "categories": [
+                "PAIRWISE"
+            ],
+            "projectsMetadata": [
+                {
+                    "id": "0x5a29dfaf262743ef41828989536d1a614874c4f26c414f81cfadaddd5b38e33c",
+                    "displayName": "EIP-4824/ DAOstar",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7AcE0b7a0cFb2980aa25310af5c2602144d58db2.png"
+                },
+                {
+                    "id": "0xfdb45ad951e4e219798dfcc58f2cacfe4be7466de58af866ff0d3d10f2d311f9",
+                    "displayName": "Karma",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7916Dba3A610B020d77c0CCFd4Bd717ee400A5f2.png"
+                },
+                {
+                    "id": "0x68cef3183236e7717d0fc1c7b18e0fa3c6d7f752d2803686712c8168fe21b400",
+                    "displayName": "Zengo: Decentralized Budget",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x04cc6b487566B1C821bEa04d7ac0d23CEDe05cC9.png"
+                },
+                {
+                    "id": "0x603b53d2e62a71f7116d343bb0848a74248a4de3b406893257440d4eddc7113c",
+                    "displayName": "SEED Latam",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x0087a081a9B430fd8f688c6ac5dD24421BfB060D.png"
+                },
+                {
+                    "id": "0xfbcd52f5224f9974c60a56a33a8d956b7103cb5e1f01b879612bed4dd8809946",
+                    "displayName": "OP Security Council Rehearsal Beta Testers",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x6ebde46604a4ff29c1c726d5532a9dea084a1910d1ea83977dc797a8e556c3ba",
+                    "displayName": "RegenScore",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xeCd54dB84c80f451b8dbC91ac31f6b7b900b61C0.png"
+                },
+                {
+                    "id": "0xc8ccf4d7e704f62803f942679100759e72a575c8b635ed926debe850f422bbc5",
+                    "displayName": "Guild.xyz",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xA65eEf5D0566Ef2ED242d8719111e3116333278d.png"
+                },
+                {
+                    "id": "0x5b595cd2a5a5b2c8ff06b029bc7d31dc5299f91266820fe21092ed62f70c5401",
+                    "displayName": "Boardroom",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x6De8448e7d5f58af394CC9540ABe703d0c955dFd.png"
+                },
+                {
+                    "id": "0x81e7df84b024bce587d164ba7fb79059fac84b22c76d38e8bcde247e56e0bf42",
+                    "displayName": "Slugs",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xcb57c082893450408D432B5d0BC38def93b26040.png"
+                },
+                {
+                    "id": "0x5572ace56a0491b438775967a0b8a236ec052a7589b42a802b5c36e29b509098",
+                    "displayName": "Optimism Resource Center",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x7DbdF9F2998c428Dd50c984b9C94967D1A297A0e.png"
+                },
+                {
+                    "id": "0xe143cb75b033e013aa9f87e3fbb212f6e3808a1c18f638b877fcede63ca1f90a",
+                    "displayName": "RadicalxChange Foundation",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x3945D766185E2264900C84faC10958B3619C2bD4.png"
+                },
+                {
+                    "id": "0x45f25a7b0d9b479a1e4a51212bbed44cf13280dda8d5efc93860ba9117892765",
+                    "displayName": "Agora",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xFdFC6E1BbEc01288447222fC8F1AEE55a7C72b7B.png"
+                },
+                {
+                    "id": "0xf09ece1ed5aae7b6bce0ec7a84e36117b2ef91cc27b4d7b5734bdde5d3c5b170",
+                    "displayName": "EthereansOS",
+                    "profileImageUrl": null
+                },
+                {
+                    "id": "0x6d102cab70b4d3bca1330ef5f2f582ad611d92c3b0d912c7629e1f7c918a1a85",
+                    "displayName": "Inverter Network",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x5E3A2D9ef0878794b6d9bC2e777f0Fe018bc4A75.png"
+                },
+                {
+                    "id": "0x577ede5b874e212884380a586d387d9a1ac81ebeb0a5dd780468f4c5b0a413f1",
+                    "displayName": "DeepDAO",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0x2189F1D9fc5EEf0D69abA0BAd981e125A98ABaeC.png"
+                },
+                {
+                    "id": "0x3e7e6a014fd8b2eaa5f29e9ad5347675839fd8433880506406b7bd316dae3764",
+                    "displayName": "Tally",
+                    "profileImageUrl": "https://content.optimism.io/profile/v0/profile-image/10/0xb5B069370Ef24BC67F114e185D185063CE3479f8.png"
+                }
+            ]
         }
-      ]
-    }
-  ],
-  "id": "Project|0xfbcd52f5224f9974c60a56a33a8d956b7103cb5e1f01b879612bed4dd8809946",
-  "prelimResult": "Keep",
-  "reportReason": "",
-  "includedInBallots": 18,
-  "primaryCategory": "Collective Governance",
-  "recategorization": "Optimism Governance Contributions"
+    ],
+    "id": "Project|0xfbcd52f5224f9974c60a56a33a8d956b7103cb5e1f01b879612bed4dd8809946",
+    "prelimResult": "Keep",
+    "reportReason": "",
+    "includedInBallots": 18,
+    "primaryCategory": "Collective Governance",
+    "recategorization": "Optimism Governance Contributions",
+    "totalOP": 11180.169485002494,
+    "rank": 413
 }
